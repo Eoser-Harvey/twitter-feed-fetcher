@@ -1,8 +1,8 @@
-name: Fetch Tweets
+﻿name: Fetch Tweets
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
