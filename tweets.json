@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-06-21T18:21:12.916181+00:00",
+  "fetched_at": "2026-06-21T20:26:50.761484+00:00",
   "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2068763409940705752#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 21 Jun 2026 18:30:07 GMT",
+      "content": "RT by @elonmusk: Falcon 9 launches 24 @Starlink satellites from California",
+      "url": "https://x.com/elonmusk/status/2068763409940705752#m",
+      "tweet_id": "2068763409940705752#m",
+      "translated": "RT @elonmusk：猎鹰 9 号从加利福尼亚州发射了 24 颗 @Starlink 卫星"
+    },
     {
       "id": "tweet_elonmusk_2068754172925591955#m",
       "username": "elonmusk",
@@ -23,14 +33,14 @@
       "translated": "RT by @elonmusk：我们实际上经历过这个"
     },
     {
-      "id": "tweet_elonmusk_2068751590199103855#m",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 21 Jun 2026 17:43:09 GMT",
-      "content": "Wow",
-      "url": "https://x.com/elonmusk/status/2068751590199103855#m",
-      "tweet_id": "2068751590199103855#m",
-      "translated": "哇"
+      "id": "tweet_cz_binance_2068726563282010418#m",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sun, 21 Jun 2026 16:03:42 GMT",
+      "content": "RT by @cz_binance: Web3 can be used for positive things. @cz_binance explains how blockchain makes global micro-donations possible, allowing people anywhere to support missions they believe in. @PrisonProf_BNB support helped raise $500K+ to bring free Prison Professors courses into prisons. Full conversation tomorrow.",
+      "url": "https://x.com/cz_binance/status/2068726563282010418#m",
+      "tweet_id": "2068726563282010418#m",
+      "translated": "@cz_binance 的转发：Web3 可以用于积极的事情。 @cz_binance 解释了区块链如何使全球小额捐赠成为可能，让任何地方的人们都可以支持他们相信的使命。@PrisonProf_BNB 的支持帮助筹集了超过 50 万美元，为监狱提供免费的监狱教授课程。明天全面对话。"
     },
     {
       "id": "tweet_cz_binance_2068586497977225665#m",
@@ -51,15 +61,6 @@
       "url": "https://x.com/cz_binance/status/2068217091841540575#m",
       "tweet_id": "2068217091841540575#m",
       "translated": "只是我个人的看法。 （听自己说话时我会感到畏缩。🤣我希望我以后能学会更简洁地说。）"
-    },
-    {
-      "id": "tweet_cz_binance_2067849938940371312#m",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Fri, 19 Jun 2026 06:00:18 GMT",
-      "content": "端午节快乐！",
-      "url": "https://x.com/cz_binance/status/2067849938940371312#m",
-      "tweet_id": "2067849938940371312#m"
     },
     {
       "id": "tweet_realDonaldTrump_2068370500334637542#m",
@@ -99,7 +100,7 @@
       "content": "That’s a misconception: $SIVE is the laser supplier for next gen architectures, not just CPO scale up. Pluggable, scale out CPO, scale up CPO, NPO, etc. - Sivers and $JBL went god-mode and developed 1.6T optical transceivers with CW lasers. Effectively designing around the EML bottlenecks, and even made things more power efficient. From quotes from Jabil management they created a “relatively dramatic moat”. So for the next gen of 1.6T pluggable transceivers, Sivers seems immediately used. Markets missed this nuance too: after Jabil’s announcement, other pluggable players reached out, and SIVE is working with them now (prob codevelopment, qualification stage). There’s not too many players that build optical transceivers that aren’t vertically integrated like Lumentum (think: Innolight/eoptolink, and maybe others). So these are active developments, just not public material yet and could be a new press release anytime. - for CPO scale out which happens H2 2026 onward like $POET, $SIVE is a laser supplier for those players. - scale up CPO is h2 2027, from Ayar and Nvidia’a NVLink CPO ecosystem and that’s the main volume ramp across optical players. But this is where $SIVE looks like they mog every other player from supply chain mapping. Since they’ve likely been working + designed in with $MRVL Celestial, Lightmatter, Lightelligence and the others since they were small way back when. On top of things like this: For foundries like $GFS, $SIVE is the reference laser. Not even including massive companies like O-Net building ELS with $SIVE, likely for the Asian hyperscalers supply chains. This is why $SIVE is by far my favorite laser chokepoint long. Feels like they’re everywhere in new optical architectures starting beginning of 2027.",
       "url": "https://x.com/aleabitoreddit/status/2068651355422814294#m",
       "tweet_id": "2068651355422814294#m",
-      "translated": "这是一个误解：$SIVE 是下一代架构的激光器供应商，而不仅仅是 CPO 规模化的供应商。可插拔、横向扩展 CPO、纵向扩展 CPO、NPO 等 - Sivers 和 $JBL 走神，开发了带有 CW 激光器的 1.6T 光收发器。有效地围绕 EML 瓶颈进行设计，甚至提高了能效。根据捷普管理层的说法，他们创造了一条“相对引人注目的护城河”。因此，对于下一代 1.6T 可插拔收发器，Sivers 似乎立即被使用。市场也忽略了这一细微差别：在 Jabil 宣布后，其他可插拔厂商伸出援手，SIVE 现在正在与他们合作（问题联合开发、资格阶段）。没有太多厂商生产像 Lumentum 这样非垂直集成的光收发器（想想：旭创科技/易光联，或许还有其他）。因此，这些都是积极的进展，只是还没有公开材料，并且可能随时成为新的新闻稿。 - 对于从 2026 年下半年开始发生的 CPO 扩展（如 $POET），$SIVE 是这些玩家的激光供应商。 - Ayar 和 Nvidia 的 NVLink CPO 生态系统将于 2027 年下半年扩大 CPO，这是光学厂商的主要销量增长。但这就是 $SIVE 看起来从供应链映射中侵占其他参与者的地方。因为他们很可能从很小的时候就开始与 $MRVL Celestial、Lightmatter、Lightelligence 和其他公司一起工作和设计。最重要的是：对于像 $GFS 这样的铸造厂，$SIVE 是参考激光器。甚至不包括像昂纳集团这样使用 $SIVE 构建 ELS 的大型公司，这可能是针对亚洲超大规模供应链的。这就是为什么 $SIVE 是迄今为止我最喜欢的激光阻塞点。感觉从 2027 年初开始，它们将在新的光学架构中无处不在。"
+      "translated": "这是一个误解：$SIVE 是下一代架构的激光器供应商，而不仅仅是 CPO 规模化的供应商。可插拔、横向扩展 CPO、纵向扩展 CPO、NPO 等 - Sivers 和 $JBL 走神，开发了带有 CW 激光器的 1.6T 光收发器。有效地围绕 EML 瓶颈进行设计，甚至提高了能效。根据捷普管理层的说法，他们创造了一条“相对引人注目的护城河”。因此，对于下一代 1.6T 可插拔收发器，Sivers 似乎立即被使用。市场也忽略了这一细微差别：在 Jabil 宣布之后，其他可插拔厂商伸出了援手，SIVE 现在正在与他们合作（问题联合开发、资格阶段）。没有太多的厂商生产像 Lumentum 这样非垂直集成的光收发器（想想：旭创科技/eoptolink，也许还有其他）。因此，这些都是积极的进展，只是还没有公开材料，并且随时可能成为新的新闻稿。 - 对于从 2026 年下半年开始发生的 CPO 扩展（如 $POET），$SIVE 是这些玩家的激光供应商。 - Ayar 和 Nvidia 的 NVLink CPO 生态系统将于 2027 年下半年扩大 CPO，这是光学厂商的主要销量增长。但这就是 $SIVE 看起来从供应链映射中侵占其他参与者的地方。因为他们很可能从很小的时候就开始与 $MRVL Celestial、Lightmatter、Lightelligence 和其他公司一起工作和设计。最重要的是：对于像 $GFS 这样的铸造厂，$SIVE 是参考激光器。甚至不包括像昂纳集团这样使用 $SIVE 构建 ELS 的大型公司，这可能是针对亚洲超大规模供应链的。这就是为什么 $SIVE 是迄今为止我最喜欢的激光阻塞点。感觉从 2027 年初开始，它们将在新的光学架构中无处不在。"
     },
     {
       "id": "tweet_aleabitoreddit_2068603148311404902#m",
@@ -125,6 +126,6 @@
   "stats": {
     "users_success": 4,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
