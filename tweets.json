@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-21T11:43:45.733386+00:00",
-  "total": 12,
+  "fetched_at": "2026-06-21T11:47:51.124779+00:00",
+  "total": 9,
   "tweets": [
     {
       "id": "tweet_elonmusk_2068577952875377062#m",
@@ -62,36 +62,6 @@
       "tweet_id": "2067849938940371312#m"
     },
     {
-      "id": "tweet_realDonaldTrump_2068370500334637542#m",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
-      "content": "RT by @realDonaldTrump: POLL…",
-      "url": "https://x.com/realDonaldTrump/status/2068370500334637542#m",
-      "tweet_id": "2068370500334637542#m",
-      "translated": "RT @realDonaldTrump：投票……"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2068370042018767262#m",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sat, 20 Jun 2026 16:27:01 GMT",
-      "content": "Pinned: POLL: ICE has been abused by the Fake News Media at levels never seen before. They are Great Patriots who work hard, and do a fantastic job in a very hostile environment. Much of this hostility is caused by the Dumocrats and the Fake News. The concept I have had for quite some time — A strong feeling that the name of these Patriots, “ICE,” should be changed to, “NICE,” in that it will totally discombobulate Crooked, Dishonest, and Unpatriotic Reporters and Journalists. For them to say, “We went to a NICE Facility today,” as opposed to “ICE” or, “NICE Agents have deported a Violent Drug Dealer,” they won’t be able to handle it, they will go totally crazy! All it means is adding an “N” (“National”) to “ICE (“Immigration and Customs Enforcement”) — A much more prestigious name. Everyone loves it, but I have been told by the legendary Tom Homan that the Agents do not love it as much as the other population. Who thinks that we should add an “N” to change the name of “ICE” to “NICE?”   Thank you for your attention to this matter! President DJT",
-      "url": "https://x.com/realDonaldTrump/status/2068370042018767262#m",
-      "tweet_id": "2068370042018767262#m",
-      "translated": "已固定：民意调查：假新闻媒体对 ICE 的滥用达到了前所未有的程度。他们是伟大的爱国者，他们努力工作，在非常恶劣的环境中做得非常出色。这种敌意很大程度上是由杜民主派和假新闻引起的。我有一段时间一直有这样的想法——一种强烈的感觉，这些爱国者的名字“ICE”应该改为“NICE”，因为这将彻底扰乱不诚实、不诚实、不爱国的记者和记者。对于他们来说，“我们今天去了一家 NICE 设施”，而不是“ICE”或“NICE 特工驱逐了一名暴力毒贩”，他们将无法处理，他们会完全疯掉！这意味着在“ICE”（“移民和海关执法局”）中添加一个“N”（“国家”）——一个更有声望的名字。每个人都喜欢它，但传奇人物汤姆·霍曼告诉我，特工们并不像其他人那样喜欢它。谁认为我们应该添加一个“N”来将“ICE”的名字改为“NICE”？   感谢您对此事的关注！总裁DJT"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2057968277062582378#m",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Fri, 22 May 2026 23:34:07 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2057968277062582378#m",
-      "tweet_id": "2057968277062582378#m",
-      "translated": "视频"
-    },
-    {
       "id": "tweet_aleabitoreddit_2068651355422814294#m",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -99,7 +69,7 @@
       "content": "That’s a misconception: $SIVE is the laser supplier for next gen architectures, not just CPO scale up. Pluggable, scale out CPO, scale up CPO, NPO, etc. - Sivers and $JBL went god-mode and developed 1.6T optical transceivers with CW lasers. Effectively designing around the EML bottlenecks, and even made things more power efficient. From quotes from Jabil management they created a “relatively dramatic moat”. So for the next gen of 1.6T pluggable transceivers, Sivers seems immediately used. Markets missed this nuance too: after Jabil’s announcement, other pluggable players reached out, and SIVE is working with them now (prob codevelopment, qualification stage). There’s not too many players that build optical transceivers that aren’t vertically integrated like Lumentum (think: Innolight/eoptolink, and maybe others). So these are active developments, just not public material yet and could be a new press release anytime. - for CPO scale out which happens H2 2026 onward like $POET, $SIVE is a laser supplier for those players. - scale up CPO is h2 2027, from Ayar and Nvidia’a NVLink CPO ecosystem and that’s the main volume ramp across optical players. But this is where $SIVE looks like they mog every other player from supply chain mapping. Since they’ve likely been working + designed in with $MRVL Celestial, Lightmatter, Lightelligence and the others since they were small way back when. On top of things like this: For foundries like $GFS, $SIVE is the reference laser. Not even including massive companies like O-Net building ELS with $SIVE, likely for the Asian hyperscalers supply chains. This is why $SIVE is by far my favorite laser chokepoint long. Feels like they’re everywhere in new optical architectures starting beginning of 2027.",
       "url": "https://x.com/aleabitoreddit/status/2068651355422814294#m",
       "tweet_id": "2068651355422814294#m",
-      "translated": "这是一个误解：$SIVE 是下一代架构的激光器供应商，而不仅仅是 CPO 规模化的供应商。可插拔、横向扩展 CPO、纵向扩展 CPO、NPO 等 - Sivers 和 $JBL 走神，开发了带有 CW 激光器的 1.6T 光收发器。有效地围绕 EML 瓶颈进行设计，甚至提高了能效。根据捷普管理层的说法，他们创造了一条“相对引人注目的护城河”。因此，对于下一代 1.6T 可插拔收发器，Sivers 似乎立即被使用。市场也忽略了这一细微差别：在 Jabil 宣布后，其他可插拔厂商伸出援手，SIVE 现在正在与他们合作（问题联合开发、资格阶段）。没有太多厂商生产像 Lumentum 这样非垂直集成的光收发器（想想：旭创科技/易光联，或许还有其他）。因此，这些都是积极的进展，只是还没有公开材料，并且随时可能成为新的新闻稿。 - 对于从 2026 年下半年开始发生的 CPO 扩展（如 $POET），$SIVE 是这些玩家的激光供应商。 - Ayar 和 Nvidia 的 NVLink CPO 生态系统将于 2027 年下半年扩大 CPO，这是光学厂商的主要销量增长。但这就是 $SIVE 看起来从供应链映射中侵占其他参与者的地方。因为他们很可能从很小的时候就开始与 $MRVL Celestial、Lightmatter、Lightelligence 和其他公司一起工作和设计。最重要的是：对于像 $GFS 这样的铸造厂，$SIVE 是参考激光器。甚至不包括像昂纳集团这样使用 $SIVE 构建 ELS 的大型公司，这可能是针对亚洲超大规模供应链的。这就是为什么 $SIVE 是迄今为止我最喜欢的激光阻塞点。感觉从 2027 年初开始，它们将在新的光学架构中无处不在。"
+      "translated": "这是一个误解：$SIVE 是下一代架构的激光器供应商，而不仅仅是 CPO 规模化的供应商。可插拔、横向扩展 CPO、纵向扩展 CPO、NPO 等 - Sivers 和 $JBL 走神，开发了带有 CW 激光器的 1.6T 光收发器。有效地围绕 EML 瓶颈进行设计，甚至提高了能效。根据捷普管理层的说法，他们创造了一条“相对引人注目的护城河”。因此，对于下一代 1.6T 可插拔收发器，Sivers 似乎立即被使用。市场也忽略了这一细微差别：在 Jabil 宣布后，其他可插拔厂商伸出援手，SIVE 现在正在与他们合作（问题联合开发、资格阶段）。没有太多厂商生产像 Lumentum 这样非垂直集成的光收发器（想想：旭创科技/易光联，或许还有其他）。因此，这些都是积极的进展，只是还没有公开材料，并且可能随时成为新的新闻稿。 - 对于从 2026 年下半年开始发生的 CPO 扩展（如 $POET），$SIVE 是这些玩家的激光供应商。 - Ayar 和 Nvidia 的 NVLink CPO 生态系统将于 2027 年下半年扩大 CPO，这是光学厂商的主要销量增长。但这就是 $SIVE 看起来从供应链映射中侵占其他参与者的地方。因为他们很可能从很小的时候就开始与 $MRVL Celestial、Lightmatter、Lightelligence 和其他公司一起工作和设计。最重要的是：对于像 $GFS 这样的铸造厂，$SIVE 是参考激光器。甚至不包括像昂纳集团这样使用 $SIVE 构建 ELS 的大型公司，这可能是针对亚洲超大规模供应链的。这就是为什么 $SIVE 是迄今为止我最喜欢的激光阻塞点。感觉从 2027 年初开始，它们将在新的光学架构中无处不在。"
     },
     {
       "id": "tweet_aleabitoreddit_2068603148311404902#m",
@@ -123,7 +93,7 @@
     }
   ],
   "stats": {
-    "users_success": 4,
-    "users_failed": 0
+    "users_success": 3,
+    "users_failed": 1
   }
 }
