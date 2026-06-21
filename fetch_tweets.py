@@ -1,431 +1,492 @@
 """
-Twitter/X Tweet Fetcher — Multi-method approach
-Runs in GitHub Actions (overseas IP) to bypass China network restrictions.
+Twitter/X Tweet Fetcher — GitHub Actions Overseas Relay
+Uses Nitter instances as proxy to bypass Twitter rate limits and login walls.
 
-Methods (tried in order):
-1. socialdata.tools API (if SOCIALDATA_API_KEY is set) — most reliable
-2. Twitter guest API (bearer token + guest token) — no credentials needed
-3. twikit (if TWITTER_AUTH_TOKEN + TWITTER_CT0 are set) — uses web client cookies
-
-Output: tweets.json committed to repo
+Strategy (in order):
+1. Nitter instances (public, no auth needed) - fastest
+2. FxTwitter API (single tweet, no auth) - for individual tweets
+3. Twitter API (bearer token) - fallback
 """
 import json
 import os
 import sys
 import time
-import urllib.parse
 from datetime import datetime, timezone
+from urllib.parse import quote
 
 import requests
 
 # === Configuration ===
 TARGET_USERS = [
-    {"username": "elonmusk", "display_name": "马斯克", "user_id": "44196397"},
-    {"username": "cz_binance", "display_name": "CZ (赵长鹏)", "user_id": "902926941413453824"},
-    {"username": "realDonaldTrump", "display_name": "特朗普", "user_id": "25073877"},
-    {"username": "aleabitoreddit", "display_name": "Serenity (白毛股神)", "user_id": None},  # Will resolve
+    {"username": "elonmusk", "display_name": "马斯克"},
+    {"username": "cz_binance", "display_name": "CZ (赵长鹏)"},
+    {"username": "realDonaldTrump", "display_name": "特朗普"},
+    {"username": "aleabitoreddit", "display_name": "Serenity (白毛股神)"},
 ]
 
 TWEETS_PER_USER = 3
 OUTPUT_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "tweets.json")
 
-# Twitter public bearer token (embedded in Twitter's web client JS, not a secret)
-TWITTER_BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA"
+# Nitter instances (tried in order)
+NITTER_INSTANCES = [
+    "https://nitter.net",
+    "https://nitter.poast.org",
+    "https://nitter.privacydev.net",
+    "https://nitter.1d4.us",
+    "https://nitter.kavin.rocks",
+    "https://nitter.unixfox.eu",
+    "https://nitter.domain.glass",
+    "https://nitter.esmailelbob.xyz",
+    "https://nitter.space",
+    "https://nitter.moomoo.me",
+]
 
-# Common headers for Twitter API
-TWITTER_HEADERS = {
-    "authorization": f"Bearer {TWITTER_BEARER_TOKEN}",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "x-twitter-active-user": "yes",
-    "x-twitter-client-language": "en",
+# Twitter API bearer token (public, from Twitter web client)
+BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA"
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/json",
 }
+
+SESSION = requests.Session()
+SESSION.headers.update(HEADERS)
 
 
 def log(msg):
-    """Print with timestamp"""
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}")
 
 
 # ============================================================
-# Method 1: socialdata.tools API
+# Method 1: Nitter (RSS-like, no auth needed)
 # ============================================================
-def fetch_via_socialdata(user, api_key):
-    """Fetch tweets using socialdata.tools API"""
-    user_id = user["user_id"]
-    if not user_id:
-        log(f"  [socialdata] No user_id for {user['username']}, trying to resolve...")
-        # Try to get user profile first
+def fetch_via_nitter(user):
+    """Fetch tweets via Nitter frontend"""
+    for instance in NITTER_INSTANCES:
         try:
-            resp = requests.get(
-                f"https://api.socialdata.tools/twitter/profile/{user['username']}",
-                headers={"Authorization": f"Bearer {api_key}", "Accept": "application/json"},
-                timeout=30
-            )
-            if resp.status_code == 200:
-                profile = resp.json()
-                user_id = profile.get("id_str") or str(profile.get("id"))
-                user["user_id"] = user_id
-                log(f"  [socialdata] Resolved {user['username']} -> user_id={user_id}")
+            url = f"{instance}/{user['username']}/rss"
+            log(f"  [nitter] Trying {url}...")
+            resp = SESSION.get(url, timeout=20, allow_redirects=True)
+            if resp.status_code == 200 and "rss" in resp.headers.get("content-type", "").lower():
+                tweets = parse_nitter_rss(resp.text, user)
+                if tweets:
+                    log(f"  [nitter] Got {len(tweets)} tweets from {instance}")
+                    return tweets
+            elif resp.status_code == 200:
+                # Try parsing as HTML
+                tweets = parse_nitter_html(resp.text, user, instance)
+                if tweets:
+                    log(f"  [nitter:html] Got {len(tweets)} tweets from {instance}")
+                    return tweets
             else:
-                log(f"  [socialdata] Failed to resolve user: {resp.status_code}")
-                return []
+                log(f"  [nitter] {instance} returned {resp.status_code}")
         except Exception as e:
-            log(f"  [socialdata] Error resolving user: {e}")
-            return []
-
-    try:
-        resp = requests.get(
-            f"https://api.socialdata.tools/twitter/user/{user_id}/tweets",
-            headers={"Authorization": f"Bearer {api_key}", "Accept": "application/json"},
-            timeout=30
-        )
-        if resp.status_code == 200:
-            data = resp.json()
-            tweets = data.get("tweets", [])
-            log(f"  [socialdata] Got {len(tweets)} tweets for {user['username']}")
-            return parse_socialdata_tweets(tweets, user)
-        elif resp.status_code == 402:
-            log(f"  [socialdata] Insufficient balance (402)")
-            return []
-        else:
-            log(f"  [socialdata] Error: {resp.status_code} - {resp.text[:200]}")
-            return []
-    except Exception as e:
-        log(f"  [socialdata] Exception: {e}")
-        return []
-
-
-def parse_socialdata_tweets(tweets_raw, user):
-    """Parse socialdata.tools tweet format to standard format"""
-    tweets = []
-    for t in tweets_raw[:TWEETS_PER_USER]:
-        # Skip replies (only want original tweets)
-        if t.get("in_reply_to_status_id_str"):
-            continue
-        tweet = {
-            "id": f"tweet_{user['username']}_{t['id_str']}",
-            "username": user["username"],
-            "display_name": user["display_name"],
-            "published_at": t.get("tweet_created_at", ""),
-            "content": t.get("full_text") or t.get("text") or "",
-            "url": f"https://x.com/{user['username']}/status/{t['id_str']}",
-            "tweet_id": t["id_str"],
-        }
-        tweets.append(tweet)
-    return tweets[:TWEETS_PER_USER]
-
-
-# ============================================================
-# Method 2: Twitter Guest API (no credentials needed)
-# ============================================================
-def get_guest_token():
-    """Get a guest token from Twitter API"""
-    try:
-        resp = requests.post(
-            "https://api.twitter.com/1.1/guest/activate.json",
-            headers={
-                "authorization": f"Bearer {TWITTER_BEARER_TOKEN}",
-                "user-agent": TWITTER_HEADERS["user-agent"],
-            },
-            timeout=15
-        )
-        if resp.status_code == 200:
-            token = resp.json().get("guest_token")
-            log(f"  [guest] Got guest token: {token[:20]}...")
-            return token
-        else:
-            log(f"  [guest] Failed to get guest token: {resp.status_code}")
-            return None
-    except Exception as e:
-        log(f"  [guest] Exception getting guest token: {e}")
-        return None
-
-
-def fetch_via_guest_api(user, guest_token):
-    """Fetch tweets using Twitter guest API"""
-    user_id = user["user_id"]
-    if not user_id:
-        log(f"  [guest] No user_id for {user['username']}, skipping")
-        return []
-
-    headers = TWITTER_HEADERS.copy()
-    headers["x-guest-token"] = guest_token
-
-    # Try timeline endpoint
-    try:
-        params = {
-            "include_tweet_replies": "false",
-            "include_tweet_stats": "true",
-            "include_user_entities": "true",
-            "include_promoted_content": "false",
-            "count": str(TWEETS_PER_USER * 2),
-        }
-        resp = requests.get(
-            f"https://api.twitter.com/2/timeline/profile/{user_id}.json",
-            headers=headers,
-            params=params,
-            timeout=30
-        )
-        if resp.status_code == 200:
-            data = resp.json()
-            tweets = parse_twitter_timeline(data, user)
-            log(f"  [guest] Got {len(tweets)} tweets for {user['username']}")
-            return tweets
-        else:
-            log(f"  [guest] Timeline error: {resp.status_code}")
-            # Try search/adaptive as fallback
-            return fetch_via_guest_search(user, guest_token)
-    except Exception as e:
-        log(f"  [guest] Exception: {e}")
-        return []
-
-
-def fetch_via_guest_search(user, guest_token):
-    """Fetch tweets using Twitter search/adaptive endpoint"""
-    headers = TWITTER_HEADERS.copy()
-    headers["x-guest-token"] = guest_token
-
-    try:
-        params = {
-            "q": f"from:{user['username']}",
-            "count": str(TWEETS_PER_USER * 2),
-            "query_source": "typed_query",
-            "pc": "1",
-            "spelling_corrections": "0",
-        }
-        resp = requests.get(
-            "https://api.twitter.com/2/search/adaptive.json",
-            headers=headers,
-            params=params,
-            timeout=30
-        )
-        if resp.status_code == 200:
-            data = resp.json()
-            tweets = parse_twitter_search(data, user)
-            log(f"  [guest-search] Got {len(tweets)} tweets for {user['username']}")
-            return tweets
-        else:
-            log(f"  [guest-search] Error: {resp.status_code}")
-            return []
-    except Exception as e:
-        log(f"  [guest-search] Exception: {e}")
-        return []
-
-
-def parse_twitter_timeline(data, user):
-    """Parse Twitter timeline API response"""
-    tweets = []
-    tweets_data = data.get("globalObjects", {}).get("tweets", {})
-    users_data = data.get("globalObjects", {}).get("users", {})
-
-    # Sort by created_at descending
-    sorted_tweets = sorted(tweets_data.values(), key=lambda t: t.get("created_at", 0), reverse=True)
-
-    for t in sorted_tweets:
-        # Skip replies and retweets
-        if t.get("in_reply_to_status_id_str"):
-            continue
-        if t.get("retweeted_status_id_str"):
+            log(f"  [nitter] {instance} error: {e}")
             continue
 
-        tweet = {
-            "id": f"tweet_{user['username']}_{t['id_str']}",
-            "username": user["username"],
-            "display_name": user["display_name"],
-            "published_at": datetime.fromtimestamp(t["created_at"], tz=timezone.utc).isoformat(),
-            "content": t.get("full_text") or t.get("text") or "",
-            "url": f"https://x.com/{user['username']}/status/{t['id_str']}",
-            "tweet_id": t["id_str"],
-        }
-        tweets.append(tweet)
-        if len(tweets) >= TWEETS_PER_USER:
-            break
-
-    return tweets
+    log(f"  [nitter] All instances failed for {user['username']}")
+    return []
 
 
-def parse_twitter_search(data, user):
-    """Parse Twitter search/adaptive API response"""
-    tweets = []
-    tweets_data = data.get("globalObjects", {}).get("tweets", {})
-
-    # Sort by created_at descending
-    sorted_tweets = sorted(tweets_data.values(), key=lambda t: t.get("created_at", 0), reverse=True)
-
-    for t in sorted_tweets:
-        # Only include tweets from the target user
-        if str(t.get("user_id", "")) != str(user.get("user_id", "")):
-            # Check by username in the user object
-            user_obj = data.get("globalObjects", {}).get("users", {}).get(str(t.get("user_id", "")), {})
-            if user_obj.get("screen_name", "").lower() != user["username"].lower():
-                continue
-
-        # Skip replies
-        if t.get("in_reply_to_status_id_str"):
-            continue
-
-        tweet = {
-            "id": f"tweet_{user['username']}_{t['id_str']}",
-            "username": user["username"],
-            "display_name": user["display_name"],
-            "published_at": datetime.fromtimestamp(t["created_at"], tz=timezone.utc).isoformat(),
-            "content": t.get("full_text") or t.get("text") or "",
-            "url": f"https://x.com/{user['username']}/status/{t['id_str']}",
-            "tweet_id": t["id_str"],
-        }
-        tweets.append(tweet)
-        if len(tweets) >= TWEETS_PER_USER:
-            break
-
-    return tweets
-
-
-# ============================================================
-# Method 3: twikit (web client cookies)
-# ============================================================
-def fetch_via_twikit(user, auth_token, ct0):
-    """Fetch tweets using twikit library"""
+def parse_nitter_rss(rss_text, user):
+    """Parse Nitter RSS feed"""
+    import xml.etree.ElementTree as ET
     try:
-        from twikit import Client
-    except ImportError:
-        log("  [twikit] twikit not installed, skipping")
-        return []
+        root = ET.fromstring(rss_text)
+        ns = {"atom": "http://www.w3.org/2005/Atom"}
+        tweets = []
+        for item in root.findall(".//item")[:TWEETS_PER_USER]:
+            title = item.find("title")
+            link = item.find("link")
+            pub_date = item.find("pubDate")
+            description = item.find("description")
 
-    try:
-        client = Client("en-US")
-        client._session.cookies.set("auth_token", auth_token, domain=".x.com")
-        client._session.cookies.set("ct0", ct0, domain=".x.com")
-        client._set_csrf_token(ct0)
+            title_text = title.text if title is not None else ""
+            link_text = link.text if link is not None else ""
+            pub_date_text = pub_date.text if pub_date is not None else ""
+            desc_text = description.text if description is not None else ""
 
-        user_id = user["user_id"]
-        if not user_id:
-            # Search for user
-            results = client.search_user(user["username"])
-            if results:
-                user_id = results[0].id
-                user["user_id"] = user_id
+            # Clean the title (remove username prefix)
+            if title_text.startswith(f"{user['display_name']}:"):
+                content = title_text[len(f"{user['display_name']}:"):].strip()
+            elif title_text.startswith(f"@"):
+                content = title_text.split(":", 1)[-1].strip() if ":" in title_text else title_text
             else:
-                log(f"  [twikit] User not found: {user['username']}")
-                return []
+                content = title_text
 
-        tweets = client.get_user_tweets(user_id, tweet_type="Tweets", count=TWEETS_PER_USER * 2)
-        parsed = []
-        for t in tweets[:TWEETS_PER_USER]:
-            parsed.append({
-                "id": f"tweet_{user['username']}_{t.id}",
+            # Extract tweet ID from link
+            tweet_id = link_text.rstrip("/").split("/")[-1] if link_text else ""
+
+            tweets.append({
+                "id": f"tweet_{user['username']}_{tweet_id}",
                 "username": user["username"],
                 "display_name": user["display_name"],
-                "published_at": t.created_at.isoformat() if hasattr(t.created_at, 'isoformat') else str(t.created_at),
-                "content": t.text,
-                "url": f"https://x.com/{user['username']}/status/{t.id}",
-                "tweet_id": t.id,
+                "published_at": pub_date_text,
+                "content": content,
+                "url": f"https://x.com/{user['username']}/status/{tweet_id}",
+                "tweet_id": tweet_id,
             })
-        log(f"  [twikit] Got {len(parsed)} tweets for {user['username']}")
-        return parsed
+        return tweets
     except Exception as e:
-        log(f"  [twikit] Exception: {e}")
+        log(f"  [nitter:rss] Parse error: {e}")
+        return []
+
+
+def parse_nitter_html(html_text, user, instance):
+    """Parse Nitter HTML page"""
+    from html.parser import HTMLParser
+
+    class TweetParser(HTMLParser):
+        def __init__(self):
+            super().__init__()
+            self.tweets = []
+            self.current = {}
+            self.in_tweet = False
+            self.in_content = False
+            self.in_link = False
+            self.in_date = False
+            self.text_buffer = ""
+
+        def handle_starttag(self, tag, attrs):
+            attrs_dict = dict(attrs)
+            cls = attrs_dict.get("class", "")
+            if "tweet-body" in cls or "tweet-content" in cls:
+                self.in_tweet = True
+                self.current = {}
+                self.text_buffer = ""
+            if "tweet-link" in cls or "permalink" in cls:
+                href = attrs_dict.get("href", "")
+                if href:
+                    self.current["link"] = href
+                    tid = href.rstrip("/").split("/")[-1]
+                    self.current["tweet_id"] = tid
+            if "tweet-date" in cls:
+                self.in_date = True
+                self.text_buffer = ""
+            if self.in_tweet and tag in ("a", "span", "div"):
+                self.in_content = True
+
+        def handle_data(self, data):
+            if self.in_date:
+                self.text_buffer += data
+            if self.in_content and self.in_tweet:
+                self.text_buffer += data
+
+        def handle_endtag(self, tag):
+            if self.in_date and tag in ("span", "a", "div"):
+                self.current["date"] = self.text_buffer.strip()
+                self.in_date = False
+                self.text_buffer = ""
+            if self.in_tweet and tag in ("div", "p"):
+                content = self.text_buffer.strip()
+                if content and len(content) > 10:
+                    self.current["content"] = content
+                    if self.current.get("tweet_id"):
+                        self.tweets.append(self.current)
+                        self.current = {}
+                    self.in_tweet = False
+                self.text_buffer = ""
+                self.in_content = False
+
+    try:
+        parser = TweetParser()
+        parser.feed(html_text)
+        tweets = []
+        for t in parser.tweets[:TWEETS_PER_USER]:
+            tid = t.get("tweet_id", "")
+            link = t.get("link", "")
+            if link and not link.startswith("http"):
+                link = instance.rstrip("/") + link
+            tweets.append({
+                "id": f"tweet_{user['username']}_{tid}",
+                "username": user["username"],
+                "display_name": user["display_name"],
+                "published_at": t.get("date", ""),
+                "content": t.get("content", ""),
+                "url": f"https://x.com/{user['username']}/status/{tid}",
+                "tweet_id": tid,
+            })
+        return tweets
+    except Exception as e:
+        log(f"  [nitter:html] Parse error: {e}")
         return []
 
 
 # ============================================================
-# Method 4: syndication API (fetch by tweet ID, accessible from China)
+# Method 2: FxTwitter API (single tweet, no auth)
 # ============================================================
-def fetch_via_syndication(tweet_id):
-    """Fetch a single tweet via syndication API (accessible from China)"""
+def fetch_via_fxtwitter(tweet_id):
+    """Fetch a single tweet via FxTwitter API"""
     try:
-        resp = requests.get(
-            f"https://cdn.syndication.twimg.com/tweet-result?id={tweet_id}&token=0",
-            headers={"User-Agent": TWITTER_HEADERS["user-agent"]},
+        url = f"https://api.fxtwitter.com/status/{tweet_id}"
+        resp = SESSION.get(url, timeout=15)
+        if resp.status_code == 200:
+            data = resp.json()
+            tweet = data.get("tweet", {})
+            return {
+                "text": tweet.get("text", ""),
+                "author": tweet.get("author", {}).get("screen_name", ""),
+                "likes": tweet.get("likes", 0),
+                "retweets": tweet.get("retweets", 0),
+                "views": tweet.get("views", 0),
+            }
+    except Exception as e:
+        log(f"  [fxtwitter] Error: {e}")
+    return None
+
+
+# ============================================================
+# Method 3: Twitter API (bearer token + guest token)
+# ============================================================
+def get_guest_token():
+    """Get a guest token from Twitter"""
+    try:
+        resp = SESSION.post(
+            "https://api.twitter.com/1.1/guest/activate.json",
+            headers={"Authorization": f"Bearer {BEARER_TOKEN}"},
             timeout=15
         )
         if resp.status_code == 200:
-            return resp.json()
-        else:
-            log(f"  [syndication] Error for {tweet_id}: {resp.status_code}")
-            return None
+            return resp.json().get("guest_token")
+        log(f"  [twitter] Guest token: {resp.status_code} {resp.text[:200]}")
     except Exception as e:
-        log(f"  [syndication] Exception: {e}")
-        return None
+        log(f"  [twitter] Guest token error: {e}")
+    return None
 
 
-# ============================================================
-# Main fetcher
-# ============================================================
-def fetch_all_tweets():
-    """Fetch tweets for all target users using available methods"""
-    all_tweets = []
-    socialdata_key = os.environ.get("SOCIALDATA_API_KEY", "")
-    twikit_auth_token = os.environ.get("TWITTER_AUTH_TOKEN", "")
-    twikit_ct0 = os.environ.get("TWITTER_CT0", "")
+def fetch_via_twitter_api(user, guest_token):
+    """Fetch tweets via Twitter API"""
+    if not guest_token:
+        return []
 
-    # Determine which methods are available
-    methods = []
-    if socialdata_key:
-        methods.append("socialdata")
-    methods.append("guest")  # Always try guest API
-    if twikit_auth_token and twikit_ct0:
-        methods.append("twikit")
+    headers = {
+        "Authorization": f"Bearer {BEARER_TOKEN}",
+        "x-guest-token": guest_token,
+        "x-twitter-active-user": "yes",
+        "x-twitter-client-language": "en",
+        "User-Agent": HEADERS["User-Agent"],
+    }
 
-    log(f"Available methods: {', '.join(methods)}")
+    try:
+        # Try UserTweets endpoint
+        variables = {
+            "userId": user.get("rest_id", ""),
+            "count": TWEETS_PER_USER * 2,
+            "includePromotedContent": False,
+            "withQuickPromoteEligibilityTweetFields": True,
+            "withVoice": True,
+            "withV2Timeline": True,
+        }
+        features = {
+            "responsive_web_graphql_exclude_directive_enabled": True,
+            "verified_phone_label_enabled": False,
+        }
 
-    # Get guest token if needed
-    guest_token = None
-    if "guest" in methods:
-        log("Getting Twitter guest token...")
-        guest_token = get_guest_token()
+        params = {
+            "variables": json.dumps(variables),
+            "features": json.dumps(features),
+        }
 
-    for user in TARGET_USERS:
-        log(f"\n--- Fetching tweets for {user['display_name']} (@{user['username']}) ---")
-        user_tweets = []
+        resp = SESSION.get(
+            "https://twitter.com/i/api/graphql/resolve/UserTweets",
+            headers=headers,
+            params=params,
+            timeout=30
+        )
 
-        for method in methods:
-            log(f"  Trying method: {method}")
+        if resp.status_code == 200:
+            data = resp.json()
+            tweets = extract_tweets_from_graphql(data, user)
+            if tweets:
+                log(f"  [twitter] Got {len(tweets)} tweets via GraphQL")
+                return tweets
+        else:
+            log(f"  [twitter] GraphQL: {resp.status_code}")
+    except Exception as e:
+        log(f"  [twitter] GraphQL error: {e}")
 
-            if method == "socialdata":
-                user_tweets = fetch_via_socialdata(user, socialdata_key)
-            elif method == "guest":
-                if guest_token:
-                    user_tweets = fetch_via_guest_api(user, guest_token)
-                else:
-                    log("  [guest] No guest token available")
+    return []
+
+
+def extract_tweets_from_graphql(data, user):
+    """Extract tweets from Twitter GraphQL response"""
+    tweets = []
+    try:
+        instructions = []
+        # Navigate the nested structure
+        if "data" in data:
+            data = data["data"]
+        if "user" in data:
+            data = data["user"]
+        if "result" in data:
+            data = data["result"]
+        if "timeline_v2" in data:
+            data = data["timeline_v2"]
+        if "timeline" in data:
+            data = data["timeline"]
+        if "instructions" in data:
+            instructions = data["instructions"]
+
+        for instruction in instructions:
+            if instruction.get("type") != "TimelineAddEntries":
+                continue
+            for entry in instruction.get("entries", []):
+                content = entry.get("content", {})
+                if content.get("entryType") != "TimelineTimelineItem":
                     continue
-            elif method == "twikit":
-                user_tweets = fetch_via_twikit(user, twikit_auth_token, twikit_ct0)
+                item = content.get("itemContent", {})
+                if item.get("itemType") != "TimelineTweet":
+                    continue
+                result = item.get("tweet_results", {}).get("result", {})
+                # Handle retweet
+                if "retweeted_status_result" in result:
+                    result = result["retweeted_status_result"].get("result", {})
 
-            if user_tweets:
-                log(f"  ✓ Method '{method}' succeeded with {len(user_tweets)} tweets")
+                legacy = result.get("legacy", {})
+                if not legacy:
+                    continue
+
+                # Skip replies
+                if legacy.get("in_reply_to_status_id_str"):
+                    continue
+
+                rest_id = result.get("rest_id", "")
+                full_text = legacy.get("full_text", "")
+                created_at = legacy.get("created_at", "")
+
+                tweets.append({
+                    "id": f"tweet_{user['username']}_{rest_id}",
+                    "username": user["username"],
+                    "display_name": user["display_name"],
+                    "published_at": created_at,
+                    "content": full_text,
+                    "url": f"https://x.com/{user['username']}/status/{rest_id}",
+                    "tweet_id": rest_id,
+                })
+                if len(tweets) >= TWEETS_PER_USER:
+                    break
+            if len(tweets) >= TWEETS_PER_USER:
                 break
-            else:
-                log(f"  ✗ Method '{method}' returned no tweets")
-                time.sleep(2)  # Rate limit courtesy
+    except Exception as e:
+        log(f"  [twitter] Extract error: {e}")
 
-        if not user_tweets:
-            log(f"  ⚠ No tweets fetched for {user['username']} from any method")
-
-        all_tweets.extend(user_tweets)
-        time.sleep(2)  # Rate limit courtesy
-
-    return all_tweets
+    return tweets
 
 
+# ============================================================
+# Method 4: Twitter API v2 search (if bearer token works)
+# ============================================================
+def fetch_search_tweets(user):
+    """Fetch tweets from Twitter search (no auth needed for some endpoints)"""
+    try:
+        query = f"from:{user['username']}"
+        url = f"https://api.twitter.com/2/search/adaptive.json?q={quote(query)}&count=20&tweet_mode=extended"
+        headers = {"Authorization": f"Bearer {BEARER_TOKEN}"}
+        resp = SESSION.get(url, headers=headers, timeout=20)
+        if resp.status_code == 200:
+            data = resp.json()
+            tweets = extract_search_tweets(data, user)
+            if tweets:
+                log(f"  [search] Got {len(tweets)} tweets")
+                return tweets
+        else:
+            log(f"  [search] {resp.status_code}")
+    except Exception as e:
+        log(f"  [search] Error: {e}")
+    return []
+
+
+def extract_search_tweets(data, user):
+    """Extract tweets from search API response"""
+    tweets = []
+    try:
+        global_objects = data.get("globalObjects", {})
+        tweets_data = global_objects.get("tweets", {})
+        users_data = global_objects.get("users", {})
+
+        sorted_tweets = sorted(
+            tweets_data.values(),
+            key=lambda t: t.get("created_at", "0"),
+            reverse=True
+        )
+
+        for t in sorted_tweets:
+            if t.get("in_reply_to_status_id_str"):
+                continue
+            tid = t.get("id_str", "")
+            full_text = t.get("full_text", "")
+            created_at = t.get("created_at", "")
+
+            tweets.append({
+                "id": f"tweet_{user['username']}_{tid}",
+                "username": user["username"],
+                "display_name": user["display_name"],
+                "published_at": created_at,
+                "content": full_text,
+                "url": f"https://x.com/{user['username']}/status/{tid}",
+                "tweet_id": tid,
+            })
+            if len(tweets) >= TWEETS_PER_USER:
+                break
+    except Exception as e:
+        log(f"  [search] Extract error: {e}")
+    return tweets
+
+
+# ============================================================
+# Main
+# ============================================================
 def main():
     log("=" * 60)
     log("Twitter/X Tweet Fetcher — GitHub Actions Relay")
-    log(f"Time: {datetime.now(timezone.utc).isoformat()}")
     log(f"Target users: {len(TARGET_USERS)}")
     log("=" * 60)
 
-    tweets = fetch_all_tweets()
+    all_tweets = []
+    guest_token = None
 
+    for user in TARGET_USERS:
+        log(f"\n--- {user['display_name']} (@{user['username']}) ---")
+        user_tweets = []
+
+        # Method 1: Nitter
+        log("  Trying Nitter...")
+        user_tweets = fetch_via_nitter(user)
+        if user_tweets:
+            all_tweets.extend(user_tweets)
+            time.sleep(2)
+            continue
+
+        # Method 2: Twitter API
+        log("  Trying Twitter API...")
+        if not guest_token:
+            guest_token = get_guest_token()
+        user_tweets = fetch_via_twitter_api(user, guest_token)
+        if user_tweets:
+            all_tweets.extend(user_tweets)
+            time.sleep(2)
+            continue
+
+        # Method 3: Search endpoint
+        log("  Trying search endpoint...")
+        user_tweets = fetch_search_tweets(user)
+        if user_tweets:
+            all_tweets.extend(user_tweets)
+            time.sleep(2)
+            continue
+
+        log(f"  ⚠ All methods failed for {user['username']}")
+        time.sleep(2)
+
+    # Save results
     log(f"\n{'=' * 60}")
-    log(f"Total tweets fetched: {len(tweets)}")
+    log(f"Total: {len(all_tweets)} tweets")
     log("=" * 60)
 
-    # Save to file
     output = {
         "fetched_at": datetime.now(timezone.utc).isoformat(),
-        "total": len(tweets),
-        "tweets": tweets,
+        "total": len(all_tweets),
+        "tweets": all_tweets,
     }
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
@@ -433,11 +494,11 @@ def main():
 
     log(f"Saved to {OUTPUT_FILE}")
 
-    # Print summary
-    for t in tweets:
+    for t in all_tweets:
         log(f"  [{t['display_name']}] {t['content'][:80]}...")
 
-    return 0 if tweets else 1
+    # Exit with error if no tweets (to signal failure)
+    return 0 if all_tweets else 1
 
 
 if __name__ == "__main__":
