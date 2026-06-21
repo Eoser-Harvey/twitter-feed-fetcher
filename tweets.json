@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-06-21T20:26:50.761484+00:00",
+  "fetched_at": "2026-06-21T22:17:06.893927+00:00",
   "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2068724810528743573#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 21 Jun 2026 15:56:44 GMT",
+      "content": "RT by @elonmusk: I’ve been living immersed in South Korea for the last month with my wife and daughter. We just leave the stroller outside if we go in anywhere. Because no one’s going to steal it. I met a friend for lunch. He rode his bicycle. He just left it outside in an alley without a lock. It was still there 2 hours later. Another friend mistakenly left his phone on a park bench. When he finally retraced his steps and went back 4 hours later, his iPhone was still there. I walked by a KPop concert. The fans who traveled from outside of Seoul to attend just left their luggage outside the subway station. No locks. No security. Koreans take this for granted. They don’t realize this is not normal for most the world, especially America. When I ask about it, they just respond, “of course, why would someone take it?” Can you imagine any of these things happening or being possible in NYC or LA or *insert city*? And IF, something were to be stolen in Korea, the police would investigate. Because in a high trust society, rules and norms matter. There’s no “under $1000” law. Theft is theft. And trust is trust. Will this social norm ever be possible in America?",
+      "url": "https://x.com/elonmusk/status/2068724810528743573#m",
+      "tweet_id": "2068724810528743573#m",
+      "translated": "RT @elonmusk：上个月我和我的妻子和女儿一直沉浸在韩国的生活中。如果我们去任何地方，我们就把婴儿车留在外面。因为没有人会偷它。我遇见一个朋友共进午餐。他骑自行车。他只是把它留在外面的一条小巷里，没有锁。 2小时后它仍然在那里。另一位朋友错误地将手机落在公园的长椅上。 4 小时后，当他最终原路返回时，他的 iPhone 还在那里。我路过一场韩国流行音乐演唱会。从首尔以外赶来参加的粉丝们只是将行李寄存在地铁站外。没有锁。没有安全感。韩国人认为这是理所当然的。他们没有意识到这对于世界上大多数人来说是不正常的，尤其是美国。当我问起时，他们只是回答：“当然，为什么会有人拿走呢？”您能想象这些事情在纽约或洛杉矶或*插入城市*发生或可能发生吗？如果在韩国有东西被盗，警方就会调查。因为在高度信任的社会中，规则和规范很重要。没有“低于 1000 美元”的法律。盗窃就是盗窃。信任就是信任。这种社会规范在美国可能实现吗？"
+    },
     {
       "id": "tweet_elonmusk_2068763409940705752#m",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2068754172925591955#m",
       "tweet_id": "2068754172925591955#m",
       "translated": "视频"
-    },
-    {
-      "id": "tweet_elonmusk_2068522460647919771#m",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 21 Jun 2026 02:32:40 GMT",
-      "content": "RT by @elonmusk: We actually lived through this",
-      "url": "https://x.com/elonmusk/status/2068522460647919771#m",
-      "tweet_id": "2068522460647919771#m",
-      "translated": "RT by @elonmusk：我们实际上经历过这个"
     },
     {
       "id": "tweet_cz_binance_2068726563282010418#m",
@@ -126,6 +126,6 @@
   "stats": {
     "users_success": 4,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
