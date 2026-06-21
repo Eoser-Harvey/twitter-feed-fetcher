@@ -489,13 +489,20 @@ def main():
     for user in TARGET_USERS:
         log(f"\n--- {user['display_name']} (@{user['username']}) ---")
 
-        # Step 1: Try Twitter Syndication API (official, most reliable)
-        user_tweets = fetch_via_syndication(user)
+        # Dual-source strategy: try both Syndication and Nitter
+        # Different sources work for different users — use whichever succeeds
+        user_tweets_syn = fetch_via_syndication(user)
+        user_tweets_nit = fetch_via_nitter(user) if not user_tweets_syn else []
 
-        # Step 2: Fallback to Nitter (9 verified working instances)
-        if not user_tweets:
-            log(f"  [fallback] Syndication API failed, trying Nitter instances...")
-            user_tweets = fetch_via_nitter(user)
+        if user_tweets_syn:
+            user_tweets = user_tweets_syn
+            log(f"  [source] Syndication API: {len(user_tweets)} tweets")
+        elif user_tweets_nit:
+            user_tweets = user_tweets_nit
+            log(f"  [source] Nitter: {len(user_tweets)} tweets")
+        else:
+            user_tweets = []
+            log(f"  [source] Both sources failed")
 
         if user_tweets:
             all_tweets.extend(user_tweets)
