@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-22T06:32:07.822358+00:00",
+  "fetched_at": "2026-06-22T12:52:24.609142+00:00",
   "total": 12,
   "tweets": [
     {
@@ -30,7 +30,7 @@
       "content": "RT by @elonmusk: There's nothing like celebrating Father's Day with your children, grand kids and great grandsons! I hope you all had a wonderful day. My best, Bill",
       "url": "https://x.com/elonmusk/status/2068846507089137785#m",
       "tweet_id": "2068846507089137785#m",
-      "translated": "RT @elonmusk：没有什么比与您的孩子、孙子和曾孙一起庆祝父亲节更好的了！我希望你们都度过了愉快的一天。我最好的，比尔"
+      "translated": "RT @elonmusk：没有什么比与您的孩子、孙子和曾孙一起庆祝父亲节更好的了！我希望你们都度过了美好的一天。我最好的，比尔"
     },
     {
       "id": "tweet_cz_binance_2068726563282010418#m",
@@ -93,6 +93,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2069005921318281566#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Mon, 22 Jun 2026 10:33:46 GMT",
+      "content": "As for $LPK: Maybe $3B-$5B seems reasonable when they fully volume ramp if I had to guess. Feels more asymmetrical to me personally since it's just a waiting game and they have the customers for glass substrates. Small machine supplier chokepoints usually cap out from TAM though and don't go to $20B+ unless you're ASML or hold many chokepoints like KLAC. Not many dominant \"monopolies\" like these out there right before volume ramp this small: Maybe you have stuff like: - Aixtron (MOCVD) ~$8B - Towa (compression bonding) ~$2B - Techwing (memory handler/cube probes) ~$1.5B - MSScorps (CPO inspection), but pre-ramp. $850M - Riber (quantum MBE), very pre-ramp ~$350M Then LPK Laser for glass core substrates (about to ramp) at ~$730M, which thematically should have more premiums than memory. (eg. major advanced packaging shift, CPO adjacent, etc). Lot of obscure chemical monopolies I know of, but those don't get as much attention cause BOM is much lower than equipment. But for lpk you have: eg. “80% of customers among major global players have selected LPKF equipment”. 70% of LIDE market share target for TGV in the glass-core ramp, should be very material. (disclosure: own, the listed names above aside from techwing/aixtron, NFI). Just kinda the path they go if you follow $AEHR at ~$3.5B now: - <$500m: \"Oh they have no customers!\" ---> (probably somewhere in the middle here). - < $1.5B: \"Maybe volume comes soon!\" - $3B+ onward: \"Looks like they're starting to volume ramp. Just a lesson for the cycle of the chokepoint machine suppliers from my personal experiences.",
+      "url": "https://x.com/aleabitoreddit/status/2069005921318281566#m",
+      "tweet_id": "2069005921318281566#m",
+      "translated": "至于 $LPK：如果我不得不猜测的话，当它们完全成交量上升时，也许 $3B-$5B 似乎是合理的。我个人感觉更不对称，因为这只是一场等待游戏，而且他们有玻璃基板的客户。小型机器供应商的瓶颈通常会受到 TAM 的限制，并且不会达到 $20B+，除非您是 ASML 或拥有许多像 KLAC 这样的瓶颈。在产量如此之小之前，没有多少像这样的主导“垄断”：也许你有这样的东西： - Aixtron (MOCVD) ~$8B - Towa (压缩粘合) ~$2B - Techwing (内存处理器/立方体探针) ~$1.5B - MSScorps (CPO 检查)，但预斜坡。 8.5 亿美元 - Riber（量子 MBE），非常预爬升 ~ 3.5 亿美元，然后用于玻璃芯基板的 LPK 激光（即将爬升）约为 7.3 亿美元，从主题上讲，其溢价应该比内存更高。 （例如，主要先进封装转移、CPO 相邻等）。我知道有很多不起眼的化学垄断企业，但这些企业并没有受到太多关注，因为 BOM 远低于设备。但对于 lpk 你有：例如。 “全球主要企业中80%的客户都选择了LPKF设备”。 LIDE 玻璃芯坡道 TGV 市场份额的 70% 目标应该是非常重要的。 （披露：拥有，上面列出的名称除了 techwing/aixtron、NFI）。如果你现在以 ~$3.5B 的价格关注 $AEHR，他们就会走这样的路： - <$500m：“哦，他们没有客户！” ---> （可能在中间的某个地方）。 - < $1.5B：“也许销量很快就会到来！” - $3B+ 起：“看起来他们开始增加销量。这只是我个人经历中对阻塞点机器供应商周期的一个教训。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2068880324202008964#m",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -111,21 +121,11 @@
       "url": "https://x.com/aleabitoreddit/status/2068866709667406286#m",
       "tweet_id": "2068866709667406286#m",
       "translated": "哇，WUS TW 连续 3 个涨停。很遗憾我没有采取更大的立场。 WUS TW 是 1 我的 2 NAV 套利 + 独立增长交易。如果您想了解背景信息：WUS TW 是一家具有 AI DC 增长的 ~$1.12B PCB 玩家。他们在 WUS Kunshan 的股份为 $4.79B（占 420.4 亿股的 11.4%），所以基本上他们是一家独立增长的 $1.1B PCB 玩家，坐拥价值约 $4.79B 的另一家公司，该公司希望很快在香港市场上市。 Palliser 的一位成功的激进投资者（与 Ajinomoto 和 Toto 一起）正在向他们施压，要求他们与其他一些人一起减持一些股份。看起来这是一个相当疯狂的脱节，但我认为这里有很大的潜力。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2068860355393290703#m",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 22 Jun 2026 00:55:20 GMT",
-      "content": "Jeez, Japanese markets seem happy. Everything from Furukawa, Towa, Harmonic Drive, Ibiden, are up today. Probably after winning the World Cup game 4-0?",
-      "url": "https://x.com/aleabitoreddit/status/2068860355393290703#m",
-      "tweet_id": "2068860355393290703#m",
-      "translated": "天哪，日本市场似乎很高兴。 Furukawa、Towa、Harmonic Drive、Ibiden 的所有产品今天均已上市。可能是在4-0赢得世界杯比赛之后？"
     }
   ],
   "stats": {
     "users_success": 4,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
