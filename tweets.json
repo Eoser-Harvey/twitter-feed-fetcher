@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-06-22T17:45:51.940435+00:00",
-  "total": 9,
+  "fetched_at": "2026-06-22T20:52:26.541471+00:00",
+  "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2069137373896528167#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 22 Jun 2026 19:16:07 GMT",
+      "content": "RT by @elonmusk: They’re trying to do to Elon what they did to POTUS Trump. And Charlie Kirk. Poison the minds of mentally unstable people with lies. The goal is to get the unstable to act out violently. The Left knows exactly what they’re doing. Ro knows exactly what he’s doing. Must stop.",
+      "url": "https://x.com/elonmusk/status/2069137373896528167#m",
+      "tweet_id": "2069137373896528167#m",
+      "translated": "RT @elonmusk：他们正试图对埃隆做他们对美国总统特朗普所做的事情。还有查理柯克。用谎言毒害精神不稳定的人的思想。目标是让不稳定的人采取暴力行动。左派清楚地知道他们在做什么。罗清楚地知道自己在做什么。必须停下来。"
+    },
+    {
+      "id": "tweet_elonmusk_2069117131287851072#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 22 Jun 2026 17:55:41 GMT",
+      "content": "RT by @elonmusk: It’s much more likely cutting USAID SAVED 4.5 million kids lives by no longer funding the dozens of USAID-funded civil wars that had been raging across Africa, Central Asia, LatAm and beyond.",
+      "url": "https://x.com/elonmusk/status/2069117131287851072#m",
+      "tweet_id": "2069117131287851072#m",
+      "translated": "RT @elonmusk：美国国际开发署不再资助在非洲、中亚、拉丁美洲等地肆虐的数十场内战，更有可能导致美国国际开发署拯救了 450 万儿童的生命。"
+    },
+    {
+      "id": "tweet_elonmusk_2069150708952187280#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 22 Jun 2026 20:09:06 GMT",
+      "content": "“Robber” Khanna!",
+      "url": "https://x.com/elonmusk/status/2069150708952187280#m",
+      "tweet_id": "2069150708952187280#m",
+      "translated": "“强盗”卡纳！"
+    },
     {
       "id": "tweet_cz_binance_2068726563282010418#m",
       "username": "cz_binance",
@@ -90,12 +120,12 @@
       "content": "As for $LPK: Maybe $3B-$5B seems reasonable when they fully volume ramp if I had to guess. Feels more asymmetrical to me personally since it's just a waiting game and they have the customers for glass substrates. Small machine supplier chokepoints usually cap out from TAM though and don't go to $20B+ unless you're ASML or hold many chokepoints like KLAC. Not many dominant \"monopolies\" like these out there right before volume ramp this small: Maybe you have stuff like: - Aixtron (MOCVD) ~$8B - Towa (compression bonding) ~$2B - Techwing (memory handler/cube probes) ~$1.5B - MSScorps (CPO inspection), but pre-ramp. $850M - Riber (quantum MBE), very pre-ramp ~$350M Then LPK Laser for glass core substrates (about to ramp) at ~$730M, which thematically should have more premiums than memory. (eg. major advanced packaging shift, CPO adjacent, etc). Lot of obscure chemical monopolies I know of, but those don't get as much attention cause BOM is much lower than equipment. But for lpk you have: eg. “80% of customers among major global players have selected LPKF equipment”. 70% of LIDE market share target for TGV in the glass-core ramp, should be very material. (disclosure: own, the listed names above aside from techwing/aixtron, NFI). Just kinda the path they go if you follow $AEHR at ~$3.5B now: - <$500m: \"Oh they have no customers!\" ---> (probably somewhere in the middle here). - < $1.5B: \"Maybe volume comes soon!\" - $3B+ onward: \"Looks like they're starting to volume ramp. Just a lesson for the cycle of the chokepoint machine suppliers from my personal experiences.",
       "url": "https://x.com/aleabitoreddit/status/2069005921318281566#m",
       "tweet_id": "2069005921318281566#m",
-      "translated": "至于 $LPK：如果我不得不猜测的话，当它们完全成交量上升时，也许 $3B-$5B 似乎是合理的。我个人感觉更不对称，因为这只是一场等待游戏，而且他们有玻璃基板的客户。小型机器供应商的瓶颈通常会受到 TAM 的限制，并且不会达到 $20B+，除非您是 ASML 或拥有许多像 KLAC 这样的瓶颈。在产量如此之小之前，没有多少像这样的主导“垄断”：也许你有这样的东西： - Aixtron (MOCVD) ~$8B - Towa (压缩粘合) ~$2B - Techwing (内存处理器/立方体探针) ~$1.5B - MSScorps (CPO 检查)，但预斜坡。 8.5 亿美元 - Riber（量子 MBE），非常预爬升 ~ 3.5 亿美元，然后用于玻璃芯基板的 LPK 激光（即将爬升）约为 7.3 亿美元，从主题上讲，其溢价应该比内存更高。 （例如，主要先进封装转移、CPO 相邻等）。我知道有很多不起眼的化学垄断企业，但这些企业并没有受到太多关注，因为 BOM 远低于设备。但对于 lpk 你有：例如。 “全球主要企业中80%的客户都选择了LPKF设备”。 LIDE 玻璃芯坡道 TGV 市场份额 70% 的目标应该是非常重要的。 （披露：拥有，上面列出的名称除了 techwing/aixtron、NFI）。如果你现在以 ~$3.5B 的价格关注 $AEHR，他们就会走这样的路： - <$500m：“哦，他们没有客户！” ---> （可能在中间的某个地方）。 - < $1.5B：“也许销量很快就会到来！” - $3B+ 起：“看起来他们开始增加销量。这只是我个人经历中对阻塞点机器供应商周期的一个教训。"
+      "translated": "至于 $LPK：如果我不得不猜测的话，当它们完全成交量上升时，也许 $3B-$5B 似乎是合理的。我个人感觉更不对称，因为这只是一场等待游戏，而且他们有玻璃基板的客户。小型机器供应商的瓶颈通常会受到 TAM 的限制，并且不会达到 $20B+，除非您是 ASML 或拥有许多像 KLAC 这样的瓶颈。在产量如此之小之前，没有多少像这样的主导“垄断”：也许你有这样的东西： - Aixtron (MOCVD) ~$8B - Towa (压缩粘合) ~$2B - Techwing (内存处理器/立方体探针) ~$1.5B - MSScorps (CPO 检查)，但预斜坡。 8.5 亿美元 - Riber（量子 MBE），非常预爬升 ~ 3.5 亿美元，然后用于玻璃芯基板的 LPK 激光（即将爬升）约为 7.3 亿美元，从主题上讲，其溢价应该比内存更高。 （例如，主要先进封装转移、CPO 相邻等）。我知道有很多不起眼的化学垄断企业，但这些企业并没有受到太多关注，因为 BOM 远低于设备。但对于 lpk 你有：例如。 “全球主要企业中80%的客户都选择了LPKF设备”。 LIDE 玻璃芯坡道 TGV 市场份额的 70% 目标应该是非常重要的。 （披露：拥有，上面列出的名称除了 techwing/aixtron、NFI）。如果你现在以 ~$3.5B 的价格关注 $AEHR，他们就会走这样的路： - <$500m：“哦，他们没有客户！” ---> （可能在中间的某个地方）。 - < $1.5B：“也许销量很快就会到来！” - $3B+ 起：“看起来他们开始增加销量。这只是我个人经历中对阻塞点机器供应商周期的一个教训。"
     }
   ],
   "stats": {
-    "users_success": 3,
-    "users_failed": 1,
+    "users_success": 4,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
