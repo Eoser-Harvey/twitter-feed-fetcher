@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-06-22T12:52:24.609142+00:00",
-  "total": 12,
+  "fetched_at": "2026-06-22T17:45:51.940435+00:00",
+  "total": 9,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2068880183663206685#m",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 22 Jun 2026 02:14:08 GMT",
-      "content": "RT by @elonmusk: China added a Germany-sized low carbon electricity grid last year. Nearly 500 TWh more generation, almost all solar and wind, built in factories that still burn coal. Carbon payback came in under two years and power sector emissions still fell. Germany already had zero carbon nuclear power. It shut the last plants down in 2023 because ideology demanded it. Higher prices and more coal and gas backup followed. One country scales clean energy through ruthless pragmatism. The other commits economic suicide and calls it environmental virtue. The West is economically self-destructing by submitting to blue haired lesbians on SSRIs.",
-      "url": "https://x.com/elonmusk/status/2068880183663206685#m",
-      "tweet_id": "2068880183663206685#m",
-      "translated": "RT @elonmusk：中国去年新增了德国规模的低碳电网。发电量增加了近 500 太瓦时，几乎全部是太阳能和风能，建在仍然燃烧煤炭的工厂中。碳回收期不到两年，电力行业排放量仍然下降。德国已经拥有零碳核电。由于意识形态的要求，它于 2023 年关闭了最后一批工厂。随之而来的是更高的价格和更多的煤炭和天然气供应。一个国家通过无情的实用主义扩大清洁能源规模。另一种则是经济自杀，并称之为环境美德。西方国家通过向蓝发女同性恋者屈服于 SSRIs，在经济上自我毁灭。"
-    },
-    {
-      "id": "tweet_elonmusk_2068885116064080018#m",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 22 Jun 2026 02:33:44 GMT",
-      "content": "“Full access” 😂",
-      "url": "https://x.com/elonmusk/status/2068885116064080018#m",
-      "tweet_id": "2068885116064080018#m",
-      "translated": "“完全访问”😂"
-    },
-    {
-      "id": "tweet_elonmusk_2068846507089137785#m",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 22 Jun 2026 00:00:19 GMT",
-      "content": "RT by @elonmusk: There's nothing like celebrating Father's Day with your children, grand kids and great grandsons! I hope you all had a wonderful day. My best, Bill",
-      "url": "https://x.com/elonmusk/status/2068846507089137785#m",
-      "tweet_id": "2068846507089137785#m",
-      "translated": "RT @elonmusk：没有什么比与您的孩子、孙子和曾孙一起庆祝父亲节更好的了！我希望你们都度过了美好的一天。我最好的，比尔"
-    },
     {
       "id": "tweet_cz_binance_2068726563282010418#m",
       "username": "cz_binance",
@@ -93,6 +63,26 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2069068801329774691#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Mon, 22 Jun 2026 14:43:38 GMT",
+      "content": "Wow, $SPCX is now down over $583B in MC... Since Jim Cramer gave a bullish call at $210. Pretty amazing to witness tbh. Inverse Cramer would have returned ~21% in 3 trading days, outperforming a year in your largest indexes?",
+      "url": "https://x.com/aleabitoreddit/status/2069068801329774691#m",
+      "tweet_id": "2069068801329774691#m",
+      "translated": "哇，$SPCX 现在在 MC 中下跌超过 $583B...自从 Jim Cramer 在 $210 发出看涨电话后。亲眼目睹真是太神奇了。 Inverse Cramer 会在 3 个交易日内实现约 21% 的回报，超过您最大指数的一年表现？"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2069062745308254434#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Mon, 22 Jun 2026 14:19:34 GMT",
+      "content": "That’s for you to decide. But just throwing this out there: If $AAOI hits projections, that’s over 800%+ Y/Y growth, and $5.6B revenue annualized off $12.8B MC. My guess is that the $471m/month will keep going up as demand seems to scale exponentially into 2028. I’d expect ASP/margins to go up across the board as well. Especially as the industry is bottlenecked and $AMD + CSPs are going around hunting for LTAs.",
+      "url": "https://x.com/aleabitoreddit/status/2069062745308254434#m",
+      "tweet_id": "2069062745308254434#m",
+      "translated": "这由你决定。但简单地说：如果 $AAOI 达到预测，则同比增长超过 800%+，年化收入为 $5.6B，而 MC 为 $12.8B。我的猜测是，随着需求似乎在 2028 年呈指数级增长，每月 4.71 亿美元将继续上升。我预计平均售价/利润率也会全面上升。特别是当行业遇到瓶颈并且 $AMD + CSP 正在四处寻找长期协议时。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2069005921318281566#m",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -100,32 +90,12 @@
       "content": "As for $LPK: Maybe $3B-$5B seems reasonable when they fully volume ramp if I had to guess. Feels more asymmetrical to me personally since it's just a waiting game and they have the customers for glass substrates. Small machine supplier chokepoints usually cap out from TAM though and don't go to $20B+ unless you're ASML or hold many chokepoints like KLAC. Not many dominant \"monopolies\" like these out there right before volume ramp this small: Maybe you have stuff like: - Aixtron (MOCVD) ~$8B - Towa (compression bonding) ~$2B - Techwing (memory handler/cube probes) ~$1.5B - MSScorps (CPO inspection), but pre-ramp. $850M - Riber (quantum MBE), very pre-ramp ~$350M Then LPK Laser for glass core substrates (about to ramp) at ~$730M, which thematically should have more premiums than memory. (eg. major advanced packaging shift, CPO adjacent, etc). Lot of obscure chemical monopolies I know of, but those don't get as much attention cause BOM is much lower than equipment. But for lpk you have: eg. “80% of customers among major global players have selected LPKF equipment”. 70% of LIDE market share target for TGV in the glass-core ramp, should be very material. (disclosure: own, the listed names above aside from techwing/aixtron, NFI). Just kinda the path they go if you follow $AEHR at ~$3.5B now: - <$500m: \"Oh they have no customers!\" ---> (probably somewhere in the middle here). - < $1.5B: \"Maybe volume comes soon!\" - $3B+ onward: \"Looks like they're starting to volume ramp. Just a lesson for the cycle of the chokepoint machine suppliers from my personal experiences.",
       "url": "https://x.com/aleabitoreddit/status/2069005921318281566#m",
       "tweet_id": "2069005921318281566#m",
-      "translated": "至于 $LPK：如果我不得不猜测的话，当它们完全成交量上升时，也许 $3B-$5B 似乎是合理的。我个人感觉更不对称，因为这只是一场等待游戏，而且他们有玻璃基板的客户。小型机器供应商的瓶颈通常会受到 TAM 的限制，并且不会达到 $20B+，除非您是 ASML 或拥有许多像 KLAC 这样的瓶颈。在产量如此之小之前，没有多少像这样的主导“垄断”：也许你有这样的东西： - Aixtron (MOCVD) ~$8B - Towa (压缩粘合) ~$2B - Techwing (内存处理器/立方体探针) ~$1.5B - MSScorps (CPO 检查)，但预斜坡。 8.5 亿美元 - Riber（量子 MBE），非常预爬升 ~ 3.5 亿美元，然后用于玻璃芯基板的 LPK 激光（即将爬升）约为 7.3 亿美元，从主题上讲，其溢价应该比内存更高。 （例如，主要先进封装转移、CPO 相邻等）。我知道有很多不起眼的化学垄断企业，但这些企业并没有受到太多关注，因为 BOM 远低于设备。但对于 lpk 你有：例如。 “全球主要企业中80%的客户都选择了LPKF设备”。 LIDE 玻璃芯坡道 TGV 市场份额的 70% 目标应该是非常重要的。 （披露：拥有，上面列出的名称除了 techwing/aixtron、NFI）。如果你现在以 ~$3.5B 的价格关注 $AEHR，他们就会走这样的路： - <$500m：“哦，他们没有客户！” ---> （可能在中间的某个地方）。 - < $1.5B：“也许销量很快就会到来！” - $3B+ 起：“看起来他们开始增加销量。这只是我个人经历中对阻塞点机器供应商周期的一个教训。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2068880324202008964#m",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 22 Jun 2026 02:14:41 GMT",
-      "content": "I expect Japan to mog Sweden in the World Cup tomorrow. Probably another 4-0 after Japan's soccer players saw how Swedish media treated $SIVE.",
-      "url": "https://x.com/aleabitoreddit/status/2068880324202008964#m",
-      "tweet_id": "2068880324202008964#m",
-      "translated": "我预计日本队将在明天的世界杯上击败瑞典队。在日本足球运动员看到瑞典媒体对待 $SIVE 的方式后，可能又是一场 4-0 的比赛。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2068866709667406286#m",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 22 Jun 2026 01:20:35 GMT",
-      "content": "Wow, 3 limit ups in a row with WUS TW. Pretty sad I didn't take larger positions. WUS TW is 1 my 2 NAV arbitrage + independent growth trades. If you want context: WUS TW is a ~$1.12B PCB player with AI DC growth. Their stake in WUS Kunshan is $4.79B (11.4% of 42.04 billion) So basically they're a $1.1B PCB player growing independently, sitting on ~$4.79B worth of another company that looks to IPOed on Hong Kong markets soon. And a successful activist investor in Palliser (with Ajinomoto and Toto), is pressuring them to trim some holdings along with a few others. Seems like a pretty insane disconnect, and I think there's a lot of potential here.",
-      "url": "https://x.com/aleabitoreddit/status/2068866709667406286#m",
-      "tweet_id": "2068866709667406286#m",
-      "translated": "哇，WUS TW 连续 3 个涨停。很遗憾我没有采取更大的立场。 WUS TW 是 1 我的 2 NAV 套利 + 独立增长交易。如果您想了解背景信息：WUS TW 是一家具有 AI DC 增长的 ~$1.12B PCB 玩家。他们在 WUS Kunshan 的股份为 $4.79B（占 420.4 亿股的 11.4%），所以基本上他们是一家独立增长的 $1.1B PCB 玩家，坐拥价值约 $4.79B 的另一家公司，该公司希望很快在香港市场上市。 Palliser 的一位成功的激进投资者（与 Ajinomoto 和 Toto 一起）正在向他们施压，要求他们与其他一些人一起减持一些股份。看起来这是一个相当疯狂的脱节，但我认为这里有很大的潜力。"
+      "translated": "至于 $LPK：如果我不得不猜测的话，当它们完全成交量上升时，也许 $3B-$5B 似乎是合理的。我个人感觉更不对称，因为这只是一场等待游戏，而且他们有玻璃基板的客户。小型机器供应商的瓶颈通常会受到 TAM 的限制，并且不会达到 $20B+，除非您是 ASML 或拥有许多像 KLAC 这样的瓶颈。在产量如此之小之前，没有多少像这样的主导“垄断”：也许你有这样的东西： - Aixtron (MOCVD) ~$8B - Towa (压缩粘合) ~$2B - Techwing (内存处理器/立方体探针) ~$1.5B - MSScorps (CPO 检查)，但预斜坡。 8.5 亿美元 - Riber（量子 MBE），非常预爬升 ~ 3.5 亿美元，然后用于玻璃芯基板的 LPK 激光（即将爬升）约为 7.3 亿美元，从主题上讲，其溢价应该比内存更高。 （例如，主要先进封装转移、CPO 相邻等）。我知道有很多不起眼的化学垄断企业，但这些企业并没有受到太多关注，因为 BOM 远低于设备。但对于 lpk 你有：例如。 “全球主要企业中80%的客户都选择了LPKF设备”。 LIDE 玻璃芯坡道 TGV 市场份额 70% 的目标应该是非常重要的。 （披露：拥有，上面列出的名称除了 techwing/aixtron、NFI）。如果你现在以 ~$3.5B 的价格关注 $AEHR，他们就会走这样的路： - <$500m：“哦，他们没有客户！” ---> （可能在中间的某个地方）。 - < $1.5B：“也许销量很快就会到来！” - $3B+ 起：“看起来他们开始增加销量。这只是我个人经历中对阻塞点机器供应商周期的一个教训。"
     }
   ],
   "stats": {
-    "users_success": 4,
-    "users_failed": 0,
+    "users_success": 3,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
