@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-06-23T17:59:09.006025+00:00",
-  "total": 12,
+  "fetched_at": "2026-06-23T20:19:08.320968+00:00",
+  "total": 9,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2069442368047136934#m",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 23 Jun 2026 15:28:03 GMT",
-      "content": "RT by @elonmusk: It’s all fake and gay. Government and media manufactured the “class war” then pivoted to race war to absolve the state of blame for the 2008 crisis, sideline the Tea Party with racist media attacks, and consolidate power in leftist hands. The crash was produced by Fed money printing, Fannie and Freddie guarantees, and government mandates that forced risky loans into the system. When it collapsed the insiders got bailed out. The public absorbed the damage. The Tea Party demanded accountability for the bailouts and spending. Media met that challenge by branding the movement racist from the start. That attack neutralized a direct threat to big government and crony finance. Occupy was tolerated because it focused on banks and left the state’s central role untouched. And since the “racist” accusations worked on the Tea Party, the pivot to race delivered new tools for state expansion. Media usage of the word racist surged after 2012. Equity and systemic claims became the justification for deeper government reach into hiring, lending, education, and speech. The result is consolidated leftist power. The administrative state grew larger and more intrusive. Progressive ideology gained institutional dominance while opposition gets preemptively discredited rather than debated on substance. This sequence protected the government from reckoning with the crisis it created and shifted authority toward those who thrive on bigger government and identity based control. Now the woke narrative is crumbling, watch them pivot back to a class war.",
-      "url": "https://x.com/elonmusk/status/2069442368047136934#m",
-      "tweet_id": "2069442368047136934#m",
-      "translated": "RT @elonmusk：这都是假的，而且是同性恋。政府和媒体制造了“阶级战争”，然后转向种族战争，以免除2008年危机的国家责任，用种族主义媒体攻击来排挤茶党，并巩固左派手中的权力。这次崩溃是由美联储印钞、房利美和房地美担保以及政府强制将高风险贷款纳入系统的指令造成的。当它崩溃时，内部人士得到了救助。公众承受了损失。茶党要求对救助和支出负责。媒体从一开始就将这场运动打上种族主义的标签，以此应对这一挑战。那次攻击消除了对大政府和裙带金融的直接威胁。占领运动之所以被容忍，是因为它把重点放在银行上，而没有触及国家的核心作用。由于“种族主义”指控对茶党起作用，转向种族为国家扩张提供了新工具。 2012 年之后，媒体对“种族主义”一词的使用激增。公平和系统性主张成为政府更深入地介入招聘、贷款、教育和言论领域的理由。结果是左翼势力得到巩固。行政国家变得更大、更具侵入性。进步主义意识形态获得了制度上的主导地位，而反对派却被先发制人地抹黑，而不是就实质内容进行辩论。这一序列使政府免于应对它所造成的危机，并将权力转移给那些依靠更大的政府和基于身份的控制而蓬勃发展的人。现在，觉醒的叙事正在崩溃，看着他们重新回到阶级战争。"
-    },
-    {
-      "id": "tweet_elonmusk_2069475896982118444#m",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 23 Jun 2026 17:41:17 GMT",
-      "content": "USAID should be called USCON",
-      "url": "https://x.com/elonmusk/status/2069475896982118444#m",
-      "tweet_id": "2069475896982118444#m",
-      "translated": "美国国际开发署应该叫USCON"
-    },
-    {
-      "id": "tweet_elonmusk_2069461383758885277#m",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 23 Jun 2026 16:43:37 GMT",
-      "content": "RT by @elonmusk: We need to rename USAID to \"USCON\" to more accurately reflect what the money was being used for.",
-      "url": "https://x.com/elonmusk/status/2069461383758885277#m",
-      "tweet_id": "2069461383758885277#m",
-      "translated": "RT @elonmusk：我们需要将 USAID 重命名为“USCON”，以更准确地反映这笔钱的用途。"
-    },
     {
       "id": "tweet_cz_binance_2069441185983115572#m",
       "username": "cz_binance",
@@ -123,8 +93,8 @@
     }
   ],
   "stats": {
-    "users_success": 4,
-    "users_failed": 0,
+    "users_success": 3,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
