@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-06-22T22:49:16.327405+00:00",
-  "total": 12,
+  "fetched_at": "2026-06-23T00:09:28.020082+00:00",
+  "total": 9,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2069109250153230357#m",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 22 Jun 2026 17:24:22 GMT",
-      "content": "RT by @elonmusk: The new /goal command in Grok Build is a huge update Until now, most coding agents have worked like enhanced chatbots You ask. It responds. You review. You guide it. Repeat /goal changes the entire paradigm Instead of micromanaging every step, you hand Grok Build a single engineering objective, and it plans the work, breaks it into tasks, executes them, verifies the results, and keeps going until the goal is complete It can: • Create an execution plan • Track progress with a checklist • Review code • Inspect webpages • Execute scripts • Verify its own work • Recover from failures • Continue autonomously while you supervise You can monitor and control it with commands like: /goal status /goal pause /goal resume /goal clear This is a shift from “help me write code” to “own this engineering objective” That’s a completely different category of coding agent...and a glimpse of where AI-assisted software development is headed",
-      "url": "https://x.com/elonmusk/status/2069109250153230357#m",
-      "tweet_id": "2069109250153230357#m",
-      "translated": "RT by @elonmusk：Grok Build 中的新 /goal 命令是一个巨大的更新 到目前为止，大多数编码代理都像增强型聊天机器人一样工作。它回应了。你回顾一下。你引导它。重复/目标改变了整个范式 您不必对每一步进行微观管理，而是让 Grok 构建一个单一的工程目标，它会规划工作，将其分解为任务，执行它们，验证结果，并继续执行直到目标完成。 它可以： • 创建执行计划 • 使用清单跟踪进度 • 审查代码 • 检查网页 • 执行脚本 • 验证自己的工作 • 从故障中恢复 • 在您监督时自主继续 您可以使用以下命令监视和控制它： /goal status /goal pad /目标简历 /目标明确这是从“帮助我编写代码”到“拥有这个工程目标”的转变这是一个完全不同的编码代理类别......以及人工智能辅助软件开发的发展方向的一瞥"
-    },
-    {
-      "id": "tweet_elonmusk_2069168079549161491#m",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 22 Jun 2026 21:18:08 GMT",
-      "content": "RT by @elonmusk: Yup. In this case, the driver manually overrode self-driving by pressing the accelerator all the way to 100% of the accel pedal in this residential area. They reached a speed of 73 mph during the crash, and had the accelerator pressed even after the crash.",
-      "url": "https://x.com/elonmusk/status/2069168079549161491#m",
-      "tweet_id": "2069168079549161491#m",
-      "translated": "RT @elonmusk：是的。在这种情况下，驾驶员在该住宅区将油门踩到 100%，手动超越自动驾驶。事故发生时，他们的时速达到了 73 英里/小时，并且在事故发生后仍踩下了油门。"
-    },
-    {
-      "id": "tweet_elonmusk_2069108157800968540#m",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 22 Jun 2026 17:20:01 GMT",
-      "content": "RT by @elonmusk: Elon just sued German state TV for extreme lies. He and his very good German attorney scored a quick win and are continuing. Suing evil and lying politicians and government institutions that abuse their citizens is a service to humanity. Sue them all, Elon.",
-      "url": "https://x.com/elonmusk/status/2069108157800968540#m",
-      "tweet_id": "2069108157800968540#m",
-      "translated": "RT @elonmusk：埃隆刚刚起诉德国国家电视台极端谎言。他和他非常优秀的德国律师很快取得了胜利，并且正在继续。起诉虐待公民的邪恶和撒谎的政客和政府机构是对人类的服务。起诉他们所有人，埃隆。"
-    },
     {
       "id": "tweet_cz_binance_2068726563282010418#m",
       "username": "cz_binance",
@@ -124,8 +94,8 @@
     }
   ],
   "stats": {
-    "users_success": 4,
-    "users_failed": 0,
-    "nitter_healthy": 9
+    "users_success": 3,
+    "users_failed": 1,
+    "nitter_healthy": 10
   }
 }
