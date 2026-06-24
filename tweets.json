@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-06-23T22:17:06.045481+00:00",
-  "total": 6,
+  "fetched_at": "2026-06-24T00:00:54.806430+00:00",
+  "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2069488592443851030#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 23 Jun 2026 18:31:44 GMT",
+      "content": "RT by @elonmusk: 460 criminal charges $6.5B intended loss, $1.4B actual loss $127M seized assets Great work by @SecKennedy, @DAGToddBlanche, @FBIDirectorKash, & @DrOzCMS on today’s fraud takedown. If you’re committing fraud, we’ll find you.",
+      "url": "https://x.com/elonmusk/status/2069488592443851030#m",
+      "tweet_id": "2069488592443851030#m",
+      "translated": "RT by @elonmusk: 460 criminal charges $6.5B intended loss, $1.4B actual loss $127M seized assets Great work by @SecKennedy, @DAGToddBlanche, @FBIDirectorKash, & @DrOzCMS on today’s fraud takedown.如果您进行欺诈，我们会找到您。"
+    },
+    {
+      "id": "tweet_elonmusk_2069535856491483484#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 23 Jun 2026 21:39:32 GMT",
+      "content": "True",
+      "url": "https://x.com/elonmusk/status/2069535856491483484#m",
+      "tweet_id": "2069535856491483484#m",
+      "translated": "真的"
+    },
+    {
+      "id": "tweet_elonmusk_2069535601892987275#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 23 Jun 2026 21:38:32 GMT",
+      "content": "Starlink coming to @AmericanAir next year!",
+      "url": "https://x.com/elonmusk/status/2069535601892987275#m",
+      "tweet_id": "2069535601892987275#m",
+      "translated": "Starlink 明年将登陆@AmericanAir！"
+    },
     {
       "id": "tweet_cz_binance_2069441185983115572#m",
       "username": "cz_binance",
@@ -60,11 +90,41 @@
       "url": "https://x.com/realDonaldTrump/status/2057968277062582378#m",
       "tweet_id": "2057968277062582378#m",
       "translated": "视频"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2069445918114697463#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 23 Jun 2026 15:42:09 GMT",
+      "content": "Curious if anyone's portfolio is green after today's fun day. $KORU: -32.06% $SOXL: -22.98% $IQE: -13.58% $DRAM: -12.6% $AXTI: -12.57% $FLNC: -12.5% $AAOI: -11.2% $SIVE: -11.7% $TSEM: -10.24% $SNDK: -12.5% $MU: -11.8% Sk Hynix: -12.35% Samsung: -9.6% $MRVL: -8.3% $LITE: -7.6% $SOI -7.15% $TSM: -6.1% $AMD: -6.04% Feels like anything high-beta or semis had a steep drop.",
+      "url": "https://x.com/aleabitoreddit/status/2069445918114697463#m",
+      "tweet_id": "2069445918114697463#m",
+      "translated": "好奇在今天有趣的一天之后是否有人的投资组合是绿色的。 $KORU：-32.06% $SOXL：-22.98% $IQE：-13.58% $DRAM：-12.6% $AXTI：-12.57% $FLNC：-12.5% $AAOI：-11.2% $SIVE：-11.7% $TSEM：-10.24% $SNDK：-12.5% $MU：-11.8% Sk海力士：-12.35% 三星：-9.6% $MRVL：-8.3% $LITE：-7.6% $SOI -7.15% $TSM：-6.1% $AMD：-6.04% 感觉任何高贝塔或半成品都急剧下降。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2069430169300070612#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 23 Jun 2026 14:39:35 GMT",
+      "content": "Today, $XFAB (1.23B MC) receives €127.4 million from CHIPS ACT for their MEMS Foundry. \"The «Fab4Micro» in Erfurt is a key project for the technological sovereignty of Germany and Europe, explained Thuringia’s head of government.\" The production start is planned in 2028 (finanzen). With Europe's new CHIPS ACT 2 as a concurrent fundamental tailwind.",
+      "url": "https://x.com/aleabitoreddit/status/2069430169300070612#m",
+      "tweet_id": "2069430169300070612#m",
+      "translated": "今天，$XFAB (1.23B MC) 从 CHIPS ACT 获得 1.274 亿欧元用于其 MEMS 代工厂。图林根州政府首脑解释说：“爱尔福特的‘Fab4Micro’是德国和欧洲技术主权的一个关键项目。”计划于 2028 年开始生产 (finanzen)。欧洲新推出的 CHIPS ACT 2 是同时的基本面推动因素。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2069422448345518346#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 23 Jun 2026 14:08:54 GMT",
+      "content": "Dip looks like a clear buying opportunity for me personally from $MU, $INTC, to $TSM. Since we got a massive drop off BS narratives like 3 rate hikes off no newly material macroeconomic data (which comes out Thursday). If institutions really believed 3 rate hike sellside garbage that BofA put out: They would profit off it with CME/prediction markets. Which are still projecting 74% no rate hike in July. But they don't. So they're feeding retail investors garbage.",
+      "url": "https://x.com/aleabitoreddit/status/2069422448345518346#m",
+      "tweet_id": "2069422448345518346#m",
+      "translated": "对我个人来说，从 $MU、$INTC 到 $TSM，下跌似乎是一个明显的买入机会。由于没有新的宏观经济数据（周四公布），我们得到了诸如 3 次加息之类的 BS 叙述的大幅下降。如果机构真的相信美国银行发布的 3 次加息卖方垃圾：他们将从 CME/预测市场中获利。仍有 74% 的人预计 7 月份不会加息。但他们没有。所以他们正在向散户投资者提供垃圾。"
     }
   ],
   "stats": {
-    "users_success": 2,
-    "users_failed": 2,
+    "users_success": 4,
+    "users_failed": 0,
     "nitter_healthy": 9
   }
 }
