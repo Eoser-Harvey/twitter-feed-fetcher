@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-06-24T17:07:32.675213+00:00",
+  "fetched_at": "2026-06-24T19:50:16.081818+00:00",
   "total": 12,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2069724387855503501#m",
+      "id": "tweet_elonmusk_2069848693080306061#m",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 24 Jun 2026 10:08:42 GMT",
-      "content": "RT by @elonmusk: The strange thing about progress is that it only counts if you ignore where we started. Every civilisation practised slavery. The civilisation that ended it is now told it should feel guilty forever for having once participated. How does that make any sense?",
-      "url": "https://x.com/elonmusk/status/2069724387855503501#m",
-      "tweet_id": "2069724387855503501#m",
-      "translated": "RT @elonmusk：关于进步的奇怪之处在于，只有忽略我们的起点，它才算数。每个文明都实行奴隶制。结束它的文明现在被告知它应该为曾经的参与而永远感到内疚。这有什么意义呢？"
+      "published_at": "Wed, 24 Jun 2026 18:22:39 GMT",
+      "content": "This is happening throughout the West",
+      "url": "https://x.com/elonmusk/status/2069848693080306061#m",
+      "tweet_id": "2069848693080306061#m",
+      "translated": "这种情况正在整个西方发生"
     },
     {
-      "id": "tweet_elonmusk_2069807896767107532#m",
+      "id": "tweet_elonmusk_2069809728088350789#m",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 24 Jun 2026 15:40:32 GMT",
-      "content": "Starlink",
-      "url": "https://x.com/elonmusk/status/2069807896767107532#m",
-      "tweet_id": "2069807896767107532#m",
-      "translated": "星链"
+      "published_at": "Wed, 24 Jun 2026 15:47:49 GMT",
+      "content": "RT by @elonmusk: Use the official @MongoDB plugin in Grok Build to query data, optimize indexes, and manage databases.",
+      "url": "https://x.com/elonmusk/status/2069809728088350789#m",
+      "tweet_id": "2069809728088350789#m",
+      "translated": "RT by @elonmusk：使用 Grok Build 中的官方 @MongoDB 插件来查询数据、优化索引和管理数据库。"
     },
     {
-      "id": "tweet_elonmusk_2069768841043845436#m",
+      "id": "tweet_elonmusk_2069822379434594774#m",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 24 Jun 2026 13:05:20 GMT",
-      "content": "RT by @elonmusk: I’m reading an old collection of interconnected science fiction stories by Jerry Pournelle, written in the early 70s. His best books were later co-authored with Larry Niven, but it is still solid work in my favored “competence porn” genre, with entrepreneurs as protagonists. It stands out to me that he was despairing for America when he wrote the stories. Things looked bad at the time, and his fiction projected it into the future. Social unrest, Vietnam, Watergate, economic recession, energy crisis, and for a patriotic space guy, abandoning Apollo. The backdrop for the stories was that America was unfixable, which is, of course, a motivation to go to space in fiction, but I do think he was genuinely worried by what he saw around him. But over the next decade, things got better, and Jerry had a front row seat for the rise of the technology sector, writing the Chaos Manor column in Byte magazine for many years. He also got to see the founding of SpaceX, a company straight out of a hard SF novel, and they re-flew a landed rocket shortly before he died. Trends aren’t fate. Bad situations can be fixed, and good ones still need to be defended. RIP Jerry, I’m glad you got to see things turn around. https://en.wikipedia.org/wiki/Jerry_Pournelle",
-      "url": "https://x.com/elonmusk/status/2069768841043845436#m",
-      "tweet_id": "2069768841043845436#m",
-      "translated": "RT @elonmusk：我正在读 Jerry Pournelle 写于 70 年代初期的一本古老的相互关联的科幻故事集。他最好的书后来与拉里·尼文（Larry Niven）合着，但在我最喜欢的以企业家为主角的“能力色情”类型中，这仍然是一部扎实的作品。在我看来，当他写这些故事时，他对美国感到绝望。当时的情况看起来很糟糕，他的小说将其投射到了未来。社会动荡、越南、水门事件、经济衰退、能源危机，以及一个爱国的太空人放弃阿波罗。这些故事的背景是美国无法修复，这当然是小说中前往太空的动机，但我确实认为他确实对周围所见感到担忧。但在接下来的十年里，情况有所好转，杰里在科技行业的崛起中占据了前排位置，多年来在《字节》杂志上撰写了《混沌庄园》专栏。他还见证了 SpaceX 的成立，这是一家直接从硬科幻小说中走出来的公司，在他去世前不久，他们重新发射了一枚着陆火箭。趋势不是命运。坏的情况可以解决，好的情况仍然需要捍卫。安息吧，杰瑞，我很高兴你看到事情有好转。 https://en.wikipedia.org/wiki/Jerry_Pournelle"
+      "published_at": "Wed, 24 Jun 2026 16:38:05 GMT",
+      "content": "RT by @elonmusk: Elon just hinted at Neuralink’s next major leap: Not just brain-to-computer control Higher-bandwidth communication between humans, AI, and eventually humans themselves This is much bigger than typing with your brain AI is moving at a speed humans simply can’t match through keyboards, phones, voice, or even language itself We think in rich ideas Then we compress those ideas into words Then someone else has to decode those words back into meaning That is painfully low bandwidth AI does not have that problem Machines can process, respond, and improve at insane speed If humans stay trapped in slow communication loops while AI keeps accelerating, we lose the advantage Neuralink is the bridge “In the long term, Neuralink hopes to play a role in AI risk / civilizational risk reduction by improving human-to-AI and human-to-human bandwidth by several orders of magnitude” — Elon Musk Brain → computer is step one Brain → AI is the next frontier Brain → brain is the long-term vision Human intent moving closer to the speed of thought This is how humans stay competitive in the age of superintelligence Not by slowing AI down By upgrading human bandwidth",
+      "url": "https://x.com/elonmusk/status/2069822379434594774#m",
+      "tweet_id": "2069822379434594774#m",
+      "translated": "@elonmusk 的 RT：Elon 刚刚暗示了 Neuralink 的下一个重大飞跃：不仅仅是大脑到计算机的控制 人类、人工智能，最终是人类本身之间的更高带宽通信 这比用大脑打字要大得多 人工智能正在以人类根本无法通过键盘、电话、语音甚至语言本身匹配的速度移动 我们思考丰富的想法 然后我们将这些想法压缩成单词 然后其他人必须将这些单词解码回含义 这是令人痛苦的低带宽 人工智能不存在这个问题 机器可以以疯狂的速度进行处理、响应和改进 如果人类在 AI 不断加速的同时陷入缓慢的通信循环中，我们就会失去优势 Neuralink 是桥梁“从长远来看，Neuralink 希望通过将人与 AI 和人与人之间的带宽提高几个数量级，在降低 AI 风险/文明风险方面发挥作用” — Elon Musk 大脑 → 计算机是第一步 大脑 → 人工智能是下一个前沿 大脑 → 大脑是长期愿景 人类意图越来越接近思维速度 这就是人类的停留方式超级智能时代的竞争力不是通过放慢人工智能速度而是通过升级人类带宽"
     },
     {
       "id": "tweet_cz_binance_2069794756368965751#m",
