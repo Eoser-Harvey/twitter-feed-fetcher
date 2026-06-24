@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-24T11:47:34.597855+00:00",
+  "fetched_at": "2026-06-24T14:36:06.710600+00:00",
   "total": 12,
   "tweets": [
     {
@@ -92,6 +92,26 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2069780882018459851#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 24 Jun 2026 13:53:11 GMT",
+      "content": "Nancy Pelosi just disclosed: - $1 million - $5 million of $INTC March 2027 calls - 200 $UBER March 19, 2027 call option contracts with a $50 strike price This was done last month May 29th. (her husband is the active trader executing this). Just for the people who like following along Pelosi family trades.",
+      "url": "https://x.com/aleabitoreddit/status/2069780882018459851#m",
+      "tweet_id": "2069780882018459851#m",
+      "translated": "南希·佩洛西刚刚披露： - 100 万美元 - 500 万美元的 INTC 2027 年 3 月看涨期权 - 200 个 2027 年 3 月 19 日的 UBER 看涨期权合约，执行价格为 50 美元 这是上个月 5 月 29 日完成的。 （她的丈夫是执行此操作的活跃交易员）。专为那些喜欢追随佩洛西家族生意的人而设计。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2069775271562289299#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 24 Jun 2026 13:30:53 GMT",
+      "content": "Fun new information discovery from Poet OSINT community: Seems likely that $POET / $SIVE are going to power a Top-3 hyperscaler (either Amazon, Microsoft, Google). Given a Linkedin update from Ankur Singla (CEO of Lumilens). Who stated their customer is one of the top 3 hyperscalers with their post focusing on CPO/NPO. With that clue, seems more likely the Sivers CW DFB light source path over other EML suppliers given it's CPO Scale Out/NPO. If you don't remember, Sivers is the laser supplier to Poet. And Poet has purchase agreements with Lumilens. Always fun to find major potential breadcrumbs in the wild before they're officially confirmed. (Disclosure, long Sive)",
+      "url": "https://x.com/aleabitoreddit/status/2069775271562289299#m",
+      "tweet_id": "2069775271562289299#m",
+      "translated": "Poet OSINT 社区有趣的新信息发现：$POET / $SIVE 很可能将为前 3 名超大规模提供商（亚马逊、微软、谷歌）提供支持。 Ankur Singla（Lumilens 首席执行官）在 Linkedin 上发布了最新消息。谁表示他们的客户是三大超大规模提供商之一，他们的帖子重点关注 CPO/NPO。有了这个线索，考虑到 Sivers CW DFB 光源路径是 CPO 横向扩展/NPO，它似乎比其他 EML 供应商更有可能。如果您不记得，Sivers 是 Poet 的激光供应商。 Poet 与 Lumilens 签订了购买协议。在正式确认之前，在野外找到主要的潜在面包屑总是很有趣的。 （披露，长西夫）"
+    },
+    {
       "id": "tweet_aleabitoreddit_2069675057300082728#m",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -100,26 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2069675057300082728#m",
       "tweet_id": "2069675057300082728#m",
       "translated": "每次我看 OpenLight (private) 时，它似乎都变得越来越大。如果您对 Advantest 之外的公共生态系统感到好奇：用于扩展 PIC 的 $JBL（$SIVE 合作伙伴），用于 DSP 的 $MRVL 和 $MXL，用于代工厂的 $TSEM。 $300394.SZ / TFC Optical（OSAT/组件） 如果您不是合格投资者，通常可以通过公开股票参与私人增长。因为光学播放器看起来非常相互关联。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2069655980456149142#m",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 24 Jun 2026 05:36:52 GMT",
-      "content": "Don’t quite think “siphoned off” is the correct term. It’s capex for massive revenue increase or margin increase down the line. $AMZN is probably my favorite hyperscaler right now and example to give. Amazon’s headcount is absurd, like ~1.57M. If the capex goes into automating their workforce with LLMs. Then transitioning into physical AI: - things from self driving (deliveries) - robotics (Amazon warehouses, shipping automation). + revenue increase from building out AWS compute with Trainium and possibly selling chips too with the Neocloud strat. It’s probably the clearest path forward compared to every hyperscaler out there. $TSLA optimus use case targets is extremely broad as a pitch, but Amazon already has a specific reason to scale robotics for internal opex optimization. As for $GOOGL, probably 2nd right now, AI capex was necessary for defending its Google Search moat Gemini from ChatGPT They also have Google Cloud revenue with efficient TPUs + can sell TPUs like Nvidia GPUs. Gemini user volumes keep going up (despite the lack of contention in frontier benchmarks); and AI strategy to be working for ad optimization too. But there’s less clear paths with physical AI stuff ig? Microsoft and Meta are still trying to convince the market why capex is necessary, (we’re kinda seeing that in effect with Meta’s 30%+ Y/Y revenue growth), but doesn’t look like they’re convinced. As for market narratives, Microsoft Maia seems to be behind, their AI development was stunted from OpenAi investments, so sentiment is kinda in the ground. But think that will change down the road like the 180 with Google. I’m sure all the hyperscalers are seeing the leader effect right now: If you have the leading LLM, people will keep using it. That LLM gets smarter from all the training data; and that gap might be structural. Which is why everyone is kinda rushing the buildout right now, but for some the immediate incentives seem obvious.",
-      "url": "https://x.com/aleabitoreddit/status/2069655980456149142#m",
-      "tweet_id": "2069655980456149142#m",
-      "translated": "不太认为“吸走”是正确的术语。这是用于大幅增加收入或提高利润率的资本支出。 $AMZN 可能是我现在最喜欢的超大规模提供商，也是我举的例子。亚马逊的员工人数很荒谬，大约有 157 万。如果资本支出用于通过法学硕士实现劳动力自动化。然后过渡到物理人工智能： - 自动驾驶（送货） - 机器人（亚马逊仓库、运输自动化）。 + 通过使用 Trainium 构建 AWS 计算以及可能通过 Neocloud strat 销售芯片来增加收入。与现有的所有超大规模提供商相比，这可能是最清晰的前进道路。 TSLA optimus 的用例目标非常广泛，但亚马逊已经有一个具体的理由来扩展机器人技术以优化内部运营支出。至于$GOOGL，现在可能排名第二，人工智能资本支出对于捍卫其谷歌搜索护城河Gemini免受ChatGPT的影响是必要的。他们还通过高效的TPU获得谷歌云收入+可以像Nvidia GPU一样销售TPU。 Gemini 用户量持续上升（尽管前沿基准测试中缺乏争议）；人工智能策略也将致力于广告优化。但是物理人工智能的路径还不太清晰吗？微软和 Meta 仍在试图说服市场为什么资本支出是必要的（我们看到 Meta 的同比收入增长超过 30%），但看起来他们并没有被说服。至于市场叙述，微软 Maia 似乎落后了，他们的人工智能发展受到 OpenAi 投资的阻碍，所以市场情绪有点根深蒂固。但我认为这会像 Google 带来的 180 度转变一样发生变化。我确信所有超大规模企业现在都看到了领导者效应：如果你拥有领先的法学硕士，人们就会继续使用它。法学硕士从所有培训数据中变得更加聪明；这种差距可能是结构性的。这就是为什么现在每个人都在急于扩建，但对于某些人来说，直接的激励似乎是显而易见的。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2069633445903675865#m",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 24 Jun 2026 04:07:20 GMT",
-      "content": "I find it interesting that the degens on $RDDT are starting a viral campaign to save Wendy’s ( $WEN ). The US fast food burger chain. And the stock price is now up 20% overnight. Just for background: Wendy’s is a popular community meme, where people work behind the dumpsters after their portfolios go to 0 from 0DTE options. (No positions, just found it amusing) I wonder if it’s going to work?",
-      "url": "https://x.com/aleabitoreddit/status/2069633445903675865#m",
-      "tweet_id": "2069633445903675865#m",
-      "translated": "我发现有趣的是，$RDDT 上的 degens 正在发起一场病毒式传播活动来拯救 Wendy's ($WEN)。美国快餐汉堡连锁店。现在股价一夜之间上涨了20%。仅供参考：Wendy’s 是一个流行的社区模因，人们在投资组合从 0DTE 选项变成 0 后就在垃圾箱后面工作。 （没有立场，只是觉得有趣）我想知道它是否会起作用？"
     }
   ],
   "stats": {
