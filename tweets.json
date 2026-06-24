@@ -1,36 +1,46 @@
 {
-  "fetched_at": "2026-06-24T14:36:06.710600+00:00",
+  "fetched_at": "2026-06-24T17:07:32.675213+00:00",
   "total": 12,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2069690741295861935#m",
+      "id": "tweet_elonmusk_2069724387855503501#m",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 24 Jun 2026 07:55:00 GMT",
-      "content": "Try Grok",
-      "url": "https://x.com/elonmusk/status/2069690741295861935#m",
-      "tweet_id": "2069690741295861935#m",
-      "translated": "尝试格罗克"
+      "published_at": "Wed, 24 Jun 2026 10:08:42 GMT",
+      "content": "RT by @elonmusk: The strange thing about progress is that it only counts if you ignore where we started. Every civilisation practised slavery. The civilisation that ended it is now told it should feel guilty forever for having once participated. How does that make any sense?",
+      "url": "https://x.com/elonmusk/status/2069724387855503501#m",
+      "tweet_id": "2069724387855503501#m",
+      "translated": "RT @elonmusk：关于进步的奇怪之处在于，只有忽略我们的起点，它才算数。每个文明都实行奴隶制。结束它的文明现在被告知它应该为曾经的参与而永远感到内疚。这有什么意义呢？"
     },
     {
-      "id": "tweet_elonmusk_2069443300038205633#m",
+      "id": "tweet_elonmusk_2069807896767107532#m",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 23 Jun 2026 15:31:45 GMT",
-      "content": "RT by @elonmusk: Report: Female cop shoots Jewish rabbi outside Pornhub office in Canada while hiding from Marxist gunman who killed immigrant officer named Mohamed https://notthebee.com/t23da",
-      "url": "https://x.com/elonmusk/status/2069443300038205633#m",
-      "tweet_id": "2069443300038205633#m",
-      "translated": "RT by @elonmusk：报告：女警察在加拿大 Pornhub 办公室外射杀犹太拉比，同时躲避杀害名叫穆罕默德的移民官员的马克思主义枪手 https://notthebee.com/t23da"
+      "published_at": "Wed, 24 Jun 2026 15:40:32 GMT",
+      "content": "Starlink",
+      "url": "https://x.com/elonmusk/status/2069807896767107532#m",
+      "tweet_id": "2069807896767107532#m",
+      "translated": "星链"
     },
     {
-      "id": "tweet_elonmusk_2069660314870899007#m",
+      "id": "tweet_elonmusk_2069768841043845436#m",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 24 Jun 2026 05:54:06 GMT",
-      "content": "RT by @elonmusk: Grok Build just got another update with many improvements Release Notes: v0.2.64 — 2026-06-24 Features: • Dashboard now displays the current directory and branch; click or press Ctrl+L to change location, or Ctrl+W to dispatch new agents into fresh git worktrees. • /recap now appears as a collapsible tool-style block with a loading spinner while generating. Bug Fixes: • Dashboard arrow keys open agent details and exit overlays; closing an agent now selects the neighboring row. • /usage command and credit warnings are now hidden for API-key authentication. • MCP servers from your user config no longer appear labeled as project-scoped when running from your home directory.",
-      "url": "https://x.com/elonmusk/status/2069660314870899007#m",
-      "tweet_id": "2069660314870899007#m",
-      "translated": "RT by @elonmusk：Grok Build 刚刚获得了另一个更新，其中包含许多改进。发行说明：v0.2.64 — 2026-06-24 功能： • 仪表板现在显示当前目录和分支；单击或按 Ctrl+L 更改位置，或按 Ctrl+W 将新代理分派到新的 git 工作树中。 • /recap 现在显示为可折叠工具样式块，在生成时带有加载微调器。错误修复： • 仪表板箭头键可打开代理详细信息并退出叠加层；关闭代理现在会选择相邻行。 • 现在，对于 API 密钥身份验证，/usage 命令和信用警告已隐藏。 • 从主目录运行时，用户配置中的MCP 服务器不再显示为项目范围的标签。"
+      "published_at": "Wed, 24 Jun 2026 13:05:20 GMT",
+      "content": "RT by @elonmusk: I’m reading an old collection of interconnected science fiction stories by Jerry Pournelle, written in the early 70s. His best books were later co-authored with Larry Niven, but it is still solid work in my favored “competence porn” genre, with entrepreneurs as protagonists. It stands out to me that he was despairing for America when he wrote the stories. Things looked bad at the time, and his fiction projected it into the future. Social unrest, Vietnam, Watergate, economic recession, energy crisis, and for a patriotic space guy, abandoning Apollo. The backdrop for the stories was that America was unfixable, which is, of course, a motivation to go to space in fiction, but I do think he was genuinely worried by what he saw around him. But over the next decade, things got better, and Jerry had a front row seat for the rise of the technology sector, writing the Chaos Manor column in Byte magazine for many years. He also got to see the founding of SpaceX, a company straight out of a hard SF novel, and they re-flew a landed rocket shortly before he died. Trends aren’t fate. Bad situations can be fixed, and good ones still need to be defended. RIP Jerry, I’m glad you got to see things turn around. https://en.wikipedia.org/wiki/Jerry_Pournelle",
+      "url": "https://x.com/elonmusk/status/2069768841043845436#m",
+      "tweet_id": "2069768841043845436#m",
+      "translated": "RT @elonmusk：我正在读 Jerry Pournelle 写于 70 年代初期的一本古老的相互关联的科幻故事集。他最好的书后来与拉里·尼文（Larry Niven）合着，但在我最喜欢的以企业家为主角的“能力色情”类型中，这仍然是一部扎实的作品。在我看来，当他写这些故事时，他对美国感到绝望。当时的情况看起来很糟糕，他的小说将其投射到了未来。社会动荡、越南、水门事件、经济衰退、能源危机，以及一个爱国的太空人放弃阿波罗。这些故事的背景是美国无法修复，这当然是小说中前往太空的动机，但我确实认为他确实对周围所见感到担忧。但在接下来的十年里，情况有所好转，杰里在科技行业的崛起中占据了前排位置，多年来在《字节》杂志上撰写了《混沌庄园》专栏。他还见证了 SpaceX 的成立，这是一家直接从硬科幻小说中走出来的公司，在他去世前不久，他们重新发射了一枚着陆火箭。趋势不是命运。坏的情况可以解决，好的情况仍然需要捍卫。安息吧，杰瑞，我很高兴你看到事情有好转。 https://en.wikipedia.org/wiki/Jerry_Pournelle"
+    },
+    {
+      "id": "tweet_cz_binance_2069794756368965751#m",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Wed, 24 Jun 2026 14:48:19 GMT",
+      "content": "Good to see this finally getting to closure. » CEA Industries ends proxy fight with YZi Labs, adds Ella Zhang as board director | The Block https://www.theblock.co/post/405919/cea-industries-ends-proxy-fight-yzi-labs",
+      "url": "https://x.com/cz_binance/status/2069794756368965751#m",
+      "tweet_id": "2069794756368965751#m",
+      "translated": "很高兴看到这最终结束。 » CEA Industries 结束与 YZi Labs 的代理权争夺战，Ella 张出任董事会董事 |区块 https://www.theblock.co/post/405919/cea-industries-ends-proxy-fight-yzi-labs"
     },
     {
       "id": "tweet_cz_binance_2069627268012367961#m",
@@ -51,15 +61,6 @@
       "url": "https://x.com/cz_binance/status/2069441185983115572#m",
       "tweet_id": "2069441185983115572#m",
       "translated": "与@CoinDesk 聊得很好，涵盖了很多话题。"
-    },
-    {
-      "id": "tweet_cz_binance_2068937310285279245#m",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Mon, 22 Jun 2026 06:01:08 GMT",
-      "content": "RT by @cz_binance: CZ最新判断：AI与加密货币，将如何重塑未来金融与科技格局？ 在Web3与AI的时代浪潮下，加密货币领域的未来走向始终备受关注。近日，币安创始人CZ在一次深度对话中，就加密货币与AI的关系、行业发展前景等话题，给出了极具前瞻性的判断。 一、加密货币：永不消失的超级赛道 CZ坚定表示，加密货币根本不可能消失，加密行业未来绝对是个超级大赛道。他强调，自己对加密行业的信念不仅从未动摇，反而“强了亿点点”。 尽管加密货币价格仍会上蹿下跳，但整个行业的扩张趋势不可逆，“说真的，想变小都难”。这一判断，给所有关注加密领域的从业者和投资者注入了一剂强心针。 二、AI与加密货币：双向赋能的奇妙化学反应 当下，大量资金涌入AI领域，大家疯狂追逐AI概念股。但CZ却指出一个有趣的现象：很多人正在用加密货币炒AI股票。这意味着，AI热潮反而为加密市场带来了更多流量和交易量。 更关键的是，AI的发展离不开高效的支付与交易体系。传统支付系统在面对AI自主交易、自动付款等需求时，显得力不从心——让AI举着护照完成身份认证？这根本不现实。 而区块链天生的API驱动属性，使其成为AI在金融交易领域的绝佳搭档。CZ预言，未来几个月内，AI自主交易、自动付款等功能就会出现，且会深度结合加密货币。想象一下，你的AI助手能自主用加密货币帮你买票、炒股、处理各类事务，这将是怎样的效率革命？ 三、技术巨头的共生：互联网、区块链与AI 有人担心AI会抢占加密行业的资源，但CZ对此“完全不慌”。他认为，互联网、区块链、AI是三个超级重量级的技术巨头，三者并非取代关系，而是共生发展。 区块链出现后互联网并未消失，同理，AI的崛起也不会让区块链黯然失色。甚至，流入AI的资金，最终很多还是会回流到区块链领域，这种趋势会越来越明显。毕竟，加密行业本身就是“钱的生意”，市场上的资金足够支撑多个超级赛道的繁荣。 结语 在CZ的视角里，AI与加密货币的融合是必然趋势，这不仅会重塑金融交易的形态，更将为整个科技与商业世界带来颠覆性的变革。对于我们而言，看懂这两大领域的化学反应，或许就能在未来的浪潮中抢占先机。 @cz_binance",
-      "url": "https://x.com/cz_binance/status/2068937310285279245#m",
-      "tweet_id": "2068937310285279245#m"
     },
     {
       "id": "tweet_realDonaldTrump_2068370500334637542#m",
