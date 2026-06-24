@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-06-24T04:20:35.700912+00:00",
+  "fetched_at": "2026-06-24T08:24:50.354773+00:00",
   "total": 9,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2069690741295861935#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 24 Jun 2026 07:55:00 GMT",
+      "content": "Try Grok",
+      "url": "https://x.com/elonmusk/status/2069690741295861935#m",
+      "tweet_id": "2069690741295861935#m",
+      "translated": "尝试格罗克"
+    },
+    {
+      "id": "tweet_elonmusk_2069443300038205633#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 23 Jun 2026 15:31:45 GMT",
+      "content": "RT by @elonmusk: Report: Female cop shoots Jewish rabbi outside Pornhub office in Canada while hiding from Marxist gunman who killed immigrant officer named Mohamed https://notthebee.com/t23da",
+      "url": "https://x.com/elonmusk/status/2069443300038205633#m",
+      "tweet_id": "2069443300038205633#m",
+      "translated": "RT by @elonmusk：报告：女警察在加拿大 Pornhub 办公室外射杀犹太拉比，同时躲避杀害名叫穆罕默德的移民官员的马克思主义枪手 https://notthebee.com/t23da"
+    },
+    {
+      "id": "tweet_elonmusk_2069660314870899007#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 24 Jun 2026 05:54:06 GMT",
+      "content": "RT by @elonmusk: Grok Build just got another update with many improvements Release Notes: v0.2.64 — 2026-06-24 Features: • Dashboard now displays the current directory and branch; click or press Ctrl+L to change location, or Ctrl+W to dispatch new agents into fresh git worktrees. • /recap now appears as a collapsible tool-style block with a loading spinner while generating. Bug Fixes: • Dashboard arrow keys open agent details and exit overlays; closing an agent now selects the neighboring row. • /usage command and credit warnings are now hidden for API-key authentication. • MCP servers from your user config no longer appear labeled as project-scoped when running from your home directory.",
+      "url": "https://x.com/elonmusk/status/2069660314870899007#m",
+      "tweet_id": "2069660314870899007#m",
+      "translated": "RT by @elonmusk：Grok Build 刚刚获得了另一个更新，其中包含许多改进。发行说明：v0.2.64 — 2026-06-24 功能： • 仪表板现在显示当前目录和分支；单击或按 Ctrl+L 更改位置，或按 Ctrl+W 将新代理分派到新的 git 工作树中。 • /recap 现在显示为可折叠工具样式块，在生成时带有加载微调器。错误修复： • 仪表板箭头键可打开代理详细信息并退出叠加层；关闭代理现在会选择相邻行。 • 现在，对于 API 密钥身份验证，/usage 命令和信用警告已隐藏。 • 从主目录运行时，用户配置中的MCP 服务器不再显示为项目范围的标签。"
+    },
     {
       "id": "tweet_cz_binance_2069627268012367961#m",
       "username": "cz_binance",
@@ -32,34 +62,24 @@
       "tweet_id": "2068937310285279245#m"
     },
     {
-      "id": "tweet_realDonaldTrump_2068370500334637542#m",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
-      "content": "RT by @realDonaldTrump: POLL…",
-      "url": "https://x.com/realDonaldTrump/status/2068370500334637542#m",
-      "tweet_id": "2068370500334637542#m",
-      "translated": "RT @realDonaldTrump：投票……"
+      "id": "tweet_aleabitoreddit_2069675057300082728#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 24 Jun 2026 06:52:41 GMT",
+      "content": "OpenLight (private) seems to get bigger and bigger every time I look at it. If you’re curious about their public ecosystem outside of Advantest: $JBL ( $SIVE partner ) for scaling PICs $MRVL and $MXL for DSPs $TSEM for the foundry. $300394.SZ / TFC Optical (OSAT/subassembly) Can often get exposure into private growth through public equities if you’re not an accredited investor. Since optical players look very interconnected.",
+      "url": "https://x.com/aleabitoreddit/status/2069675057300082728#m",
+      "tweet_id": "2069675057300082728#m",
+      "translated": "每次我看 OpenLight（私人）时，它似乎都变得越来越大。如果您对 Advantest 之外的公共生态系统感到好奇：用于扩展 PIC 的 $JBL（$SIVE 合作伙伴），用于 DSP 的 $MRVL 和 $MXL，用于代工厂的 $TSEM。 $300394.SZ / TFC Optical（OSAT/组件） 如果您不是合格投资者，通常可以通过公开股票参与私人增长。因为光学播放器看起来非常相互关联。"
     },
     {
-      "id": "tweet_realDonaldTrump_2068370042018767262#m",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sat, 20 Jun 2026 16:27:01 GMT",
-      "content": "POLL: ICE has been abused by the Fake News Media at levels never seen before. They are Great Patriots who work hard, and do a fantastic job in a very hostile environment. Much of this hostility is caused by the Dumocrats and the Fake News. The concept I have had for quite some time — A strong feeling that the name of these Patriots, “ICE,” should be changed to, “NICE,” in that it will totally discombobulate Crooked, Dishonest, and Unpatriotic Reporters and Journalists. For them to say, “We went to a NICE Facility today,” as opposed to “ICE” or, “NICE Agents have deported a Violent Drug Dealer,” they won’t be able to handle it, they will go totally crazy! All it means is adding an “N” (“National”) to “ICE (“Immigration and Customs Enforcement”) — A much more prestigious name. Everyone loves it, but I have been told by the legendary Tom Homan that the Agents do not love it as much as the other population. Who thinks that we should add an “N” to change the name of “ICE” to “NICE?”   Thank you for your attention to this matter! President DJT",
-      "url": "https://x.com/realDonaldTrump/status/2068370042018767262#m",
-      "tweet_id": "2068370042018767262#m",
-      "translated": "民意调查：假新闻媒体对 ICE 的滥用达到了前所未有的程度。他们是伟大的爱国者，他们努力工作，在非常恶劣的环境中做得非常出色。这种敌意很大程度上是由杜民主派和假新闻引起的。我有一段时间一直有这样的想法——一种强烈的感觉，这些爱国者的名字“ICE”应该改为“NICE”，因为这将彻底扰乱不诚实、不诚实、不爱国的记者和记者。对于他们来说，“我们今天去了一家 NICE 设施”，而不是“ICE”或“NICE 特工驱逐了一名暴力毒贩”，他们将无法处理，他们会完全疯掉！这意味着在“ICE”（“移民和海关执法局”）中添加一个“N”（“国家”）——一个更有声望的名字。每个人都喜欢它，但传奇人物汤姆·霍曼告诉我，特工们并不像其他人那样喜欢它。谁认为我们应该添加一个“N”来将“ICE”的名字改为“NICE”？   感谢您对此事的关注！总裁DJT"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2057968277062582378#m",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Fri, 22 May 2026 23:34:07 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2057968277062582378#m",
-      "tweet_id": "2057968277062582378#m",
-      "translated": "视频"
+      "id": "tweet_aleabitoreddit_2069655980456149142#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 24 Jun 2026 05:36:52 GMT",
+      "content": "Don’t quite think “siphoned off” is the correct term. It’s capex for massive revenue increase or margin increase down the line. $AMZN is probably my favorite hyperscaler right now and example to give. Amazon’s headcount is absurd, like ~1.57M. If the capex goes into automating their workforce with LLMs. Then transitioning into physical AI: - things from self driving (deliveries) - robotics (Amazon warehouses, shipping automation). + revenue increase from building out AWS compute with Trainium and possibly selling chips too with the Neocloud strat. It’s probably the clearest path forward compared to every hyperscaler out there. $TSLA optimus use case targets is extremely broad as a pitch, but Amazon already has a specific reason to scale robotics for internal opex optimization. As for $GOOGL, probably 2nd right now, AI capex was necessary for defending its Google Search moat Gemini from ChatGPT They also have Google Cloud revenue with efficient TPUs + can sell TPUs like Nvidia GPUs. Gemini user volumes keep going up (despite the lack of contention in frontier benchmarks); and AI strategy to be working for ad optimization too. But there’s less clear paths with physical AI stuff ig? Microsoft and Meta are still trying to convince the market why capex is necessary, (we’re kinda seeing that in effect with Meta’s 30%+ Y/Y revenue growth), but doesn’t look like they’re convinced. As for market narratives, Microsoft Maia seems to be behind, their AI development was stunted from OpenAi investments, so sentiment is kinda in the ground. But think that will change down the road like the 180 with Google. I’m sure all the hyperscalers are seeing the leader effect right now: If you have the leading LLM, people will keep using it. That LLM gets smarter from all the training data; and that gap might be structural. Which is why everyone is kinda rushing the buildout right now, but for some the immediate incentives seem obvious.",
+      "url": "https://x.com/aleabitoreddit/status/2069655980456149142#m",
+      "tweet_id": "2069655980456149142#m",
+      "translated": "不太认为“吸走”是正确的术语。这是用于大幅增加收入或提高利润率的资本支出。 $AMZN 可能是我现在最喜欢的超大规模提供商，也是我举的例子。亚马逊的员工人数很荒谬，大约有 157 万。如果资本支出用于通过法学硕士实现劳动力自动化。然后过渡到物理人工智能： - 自动驾驶（送货） - 机器人（亚马逊仓库、运输自动化）。 + 通过使用 Trainium 构建 AWS 计算以及可能通过 Neocloud strat 销售芯片来增加收入。与现有的所有超大规模提供商相比，这可能是最清晰的前进道路。 TSLA optimus 的用例目标非常广泛，但亚马逊已经有一个具体的理由来扩展机器人技术以优化内部运营支出。至于$GOOGL，现在可能排名第二，人工智能资本支出对于捍卫其谷歌搜索护城河Gemini免受ChatGPT的影响是必要的。他们还通过高效的TPU获得谷歌云收入+可以像Nvidia GPU一样销售TPU。 Gemini 用户量持续上升（尽管前沿基准测试中缺乏争议）；人工智能策略也将致力于广告优化。但是物理人工智能的路径还不太清晰吗？微软和 Meta 仍在试图说服市场为什么资本支出是必要的（我们看到 Meta 的同比收入增长超过 30%），但看起来他们并没有被说服。至于市场叙述，微软 Maia 似乎落后了，他们的人工智能发展受到 OpenAi 投资的阻碍，所以市场情绪有点根深蒂固。但我认为这会像 Google 带来的 180 度转变一样发生变化。我确信所有超大规模企业现在都看到了领导者效应：如果你拥有领先的法学硕士，人们就会继续使用它。法学硕士从所有培训数据中变得更加聪明；这种差距可能是结构性的。这就是为什么现在每个人都在急于扩建，但对于某些人来说，直接的激励似乎是显而易见的。"
     },
     {
       "id": "tweet_aleabitoreddit_2069633445903675865#m",
@@ -70,31 +90,11 @@
       "url": "https://x.com/aleabitoreddit/status/2069633445903675865#m",
       "tweet_id": "2069633445903675865#m",
       "translated": "我发现有趣的是，$RDDT 上的 degens 正在发起一场病毒式传播活动来拯救 Wendy's ($WEN)。美国快餐汉堡连锁店。现在股价一夜之间上涨了20%。仅供参考：Wendy’s 是一个流行的社区模因，人们在投资组合从 0DTE 选项变成 0 后就在垃圾箱后面工作。 （没有立场，只是觉得有趣）我想知道它是否会起作用？"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2069445918114697463#m",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 23 Jun 2026 15:42:09 GMT",
-      "content": "Curious if anyone's portfolio is green after today's fun day. $KORU: -32.06% $SOXL: -22.98% $IQE: -13.58% $DRAM: -12.6% $AXTI: -12.57% $FLNC: -12.5% $AAOI: -11.2% $SIVE: -11.7% $TSEM: -10.24% $SNDK: -12.5% $MU: -11.8% Sk Hynix: -12.35% Samsung: -9.6% $MRVL: -8.3% $LITE: -7.6% $SOI -7.15% $TSM: -6.1% $AMD: -6.04% Feels like anything high-beta or semis had a steep drop.",
-      "url": "https://x.com/aleabitoreddit/status/2069445918114697463#m",
-      "tweet_id": "2069445918114697463#m",
-      "translated": "好奇在今天有趣的一天之后是否有人的投资组合是绿色的。 $KORU：-32.06% $SOXL：-22.98% $IQE：-13.58% $DRAM：-12.6% $AXTI：-12.57% $FLNC：-12.5% $AAOI：-11.2% $SIVE：-11.7% $TSEM：-10.24% $SNDK：-12.5% $MU：-11.8% Sk海力士：-12.35% 三星：-9.6% $MRVL：-8.3% $LITE：-7.6% $SOI -7.15% $TSM：-6.1% $AMD：-6.04% 感觉任何高贝塔或半成品都急剧下降。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2069430169300070612#m",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 23 Jun 2026 14:39:35 GMT",
-      "content": "Today, $XFAB (1.23B MC) receives €127.4 million from CHIPS ACT for their MEMS Foundry. \"The «Fab4Micro» in Erfurt is a key project for the technological sovereignty of Germany and Europe, explained Thuringia’s head of government.\" The production start is planned in 2028 (finanzen). With Europe's new CHIPS ACT 2 as a concurrent fundamental tailwind.",
-      "url": "https://x.com/aleabitoreddit/status/2069430169300070612#m",
-      "tweet_id": "2069430169300070612#m",
-      "translated": "今天，$XFAB (1.23B MC) 从 CHIPS ACT 获得 1.274 亿欧元用于其 MEMS 代工厂。图林根州政府首脑解释说：“爱尔福特的‘Fab4Micro’是德国和欧洲技术主权的一个关键项目。”计划于 2028 年开始生产 (finanzen)。欧洲新推出的 CHIPS ACT 2 是同时的基本面推动因素。"
     }
   ],
   "stats": {
     "users_success": 3,
     "users_failed": 1,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
