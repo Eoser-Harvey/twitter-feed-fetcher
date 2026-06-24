@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-06-24T21:26:05.028879+00:00",
+  "fetched_at": "2026-06-24T23:05:59.784144+00:00",
   "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2069795881100914818#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 24 Jun 2026 14:52:47 GMT",
+      "content": "RT by @elonmusk: PASS THE SAVE AMERICA ACT.",
+      "url": "https://x.com/elonmusk/status/2069795881100914818#m",
+      "tweet_id": "2069795881100914818#m",
+      "translated": "RT @elonmusk：通过《拯救美国法案》。"
+    },
     {
       "id": "tweet_elonmusk_2069892302575911055#m",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2069863242932052228#m",
       "tweet_id": "2069863242932052228#m",
       "translated": "RT @elonmusk：我确信最好的创始人不会在 linkedIn 上发帖（或者至少很少）"
-    },
-    {
-      "id": "tweet_elonmusk_2069889157883900276#m",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 24 Jun 2026 21:03:26 GMT",
-      "content": "RT by @elonmusk: The 𝕏 Money experience keeps getting better. Even activating your card feels special. Excited for more and more people to get onboarded.",
-      "url": "https://x.com/elonmusk/status/2069889157883900276#m",
-      "tweet_id": "2069889157883900276#m",
-      "translated": "RT @elonmusk：𝕏 金钱体验不断变得更好。即使激活你的卡也感觉很特别。很高兴越来越多的人加入。"
     },
     {
       "id": "tweet_cz_binance_2069794756368965751#m",
@@ -93,6 +93,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2069892511406100716#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 24 Jun 2026 21:16:46 GMT",
+      "content": "Always amazing looking at $MU earnings: Revenue: $41.46B vs. $35.8B est. EPS: $25.11 vs. $20.78 est. Forecasts: Revenue: $49B to $51B, vs $43.24B est EPS: $30.00 to $32.00, vs. $25.31. “Micron said on Wednesday that it has signed 16 long-term agreements” \"When completed, we expect approximately half or more of our company revenue to be under these\" Looks like memory demand has become structural… But great earnings to show up the AI trade is continuing to ramp up.",
+      "url": "https://x.com/aleabitoreddit/status/2069892511406100716#m",
+      "tweet_id": "2069892511406100716#m",
+      "translated": "$MU 收益总是令人惊叹：收入：$41.46B 对比 $35.8B 预计每股收益：$25.11 对比 $20.78 预计每股收益 预测：收入：$49B 至 $51B 对比 $43.24B 预计每股收益：$30.00 至 $32.00 对比 $25.31。 “美光周三表示，它已经签署了 16 项长期协议”“完成后，我们预计我们公司收入的大约一半或更多将来自这些” 看起来内存需求已经成为结构性的......但显示人工智能行业的巨大收益正在继续增长。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2069780882018459851#m",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -111,16 +121,6 @@
       "url": "https://x.com/aleabitoreddit/status/2069775271562289299#m",
       "tweet_id": "2069775271562289299#m",
       "translated": "Poet OSINT 社区有趣的新信息发现：$POET / $SIVE 很可能将为前 3 名超大规模提供商（亚马逊、微软、谷歌）提供支持。 Ankur Singla（Lumilens 首席执行官）在 Linkedin 上发布了最新消息。谁表示他们的客户是三大超大规模提供商之一，他们的帖子重点关注 CPO/NPO。有了这个线索，考虑到 Sivers CW DFB 光源路径是 CPO 横向扩展/NPO，它似乎比其他 EML 供应商更有可能。如果您不记得，Sivers 是 Poet 的激光供应商。 Poet 与 Lumilens 签订了购买协议。在正式确认之前，在野外找到主要的潜在面包屑总是很有趣的。 （披露，长西夫）"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2069675057300082728#m",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 24 Jun 2026 06:52:41 GMT",
-      "content": "OpenLight (private) seems to get bigger and bigger every time I look at it. If you’re curious about their public ecosystem outside of Advantest: $JBL ( $SIVE partner ) for scaling PICs $MRVL and $MXL for DSPs $TSEM for the foundry. $300394.SZ / TFC Optical (OSAT/subassembly) Can often get exposure into private growth through public equities if you’re not an accredited investor. Since optical players look very interconnected.",
-      "url": "https://x.com/aleabitoreddit/status/2069675057300082728#m",
-      "tweet_id": "2069675057300082728#m",
-      "translated": "每次我看 OpenLight (private) 时，它似乎都变得越来越大。如果您对 Advantest 之外的公共生态系统感到好奇：用于扩展 PIC 的 $JBL（$SIVE 合作伙伴），用于 DSP 的 $MRVL 和 $MXL，用于代工厂的 $TSEM。 $300394.SZ / TFC Optical（OSAT/组件） 如果您不是合格投资者，通常可以通过公开股票参与私人增长。因为光学播放器看起来非常相互关联。"
     }
   ],
   "stats": {
