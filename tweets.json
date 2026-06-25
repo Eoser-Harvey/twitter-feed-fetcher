@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-06-25T07:47:09.818868+00:00",
+  "fetched_at": "2026-06-25T10:45:03.453751+00:00",
   "total": 12,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2070041541905666162#m",
+      "id": "tweet_elonmusk_2069909042428772510#m",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 25 Jun 2026 07:08:57 GMT",
-      "content": "RT by @elonmusk: The real class war is between the productive class and the parasitic class.",
-      "url": "https://x.com/elonmusk/status/2070041541905666162#m",
-      "tweet_id": "2070041541905666162#m",
-      "translated": "RT @elonmusk：真正的阶级战争发生在生产阶级和寄生阶级之间。"
+      "published_at": "Wed, 24 Jun 2026 22:22:27 GMT",
+      "content": "RT by @elonmusk: The Overton Window right now",
+      "url": "https://x.com/elonmusk/status/2069909042428772510#m",
+      "tweet_id": "2069909042428772510#m",
+      "translated": "RT @elonmusk：现在的奥弗顿之窗"
     },
     {
-      "id": "tweet_elonmusk_2070036268260450796#m",
+      "id": "tweet_elonmusk_2069906160153411882#m",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 25 Jun 2026 06:48:00 GMT",
-      "content": "RT by @elonmusk: BREAKING: Kazakhstan Railways is bringing Starlink internet to 900 train carriages this summer. • By July, around 900 train carriages will be equipped with Starlink internet. • The service will cover nearly 50 passenger routes across the country. • KTZ’s passenger fleet has about 2,211 units, with the goal of full network coverage by autumn. • The rollout is being done in stages as part of Kazakhstan’s railway transport modernization program • Starlink was first tested on the Burabay Express electric train in 2025. • Satellite internet has also been introduced on other major routes, including Astana–Ust-Kamenogorsk and Astana–Almaty Talgo trains. Starlink is proving again that high-speed satellite internet can transform travel, especially across large countries and remote routes.",
-      "url": "https://x.com/elonmusk/status/2070036268260450796#m",
-      "tweet_id": "2070036268260450796#m",
-      "translated": "RT @elonmusk：突发新闻：哈萨克斯坦铁路公司将于今年夏天为 900 个火车车厢提供 Starlink 互联网。 • 到7 月，大约900 节火车车厢将配备Starlink 互联网。 • 服务将覆盖全国近50条客运航线。 • KTZ 客运车队规模约为 2,211 辆，目标是到秋季实现网络全覆盖。 • 作为哈萨克斯坦铁路运输现代化计划的一部分，该计划正在分阶段进行。 • Starlink 于 2025 年在 Burabay Express 电动列车上首次进行测试。 • 其他主要线路也引入了卫星互联网，包括阿斯塔纳 - 乌斯季卡缅诺戈尔斯克和阿斯塔纳 - 阿拉木图 Talgo 列车。星链再次证明高速卫星互联网可以改变旅行方式，尤其是跨越大国和偏远路线的旅行方式。"
+      "published_at": "Wed, 24 Jun 2026 22:11:00 GMT",
+      "content": "RT by @elonmusk: I once reported on how great Wikipedia was. Now, it’s FULL of propaganda. That’s a big problem because its bad information corrupts AI and search results: @npovmedia @AshleyRindsberg",
+      "url": "https://x.com/elonmusk/status/2069906160153411882#m",
+      "tweet_id": "2069906160153411882#m",
+      "translated": "RT @elonmusk：我曾经报道过维基百科有多么伟大。现在，它充满了宣传。这是一个大问题，因为它的不良信息会破坏人工智能和搜索结果：@npovmedia @AshleyRindsberg"
     },
     {
-      "id": "tweet_elonmusk_2070042592012570970#m",
+      "id": "tweet_elonmusk_2069741622246490385#m",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 25 Jun 2026 07:13:08 GMT",
-      "content": "Pinned: Potential name for the AI industry regulatory authority: AI Associated Institute of America, Inc or AIAIAI, pronounced “ay yai yai”",
-      "url": "https://x.com/elonmusk/status/2070042592012570970#m",
-      "tweet_id": "2070042592012570970#m",
-      "translated": "已置顶：人工智能行业监管机构的可能名称：美国人工智能协会 (AI Associated Institute of America, Inc.) 或 AIAIAI"
+      "published_at": "Wed, 24 Jun 2026 11:17:11 GMT",
+      "content": "RT by @elonmusk: Gotham has fallen. The mass exodus out of the New York will continue apace. I call it the Blue Exodus. Last night’s sweep of Marxist Socialist candidates will further destroy New York City. The virulent antisemitism in the Socialists’ campaigns is dangerous not only to Jews, but to every American. Because they are attacking the West. If they continue to win, the American Dream and Western Civilization will fall. Wake up.",
+      "url": "https://x.com/elonmusk/status/2069741622246490385#m",
+      "tweet_id": "2069741622246490385#m",
+      "translated": "RT @elonmusk：哥谭市已经陷落。大批人离开纽约的现象将继续迅速发生。我称之为“蓝色出走”。昨晚马克思主义社会党候选人的横扫将进一步摧毁纽约市。社会党运动中恶毒的反犹太主义不仅对犹太人而且对每个美国人都是危险的。因为他们正在攻击西方。如果他们继续获胜，美国梦和西方文明就会崩溃。醒来吧。"
     },
     {
       "id": "tweet_cz_binance_2069794756368965751#m",
@@ -126,6 +126,6 @@
   "stats": {
     "users_success": 4,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
