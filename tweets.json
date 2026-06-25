@@ -1,35 +1,36 @@
 {
-  "fetched_at": "2026-06-25T03:46:15.888002+00:00",
-  "total": 9,
+  "fetched_at": "2026-06-25T07:47:09.818868+00:00",
+  "total": 12,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2069933635508338974#m",
+      "id": "tweet_elonmusk_2070041541905666162#m",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 25 Jun 2026 00:00:10 GMT",
-      "content": "💯",
-      "url": "https://x.com/elonmusk/status/2069933635508338974#m",
-      "tweet_id": "2069933635508338974#m"
+      "published_at": "Thu, 25 Jun 2026 07:08:57 GMT",
+      "content": "RT by @elonmusk: The real class war is between the productive class and the parasitic class.",
+      "url": "https://x.com/elonmusk/status/2070041541905666162#m",
+      "tweet_id": "2070041541905666162#m",
+      "translated": "RT @elonmusk：真正的阶级战争发生在生产阶级和寄生阶级之间。"
     },
     {
-      "id": "tweet_elonmusk_2069795881100914818#m",
+      "id": "tweet_elonmusk_2070036268260450796#m",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 24 Jun 2026 14:52:47 GMT",
-      "content": "RT by @elonmusk: PASS THE SAVE AMERICA ACT.",
-      "url": "https://x.com/elonmusk/status/2069795881100914818#m",
-      "tweet_id": "2069795881100914818#m",
-      "translated": "RT @elonmusk：通过《拯救美国法案》。"
+      "published_at": "Thu, 25 Jun 2026 06:48:00 GMT",
+      "content": "RT by @elonmusk: BREAKING: Kazakhstan Railways is bringing Starlink internet to 900 train carriages this summer. • By July, around 900 train carriages will be equipped with Starlink internet. • The service will cover nearly 50 passenger routes across the country. • KTZ’s passenger fleet has about 2,211 units, with the goal of full network coverage by autumn. • The rollout is being done in stages as part of Kazakhstan’s railway transport modernization program • Starlink was first tested on the Burabay Express electric train in 2025. • Satellite internet has also been introduced on other major routes, including Astana–Ust-Kamenogorsk and Astana–Almaty Talgo trains. Starlink is proving again that high-speed satellite internet can transform travel, especially across large countries and remote routes.",
+      "url": "https://x.com/elonmusk/status/2070036268260450796#m",
+      "tweet_id": "2070036268260450796#m",
+      "translated": "RT @elonmusk：突发新闻：哈萨克斯坦铁路公司将于今年夏天为 900 个火车车厢提供 Starlink 互联网。 • 到7 月，大约900 节火车车厢将配备Starlink 互联网。 • 服务将覆盖全国近50条客运航线。 • KTZ 客运车队规模约为 2,211 辆，目标是到秋季实现网络全覆盖。 • 作为哈萨克斯坦铁路运输现代化计划的一部分，该计划正在分阶段进行。 • Starlink 于 2025 年在 Burabay Express 电动列车上首次进行测试。 • 其他主要线路也引入了卫星互联网，包括阿斯塔纳 - 乌斯季卡缅诺戈尔斯克和阿斯塔纳 - 阿拉木图 Talgo 列车。星链再次证明高速卫星互联网可以改变旅行方式，尤其是跨越大国和偏远路线的旅行方式。"
     },
     {
-      "id": "tweet_elonmusk_2069892302575911055#m",
+      "id": "tweet_elonmusk_2070042592012570970#m",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 24 Jun 2026 21:15:56 GMT",
-      "content": "Lee Kuan Yew was a genius",
-      "url": "https://x.com/elonmusk/status/2069892302575911055#m",
-      "tweet_id": "2069892302575911055#m",
-      "translated": "李光耀是个天才"
+      "published_at": "Thu, 25 Jun 2026 07:13:08 GMT",
+      "content": "Pinned: Potential name for the AI industry regulatory authority: AI Associated Institute of America, Inc or AIAIAI, pronounced “ay yai yai”",
+      "url": "https://x.com/elonmusk/status/2070042592012570970#m",
+      "tweet_id": "2070042592012570970#m",
+      "translated": "已置顶：人工智能行业监管机构的可能名称：美国人工智能协会 (AI Associated Institute of America, Inc.) 或 AIAIAI"
     },
     {
       "id": "tweet_cz_binance_2069794756368965751#m",
@@ -49,7 +50,7 @@
       "content": "Hope I don't stutter too much. 🤣",
       "url": "https://x.com/cz_binance/status/2069627268012367961#m",
       "tweet_id": "2069627268012367961#m",
-      "translated": "希望我不要口吃太多。 🤣"
+      "translated": "希望我不要结巴太多。 🤣"
     },
     {
       "id": "tweet_cz_binance_2069441185983115572#m",
@@ -62,39 +63,69 @@
       "translated": "与@CoinDesk 聊得很好，涵盖了很多话题。"
     },
     {
-      "id": "tweet_aleabitoreddit_2069967746377662587#m",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 25 Jun 2026 02:15:43 GMT",
-      "content": "Think so. But in the meantime, I call my strategy: Diversified Losses. With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently, CPO exposure was hit the hardest (Foci, Msscorp, etc) and adjacent names, feels bad. Probably lesson personally, I had too much concentration in photonics vs. memory/other sectors without weighting/hedging properly. With Soitec, there's been a few negative institutional reports that I'd disagree with. Think AXT was hit harder in specific just because of float expansion/dilution concerns. AAOI, probably just brought down with the theme. I can't give advice on buying, so completely up to you to make for cost averaging or entering positions. But I do think we're still early in the Supercycle with photonics, there's bound to be corrections/crashes along the way up. If my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028. Markets don't typically wait to price things in advance, but some ideas might be a tad early or in the buildout given it's H2 2026 now. Which is why it's important to build your own conviction.",
-      "url": "https://x.com/aleabitoreddit/status/2069967746377662587#m",
-      "tweet_id": "2069967746377662587#m",
-      "translated": "这么想吧。但与此同时，我将我的策略称为：多元化损失。包括 $AXTI、$SOI、$AAOI 等等。最近经历了大规模的缩编，CPO 的暴露受到了最严重的打击（Foci、Msscorp 等）和邻近的名字，感觉很糟糕。可能是我个人的教训，我过于专注于光子学与内存/其他领域，而没有适当地加权/对冲。对于 Soitec，有一些我不同意的负面机构报告。认为 AXT 受到的打击尤其严重，只是因为浮动膨胀/稀释问题。 AAOI，可能只是随着主题而下降。我无法提供购买建议，因此完全取决于您来进行成本平均或建仓。但我确实认为我们仍处于光子学超级周期的早期阶段，一路上肯定会出现修正/崩溃。如果我的个人观点是正确的，那么其中许多名字将在 2027 年中期出现一个重大拐点，一直到 2028 年。市场通常不会等待提前定价，但鉴于现在是 2026 年下半年，有些想法可能有点早或正在扩展中。这就是为什么建立自己的信念很重要。"
+      "id": "tweet_realDonaldTrump_2068370500334637542#m",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
+      "content": "RT by @realDonaldTrump: POLL…",
+      "url": "https://x.com/realDonaldTrump/status/2068370500334637542#m",
+      "tweet_id": "2068370500334637542#m",
+      "translated": "RT @realDonaldTrump：投票……"
     },
     {
-      "id": "tweet_aleabitoreddit_2069938631817699588#m",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 25 Jun 2026 00:20:02 GMT",
-      "content": "Today, Anthropic has directly accused the $BABA Qwen AI lab of distilling its frontier AI models. By creating thousands of fake accounts and over 28.8 million exchanges. Feels like this is kind of known by now... but there's been no real penalties enforced yet. We'll see what happens.",
-      "url": "https://x.com/aleabitoreddit/status/2069938631817699588#m",
-      "tweet_id": "2069938631817699588#m",
-      "translated": "如今，Anthropic 直接指责 $BABA Qwen AI 实验室提炼其前沿 AI 模型。通过创建数千个虚假账户和超过 2880 万个交易所。感觉现在已经知道了……但还没有执行真正的处罚。我们会看看会发生什么。"
+      "id": "tweet_realDonaldTrump_2068370042018767262#m",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sat, 20 Jun 2026 16:27:01 GMT",
+      "content": "Pinned: POLL: ICE has been abused by the Fake News Media at levels never seen before. They are Great Patriots who work hard, and do a fantastic job in a very hostile environment. Much of this hostility is caused by the Dumocrats and the Fake News. The concept I have had for quite some time — A strong feeling that the name of these Patriots, “ICE,” should be changed to, “NICE,” in that it will totally discombobulate Crooked, Dishonest, and Unpatriotic Reporters and Journalists. For them to say, “We went to a NICE Facility today,” as opposed to “ICE” or, “NICE Agents have deported a Violent Drug Dealer,” they won’t be able to handle it, they will go totally crazy! All it means is adding an “N” (“National”) to “ICE (“Immigration and Customs Enforcement”) — A much more prestigious name. Everyone loves it, but I have been told by the legendary Tom Homan that the Agents do not love it as much as the other population. Who thinks that we should add an “N” to change the name of “ICE” to “NICE?”   Thank you for your attention to this matter! President DJT",
+      "url": "https://x.com/realDonaldTrump/status/2068370042018767262#m",
+      "tweet_id": "2068370042018767262#m",
+      "translated": "已固定：民意调查：假新闻媒体对 ICE 的滥用达到了前所未有的程度。他们是伟大的爱国者，他们努力工作，在非常恶劣的环境中做得非常出色。这种敌意很大程度上是由杜民主派和假新闻引起的。我有一段时间一直有这样的想法——一种强烈的感觉，这些爱国者的名字“ICE”应该改为“NICE”，因为这将彻底扰乱不诚实、不诚实、不爱国的记者和记者。对于他们来说，“我们今天去了一家 NICE 设施”，而不是“ICE”或“NICE 特工驱逐了一名暴力毒贩”，他们将无法处理，他们会完全疯掉！这意味着在“ICE”（“移民和海关执法局”）中添加一个“N”（“国家”）——一个更有声望的名字。每个人都喜欢它，但传奇人物汤姆·霍曼告诉我，特工们并不像其他人那样喜欢它。谁认为我们应该添加一个“N”来将“ICE”的名字改为“NICE”？   感谢您对此事的关注！总裁DJT"
     },
     {
-      "id": "tweet_aleabitoreddit_2069892511406100716#m",
+      "id": "tweet_realDonaldTrump_2057968277062582378#m",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Fri, 22 May 2026 23:34:07 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2057968277062582378#m",
+      "tweet_id": "2057968277062582378#m",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2070020727441621026#m",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 24 Jun 2026 21:16:46 GMT",
-      "content": "Always amazing looking at $MU earnings: Revenue: $41.46B vs. $35.8B est. EPS: $25.11 vs. $20.78 est. Forecasts: Revenue: $49B to $51B, vs $43.24B est EPS: $30.00 to $32.00, vs. $25.31. “Micron said on Wednesday that it has signed 16 long-term agreements” \"When completed, we expect approximately half or more of our company revenue to be under these\" Looks like memory demand has become structural… But great earnings to show up the AI trade is continuing to ramp up.",
-      "url": "https://x.com/aleabitoreddit/status/2069892511406100716#m",
-      "tweet_id": "2069892511406100716#m",
-      "translated": "$MU 收益总是令人惊叹：收入：$41.46B 对比 $35.8B 预计每股收益：$25.11 对比 $20.78 预计每股收益 预测：收入：$49B 至 $51B 对比 $43.24B 预计每股收益：$30.00 至 $32.00 对比 $25.31。 “美光周三表示，它已经签署了 16 项长期协议”“完成后，我们预计我们公司收入的大约一半或更多将来自这些” 看起来内存需求已经成为结构性的......但显示人工智能行业的巨大收益正在继续增长。"
+      "published_at": "Thu, 25 Jun 2026 05:46:15 GMT",
+      "content": "The $WEN meme traders made it to Global Media from Japan to US! The burger fast food chain is now up ~50%, which is pretty impressive. Feels bad to be sidelined and see my AI memory/optical portfolio perform worse than a $RDDT memestock tho. Did anyone take positions?",
+      "url": "https://x.com/aleabitoreddit/status/2070020727441621026#m",
+      "tweet_id": "2070020727441621026#m",
+      "translated": "$WEN 表情包交易者成功登陆从日本到美国的 Global Media！汉堡快餐连锁店现在上涨了约 50%，这是相当令人印象深刻的。看到我的 AI 内存/光学投资组合表现比 $RDDT memestock 还差，被边缘化感觉很糟糕。有人上岗了吗？"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2070008157892751624#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 25 Jun 2026 04:56:18 GMT",
+      "content": "Global markets in a nutshell: Japanese Company: Active monopoly over random chokepoints in the hyperscaler AI buildout. Valuation: $150m-$350M Silicon Valley: Here's a $200m for a \"Seed Round\".",
+      "url": "https://x.com/aleabitoreddit/status/2070008157892751624#m",
+      "tweet_id": "2070008157892751624#m",
+      "translated": "全球市场简而言之：日本公司：对超大规模人工智能建设中的随机瓶颈的积极垄断。估值：1.5 亿至 3.5 亿美元 硅谷：“种子轮”融资 2 亿美元。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2069990311296975133#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 25 Jun 2026 03:45:23 GMT",
+      "content": "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots. \"Humanoid robots, he says, will require roughly ten times more memory than today’s Level 2+ autonomous vehicles.\" \"And that demand wave is set to begin before the decade is out.\" Something as well as was \"Over time, we expect the value of on-device AI combined with pent-up unit replacement demand to drive memory demand growth\" Which is also another trend (Apple Intelligence is currently dog, but I'm sure we'll see innovations with localized/edge AI). Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next. I wonder if the world is going to have enough memory. Or if we'll see enough breakthroughs to shrink memory usage.",
+      "url": "https://x.com/aleabitoreddit/status/2069990311296975133#m",
+      "tweet_id": "2069990311296975133#m",
+      "translated": "今天非常有趣的声明：$MU 首席执行官预测人形机器人将驱动数十年的内存需求周期。 “他说，人形机器人需要的内存大约是当今 2+ 级自动驾驶汽车的十倍。” “这种需求浪潮将在这个十年结束之前开始。”还有一点是“随着时间的推移，我们预计设备上人工智能的价值与被压抑的单元更换需求相结合，将推动内存需求增长”，这也是另一个趋势（Apple Intelligence 目前处于困境，但我相信我们会看到本地化/边缘人工智能的创新）。感觉从 $TSM 董事长、$TSLA Elon Musk 到 $MU 首席执行官的所有行业领导者都将类人机器人视为下一个主要趋势，因此物理人工智能可能是下一个。我想知道世界是否有足够的内存。或者我们是否会看到足够的突破来减少内存使用。"
     }
   ],
   "stats": {
-    "users_success": 3,
-    "users_failed": 1,
-    "nitter_healthy": 10
+    "users_success": 4,
+    "users_failed": 0,
+    "nitter_healthy": 9
   }
 }
