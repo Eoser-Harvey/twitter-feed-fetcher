@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-06-26T18:55:22.311482+00:00",
-  "total": 9,
+  "fetched_at": "2026-06-26T20:51:51.914168+00:00",
+  "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2070580372677554568#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 26 Jun 2026 18:50:05 GMT",
+      "content": "RT by @elonmusk: Coming 2027 From Event Film, CITIZEN VIGILANTE 2. @realDonaldTrump @elonmusk @BollFILMS @CitizenVMovie #UweBoll #CitizenVigilante",
+      "url": "https://x.com/elonmusk/status/2070580372677554568#m",
+      "tweet_id": "2070580372677554568#m",
+      "translated": "RT by @elonmusk：将于 2027 年推出，来自活动电影《公民警员 2》。@realDonaldTrump @elonmusk @BollFILMS @CitizenVMovie #UweBoll #CitizenVigilante"
+    },
+    {
+      "id": "tweet_elonmusk_2070481599775363306#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 26 Jun 2026 12:17:35 GMT",
+      "content": "RT by @elonmusk: BREAKING: Venezuela’s Vice President Delcy Rodríguez thanks @elonmusk and @Starlink for providing free connectivity after the earthquakes.",
+      "url": "https://x.com/elonmusk/status/2070481599775363306#m",
+      "tweet_id": "2070481599775363306#m",
+      "translated": "RT @elonmusk：突发新闻：委内瑞拉副总统 Delcy Rodríguez 感谢 @elonmusk 和 @Starlink 在地震后提供免费连接。"
+    },
     {
       "id": "tweet_elonmusk_2070562012350824519#m",
       "username": "elonmusk",
@@ -11,26 +31,6 @@
       "url": "https://x.com/elonmusk/status/2070562012350824519#m",
       "tweet_id": "2070562012350824519#m",
       "translated": "两者不可能同时成立"
-    },
-    {
-      "id": "tweet_elonmusk_2070561905094128047#m",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 26 Jun 2026 17:36:42 GMT",
-      "content": "True",
-      "url": "https://x.com/elonmusk/status/2070561905094128047#m",
-      "tweet_id": "2070561905094128047#m",
-      "translated": "真的"
-    },
-    {
-      "id": "tweet_elonmusk_2070560874067116157#m",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 26 Jun 2026 17:32:36 GMT",
-      "content": "Good way to frame it. Also, if even one person had died, we would know who they were! Not one person has died from stopping waste & fraud at USAID! Obviously.",
-      "url": "https://x.com/elonmusk/status/2070560874067116157#m",
-      "tweet_id": "2070560874067116157#m",
-      "translated": "框架它的好方法。而且，就算死了一个人，我们也会知道他们是谁！在美国国际开发署制止浪费和欺诈行为中，没有一人死亡！明显地。"
     },
     {
       "id": "tweet_cz_binance_2070442064697843848#m",
@@ -61,6 +61,36 @@
       "url": "https://x.com/cz_binance/status/2069794756368965751#m",
       "tweet_id": "2069794756368965751#m",
       "translated": "很高兴看到这最终结束。 » CEA Industries 结束与 YZi Labs 的代理权争夺战，Ella 张出任董事会董事 |区块 https://www.theblock.co/post/405919/cea-industries-ends-proxy-fight-yzi-labs"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2068370500334637542#m",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
+      "content": "RT by @realDonaldTrump: POLL…",
+      "url": "https://x.com/realDonaldTrump/status/2068370500334637542#m",
+      "tweet_id": "2068370500334637542#m",
+      "translated": "RT @realDonaldTrump：投票……"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2068370042018767262#m",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sat, 20 Jun 2026 16:27:01 GMT",
+      "content": "Pinned: POLL: ICE has been abused by the Fake News Media at levels never seen before. They are Great Patriots who work hard, and do a fantastic job in a very hostile environment. Much of this hostility is caused by the Dumocrats and the Fake News. The concept I have had for quite some time — A strong feeling that the name of these Patriots, “ICE,” should be changed to, “NICE,” in that it will totally discombobulate Crooked, Dishonest, and Unpatriotic Reporters and Journalists. For them to say, “We went to a NICE Facility today,” as opposed to “ICE” or, “NICE Agents have deported a Violent Drug Dealer,” they won’t be able to handle it, they will go totally crazy! All it means is adding an “N” (“National”) to “ICE (“Immigration and Customs Enforcement”) — A much more prestigious name. Everyone loves it, but I have been told by the legendary Tom Homan that the Agents do not love it as much as the other population. Who thinks that we should add an “N” to change the name of “ICE” to “NICE?”   Thank you for your attention to this matter! President DJT",
+      "url": "https://x.com/realDonaldTrump/status/2068370042018767262#m",
+      "tweet_id": "2068370042018767262#m",
+      "translated": "已固定：民意调查：假新闻媒体对 ICE 的滥用达到了前所未有的程度。他们是伟大的爱国者，他们努力工作，在非常恶劣的环境中做得非常出色。这种敌意很大程度上是由杜民主派和假新闻引起的。我有一段时间一直有这样的想法——一种强烈的感觉，这些爱国者的名字“ICE”应该改为“NICE”，因为这将彻底扰乱不诚实、不诚实、不爱国的记者和记者。对于他们来说，“我们今天去了一家 NICE 设施”，而不是“ICE”或“NICE 特工驱逐了一名暴力毒贩”，他们将无法处理，他们会完全疯掉！它的意思就是在“ICE”（“移民和海关执法局”）中添加一个“N”（“国家”）——一个更有声望的名字。每个人都喜欢它，但传奇人物汤姆·霍曼告诉我，特工们并不像其他人那样喜欢它。谁认为我们应该添加一个“N”来将“ICE”的名字改为“NICE”？   感谢您对此事的关注！总裁DJT"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2057968277062582378#m",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Fri, 22 May 2026 23:34:07 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2057968277062582378#m",
+      "tweet_id": "2057968277062582378#m",
+      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2070559154352353724#m",
@@ -94,8 +124,8 @@
     }
   ],
   "stats": {
-    "users_success": 3,
-    "users_failed": 1,
+    "users_success": 4,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
