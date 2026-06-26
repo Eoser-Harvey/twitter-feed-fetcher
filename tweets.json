@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-26T07:57:22.914857+00:00",
+  "fetched_at": "2026-06-26T10:55:46.861242+00:00",
   "total": 12,
   "tweets": [
     {
@@ -33,6 +33,16 @@
       "translated": "RT @elonmusk：需要为 /goal 找到一个更难的问题。我什至还没有喝完咖啡。"
     },
     {
+      "id": "tweet_cz_binance_2070442064697843848#m",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Fri, 26 Jun 2026 09:40:29 GMT",
+      "content": "Sad to see EU cutting their users off from the best liquidity in the world. Liquidity is the best consumer protection. Hope to see things change in the future.",
+      "url": "https://x.com/cz_binance/status/2070442064697843848#m",
+      "tweet_id": "2070442064697843848#m",
+      "translated": "很遗憾看到欧盟切断了用户与世界上最好的流动性的联系。流动性是对消费者最好的保障。希望未来能看到事情的改变。"
+    },
+    {
       "id": "tweet_cz_binance_2070176909162410430#m",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
@@ -51,16 +61,6 @@
       "url": "https://x.com/cz_binance/status/2069794756368965751#m",
       "tweet_id": "2069794756368965751#m",
       "translated": "很高兴看到这最终结束。 » CEA Industries 结束与 YZi Labs 的代理权争夺战，Ella 张出任董事会董事 |区块 https://www.theblock.co/post/405919/cea-industries-ends-proxy-fight-yzi-labs"
-    },
-    {
-      "id": "tweet_cz_binance_2069627268012367961#m",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 24 Jun 2026 03:42:47 GMT",
-      "content": "Hope I don't stutter too much. 🤣",
-      "url": "https://x.com/cz_binance/status/2069627268012367961#m",
-      "tweet_id": "2069627268012367961#m",
-      "translated": "希望我不要口吃太多。 🤣"
     },
     {
       "id": "tweet_realDonaldTrump_2068370500334637542#m",
@@ -93,6 +93,26 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2070444675337503166#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 26 Jun 2026 09:50:52 GMT",
+      "content": "OFC I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. And yes, I still have my million+ share position. Not sure if people realize this: but I'm only here to share my thoughts/ideas. I don't control market volatility, what decisions you all make, or how markets react to new information synthesis. It's much safer for analysts to just reactively tag along Morgan Stanley/JP Morgan/Goldman Sachs research whenever it's created and just summarize. Rather than coming up with new ideas from OSINT mapping and waiting them get validated. Because when you discover a new angle: Everyone keeps heatedly debating topics of 4-6 inch InP fabs, employee count, who their hyperscaler customers are, volume ramp timelines, etc to try and play devils advocate with a thesis. Then actively monitoring every single 5-20% price movement. I'm forced to stay on this topic more since it's less validated + there's always heated discussions. Just like $EWY in Feb, which I did memory projections on + Helium/LNG/Oil analysis. But months later everyone sees memory looks structural with Micron's 16+ LTAs and LNG isn't taking down SK Hynix margins. Or $NBIS from last year in terms of sum-of-parts / dilution structures vs $IREN. And now it's close to ATHs and listed on $QQQ. I'm personally just waiting Sivers to volume ramp in 2027 + listing on NASDAQ to support their M&A efforts. So they can walk down the same path as $LITE when they scaled from $3B to $60B+.",
+      "url": "https://x.com/aleabitoreddit/status/2070444675337503166#m",
+      "tweet_id": "2070444675337503166#m",
+      "translated": "OFC 我知道。但我个人睡得很舒服，因为我对 $SIVE 的超大规模地图研究充满信心。是的，我仍然拥有超过 100 万股的头寸。不确定人们是否意识到这一点：但我只是在这里分享我的想法/想法。我无法控制市场波动、你们做出什么决定，或者市场对新信息综合的反应。对于分析师来说，只要摩根士丹利/摩根大通/高盛的研究报告被创建并进行总结，就可以做出反应，这样会安全得多。而不是从 OSINT 映射中提出新想法并等待它们得到验证。因为当你发现一个新的角度时：每个人都在激烈地争论 4-6 英寸 InP 晶圆厂、员工数量、他们的超大规模客户是谁、产量增长时间表等话题，试图用一篇论文来唱反调。然后积极监控每一次 5-20% 的价格变动。我被迫更多地关注这个话题，因为它的验证较少+总是有激烈的讨论。就像 2 月份的 $EWY 一样，我对+氦/液化天然气/石油分析进行了内存预测。但几个月后，每个人都看到美光 16 个以上的长期协议和 LNG 的内存看起来是结构性的，并没有降低 SK 海力士的利润率。或者去年的 $NBIS 与 $IREN 相比，按部分总和/稀释结构计算。现在它已经接近 ATH 并在 $QQQ 上上市。我个人正在等待 Sivers 在 2027 年实现销量增长并在纳斯达克上市，以支持他们的并购工作。因此，当他们从 $3B 扩展到 $60B+ 时，他们可以走与 $LITE 相同的道路。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2070413682996347069#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 26 Jun 2026 07:47:43 GMT",
+      "content": "Just Elon Musk casually sounding the alarm. On the massive demand + price hikes for $MU / SK Hynix / Samsung memory relative to supply. He probably has higher visibility into the memory bottleneck than others…",
+      "url": "https://x.com/aleabitoreddit/status/2070413682996347069#m",
+      "tweet_id": "2070413682996347069#m",
+      "translated": "只是埃隆·马斯克漫不经心地敲响了警报。关于 MU / SK 海力士 / 三星内存相对于供应的巨大需求 + 价格上涨。他对内存瓶颈的了解可能比其他人更高……"
+    },
+    {
       "id": "tweet_aleabitoreddit_2070373235452162540#m",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -101,26 +121,6 @@
       "url": "https://x.com/aleabitoreddit/status/2070373235452162540#m",
       "tweet_id": "2070373235452162540#m",
       "translated": "“重要的不是鸡蛋，而是鹅本身”，在市场看到今天的投资者介绍后，软银今天可能下跌 -13.5%。此外，OpenAI IPO 可能会推迟到 2027 年，因为 Altman 想要 1T 美元的估值可能只是一个小原因……"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2070354308965728519#m",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 26 Jun 2026 03:51:47 GMT",
-      "content": "There's a global correction right now, no clue when it stops. Kospi is down -8.18% (Sk hynix/Samsung) Nikkei is down -4.8% TWSE Index is down -3.82% As you've seen with $SOI or $RKLB dropping 30-40%. From personal experience, high beta stocks get hit a lot harder, but usually frontrun index drops. And they typically recover earlier? Aside from Korea which is typically volatile, when major indexes start correcting 3-4% a day, usually not a fun time.",
-      "url": "https://x.com/aleabitoreddit/status/2070354308965728519#m",
-      "tweet_id": "2070354308965728519#m",
-      "translated": "目前存在全球性调整，不知道何时停止。 Kospi 下跌 -8.18%（Sk hynix/Samsung） 日经指数下跌 -4.8% 台湾证券交易所指数下跌 -3.82% 正如您所看到的 $SOI 或 $RKLB 下跌 30-40%。从个人经验来看，高贝塔值股票受到的打击要严重得多，但通常先行指数会下跌。他们通常恢复得更早？除了通常波动较大的韩国以外，当主要股指开始每天调整 3-4% 时，通常不是一个有趣的时刻。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2070304723262210194#m",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 26 Jun 2026 00:34:45 GMT",
-      "content": "Looks like Power Semis are already starting price hikes. Which is bullish thematically for US power semi trade from $AOSL to $POWI, before the 800V DC shift fully hits. China's Yangjie Technology, announced a 2nd price increase this year, raising prices across its full product range by 10%-15%, July 1. Chongqing China Resources Micro, Silan Microelectronics, and NCE Power also price hiked. “Demand is playing a larger role than costs in the latest round of price increases” from AI DCs, to energy systems, and new EVs. Another potential beneficiary is the upstream material companies that make these: - nonferrous metals like copper and tin. -Plastic molding compounds - chemicals, and packaging consumables “Nearly all major Chinese power semiconductor makers have raised prices in 2026.” (Digitimes) So positive read through on power semi adjacent (reduce China-driven price pressure + better pricing + demand validation)",
-      "url": "https://x.com/aleabitoreddit/status/2070304723262210194#m",
-      "tweet_id": "2070304723262210194#m",
-      "translated": "看起来 Power Semis 已经开始涨价了。在 800V DC 转变完全到来之前，这对美国电力半贸易从 $AOSL 到 $POWI 的主题是看涨的。 7月1日，扬杰科技宣布今年第二次涨价，全线产品涨价10%-15%。重庆华润微、士兰微、新电电源也纷纷涨价。从人工智能 DC 到能源系统和新型电动汽车，“在最新一轮价格上涨中，需求发挥着比成本更大的作用”。另一个潜在的受益者是制造这些产品的上游材料公司： - 铜和锡等有色金属。 -塑料模塑料-化学品和包装耗材“几乎所有中国主要功率半导体制造商都在2026年提高了价格。” （Digitimes）对电力半相邻的积极解读（减少中国驱动的价格压力+更好的定价+需求验证）"
     }
   ],
   "stats": {
