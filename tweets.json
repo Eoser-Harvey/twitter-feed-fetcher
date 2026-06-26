@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-06-26T03:55:41.670889+00:00",
-  "total": 9,
+  "fetched_at": "2026-06-26T07:57:22.914857+00:00",
+  "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2070355899542077665#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 26 Jun 2026 03:58:06 GMT",
+      "content": "RT by @elonmusk: Please watch.",
+      "url": "https://x.com/elonmusk/status/2070355899542077665#m",
+      "tweet_id": "2070355899542077665#m",
+      "translated": "RT @elonmusk：请观看。"
+    },
+    {
+      "id": "tweet_elonmusk_2070355234342207574#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 26 Jun 2026 03:55:27 GMT",
+      "content": "RT by @elonmusk: Children are a blessing ❤️",
+      "url": "https://x.com/elonmusk/status/2070355234342207574#m",
+      "tweet_id": "2070355234342207574#m",
+      "translated": "RT @elonmusk：孩子是一种福气❤️"
+    },
+    {
+      "id": "tweet_elonmusk_2069995639044501786#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 25 Jun 2026 04:06:33 GMT",
+      "content": "RT by @elonmusk: Need to find a harder problem for /goal. I haven't even finished my coffee yet.",
+      "url": "https://x.com/elonmusk/status/2069995639044501786#m",
+      "tweet_id": "2069995639044501786#m",
+      "translated": "RT @elonmusk：需要为 /goal 找到一个更难的问题。我什至还没有喝完咖啡。"
+    },
     {
       "id": "tweet_cz_binance_2070176909162410430#m",
       "username": "cz_binance",
@@ -63,6 +93,26 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2070373235452162540#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 26 Jun 2026 05:06:59 GMT",
+      "content": "“What matters is not the eggs, it is the Goose itself” SoftBank probably down -13.5% today after markets saw this investor presentation today. Also the OpenAI IPO possible 2027 delay cause Altman wanted a $1T valuation might have been a small cause…",
+      "url": "https://x.com/aleabitoreddit/status/2070373235452162540#m",
+      "tweet_id": "2070373235452162540#m",
+      "translated": "“重要的不是鸡蛋，而是鹅本身”，在市场看到今天的投资者介绍后，软银今天可能下跌 -13.5%。此外，OpenAI IPO 可能会推迟到 2027 年，因为 Altman 想要 1T 美元的估值可能只是一个小原因……"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2070354308965728519#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 26 Jun 2026 03:51:47 GMT",
+      "content": "There's a global correction right now, no clue when it stops. Kospi is down -8.18% (Sk hynix/Samsung) Nikkei is down -4.8% TWSE Index is down -3.82% As you've seen with $SOI or $RKLB dropping 30-40%. From personal experience, high beta stocks get hit a lot harder, but usually frontrun index drops. And they typically recover earlier? Aside from Korea which is typically volatile, when major indexes start correcting 3-4% a day, usually not a fun time.",
+      "url": "https://x.com/aleabitoreddit/status/2070354308965728519#m",
+      "tweet_id": "2070354308965728519#m",
+      "translated": "目前存在全球性调整，不知道何时停止。 Kospi 下跌 -8.18%（Sk hynix/Samsung） 日经指数下跌 -4.8% 台湾证券交易所指数下跌 -3.82% 正如您所看到的 $SOI 或 $RKLB 下跌 30-40%。从个人经验来看，高贝塔值股票受到的打击要严重得多，但通常先行指数会下跌。他们通常恢复得更早？除了通常波动较大的韩国以外，当主要股指开始每天调整 3-4% 时，通常不是一个有趣的时刻。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2070304723262210194#m",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -71,31 +121,11 @@
       "url": "https://x.com/aleabitoreddit/status/2070304723262210194#m",
       "tweet_id": "2070304723262210194#m",
       "translated": "看起来 Power Semis 已经开始涨价了。在 800V DC 转变完全到来之前，这对美国电力半贸易从 $AOSL 到 $POWI 的主题是看涨的。 7月1日，扬杰科技宣布今年第二次涨价，全线产品涨价10%-15%。重庆华润微、士兰微、新电电源也纷纷涨价。从人工智能 DC 到能源系统和新型电动汽车，“在最新一轮价格上涨中，需求发挥着比成本更大的作用”。另一个潜在的受益者是制造这些产品的上游材料公司： - 铜和锡等有色金属。 -塑料模塑料-化学品和包装耗材“几乎所有中国主要功率半导体制造商都在2026年提高了价格。” （Digitimes）对电力半相邻的积极解读（减少中国驱动的价格压力+更好的定价+需求验证）"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2070189253573890167#m",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 25 Jun 2026 16:55:54 GMT",
-      "content": "Nah, gonna fill out the job application for $WEN and set up camp behind the dumpsters. Even $MU and $SNDK ridiculous performance today couldn't save my port. Cheering on Japan though, hoping Sweden gets mogged with a 2-0 to represent the 20% drop.",
-      "url": "https://x.com/aleabitoreddit/status/2070189253573890167#m",
-      "tweet_id": "2070189253573890167#m",
-      "translated": "不，要填写一份工作申请表并支付 $WEN，然后在垃圾箱后面扎营。即使今天 $MU 和 $SNDK 荒谬的表现也无法拯救我的端口。不过还是为日本加油吧，希望瑞典能以 2-0 的比分击败日本，代表着 20% 的降幅。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2070179074048409662#m",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 25 Jun 2026 16:15:27 GMT",
-      "content": "oh i think u misunderstand... I'm actually more bullish than ever as prices go down. $SIVE at ~$1.9B MC you have: - $GFS reference laser - laser for Ayar and others in $NVDA NVLink ecosystem for CPO scale up - $POET and others for CPO scale out - $JBL and others for 1.6T+ pluggable optical transcivers - O-Net for ELS mass production So you have all these hyperscaler suppliers trying to create as much as possible with Sivers as the laser bottleneck... And it's just a matter of how much Win Semi + others partners can make, with $SIVE receiving ~60% gross margins + optionality to TAM expand downward. The 15% recent share expansion that Swedish media have been bearposting is for NASDAQ listing float + M&A (and it's authorization). You just have potential short sellers running illegal bot farms, Swedish media bearposting a company Swedish exchange, on top of a general macro drop. The ~$140M convertible note is real, but it's pennies to US institutions. We'll likely see more institutional ownership when data comes out. But this is also why it's good for $SIVE to prioritize NASDAQ listing so they don't need to deal with this noise and local media. With $AAOI at $10B, you have: - A end-to-end US laser/design/assembly player projecting $471m month revenue H1 entering H2 2027. - With other hyperscalers like $AMD apparently discussing LTAs. And they probably are sitting on a ton of cash after running ~$1.4B in ATMs (400M + 400m+ 600m). Kinda all that needs to be said with those insane revenue projections as long as management doesn't BS. This just reminds me of when $NBIS crashed to $70 last year even while projecting $7-9B ARR, and as timelines got closer it recovered to $250+. Feels like dejavu. I'm just waiting for both volume ramps to hit. Photonics are generally more volatile than the rest.",
-      "url": "https://x.com/aleabitoreddit/status/2070179074048409662#m",
-      "tweet_id": "2070179074048409662#m",
-      "translated": "哦，我想你误解了...随着价格下跌，我实际上比以往任何时候都更加看涨。 $SIVE 在 ~$1.9B MC 上，您拥有： - $GFS 参考激光器 - 用于 Ayar 和其他 $NVDA NVLink 生态系统中的激光器，用于 CPO 扩展 - $POET 和其他用于 CPO 扩展 - $JBL 和其他用于 1.6T+ 可插拔光收发器 - O-Net 用于 ELS 大规模生产 因此，所有这些超大规模供应商都试图以 Sivers 作为激光器瓶颈来创造尽可能多的产品...这只是赢多少的问题Semi + 其他合作伙伴可以赚钱，$SIVE 获得约 60% 的毛利率 + TAM 向下扩展的选项。瑞典媒体最近宣扬的15%的扩股是为了纳斯达克上市+并购（及其授权）。除了宏观经济普遍下跌之外，还有潜在的卖空者经营着非法的机器人农场，瑞典媒体还贴出了一家瑞典交易所的广告。约 1.4 亿美元的可转换票据是真实的，但对美国机构来说只是几美分。当数据公布时，我们可能会看到更多的机构所有权。但这也是为什么 $SIVE 优先在纳斯达克上市是有好处的，这样他们就不需要处理这种噪音和当地媒体。当 $AAOI 为 $10B 时，您将拥有： - 一家端到端美国激光/设计/组装厂商预计上半年收入为 4.71 亿美元，进入 2027 年下半年。 - 与 $AMD 等其他超大规模厂商显然正在讨论 LTA。在 ATM 机上运行了约 $1.4B 后，他们可能坐拥大量现金（400M + 400m+ 600m）。只要管理层不胡说八道，所有这些疯狂的收入预测都需要说。这让我想起去年 $NBIS 暴跌至 70 美元，尽管预计 ARR 为 7-9B 美元，但随着时间的临近，它恢复到 250 美元以上。感觉就像似曾相识。我只是在等待两个音量上升。光子学通常比其他学科更不稳定。"
     }
   ],
   "stats": {
-    "users_success": 3,
-    "users_failed": 1,
+    "users_success": 4,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
