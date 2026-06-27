@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-27T07:51:49.373534+00:00",
+  "fetched_at": "2026-06-27T10:11:48.858914+00:00",
   "total": 12,
   "tweets": [
     {
@@ -93,6 +93,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2070789923108798545#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sat, 27 Jun 2026 08:42:45 GMT",
+      "content": "Robotics is next. Both deal count and investment amounts are skyrocketing per pitchbook March data (source: a16z) Good thing is: the same AI DC exposure often has cross-exposure to humanoid ramp. Like DRAM/NAND with memory (on humanoid inference/storage) or DFB lasers with photonics (FMCW LiDAR vision/sensing). Right now most exposure is upstream component parts… or programs within large players like $AMZN or $TSLA. So global IPO season H2 into 2027 for pure play humanoids/robotics companies is going to be fun.",
+      "url": "https://x.com/aleabitoreddit/status/2070789923108798545#m",
+      "tweet_id": "2070789923108798545#m",
+      "translated": "机器人技术是下一个。根据 3 月份数据，交易数量和投资金额都在飙升（来源：a16z） 好的一面是：同样的 AI DC 曝光通常会与人形爬坡交叉曝光。就像带有内存的 DRAM/NAND（用于人形推理/存储）或带有光子学的 DFB 激光器（FMCW LiDAR 视觉/传感）。目前，大多数曝光都是上游零部件……或者是 $AMZN 或 $TSLA 等大型企业内部的程序。因此，对于纯粹的类人/机器人公司来说，2027 年下半年的全球 IPO 季将会很有趣。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2070754658868687086#m",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -111,16 +121,6 @@
       "url": "https://x.com/aleabitoreddit/status/2070691462354993543#m",
       "tweet_id": "2070691462354993543#m",
       "translated": "$SPCX / Elon Musk 收购了光网络初创公司 Mesh。它正在 1.6T OSFP（可插拔）上运行。他们似乎拥有光学引擎/封装方面的所有权，但很可能从商业公司采购 CW DFB 激光器。 $SIVE 是对初创公司更友好的商业供应商之一，正如 Ayar 到 $POET 所看到的那样？也许 $LITE 和 $MTSI 也有一些历史，但历史较少。不管怎样，最近有很多像 Celestial 这样的初创公司被 Marvell 收购，这是非常积极的。对于商业激光供应商的收入（与初创公司合作 -> 让像 SpaceX 这样的超大规模企业在设计完成后推动收入）。以及来自并购意愿的估值。去证明如果埃隆·马斯克直接收购这些公司，光互连是正确的方向。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2070559154352353724#m",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 26 Jun 2026 17:25:46 GMT",
-      "content": "Brooo, OpenAI is back and they're releasing their new model GPT-5.6 Sol. With their benchmarks, OpenAI claims: - Sol Ultra beats Mythos 5 and mogs it for coding/workflow. - And is better for bio/cybersecurity too. Pretty bullish on OpenAI again if they leapfrogged Anthropic.",
-      "url": "https://x.com/aleabitoreddit/status/2070559154352353724#m",
-      "tweet_id": "2070559154352353724#m",
-      "translated": "Brooo，OpenAI 回来了，他们正在发布新模型 GPT-5.6 Sol。 OpenAI 在其基准测试中声称： - Sol Ultra 击败了 Mythos 5，并改进了它的编码/工作流程。 - 对于生物/网络安全也更好。如果 OpenAI 超越 Anthropic，他们会再次非常看好他们。"
     }
   ],
   "stats": {
