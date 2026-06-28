@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-06-28T05:19:33.424759+00:00",
+  "fetched_at": "2026-06-28T08:56:39.244327+00:00",
   "total": 9,
   "tweets": [
+    {
+      "id": "tweet_cz_binance_2070791417929359409#m",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sat, 27 Jun 2026 08:48:42 GMT",
+      "content": "RT by @cz_binance: I got my Binance Virtual Card now I can use it anywhere in Pakistan 🇵🇰 UAE and many other countries around the world. Thanks #Binance",
+      "url": "https://x.com/cz_binance/status/2070791417929359409#m",
+      "tweet_id": "2070791417929359409#m",
+      "translated": "@cz_binance 转发：我现在拿到了币安虚拟卡，我可以在巴基斯坦🇵🇰阿联酋和世界各地的许多其他国家的任何地方使用它。谢谢#Binance"
+    },
+    {
+      "id": "tweet_cz_binance_2070981656958152977#m",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sat, 27 Jun 2026 21:24:38 GMT",
+      "content": "RT by @cz_binance: Capital doesn't care about narratives",
+      "url": "https://x.com/cz_binance/status/2070981656958152977#m",
+      "tweet_id": "2070981656958152977#m",
+      "translated": "RT @cz_binance：资本不关心叙事"
+    },
     {
       "id": "tweet_cz_binance_2070442064697843848#m",
       "username": "cz_binance",
@@ -11,26 +31,6 @@
       "url": "https://x.com/cz_binance/status/2070442064697843848#m",
       "tweet_id": "2070442064697843848#m",
       "translated": "很遗憾看到欧盟切断了用户与世界上最好的流动性的联系。流动性是对消费者最好的保障。希望未来能看到事情的改变。"
-    },
-    {
-      "id": "tweet_cz_binance_2070176909162410430#m",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 25 Jun 2026 16:06:51 GMT",
-      "content": "Binance bStocks has reached $100M in AUM",
-      "url": "https://x.com/cz_binance/status/2070176909162410430#m",
-      "tweet_id": "2070176909162410430#m",
-      "translated": "Binance bStocks 的资产管理规模已达 1 亿美元"
-    },
-    {
-      "id": "tweet_cz_binance_2069794756368965751#m",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 24 Jun 2026 14:48:19 GMT",
-      "content": "Good to see this finally getting to closure. » CEA Industries ends proxy fight with YZi Labs, adds Ella Zhang as board director | The Block https://www.theblock.co/post/405919/cea-industries-ends-proxy-fight-yzi-labs",
-      "url": "https://x.com/cz_binance/status/2069794756368965751#m",
-      "tweet_id": "2069794756368965751#m",
-      "translated": "很高兴看到这最终结束。 » CEA Industries 结束与 YZi Labs 的代理权争夺战，Ella 张出任董事会董事 |区块 https://www.theblock.co/post/405919/cea-industries-ends-proxy-fight-yzi-labs"
     },
     {
       "id": "tweet_realDonaldTrump_2068370500334637542#m",
@@ -63,6 +63,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2071135874100990438#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sun, 28 Jun 2026 07:37:26 GMT",
+      "content": "Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March... And why Gemini got super nerfed. $GOOGL reportedly restricted Meta's capacity in March 2026 because of compute restraints. Google's CEO said from last earnings computing power restrictions prevented Google Cloud from taking on more customer needs and made the department's backlog nearly double the previous quarter. This is probably positive for the AI DC capex buildout since hyperscalers capacity is way below what is needed, and especially so if they can't rely on one another.",
+      "url": "https://x.com/aleabitoreddit/status/2071135874100990438#m",
+      "tweet_id": "2071135874100990438#m",
+      "translated": "我猜我们终于找到了为什么 $META 在三月份与像 $NBIS 这样的 Neoclouds 签署了大规模协议......以及为什么 Gemini 被超级削弱了。据报道，由于计算限制，$GOOGL 在 2026 年 3 月限制了 Meta 的容量。谷歌首席执行官表示，从上次财报来看，计算能力限制导致谷歌云无法满足更多客户需求，并使该部门的积压订单比上一季度增加了近一倍。这对于 AI DC 资本支出建设可能是积极的，因为超大规模企业的容量远低于所需的水平，尤其是在它们不能相互依赖的情况下。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2071074680253911267#m",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -81,16 +91,6 @@
       "url": "https://x.com/aleabitoreddit/status/2070789923108798545#m",
       "tweet_id": "2070789923108798545#m",
       "translated": "机器人技术是下一个。根据 3 月份数据，交易数量和投资金额都在飙升（来源：a16z） 好的一面是：同样的 AI DC 曝光通常会与人形爬坡交叉曝光。就像带有内存的 DRAM/NAND（用于人形推理/存储）或带有光子学的 DFB 激光器（FMCW LiDAR 视觉/传感）。目前，大多数曝光都是上游零部件……或者是 $AMZN 或 $TSLA 等大型企业内部的程序。因此，对于纯粹的类人/机器人公司来说，2027 年下半年的全球 IPO 季将会很有趣。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2070754658868687086#m",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sat, 27 Jun 2026 06:22:38 GMT",
-      "content": "Kinda nutty OpenAI’s is launching its heavyweight 5.6 Sol frontier model on $CBRS. At up to 750 tokens/sec, which is obscene performance. American inference go brrr. I actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price) after seeing this news yesterday. Feels like validation of its tech. IMO a bit overvalued compared to profitable companies like $JBL at the same valuation. But there’s likely premiums for OpenAI exposure, as long as they stay the leader.",
-      "url": "https://x.com/aleabitoreddit/status/2070754658868687086#m",
-      "tweet_id": "2070754658868687086#m",
-      "translated": "有点疯狂的 OpenAI 正在 $CBRS 上推出其重量级 5.6 Sol 前沿模型。高达 750 个令牌/秒，这是令人不快的性能。美国的推理去吧。事实上，在昨天看到这个消息后，我在大约 170 年代（低于 185 美元的 IPO 价格）第一次获得了 Cerebras 的首发头寸。感觉像是对其技术的验证。与同等估值的 JBL 等盈利公司相比，IMO 的估值有点高估。但只要 OpenAI 保持领先地位，他们的曝光度就可能会溢价。"
     }
   ],
   "stats": {
