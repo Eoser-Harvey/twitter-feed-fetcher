@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-06-28T08:56:39.244327+00:00",
-  "total": 9,
+  "fetched_at": "2026-06-28T11:10:02.016152+00:00",
+  "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2071184354756477041#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 28 Jun 2026 10:50:05 GMT",
+      "content": "Grok 4.5, based on our 1.5T V9 foundation model, with Cursor data added in supplemental training, is now in private beta at SpaceX & Tesla. Early evals show performance close to, perhaps exceeding Opus. RL is continuing to significantly improve the model, and the Grok Build harness gets better every day. Nice work by all those involved! Completely trained from scratch new models will be released by @SpaceX every month this year.",
+      "url": "https://x.com/elonmusk/status/2071184354756477041#m",
+      "tweet_id": "2071184354756477041#m",
+      "translated": "Grok 4.5 基于我们的 1.5T V9 基础模型，并在补充训练中添加了 Cursor 数据，现已在 SpaceX 和 Tesla 进行内测。早期评估显示性能接近甚至超过 Opus。 RL 正在继续显着改进模型，Grok Build 线束每天都在变得更好。所有参与者都干得好！ @SpaceX 今年每个月都会发布经过完全从头开始训练的新模型。"
+    },
+    {
+      "id": "tweet_elonmusk_2070987522336010277#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 27 Jun 2026 21:47:57 GMT",
+      "content": "RT by @elonmusk: \"To anyone I have offended, I just want to say I reinvented electric cars and I am sending people to Mars on a Rocketship, did you think I was also gonna be a chill normal dude?\" @elonmusk",
+      "url": "https://x.com/elonmusk/status/2070987522336010277#m",
+      "tweet_id": "2070987522336010277#m",
+      "translated": "@elonmusk 的转发：“对于我冒犯过的任何人，我只想说我重新发明了电动汽车，我正在用火箭飞船把人们送到火星，你认为我也会成为一个冷静的普通人吗？” @埃隆马斯克"
+    },
+    {
+      "id": "tweet_elonmusk_2071006600379117903#m",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 27 Jun 2026 23:03:45 GMT",
+      "content": "RT by @elonmusk: Everyone tells me that Elon Musk is a fascist because he could \"solve world hunger\" for a mere 3 billion dollars, but MacKenzie Bezos has burned through 26 billion dollars of her ex husband's money and accomplished absolutely nothing of note.",
+      "url": "https://x.com/elonmusk/status/2071006600379117903#m",
+      "tweet_id": "2071006600379117903#m",
+      "translated": "RT @elonmusk：每个人都告诉我埃隆·马斯克是法西斯主义者，因为他只需 30 亿美元就能“解决世界饥饿”，但麦肯齐·贝索斯却烧光了前夫 260 亿美元的钱，却没有取得任何值得注意的成就。"
+    },
     {
       "id": "tweet_cz_binance_2070791417929359409#m",
       "username": "cz_binance",
@@ -63,6 +93,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2071164721299112316#m",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sun, 28 Jun 2026 09:32:04 GMT",
+      "content": "Yup, Schaeffler $SHA0 is the ideal example for automotive players. ~ €7.47B MC auto player. - but also working with 45 humanoid players (extremely insane number, they do have €5.14b debt, EV is higher) - covers bearings, gearboxes, sensors/ECUs, actuators, power electronics. -ests. They can be roughly 50% BOM of a humanoid - targeting 10% market share of that. But only projecting a few hundred million revenue by 2030 (extremely sandbagged) if we’re using Elon’s projections for the market. Then’s theres auto players like Nabtesco (6268) for joints. And then Sanhua in China for $TSLA Optimus. Many of them are trade at lower valuations from drag from auto. But humanoids + AI Auto (TSM chairman cited this as a growth vector) should be a good catalyst past 2027 for automotive players. IMO there just needs to be a ChatGPT/Anthropic breakout downstream leader first for humanoids. That brings up the entire ecosystem that has robotics exposure. But as of now it’s probably like 1% of many of their overall revenue figures, and markets are focusing on immediate upside from bottlenecks like memory or MLCC. I’m sure we’ll see some random Toto-HBM type surprise as different humanoid architecture evolve.",
+      "url": "https://x.com/aleabitoreddit/status/2071164721299112316#m",
+      "tweet_id": "2071164721299112316#m",
+      "translated": "是的，舍弗勒 $SHA0 是汽车玩家的理想示例。 ~ €7.47B MC 自动播放器。 - 而且还与 45 个人形玩家合作（数量极其疯狂，他们确实有 5.14b 欧元的债务，EV 更高） - 涵盖轴承、变速箱、传感器/ECU、执行器、电力电子设备。 -ests。它们大约占人形机器人 BOM 的 50%，目标是占其中 10% 的市场份额。但如果我们使用 Elon 对市场的预测，那么到 2030 年，收入预计只有几亿（完全是沙袋）。还有像 Nabtesco (6268) 这样的汽车接头连接器。然后是三花在中国的特斯拉擎天柱。由于汽车行业的拖累，其中许多公司的估值较低。但人形机器人 + AI Auto（TSM 董事长将此视为增长载体）应该会成为 2027 年之后汽车厂商的良好催化剂。在我看来，类人机器人首先需要有一个 ChatGPT/Anthropic 突破下游领导者。这就带来了具有机器人技术的整个生态系统。但截至目前，它可能只占其整体收入数据的 1%，而且市场正在关注内存或 MLCC 等瓶颈带来的直接上行空间。我确信随着不同人形架构的发展，我们会看到一些随机的 Toto-HBM 类型的惊喜。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2071135874100990438#m",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -81,21 +121,11 @@
       "url": "https://x.com/aleabitoreddit/status/2071074680253911267#m",
       "tweet_id": "2071074680253911267#m",
       "translated": "《华尔街日报》：“中国在网络安全方面与 Anthropic 不相上下，重启人工智能竞赛” 中国的智普人工智能在某些基准测试中与 Anthropic 的 Mythos 不相上下，例如利用网络安全漏洞。嗯，这不太好。与其责怪做正确事情的政府……人类显然有错，因为没有设置足够的护栏来防止蒸馏。甚至在《神鬼寓言》发行之前，就有很多传言称中国有后门来提取它。其中一部分是加速人工智能护城河的数万亿资本支出。第二部分并不是将这项工作交给数以百万计的 API 调用。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2070789923108798545#m",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sat, 27 Jun 2026 08:42:45 GMT",
-      "content": "Robotics is next. Both deal count and investment amounts are skyrocketing per pitchbook March data (source: a16z) Good thing is: the same AI DC exposure often has cross-exposure to humanoid ramp. Like DRAM/NAND with memory (on humanoid inference/storage) or DFB lasers with photonics (FMCW LiDAR vision/sensing). Right now most exposure is upstream component parts… or programs within large players like $AMZN or $TSLA. So global IPO season H2 into 2027 for pure play humanoids/robotics companies is going to be fun.",
-      "url": "https://x.com/aleabitoreddit/status/2070789923108798545#m",
-      "tweet_id": "2070789923108798545#m",
-      "translated": "机器人技术是下一个。根据 3 月份数据，交易数量和投资金额都在飙升（来源：a16z） 好的一面是：同样的 AI DC 曝光通常会与人形爬坡交叉曝光。就像带有内存的 DRAM/NAND（用于人形推理/存储）或带有光子学的 DFB 激光器（FMCW LiDAR 视觉/传感）。目前，大多数曝光都是上游零部件……或者是 $AMZN 或 $TSLA 等大型企业内部的程序。因此，对于纯粹的类人/机器人公司来说，2027 年下半年的全球 IPO 季将会很有趣。"
     }
   ],
   "stats": {
-    "users_success": 3,
-    "users_failed": 1,
+    "users_success": 4,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
