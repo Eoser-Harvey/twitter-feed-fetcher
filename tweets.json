@@ -1,36 +1,56 @@
 {
-  "fetched_at": "2026-06-29T14:07:05.292206+00:00",
-  "total": 12,
+  "fetched_at": "2026-06-29T17:39:40.129237+00:00",
+  "total": 9,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2071422088691192111#m",
+      "id": "tweet_elonmusk_2071609842997870951#m",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Mon, 29 Jun 2026 02:34:45 GMT",
-      "content": "RT by @elonmusk: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship",
-      "url": "https://x.com/elonmusk/status/2071422088691192111#m",
-      "tweet_id": "2071422088691192111#m",
-      "translated": "RT @elonmusk：猎鹰 9 号的第一级已降落在 Gravitas 无人机的 A Shortfall 上"
+      "published_at": "Mon, 29 Jun 2026 15:00:49 GMT",
+      "content": "RT by @elonmusk: But Democrats told me Elon didn’t do philanthropy…",
+      "url": "https://x.com/elonmusk/status/2071609842997870951#m",
+      "tweet_id": "2071609842997870951#m",
+      "translated": "RT @elonmusk：但民主党人告诉我埃隆没有做慈善事业......"
     },
     {
-      "id": "tweet_elonmusk_2071571936241475706#m",
+      "id": "tweet_elonmusk_2071607502710477220#m",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Mon, 29 Jun 2026 12:30:12 GMT",
-      "content": "There are no American flags, but there are flags of many other countries. Those whose loyalty is to another country over America are, by definition, traitors and must be expelled immediately.",
-      "url": "https://x.com/elonmusk/status/2071571936241475706#m",
-      "tweet_id": "2071571936241475706#m",
-      "translated": "没有美国国旗，但有许多其他国家的国旗。那些忠于美国以外的国家的人，从定义上来说就是叛徒，必须立即驱逐。"
+      "published_at": "Mon, 29 Jun 2026 14:51:31 GMT",
+      "content": "RT by @elonmusk: If you are building harnesses or AI tools and would like help adding grok in there hit me up More powerful models are coming and it's better to be prepared ahead of time DM's are open",
+      "url": "https://x.com/elonmusk/status/2071607502710477220#m",
+      "tweet_id": "2071607502710477220#m",
+      "translated": "RT by @elonmusk：如果您正在构建线束或 AI 工具，并且希望在其中添加 grok 的帮助，请联系我 更强大的模型即将推出，最好提前做好准备 DM 开放"
     },
     {
-      "id": "tweet_elonmusk_2071400469713297820#m",
+      "id": "tweet_elonmusk_2071623150639681946#m",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Mon, 29 Jun 2026 01:08:51 GMT",
-      "content": "RT by @elonmusk: Originally USAID was a slush fund invented in 1964 during the cold war under the Johnson Doctrine. An election fund to prevent communist and Socialist regimes from the Western Hemisphere. Mainly Central and South America.. Democrats abused and perverted USAID to elect Socialist and Communist fegimes in the western hemisphere. And radical Islamic Regimes in Northwest Africa This phenomenon isn't immediately apparent but a map. And the dates of the elections shows a trend.",
-      "url": "https://x.com/elonmusk/status/2071400469713297820#m",
-      "tweet_id": "2071400469713297820#m",
-      "translated": "RT @elonmusk：美国国际开发署最初是 1964 年冷战时期约翰逊主义下发明的行贿基金。防止共产主义和社会主义政权侵入西半球的选举基金。主要是中美洲和南美洲。民主党人滥用和歪曲美国国际开发署，在西半球选举社会主义和共产主义领导人。西北非的激进伊斯兰政权这种现象并不是立即显现出来的，而是一张地图。 And the dates of the elections shows a trend."
+      "published_at": "Mon, 29 Jun 2026 15:53:42 GMT",
+      "content": "RT by @elonmusk: xAI has added Build page to xAI Console",
+      "url": "https://x.com/elonmusk/status/2071623150639681946#m",
+      "tweet_id": "2071623150639681946#m",
+      "translated": "RT by @elonmusk：xAI 已将构建页面添加到 xAI 控制台"
+    },
+    {
+      "id": "tweet_cz_binance_2071603353738510517#m",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Mon, 29 Jun 2026 14:35:02 GMT",
+      "content": "RT by @cz_binance: I’m incredibly proud to launch The Starting Block with an exclusive live interview with @cz_binance from Abu Dhabi. @TheBlockCo officially has a new live daily show! If you missed the interview with the @binance founder - check out the stream below.",
+      "url": "https://x.com/cz_binance/status/2071603353738510517#m",
+      "tweet_id": "2071603353738510517#m",
+      "translated": "RT by @cz_binance：我非常自豪能够通过来自阿布扎比的 @cz_binance 的独家现场采访来推出 The Start Block。 @TheBlockCo 正式推出新的每日直播节目！如果您错过了对 @binance 创始人的采访 - 请查看下面的直播。"
+    },
+    {
+      "id": "tweet_cz_binance_2071599846545658253#m",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Mon, 29 Jun 2026 14:21:06 GMT",
+      "content": "RT by @cz_binance: . @BNBCHAIN leads with the most total users retained from Q1 2025, with over 1.49M still active a year later in Q1 2026.",
+      "url": "https://x.com/cz_binance/status/2071599846545658253#m",
+      "tweet_id": "2071599846545658253#m",
+      "translated": "RT@cz_binance：。 @BNBCHAIN 在 2025 年第一季度保留的用户总数中处于领先地位，一年后的 2026 年第一季度仍有超过 149 万活跃用户。"
     },
     {
       "id": "tweet_cz_binance_2071566570435023029#m",
@@ -41,56 +61,6 @@
       "url": "https://x.com/cz_binance/status/2071566570435023029#m",
       "tweet_id": "2071566570435023029#m",
       "translated": "现在就住。"
-    },
-    {
-      "id": "tweet_cz_binance_2071267656435699774#m",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 28 Jun 2026 16:21:06 GMT",
-      "content": "RT by @cz_binance: How is that last sentence possible? \"His net worth jumped $47 BILLION in a single year even as crypto prices fell over 50%.\"",
-      "url": "https://x.com/cz_binance/status/2071267656435699774#m",
-      "tweet_id": "2071267656435699774#m",
-      "translated": "RT @cz_binance：最后一句话怎么可能？ “尽管加密货币价格下跌了 50% 以上，但他的净资产在一年内飙升了 470 亿美元。”"
-    },
-    {
-      "id": "tweet_cz_binance_2071231045379477985#m",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 28 Jun 2026 13:55:37 GMT",
-      "content": "Just back from the Philippines. One of the most exciting digital asset markets in SEA right now, jumping to 4th globally in TRM Labs' Country Crypto Adoption Index. Their regulators get it. Collaborative, forward-thinking, focused on outcomes: consumer protection, innovation, growth. Rare combo. Met great people at the Department of Finance including Secretary Frederick Go, the SEC’s Chairman Francis Lim, and the BlockShoals team. Real conversations about where the industry is heading. Big one: the SEC's PhiliFintech Innovation Office just gave BlockShoals in-principle approval under StratBox. This is what good regulation looks like. Build pathways, not walls. Programs like that signal that the Philippines is serious. Confidence attracts capital. Capital funds innovation. Flywheel starts here. Bullish on the Philippines. And crypto - buying the dip. More soon. 🇵🇭",
-      "url": "https://x.com/cz_binance/status/2071231045379477985#m",
-      "tweet_id": "2071231045379477985#m",
-      "translated": "刚从菲律宾回来。目前是东南亚最令人兴奋的数字资产市场之一，在 TRM Labs 的国家加密货币采用指数中跃升至全球第四位。他们的监管者明白了。协作、前瞻性思维、注重成果：消费者保护、创新、增长。罕见的组合。会见了财政部长 Frederick Go、SEC 主席 Francis Lim 和 BlockShoals 团队等杰出人士。关于行业发展方向的真实对话。重大事件：SEC 的 PhiliFintech 创新办公室刚刚在 StratBox 下原则上批准了 BlockShoals。这就是良好监管的样子。建造道路，而不是墙壁。类似的节目表明菲律宾是认真的。信心吸引资本。资本资助创新。飞轮从这里开始。看好菲律宾。还有加密货币——逢低买入。很快就会有更多。 🇵🇭"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2068370500334637542#m",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
-      "content": "RT by @realDonaldTrump: POLL…",
-      "url": "https://x.com/realDonaldTrump/status/2068370500334637542#m",
-      "tweet_id": "2068370500334637542#m",
-      "translated": "RT @realDonaldTrump：投票……"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2068370042018767262#m",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sat, 20 Jun 2026 16:27:01 GMT",
-      "content": "Pinned: POLL: ICE has been abused by the Fake News Media at levels never seen before. They are Great Patriots who work hard, and do a fantastic job in a very hostile environment. Much of this hostility is caused by the Dumocrats and the Fake News. The concept I have had for quite some time — A strong feeling that the name of these Patriots, “ICE,” should be changed to, “NICE,” in that it will totally discombobulate Crooked, Dishonest, and Unpatriotic Reporters and Journalists. For them to say, “We went to a NICE Facility today,” as opposed to “ICE” or, “NICE Agents have deported a Violent Drug Dealer,” they won’t be able to handle it, they will go totally crazy! All it means is adding an “N” (“National”) to “ICE (“Immigration and Customs Enforcement”) — A much more prestigious name. Everyone loves it, but I have been told by the legendary Tom Homan that the Agents do not love it as much as the other population. Who thinks that we should add an “N” to change the name of “ICE” to “NICE?”   Thank you for your attention to this matter! President DJT",
-      "url": "https://x.com/realDonaldTrump/status/2068370042018767262#m",
-      "tweet_id": "2068370042018767262#m",
-      "translated": "已固定：民意调查：假新闻媒体对 ICE 的滥用达到了前所未有的程度。他们是伟大的爱国者，他们努力工作，在非常恶劣的环境中做得非常出色。这种敌意很大程度上是由杜民主派和假新闻引起的。我有一段时间一直有这样的想法——一种强烈的感觉，这些爱国者的名字“ICE”应该改为“NICE”，因为这将彻底扰乱不诚实、不诚实、不爱国的记者和记者。对于他们来说，“我们今天去了一家 NICE 设施”，而不是“ICE”或“NICE 特工驱逐了一名暴力毒贩”，他们将无法处理，他们会完全疯掉！这意味着在“ICE”（“移民和海关执法局”）中添加一个“N”（“国家”）——一个更有声望的名字。每个人都喜欢它，但传奇人物汤姆·霍曼告诉我，特工们并不像其他人那样喜欢它。谁认为我们应该添加一个“N”来将“ICE”的名字改为“NICE”？   感谢您对此事的关注！总裁DJT"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2057968277062582378#m",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Fri, 22 May 2026 23:34:07 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2057968277062582378#m",
-      "tweet_id": "2057968277062582378#m",
-      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2071545016007467486#m",
@@ -124,8 +94,8 @@
     }
   ],
   "stats": {
-    "users_success": 4,
-    "users_failed": 0,
-    "nitter_healthy": 10
+    "users_success": 3,
+    "users_failed": 1,
+    "nitter_healthy": 9
   }
 }
