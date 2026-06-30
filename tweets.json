@@ -1,34 +1,65 @@
 {
-  "fetched_at": "2026-06-30T15:31:04.921685+00:00",
-  "total": 9,
+  "fetched_at": "2026-06-30T17:57:49.428078+00:00",
+  "total": 12,
   "tweets": [
     {
-      "id": "tweet_cz_binance_2071974051615273290",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Tue, 30 Jun 2026 15:08:03 GMT",
-      "content": "fantastic to hear!",
-      "url": "https://x.com/cz_binance/status/2071974051615273290",
-      "tweet_id": "2071974051615273290",
-      "translated": "太棒了！"
+      "id": "tweet_elonmusk_2072000588112343388",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 30 Jun 2026 16:53:30 GMT",
+      "content": "SpaceXAI",
+      "url": "https://x.com/elonmusk/status/2072000588112343388",
+      "tweet_id": "2072000588112343388",
+      "translated": "SpaceX人工智能"
     },
     {
-      "id": "tweet_cz_binance_2071949707144994876",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Tue, 30 Jun 2026 13:31:19 GMT",
-      "content": "RT by @cz_binance: 6年前，加入币安起，我就一直在思考这句话：“Exchange the world”。 到底什么是 Exchange the world？刚开始，它对我来说更像一句宏大的品牌表达。但在币安工作的这些年，我越来越有体感：它不是一句口号，而是一个团队每天不断把问题解决、把产品打磨、把用户体验往前推的过程。 2020年，Binance P2P、BNB Smart Chain、Launchpool、Binance Earn 陆续完善：用户不只是交易，也可以更低门槛地买币、进入链上世界、管理资产收益。 2021年，Auto-Invest 和 Binance Pay 让更多普通用户开始理解，Crypto 不只是波动和交易，也可以是长期配置、日常支付和真实生活的一部分。 2022年，Binance Feed 上线，后来升级为 Binance Square，让用户不只是在平台上交易，也能在这里获取信息、表达观点、连接社区。 2023年，Binance Web3 Wallet 上线。那时候大家也会说，你们的钱包还不够好用。但我看到的是，产研团队真的在到处收集意见，一点点打磨体验：降低助记词门槛、优化链上交互、把 CeFi 和 DeFi 的入口打通。也是在这一年，Copy Trading 上线，让更多新用户可以通过观察和跟随经验型交易者，降低理解市场的门槛。 2024年，Megadrop、HODLer Airdrops 上线，币安把 Simple Earn、BNB 持仓、Web3 Wallet 和早期项目机会连接起来，让用户能够以更系统、更透明的方式参与行业早期红利。 到了2025年，Binance Alpha 进一步把“早期项目发现”变成一个用户真实可参与的产品体验。官方数据显示，2025年超过1320万 Binance 用户通过 Binance Web3 Wallet 进入 Web3 生态，累计完成超过5467亿美元交易。对我来说，这就是一种很具体的进化：曾经被用户吐槽的地方，后来变成了用户选择和数据验证的地方。 一姐 @heyibinance 曾说：“最强大的对手其实是自己，币安也需要自己去打败自己才能进化。” 而在币安工作的每一天，我都能感觉到，我们的团队确实一直在这样做。听劝，务实，快速迭代，不断推翻过去的自己。用户说哪里不好，我们就去看、去问、去改；市场变化了，我们就重新思考产品应该怎么服务用户；行业进入新阶段，我们就继续把复杂的东西变简单，把遥远的东西变成普通人也能使用的工具。 所以后来我越来越理解，Exchange the world 不是一句很远的愿景。它是每一次用户反馈之后的产品改进，是每一次行业变化之后的重新出发，也是一个团队在不断自我进化中，把金融自由、Web3 入口和真实用户体验，一点点带到更多人面前。 最后欢迎大家体验7x24h Bstocks ！活动链接：https://www.binance.com/activity/chance/202606bStockscampaign?utm_source=social",
-      "url": "https://x.com/cz_binance/status/2071949707144994876",
-      "tweet_id": "2071949707144994876"
+      "id": "tweet_elonmusk_2072000185769586922",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 30 Jun 2026 16:51:54 GMT",
+      "content": "And that’s just the tip of the iceberg",
+      "url": "https://x.com/elonmusk/status/2072000185769586922",
+      "tweet_id": "2072000185769586922",
+      "translated": "这只是冰山一角"
     },
     {
-      "id": "tweet_cz_binance_2071572939355611263",
+      "id": "tweet_elonmusk_2071994061624426582",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 30 Jun 2026 16:27:34 GMT",
+      "content": "Image",
+      "url": "https://x.com/elonmusk/status/2071994061624426582",
+      "tweet_id": "2071994061624426582",
+      "translated": "图像"
+    },
+    {
+      "id": "tweet_cz_binance_2071982752300450204",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
-      "published_at": "Mon, 29 Jun 2026 12:34:11 GMT",
-      "content": "RT by @cz_binance: 热知识：由于订单簿深度、交易量等原因 币安的交易深度遥遥领先 大额交易在交易所中磨损最低 冷知识：100万刀交易平均滑点 币安是1.67、OKX是4.47、Bybit是7.42 @cz_binance @heyibinance @binancezh mame-inu:native",
-      "url": "https://x.com/cz_binance/status/2071572939355611263",
-      "tweet_id": "2071572939355611263"
+      "published_at": "Tue, 30 Jun 2026 15:42:38 GMT",
+      "content": "👏",
+      "url": "https://x.com/cz_binance/status/2071982752300450204",
+      "tweet_id": "2071982752300450204"
+    },
+    {
+      "id": "tweet_cz_binance_2071958863104897215",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Tue, 30 Jun 2026 14:07:42 GMT",
+      "content": "RT by @cz_binance: on June 30th 2020, $BNB was trading at $15,49. 6 years ago precisely. definition of « building » in numbers.",
+      "url": "https://x.com/cz_binance/status/2071958863104897215",
+      "tweet_id": "2071958863104897215",
+      "translated": "@cz_binance 转发：2020 年 6 月 30 日，$BNB 交易价格为 15.49 美元。准确地说是 6 年前。 “建筑”的数字定义。"
+    },
+    {
+      "id": "tweet_cz_binance_2071799629646377443",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Tue, 30 Jun 2026 03:34:58 GMT",
+      "content": "RT by @cz_binance: Binance Japan は7月1日付で、豊崎亜里紗 @arisatoyo_jp が新ゼネラルマネージャー（代表取締役）に就任いたします。Binance Japanの次なる成長フェーズへ。 全文はこちら👇 https://prtimes.jp/main/html/rd/p/000000050.000126862.html #BinanceJapan #Web3 #暗号資産",
+      "url": "https://x.com/cz_binance/status/2071799629646377443",
+      "tweet_id": "2071799629646377443",
+      "translated": "@cz_binance 转发：Arisa Toyosaki @arisatoyo_jp 将于 7 月 1 日被任命为币安日本的新总经理（代表董事）。迈向币安日本的下一个增长阶段。点击此处查看全文👇 https://prtimes.jp/main/html/rd/p/000000050.000126862.html #BinanceJapan #Web3 #Cryptoassets"
     },
     {
       "id": "tweet_realDonaldTrump_2068370500334637542",
@@ -61,6 +92,26 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2072007692684837039",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 30 Jun 2026 17:21:44 GMT",
+      "content": "$SIVE is raising ~$61M (600M SEK) to expand manufacturing capacity for InP lasers and optical amplifiers. Sivers operates as a fab-lite model so this is likely hinting at foundry allocation/scaling for CW DFB laser ramp across Jabil, and their other partners. It could also point to broader foundry allocation/scaling beyond the already announced WIN partnership. My feedback is that it's very bullish if it's comprised of long-only institutions and there's no heavy discount (30 day VWAP). Otherwise, would need to reaccess if there's arb or short term investors. This is the perfect time to get ideal strategic investors like $GFS on the cap table. As well as focusing on having more US institutional support. Especially considering $56M is a small check to a single US institution that want photonics exposure (eg. look at Poet's $400M registered direct offering for sentiment). A lot of it is \"it depends when more info comes out\", but this looks like a very positive signal for mass production given Siver's fab-lite models.",
+      "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
+      "tweet_id": "2072007692684837039",
+      "translated": "$SIVE 正在筹集约 6100 万美元（6 亿瑞典克朗），用于扩大 InP 激光器和光学放大器的制造能力。 Sivers 以精简晶圆厂模式运营，因此这可能暗示捷普及其其他合作伙伴的 CW DFB 激光坡道代工厂分配/规模扩大。它还可能表明，除了已经宣布的 WIN 合作伙伴关系之外，还有更广泛的代工分配/规模扩大。我的反馈是，如果它由只做多的机构组成并且没有大幅折扣（30 天 VWAP），那么它是非常看涨的。否则，如果有套利或短期投资者，则需要重新进入。现在是让像 $GFS 这样的理想战略投资者进入股权结构表的最佳时机。并注重获得更多美国机构的支持。特别是考虑到 5600 万美元对于一家希望涉足光子学领域的美国机构来说只是一笔小额支票（例如，看看 Poet 的 4 亿美元注册直接发行以表达情绪）。其中很多是“这取决于更多信息何时出现”，但考虑到 Siver 的 fab-lite 模型，这对于大规模生产来说似乎是一个非常积极的信号。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2071995924172394695",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 30 Jun 2026 16:34:58 GMT",
+      "content": "Yep! Agility Robotics is currently my favorite humanoid/robotics position. They're set to be listed on NASDAQ via $CCXI as early as September (per Digitimes). Just for informational purposes: Their V4 humanoid robot is already operating in sites like Amazon. And have V5 slated for mass production next year (they have a 10,000+ /year capacity). Investors include Foxconn, $NVDA, $AMZN, Softbank, and now Serenity. I've been personally waiting for humanoid exposure for awhile (Agility is set to be the first US pure-play listed one) to the point I was actually planning on investing in Unitree's IPO. But I'm glad now I personally have a compelling alternative now since I prefer to invest capital to build up Made in America supply chains (75% of their components are US-sourced from investor desks). There are risks assigned to SPACs such as listing delays, or cancellation. But excited to see what happens next with developments. I do hope this encourages other frontier companies to go public early on.",
+      "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+      "tweet_id": "2071995924172394695",
+      "translated": "是的！敏捷机器人是目前我最喜欢的人形/机器人职位。他们最早将于 9 月通过 $CCXI 在纳斯达克上市（据 Digitimes 报道）。仅供参考：他们的 V4 人形机器人已经在亚马逊等网站上运行。 V5 预计明年量产（年产能超过 10,000 辆）。投资者包括富士康、$NVDA、$AMZN、软银以及现在的 Serenity。我个人等待人形机器人的曝光已经有一段时间了（Agility 将成为第一个在美国上市的纯游戏），以至于我实际上计划投资 Unitree 的 IPO。但我很高兴现在我个人有了一个令人信服的选择，因为我更愿意投资资金来建立美国制造的供应链（其 75％ 的组件是从投资者柜台采购的美国）。 SPAC 存在上市延迟或取消等风险。但很高兴看到接下来会发生什么。我确实希望这能鼓励其他前沿公司尽早上市。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2071977219002613768",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -69,31 +120,11 @@
       "url": "https://x.com/aleabitoreddit/status/2071977219002613768",
       "tweet_id": "2071977219002613768",
       "translated": "我想知道类人机器人是否会引发机器人化妆品的新瓶颈/行业。就像皮肤瓶颈一样。或者 Aespa KPOP 机器人改造服务。因此，如果 TSLA Optimus 制造了数千万个类人机器人：谁会让它们看起来很性感？"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2071961279380791729",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 30 Jun 2026 14:17:18 GMT",
-      "content": "There was a pretty funny anecdotal complaint from the Machine Learning $RDDT subreddit. On $CBRS + OpenAI: - Needs 1-2K tokens/sec so tries to use Cerebras. - Claims OpenAI reserved all capacity, making waitlist infinite for everyone else not a hyperscaler. - Stated alternatives with Groq’s API not accessible to them Feels bad. But it does show how few players / limited capacity there is for fast inference.",
-      "url": "https://x.com/aleabitoreddit/status/2071961279380791729",
-      "tweet_id": "2071961279380791729",
-      "translated": "Reddit 机器学习 $RDDT 子版块有一个非常有趣的轶事抱怨。在 $CBRS + OpenAI 上： - 需要 1-2K 代币/秒，因此尝试使用 Cerebras。 - 声称 OpenAI 保留了所有容量，使得其他人（而不是超大规模企业）的候补名单无限。 - 他们无法访问 Groq 的 API 的替代方案 感觉很糟糕。但它确实表明快速推理的玩家很少/能力有限。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2071903552608362500",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 30 Jun 2026 10:27:55 GMT",
-      "content": "Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META. When China entities like 360 go and claim: They now have a \"AI cyber nuclear weapon\" that can hack Western companies and governments. (Zhou claimed Mythos was like an AI era cyber nuclear weapon, then claimed they built a Chinese equivalent). We're probably witnessing the modern cold war. But instead of nuclear stockpiles, it's racing to build superintelligence both offensively and defensively. With many different \"battles\" happening concurrently like supply chain export controls between China -> Japan -> US hyperscalers. The funny thing is that everyone still depends on one another: - US with things like rare earths and feedstock from China. - China with EUV to EDA and engineered substrates. So there's still give or takes trades to build up capabilities like Nvidia/AMD AI chips access for rare-earth/magnets access. Which is exactly why it's important for the US to build up rare earths supply chains ASAP. And not piss off allied supply chain chokepoints like European EUV partners with $ASML to Japanese vacuum/furnace makers like Ulvac with things like tariffs, if the US wants to use it as leverage for negotiations. But we're getting dangerously closer to a point where supply chain interdependence is not a deterrent against escalation. Especially as China grows closer to becoming self-reliant. And that might be the tipping point.",
-      "url": "https://x.com/aleabitoreddit/status/2071903552608362500",
-      "tweet_id": "2071903552608362500",
-      "translated": "很难想象美国人工智能超大规模资本支出会从 $GOOGL 大幅下降到 $META。当像360这样的中国实体声称：他们现在拥有可以攻击西方公司和政府的“人工智能网络核武器”。 （周声称神话就像人工智能时代的网络核武器，然后声称他们建造了中国的同类武器）。我们可能正在目睹现代冷战。但它正在竞相建立进攻性和防御性的超级智能，而不是核武器储备。许多不同的“战斗”同时发生，例如中国->日本->美国超大规模企业之间的供应链出口管制。有趣的是，每个人仍然相互依赖： - 美国提供来自中国的稀土和原料等产品。 - 中国拥有 EUV 到 EDA 和工程基板。因此，仍然需要进行交换来建立诸如 Nvidia/AMD AI 芯片访问稀土/磁体等能力。这正是美国尽快建立稀土供应链的重要原因。如果美国想将其用作谈判的筹码，不要用关税等措施激怒盟国供应链的瓶颈，例如欧洲 EUV 与 $ASML 的合作伙伴，以及日本真空/熔炉制造商（例如 Ulvac）的关税。但我们正在危险地接近供应链相互依赖无法阻止升级的地步。尤其是随着中国越来越接近自力更生。这可能是转折点。"
     }
   ],
   "stats": {
-    "users_success": 3,
-    "users_failed": 1,
+    "users_success": 4,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
