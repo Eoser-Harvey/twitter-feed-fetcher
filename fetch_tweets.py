@@ -16,6 +16,11 @@ import time
 from datetime import datetime, timezone
 import requests
 
+
+def clean_tweet_id(tid):
+    """Strip #m suffix from Nitter RSS tweet IDs to ensure consistent dedup."""
+    return tid.replace("#m", "") if isinstance(tid, str) else str(tid)
+
 # === Configuration ===
 TARGET_USERS = [
     {"username": "elonmusk", "display_name": "马斯克"},
@@ -378,7 +383,7 @@ def parse_nitter_rss(rss_text, user):
                 content = parts[-1].strip() if len(parts) > 1 else content
             if not content:
                 continue
-            tweet_id = link_text.rstrip("/").split("/")[-1] if link_text else ""
+            tweet_id = clean_tweet_id(link_text.rstrip("/").split("/")[-1]) if link_text else ""
             if not tweet_id:
                 continue
             tweets.append({
@@ -425,7 +430,7 @@ def parse_nitter_html(html_text, user):
                     href = attrs_dict.get("href", "")
                     if href:
                         self.current["link"] = href
-                        tid = href.rstrip("/").split("/")[-1]
+                        tid = clean_tweet_id(href.rstrip("/").split("/")[-1])
                         self.current["tweet_id"] = tid
                 if "tweet-date" in cls:
                     self.in_date = True
