@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-30T09:40:17.102115+00:00",
+  "fetched_at": "2026-06-30T12:11:42.365396+00:00",
   "total": 12,
   "tweets": [
     {
@@ -59,7 +59,7 @@
       "content": "RT by @cz_binance: Binance spends $300M every year on compliance. 1,500+ employees work to keep users safe. Binance stopped $10.53B in potential fraud (2025–Q1 2026), Recovered $114M from hacks in 2025 + $60.2M in 2026 so far. People can say a lot about #Binance But this kind of user protection is rarely seen in crypto.",
       "url": "https://x.com/cz_binance/status/2071624476337578239",
       "tweet_id": "2071624476337578239",
-      "translated": "@cz_binance 转发：币安每年在合规性方面花费 3 亿美元。 1,500 多名员工致力于确保用户安全。币安阻止了 10.53B 美元的潜在欺诈（2025 年至 2026 年第一季度），2025 年从黑客攻击中追回了 1.14 亿美元，2026 年迄今为止追回了 6020 万美元。人们可以对 #Binance 说很多话，但这种用户保护在加密领域很少见到。"
+      "translated": "@cz_binance 转发：币安每年在合规性方面花费 3 亿美元。 1,500 多名员工致力于确保用户安全。币安阻止了 10.53B 美元的潜在欺诈（2025 年至 2026 年第一季度），2025 年从黑客攻击中追回了 1.14 亿美元，2026 年迄今为止追回了 6020 万美元。人们可以对 #Binance 说很多话，但这种用户保护在加密领域很少见。"
     },
     {
       "id": "tweet_realDonaldTrump_2068370500334637542",
@@ -92,6 +92,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2071903552608362500",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 30 Jun 2026 10:27:55 GMT",
+      "content": "Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META. When China entities like 360 go and claim: They now have a \"AI cyber nuclear weapon\" that can hack Western companies and governments. (Zhou claimed Mythos was like an AI era cyber nuclear weapon, then claimed they built a Chinese equivalent). We're probably witnessing the modern cold war. But instead of nuclear stockpiles, it's racing to build superintelligence both offensively and defensively. With many different \"battles\" happening concurrently like supply chain export controls between China -> Japan -> US hyperscalers. The funny thing is that everyone still depends on one another: - US with things like rare earths and feedstock from China. - China with EUV to EDA and engineered substrates. So there's still give or takes trades to build up capabilities like Nvidia/AMD AI chips access for rare-earth/magnets access. Which is exactly why it's important for the US to build up rare earths supply chains ASAP. And not piss off allied supply chain chokepoints like European EUV partners with $ASML to Japanese vacuum/furnace makers like Ulvac with things like tariffs, if the US wants to use it as leverage for negotiations. But we're getting dangerously closer to a point where supply chain interdependence is not a deterrent against escalation. Especially as China grows closer to becoming self-reliant. And that might be the tipping point.",
+      "url": "https://x.com/aleabitoreddit/status/2071903552608362500",
+      "tweet_id": "2071903552608362500",
+      "translated": "很难想象美国人工智能超大规模资本支出会从 $GOOGL 大幅下降到 $META。当像360这样的中国实体声称：他们现在拥有可以攻击西方公司和政府的“人工智能网络核武器”。 （周声称神话就像人工智能时代的网络核武器，然后声称他们建造了中国的同类武器）。我们可能正在目睹现代冷战。但它正在竞相建立进攻性和防御性的超级智能，而不是核武器储备。许多不同的“战斗”同时发生，例如中国->日本->美国超大规模企业之间的供应链出口管制。有趣的是，每个人仍然相互依赖： - 美国提供来自中国的稀土和原料等产品。 - 中国拥有 EUV 到 EDA 和工程基板。因此，仍然需要进行交换来建立诸如 Nvidia/AMD AI 芯片访问稀土/磁体等能力。这正是美国尽快建立稀土供应链的重要原因。如果美国想将其用作谈判的筹码，不要用关税等措施激怒盟国供应链的瓶颈，例如欧洲 EUV 与 $ASML 的合作伙伴，以及日本真空/熔炉制造商（例如 Ulvac）的关税。但我们正在危险地接近供应链相互依赖无法阻止升级的地步。尤其是随着中国越来越接近自力更生。这可能是转折点。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2071763387948859506",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,21 +120,11 @@
       "url": "https://x.com/aleabitoreddit/status/2071730699363881241",
       "tweet_id": "2071730699363881241",
       "translated": "对于机器人公司，我看好Unitree和Agility Robotics这两家人形机器人公司。我最关注的是 Agility Robotics，因为我个人更喜欢美国的类人机器人玩家。对于上游组件暴露，我目前拥有： - Harmonic Drive (6324)，给出了谐波减速齿轮等高内容 BOM。 - Vishay Precision 传感器和 Telsa Optimus 的可能候选者。我对LeaderDrive (688017) 和舍弗勒有好感，但个人并不认同。许多其他 AI DC 玩家，我都间接接触过像记忆这样的机器人技术。不建议任何人复制，仅分享个人立场/想法。人形机器人行业规模庞大，高盛报告称“韩国公司将直接和间接占据全球人形机器人生产的 30% 份额”。全球有很多玩家。这是一份较旧的报告，但只是再次链接它，因为您会看到所有这些报告都出现在 GS 机构报告中以及它们所涵盖的内容。到目前为止，Agility Robotics 是我个人最喜欢的。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2071545016007467486",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 29 Jun 2026 10:43:13 GMT",
-      "content": "Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite networks for Japan per Digitimes/Nikkei. \"The move is widely viewed as a strategic response to the growing influence of $SPCX Starlink in Japan\"",
-      "url": "https://x.com/aleabitoreddit/status/2071545016007467486",
-      "tweet_id": "2071545016007467486",
-      "translated": "据 Digitimes/Nikkei 报道，日本乐天公司将与 $ASTS 成立合资企业，为日本建设 LEO 卫星网络。 “此举被广泛视为对 $SPCX Starlink 在日本日益增长的影响力的战略回应”"
     }
   ],
   "stats": {
     "users_success": 4,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
