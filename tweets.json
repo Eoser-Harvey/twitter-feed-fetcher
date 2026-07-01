@@ -1,36 +1,46 @@
 {
-  "fetched_at": "2026-07-01T12:36:02.326098+00:00",
+  "fetched_at": "2026-07-01T15:44:31.811438+00:00",
   "total": 12,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2072049009741738469",
+      "id": "tweet_elonmusk_2071913201420181776",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 30 Jun 2026 20:05:55 GMT",
-      "content": "RT by @elonmusk: “Sometimes I wonder, maybe everything is conscious, or nothing is conscious. I prefer the former; it just seems more fun.” – Elon Musk",
-      "url": "https://x.com/elonmusk/status/2072049009741738469",
-      "tweet_id": "2072049009741738469",
-      "translated": "RT @elonmusk：“有时我想知道，也许一切都是有意识的，或者什么都没有意识。我更喜欢前者；它看起来更有趣。” ——埃隆·马斯克"
+      "published_at": "Tue, 30 Jun 2026 11:06:16 GMT",
+      "content": "RT by @elonmusk: We tax cigarettes to reduce smoking. We tax alcohol to reduce drinking. We tax fuel to reduce driving. What do you think happens when you tax employing people and running a business?",
+      "url": "https://x.com/elonmusk/status/2071913201420181776",
+      "tweet_id": "2071913201420181776",
+      "translated": "RT @elonmusk：我们对香烟征税是为了减少吸烟。我们对酒精征税以减少饮酒。我们对燃油征税以减少驾驶。您认为当您对雇员征税和经营企业时会发生什么？"
     },
     {
-      "id": "tweet_elonmusk_2072214077372518657",
+      "id": "tweet_elonmusk_2072225418577400031",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 01 Jul 2026 07:01:50 GMT",
-      "content": "Walking the Optimus production line in Fremont",
-      "url": "https://x.com/elonmusk/status/2072214077372518657",
-      "tweet_id": "2072214077372518657",
-      "translated": "走访弗里蒙特的 Optimus 生产线"
+      "published_at": "Wed, 01 Jul 2026 07:46:54 GMT",
+      "content": "RT by @elonmusk: Now The Fountainhead – arguably the better book: 1. There are two ways to exist: create from your own vision, or live by reflecting and pleasing others – Rand calls them the first-handers and the second-handers. 2. Howard Roark is an architect who will only build what he actually believes in. He starves rather than compromise the design. The world resists him constantly. 3. Peter Keating is the opposite – talented enough, but builds his entire career on flattering clients, copying styles, and climbing socially. He succeeds, but remains hollow. 4. The villain, Ellsworth Toohey, is the system made conscious: he deliberately promotes mediocrity, knowing that a world of second-handers needs a critic to tell them what to think – and that gives him total power. 5. Roark’s crime, in the eyes of that world, isn’t failure – it’s that he doesn’t need their approval. That independence is experienced as an affront. 6. The novel’s argument: civilization’s actual source is the rare individual who originates rather than imitates. Everyone else — including people who despise him — lives downstream of what he creates. 7. The Fountainhead is Roark himself. Not a fountain – a fountainhead: the original source, where the water actually comes from. Before the river, before the tributaries, before anyone else draws from it. The title says: find that person, and you’ve found where everything real begins.",
+      "url": "https://x.com/elonmusk/status/2072225418577400031",
+      "tweet_id": "2072225418577400031",
+      "translated": "RT @elonmusk：《现在的源泉》——可以说是一本更好的书： 1. 存在有两种方式：根据自己的愿景进行创造，或者通过反思和取悦他人来生活——兰德称它们为第一手者和二手者。 2. 霍华德·罗克（Howard Roark）是一位只会建造他真正相信的东西的建筑师。他宁愿挨饿也不愿妥协设计。世界不断地抵制他。 3. 彼得·基廷 (Peter Keating) 则恰恰相反——才华横溢，但他的整个职业生涯都建立在奉承客户、模仿风格和社交攀登之上。他成功了，但仍然空虚。 4. 恶棍埃尔斯沃斯·图希（Ellsworth Toohey）是有意识的系统：他故意宣扬平庸，因为他知道一个二手货的世界需要批评家来告诉他们该想什么——这给了他完全的权力。 5. 在那个世界的眼中，罗克的罪行并不是失败——而是他不需要他们的认可。这种独立被视为一种侮辱。 6、小说论点：文明的真正源头是那些创造而不是模仿的稀有个体。其他人——包括那些鄙视他的人——都生活在他所创造的事物的下游。 7. 源头就是洛克本人。不是喷泉，而是源头：原始水源，水的实际来源。在河流之前，在支流之前，在其他人取水之前。标题说：找到那个人，你就找到了一切真正开始的地方。"
     },
     {
-      "id": "tweet_elonmusk_2072095000041807988",
+      "id": "tweet_elonmusk_2072315431881453800",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 30 Jun 2026 23:08:40 GMT",
-      "content": "RT by @elonmusk: Neuralink 🧠✨ How it started v/s. How it's going",
-      "url": "https://x.com/elonmusk/status/2072095000041807988",
-      "tweet_id": "2072095000041807988",
-      "translated": "RT @elonmusk：Neuralink 🧠✨ 它是如何开始的。进展如何"
+      "published_at": "Wed, 01 Jul 2026 13:44:35 GMT",
+      "content": "RT by @elonmusk: Creating AI voice agents has become ridiculously easy xAI’s Grok Voice Agent Builder lets you deploy a human-like voice agent in under 2 minutes - no coding required It is currently in beta, but the stack is already powerful: • Natural real-time conversations • Sub-second latency • 25+ languages • Free phone number or bring your own • Build and deploy directly from your browser Combined with Grok’s industry-leading voice models, we are getting closer to AI voice agents that actually sound and respond like real humans Try it here: https://x.ai/voice⁠",
+      "url": "https://x.com/elonmusk/status/2072315431881453800",
+      "tweet_id": "2072315431881453800",
+      "translated": "@elonmusk 的 RT：创建 AI 语音代理变得异常简单 xAI 的 Grok Voice Agent Builder 可让您在 2 分钟内部署类人语音代理 - 无需编码 目前处于测试阶段，但堆栈已经很强大： • 自然的实时对话 • 亚秒级延迟 • 25 种以上语言 • 免费电话号码或自带电话号码 • 直接从浏览器构建和部署 与 Grok 行业领先的语音模型相结合，我们离真正能够发出声音和声音的 AI 语音代理越来越近了像真人一样做出反应在这里试试：https://x.ai/voice⁠"
+    },
+    {
+      "id": "tweet_cz_binance_2072292404649197843",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Wed, 01 Jul 2026 12:13:05 GMT",
+      "content": "RT by @cz_binance: CZ : Binance US was built in 2019 as a completely separate company. Own matching engine, own wallets, nothing shared with http://Binance.com Through CZ's entire Fight with the US government, Binance US was never part of it. No charges. Not in the plea agreement. It did face an SEC civil lawsuit and lost banking access for years because of it. Still stayed afloat. Still stayed profitable. Now banking is back. Zero-fee trading is live. Binance US is expanding again. Build separate. Stayed clean. That's the Binance US story 💛💛 Cc @ClipX0_ @cz_binance @BinanceUS",
+      "url": "https://x.com/cz_binance/status/2072292404649197843",
+      "tweet_id": "2072292404649197843",
+      "translated": "RT @cz_binance：CZ：Binance US 成立于 2019 年，是一家完全独立的公司。自己的匹配引擎，自己的钱包，没有与 http://Binance.com 共享任何内容 在 CZ 与美国政府的整个斗争中，Binance US 从未参与其中。不收费。认罪协议中没有。它确实面临着美国证券交易委员会的民事诉讼，并因此失去了多年的银行业务准入资格。仍然漂浮着。仍然保持盈利。现在银行业又回来了。零费用交易已上线。币安美国再次扩张。分开建造。保持干净。这就是币安美国的故事💛💛 抄送@ClipX0_ @cz_binance @BinanceUS"
     },
     {
       "id": "tweet_cz_binance_2072289157746213146",
@@ -50,16 +60,6 @@
       "content": "RT by @cz_binance: #CZ访谈关键点总结 🔸这是 The Block 新节目《The Starting Block》EP1（2026年6月29日阿布扎比现场直播） 🔸主持人 Gareth Jenkinson（The Block多媒体负责人）对 CZ（Changpeng Zhao） 进行约1小时8分钟的深度专访。 🔸1️⃣ 个人投资与X（Twitter）CZ曾投资约 5亿美元 支持埃隆·马斯克收购Twitter（现X），认为言论自由是“货币自由”的前提。 希望X未来能实现原生全球支付功能，打破Stripe、PayPal等地域限制（但目前X Money专注法币）。 🔸2️⃣ #Binance 成功秘诀与用户至上核心竞争力：强大团队 + 高速安全撮合引擎 + BNB激励 + 激进联盟计划。 关键在于用户保护：即使短期亏损（如中国禁令时动用40%国库返还用户资金），也赢得长期信任。“用户知道你是否在保护他们，这就是关键。” 🔸3️⃣ 监狱经历（最重磅部分）服刑 4个月（美国银行保密法违规），原本预期是软禁。 监狱系统复杂（美国有53套不同规则），不确定性最让人焦虑。 为保护自己加入太平洋岛民团体，未遭遇敲诈。 与Prison Professors创始人Michael Santos结缘，捐款200万美元（每6个月50万），推动区块链教育进入监狱，帮助囚犯重返社会、打破犯罪循环。 反思：如果现在重新来过，会直接阻止美国未持牌用户访问（“ask forgiveness, not permission”策略在法庭上被反噬）。 🔸4️⃣ 监管与合规欧洲MiCA申请受政治因素影响（如希腊申请撤回，传闻与ECB有关）。 成功案例：日本2023年拿下牌照；Binance US自2019年起独立运营，已恢复银行合作。 强调合规重要性，同时批评部分监管“双标”（KYC不一致）。 🔸5️⃣ AI、竞争与行业未来常用AI工具：Ki（简单便宜）、ChatGPT、Claude等；认为AI可将开发速度提升20-50%，但代码必须人工审核安全。 对 Hyperliquid 等新竞争者持开放态度：“希望他们成功，提供更高自由度”。 预测市场（如Polymarket、Kalshi）非常看好，美国监管支持，预测结果比传统民调更准确。 🔸6️⃣ 比特币与加密行业展望极度看多比特币，遵循4年周期，已经历4次“加密冬天”。 不是比特币 maxi：多链共存（10-30条甚至更多）才能促进创新，比特币网络拥堵限制了可编程性。 比特币价格：不做具体预测，但按每周期3-5倍增长，2033年可能接近100万美元（市场仍远未饱和）。 行业将继续发展，AI会加速区块链进步。 🔸7️⃣ 个人心态与当下重点不太在意外界“legacy”（遗产），只想自己临终前能说“我尽力了”。 当前专注：帮助其他创始人、慈善（监狱教育）、政府加密监管咨询、Easy Labs投资（包括BNB Treasury相关事务，已解决部分问题）。 想被记住为 “the crypto guy”（加密圈那个人）。 🔸🔶🔸观后感🔹🔷🔹 看完这场访谈，最打动我的不是CZ的财富或昔日“币圈首富”光环，而是他历经牢狱之灾后依然保持的清醒、韧性与建设者心态。 他把监狱经历讲得异常平静，却毫不回避自己的反思和后悔——这比任何励志故事都真实。 捐200万美元推动监狱区块链教育，不是作秀，而是真正想“打破犯罪循环”，让人看到一个曾经叱咤风云的创始人，依然在用实际行动回馈社会。 他对Binance成功的复盘非常务实：用户信任 > 短期利润。这也是为什么Binance能熬过多次危机至今仍是CEX之王的原因。 最令人振奋的是他对未来的乐观——比特币周期论、多链创新、预测市场、AI与区块链结合……他没有空谈牛市，而是给出清晰的底层逻辑。 尤其是那句“我不在意别人怎么记住我，只想自己能说‘我尽力了’”，朴实却有力量。 这场访谈不仅是《The Starting Block》的精彩开局，更是给整个加密行业的一剂强心针：真正的建设者，从不被短期挫折定义。 CZ用行动证明，加密的未来，属于那些既能低头反思、又能抬头看远的人。 🔸完整视频：YouTube搜索 “The Starting Block - Live with CZ in Abu Dhabi” 或原帖链接 https://x.com/i/status/2071566272798884323 @cz_binance #Binance #BNB @heyibinance",
       "url": "https://x.com/cz_binance/status/2071838764125811072",
       "tweet_id": "2071838764125811072"
-    },
-    {
-      "id": "tweet_cz_binance_2072037874367946925",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Tue, 30 Jun 2026 19:21:40 GMT",
-      "content": "Tried, couldn't reserve that name. So, definitely not me. 🤣",
-      "url": "https://x.com/cz_binance/status/2072037874367946925",
-      "tweet_id": "2072037874367946925",
-      "translated": "试过了，无法保留该名称。所以，绝对不是我。 🤣"
     },
     {
       "id": "tweet_realDonaldTrump_2068370500334637542",
@@ -92,34 +92,34 @@
       "translated": "视频"
     },
     {
-      "id": "tweet_aleabitoreddit_2072275805330362648",
+      "id": "tweet_aleabitoreddit_2072314906729455876",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 01 Jul 2026 11:07:07 GMT",
-      "content": "Just a random thought, leading US humanoid players strangely me of the current LLM dynamics: Agility ( $CCXI ) kinda feels like Anthropic for robotics. With $AMZN and $NVDA heavily backing it, ingrained with $GOOGL Deepmind (like TPUs). And it starts off with enterprise commercialization. Optimus is kinda off doing its own thing like xAI. Supported by Tesla/Elon and his visionary roadmap as usual. Figure is like ChatGPT With Microsoft/OpenAI investing (kinda like Microsoft), then ended up kinda competing them by building their own VlA and setting them behind. But ends up top 2 leaders anyway. Boston Dynamics is Gemini Kinda started the entire humanoids thing like transformers with backflip videos. With R&D supported by $GOOGL but somehow let everyone else leapfrog them in commercialization. And then there’s $NVDA just chilling, silently powering the entire humanoids ecosystem.",
-      "url": "https://x.com/aleabitoreddit/status/2072275805330362648",
-      "tweet_id": "2072275805330362648",
-      "translated": "只是一个随机的想法，导致美国人形玩家对当前的法学硕士动态感到奇怪：敏捷性（$CCXI）有点像机器人学的人性化。得到 $AMZN 和 $NVDA 的大力支持，并与 $GOOGL Deepmind（如 TPU）根深蒂固。它从企业商业化开始。 Optimus 有点不像 xAI 那样做自己的事情。像往常一样得到特斯拉/埃隆和他富有远见的路线图的支持。图就像是 ChatGPT 与 Microsoft/OpenAI 投资（有点像 Microsoft），然后最终通过构建自己的 VlA 来与他们竞争并将其抛在后面。但无论如何最终都会成为前两名领导者。波士顿动力公司是双子座，开始了整个人形机器人的事情，比如带有后空翻视频的变形金刚。研发由 $GOOGL 支持，但以某种方式让其他人在商业化方面超越了他们。然后 $NVDA 令人不寒而栗，默默地为整个类人生态系统提供动力。"
+      "published_at": "Wed, 01 Jul 2026 13:42:30 GMT",
+      "content": "There’s a lot of disinformation going around about $META “cutting capex” because they “overbuilt”. This is an “if” they have excess capacity. And it looks like the opposite right now: Hyperscalers like $GOOGL are so compute constrained that they had to cut allocations to Meta back in March. Since Meta was using too much for internal projects. Meta was immediately constrained so it looks like they were forced to immediately sign massive $48B+ contracts with Neoclouds like $CRWV and $NBIS. Meta is selling excess capacity if there’s any, especially since their large contracts are take or pay from the Neoclouds. If anything, I’m expecting their guided capex to go up as they build out more independent capacity.",
+      "url": "https://x.com/aleabitoreddit/status/2072314906729455876",
+      "tweet_id": "2072314906729455876",
+      "translated": "有很多关于 $META 因为“过度建设”而“削减资本支出”的虚假信息。这是他们产能过剩的“假设”。现在看来恰恰相反：像 $GOOGL 这样的超大规模企业的计算能力非常有限，以至于他们不得不在 3 月份削减对 Meta 的分配。由于 Meta 在内部项目中使用了太多。 Meta 立即受到限制，因此看起来他们被迫立即与 $CRWV 和 $NBIS 等 Neoclouds 签署价值 48B+ 美元的巨额合同。 Meta 正在出售多余的容量（如果有的话），特别是因为他们的大型合同是从 Neoclouds 收取或支付的。如果有的话，我预计他们的引导资本支出会随着他们建立更多的独立能力而增加。"
     },
     {
-      "id": "tweet_aleabitoreddit_2072242322688057579",
+      "id": "tweet_aleabitoreddit_2072307910223532245",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 01 Jul 2026 08:54:04 GMT",
-      "content": "This market feels like an ADHD goldfish with a 5 second attention span, trading popular themes. It's like markets only care about physical AI and energy right now? And sold off memory and photonics that are bottlenecked past 2028?",
-      "url": "https://x.com/aleabitoreddit/status/2072242322688057579",
-      "tweet_id": "2072242322688057579",
-      "translated": "这个市场感觉就像一条注意力缺陷多动症金鱼，注意力持续时间为 5 秒，交易流行主题。好像市场现在只关心物理人工智能和能源？并出售 2028 年之后遇到瓶颈的内存和光子学？"
+      "published_at": "Wed, 01 Jul 2026 13:14:42 GMT",
+      "content": "Basically pre-market right now with the Neoclouds like $NBIS in simpler terms. Costco: sells $5 chickens. Walmart: mass buys those rotisserie chickens and sells excess as “Walmart Chickens”. Stock Market: sells off Costco.",
+      "url": "https://x.com/aleabitoreddit/status/2072307910223532245",
+      "tweet_id": "2072307910223532245",
+      "translated": "基本上现在就可以使用像 $NBIS 这样的 Neocloud，简单来说就是预上市。 Costco：卖5美元的鸡。沃尔玛：大量购买这些烤鸡，并将多余的作为“沃尔玛鸡”出售。股市：Costco 抛售。"
     },
     {
-      "id": "tweet_aleabitoreddit_2072219315760488615",
+      "id": "tweet_aleabitoreddit_2072301677211009426",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 01 Jul 2026 07:22:39 GMT",
-      "content": "$SIVE: \"Intent to complete the [NASDAQ] listing process over the next few quarters\" This statement was largely missed by many screeners. Very material improvement from evaluation, to formal confirmation of timelines.",
-      "url": "https://x.com/aleabitoreddit/status/2072219315760488615",
-      "tweet_id": "2072219315760488615",
-      "translated": "$SIVE：“打算在未来几个季度完成 [纳斯达克] 上市流程” 许多筛选者很大程度上忽略了这一声明。从评估到正式确认时间表，有非常重大的改进。"
+      "published_at": "Wed, 01 Jul 2026 12:49:56 GMT",
+      "content": "Finally, $META to build a Cloud Business to sell excess AI compute per Bloomberg. Thought Meta should go up against GCP, Azure, and AWS eventually to increase revenue streams. Meta up 6.65% premarket.",
+      "url": "https://x.com/aleabitoreddit/status/2072301677211009426",
+      "tweet_id": "2072301677211009426",
+      "translated": "最后，根据彭博社报道，$META 将用于建立云业务以出售多余的人工智能计算。认为 Meta 最终应该与 GCP、Azure 和 AWS 竞争，以增加收入来源。 Meta盘前上涨6.65%。"
     }
   ],
   "stats": {
