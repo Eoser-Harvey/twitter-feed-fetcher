@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-01T00:07:46.937905+00:00",
+  "fetched_at": "2026-07-01T05:23:57.606645+00:00",
   "total": 12,
   "tweets": [
     {
@@ -92,34 +92,34 @@
       "translated": "视频"
     },
     {
-      "id": "tweet_aleabitoreddit_2072007692684837039",
+      "id": "tweet_aleabitoreddit_2072178393878290789",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 30 Jun 2026 17:21:44 GMT",
-      "content": "$SIVE is raising ~$61M (600M SEK) to expand manufacturing capacity for InP lasers and optical amplifiers. Sivers operates as a fab-lite model so this is likely hinting at foundry allocation/scaling for CW DFB laser ramp across Jabil, and their other partners. It could also point to broader foundry allocation/scaling beyond the already announced WIN partnership. My feedback is that it's very bullish if it's comprised of long-only institutions and there's no heavy discount (30 day VWAP). Otherwise, would need to reaccess if there's arb or short term investors. This is the perfect time to get ideal strategic investors like $GFS on the cap table. As well as focusing on having more US institutional support. Especially considering $56M is a small check to a single US institution that want photonics exposure (eg. look at Poet's $400M registered direct offering for sentiment). A lot of it is \"it depends when more info comes out\", but this looks like a very positive signal for mass production given Siver's fab-lite models.",
-      "url": "https://x.com/aleabitoreddit/status/2072007692684837039",
-      "tweet_id": "2072007692684837039",
-      "translated": "$SIVE 正在筹集约 6100 万美元（6 亿瑞典克朗），用于扩大 InP 激光器和光学放大器的制造能力。 Sivers 以精简晶圆厂模式运营，因此这可能暗示捷普及其其他合作伙伴的 CW DFB 激光坡道代工厂分配/规模扩大。它还可能表明，除了已经宣布的 WIN 合作伙伴关系之外，还有更广泛的代工分配/规模扩大。我的反馈是，如果它由只做多的机构组成并且没有大幅折扣（30 天 VWAP），那么它是非常看涨的。否则，如果有套利或短期投资者，则需要重新进入。现在是让像 $GFS 这样的理想战略投资者进入股权结构表的最佳时机。并注重获得更多美国机构的支持。特别是考虑到 5600 万美元对于一家希望涉足光子学领域的美国机构来说只是一笔小额支票（例如，看看 Poet 的 4 亿美元注册直接发行以表达情绪）。其中很多是“这取决于更多信息何时出现”，但考虑到 Siver 的 fab-lite 模型，这对于大规模生产来说似乎是一个非常积极的信号。"
+      "published_at": "Wed, 01 Jul 2026 04:40:02 GMT",
+      "content": "Just some of the more interesting news I came across recently: 1. MS: Revised China humanoid shipments to reach 50,000 in 2026 from 14,000u and 28,000u earlier this year. 2. MS: Probe cards and test sockets likely to be priced hike (precious metal hikes + severe shortage of test pin capacity) 3. Capacitor price hikes: MLCC, aluminum electrolytic, tantalum, polymer aluminum, film, and super capacitors from Yageo. 4. $META Vistara architecture: Older DDR4 Memory with CXL as memory expansion 5. OpenAI achieved inference optimization breakthrough that halves costs and reduces GPU requirements. 6. LTAs are being signed with MLCC after Samsung signed LTA with US big tech customer 7. Grid power bottlenecks triggered 5x increase ($25B) in Brookfield's financing for $BE fuel cells. 8. Taiwan's chip packaging and testing supply chain includes major OSAT providers such as $ASX, Powertech, Winstek Semiconductor, Chipbond, ChipMOS, and ShunSin. Dedicated testing companies include KYEC, Ardentec, and Sigurd Microelectronics, while testing interface suppliers include WinWay, MPI, Keystone Microtech, Chunghwa Precision, and Hermes Testing Solutions. Leadframe makers include Jih Lin Tech, SDI, and CWTC, while major IC substrate suppliers include Unimicron, Kinsus, Nan Ya PCB, and Zhen Ding Tech. (Digitimes) - Taiwan-based OSAT providers are raising prices - Memory and IC packaging and testing capacity have both become bottlenecks in the semiconductor supply chain",
+      "url": "https://x.com/aleabitoreddit/status/2072178393878290789",
+      "tweet_id": "2072178393878290789",
+      "translated": "我最近看到的一些更有趣的消息如下： 1. MS：修订后的中国人形机器人出货量将从今年早些时候的 14,000u 和 28,000u 增至 2026 年的 50,000u。 2. MS：探针卡、测试座可能涨价（贵金属涨价+测试脚容量严重短缺） 3. 电容涨价：MLCC、铝电解、钽、聚合物铝、薄膜、国巨超级电容。 4. $META Vistara 架构：较旧的 DDR4 内存，采用 CXL 作为内存扩展 5. OpenAI 实现了推理优化突破，将成本减半并降低了 GPU 要求。 6. 在三星与美国大型科技客户签署长期协议后，正在与 MLCC 签署长期协议 7. 电网电力瓶颈引发 Brookfield 的 $BE 燃料电池融资增加 5 倍（$25B）。 8. 台湾芯片封测供应链包括主要OSAT供应商，如$ASX、Powertech、Winstek Semiconductor、Chipbond、ChipMOS和ShunSin等。专门的测试公司包括KYEC、Ardentec和Sigurd Micro electronics，而测试接口供应商包括WinWay、MPI、Keystone Microtech、Chunghwa Precision和Hermes Testing Solutions。引线框架厂商包括日林科技、SDI、国华科技，而主要IC载板供应商包括欣兴、景硕、南亚电路板、振鼎科技。 (Digitimes) - 台湾封测厂提价 - 内存与封测产能双双成为半导体供应链瓶颈"
     },
     {
-      "id": "tweet_aleabitoreddit_2071995924172394695",
+      "id": "tweet_aleabitoreddit_2072161782005936487",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 30 Jun 2026 16:34:58 GMT",
-      "content": "Yep! Agility Robotics is currently my favorite humanoid/robotics position. They're set to be listed on NASDAQ via $CCXI as early as September (per Digitimes). Just for informational purposes: Their V4 humanoid robot is already operating in sites like Amazon. And have V5 slated for mass production next year (they have a 10,000+ /year capacity). Investors include Foxconn, $NVDA, $AMZN, Softbank, and now Serenity. I've been personally waiting for humanoid exposure for awhile (Agility is set to be the first US pure-play listed one) to the point I was actually planning on investing in Unitree's IPO. But I'm glad now I personally have a compelling alternative now since I prefer to invest capital to build up Made in America supply chains (75% of their components are US-sourced from investor desks). There are risks assigned to SPACs such as listing delays, or cancellation. But excited to see what happens next with developments. I do hope this encourages other frontier companies to go public early on.",
-      "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
-      "tweet_id": "2071995924172394695",
-      "translated": "是的！敏捷机器人是目前我最喜欢的人形/机器人职位。他们最早将于 9 月通过 $CCXI 在纳斯达克上市（据 Digitimes 报道）。仅供参考：他们的 V4 人形机器人已经在亚马逊等网站上运行。 V5 预计明年量产（年产能超过 10,000 辆）。投资者包括富士康、$NVDA、$AMZN、软银以及现在的 Serenity。我个人等待人形机器人的曝光已经有一段时间了（Agility 将成为第一个在美国上市的纯游戏），以至于我实际上计划投资 Unitree 的 IPO。但我很高兴现在我个人有了一个令人信服的选择，因为我更愿意投资资金来建立美国制造的供应链（其 75％ 的组件是从投资者柜台采购的美国）。 SPAC 存在上市延迟或取消等风险。但很高兴看到接下来会发生什么。我确实希望这能鼓励其他前沿公司尽早上市。"
+      "published_at": "Wed, 01 Jul 2026 03:34:02 GMT",
+      "content": "I told you making the robots look hot might be a bottleneck: Today, UBTech has now announced its first full-size hyper realistic humanoid robot girlfriend. For adults only to purchase for only ~$145,717.90. -\"The U1 series emphasizes attractive appearance and is only available for adults to purchase.\" - \"It Can Imitate Most Human Movements and Expressions, and Also Has Long-Term Memory\" - \"U1’s surface uses bionic materials and a gel structure to simulate skin texture, elasticity, and a warm touch.\" UBTECH founder, chairman, and CEO Zhou Jian said on stage that just before going up, he learned that orders had exceeded 11,000 units. Half an hour later, UBtech said the number had been updated to more than 13,361 units. Demand for attractive robots is uncomfortably high.",
+      "url": "https://x.com/aleabitoreddit/status/2072161782005936487",
+      "tweet_id": "2072161782005936487",
+      "translated": "我告诉过你，让机器人看起来很火可能是一个瓶颈：今天，UBTech 宣布推出首款全尺寸超逼真人形机器人女友。仅限成人购买，仅需约 145,717.90 美元。 -“U1系列强调美观，仅供成人购买。” - “它可以模仿大多数人类动作和表情，并且还具有长期记忆” - “U1的表面采用仿生材料和凝胶结构，模拟皮肤纹理、弹性和温暖的触感。”优必选创始人、董事长兼CEO周健在台上表示，就在上去之前，他得知订单已经突破11000台。半小时后，UBtech表示该数字已更新至超过13,361台。对有吸引力的机器人的需求令人不安地高涨。"
     },
     {
-      "id": "tweet_aleabitoreddit_2071977219002613768",
+      "id": "tweet_aleabitoreddit_2072152226169331776",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 30 Jun 2026 15:20:39 GMT",
-      "content": "I wonder if humanoids is going to spark a new bottleneck/industry for robot cosmetics. Like a skin bottleneck. Or Aespa KPOP robot makeover as a service. So if $TSLA Optimus makes tens of millions of humanoids: Who’s going to make them all look hot?",
-      "url": "https://x.com/aleabitoreddit/status/2071977219002613768",
-      "tweet_id": "2071977219002613768",
-      "translated": "我想知道类人机器人是否会引发机器人化妆品的新瓶颈/行业。就像皮肤瓶颈一样。或者 Aespa KPOP 机器人改造服务。因此，如果 TSLA Optimus 制造了数千万个类人机器人：谁会让它们看起来很性感？"
+      "published_at": "Wed, 01 Jul 2026 02:56:04 GMT",
+      "content": "Congrats to $SIVE, they have now raised an upside round of 700m SEK from institutional investors. The round was “Multiple Times Oversubscribed” and slightly upsided. Validating immense institutional demand around current market prices. This raise was specifically for \"expanding manufacturing capacity for InP lasers and optical amplifiers\" (volume ramping with fab-light model). Hinting Sivers has reached the inflection point for scale. The round was at 57 SEK (current prices are 63 SEK), which I’m personally very happy about as it’s around current market prices, which typically sets a floor. Instituional money has now de-risked the balance sheet, and funded Sivers transition to HVM.",
+      "url": "https://x.com/aleabitoreddit/status/2072152226169331776",
+      "tweet_id": "2072152226169331776",
+      "translated": "恭喜 $SIVE，他们现已从机构投资者那里筹集了 7 亿瑞典克朗的上轮资金。该轮融资获得“多次超额认购”，并且略有上涨。围绕当前市场价格验证巨大的机构需求。此次加薪专门用于“扩大 InP 激光器和光学放大器的制造能力”（利用晶圆厂光模型提高产量）。暗示西弗斯已经达到了规模的拐点。该轮融资的价格为 57 瑞典克朗（当前价格为 63 瑞典克朗），我个人对此感到非常高兴，因为它接近当前市场价格，通常会设定一个底线。机构资金现已降低了资产负债表的风险，并为 Sivers 向 HVM 的过渡提供了资金。"
     }
   ],
   "stats": {
