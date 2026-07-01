@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-01T09:51:59.378759+00:00",
+  "fetched_at": "2026-07-01T12:36:02.326098+00:00",
   "total": 12,
   "tweets": [
     {
@@ -33,6 +33,16 @@
       "translated": "RT @elonmusk：Neuralink 🧠✨ 它是如何开始的。进展如何"
     },
     {
+      "id": "tweet_cz_binance_2072289157746213146",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Wed, 01 Jul 2026 12:00:11 GMT",
+      "content": "RT by @cz_binance: Smart money used to mean knowing the right people, being in the right rooms. Now it means having the right agents. For years, building one took five tools, four logins, and a painful month of work. Today, it takes just a single prompt. BNB Agent Studio is live on BNB Smart Chain. Open @cursor_ai or Claude Code, describe the agent you want, and it ships to the chain with its own onchain identity, its own wallet, and a way to pay its own bills. The whole thing runs on @awscloud's Bedrock AgentCore, so your agent stays online long after you've closed your laptop. This is the start of the Smart Money Era. Capital that works for you instead of waiting for you to move it. Agents that monitor markets while you sleep, rebalance positions you'd never get to in time, and hunt yield without checking dashboards. Try BNB Agent Studio for free for a limited time with GitHub login only, with no AWS account or credit card needed. Read the full breakdown in our blog 👇 https://www.bnbchain.org/en/blog/bnb-agent-studio-is-live-on-bnb-chain-ai-agents-from-one-prompt",
+      "url": "https://x.com/cz_binance/status/2072289157746213146",
+      "tweet_id": "2072289157746213146",
+      "translated": "RT by @cz_binance：聪明的钱曾经意味着认识正确的人，在正确的房间里。现在这意味着拥有合适的代理商。多年来，构建一个应用程序需要五个工具、四次登录和一个月的痛苦工作。如今，只需一个提示即可。 BNB Agent Studio已上线BNB智能链。打开 @cursor_ai 或 Claude Code，描述你想要的代理，它就会以自己的链上身份、自己的钱包和支付自己账单的方式运送到链上。整个过程在 @awscloud 的 Bedrock AgentCore 上运行，因此您的代理在您关闭笔记本电脑后仍能保持在线状态。这是智能货币时代的开始。资本为你服务，而不是等待你移动它。代理在您睡觉时监控市场，重新平衡您永远无法及时到达的头寸，并在不检查仪表板的情况下寻找收益。只需登录 GitHub，即可在有限时间内免费试用 BNB Agent Studio，无需 AWS 账户或信用卡。请阅读我们博客中的完整细分：https://www.bnbchain.org/en/blog/bnb-agent-studio-is-live-on-bnb-chain-ai-agents-from-one-prompt"
+    },
+    {
       "id": "tweet_cz_binance_2071838764125811072",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
@@ -52,16 +62,6 @@
       "translated": "试过了，无法保留该名称。所以，绝对不是我。 🤣"
     },
     {
-      "id": "tweet_cz_binance_2071989157145325601",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Tue, 30 Jun 2026 16:08:05 GMT",
-      "content": "RT by @cz_binance: CZ on Binance's regulatory scars and Why he's not worried 🇯🇵 Japan banned Binance in 2018. By 2023, Binance had a full license and SoftBank as a shareholder. 🇸🇬 Singapore forced Binance out in 2021. Users fled to FTX. We all know how that ended. 🇪🇺 On Europe: \"It's a loss for Binance. It's also a loss for Europe. It's a lose-lose situation.\" Binance is the most scrutinized Exchange in crypto and also one of the most compliant. Get banned. Get compliant. Get invited back. History says Binance has done this before. Pressure today. Licenses tomorrow. That's the Binance pattern. @cz_binance @heyibinance @_RichardTeng @cz_binance",
-      "url": "https://x.com/cz_binance/status/2071989157145325601",
-      "tweet_id": "2071989157145325601",
-      "translated": "@cz_binance 的 RT：CZ 谈到币安的监管伤痕以及他为什么不担心🇯🇵日本在 2018 年禁止了币安。到 2023 年，币安获得了完整的牌照，软银成为股东。 🇸🇬新加坡在 2021 年迫使币安退出。用户逃往 FTX。我们都知道事情是如何结束的。 🇪🇺关于欧洲：“这是币安的损失。这也是欧洲的损失。这是一个双输的局面。”币安是加密货币领域受到最严格审查的交易所，也是最合规的交易所之一。被禁止吧遵守规定。被邀请回来。历史表明，币安以前就这样做过。今天有压力。明天拿执照。这就是币安模式。 @cz_binance @heyibinance @_RichardTeng @cz_binance"
-    },
-    {
       "id": "tweet_realDonaldTrump_2068370500334637542",
       "username": "realDonaldTrump",
       "display_name": "特朗普",
@@ -76,10 +76,10 @@
       "username": "realDonaldTrump",
       "display_name": "特朗普",
       "published_at": "Sat, 20 Jun 2026 16:27:01 GMT",
-      "content": "POLL: ICE has been abused by the Fake News Media at levels never seen before. They are Great Patriots who work hard, and do a fantastic job in a very hostile environment. Much of this hostility is caused by the Dumocrats and the Fake News. The concept I have had for quite some time — A strong feeling that the name of these Patriots, “ICE,” should be changed to, “NICE,” in that it will totally discombobulate Crooked, Dishonest, and Unpatriotic Reporters and Journalists. For them to say, “We went to a NICE Facility today,” as opposed to “ICE” or, “NICE Agents have deported a Violent Drug Dealer,” they won’t be able to handle it, they will go totally crazy! All it means is adding an “N” (“National”) to “ICE (“Immigration and Customs Enforcement”) — A much more prestigious name. Everyone loves it, but I have been told by the legendary Tom Homan that the Agents do not love it as much as the other population. Who thinks that we should add an “N” to change the name of “ICE” to “NICE?”   Thank you for your attention to this matter! President DJT",
+      "content": "Pinned: POLL: ICE has been abused by the Fake News Media at levels never seen before. They are Great Patriots who work hard, and do a fantastic job in a very hostile environment. Much of this hostility is caused by the Dumocrats and the Fake News. The concept I have had for quite some time — A strong feeling that the name of these Patriots, “ICE,” should be changed to, “NICE,” in that it will totally discombobulate Crooked, Dishonest, and Unpatriotic Reporters and Journalists. For them to say, “We went to a NICE Facility today,” as opposed to “ICE” or, “NICE Agents have deported a Violent Drug Dealer,” they won’t be able to handle it, they will go totally crazy! All it means is adding an “N” (“National”) to “ICE (“Immigration and Customs Enforcement”) — A much more prestigious name. Everyone loves it, but I have been told by the legendary Tom Homan that the Agents do not love it as much as the other population. Who thinks that we should add an “N” to change the name of “ICE” to “NICE?”   Thank you for your attention to this matter! President DJT",
       "url": "https://x.com/realDonaldTrump/status/2068370042018767262",
       "tweet_id": "2068370042018767262",
-      "translated": "民意调查：假新闻媒体对 ICE 的滥用达到了前所未有的程度。他们是伟大的爱国者，他们努力工作，在非常恶劣的环境中做得非常出色。这种敌意很大程度上是由杜民主派和假新闻引起的。我有一段时间一直有这样的想法——一种强烈的感觉，这些爱国者的名字“ICE”应该改为“NICE”，因为这将彻底扰乱不诚实、不诚实、不爱国的记者和记者。对于他们来说，“我们今天去了一家 NICE 设施”，而不是“ICE”或“NICE 特工驱逐了一名暴力毒贩”，他们将无法处理，他们会完全疯掉！这意味着在“ICE”（“移民和海关执法局”）中添加一个“N”（“国家”）——一个更有声望的名字。每个人都喜欢它，但传奇人物汤姆·霍曼告诉我，特工们并不像其他人那样喜欢它。谁认为我们应该添加一个“N”来将“ICE”的名字改为“NICE”？   感谢您对此事的关注！总裁DJT"
+      "translated": "已固定：民意调查：假新闻媒体对 ICE 的滥用达到了前所未有的程度。他们是伟大的爱国者，他们努力工作，在非常恶劣的环境中做得非常出色。这种敌意很大程度上是由杜民主派和假新闻引起的。我有一段时间一直有这样的想法——一种强烈的感觉，这些爱国者的名字“ICE”应该改为“NICE”，因为这将彻底扰乱不诚实、不诚实、不爱国的记者和记者。对于他们来说，“我们今天去了一家 NICE 设施”，而不是“ICE”或“NICE 特工驱逐了一名暴力毒贩”，他们将无法处理，他们会完全疯掉！这意味着在“ICE”（“移民和海关执法局”）中添加一个“N”（“国家”）——一个更有声望的名字。每个人都喜欢它，但传奇人物汤姆·霍曼告诉我，特工们并不像其他人那样喜欢它。谁认为我们应该添加一个“N”来将“ICE”的名字改为“NICE”？   感谢您对此事的关注！总裁DJT"
     },
     {
       "id": "tweet_realDonaldTrump_2057968277062582378",
@@ -90,6 +90,16 @@
       "url": "https://x.com/realDonaldTrump/status/2057968277062582378",
       "tweet_id": "2057968277062582378",
       "translated": "视频"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2072275805330362648",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 01 Jul 2026 11:07:07 GMT",
+      "content": "Just a random thought, leading US humanoid players strangely me of the current LLM dynamics: Agility ( $CCXI ) kinda feels like Anthropic for robotics. With $AMZN and $NVDA heavily backing it, ingrained with $GOOGL Deepmind (like TPUs). And it starts off with enterprise commercialization. Optimus is kinda off doing its own thing like xAI. Supported by Tesla/Elon and his visionary roadmap as usual. Figure is like ChatGPT With Microsoft/OpenAI investing (kinda like Microsoft), then ended up kinda competing them by building their own VlA and setting them behind. But ends up top 2 leaders anyway. Boston Dynamics is Gemini Kinda started the entire humanoids thing like transformers with backflip videos. With R&D supported by $GOOGL but somehow let everyone else leapfrog them in commercialization. And then there’s $NVDA just chilling, silently powering the entire humanoids ecosystem.",
+      "url": "https://x.com/aleabitoreddit/status/2072275805330362648",
+      "tweet_id": "2072275805330362648",
+      "translated": "只是一个随机的想法，导致美国人形玩家对当前的法学硕士动态感到奇怪：敏捷性（$CCXI）有点像机器人学的人性化。得到 $AMZN 和 $NVDA 的大力支持，并与 $GOOGL Deepmind（如 TPU）根深蒂固。它从企业商业化开始。 Optimus 有点不像 xAI 那样做自己的事情。像往常一样得到特斯拉/埃隆和他富有远见的路线图的支持。图就像是 ChatGPT 与 Microsoft/OpenAI 投资（有点像 Microsoft），然后最终通过构建自己的 VlA 来与他们竞争并将其抛在后面。但无论如何最终都会成为前两名领导者。波士顿动力公司是双子座，开始了整个人形机器人的事情，比如带有后空翻视频的变形金刚。研发由 $GOOGL 支持，但以某种方式让其他人在商业化方面超越了他们。然后 $NVDA 令人不寒而栗，默默地为整个类人生态系统提供动力。"
     },
     {
       "id": "tweet_aleabitoreddit_2072242322688057579",
@@ -110,16 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2072219315760488615",
       "tweet_id": "2072219315760488615",
       "translated": "$SIVE：“打算在未来几个季度完成 [纳斯达克] 上市流程” 许多筛选者很大程度上忽略了这一声明。从评估到正式确认时间表，有非常重大的改进。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2072178393878290789",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 01 Jul 2026 04:40:02 GMT",
-      "content": "Just some of the more interesting news I came across recently: 1. MS: Revised China humanoid shipments to reach 50,000 in 2026 from 14,000u and 28,000u earlier this year. 2. MS: Probe cards and test sockets likely to be priced hike (precious metal hikes + severe shortage of test pin capacity) 3. Capacitor price hikes: MLCC, aluminum electrolytic, tantalum, polymer aluminum, film, and super capacitors from Yageo. 4. $META Vistara architecture: Older DDR4 Memory with CXL as memory expansion 5. OpenAI achieved inference optimization breakthrough that halves costs and reduces GPU requirements. 6. LTAs are being signed with MLCC after Samsung signed LTA with US big tech customer 7. Grid power bottlenecks triggered 5x increase ($25B) in Brookfield's financing for $BE fuel cells. 8. Taiwan's chip packaging and testing supply chain includes major OSAT providers such as $ASX, Powertech, Winstek Semiconductor, Chipbond, ChipMOS, and ShunSin. Dedicated testing companies include KYEC, Ardentec, and Sigurd Microelectronics, while testing interface suppliers include WinWay, MPI, Keystone Microtech, Chunghwa Precision, and Hermes Testing Solutions. Leadframe makers include Jih Lin Tech, SDI, and CWTC, while major IC substrate suppliers include Unimicron, Kinsus, Nan Ya PCB, and Zhen Ding Tech. (Digitimes) - Taiwan-based OSAT providers are raising prices - Memory and IC packaging and testing capacity have both become bottlenecks in the semiconductor supply chain",
-      "url": "https://x.com/aleabitoreddit/status/2072178393878290789",
-      "tweet_id": "2072178393878290789",
-      "translated": "我最近看到的一些更有趣的消息如下： 1. MS：修订后的中国人形机器人出货量将从今年早些时候的 14,000u 和 28,000u 增至 2026 年的 50,000u。 2. MS：探针卡、测试座可能涨价（贵金属涨价+测试脚容量严重短缺） 3. 电容涨价：MLCC、铝电解、钽、聚合物铝、薄膜、国巨超级电容。 4. $META Vistara 架构：较旧的 DDR4 内存，采用 CXL 作为内存扩展 5. OpenAI 实现了推理优化突破，将成本减半并降低了 GPU 要求。 6. 在三星与美国大型科技客户签署长期协议后，正在与 MLCC 签署长期协议 7. 电网电力瓶颈引发 Brookfield 的 $BE 燃料电池融资增加 5 倍（$25B）。 8. 台湾芯片封测供应链包括主要OSAT供应商，如$ASX、Powertech、Winstek Semiconductor、Chipbond、ChipMOS和ShunSin等。专门的测试公司包括KYEC、Ardentec和Sigurd Micro electronics，而测试接口供应商包括WinWay、MPI、Keystone Microtech、Chunghwa Precision和Hermes Testing Solutions。引线框架厂商包括日林科技、SDI、国华科技，而主要IC载板供应商包括欣兴、景硕、南亚电路板、振鼎科技。 (Digitimes) - 台湾封测厂提价 - 内存与封测产能双双成为半导体供应链瓶颈"
     }
   ],
   "stats": {
