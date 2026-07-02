@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-02T04:59:42.687583+00:00",
+  "fetched_at": "2026-07-02T08:19:21.714434+00:00",
   "total": 12,
   "tweets": [
     {
@@ -93,6 +93,26 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2072574465763111166",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 02 Jul 2026 06:53:53 GMT",
+      "content": "Wells Fargo: $META intent to sell excess compute is a positive signal around underlying demand and unit economics of AI. “Despite this shift, we don’t expect a pullback in Meta’s capex or that overall compute needs are lower” Regarding Neoclouds: WF thinks it validated the massive AI infra opportunity as well as acquisition opportunities. Despite any potential competition for Neoclouds. I’m inclined to agree with Wells Fargo here and say markets completely misunderstood Meta’s excess compute comment.",
+      "url": "https://x.com/aleabitoreddit/status/2072574465763111166",
+      "tweet_id": "2072574465763111166",
+      "translated": "富国银行：$META 出售多余计算能力的意图是围绕人工智能的潜在需求和单位经济效益的积极信号。 “尽管发生了这种转变，我们预计 Meta 的资本支出不会出现回落，也不会导致整体计算需求下降。” 关于 Neoclouds：WF 认为它验证了巨大的 AI 基础设施机会以及收购机会。尽管 Neoclouds 存在任何潜在的竞争。我倾向于同意富国银行的观点，认为市场完全误解了 Meta 的过度计算评论。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2072570681586553112",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 02 Jul 2026 06:38:51 GMT",
+      "content": "I feel like Trump is probably going to like this idea: OpenAI discussed giving the US gov a 5% stake in its company per FT. If this turns into an $INTC type situation, would be interesting if the US government becomes a soft backstop for their $1T+ in future capex/obligations.",
+      "url": "https://x.com/aleabitoreddit/status/2072570681586553112",
+      "tweet_id": "2072570681586553112",
+      "translated": "我觉得特朗普可能会喜欢这个想法：据英国《金融时报》报道，OpenAI 讨论了给予美国政府 5% 的公司股份。如果这变成 $INTC 类型的情况，如果美国政府成为未来资本支出/义务中 1T+ 美元的软支持，那将会很有趣。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2072367082248040621",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -101,26 +121,6 @@
       "url": "https://x.com/aleabitoreddit/status/2072367082248040621",
       "tweet_id": "2072367082248040621",
       "translated": "只是从 Agility Robotics ($CCXI) 演示文稿中删除这 3 张幻灯片。对于美国机器人计划的末日海报： 1.“75% 的零件”- 来自美国 2. 只要看一下图表，看起来 BOM 量产的成本低于 3 万美元。人们只关注约 145,000 美元的成本。 3. 10,000 RoboFab 产能，建于塞勒姆/匹兹堡/弗里蒙特（美国）。因此，看起来大多数美国供应链的大规模生产目标都在 3 万美元以下，这确实有助于他们得到 $AMZN / SoftBank / Foxconn / $NVDA 作为投资者的支持来完成这项工作。只是作为 $CCXI (NFA) 股东的个人想法：我个人最大的担心是像 ​​$TSLA 这样的美国人形领导者正在中国建立他们的整个供应链。因此，美国机器人技术可能会受到出口管制/停止。例如。 《南华早报》：“擎天链”：中国供应商构成了特斯拉人形机器人计划的支柱，并与数百家中国零部件供应商进行了合作。而且西方公司无法将成本降低到有竞争力的水平+被迫使用中国零部件。我仍然不确定他们将如何做到这一点，但 Agility 是否可以在美国/西方以 BOM 成本实现这些大规模生产目标。这将是对美国制造的美国机器人项目的一个很好的验证。 IMO 目前就商业化潜力而言，美国排名前 5 的人形项目是： 1. Tesla Optimus 2. 图 3. Agility Robotics 4. 波士顿动力公司（是的 KR 母公司） 5. Apptronik Tesla 是一家价值 1T 以上的公司。该图是私人的，价值约为 $39B。通过现代拥有波士顿动力有点混乱。我不想仅仅因为个人喜好而投资对抗性项目。因此，我个人对 Agility 最早在 9 月份上市感到兴奋。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2072314906729455876",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 01 Jul 2026 13:42:30 GMT",
-      "content": "There’s a lot of disinformation going around about $META “cutting capex” because they “overbuilt”. This is an “if” they have excess capacity. And it looks like the opposite right now: Hyperscalers like $GOOGL are so compute constrained that they had to cut allocations to Meta back in March. Since Meta was using too much for internal projects. Meta was immediately constrained so it looks like they were forced to immediately sign massive $48B+ contracts with Neoclouds like $CRWV and $NBIS. Meta is selling excess capacity if there’s any, especially since their large contracts are take or pay from the Neoclouds. If anything, I’m expecting their guided capex to go up as they build out more independent capacity.",
-      "url": "https://x.com/aleabitoreddit/status/2072314906729455876",
-      "tweet_id": "2072314906729455876",
-      "translated": "有很多关于 $META 因为“过度建设”而“削减资本支出”的虚假信息。这是他们产能过剩的“假设”。现在看来恰恰相反：像 $GOOGL 这样的超大规模企业的计算能力非常有限，以至于他们不得不在 3 月份削减对 Meta 的分配。由于 Meta 在内部项目中使用了太多。 Meta 立即受到限制，因此看起来他们被迫立即与 $CRWV 和 $NBIS 等 Neoclouds 签署价值 48B+ 美元的巨额合同。 Meta 正在出售多余的容量（如果有的话），特别是因为他们的大型合同是从 Neoclouds 收取或支付的。如果有的话，我预计他们的引导资本支出会随着他们建立更多的独立能力而增加。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2072307910223532245",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 01 Jul 2026 13:14:42 GMT",
-      "content": "Basically pre-market right now with the Neoclouds like $NBIS in simpler terms. Costco: sells $5 chickens. Walmart: mass buys those rotisserie chickens and sells excess as “Walmart Chickens”. Stock Market: sells off Costco.",
-      "url": "https://x.com/aleabitoreddit/status/2072307910223532245",
-      "tweet_id": "2072307910223532245",
-      "translated": "基本上现在就可以使用像 $NBIS 这样的 Neocloud，简单来说就是预上市。 Costco：卖5美元的鸡。沃尔玛：大量购买这些烤鸡，并将多余的作为“沃尔玛鸡”出售。股市：Costco 抛售。"
     }
   ],
   "stats": {
