@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-02T00:11:19.696399+00:00",
+  "fetched_at": "2026-07-02T04:59:42.687583+00:00",
   "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2072464558732824680",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 01 Jul 2026 23:37:09 GMT",
+      "content": "RT by @elonmusk: Teams recently completed build and acceptance testing of our 1,000th Merlin 1D engine for Falcon’s first stage! With Falcon’s reusability, recovering these engines has enabled continued reliability enhancements, making Merlin one of the most reliable rocket engines ever manufactured",
+      "url": "https://x.com/elonmusk/status/2072464558732824680",
+      "tweet_id": "2072464558732824680",
+      "translated": "RT @elonmusk：团队最近完成了猎鹰第一阶段第 1,000 个 Merlin 1D 引擎的构建和验收测试！凭借 Falcon 的可重复使用性，回收这些发动机可以持续增强可靠性，使 Merlin 成为有史以来最可靠的火箭发动机之一"
+    },
     {
       "id": "tweet_elonmusk_2072345733584269416",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2072450156801446239",
       "tweet_id": "2072450156801446239",
       "translated": "免费的金钱、住房等发挥着巨大的金融强迫作用，吸引非法移民前往美国和欧洲"
-    },
-    {
-      "id": "tweet_elonmusk_2072439276491460715",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 01 Jul 2026 21:56:42 GMT",
-      "content": "RT by @elonmusk: Peter: \"I heard you say you might want a mini woolly mammoth. Is that true?\" Elon: \"Yeah, I think it would be really cool to have a pet miniature woolly mammoth. That'd be pretty epic.\" Peter: \"I'll put a word in with you for you with with with Ben [Lamm].\" Elon: \"That'd be adorable. Little things just running around trumpeting away and it's like look at the be a great little pet.\"",
-      "url": "https://x.com/elonmusk/status/2072439276491460715",
-      "tweet_id": "2072439276491460715",
-      "translated": "RT @elonmusk：Peter：“我听说你说你可能想要一只迷你猛犸象。是真的吗？”埃隆：“是的，我认为拥有一只微型猛犸象宠物真的很酷。那真是太棒了。”彼得：“我会和本[拉姆]一起替你说句话。”埃隆：“那太可爱了。小东西到处跑来跑去，就像是一只很棒的小宠物。”"
     },
     {
       "id": "tweet_cz_binance_2072226439907156288",
@@ -126,6 +126,6 @@
   "stats": {
     "users_success": 4,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
