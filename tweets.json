@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-07-02T16:51:41.043706+00:00",
+  "fetched_at": "2026-07-02T18:27:26.688196+00:00",
   "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2072732157710053407",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 02 Jul 2026 17:20:30 GMT",
+      "content": "RT by @elonmusk: I ran the same prompt through @imagine Agent mode and the results were pretty amazing!",
+      "url": "https://x.com/elonmusk/status/2072732157710053407",
+      "tweet_id": "2072732157710053407",
+      "translated": "RT by @elonmusk：我通过 @imagine Agent 模式运行了相同的提示，结果非常惊人！"
+    },
+    {
+      "id": "tweet_elonmusk_2072708957077176563",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 02 Jul 2026 15:48:19 GMT",
+      "content": "RT by @elonmusk: The future of the firm is a learning loop in which human capital and token capital compound. With our new Frontier Co., our ambition is to help every enterprise build its own AI capability, and to help create a frontier ecosystem where every organization can turn its knowledge, workflows, and judgment into its own AI systems that continuously improve. https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/",
+      "url": "https://x.com/elonmusk/status/2072708957077176563",
+      "tweet_id": "2072708957077176563",
+      "translated": "RT @elonmusk：公司的未来是一个人力资本和代币资本复合的学习循环。通过我们新的前沿公司，我们的目标是帮助每个企业建立自己的人工智能能力，并帮助创建一个前沿生态系统，让每个组织都可以将其知识、工作流程和判断转化为自己的不断改进的人工智能系统。 https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplizes-and-protects-your-intelligence/"
+    },
     {
       "id": "tweet_elonmusk_2072534996678771188",
       "username": "elonmusk",
@@ -13,24 +33,23 @@
       "translated": "@elonmusk 的 RT：巴拉圭正在进入一个新的互联时代🇵🇾 巴拉圭正在通过 MITIC 和 COPACO 与 Starlink 合作，为偏远地区的 1,600 多所学校提供高速互联网这将使 50,000 多名学生和教师连接到在线学习、数字图书馆、协作工具和新机会一颗在轨卫星现在可以改变地面上满是学生的教室的未来"
     },
     {
-      "id": "tweet_elonmusk_2072447065397825701",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 01 Jul 2026 22:27:39 GMT",
-      "content": "RT by @elonmusk: In 1825, a rich Welsh industrialist bought an entire American town to prove that socialism could work. He had the money, the buildings, the theory, and hundreds of eager followers waiting to move in. Two years later, it was over. 🧵",
-      "url": "https://x.com/elonmusk/status/2072447065397825701",
-      "tweet_id": "2072447065397825701",
-      "translated": "RT @elonmusk：1825 年，一位富有的威尔士实业家买下了整个美国城镇，以证明社会主义可行。他有钱、有建筑、有理论，还有数百名热切的追随者等待着搬进去。两年后，一切都结束了。 🧵"
+      "id": "tweet_cz_binance_2072730164740415818",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 02 Jul 2026 17:12:35 GMT",
+      "content": "Real liquidity for Philippines🇵🇭.",
+      "url": "https://x.com/cz_binance/status/2072730164740415818",
+      "tweet_id": "2072730164740415818",
+      "translated": "菲律宾🇵🇭的真正流动性。"
     },
     {
-      "id": "tweet_elonmusk_2072703739866083721",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 02 Jul 2026 15:27:35 GMT",
-      "content": "True",
-      "url": "https://x.com/elonmusk/status/2072703739866083721",
-      "tweet_id": "2072703739866083721",
-      "translated": "真的"
+      "id": "tweet_cz_binance_2072727853905383857",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 02 Jul 2026 17:03:24 GMT",
+      "content": "😂",
+      "url": "https://x.com/cz_binance/status/2072727853905383857",
+      "tweet_id": "2072727853905383857"
     },
     {
       "id": "tweet_cz_binance_2072696664658203111",
@@ -41,26 +60,6 @@
       "url": "https://x.com/cz_binance/status/2072696664658203111",
       "tweet_id": "2072696664658203111",
       "translated": "慢慢地，但肯定地。"
-    },
-    {
-      "id": "tweet_cz_binance_2072226439907156288",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 01 Jul 2026 07:50:58 GMT",
-      "content": "RT by @cz_binance: July. holidays? no, numbers. @BNBCHAIN doesn’t stop for the summer. - 65.2M $BNB burned so far, out of the original 200M supply. at today’s price (~$550), that’s roughly $35.9B… - 35 quarterly burns already completed. - 134.79M circulating today. - 34.79M left before hitting the 100M hard cap the 36th burn scheduled for this month. no pause, no slowdown, just steady deflation quarter after quarter. BuildNBurn.",
-      "url": "https://x.com/cz_binance/status/2072226439907156288",
-      "tweet_id": "2072226439907156288",
-      "translated": "RT @cz_binance：七月。假期？不，数字。 @BNBCHAIN 不会在夏天停止。 - 到目前为止，已有 6520 万美元 BNB 被烧毁，超出了最初的 2 亿供应量。以今天的价格（~$550），大约是 $35.9B… - 35 个季度销毁已经完成。 - 今天流通量为 134.79M。 - 在本月计划的第 36 次销毁达到 100M 硬上限之前还剩 3479M。没有停顿，没有放缓，只是一个又一个季度稳定的通货紧缩。构建N燃烧。"
-    },
-    {
-      "id": "tweet_cz_binance_2072292404649197843",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 01 Jul 2026 12:13:05 GMT",
-      "content": "RT by @cz_binance: CZ : Binance US was built in 2019 as a completely separate company. Own matching engine, own wallets, nothing shared with http://Binance.com Through CZ's entire Fight with the US government, Binance US was never part of it. No charges. Not in the plea agreement. It did face an SEC civil lawsuit and lost banking access for years because of it. Still stayed afloat. Still stayed profitable. Now banking is back. Zero-fee trading is live. Binance US is expanding again. Build separate. Stayed clean. That's the Binance US story 💛💛 Cc @ClipX0_ @cz_binance @BinanceUS",
-      "url": "https://x.com/cz_binance/status/2072292404649197843",
-      "tweet_id": "2072292404649197843",
-      "translated": "RT @cz_binance：CZ：Binance US 成立于 2019 年，是一家完全独立的公司。自己的匹配引擎，自己的钱包，没有与 http://Binance.com 共享任何内容 在 CZ 与美国政府的整个斗争中，Binance US 从未参与其中。不收费。认罪协议中没有。它确实面临着美国证券交易委员会的民事诉讼，并因此失去了多年的银行业务准入资格。仍然漂浮着。仍然保持盈利。现在银行业又回来了。零费用交易已上线。币安美国再次扩张。分开建造。保持干净。这就是币安美国的故事💛💛 抄送@ClipX0_ @cz_binance @BinanceUS"
     },
     {
       "id": "tweet_realDonaldTrump_2072681271566708832",
@@ -93,6 +92,26 @@
       "translated": "民意调查：假新闻媒体对 ICE 的滥用达到了前所未有的程度。他们是伟大的爱国者，他们努力工作，在非常恶劣的环境中做得非常出色。这种敌意很大程度上是由杜民主派和假新闻引起的。我有一段时间一直有这样的想法——一种强烈的感觉，这些爱国者的名字“ICE”应该改为“NICE”，因为这将彻底扰乱不诚实、不诚实、不爱国的记者和记者。对于他们来说，“我们今天去了一家 NICE 设施”，而不是“ICE”或“NICE 特工驱逐了一名暴力毒贩”，他们将无法处理，他们会完全疯掉！这意味着在“ICE”（“移民和海关执法局”）中添加一个“N”（“国家”）——一个更有声望的名字。每个人都喜欢它，但传奇人物汤姆·霍曼告诉我，特工们并不像其他人那样喜欢它。谁认为我们应该添加一个“N”来将“ICE”的名字改为“NICE”？   感谢您对此事的关注！总裁DJT"
     },
     {
+      "id": "tweet_aleabitoreddit_2072741541404406008",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 02 Jul 2026 17:57:47 GMT",
+      "content": "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. Personal Rankings: 1. Agility Robotics via $CCXI 2. $TSLA Optimus ($1T+ company) 3. Figure at $39B from 2025, likely higher now. With Tesla likely taking the lead a year from now. So at $16, you have a ~$4B MC pre-money humanoid player. Which is already inside $AMZN and $MELI (ideal use cases to start out, before step-functioning to general-use), with $AMZN, $NVDA, Softbank, Foxconn, and others as investors. NFA, but at those valuations... there's direct exposure for the first ever humanoid player today, that's likely further ahead than Figure for commercialization. No hard feelings about Robostrategy, but it's over 4x+ NAV: Which would value Figure at $156B... While there's the #1 commercialized humanoid player with Agility at $4B today. So my personal preference is $CCXI.",
+      "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
+      "tweet_id": "2072741541404406008",
+      "translated": "在我看来，就当今的商业化而言，Agility Robotics 确实是美国排名第一的人形机器人公司。个人排名： 1. Agility Robotics，来自 $CCXI 2. $TSLA Optimus（$1T+ 公司） 3. 从 2025 年开始，该数字为 $39B，现在可能更高。一年后，特斯拉可能会占据领先地位。因此，在 16 美元的价格下，您就拥有了一位约 4B 美元的 MC 预付费人形玩家。它已经在 $AMZN 和 $MELI 中（在逐步实现通用之前开始的理想用例），$AMZN、$NVDA、软银、富士康和其他公司都是投资者。 NFA，但按照这些估值......今天第一个人形玩家可以直接曝光，这可能比商业化的数字更进一步。对 Robostrategy 没有什么不好的感觉，但它的资产净值超过 4 倍以上：这将使 Figure 的价值达到 $156B...而今天排名第一的商业化人形玩家的 Agility 价格为 $4B。所以我个人偏好是$CCXI。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2072726120706007465",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 02 Jul 2026 16:56:31 GMT",
+      "content": "Photonics is backed by actual revenue numbers and it's an architectural shift championed by $NVDA. Quantum barely has any revenue. $LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029. Lumentum is so strained that they buy CW lasers off competitors (earnings transcript) $COHR is bottlenecked, so they buy EML off Lumentum. Then, $AAOI is coming in with Made-in-America independent CW capacity, are projecting $1.4B/quarterly revenue ending H1 2027 of a stupid $9.3B MC today. So all the CW capacity from independent players who have it now like $AAOI or $SIVE are likely to become scarce resources. Many other hyperscalers have already started LTA discussions (per Trendforce). And players like $AMD are currently talking with players such as $AAOI (Rosenblatt channel checks). Thematically, next 2 years is 9x TAM to US$154B per GS reports, especially with 16x/45x dollar content increase in scale out/scale up. Then there's the overall thematic AI drop from $META, which is widely misunderstood because people conflate what \"excess capacity\" means. And as UBS mentioned, Meta planning a cloud offering is NOT NEW NEWS. Bloomberg just has a tendency to publish information that causes doom drops across the semi sector like Nvidia export controls a few months back. But I'm familiar with what I'm holding so I'm confident in these numbers playing out. Especially when all the major players are sold out, the fundamentals catch up eventually.",
+      "url": "https://x.com/aleabitoreddit/status/2072726120706007465",
+      "tweet_id": "2072726120706007465",
+      "translated": "光子学得到了实际收入数据的支持，这是由 NVDA 倡导的架构转变。量子几乎没有任何收入。 $LITE 可能从 2029 年开始在未来 2 年（根据 $POET 年度股东大会）完全售空。Lumentum 非常紧张，以至于他们从竞争对手那里购买 CW 激光器（收益记录）$COHR 遇到瓶颈，所以他们从 Lumentum 购买 EML。然后，$AAOI 将以美国制造的独立 CW 产能进入，预计截至 2027 年上半年的季度收入为 1.4B 美元，而今天的 MC 愚蠢为 9.3B 美元。因此，像 $AAOI 或 $SIVE 这样的独立玩家现在拥有的所有 CW 能力都可能成为稀缺资源。许多其他超大规模企业已经开始了 LTA 讨论（根据 Trendforce）。像$AMD这样的玩家目前正在与$AAOI（Rosenblatt频道检查）这样的玩家进行对话。从主题上讲，根据 GS 报告，未来 2 年 TAM 为 9 倍，达到 154B 美元，尤其是横向扩展/纵向扩展方面的美元内容增加了 16 倍/45 倍。然后是 $META 的整体主题 AI 下降，它被广泛误解，因为人们混淆了“产能过剩”的含义。正如瑞银所提到的，Meta 计划推出云产品并不是什么新鲜事。彭博社只是倾向于发布导致整个半导体行业厄运的信息，就像几个月前的英伟达出口管制一样。但我很熟悉我所持有的东西，所以我对这些数字的表现充满信心。尤其是当所有主要参与者都售空时，基本面最终会迎头赶上。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2072630036600103340",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -101,26 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2072630036600103340",
       "tweet_id": "2072630036600103340",
       "translated": "我刚刚意识到波士顿动力公司首席执行官也有同样的观点：“机器人是下一个。美国的下一个 250 年将由机器人建造”。然而，目前中国占全球机器人部署总量的 54% 以上。 - 呼吁物理世界的互联网可扩展数据库（有点像 Niantic，它拥有来自 Pokemon Go 的庞大数据集） - 专门的国家机器人战略，以与中国在这一领域的领导地位竞争 - ISO + 机器人安全法规 这都是高水平的：但我的优先考虑过程是我们如何支持和扩展美国制造的机器人/类人机器人供应链？长期以来，我一直在强调稀土，美国在补贴或扩大这个行业方面做得不够。但另一件事需要注意的是对零部件的补贴，迫使特斯拉和其他公司使用中国供应商而不是西方供应商，即使组装是在美国完成的……以降低成本。这就是为什么我喜欢 Agility Robotics $CCXI，因为他们 75% 的零件来自美国，尽管一开始的 BOM 较高。不管怎样，很明显，这种机器人技术即将到来，并成为国家安全的优先事项：从 YT 视频后空翻的时代开始。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2072610437817078056",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 02 Jul 2026 09:16:50 GMT",
-      "content": "$IREN founders award themselves $1.14B+ of stock based compensation. Vesting over 4 years timeframe. This is amid their active $6,000,000,000 ATM. I’m not going to say anything but I think it speaks for itself.",
-      "url": "https://x.com/aleabitoreddit/status/2072610437817078056",
-      "tweet_id": "2072610437817078056",
-      "translated": "$IREN 创始人奖励自己 $1.14B+ 的股票薪酬。行权期限超过 4 年。这是他们活跃的 6,000,000,000 美元 ATM 中的一个。我不会说什么，但我认为它本身就说明了一切。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2072574465763111166",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 02 Jul 2026 06:53:53 GMT",
-      "content": "Wells Fargo: $META intent to sell excess compute is a positive signal around underlying demand and unit economics of AI. “Despite this shift, we don’t expect a pullback in Meta’s capex or that overall compute needs are lower” Regarding Neoclouds: WF thinks it validated the massive AI infra opportunity as well as acquisition opportunities. Despite any potential competition for Neoclouds. I’m inclined to agree with Wells Fargo here and say markets completely misunderstood Meta’s excess compute comment.",
-      "url": "https://x.com/aleabitoreddit/status/2072574465763111166",
-      "tweet_id": "2072574465763111166",
-      "translated": "富国银行：$META 出售多余计算能力的意图是围绕人工智能的潜在需求和单位经济效益的积极信号。 “尽管发生了这种转变，我们预计 Meta 的资本支出不会出现回落，也不会导致整体计算需求下降。” 关于 Neoclouds：WF 认为它验证了巨大的 AI 基础设施机会以及收购机会。尽管 Neoclouds 存在任何潜在的竞争。我倾向于同意富国银行的观点，认为市场完全误解了 Meta 的过度计算评论。"
     }
   ],
   "stats": {
