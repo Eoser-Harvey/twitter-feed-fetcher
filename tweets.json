@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-02T20:21:30.487249+00:00",
-  "total": 9,
+  "fetched_at": "2026-07-02T22:09:25.850682+00:00",
+  "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2072803370616700972",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 02 Jul 2026 22:03:29 GMT",
+      "content": "Model Y long wheelbase now available to order in the US",
+      "url": "https://x.com/elonmusk/status/2072803370616700972",
+      "tweet_id": "2072803370616700972",
+      "translated": "Model Y 长轴距现可在美国订购"
+    },
     {
       "id": "tweet_elonmusk_2072732157710053407",
       "username": "elonmusk",
@@ -23,14 +33,13 @@
       "translated": "RT @elonmusk：公司的未来是一个人力资本和代币资本复合的学习循环。通过我们新的前沿公司，我们的目标是帮助每个企业建立自己的人工智能能力，并帮助创建一个前沿生态系统，让每个组织都可以将其知识、工作流程和判断转化为自己的不断改进的人工智能系统。 https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplizes-and-protects-your-intelligence/"
     },
     {
-      "id": "tweet_elonmusk_2072534996678771188",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 02 Jul 2026 04:17:03 GMT",
-      "content": "RT by @elonmusk: Paraguay is entering a new era of connectivity 🇵🇾 Paraguay is working with Starlink through MITIC and COPACO to bring high-speed internet to more than 1,600 schools in isolated areas This will connect 50,000+ students and teachers to online learning, digital libraries, collaboration tools, and new opportunities A satellite in orbit can now change the future of a classroom full of students on the ground",
-      "url": "https://x.com/elonmusk/status/2072534996678771188",
-      "tweet_id": "2072534996678771188",
-      "translated": "@elonmusk 的 RT：巴拉圭正在进入一个新的互联时代🇵🇾 巴拉圭正在通过 MITIC 和 COPACO 与 Starlink 合作，为偏远地区的 1,600 多所学校提供高速互联网这将使 50,000 多名学生和教师连接到在线学习、数字图书馆、协作工具和新机会一颗在轨卫星现在可以改变地面上满是学生的教室的未来"
+      "id": "tweet_cz_binance_2072741172976681012",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 02 Jul 2026 17:56:19 GMT",
+      "content": "RT by @cz_binance: 今晚刷到一姐@heyibinance 这条，币安正式进入菲律宾。 我第一反应不是又攻下一城，而是这事和币安美股 30 天破 10 亿 AUM 是同一条线： 币安最强的地方，不是只服务华尔街看得见的人，而是去服务那些长期被传统金融忽略的人。 菲律宾、东南亚、新兴市场，这些地方不是没需求。 他们也想买美股、用稳定币、参与全球资产，只是以前门槛太多，路太绕。 币安现在做的，就是把路铺到他们门口。 别人还在卷存量，币安在开新地图。 这才是领头羊真正可怕的地方。 不是喊口号全球化，是真的一个市场一个市场打进去。 @heyibinance @binancezh @cz_binance #Binance #BNB",
+      "url": "https://x.com/cz_binance/status/2072741172976681012",
+      "tweet_id": "2072741172976681012"
     },
     {
       "id": "tweet_cz_binance_2072730164740415818",
@@ -52,14 +61,54 @@
       "tweet_id": "2072727853905383857"
     },
     {
-      "id": "tweet_cz_binance_2072696664658203111",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 02 Jul 2026 14:59:28 GMT",
-      "content": "Slowly, but surely.",
-      "url": "https://x.com/cz_binance/status/2072696664658203111",
-      "tweet_id": "2072696664658203111",
-      "translated": "慢慢地，但肯定地。"
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Pinned: Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "固定：视频"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2068370500334637542",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
+      "content": "RT by @realDonaldTrump: POLL…",
+      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
+      "tweet_id": "2068370500334637542",
+      "translated": "RT @realDonaldTrump：投票……"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2068370042018767262",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sat, 20 Jun 2026 16:27:01 GMT",
+      "content": "POLL: ICE has been abused by the Fake News Media at levels never seen before. They are Great Patriots who work hard, and do a fantastic job in a very hostile environment. Much of this hostility is caused by the Dumocrats and the Fake News. The concept I have had for quite some time — A strong feeling that the name of these Patriots, “ICE,” should be changed to, “NICE,” in that it will totally discombobulate Crooked, Dishonest, and Unpatriotic Reporters and Journalists. For them to say, “We went to a NICE Facility today,” as opposed to “ICE” or, “NICE Agents have deported a Violent Drug Dealer,” they won’t be able to handle it, they will go totally crazy! All it means is adding an “N” (“National”) to “ICE (“Immigration and Customs Enforcement”) — A much more prestigious name. Everyone loves it, but I have been told by the legendary Tom Homan that the Agents do not love it as much as the other population. Who thinks that we should add an “N” to change the name of “ICE” to “NICE?”   Thank you for your attention to this matter! President DJT",
+      "url": "https://x.com/realDonaldTrump/status/2068370042018767262",
+      "tweet_id": "2068370042018767262",
+      "translated": "民意调查：假新闻媒体对 ICE 的滥用达到了前所未有的程度。他们是伟大的爱国者，他们努力工作，在非常恶劣的环境中做得非常出色。这种敌意很大程度上是由杜民主派和假新闻引起的。我有一段时间一直有这样的想法——一种强烈的感觉，这些爱国者的名字“ICE”应该改为“NICE”，因为这将彻底扰乱不诚实、不诚实、不爱国的记者和记者。对于他们来说，“我们今天去了一家 NICE 设施”，而不是“ICE”或“NICE 特工驱逐了一名暴力毒贩”，他们将无法处理，他们会完全疯掉！这意味着在“ICE”（“移民和海关执法局”）中添加一个“N”（“国家”）——一个更有声望的名字。每个人都喜欢它，但传奇人物汤姆·霍曼告诉我，特工们并不像其他人那样喜欢它。谁认为我们应该添加一个“N”来将“ICE”的名字改为“NICE”？   感谢您对此事的关注！总裁DJT"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2072795186263187831",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 02 Jul 2026 21:30:57 GMT",
+      "content": "$AXTI signs 3-year wafer deal with $COHR. \"Coherent will make a prepayment of $22,288,500 to AXT-Tongmei in exchange for a committed supply capacity.\"",
+      "url": "https://x.com/aleabitoreddit/status/2072795186263187831",
+      "tweet_id": "2072795186263187831",
+      "translated": "$AXTI 与 $COHR 签署为期 3 年的晶圆协议。 “相干公司将向 AXT-Tongmei 预付款 22,288,500 美元，以换取承诺的供应能力。”"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2072781715916169660",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 02 Jul 2026 20:37:26 GMT",
+      "content": "Does anyone else have this annoying seed planted in their mind too? Whenever I see $MRVL drop, I get reminded of Jensen’s comment “The next $1T company”.",
+      "url": "https://x.com/aleabitoreddit/status/2072781715916169660",
+      "tweet_id": "2072781715916169660",
+      "translated": "其他人的心里是否也种下了这种烦人的种子呢？每当我看到 $MRVL 下跌时，我都会想起 Jensen 的评论“下一个 1T 美元的公司”。"
     },
     {
       "id": "tweet_aleabitoreddit_2072765527764971642",
@@ -70,31 +119,11 @@
       "url": "https://x.com/aleabitoreddit/status/2072765527764971642",
       "tweet_id": "2072765527764971642",
       "translated": "就在这个时候：BlueCrest Capital Management 及其亿万富翁 Michael Platt 跨过门槛，披露了 $CCXI 5.6% 的股份。我知道敏捷机器人会很受欢迎……"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2072760446617280650",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 02 Jul 2026 19:12:55 GMT",
-      "content": "Always a fun time seeing semi markets crash from Bloomberg report framing once again… UBS analyst on $META report: “this is not new news”. Regardless: $AEHR down -18.3% $AAOI down -17.13% $SIVEF down -15.4% $SNDK down -14.8% $TER down -13.8% $GLW down -11.4% $MRVL down -11.2% $LITE down -10.2% $NBIS down -7.8% Getting PTSD from Bloombert’s previous misleading report on AMD/Nvidia global export controls earlier this year that crashed semi stocks. FYI: Meta doesn’t randomly buy $48B+ worth of neocoud contracts if they overbuilt capacity and can cut capex… Markets are stupid sometimes.",
-      "url": "https://x.com/aleabitoreddit/status/2072760446617280650",
-      "tweet_id": "2072760446617280650",
-      "translated": "看到彭博社报告框架中的半成品市场再次崩溃总是很有趣……瑞银分析师对 $META 报告：“这不是新消息”。无论如何： $AEHR 下降 -18.3% $AAOI 下降 -17.13% $SIVEF 下降 -15.4% $SNDK 下降 -14.8% $TER 下降 -13.8% $GLW 下降 -11.4% $MRVL 下降 -11.2% $LITE 下降 -10.2% $NBIS 下降 -7.8% 从彭博社之前关于 AMD/Nvidia 全球出口管制的误导性报告中获得 PTSD那一年，半成品股票暴跌。仅供参考：Meta 不会随机购买价值 48B+ 美元的 Neocoud 合约，如果它们过度建设容量并可以削减资本支出……市场有时是愚蠢的。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2072741541404406008",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 02 Jul 2026 17:57:47 GMT",
-      "content": "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. Personal Rankings: 1. Agility Robotics via $CCXI 2. $TSLA Optimus ($1T+ company) 3. Figure at $39B from 2025, likely higher now. With Tesla likely taking the lead a year from now. So at $16, you have a ~$4B MC pre-money humanoid player. Which is already inside $AMZN and $MELI (ideal use cases to start out, before step-functioning to general-use), with $AMZN, $NVDA, Softbank, Foxconn, and others as investors. NFA, but at those valuations... there's direct exposure for the first ever humanoid player today, that's likely further ahead than Figure for commercialization. No hard feelings about Robostrategy, but it's over 4x+ NAV: Which would value Figure at $156B... While there's the #1 commercialized humanoid player with Agility at $4B today. So my personal preference is $CCXI.",
-      "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
-      "tweet_id": "2072741541404406008",
-      "translated": "在我看来，就当今的商业化而言，Agility Robotics 确实是美国排名第一的人形机器人公司。个人排名： 1. Agility Robotics，来自 $CCXI 2. $TSLA Optimus（$1T+ 公司） 3. 从 2025 年开始，该数字为 $39B，现在可能更高。一年后，特斯拉可能会占据领先地位。因此，在 16 美元的价格下，您就拥有了一位约 4B 美元的 MC 预付费人形玩家。它已经在 $AMZN 和 $MELI 中（在逐步实现通用之前开始的理想用例），$AMZN、$NVDA、软银、富士康和其他公司都是投资者。 NFA，但按照这些估值……今天第一个人形玩家可以直接曝光，这可能比商业化的数字更进一步。对 Robostrategy 没有什么不好的感觉，但它的资产净值超过 4 倍以上：这将使 Figure 的价值达到 $156B...而今天排名第一的商业化人形玩家的 Agility 价格为 $4B。所以我个人偏好是$CCXI。"
     }
   ],
   "stats": {
-    "users_success": 3,
-    "users_failed": 1,
+    "users_success": 4,
+    "users_failed": 0,
     "nitter_healthy": 9
   }
 }
