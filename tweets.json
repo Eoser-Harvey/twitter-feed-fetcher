@@ -1,36 +1,46 @@
 {
-  "fetched_at": "2026-07-02T14:06:17.636188+00:00",
+  "fetched_at": "2026-07-02T16:51:41.043706+00:00",
   "total": 12,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2072464558732824680",
+      "id": "tweet_elonmusk_2072534996678771188",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 01 Jul 2026 23:37:09 GMT",
-      "content": "RT by @elonmusk: Teams recently completed build and acceptance testing of our 1,000th Merlin 1D engine for Falcon’s first stage! With Falcon’s reusability, recovering these engines has enabled continued reliability enhancements, making Merlin one of the most reliable rocket engines ever manufactured",
-      "url": "https://x.com/elonmusk/status/2072464558732824680",
-      "tweet_id": "2072464558732824680",
-      "translated": "RT @elonmusk：团队最近完成了猎鹰第一阶段第 1,000 个 Merlin 1D 引擎的构建和验收测试！凭借 Falcon 的可重复使用性，回收这些发动机可以持续增强可靠性，使 Merlin 成为有史以来最可靠的火箭发动机之一"
+      "published_at": "Thu, 02 Jul 2026 04:17:03 GMT",
+      "content": "RT by @elonmusk: Paraguay is entering a new era of connectivity 🇵🇾 Paraguay is working with Starlink through MITIC and COPACO to bring high-speed internet to more than 1,600 schools in isolated areas This will connect 50,000+ students and teachers to online learning, digital libraries, collaboration tools, and new opportunities A satellite in orbit can now change the future of a classroom full of students on the ground",
+      "url": "https://x.com/elonmusk/status/2072534996678771188",
+      "tweet_id": "2072534996678771188",
+      "translated": "@elonmusk 的 RT：巴拉圭正在进入一个新的互联时代🇵🇾 巴拉圭正在通过 MITIC 和 COPACO 与 Starlink 合作，为偏远地区的 1,600 多所学校提供高速互联网这将使 50,000 多名学生和教师连接到在线学习、数字图书馆、协作工具和新机会一颗在轨卫星现在可以改变地面上满是学生的教室的未来"
     },
     {
-      "id": "tweet_elonmusk_2072345733584269416",
+      "id": "tweet_elonmusk_2072447065397825701",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 01 Jul 2026 15:44:59 GMT",
-      "content": "RT by @elonmusk: Last year, @elonmusk brought national attention to the paper-based federal retirement process hidden deep underground in Boyers, Pennsylvania. The Last Day of Paper is more than a milestone, it is proof that government modernization can deliver real results for the American people. Thank you @POTUS and @elonmusk for the initial discussions that led to this important accomplishment: https://www.foxnews.com/politics/elon-musk-describes-limestone-mine-used-processing-federal-workers-retirement-papers-like-time-warp",
-      "url": "https://x.com/elonmusk/status/2072345733584269416",
-      "tweet_id": "2072345733584269416",
-      "translated": "RT @elonmusk：去年，@elonmusk 引起了全国对隐藏在宾夕法尼亚州博耶斯地下深处的纸质联邦退休流程的关注。 《最后一天的纸张》不仅仅是一个里程碑，它证明政府现代化可以为美国人民带来真正的成果。感谢 @POTUS 和 @elonmusk 的初步讨论，促成了这一重要成就：https://www.foxnews.com/politics/elon-musk-describes-limestone-mine-used-processing-federal-workers-retirement-papers-like-time-warp"
+      "published_at": "Wed, 01 Jul 2026 22:27:39 GMT",
+      "content": "RT by @elonmusk: In 1825, a rich Welsh industrialist bought an entire American town to prove that socialism could work. He had the money, the buildings, the theory, and hundreds of eager followers waiting to move in. Two years later, it was over. 🧵",
+      "url": "https://x.com/elonmusk/status/2072447065397825701",
+      "tweet_id": "2072447065397825701",
+      "translated": "RT @elonmusk：1825 年，一位富有的威尔士实业家买下了整个美国城镇，以证明社会主义可行。他有钱、有建筑、有理论，还有数百名热切的追随者等待着搬进去。两年后，一切都结束了。 🧵"
     },
     {
-      "id": "tweet_elonmusk_2072450156801446239",
+      "id": "tweet_elonmusk_2072703739866083721",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 01 Jul 2026 22:39:56 GMT",
-      "content": "Free money, housing, etc acts as a massive financial forcing function to draw illegals to America and Europe",
-      "url": "https://x.com/elonmusk/status/2072450156801446239",
-      "tweet_id": "2072450156801446239",
-      "translated": "免费的金钱、住房等发挥着巨大的金融强迫作用，吸引非法移民前往美国和欧洲"
+      "published_at": "Thu, 02 Jul 2026 15:27:35 GMT",
+      "content": "True",
+      "url": "https://x.com/elonmusk/status/2072703739866083721",
+      "tweet_id": "2072703739866083721",
+      "translated": "真的"
+    },
+    {
+      "id": "tweet_cz_binance_2072696664658203111",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 02 Jul 2026 14:59:28 GMT",
+      "content": "Slowly, but surely.",
+      "url": "https://x.com/cz_binance/status/2072696664658203111",
+      "tweet_id": "2072696664658203111",
+      "translated": "慢慢地，但肯定地。"
     },
     {
       "id": "tweet_cz_binance_2072226439907156288",
@@ -51,16 +61,6 @@
       "url": "https://x.com/cz_binance/status/2072292404649197843",
       "tweet_id": "2072292404649197843",
       "translated": "RT @cz_binance：CZ：Binance US 成立于 2019 年，是一家完全独立的公司。自己的匹配引擎，自己的钱包，没有与 http://Binance.com 共享任何内容 在 CZ 与美国政府的整个斗争中，Binance US 从未参与其中。不收费。认罪协议中没有。它确实面临着美国证券交易委员会的民事诉讼，并因此失去了多年的银行业务准入资格。仍然漂浮着。仍然保持盈利。现在银行业又回来了。零费用交易已上线。币安美国再次扩张。分开建造。保持干净。这就是币安美国的故事💛💛 抄送@ClipX0_ @cz_binance @BinanceUS"
-    },
-    {
-      "id": "tweet_cz_binance_2072289157746213146",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 01 Jul 2026 12:00:11 GMT",
-      "content": "RT by @cz_binance: Smart money used to mean knowing the right people, being in the right rooms. Now it means having the right agents. For years, building one took five tools, four logins, and a painful month of work. Today, it takes just a single prompt. BNB Agent Studio is live on BNB Smart Chain. Open @cursor_ai or Claude Code, describe the agent you want, and it ships to the chain with its own onchain identity, its own wallet, and a way to pay its own bills. The whole thing runs on @awscloud's Bedrock AgentCore, so your agent stays online long after you've closed your laptop. This is the start of the Smart Money Era. Capital that works for you instead of waiting for you to move it. Agents that monitor markets while you sleep, rebalance positions you'd never get to in time, and hunt yield without checking dashboards. Try BNB Agent Studio for free for a limited time with GitHub login only, with no AWS account or credit card needed. Read the full breakdown in our blog 👇 https://www.bnbchain.org/en/blog/bnb-agent-studio-is-live-on-bnb-chain-ai-agents-from-one-prompt",
-      "url": "https://x.com/cz_binance/status/2072289157746213146",
-      "tweet_id": "2072289157746213146",
-      "translated": "RT by @cz_binance：聪明的钱曾经意味着认识正确的人，在正确的房间里。现在这意味着拥有合适的代理商。多年来，构建一个应用程序需要五个工具、四次登录和一个月的痛苦工作。如今，只需一个提示即可。 BNB Agent Studio已上线BNB智能链。打开 @cursor_ai 或 Claude Code，描述你想要的代理，它就会以自己的链上身份、自己的钱包和支付自己账单的方式运送到链上。整个过程在 @awscloud 的 Bedrock AgentCore 上运行，因此您的代理在您关闭笔记本电脑后仍能保持在线状态。这是智能货币时代的开始。资本为你服务，而不是等待你移动它。代理在您睡觉时监控市场，重新平衡您永远无法及时到达的头寸，并在不检查仪表板的情况下寻找收益。只需登录 GitHub，即可在有限时间内免费试用 BNB Agent Studio，无需 AWS 账户或信用卡。请阅读我们博客中的完整细分：https://www.bnbchain.org/en/blog/bnb-agent-studio-is-live-on-bnb-chain-ai-agents-from-one-prompt"
     },
     {
       "id": "tweet_realDonaldTrump_2072681271566708832",
