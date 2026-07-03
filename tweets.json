@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-03T00:08:19.563072+00:00",
+  "fetched_at": "2026-07-03T04:44:13.111242+00:00",
   "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2072833182635024712",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 03 Jul 2026 00:01:56 GMT",
+      "content": "RT by @elonmusk: First builds of Model Y Long Wheelbase at Giga Texas",
+      "url": "https://x.com/elonmusk/status/2072833182635024712",
+      "tweet_id": "2072833182635024712",
+      "translated": "RT by @elonmusk：在 Giga Texas 首次生产 Model Y 长轴距"
+    },
     {
       "id": "tweet_elonmusk_2072667103396806925",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2072817687256834529",
       "tweet_id": "2072817687256834529",
       "translated": "视频"
-    },
-    {
-      "id": "tweet_elonmusk_2072770755478290569",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 02 Jul 2026 19:53:52 GMT",
-      "content": "RT by @elonmusk: Finally, Grok’s Speech-to-Text is now live in Grok Build You can now just dictate prompts directly to your coding agents using /voice or Ctrl + Space, powered by Grok Voice Just talk naturally for like 15 minutes straight. Grok transcribes everything in real-time and gets to work instead of stopping to type every instruction This makes it so much easier to: • Brainstorm ideas while coding • Describe complex changes conversationally • Stay in flow without switching between keyboard and voice • Interact with coding agents more naturally As AI coding assistants get more capable, voice is becoming a first-class workflow in Grok Build Huge unlock for anyone who thinks out loud or hates context switching",
-      "url": "https://x.com/elonmusk/status/2072770755478290569",
-      "tweet_id": "2072770755478290569",
-      "translated": "RT by @elonmusk：最后，Grok 的语音转文本现已在 Grok Build 中上线。您现在可以使用 /voice 或 Ctrl + Space（由 Grok Voice 提供支持）直接向您的编码代理口述提示，只需自然地连续说话 15 分钟即可。 Grok 实时转录所有内容并开始工作，而不是停下来输入每条指令 这使得以下操作变得更加容易： • 编码时集思广益 • 以对话方式描述复杂的更改 • 保持流畅，无需在键盘和语音之间切换 • 与编码代理更自然地交互 随着 AI 编码助手的能力越来越强，语音正在成为 Grok 中的一流工作流程 为任何大声思考或讨厌上下文切换的人构建巨大的解锁功能"
     },
     {
       "id": "tweet_cz_binance_2072741172976681012",
@@ -124,6 +124,6 @@
   "stats": {
     "users_success": 4,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
