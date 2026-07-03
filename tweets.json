@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-02T22:09:25.850682+00:00",
+  "fetched_at": "2026-07-03T00:08:19.563072+00:00",
   "total": 12,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2072803370616700972",
+      "id": "tweet_elonmusk_2072667103396806925",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 02 Jul 2026 22:03:29 GMT",
-      "content": "Model Y long wheelbase now available to order in the US",
-      "url": "https://x.com/elonmusk/status/2072803370616700972",
-      "tweet_id": "2072803370616700972",
-      "translated": "Model Y 长轴距现可在美国订购"
+      "published_at": "Thu, 02 Jul 2026 13:02:00 GMT",
+      "content": "RT by @elonmusk: Q2 2026 Production: 451,758 Deliveries: 480,126 Energy storage deployments: 13.5 GWh Our Q2 Company Update will be streamed live on X on July 22 at 4:30pm CT → https://ir.tesla.com/press-release/tesla-second-quarter-2026-production-deliveries-and-deployments",
+      "url": "https://x.com/elonmusk/status/2072667103396806925",
+      "tweet_id": "2072667103396806925",
+      "translated": "RT by @elonmusk：2026 年第二季度产量：451,758 交付量：480,126 储能部署：13.5 GWh 我们的第二季度公司更新将于 7 月 22 日下午 4:30（中部时间）在 X 直播 → https://ir.tesla.com/press-release/tesla-second-quarter-2026-product-deliveries-and-deployments"
     },
     {
-      "id": "tweet_elonmusk_2072732157710053407",
+      "id": "tweet_elonmusk_2072817687256834529",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 02 Jul 2026 17:20:30 GMT",
-      "content": "RT by @elonmusk: I ran the same prompt through @imagine Agent mode and the results were pretty amazing!",
-      "url": "https://x.com/elonmusk/status/2072732157710053407",
-      "tweet_id": "2072732157710053407",
-      "translated": "RT by @elonmusk：我通过 @imagine Agent 模式运行了相同的提示，结果非常惊人！"
+      "published_at": "Thu, 02 Jul 2026 23:00:22 GMT",
+      "content": "Video",
+      "url": "https://x.com/elonmusk/status/2072817687256834529",
+      "tweet_id": "2072817687256834529",
+      "translated": "视频"
     },
     {
-      "id": "tweet_elonmusk_2072708957077176563",
+      "id": "tweet_elonmusk_2072770755478290569",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 02 Jul 2026 15:48:19 GMT",
-      "content": "RT by @elonmusk: The future of the firm is a learning loop in which human capital and token capital compound. With our new Frontier Co., our ambition is to help every enterprise build its own AI capability, and to help create a frontier ecosystem where every organization can turn its knowledge, workflows, and judgment into its own AI systems that continuously improve. https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/",
-      "url": "https://x.com/elonmusk/status/2072708957077176563",
-      "tweet_id": "2072708957077176563",
-      "translated": "RT @elonmusk：公司的未来是一个人力资本和代币资本复合的学习循环。通过我们新的前沿公司，我们的目标是帮助每个企业建立自己的人工智能能力，并帮助创建一个前沿生态系统，让每个组织都可以将其知识、工作流程和判断转化为自己的不断改进的人工智能系统。 https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplizes-and-protects-your-intelligence/"
+      "published_at": "Thu, 02 Jul 2026 19:53:52 GMT",
+      "content": "RT by @elonmusk: Finally, Grok’s Speech-to-Text is now live in Grok Build You can now just dictate prompts directly to your coding agents using /voice or Ctrl + Space, powered by Grok Voice Just talk naturally for like 15 minutes straight. Grok transcribes everything in real-time and gets to work instead of stopping to type every instruction This makes it so much easier to: • Brainstorm ideas while coding • Describe complex changes conversationally • Stay in flow without switching between keyboard and voice • Interact with coding agents more naturally As AI coding assistants get more capable, voice is becoming a first-class workflow in Grok Build Huge unlock for anyone who thinks out loud or hates context switching",
+      "url": "https://x.com/elonmusk/status/2072770755478290569",
+      "tweet_id": "2072770755478290569",
+      "translated": "RT by @elonmusk：最后，Grok 的语音转文本现已在 Grok Build 中上线。您现在可以使用 /voice 或 Ctrl + Space（由 Grok Voice 提供支持）直接向您的编码代理口述提示，只需自然地连续说话 15 分钟即可。 Grok 实时转录所有内容并开始工作，而不是停下来输入每条指令 这使得以下操作变得更加容易： • 编码时集思广益 • 以对话方式描述复杂的更改 • 保持流畅，无需在键盘和语音之间切换 • 与编码代理更自然地交互 随着 AI 编码助手的能力越来越强，语音正在成为 Grok 中的一流工作流程 为任何大声思考或讨厌上下文切换的人构建巨大的解锁功能"
     },
     {
       "id": "tweet_cz_binance_2072741172976681012",
