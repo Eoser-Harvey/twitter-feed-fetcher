@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-03T08:11:25.136805+00:00",
+  "fetched_at": "2026-07-03T11:34:41.591831+00:00",
   "total": 12,
   "tweets": [
     {
@@ -91,6 +91,16 @@
       "translated": "民意调查：假新闻媒体对 ICE 的滥用达到了前所未有的程度。他们是伟大的爱国者，他们努力工作，在非常恶劣的环境中做得非常出色。这种敌意很大程度上是由杜民主派和假新闻引起的。我有一段时间一直有这样的想法——一种强烈的感觉，这些爱国者的名字“ICE”应该改为“NICE”，因为这将彻底扰乱不诚实、不诚实、不爱国的记者和记者。对于他们来说，“我们今天去了一家 NICE 设施”，而不是“ICE”或“NICE 特工驱逐了一名暴力毒贩”，他们将无法处理，他们会完全疯掉！这意味着在“ICE”（“移民和海关执法局”）中添加一个“N”（“国家”）——一个更有声望的名字。每个人都喜欢它，但传奇人物汤姆·霍曼告诉我，特工们并不像其他人那样喜欢它。谁认为我们应该添加一个“N”来将“ICE”的名字改为“NICE”？   感谢您对此事的关注！总裁DJT"
     },
     {
+      "id": "tweet_aleabitoreddit_2072986020640076052",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 03 Jul 2026 10:09:16 GMT",
+      "content": "So positive readthrough on the upstream glass substrate supply chain: - Sumitomo Chemical and Samsung Electro-Mechanics formally establish JV in Korea within the year to handle the glass core substrate business (GlaSSEM). Main thing was timeline/funding was finalized: \"full scale commercialization targeted H2 2027\" for the Samsung/Dongwoo JV / KRW 482.1B planned capital. Think the \"full scale commercialization\" is the word to highlight, since that would imply timeline moving faster than expected than starting ramp or early production H2 2027. So... TGV/LIDE with $LPK (that I own)/E&R and Onto in terms of yields are just some examples of possible sector beneficiaries. Since companies like LPK stated in the past: “80% of customers among major global players have selected LPKF equipment” and targeted \"70% of LIDE market share target for TGV in the glass-core ramp\". These players also typically have revenue pulled forward, since equipment orders during capex cycle hit before actual ramp. Regardless, just an update on developments.",
+      "url": "https://x.com/aleabitoreddit/status/2072986020640076052",
+      "tweet_id": "2072986020640076052",
+      "translated": "上游玻璃基板供应链的正面解读： - 住友化学与三星电机年内正式在韩国成立合资公司，负责玻璃核心基板业务（GlaSSEM）。最主要的是时间表/资金已最终确定：三星/东宇合资公司/计划资本 482.1B 韩元的“全面商业化目标是 2027 年下半年”。认为“全面商业化”是需要强调的词，因为这意味着时间表的进展比预期的要快于 2027 年下半年启动或早期生产的速度。所以... TGV/LIDE 与 $LPK（我拥有）/E&R 和 Onto 在收益率方面只是可能的行业受益者的一些例子。由于LPK等公司过去曾表示：“全球主要企业中80%的客户都选择了LPKF设备”，并瞄准了“玻璃芯坡道TGV LIDE市场份额70%的目标”。这些参与者的收入通常也会提前，因为资本支出周期中的设备订单在实际增长之前就达到了。无论如何，只是更新进展情况。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2072936659369517341",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -109,21 +119,11 @@
       "url": "https://x.com/aleabitoreddit/status/2072922974345445511",
       "tweet_id": "2072922974345445511",
       "translated": "SemiAnalysis 对 $META“产能过剩”以及 $NBIS 和其他机构的市场反应：“我们相信 Meta 的数据中心和计算将会加速”。 “2027 年的资本支出将高得惊人”。最近的全球崩溃，特别是在光子学领域，是愚蠢的……关于 Meta 退出人工智能竞赛以出售多余计算的误导性叙述……而事实上，事情可能会加速，从 Meta 赶上 GPT5.5。我个人预计 V 会急剧复苏，尤其是那些从这个故事中暴跌 50% 以上的名字。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2072913865458004014",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 03 Jul 2026 05:22:33 GMT",
-      "content": "LeaderDrive (688017) is now at all time highs after hitting a 20% limit up today. Looks like robotics sector excitement is palpable… Largely driven by US and China’s frontier humanoid companies with $CCXI / Agility Robotics As well as Unitree (STAR listing approved today) both going public.",
-      "url": "https://x.com/aleabitoreddit/status/2072913865458004014",
-      "tweet_id": "2072913865458004014",
-      "translated": "LeaderDrive (688017) 今天触及 20% 的涨停，目前创历史新高。看起来机器人行业的兴奋是显而易见的......主要是由美国和中国的前沿类人机器人公司推动的，$CCXI / Agility Robotics 以及 Unitree（今天批准 STAR 上市）都上市了。"
     }
   ],
   "stats": {
     "users_success": 4,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
