@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-04T22:01:18.358911+00:00",
-  "total": 12,
+  "fetched_at": "2026-07-04T23:08:30.455994+00:00",
+  "total": 9,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2073453437123957109",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 04 Jul 2026 17:06:36 GMT",
-      "content": "RT by @elonmusk: Elon Musk is an American by blood His grandfather, Joshua Haldeman (6’6”) and father to Maye Musk, was born in 1902 in Pequot Lakes, Minnesota, and even paid his way through college by competing in rodeos, the most American thing imaginable.",
-      "url": "https://x.com/elonmusk/status/2073453437123957109",
-      "tweet_id": "2073453437123957109",
-      "translated": "RT @elonmusk：埃隆·马斯克 (Elon Musk) 是美国人，他的祖父约书亚·霍尔德曼 (Joshua Haldeman，身高 6 英尺 6 英寸) 和梅耶·马斯克 (Maye Musk) 的父亲于 1902 年出生于明尼苏达州佩科特莱克斯，他甚至通过参加牛仔竞技比赛支付了大学学费，这是可以想象的最美国化的事情。"
-    },
-    {
-      "id": "tweet_elonmusk_2073454960340300144",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 04 Jul 2026 17:12:40 GMT",
-      "content": "RT by @elonmusk: Teslas are the most American-made cars 🇺🇸 Happy 250th birthday, America 🇺🇸",
-      "url": "https://x.com/elonmusk/status/2073454960340300144",
-      "tweet_id": "2073454960340300144",
-      "translated": "RT @elonmusk：特斯拉是最美国制造的汽车🇺🇸美国 250 岁生日快乐🇺🇸"
-    },
-    {
-      "id": "tweet_elonmusk_2073311697474076672",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 04 Jul 2026 07:43:23 GMT",
-      "content": "Pinned: God Bless America",
-      "url": "https://x.com/elonmusk/status/2073311697474076672",
-      "tweet_id": "2073311697474076672",
-      "translated": "固定：上帝保佑美国"
-    },
     {
       "id": "tweet_cz_binance_2073519761380532670",
       "username": "cz_binance",
@@ -123,8 +93,8 @@
     }
   ],
   "stats": {
-    "users_success": 4,
-    "users_failed": 0,
+    "users_success": 3,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
