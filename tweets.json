@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-07-04T07:48:46.909278+00:00",
+  "fetched_at": "2026-07-04T10:12:38.295174+00:00",
   "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2073311697474076672",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 04 Jul 2026 07:43:23 GMT",
+      "content": "Pinned: God Bless America",
+      "url": "https://x.com/elonmusk/status/2073311697474076672",
+      "tweet_id": "2073311697474076672",
+      "translated": "固定：上帝保佑美国"
+    },
+    {
+      "id": "tweet_elonmusk_2073055723622482347",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 03 Jul 2026 14:46:14 GMT",
+      "content": "RT by @elonmusk: Project Hail Mary is now on Prime Video, free for Prime members everywhere. It’s my favorite movie that I've seen in a long time. Truly outstanding and unique. Phil Lord and Chris Miller pulled off something remarkable, Ryan Gosling is amazing, and none of this happens without Andy Weir’s compelling book. If you missed it in theaters, now's your chance. And, if you already saw it, it's an easy way to rewatch. Think you'll enjoy.",
+      "url": "https://x.com/elonmusk/status/2073055723622482347",
+      "tweet_id": "2073055723622482347",
+      "translated": "RT by @elonmusk：Project Hail Mary 现已在 Prime Video 上推出，对世界各地的 Prime 会员免费。这是我很长一段时间以来最喜欢的电影。真正杰出和独特。菲尔·洛德（Phil Lord）和克里斯·米勒（Chris Miller）取得了非凡的成就，瑞恩·高斯林（Ryan Gosling）也令人惊叹，如果没有安迪·威尔（Andy Weir）引人入胜的书，这一切都不会发生。如果您错过了影院上映的机会，那么现在机会来了。而且，如果您已经看过，这是重新观看的一种简单方法。相信你会喜欢的。"
+    },
     {
       "id": "tweet_elonmusk_2073232745132859443",
       "username": "elonmusk",
@@ -13,52 +33,34 @@
       "translated": "RT @elonmusk：上帝保佑美国。"
     },
     {
-      "id": "tweet_elonmusk_2073267613380259840",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 04 Jul 2026 04:48:13 GMT",
-      "content": "RT by @elonmusk: Happy Birthday America, Land of the Free. Don’t give up on the First, Second, Fourth, and Ninth Amendments. They’re unique, and your freedom - and the worlds’ - depends on them.",
-      "url": "https://x.com/elonmusk/status/2073267613380259840",
-      "tweet_id": "2073267613380259840",
-      "translated": "RT @elonmusk：生日快乐，美国，自由之地。不要放弃第一、第二、第四和第九修正案。它们是独一无二的，你的自由 - 以及世界的自由 - 取决于它们。"
-    },
-    {
-      "id": "tweet_elonmusk_2073245901016166547",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 04 Jul 2026 03:21:56 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2073245901016166547",
-      "tweet_id": "2073245901016166547",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_cz_binance_2072741172976681012",
+      "id": "tweet_cz_binance_2073324554026414556",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 02 Jul 2026 17:56:19 GMT",
-      "content": "RT by @cz_binance: 今晚刷到一姐@heyibinance 这条，币安正式进入菲律宾。 我第一反应不是又攻下一城，而是这事和币安美股 30 天破 10 亿 AUM 是同一条线： 币安最强的地方，不是只服务华尔街看得见的人，而是去服务那些长期被传统金融忽略的人。 菲律宾、东南亚、新兴市场，这些地方不是没需求。 他们也想买美股、用稳定币、参与全球资产，只是以前门槛太多，路太绕。 币安现在做的，就是把路铺到他们门口。 别人还在卷存量，币安在开新地图。 这才是领头羊真正可怕的地方。 不是喊口号全球化，是真的一个市场一个市场打进去。 @heyibinance @binancezh @cz_binance #Binance #BNB",
-      "url": "https://x.com/cz_binance/status/2072741172976681012",
-      "tweet_id": "2072741172976681012"
+      "published_at": "Sat, 04 Jul 2026 08:34:28 GMT",
+      "content": "Happy July 4th!",
+      "url": "https://x.com/cz_binance/status/2073324554026414556",
+      "tweet_id": "2073324554026414556",
+      "translated": "7 月 4 日快乐！"
     },
     {
-      "id": "tweet_cz_binance_2072730164740415818",
+      "id": "tweet_cz_binance_2073104871524360653",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 02 Jul 2026 17:12:35 GMT",
-      "content": "Real liquidity for Philippines🇵🇭.",
-      "url": "https://x.com/cz_binance/status/2072730164740415818",
-      "tweet_id": "2072730164740415818",
-      "translated": "菲律宾🇵🇭的真正流动性。"
+      "published_at": "Fri, 03 Jul 2026 18:01:32 GMT",
+      "content": "RT by @cz_binance: Spotted some bánh mì? 🥖 We know that look. 😋 Good news if you're traveling in Vietnam: you can pay with crypto. Just scan the local QR code with Binance Pay and grab your food to go. Here's how → https://www.binance.com/events/scan-and-pay-tourist-payment?utm_source=social",
+      "url": "https://x.com/cz_binance/status/2073104871524360653",
+      "tweet_id": "2073104871524360653",
+      "translated": "RT @cz_binance：发现了一些 bánh mì 吗？ 🥖 我们知道那个样子。 😋 如果您在越南旅行，好消息是：您可以使用加密货币付款。只需使用 Binance Pay 扫描本地二维码即可外带食物。具体方法如下 → https://www.binance.com/events/scan-and-pay-tourist- payment?utm_source=social"
     },
     {
-      "id": "tweet_cz_binance_2072727853905383857",
+      "id": "tweet_cz_binance_2072972520710426668",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 02 Jul 2026 17:03:24 GMT",
-      "content": "😂",
-      "url": "https://x.com/cz_binance/status/2072727853905383857",
-      "tweet_id": "2072727853905383857"
+      "published_at": "Fri, 03 Jul 2026 09:15:37 GMT",
+      "content": "RT by @cz_binance: I really miss @binance in EU, ngl , maybe its just me, but the other exchanges i tried for now, have 100 questions, 50 requests and takes shit load of time to process everything....",
+      "url": "https://x.com/cz_binance/status/2072972520710426668",
+      "tweet_id": "2072972520710426668",
+      "translated": "RT by @cz_binance：我真的很想念欧盟的@binance，ngl，也许只有我一个人，但我现在尝试过的其他交易所，有 100 个问题，50 个请求，需要大量的时间来处理所有事情......"
     },
     {
       "id": "tweet_realDonaldTrump_2072681271566708832",
