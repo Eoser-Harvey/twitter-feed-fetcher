@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-03T22:06:39.117884+00:00",
-  "total": 9,
+  "fetched_at": "2026-07-04T00:07:34.684850+00:00",
+  "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2073132524063060174",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 03 Jul 2026 19:51:25 GMT",
+      "content": "Good explanation of why some people find “wealth” inexplicable",
+      "url": "https://x.com/elonmusk/status/2073132524063060174",
+      "tweet_id": "2073132524063060174",
+      "translated": "很好地解释了为什么有些人觉得“财富”难以解释"
+    },
+    {
+      "id": "tweet_elonmusk_2072927075317457223",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 03 Jul 2026 06:15:02 GMT",
+      "content": "True",
+      "url": "https://x.com/elonmusk/status/2072927075317457223",
+      "tweet_id": "2072927075317457223",
+      "translated": "真的"
+    },
+    {
+      "id": "tweet_elonmusk_2072629168983187589",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 02 Jul 2026 10:31:16 GMT",
+      "content": "RT by @elonmusk: BREAKING: Tesla Model Y was the best-selling vehicle overall in New Zealand for the month of June.",
+      "url": "https://x.com/elonmusk/status/2072629168983187589",
+      "tweet_id": "2072629168983187589",
+      "translated": "RT @elonmusk：突发新闻：特斯拉 Model Y 是新西兰 6 月份最畅销的汽车。"
+    },
     {
       "id": "tweet_cz_binance_2072741172976681012",
       "username": "cz_binance",
@@ -92,8 +122,8 @@
     }
   ],
   "stats": {
-    "users_success": 3,
-    "users_failed": 1,
-    "nitter_healthy": 10
+    "users_success": 4,
+    "users_failed": 0,
+    "nitter_healthy": 9
   }
 }
