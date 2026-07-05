@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-05T16:12:23.238795+00:00",
+  "fetched_at": "2026-07-05T18:06:04.918367+00:00",
   "total": 9,
   "tweets": [
     {
@@ -95,6 +95,6 @@
   "stats": {
     "users_success": 3,
     "users_failed": 1,
-    "nitter_healthy": 10
+    "nitter_healthy": 8
   }
 }
