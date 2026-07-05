@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-05T20:16:55.575636+00:00",
+  "fetched_at": "2026-07-05T22:04:17.936481+00:00",
   "total": 12,
   "tweets": [
     {
@@ -92,6 +92,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2073867745243127973",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sun, 05 Jul 2026 20:32:55 GMT",
+      "content": "Came across an interesting report from SVRC Research called \"State of Robotics 2026\", published in April. Which listed: 1. Figure AI 2. Agility Robotics $CCXI 3. Apptronik 4. $TSLA 5. Boston Dynamics 6. Physical Intelligence 7. 1X Technologies 8. $AMZN Robotics 9. Covariant 10. Skild AI As the National Champions of the United States robotics program. \"The United States leads the world in where robotics is heading: Fundation models, OpenAI-style scaling laws applied to action, autonomous vehicles. While losing the race on where robotics is shipping today.\" Then it frames: 1. Rare Earths Exposure: from Neodymium for motors to samarium-cobalt for high-temp applications as a critical vulnerability. 2. Actuator dependency. Series elastic actuators, quasi-direct-drive motors, and precision reducers overwhelmingly sourced from Japan, Germany, and China As one of the main vulnerabilities alongside Manufacturing velocity/data collection cost/regulations. Then their take was: \"With at least six well-funded US humanoid companies competing for a market still in early formation, we expect at least two significant consolidation events (acquisition or merger) in 2027\". With Logistics / E-commerce (like $AMZN / $FDX) and Automotive from $GM to $FORD as being the immediate top use cases for deployment. I think it's just interesting to see a lot of my points I've been talking about reiterated by research firms. Regardless, I do think it's going to be a major frontier race between the US and China. Agility Robotics (which I own), Tesla, Figure, and Apptronik as leaders representing the USA. Competing against Unitree, AGIbot, Ubtech, and others in China.",
+      "url": "https://x.com/aleabitoreddit/status/2073867745243127973",
+      "tweet_id": "2073867745243127973",
+      "translated": "看到 SVRC Research 于 4 月份发布的一份有趣的报告，名为“2026 年机器人状况”。其中列出：1.Figure AI 2.Agility Robotics $CCXI 3.Apptronik 4.$TSLA 5.Boston Dynamics 6.Physical Intelligence 7.1X Technologies 8.$AMZN Robotics 9.Covariant 10.Skild AI 作为美国机器人项目的全国冠军。 “美国在机器人技术的发展方向上处于世界领先地位：基础模型、应用于行动的 OpenAI 式缩放法则、自动驾驶汽车。但在当今机器人技术的发展方向上却输掉了比赛。”然后它提出： 1. 稀土暴露：从用于电机的钕到用于高温应用的钐钴，都是一个严重的漏洞。 2.执行器依赖性。系列弹性执行器、准直驱电机和精密减速器绝大多数来自日本、德国和中国，与制造速度/数据收集成本/法规一样，也是主要漏洞之一。然后他们的看法是：“由于至少有六家资金雄厚的美国人形公司正在争夺仍处于早期形成的市场，我们预计 2027 年至少会发生两起重大整合事件（收购或合并）”。物流/电子商务（如 $AMZN / $FDX）和汽车（从 $GM 到 $FORD）是最直接的部署用例。我认为看到我一直在谈论的许多观点被研究公司重申是很有趣的。无论如何，我确实认为这将是美国和中国之间的一场重大边境竞赛。 Agility Robotics（我拥有）、Tesla、Figure 和 Apptronik 是代表美国的领导者。在中国与 Unitree、AGIbot、Ubtech 等公司竞争。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2073793206408667392",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,16 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2073763512216899825",
       "tweet_id": "2073763512216899825",
       "translated": "看起来存在高功率圆柱形电池/BBU 电池短缺（又名：瓶颈）： - 三星 SDI 向 Simplo 供应电池，Simplo 将它们组装成 BBU，价格为 $META 到 $AMZN。 - 随着数据中心需求的增加，三星SDI圆柱形电池的产量也急剧增加。 - 业内消息人士称，松下、三星正面临 BBU 电池供应短缺的问题。因此，在我看来，主要受益者是这样的： - 三星 SDI (KRX: 006400) / 松下能源 (Panasonic Energy) 作为清洁集赢家 - 村田制作所 (6981) / MLCC 和其他产品随处可见，哈哈 - LG 能源 (KRX: 373220) / 传入 美国没有太多直接参与者吗？但相邻的通读例如 $VRT、$ETN 或 $BWA / $ENS。不过，这并不完全属于我所强调的领域。我不会将其混为一谈，因为所有短缺都具有大量 TAM，但可能存在机会......"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2073704784398528599",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sun, 05 Jul 2026 09:45:22 GMT",
-      "content": "Leaked Anthropic docs show plans to secure 1.4GW capacity from Australia, amounting to ~$21.6B. Recently $IREN, $SHAZ, and other Neoclouds have been building sovereign DCs in Australia. Guess like a lot of things are stating to make more sense connection wise? (disclosure: no open positions in any of the above).",
-      "url": "https://x.com/aleabitoreddit/status/2073704784398528599",
-      "tweet_id": "2073704784398528599",
-      "translated": "泄露的 Anthropic 文档显示，计划从澳大利亚获得 1.4GW 产能，价值约 $21.6B。最近，$IREN、$SHAZ 和其他 Neoclouds 一直在澳大利亚建立主权 DC。我猜想很多事情都在说是为了让联系更有意义？ （披露：上述任何一项均无未平仓头寸）。"
     }
   ],
   "stats": {
