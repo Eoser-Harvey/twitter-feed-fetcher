@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-05T18:06:04.918367+00:00",
-  "total": 9,
+  "fetched_at": "2026-07-05T20:16:55.575636+00:00",
+  "total": 12,
   "tweets": [
     {
       "id": "tweet_elonmusk_2073723522653069812",
@@ -62,6 +62,36 @@
       "translated": "RT @cz_binance：发现了一些 bánh mì 吗？ 🥖 我们知道那个样子。 😋 如果您在越南旅行，好消息是：您可以使用加密货币付款。只需使用 Binance Pay 扫描本地二维码即可外带食物。具体方法如下 → https://www.binance.com/events/scan-and-pay-tourist- payment?utm_source=social"
     },
     {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432",
+      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2068370500334637542",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
+      "content": "RT by @realDonaldTrump: POLL…",
+      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
+      "tweet_id": "2068370500334637542",
+      "translated": "RT @realDonaldTrump：投票……"
+    },
+    {
       "id": "tweet_aleabitoreddit_2073793206408667392",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -93,8 +123,8 @@
     }
   ],
   "stats": {
-    "users_success": 3,
-    "users_failed": 1,
-    "nitter_healthy": 8
+    "users_success": 4,
+    "users_failed": 0,
+    "nitter_healthy": 10
   }
 }
