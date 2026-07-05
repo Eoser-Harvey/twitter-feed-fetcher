@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-05T14:46:32.719792+00:00",
+  "fetched_at": "2026-07-05T16:12:23.238795+00:00",
   "total": 9,
   "tweets": [
     {
@@ -62,6 +62,16 @@
       "translated": "RT @cz_binance：发现了一些 bánh mì 吗？ 🥖 我们知道那个样子。 😋 如果您在越南旅行，好消息是：您可以使用加密货币付款。只需使用 Binance Pay 扫描本地二维码即可外带食物。具体方法如下 → https://www.binance.com/events/scan-and-pay-tourist- payment?utm_source=social"
     },
     {
+      "id": "tweet_aleabitoreddit_2073793206408667392",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sun, 05 Jul 2026 15:36:44 GMT",
+      "content": "Just some consolidated updates on memory: - $MU leads new 1.5T Yen investment in Hiroshima ~$9.3B. (bullish read through for Disco, Advantest, Resonac, Towa) since capex is localized. - Morgan Stanley pointed out NAND will continue to be in short supply into 2027 so $SNDK / Kioxia type players are happy alongisde $SIMO and upstream. - MS remains especially positive on Macronix/Winbond - UBS expects the average price of DDR contracts in the Q3 2026 to increase 32% | 18% Q4, vs. 17% and 12% est. - UBS expects NAND flash to be raised 30% from prev quarter. - Samsung reportedly plans 20% DRAM hike Q3. TrendForce recently forecast DRAM contract prices to rise 13 to 18 percent in the third quarter from the previous quarter, so this hike beats expectations. Something to note: Lot people see 20%... and don't think it's a lot compared to the 70-80% from previous quarters. But if you hike something by 100%, then hike something by 100%, then hike something by 30%, it's a lot more than people estimate since it's compounded. Similar to tracking inflation. I've already made projections going into 2028 from the start of the year on my memory names... I'm just sitting back and watching things play out through all the \"memory optimization\" and \"they can't keep price hiking like this!\" noise.",
+      "url": "https://x.com/aleabitoreddit/status/2073793206408667392",
+      "tweet_id": "2073793206408667392",
+      "translated": "只是内存的一些综合更新： - $MU 引领广岛新的 1.5T 日元投资 ~$9.3B。 （看好 Disco、Advantest、Resonac、Towa）因为资本支出是本地化的。 - 摩根士丹利指出，NAND 到 2027 年将继续供不应求，因此 $SNDK / Kioxia 类型的玩家对 $SIMO 和上游感到高兴。 - MS 对 Macronix/Winbond 保持特别乐观 - 瑞银预计 2026 年第三季度 DDR 合约的平均价格将上涨 32% |第四季度增长 18%，预计 17% 和 12% - 瑞银预计 NAND 闪存产量将比上一季度增长 30%。 - 据报道，三星计划第三季度 DRAM 提价 20%。 TrendForce最近预测第三季度DRAM合约价格将环比上涨13％至18％，因此涨幅超出预期。需要注意的是：很多人看到的是 20%……但并不认为这与前几个季度的 70-80% 相比很多。但如果你将某项加息 100%，然后再加息 100%，然后再加息 30%，那么这比人们估计的要高得多，因为它是复利的。类似于跟踪通货膨胀。我已经从今年年初就对我的内存名称进行了进入 2028 年的预测……我只是袖手旁观，看着事情通过所有“内存优化”和“他们不能让价格像这样上涨！”噪音。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2073763512216899825",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -80,16 +90,6 @@
       "url": "https://x.com/aleabitoreddit/status/2073704784398528599",
       "tweet_id": "2073704784398528599",
       "translated": "泄露的 Anthropic 文档显示，计划从澳大利亚获得 1.4GW 产能，价值约 $21.6B。最近，$IREN、$SHAZ 和其他 Neoclouds 一直在澳大利亚建立主权 DC。我猜想很多事情都在说是为了让联系更有意义？ （披露：上述任何一项均无未平仓头寸）。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2073523410643366242",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sat, 04 Jul 2026 21:44:39 GMT",
-      "content": "Nikkei - $JD E-Commerce Giant CEO warns \"Robots Will Replace 700,000 Delivery Workers\". Per FT's earlier piece last month: The 700,000 delivery personnel working for the firm will be replaced by robots, highlighting how rapid automation has become a new threat to China's already severe job market. Liu Qiangdong, revealed that the company has signed contracts with approximately 120 schools to retrain its delivery workers, enabling them to transition into new roles such as robot repair and maintenance... \"Beijing has started to track AI’s hit to jobs as a national priority.\" This follows other corporate strategy reports like $AMZN, of avoiding 600,000 future hires with robots. But it's very interesting to see the shift in worker roles to robot support. Maybe $DASH to $UBER to $MELI, we'll all start to see this rollout following China. There's a lot of retail disbelief over humanoid/robotics commercialization. But feels like the direction industry is heading down is pretty clear.",
-      "url": "https://x.com/aleabitoreddit/status/2073523410643366242",
-      "tweet_id": "2073523410643366242",
-      "translated": "日经新闻 - $JD 电子商务巨头首席执行官警告“机器人将取代 70 万送货工人”。英国《金融时报》上个月早些时候发表的文章称：该公司的 70 万名送货人员将被机器人取代，这突显出快速的自动化已成为中国本已严峻的就业市场的新威胁。刘强东透露，该公司已与大约120所学校签订了合同，对送货员进行再培训，使他们能够转型到机器人维修和保养等新岗位……“北京已开始将追踪人工智能对就业的影响作为国家优先事项。”在此之前，其他公司战略报告（例如 $AMZN）报告称，未来将避免 60 万名机器人员工被聘用。但看到工人角色向机器人支持的转变是非常有趣的。也许 $DASH 到 $UBER 到 $MELI，我们都会在中国之后开始看到这一推出。许多零售业者对人形/机器人商业化持怀疑态度。但感觉行业的下行方向非常明确。"
     }
   ],
   "stats": {
