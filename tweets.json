@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-05T10:16:52.889275+00:00",
-  "total": 12,
+  "fetched_at": "2026-07-05T12:19:02.752505+00:00",
+  "total": 9,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2073703765962797178",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 05 Jul 2026 09:41:20 GMT",
-      "content": "🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸",
-      "url": "https://x.com/elonmusk/status/2073703765962797178",
-      "tweet_id": "2073703765962797178",
-      "translated": "🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸"
-    },
-    {
-      "id": "tweet_elonmusk_2073702122378678611",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 05 Jul 2026 09:34:48 GMT",
-      "content": "RT by @elonmusk: I read the Declaration of Independence out loud today with heartfelt conviction. It is a work not just of genius, but also of a purity of soul that resonates to this very day.",
-      "url": "https://x.com/elonmusk/status/2073702122378678611",
-      "tweet_id": "2073702122378678611",
-      "translated": "RT @elonmusk：今天我怀着由衷的信念大声朗读了《独立宣言》。这不仅是一部天才之作，也是一部至今仍能引起共鸣的纯洁灵魂之作。"
-    },
-    {
-      "id": "tweet_elonmusk_2073585015552958559",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 05 Jul 2026 01:49:27 GMT",
-      "content": "RT by @elonmusk: \"One of the most American values that I love is Optimism. We're gonna make the future good.\" 一 Elon Musk",
-      "url": "https://x.com/elonmusk/status/2073585015552958559",
-      "tweet_id": "2073585015552958559",
-      "translated": "RT @elonmusk：“我最喜欢的美国价值观之一就是乐观。我们会让未来变得美好。” 埃隆·马斯克"
-    },
     {
       "id": "tweet_cz_binance_2073519761380532670",
       "username": "cz_binance",
@@ -123,8 +93,8 @@
     }
   ],
   "stats": {
-    "users_success": 4,
-    "users_failed": 0,
+    "users_success": 3,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
