@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-05T12:19:02.752505+00:00",
+  "fetched_at": "2026-07-05T14:46:32.719792+00:00",
   "total": 9,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2073723522653069812",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 05 Jul 2026 10:59:50 GMT",
+      "content": "Video",
+      "url": "https://x.com/elonmusk/status/2073723522653069812",
+      "tweet_id": "2073723522653069812",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_elonmusk_2073722073864929580",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 05 Jul 2026 10:54:04 GMT",
+      "content": "Done with Grok Imagine",
+      "url": "https://x.com/elonmusk/status/2073722073864929580",
+      "tweet_id": "2073722073864929580",
+      "translated": "完成 Grok Imagine"
+    },
+    {
+      "id": "tweet_elonmusk_2073392057058496713",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 04 Jul 2026 13:02:42 GMT",
+      "content": "RT by @elonmusk: Only AI can keep up with AI. That's what will guide the entire security model of the next decade.",
+      "url": "https://x.com/elonmusk/status/2073392057058496713",
+      "tweet_id": "2073392057058496713",
+      "translated": "RT @elonmusk：只有人工智能才能跟上人工智能的步伐。这将指导未来十年的整个安全模型。"
+    },
     {
       "id": "tweet_cz_binance_2073519761380532670",
       "username": "cz_binance",
@@ -32,34 +62,14 @@
       "translated": "RT @cz_binance：发现了一些 bánh mì 吗？ 🥖 我们知道那个样子。 😋 如果您在越南旅行，好消息是：您可以使用加密货币付款。只需使用 Binance Pay 扫描本地二维码即可外带食物。具体方法如下 → https://www.binance.com/events/scan-and-pay-tourist- payment?utm_source=social"
     },
     {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432",
-      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2068370500334637542",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
-      "content": "RT by @realDonaldTrump: POLL…",
-      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
-      "tweet_id": "2068370500334637542",
-      "translated": "RT @realDonaldTrump：投票……"
+      "id": "tweet_aleabitoreddit_2073763512216899825",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sun, 05 Jul 2026 13:38:44 GMT",
+      "content": "Looks like there's a high power cylindrical cell / BBU cell shortage (aka: bottleneck): - Samsung SDI supplies the cells to Simplo, which assembles them into BBUs for $META to $AMZN. - As demand from data centers has increased, production of Samsung SDI's cylindrical cells has also risen sharply. - Industry sources said Panasonic, Samsung are experiencing supply shortages for BBU cells. So main beneficiaries imo look like: - Samsung SDI (KRX: 006400) / Panasonic Energy as cleaneset winners - Murata (6981) / this keeps showing up everywhere with MLCC and others lol - LG Energy (KRX: 373220) / incoming There's not really much direct US players? But adjacent read through like $VRT, $ETN or $BWA / $ENS. Not quite in my domain emphasis cup of tea though. I wouldn't conflate this as all shortages having a massive TAM, but there could be opportunities...",
+      "url": "https://x.com/aleabitoreddit/status/2073763512216899825",
+      "tweet_id": "2073763512216899825",
+      "translated": "看起来存在高功率圆柱形电池/BBU 电池短缺（又名：瓶颈）： - 三星 SDI 向 Simplo 供应电池，Simplo 将它们组装成 BBU，价格为 $META 到 $AMZN。 - 随着数据中心需求的增加，三星SDI圆柱形电池的产量也急剧增加。 - 业内消息人士称，松下、三星正面临 BBU 电池供应短缺的问题。因此，在我看来，主要受益者是这样的： - 三星 SDI (KRX: 006400) / 松下能源 (Panasonic Energy) 作为清洁集赢家 - 村田制作所 (6981) / MLCC 和其他产品随处可见，哈哈 - LG 能源 (KRX: 373220) / 传入 美国没有太多直接参与者吗？但相邻的通读例如 $VRT、$ETN 或 $BWA / $ENS。不过，这并不完全属于我所强调的领域。我不会将其混为一谈，因为所有短缺都具有大量 TAM，但可能存在机会......"
     },
     {
       "id": "tweet_aleabitoreddit_2073704784398528599",
@@ -80,16 +90,6 @@
       "url": "https://x.com/aleabitoreddit/status/2073523410643366242",
       "tweet_id": "2073523410643366242",
       "translated": "日经新闻 - $JD 电子商务巨头首席执行官警告“机器人将取代 70 万送货工人”。英国《金融时报》上个月早些时候发表的文章称：该公司的 70 万名送货人员将被机器人取代，这突显出快速的自动化已成为中国本已严峻的就业市场的新威胁。刘强东透露，该公司已与大约120所学校签订了合同，对送货员进行再培训，使他们能够转型到机器人维修和保养等新岗位……“北京已开始将追踪人工智能对就业的影响作为国家优先事项。”在此之前，其他公司战略报告（例如 $AMZN）报告称，未来将避免 60 万名机器人员工被聘用。但看到工人角色向机器人支持的转变是非常有趣的。也许 $DASH 到 $UBER 到 $MELI，我们都会在中国之后开始看到这一推出。许多零售业者对人形/机器人商业化持怀疑态度。但感觉行业的下行方向非常明确。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2073486870315745406",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sat, 04 Jul 2026 19:19:28 GMT",
-      "content": "an apple a day keeps the bottleneck away",
-      "url": "https://x.com/aleabitoreddit/status/2073486870315745406",
-      "tweet_id": "2073486870315745406",
-      "translated": "一天一苹果，远离瓶颈"
     }
   ],
   "stats": {
