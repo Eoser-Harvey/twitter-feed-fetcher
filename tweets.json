@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-06T14:29:07.540328+00:00",
+  "fetched_at": "2026-07-06T17:46:21.838642+00:00",
   "total": 9,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2073432061474390072",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 04 Jul 2026 15:41:40 GMT",
-      "content": "RT by @elonmusk: Oh look. The migrant who stomped a white Swedish man to death was a rapist ... because of course he was. Meaning, if the authorities did their fucking job and deported him, Christian Zedig's children would still have a father.",
-      "url": "https://x.com/elonmusk/status/2073432061474390072",
-      "tweet_id": "2073432061474390072",
-      "translated": "RT @elonmusk：哦，看。踩死一名瑞典白人的移民是一名强奸犯……因为他当然是。这意味着，如果当局尽职尽责并将他驱逐出境，克里斯蒂安·泽迪格的孩子们仍然会有父亲。"
-    },
-    {
-      "id": "tweet_elonmusk_2073842509889843529",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 05 Jul 2026 18:52:39 GMT",
-      "content": "RT by @elonmusk: “That was fun, I’ll do it again when I get out,” said the 22-year-old Gambian violent offender after he stabbed a 55-year-old Italian man twenty times. And he will be released again. Perhaps to succeed in killing a European next time.",
-      "url": "https://x.com/elonmusk/status/2073842509889843529",
-      "tweet_id": "2073842509889843529",
-      "translated": "RT @elonmusk：“这很有趣，出狱后我会再做一次，”这名 22 岁的冈比亚暴力犯罪者在刺伤一名 55 岁意大利男子 20 刀后说道。他将再次被释放。也许下次就能成功杀死一个欧洲人。"
-    },
-    {
-      "id": "tweet_elonmusk_2073990257419173964",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 06 Jul 2026 04:39:44 GMT",
-      "content": "Making sure Cybercab meets the needs of the blind",
-      "url": "https://x.com/elonmusk/status/2073990257419173964",
-      "tweet_id": "2073990257419173964",
-      "translated": "确保 Cyber​​cab 满足盲人的需求"
-    },
     {
       "id": "tweet_cz_binance_2074130464671936568",
       "username": "cz_binance",
@@ -63,6 +33,56 @@
       "translated": "《金钱自由》一书的封面照片（以及我现在的头像）是柏拉图拍摄的。这是一张时髦的照片。还有一段有趣的对话。观看视频。 （5个月前拍摄）。 https://www.youtube.com/watch?v=GWRtN6C90KQ"
     },
     {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432",
+      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2068370500334637542",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
+      "content": "RT by @realDonaldTrump: POLL…",
+      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
+      "tweet_id": "2068370500334637542",
+      "translated": "RT @realDonaldTrump：投票……"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2074170197486039524",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Mon, 06 Jul 2026 16:34:45 GMT",
+      "content": "$NVDA refuting recent Kyber delay claims: “Our roadmap is intact”. lol, damage has already been done with stocks in many markets (esp. in Taiwan/Japan/Soutj Korea) crashing after the “report”",
+      "url": "https://x.com/aleabitoreddit/status/2074170197486039524",
+      "tweet_id": "2074170197486039524",
+      "translated": "$NVDA 驳斥了最近 Kyber 延迟的说法：“我们的路线图完好无损”。哈哈，许多市场（特别是台湾/日本/韩国）的股票在“报告”发布后暴跌，已经造成了损害"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2074143469015281953",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Mon, 06 Jul 2026 14:48:33 GMT",
+      "content": "I’d like to give a special thank you to Bloomberg’s piece on $META compute. As well as the 2 back to back bear posts on CPO delays. But I believe thematically photonics, memory, energy, and physical AI will outperform in the long run.",
+      "url": "https://x.com/aleabitoreddit/status/2074143469015281953",
+      "tweet_id": "2074143469015281953",
+      "translated": "我要特别感谢 Bloomberg 关于 $META 计算的文章。以及 2 个背靠背的关于 CPO 延误的帖子。但我相信，从长远来看，光子学、记忆、能源和物理人工智能等主题将表现出色。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2074109998544846954",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -71,26 +91,6 @@
       "url": "https://x.com/aleabitoreddit/status/2074109998544846954",
       "tweet_id": "2074109998544846954",
       "translated": "哇，$WULF 今天与 Anthropic 签署了 $19B DC 租约。对于 Neocloud/Colo 领域来说，这可能是一个非常积极的推动力。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2074102035675570457",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 06 Jul 2026 12:03:54 GMT",
-      "content": "Retail: buys memory, optical, upstream semi names. Media: “retail bubble drives AI meme stock bubble higher”. Institutions that do the exact same thing, with the exact same names: Media: “Institutions make record profits by betting on what goes inside AI Server Racks”.",
-      "url": "https://x.com/aleabitoreddit/status/2074102035675570457",
-      "tweet_id": "2074102035675570457",
-      "translated": "零售：购买内存、光学、上游半成品。媒体：“零售泡沫推动人工智能模因股票泡沫走高”。做同样事情、名称完全相同的机构： 媒体：“机构通过押注人工智能服务器机架内的内容来赚取创纪录的利润”。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2074075634851340779",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 06 Jul 2026 10:19:00 GMT",
-      "content": "I find it hard for any bears to defend against this humanoid bull case.",
-      "url": "https://x.com/aleabitoreddit/status/2074075634851340779",
-      "tweet_id": "2074075634851340779",
-      "translated": "我发现任何熊都很难抵御这种人形牛的情况。"
     }
   ],
   "stats": {
