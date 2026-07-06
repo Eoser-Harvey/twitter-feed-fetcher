@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-06T05:14:32.798077+00:00",
+  "fetched_at": "2026-07-06T10:27:13.397975+00:00",
   "total": 12,
   "tweets": [
     {
@@ -33,6 +33,26 @@
       "translated": "确保 Cyber​​cab 满足盲人的需求"
     },
     {
+      "id": "tweet_cz_binance_2074041504562127238",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Mon, 06 Jul 2026 08:03:23 GMT",
+      "content": "I don't own or know any of these coins. I interact with positive people in our communities. May the best memes win! #BNB",
+      "url": "https://x.com/cz_binance/status/2074041504562127238",
+      "tweet_id": "2074041504562127238",
+      "translated": "我不拥有也不了解这些硬币。我与社区中积极的人互动。愿最好的模因获胜！ #BNB"
+    },
+    {
+      "id": "tweet_cz_binance_2074040461128265942",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Mon, 06 Jul 2026 07:59:14 GMT",
+      "content": "The cover photo of Freedom of Money book (and my current avatar) was photographed by Platon. It was one funky photo shoot. There was an interesting conversation as well. Watch the video. (Filmed 5 months ago). https://www.youtube.com/watch?v=GWRtN6C90KQ",
+      "url": "https://x.com/cz_binance/status/2074040461128265942",
+      "tweet_id": "2074040461128265942",
+      "translated": "《金钱自由》一书的封面照片（以及我现在的头像）是柏拉图拍摄的。这是一张时髦的照片。还有一段有趣的对话。观看视频。 （5个月前拍摄）。 https://www.youtube.com/watch?v=GWRtN6C90KQ"
+    },
+    {
       "id": "tweet_cz_binance_2073519761380532670",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
@@ -40,26 +60,6 @@
       "content": "生活工作里点点滴滴的累积，最后都会连成一条线，定义你的人生。 多做点正能量的事情🙏",
       "url": "https://x.com/cz_binance/status/2073519761380532670",
       "tweet_id": "2073519761380532670"
-    },
-    {
-      "id": "tweet_cz_binance_2073324554026414556",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sat, 04 Jul 2026 08:34:28 GMT",
-      "content": "Happy July 4th!",
-      "url": "https://x.com/cz_binance/status/2073324554026414556",
-      "tweet_id": "2073324554026414556",
-      "translated": "7 月 4 日快乐！"
-    },
-    {
-      "id": "tweet_cz_binance_2073104871524360653",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Fri, 03 Jul 2026 18:01:32 GMT",
-      "content": "RT by @cz_binance: Spotted some bánh mì? 🥖 We know that look. 😋 Good news if you're traveling in Vietnam: you can pay with crypto. Just scan the local QR code with Binance Pay and grab your food to go. Here's how → https://www.binance.com/events/scan-and-pay-tourist-payment?utm_source=social",
-      "url": "https://x.com/cz_binance/status/2073104871524360653",
-      "tweet_id": "2073104871524360653",
-      "translated": "RT @cz_binance：发现了一些 bánh mì 吗？ 🥖 我们知道那个样子。 😋 如果您在越南旅行，好消息是：您可以使用加密货币付款。只需使用 Binance Pay 扫描本地二维码即可外带食物。具体方法如下 → https://www.binance.com/events/scan-and-pay-tourist- payment?utm_source=social"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -92,34 +92,34 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
-      "id": "tweet_aleabitoreddit_2073867745243127973",
+      "id": "tweet_aleabitoreddit_2074063175293809150",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
-      "published_at": "Sun, 05 Jul 2026 20:32:55 GMT",
-      "content": "Came across an interesting report from SVRC Research called \"State of Robotics 2026\", published in April. Which listed: 1. Figure AI 2. Agility Robotics $CCXI 3. Apptronik 4. $TSLA 5. Boston Dynamics 6. Physical Intelligence 7. 1X Technologies 8. $AMZN Robotics 9. Covariant 10. Skild AI As the National Champions of the United States robotics program. \"The United States leads the world in where robotics is heading: Fundation models, OpenAI-style scaling laws applied to action, autonomous vehicles. While losing the race on where robotics is shipping today.\" Then it frames: 1. Rare Earths Exposure: from Neodymium for motors to samarium-cobalt for high-temp applications as a critical vulnerability. 2. Actuator dependency. Series elastic actuators, quasi-direct-drive motors, and precision reducers overwhelmingly sourced from Japan, Germany, and China As one of the main vulnerabilities alongside Manufacturing velocity/data collection cost/regulations. Then their take was: \"With at least six well-funded US humanoid companies competing for a market still in early formation, we expect at least two significant consolidation events (acquisition or merger) in 2027\". With Logistics / E-commerce (like $AMZN / $FDX) and Automotive from $GM to $FORD as being the immediate top use cases for deployment. I think it's just interesting to see a lot of my points I've been talking about reiterated by research firms. Regardless, I do think it's going to be a major frontier race between the US and China. Agility Robotics (which I own), Tesla, Figure, and Apptronik as leaders representing the USA. Competing against Unitree, AGIbot, Ubtech, and others in China.",
-      "url": "https://x.com/aleabitoreddit/status/2073867745243127973",
-      "tweet_id": "2073867745243127973",
-      "translated": "看到 SVRC Research 于 4 月份发布的一份有趣的报告，名为“2026 年机器人状况”。其中列出：1.Figure AI 2.Agility Robotics $CCXI 3.Apptronik 4.$TSLA 5.Boston Dynamics 6.Physical Intelligence 7.1X Technologies 8.$AMZN Robotics 9.Covariant 10.Skild AI 作为美国机器人项目的全国冠军。 “美国在机器人技术的发展方向上处于世界领先地位：基础模型、应用于行动的 OpenAI 式缩放法则、自动驾驶汽车。但在当今机器人技术的发展方向上却输掉了比赛。”然后它提出： 1. 稀土暴露：从用于电机的钕到用于高温应用的钐钴，都是一个严重的漏洞。 2.执行器依赖性。系列弹性执行器、准直驱电机和精密减速器绝大多数来自日本、德国和中国，与制造速度/数据收集成本/法规一样，也是主要漏洞之一。然后他们的看法是：“由于至少有六家资金雄厚的美国人形公司正在争夺仍处于早期形成的市场，我们预计 2027 年至少会发生两起重大整合事件（收购或合并）”。物流/电子商务（如 $AMZN / $FDX）和汽车（从 $GM 到 $FORD）是最直接的部署用例。我认为看到我一直在谈论的许多观点被研究公司重申是很有趣的。无论如何，我确实认为这将是美国和中国之间的一场重大边境竞赛。 Agility Robotics（我拥有）、Tesla、Figure 和 Apptronik 是代表美国的领导者。在中国与 Unitree、AGIbot、Ubtech 等公司竞争。"
+      "published_at": "Mon, 06 Jul 2026 09:29:29 GMT",
+      "content": "Kelper upgrades $XFAB to \"Buy\" citing: - Melexis demand strengthening “week-after-week, day-after-day” (their lead customer). - AI giving XFAB a structural growth leg with SiC, GaN, and photonics offsetting auto cyclicality. - Scarce Western speciality foundries like $SILEX commanding higher multiples. \"X-Fab remains the cheapest specialty foundry peer on every multiple, trading at 4.8x 2027 EV/EBITDA versus a peer median of 14.5x\" I treat this as good signal for the core fundamentals improving like auto players. But in terms of unpriced long term growth vectors, I'm personally looking at XFAB from a different angle in terms of photonics growth with photonixfab. Given $NVDA as a potential key driver. But it's hard for traditional firms to price these types of active developments into valuation models until there's volume contracts.",
+      "url": "https://x.com/aleabitoreddit/status/2074063175293809150",
+      "tweet_id": "2074063175293809150",
+      "translated": "Kelper 将 $XFAB 上调至“买入”，理由是： - Melexis 的需求“周复一周、日复一日”增强（他们的主要客户）。 - 人工智能为 XFAB 提供了结构性增长动力，其中 SiC、GaN 和光子学抵消了自动周期性。 - 像 $SILEX 这样稀有的西方专业铸造厂拥有更高的市盈率。 “X-Fab 仍然是每倍数中最便宜的特种代工同行，其 2027 年 EV/EBITDA 交易价格为 4.8 倍，而同行中位数为 14.5 倍”我认为这是核心基本面像汽车厂商一样改善的良好信号。但就未定价的长期增长向量而言，我个人从不同的角度看待 XFAB 与 photonixfab 的光子学增长。将 $NVDA 视为潜在的关键驱动因素。但在签订批量合同之前，传统公司很难将这些类型的活跃开发项目纳入估值模型中。"
     },
     {
-      "id": "tweet_aleabitoreddit_2073793206408667392",
+      "id": "tweet_aleabitoreddit_2074046947434860971",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
-      "published_at": "Sun, 05 Jul 2026 15:36:44 GMT",
-      "content": "Just some consolidated updates on memory: - $MU leads new 1.5T Yen investment in Hiroshima ~$9.3B. (bullish read through for Disco, Advantest, Resonac, Towa) since capex is localized. - Morgan Stanley pointed out NAND will continue to be in short supply into 2027 so $SNDK / Kioxia type players are happy alongisde $SIMO and upstream. - MS remains especially positive on Macronix/Winbond - UBS expects the average price of DDR contracts in the Q3 2026 to increase 32% | 18% Q4, vs. 17% and 12% est. - UBS expects NAND flash to be raised 30% from prev quarter. - Samsung reportedly plans 20% DRAM hike Q3. TrendForce recently forecast DRAM contract prices to rise 13 to 18 percent in the third quarter from the previous quarter, so this hike beats expectations. Something to note: Lot people see 20%... and don't think it's a lot compared to the 70-80% from previous quarters. But if you hike something by 100%, then hike something by 100%, then hike something by 30%, it's a lot more than people estimate since it's compounded. Similar to tracking inflation. I've already made projections going into 2028 from the start of the year on my memory names... I'm just sitting back and watching things play out through all the \"memory optimization\" and \"they can't keep price hiking like this!\" noise.",
-      "url": "https://x.com/aleabitoreddit/status/2073793206408667392",
-      "tweet_id": "2073793206408667392",
-      "translated": "只是内存的一些综合更新： - $MU 引领广岛新的 1.5T 日元投资 ~$9.3B。 （看好 Disco、Advantest、Resonac、Towa）因为资本支出是本地化的。 - 摩根士丹利指出，NAND 到 2027 年将继续供不应求，因此 $SNDK / Kioxia 类型的玩家对 $SIMO 和上游感到高兴。 - MS 对 Macronix/Winbond 保持特别乐观 - 瑞银预计 2026 年第三季度 DDR 合约的平均价格将上涨 32% |第四季度增长 18%，预计 17% 和 12% - 瑞银预计 NAND 闪存产量将比上一季度增长 30%。 - 据报道，三星计划第三季度 DRAM 提价 20%。 TrendForce最近预测第三季度DRAM合约价格将环比上涨13％至18％，因此涨幅超出预期。需要注意的是：很多人看到的是 20%……但并不认为这与前几个季度的 70-80% 相比很多。但如果你将某项加息 100%，然后再加息 100%，然后再加息 30%，那么这比人们估计的要高得多，因为它是复利的。类似于跟踪通货膨胀。我已经从今年年初就对我的内存名称进行了进入 2028 年的预测……我只是袖手旁观，看着事情通过所有“内存优化”和“他们不能让价格像这样上涨！”噪音。"
+      "published_at": "Mon, 06 Jul 2026 08:25:00 GMT",
+      "content": "I personally think $SIVE can be the next $LITE. In the past few months alone, we've seen: 1. Partnerships with O-Net pushing ELS into mass production 2. $JBL 1.6T LRO mass production signals with \"relatively dramatic moats\" for pluggables using Sivers. 3. $GFS SCALE reference level laser for hyperscalers with pluggable, NPO, CPO. -> -> where $AMD and others went to GFS for CPO. 4. Ayar, which joined $NVDA NVLink for CPO -> -> which removed Lumentum/Macom from their website and likely made Sivers their primary laser supplier. -> -> AlChip likely Trainium win from Amazon price placement (Ayar's customer) -> -> GUC rack level design in with Ayar. -> -> Raised $500m for mass production by AMD, Alchip, Mediatek, and NVIDIA 5. ~ $AEVA starting HVM H2 2026. 6. $POET starting HVM H2 2026 with hyperscaler suppliers like Lumilens (\"top 3 hyperscaler initial customer\") 7. TFLN + $SIVE CW Lasers with Lightium 8. Likely direct relationships with $MRVL Celestial and CPO players like Lightelligence/Lightmatter. 9. Multiple new undisclosed relationships for pluggables following Jabil in their quarterly transcripts With new Trendforce reports that $AMD and other hyperscalers are trying to source LTAs for CW laser sources, serving as a direct catalyst for independent CW sources. So when hyperscaler suppliers from Jabil to O-Net are incentivized to mass produce as many as they can: That's very material for revenue for Sivers relative to current valuations, and it looks like just a waiting game. Even in the past week: - $SIVE raised an oversubscribed institutional round for volume ramp... This is very nuanced since Sivers is fab-lite so it's not going to in-house foundry capex to scale. Likely toward Win Semi and others (they mentioned other partners too), for laser scaling + foundry allocations. So this is likely signaling material for revenue ramp is coming. - Sivers also mentioned NASDAQ listing completion targeted in the next few quarters (probably H2 2026 or Q1 2027 is my est. timeframe). This would fund M&A efforts, since it's impossible with the fundraising environments in local Swedish markets. As for becoming the next $LITE: M&A makes their lasers more valuable, so downstream IP acqusition -> into contract manufacturing like $FN, and others to make the full 1.6T pluggable or optical engines. Is how they get there, since laser array ASP scaling that people are modeling off of, wouldn't command a $60B+ valuations. There's going to be a lot of bridge architectures like NPO/pluggables, etc and noise around certain architectural delays in the meantime. But markets misunderstand laser companies like $LITE, $SIVE, $AAOI and others are used across different architectures compared to if you just look at certain passive optical components. So markets see \"CPO delay headlines\" algos sell off laser companies that benefit from other architectures. Being included in the pluggable 1.6T ramp to CPO scale out (Which Sivers is included in), helps bridge revenue waiting gaps until scale up inflection point H2 2027. I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before. TLDR: - Waiting on volume ramps from different architectures to play out across their hyperscaler supplier mapping -> 1.6T LRO/CPO scale out late H2 2026 start into high volume ramp 2027 -> H2 2027 CPO scale up volume ramp - Waiting on NASDAQ listing likely H2 2026/Q1 2027 for M&A efforts to fully take off, unless Sivers get more creative with equity financing in the meantime.",
+      "url": "https://x.com/aleabitoreddit/status/2074046947434860971",
+      "tweet_id": "2074046947434860971",
+      "translated": "我个人认为 $SIVE 可以成为下一个 $LITE。仅在过去几个月，我们就看到： 1. 与昂纳合作，推动 ELS 进入量产 2. JBL 1.6T LRO 量产信号为使用 Sivers 的可插拔设备带来了“相对引人注目的护城河”。 3. $GFS SCALE 参考级激光器，适用于具有可插拔、NPO、CPO 的超大规模器。 -> -> $AMD 和其他人去 GFS 寻求 CPO。 4. Ayar，加入了 $NVDA NVLink for CPO -> -> 从他们的网站上删除了 Lumentum/Macom，并可能使 Sivers 成为他们的主要激光器供应商。 -> -> AlChip 可能会从 Amazon 定价中赢得 Trainium（Ayar 的客户） -> -> GUC 机架级设计与 Ayar 一起。 -> -> 筹集了 5 亿美元用于 AMD、Alchip、Mediatek 和 NVIDIA 的量产 5. ~ $AEVA 从 HVM H2 2026 开始。 6. $POET 从 HVM H2 2026 开始与 Lumilens 等超大规模供应商合作（“前 3 大超大规模初始客户”） 7. TFLN + $SIVE CW Lasers with Lightium 8. 可能与 $MRVL Celestial 和 CPO 玩家有直接关系，例如光情报/光物质。 9. Jabil 在其季度成绩单中发现多个新的未公开的可插拔关系 根据新的 Trendforce 报告，$AMD 和其他超大规模厂商正在尝试为 CW 激光源采购 LTA，作为独立 CW 源的直接催化剂。因此，当从捷普到昂纳等超大规模供应商受到激励，尽可能多地大规模生产时：相对于当前估值，这对 Sivers 的收入非常重要，而且看起来只是一场等待游戏。即使在过去的一周： - $SIVE 筹集了超额认购的机构资金以增加销量......这是非常微妙的，因为 Sivers 是轻晶圆厂，因此它不会扩大内部代工资本支出。可能是针对 Win Semi 和其他公司（他们也提到了其他合作伙伴），用于激光缩放 + 代工分配。因此，这可能是收入增长即将到来的信号材料。 - Sivers 还提到了纳斯达克上市的目标是在未来几个季度完成（我预计的时间框架可能是 2026 年下半年或 2027 年第一季度）。这将为并购活动提供资金，因为瑞典当地市场的融资环境是不可能的。至于成为下一个 $LITE：并购使他们的激光器更有价值，因此下游 IP 收购 -> 进入像 $FN 等合同制造，以制造完整的 1.6T 可插拔或光学引擎。这就是他们到达那里的方式，因为人们正在建模的激光阵列 ASP 缩放不会要求 60B+ 的估值。将会有很多桥接架构，例如 NPO/可插拔等，同时也会出现某些架构延迟周围的噪音。但市场误解了激光公司，如 $LITE、$SIVE、$AAOI 等，与仅关注某些无源光学元件相比，它们在不同的架构中使用。因此，市场看到“CPO 延迟头条新闻”算法抛售受益于其他架构的激光公司。包含在可插拔的 1.6T 斜坡中以实现 CPO 横向扩展（其中包含 Sivers），有助于弥合收入等待差距，直到 2027 年下半年纵向扩展拐点。我个人长期持有，因为我之前从未见过一家价值 1.4B 美元的公司映射到如此多的超大规模企业。 TLDR： - 等待不同架构的销量增长在其超大规模供应商映射中发挥作用 -> 1.6T LRO/CPO 将于 2026 年下半年开始横向扩展，进入 2027 年的高销量增长 -> 2027 年下半年 CPO 扩大销量增长 - 等待纳斯达克上市，可能会在 2026 年下半年/2027 年第一季度上市，以便并购工作全面启动，除非 Sivers 在股权融资方面更具创意与此同时。"
     },
     {
-      "id": "tweet_aleabitoreddit_2073763512216899825",
+      "id": "tweet_aleabitoreddit_2074007618046345249",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
-      "published_at": "Sun, 05 Jul 2026 13:38:44 GMT",
-      "content": "Looks like there's a high power cylindrical cell / BBU cell shortage (aka: bottleneck): - Samsung SDI supplies the cells to Simplo, which assembles them into BBUs for $META to $AMZN. - As demand from data centers has increased, production of Samsung SDI's cylindrical cells has also risen sharply. - Industry sources said Panasonic, Samsung are experiencing supply shortages for BBU cells. So main beneficiaries imo look like: - Samsung SDI (KRX: 006400) / Panasonic Energy as cleaneset winners - Murata (6981) / this keeps showing up everywhere with MLCC and others lol - LG Energy (KRX: 373220) / incoming There's not really much direct US players? But adjacent read through like $VRT, $ETN or $BWA / $ENS. Not quite in my domain emphasis cup of tea though. I wouldn't conflate this as all shortages having a massive TAM, but there could be opportunities...",
-      "url": "https://x.com/aleabitoreddit/status/2073763512216899825",
-      "tweet_id": "2073763512216899825",
-      "translated": "看起来存在高功率圆柱形电池/BBU 电池短缺（又名：瓶颈）： - 三星 SDI 向 Simplo 供应电池，Simplo 将它们组装成 BBU，价格为 $META 到 $AMZN。 - 随着数据中心需求的增加，三星SDI圆柱形电池的产量也急剧增加。 - 业内消息人士称，松下、三星正面临 BBU 电池供应短缺的问题。因此，在我看来，主要受益者是这样的： - 三星 SDI (KRX: 006400) / 松下能源 (Panasonic Energy) 作为清洁集赢家 - 村田制作所 (6981) / MLCC 和其他产品随处可见，哈哈 - LG 能源 (KRX: 373220) / 传入 美国没有太多直接参与者吗？但相邻的通读例如 $VRT、$ETN 或 $BWA / $ENS。不过，这并不完全属于我所强调的领域。我不会将其混为一谈，因为所有短缺都具有大量 TAM，但可能存在机会......"
+      "published_at": "Mon, 06 Jul 2026 05:48:43 GMT",
+      "content": "Nomura’s report cites $AXTI and $IQE as the leading players. Then regarding ASP updates: - 2in InP substrate price hike 42-76% - 3in InP substrates price hike 78% - 2in EML Epiwafer price hike 50-75% - 3in CW Epiwafer price hike ~40%+ - Prices lower domestically in China as expected. Hyperscalers bottlenecking upstream photonics confirmation validation… on all fronts from pricing, demand, to supply shortages. My personal expectation was that price hikes would keep going up like $SNDK given ramping optical demand. We’ll see if this turns out right given another 2 years of the demand curve.",
+      "url": "https://x.com/aleabitoreddit/status/2074007618046345249",
+      "tweet_id": "2074007618046345249",
+      "translated": "野村证券的报告将 $AXTI 和 $IQE 视为领先者。然后关于ASP更新： - 2英寸InP衬底价格上涨42-76% - 3英寸InP衬底价格上涨78% - 2英寸EML外延片价格上涨50-75% - 3英寸CW外延片价格上涨~40%+ - 中国国内价格如预期下降。超大规模企业在从定价、需求到供应短缺的各个方面都成为上游光子学确认验证的瓶颈。我个人的预期是，鉴于光学需求不断增加，价格将像 SNDK 一样继续上涨。考虑到需求曲线再持续两年，我们将看看结果是否正确。"
     }
   ],
   "stats": {
