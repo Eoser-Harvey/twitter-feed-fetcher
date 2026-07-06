@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-05T22:04:17.936481+00:00",
+  "fetched_at": "2026-07-06T00:09:08.720157+00:00",
   "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2073896843822731428",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 05 Jul 2026 22:28:33 GMT",
+      "content": "🇺🇸🇺🇸 Hell yeah!! 🇺🇸🇺🇸",
+      "url": "https://x.com/elonmusk/status/2073896843822731428",
+      "tweet_id": "2073896843822731428",
+      "translated": "🇺🇸🇺🇸 天哪！ 🇺🇸🇺🇸"
+    },
     {
       "id": "tweet_elonmusk_2073723522653069812",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2073722073864929580",
       "tweet_id": "2073722073864929580",
       "translated": "完成 Grok Imagine"
-    },
-    {
-      "id": "tweet_elonmusk_2073392057058496713",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 04 Jul 2026 13:02:42 GMT",
-      "content": "RT by @elonmusk: Only AI can keep up with AI. That's what will guide the entire security model of the next decade.",
-      "url": "https://x.com/elonmusk/status/2073392057058496713",
-      "tweet_id": "2073392057058496713",
-      "translated": "RT @elonmusk：只有人工智能才能跟上人工智能的步伐。这将指导未来十年的整个安全模型。"
     },
     {
       "id": "tweet_cz_binance_2073519761380532670",
