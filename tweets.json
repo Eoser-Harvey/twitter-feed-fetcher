@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-06T20:01:18.503725+00:00",
+  "fetched_at": "2026-07-06T21:45:06.751408+00:00",
   "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2074214064746832060",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 06 Jul 2026 19:29:04 GMT",
+      "content": "RT by @elonmusk: We are now @SpaceXAI.",
+      "url": "https://x.com/elonmusk/status/2074214064746832060",
+      "tweet_id": "2074214064746832060",
+      "translated": "RT @elonmusk：我们现在是@SpaceXAI。"
+    },
     {
       "id": "tweet_elonmusk_2074102421169566014",
       "username": "elonmusk",
@@ -23,14 +33,14 @@
       "translated": "RT @elonmusk：埃隆·马斯克的公司之一特斯拉正在为盲人生产汽车。他的另一家公司 Neuralink 正在致力于帮助盲人恢复视力。"
     },
     {
-      "id": "tweet_elonmusk_2074064376810614926",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 06 Jul 2026 09:34:16 GMT",
-      "content": "RT by @elonmusk: My husband and I are honored and thrilled to participate in the Invest America program and gift a share of our SpaceX stock to a Trump Account for each of more than two million children across our great nation. Every American child under 18 can benefit from having a Trump Account, but our gift specifically goes to the Accounts of children (ages 11-17) that live in areas with lower average household incomes with a bit more emphasis for those that live near our central Texas home. We have been fortunate in our careers and hope this gift encourages the next generation to continue the journey of enabling humanity to live and fly amongst the stars. A huge thanks to all that worked to bring this incredible program to life.",
-      "url": "https://x.com/elonmusk/status/2074064376810614926",
-      "tweet_id": "2074064376810614926",
-      "translated": "RT @elonmusk：我和丈夫很荣幸也很兴奋能够参与投资美国计划，并将我们的 SpaceX 股票的一部分捐赠给特朗普账户，为我们伟大国家超过 200 万的儿童提供帮助。每个 18 岁以下的美国儿童都可以从拥有特朗普账户中受益，但我们的礼物专门提供给居住在平均家庭收入较低地区的儿童（11-17 岁）的账户，特别是那些居住在我们得克萨斯州中部住宅附近的儿童。我们的职业生涯很幸运，希望这份礼物能够鼓励下一代继续让人类在星空中生活和飞行的旅程。非常感谢所有为实现这一令人难以置信的计划而付出努力的人。"
+      "id": "tweet_cz_binance_2074040461128265942",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Mon, 06 Jul 2026 07:59:14 GMT",
+      "content": "The cover photo of Freedom of Money book (and my current avatar) was photographed by Platon. It was one funky photo shoot. There was an interesting conversation as well. Watch the video. (Filmed 5 months ago). https://www.youtube.com/watch?v=GWRtN6C90KQ",
+      "url": "https://x.com/cz_binance/status/2074040461128265942",
+      "tweet_id": "2074040461128265942",
+      "translated": "《金钱自由》一书的封面照片（以及我现在的头像）是柏拉图拍摄的。这是一张时髦的照片。还有一段有趣的对话。观看视频。 （5个月前拍摄）。 https://www.youtube.com/watch?v=GWRtN6C90KQ"
     },
     {
       "id": "tweet_cz_binance_2074130464671936568",
@@ -51,16 +61,6 @@
       "url": "https://x.com/cz_binance/status/2074041504562127238",
       "tweet_id": "2074041504562127238",
       "translated": "我不拥有也不了解这些硬币。我与社区中积极的人互动。愿最好的模因获胜！ #BNB"
-    },
-    {
-      "id": "tweet_cz_binance_2074040461128265942",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Mon, 06 Jul 2026 07:59:14 GMT",
-      "content": "The cover photo of Freedom of Money book (and my current avatar) was photographed by Platon. It was one funky photo shoot. There was an interesting conversation as well. Watch the video. (Filmed 5 months ago). https://www.youtube.com/watch?v=GWRtN6C90KQ",
-      "url": "https://x.com/cz_binance/status/2074040461128265942",
-      "tweet_id": "2074040461128265942",
-      "translated": "《金钱自由》一书的封面照片（以及我现在的头像）是柏拉图拍摄的。这是一张时髦的照片。还有一段有趣的对话。观看视频。 （5个月前拍摄）。 https://www.youtube.com/watch?v=GWRtN6C90KQ"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -93,6 +93,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2074240512593481955",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Mon, 06 Jul 2026 21:14:10 GMT",
+      "content": "Was a sad few months for $RDDT. But glad it's finally back above $200. Reddit was doing: - $663M revenue w/ 91.5% gross margins - $204M GAAP net income - 45%+ fwd Y/Y growth after 69%+ growth. - Net profit is ~30.7% of revenue Felt very weird to see a profitable company get dragged down after earnings. But in hindsight, given the increase hyperscaler capex, the drop felt more like it's more relative opportunity cost more than fundamentals? Since a lot of inflow poured into $MU / Sk Hynix that are bottlenecked into 2029. Or with laser bottlenecks like $LITE that last into 2029 as well. Same thing happens in reverse after selloffs ig, even if fundamentals didn't change. Been seeing a lot of noise with memory optimization or Chinese players... but don't quite think you sign 16T+ LTAs if memory was getting flooded or not used anytime soon. Same with optical players... if in earnings, they state anything they make gets bought, I don't quite think a lot of the noise has material effect on their fundamentals. Regardless, nice to see some recovery with familiar faces like $HOOD, $HIMS, and $RDDT though.",
+      "url": "https://x.com/aleabitoreddit/status/2074240512593481955",
+      "tweet_id": "2074240512593481955",
+      "translated": "对于 $RDDT 来说这是悲伤的几个月。但很高兴它终于回到了 200 美元以上。 Reddit 的业绩是： - 收入 6.63 亿美元，毛利率 91.5% - GAAP 净利润 2.04 亿美元 - 在增长 69% 以上之后，预期同比增长 45% 以上。 - 净利润约占收入的 30.7% 看到一家盈利的公司在盈利后受到拖累，感觉很奇怪。但事后看来，考虑到超大规模资本支出的增加，这种下降感觉更像是相对机会成本高于基本面？由于大量资金流入 $MU / Sk Hynix，这些瓶颈一直持续到 2029 年。或者像 $LITE 这样的激光瓶颈也会持续到 2029 年。即使基本面没有改变，在抛售之后也会发生同样的事情。已经看到很多有关内存优化或中国玩家的噪音……但如果内存被淹没或短期内没有使用，不太认为您会签署 16T+ LTA。与光学玩家一样......如果在收益中，他们声称自己生产的任何东西都会被购买，我不太认为很多噪音会对他们的基本面产生实质性影响。无论如何，很高兴看到 $HOOD、$HIMS 和 $RDDT 等熟悉面孔的恢复。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2074214669808717906",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -111,16 +121,6 @@
       "url": "https://x.com/aleabitoreddit/status/2074170197486039524",
       "tweet_id": "2074170197486039524",
       "translated": "$NVDA 驳斥了最近 Kyber 延迟的说法：“我们的路线图完好无损”。哈哈，许多市场（特别是台湾/日本/韩国）的股票在“报告”发布后暴跌，已经造成了损害"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2074143469015281953",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 06 Jul 2026 14:48:33 GMT",
-      "content": "I’d like to give a special thank you to Bloomberg’s piece on $META compute. As well as the 2 back to back bear posts on CPO delays. But I believe thematically photonics, memory, energy, and physical AI will outperform in the long run.",
-      "url": "https://x.com/aleabitoreddit/status/2074143469015281953",
-      "tweet_id": "2074143469015281953",
-      "translated": "我要特别感谢 Bloomberg 关于 $META 计算的文章。以及 2 个背靠背的关于 CPO 延误的帖子。但我相信，从长远来看，光子学、记忆、能源和物理人工智能等主题将表现出色。"
     }
   ],
   "stats": {
