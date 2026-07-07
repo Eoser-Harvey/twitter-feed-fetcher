@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-07T17:17:03.160201+00:00",
+  "fetched_at": "2026-07-07T19:58:26.789055+00:00",
   "total": 12,
   "tweets": [
     {
@@ -33,6 +33,16 @@
       "translated": "是的"
     },
     {
+      "id": "tweet_cz_binance_2074552243068764167",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Tue, 07 Jul 2026 17:52:52 GMT",
+      "content": "From the ex-CFTC Chairman, Chris Giancarlo!",
+      "url": "https://x.com/cz_binance/status/2074552243068764167",
+      "tweet_id": "2074552243068764167",
+      "translated": "来自前 CFTC 主席 Chris Giancarlo！"
+    },
+    {
       "id": "tweet_cz_binance_2074498610797125698",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
@@ -51,16 +61,6 @@
       "url": "https://x.com/cz_binance/status/2074396505016852740",
       "tweet_id": "2074396505016852740",
       "translated": "哇哦...一起建设了 9 年！"
-    },
-    {
-      "id": "tweet_cz_binance_2074377632356159778",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Tue, 07 Jul 2026 06:19:02 GMT",
-      "content": "👏 great to see national blockchain deployments.",
-      "url": "https://x.com/cz_binance/status/2074377632356159778",
-      "tweet_id": "2074377632356159778",
-      "translated": "👏 很高兴看到国家区块链部署。"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -93,6 +93,26 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2074568161299771394",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 07 Jul 2026 18:56:07 GMT",
+      "content": "Just Bloomberg and $META doing damage control after crashing the market with Meta Compute framing: Spokesperson: \"Meta is still hungry for even more computing power. It is still moving forward with plans for expensive new data centers and recently inked major computing deals with $CRVW, Google, $ORCL, and others.\" Just dropped that in with the Meta Muse announcement, and evenn threw in the \"expensive\" framing with DCs to signal capex. But little late given we're likely seeing a lot of margin liquidation cascades and heavy losses from media framing earlier.",
+      "url": "https://x.com/aleabitoreddit/status/2074568161299771394",
+      "tweet_id": "2074568161299771394",
+      "translated": "彭博社和 $META 在元计算框架让市场崩溃后，正在进行损害控制：发言人：“Meta 仍然渴望更多的计算能力。它仍在推进昂贵的新数据中心计划，并且最近与 $CRVW、谷歌、$ORCL 等公司签署了重大计算协议。”刚刚在 Meta Muse 公告中加入了这一点，甚至还加入了 DC 的“昂贵”框架来表示资本支出。但考虑到我们可能会看到大量的保证金清算级联以及早些时候媒体框架造成的严重损失，所以为时已晚。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2074548850996707412",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 07 Jul 2026 17:39:23 GMT",
+      "content": "How is the US so far behind? Xinhua: China's output of humanoids are expected to hit 100,000+ this year. Even Morgan Stanley originally projected 14,000 for 2026... Really need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup. And for more US Gov. subsidies to pour into upstream supply chains + rare earths. Cause this disparity between US vs. China mass production is getting ridiculous... But it almost feels like the start of Russia/US Space race Sputnik Moment for robotics?",
+      "url": "https://x.com/aleabitoreddit/status/2074548850996707412",
+      "tweet_id": "2074548850996707412",
+      "translated": "美国怎么落后这么远？新华社：今年中国人形机器人产量预计将达到10万只以上。甚至摩根士丹利最初预计 2026 年将达到 14,000 辆……确实需要 Elon 的 $TSLA、$CCXI（Agility）、Apptronik 和 Figure 来赶上。并要求美国政府向上游供应链+稀土提供更多补贴。因为美国与中国大规模生产之间的差距变得越来越荒谬……但这几乎感觉像是俄罗斯/美国太空竞赛的机器人卫星时刻的开始？"
+    },
+    {
       "id": "tweet_aleabitoreddit_2074533565505876218",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -101,26 +121,6 @@
       "url": "https://x.com/aleabitoreddit/status/2074533565505876218",
       "tweet_id": "2074533565505876218",
       "translated": "这是平均视觉 TA 兄弟，需要 50% 50% 硬币翻转：如果情况相反，他们会说“ABC 模式无效”，应该知道......如果他们得到正确的硬币翻转，他们会宣传他们的 40 美元/月图表。 -> 人们在 KOSPI 上画出的曲线对它的走向毫无意义。主要是三星/SK 海力士，并且预期营业收入增长来自 DRAM/NAND。 -> 对 $SIVE、$AEHR 和其他的摇摇晃晃的绘图没有任何意义。当主要是超大规模供应商时，主题溢价和批量订单决定了估值。然后，如果某个东西随机从 1 美元到 60 美元（例如 $AXTI），他们声称他们用“金蛋龙蜡烛”发现了它，而忽略了任何具有 InP 基材和光学需求的东西。很少有像现在这样出现行业大幅下跌的情况。但现在 TA 兄弟到处出现，说这里有一个 40 美元的课程，教他们如何用摇摆线预测它。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2074494514061017508",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 07 Jul 2026 14:03:29 GMT",
-      "content": "Just putting it out there: If everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... Which are all down -4% to -10%+ today so far. Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves.",
-      "url": "https://x.com/aleabitoreddit/status/2074494514061017508",
-      "tweet_id": "2074494514061017508",
-      "translated": "只是把它放在那里：如果 $NBIS、$MRVL、$INTC、$SNDK、$AMD、$SIVE、$MU、$LITE 和其他所有东西一起崩溃......到目前为止，它们今天都下跌了 -4% 到 -10%+。可能和个人的基本面没有什么关系。如果基本面改善，诸如级联保证金清算之类的不加选择的抛售通常会提供令人信服的机会。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2074466925263061100",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 07 Jul 2026 12:13:51 GMT",
-      "content": "Raymond James initiated coverage of $SPCX with “Strong Buy”. Giving it a $800 PT, valuing SpaceX at a ~$10T valuation. No words. Jokes about “institutional” notes for retail write themselves.",
-      "url": "https://x.com/aleabitoreddit/status/2074466925263061100",
-      "tweet_id": "2074466925263061100",
-      "translated": "Raymond James 开始对 $SPCX 进行“强力买入”报道。给予 800 美元的 PT，对 SpaceX 的估值约为 10T 美元。没有言语。关于零售业“机构”票据的笑话是他们自己写的。"
     }
   ],
   "stats": {
