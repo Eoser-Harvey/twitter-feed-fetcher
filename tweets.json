@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-07T11:09:36.567082+00:00",
+  "fetched_at": "2026-07-07T14:39:41.424387+00:00",
   "total": 12,
   "tweets": [
     {
@@ -33,6 +33,16 @@
       "translated": "Grok 想象更新"
     },
     {
+      "id": "tweet_cz_binance_2074498610797125698",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Tue, 07 Jul 2026 14:19:45 GMT",
+      "content": "Platforms treat users differently. Numbers speak.",
+      "url": "https://x.com/cz_binance/status/2074498610797125698",
+      "tweet_id": "2074498610797125698",
+      "translated": "平台对待用户的方式不同。数字说话。"
+    },
+    {
       "id": "tweet_cz_binance_2074396505016852740",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
@@ -51,16 +61,6 @@
       "url": "https://x.com/cz_binance/status/2074377632356159778",
       "tweet_id": "2074377632356159778",
       "translated": "👏 很高兴看到国家区块链部署。"
-    },
-    {
-      "id": "tweet_cz_binance_2074130464671936568",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Mon, 06 Jul 2026 13:56:52 GMT",
-      "content": "R to @cz_binance: I thought this was a 5-minute photo shoot, for a portrait head shot. So, I wear a Binance polo shirt and jogging pants. I didn't think it would turn into a full body, multiple angle shoot. 🤣 Platon is a master in his art.",
-      "url": "https://x.com/cz_binance/status/2074130464671936568",
-      "tweet_id": "2074130464671936568",
-      "translated": "R 致@cz_binance：我认为这是一个 5 分钟的照片拍摄，用于肖像头像拍摄。所以，我穿着币安 Polo 衫和慢跑裤。我没想到它会变成全身多角度拍摄。 🤣 柏拉图是他的艺术大师。"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -93,6 +93,26 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2074494514061017508",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 07 Jul 2026 14:03:29 GMT",
+      "content": "Just putting it out there: If everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... Which are all down -4% to -10%+ today so far. Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves.",
+      "url": "https://x.com/aleabitoreddit/status/2074494514061017508",
+      "tweet_id": "2074494514061017508",
+      "translated": "只是把它放在那里：如果 $NBIS、$MRVL、$INTC、$SNDK、$AMD、$SIVE、$MU、$LITE 和其他所有东西一起崩溃......到目前为止，它们今天都下跌了 -4% 到 -10%+。可能和个人的基本面没有什么关系。如果基本面改善，诸如级联保证金清算之类的不加选择的抛售通常会提供令人信服的机会。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2074466925263061100",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 07 Jul 2026 12:13:51 GMT",
+      "content": "Raymond James initiated coverage of $SPCX with “Strong Buy”. Giving it a $800 PT, valuing SpaceX at a ~$10T valuation. No words. Jokes about “institutional” notes for retail write themselves.",
+      "url": "https://x.com/aleabitoreddit/status/2074466925263061100",
+      "tweet_id": "2074466925263061100",
+      "translated": "Raymond James 开始对 $SPCX 进行“强力买入”报道。给予 800 美元的 PT，对 SpaceX 的估值约为 10T 美元。没有言语。关于零售业“机构”票据的笑话是他们自己写的。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2074416685843612031",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -101,26 +121,6 @@
       "url": "https://x.com/aleabitoreddit/status/2074416685843612031",
       "tweet_id": "2074416685843612031",
       "translated": "三星价格为 1.24T 美元： > 市场：我们认为内存价格无法继续上涨 > 收益将上涨 20% > 公布收益 > 击败 NVDA 和 AAPL 成为全球最赚钱的公司 > 营业利润同比增长 1803% 市场：抛售三星 -7%"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2074405723816304743",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 07 Jul 2026 08:10:39 GMT",
-      "content": "One of the dumbest thematic selloffs I’ve seen to to date off: - $META compute news that’s not new - CPO delay report 1, that got refuted by $NVDA - CPO delay report 2, that got refuted by $NVDA High confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates.",
-      "url": "https://x.com/aleabitoreddit/status/2074405723816304743",
-      "tweet_id": "2074405723816304743",
-      "translated": "迄今为止我见过的最愚蠢的主题抛售之一： - $META 计算新闻，这并不新鲜 - CPO 延迟报告 1，被 $NVDA 驳斥 - CPO 延迟报告 2，被 $NVDA 驳斥 高信心，机构最终将在散户投降后做多他们所贴出的相同名称。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2074381029146837207",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 07 Jul 2026 06:32:32 GMT",
-      "content": "Trump: “You have a couple of guys who went short. Those poor ******* they’re in big trouble. They’re being wiped out. The short guys. I never liked short guys because they’re betting against the country”.",
-      "url": "https://x.com/aleabitoreddit/status/2074381029146837207",
-      "tweet_id": "2074381029146837207",
-      "translated": "特朗普：“有几个人做空了。那些可怜的家伙，他们遇到了大麻烦。他们正在被消灭。做空的人。我从来不喜欢做空的人，因为他们在做空国家”。"
     }
   ],
   "stats": {
