@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-07T21:37:04.600354+00:00",
-  "total": 12,
+  "fetched_at": "2026-07-07T23:05:02.380261+00:00",
+  "total": 9,
   "tweets": [
     {
       "id": "tweet_elonmusk_2074503704842293282",
@@ -13,6 +13,16 @@
       "translated": "@elonmusk 的转发：美国人已经受够了社会底层 2% 的人毁掉我们的生活“我会这么直白。由于纽波特海滩发生的贫民区活动，明年我们将在该地区看到一个更安全的最低密闭监狱，因为这些该死的寄生虫应该被关在笼子里——社会底层 2% 的人造成了我们所有的问题。我知道你不想听。我知道这可能会发生。如果我们把他们全部关进监狱，把他们关进精神病院，我们所有的问题都会消失——但是向富人、亿万富翁征税，不，埃隆·马斯克不会在 7-11 店外偷东西。”我同意每句话。我们的社会和生活方式正在被社会底层2%的人破坏。我们不必这样生活，这些人不应该破坏我们的生活，成为体制外的寄生虫。最底层的 1% 人正在榨取福利体系，造成天文数字的税收，然后这些人就会在整个社会造成混乱。"
     },
     {
+      "id": "tweet_elonmusk_2074211370464153863",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 06 Jul 2026 19:18:22 GMT",
+      "content": "RT by @elonmusk: Image",
+      "url": "https://x.com/elonmusk/status/2074211370464153863",
+      "tweet_id": "2074211370464153863",
+      "translated": "RT @elonmusk：图片"
+    },
+    {
       "id": "tweet_elonmusk_2074523879075115285",
       "username": "elonmusk",
       "display_name": "马斯克",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2074523879075115285",
       "tweet_id": "2074523879075115285",
       "translated": "很棒的一点"
-    },
-    {
-      "id": "tweet_elonmusk_2074523573142573321",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 07 Jul 2026 15:58:57 GMT",
-      "content": "Yes",
-      "url": "https://x.com/elonmusk/status/2074523573142573321",
-      "tweet_id": "2074523573142573321",
-      "translated": "是的"
     },
     {
       "id": "tweet_cz_binance_2074552243068764167",
@@ -61,36 +61,6 @@
       "url": "https://x.com/cz_binance/status/2074396505016852740",
       "tweet_id": "2074396505016852740",
       "translated": "哇哦...一起建设了 9 年！"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432",
-      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2068370500334637542",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
-      "content": "RT by @realDonaldTrump: POLL…",
-      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
-      "tweet_id": "2068370500334637542",
-      "translated": "RT @realDonaldTrump：投票……"
     },
     {
       "id": "tweet_aleabitoreddit_2074581698604593367",
@@ -124,8 +94,8 @@
     }
   ],
   "stats": {
-    "users_success": 4,
-    "users_failed": 0,
+    "users_success": 3,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
