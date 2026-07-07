@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-07T07:42:02.908413+00:00",
+  "fetched_at": "2026-07-07T11:09:36.567082+00:00",
   "total": 12,
   "tweets": [
     {
@@ -20,7 +20,7 @@
       "content": "RT by @elonmusk: If you want to start a startup, don't learn \"entrepreneurship.\" Learn how to build things. The hard part of startups is not \"entrepreneurship\" but product: to know what to build, and to be able to build it.",
       "url": "https://x.com/elonmusk/status/2074184773480726854",
       "tweet_id": "2074184773480726854",
-      "translated": "RT @elonmusk：如果你想创业，就不要学习“创业精神”。学习如何建造东西。初创公司的困难部分不是“创业精神”，而是产品：知道要构建什么，并且能够构建它。"
+      "translated": "RT @elonmusk：如果你想创业，就不要学习“创业精神”。学习如何构建东西。初创公司的困难部分不是“创业精神”，而是产品：知道要构建什么，并且能够构建它。"
     },
     {
       "id": "tweet_elonmusk_2074378653501128833",
@@ -53,14 +53,14 @@
       "translated": "👏 很高兴看到国家区块链部署。"
     },
     {
-      "id": "tweet_cz_binance_2074040461128265942",
+      "id": "tweet_cz_binance_2074130464671936568",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
-      "published_at": "Mon, 06 Jul 2026 07:59:14 GMT",
-      "content": "The cover photo of Freedom of Money book (and my current avatar) was photographed by Platon. It was one funky photo shoot. There was an interesting conversation as well. Watch the video. (Filmed 5 months ago). https://www.youtube.com/watch?v=GWRtN6C90KQ",
-      "url": "https://x.com/cz_binance/status/2074040461128265942",
-      "tweet_id": "2074040461128265942",
-      "translated": "《金钱自由》一书的封面照片（以及我现在的头像）是柏拉图拍摄的。这是一张时髦的照片。还有一段有趣的对话。观看视频。 （5个月前拍摄）。 https://www.youtube.com/watch?v=GWRtN6C90KQ"
+      "published_at": "Mon, 06 Jul 2026 13:56:52 GMT",
+      "content": "R to @cz_binance: I thought this was a 5-minute photo shoot, for a portrait head shot. So, I wear a Binance polo shirt and jogging pants. I didn't think it would turn into a full body, multiple angle shoot. 🤣 Platon is a master in his art.",
+      "url": "https://x.com/cz_binance/status/2074130464671936568",
+      "tweet_id": "2074130464671936568",
+      "translated": "R 致@cz_binance：我认为这是一个 5 分钟的照片拍摄，用于肖像头像拍摄。所以，我穿着币安 Polo 衫和慢跑裤。我没想到它会变成全身多角度拍摄。 🤣 柏拉图是他的艺术大师。"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -93,6 +93,26 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2074416685843612031",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 07 Jul 2026 08:54:13 GMT",
+      "content": "Be Samsung at $1.24T: > market: we don’t think you can keep hiking memory prices > proceeds to hikes dram by 20% > releases earnings > most profitable company in the world beating $NVDA and $AAPL > operating profits growing 1803% Y/Y market: sells off Samsung -7%",
+      "url": "https://x.com/aleabitoreddit/status/2074416685843612031",
+      "tweet_id": "2074416685843612031",
+      "translated": "三星价格为 1.24T 美元： > 市场：我们认为内存价格无法继续上涨 > 收益将上涨 20% > 公布收益 > 击败 NVDA 和 AAPL 成为全球最赚钱的公司 > 营业利润同比增长 1803% 市场：抛售三星 -7%"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2074405723816304743",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 07 Jul 2026 08:10:39 GMT",
+      "content": "One of the dumbest thematic selloffs I’ve seen to to date off: - $META compute news that’s not new - CPO delay report 1, that got refuted by $NVDA - CPO delay report 2, that got refuted by $NVDA High confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates.",
+      "url": "https://x.com/aleabitoreddit/status/2074405723816304743",
+      "tweet_id": "2074405723816304743",
+      "translated": "迄今为止我见过的最愚蠢的主题抛售之一： - $META 计算新闻，这并不新鲜 - CPO 延迟报告 1，被 $NVDA 驳斥 - CPO 延迟报告 2，被 $NVDA 驳斥 高信心，机构最终将在散户投降后做多他们所贴出的相同名称。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2074381029146837207",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -101,26 +121,6 @@
       "url": "https://x.com/aleabitoreddit/status/2074381029146837207",
       "tweet_id": "2074381029146837207",
       "translated": "特朗普：“有几个人做空了。那些可怜的家伙，他们遇到了大麻烦。他们正在被消灭。做空的人。我从来不喜欢做空的人，因为他们在做空国家”。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2074240512593481955",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 06 Jul 2026 21:14:10 GMT",
-      "content": "Was a sad few months for $RDDT. But glad it's finally back above $200. Reddit was doing: - $663M revenue w/ 91.5% gross margins - $204M GAAP net income - 45%+ fwd Y/Y growth after 69%+ growth. - Net profit is ~30.7% of revenue Felt very weird to see a profitable company get dragged down after earnings. But in hindsight, given the increase hyperscaler capex, the drop felt more like it's more relative opportunity cost more than fundamentals? Since a lot of inflow poured into $MU / Sk Hynix that are bottlenecked into 2029. Or with laser bottlenecks like $LITE that last into 2029 as well. Same thing happens in reverse after selloffs ig, even if fundamentals didn't change. Been seeing a lot of noise with memory optimization or Chinese players... but don't quite think you sign 16T+ LTAs if memory was getting flooded or not used anytime soon. Same with optical players... if in earnings, they state anything they make gets bought, I don't quite think a lot of the noise has material effect on their fundamentals. Regardless, nice to see some recovery with familiar faces like $HOOD, $HIMS, and $RDDT though.",
-      "url": "https://x.com/aleabitoreddit/status/2074240512593481955",
-      "tweet_id": "2074240512593481955",
-      "translated": "对于 $RDDT 来说这是悲伤的几个月。但很高兴它终于回到了 200 美元以上。 Reddit 的业绩是： - 收入 6.63 亿美元，毛利率 91.5% - GAAP 净利润 2.04 亿美元 - 在增长 69% 以上之后，预期同比增长 45% 以上。 - 净利润约占收入的 30.7% 看到一家盈利的公司在盈利后受到拖累，感觉很奇怪。但事后看来，考虑到超大规模资本支出的增加，这种下降感觉更像是相对机会成本高于基本面？由于大量资金流入 $MU / Sk Hynix，这些瓶颈一直持续到 2029 年。或者像 $LITE 这样的激光瓶颈也会持续到 2029 年。即使基本面没有改变，在抛售之后也会发生同样的事情。已经看到很多有关内存优化或中国玩家的噪音……但如果内存被淹没或短期内没有使用，不太认为您会签署 16T+ LTA。与光学玩家一样......如果在收益中，他们声称自己生产的任何东西都会被购买，我不太认为很多噪音会对他们的基本面产生实质性影响。无论如何，很高兴看到 $HOOD、$HIMS 和 $RDDT 等熟悉面孔的恢复。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2074214669808717906",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 06 Jul 2026 19:31:28 GMT",
-      "content": "It’s interesting to witness psychology around valuation anchoring + scarcity. Retail, for example, are buying Figure, last valued at ~$39B through CEFs… At $158B, since it’s private, round 4x valuations. Then Agility Robotics $CCXI, which has broader commercialization. Is at ~$4.3B pre-money and publicly available before the name change. At closer pricing that $AMZN, $NVDA, SoftBank, and Foxconn vaulted it at. Yet some end up paying 4-5x prices of already hiked private investor rounds for exposure… I’m convinced if Agility raised a very small private round at $39B as well from $2.5B (which it definitely could), to set a valuation anchor. Investors would be foaming in the mouth for a private allocation, just due to psychology rather than underlying fundamentals. We’ve also seen this anchoring with $SPCX recently at $1.75T. Peak market inefficiency? Or lack of knowledge from retail?",
-      "url": "https://x.com/aleabitoreddit/status/2074214669808717906",
-      "tweet_id": "2074214669808717906",
-      "translated": "见证围绕估值锚定+稀缺性的心理是很有趣的。例如，零售业正在购买Figure，通过 CEF 最后估值约为 $39B……价格为 $158B，因为它是私人的，估值约为 4 倍。然后是 Agility Robotics $CCXI，其商业化范围更广。预付款价格约为 4.3B 美元，并在更名前公开发布。更接近的定价是 $AMZN、$NVDA、软银和富士康的定价。然而，有些人最终会支付已经上涨的私人投资者轮次的 4-5 倍的价格来获得曝光……我相信，如果 Agility 也以 39B 美元的价格从 2.5B 美元（这绝对可以）筹集到一个非常小的私人轮次，以设定估值锚点。投资者可能会因为私人配置而口吐白沫，这只是出于心理因素，而不是基本面因素。我们最近还看到 $SPCX 锚定在 $1.75T。高峰期市场效率低下？还是缺乏零售知识？"
     }
   ],
   "stats": {
