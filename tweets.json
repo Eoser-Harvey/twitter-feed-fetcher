@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-07T19:58:26.789055+00:00",
+  "fetched_at": "2026-07-07T21:37:04.600354+00:00",
   "total": 12,
   "tweets": [
     {
@@ -93,6 +93,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2074581698604593367",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 07 Jul 2026 19:49:55 GMT",
+      "content": "Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. For $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out. Since there were warnings that: Sensors could be disabled or exploited remotely, given Hesai firmware update disabled lidar units on February 29 (as evidence). By second order effect, this is also bullish for upstream laser suppliers too like $LITE and $SIVE that are used in western lidar players.",
+      "url": "https://x.com/aleabitoreddit/status/2074581698604593367",
+      "tweet_id": "2074581698604593367",
+      "translated": "中国激光雷达制造商禾赛科技因其与 NVDA 和激光雷达传感器扩大合作伙伴关系而面临美国国家审查。对于 $OUST、$AEVA 和西方激光雷达兄弟来说，如果竞争对手受到监管，这通常是积极的。由于有警告称：鉴于 2 月 29 日禾赛固件更新禁用了激光雷达装置，传感器可能被禁用或远程利用（作为证据）。通过二阶效应，这对于西方激光雷达厂商使用的 $LITE 和 $SIVE 等上游激光供应商来说也是利好。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2074568161299771394",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -111,16 +121,6 @@
       "url": "https://x.com/aleabitoreddit/status/2074548850996707412",
       "tweet_id": "2074548850996707412",
       "translated": "美国怎么落后这么远？新华社：今年中国人形机器人产量预计将达到10万只以上。甚至摩根士丹利最初预计 2026 年将达到 14,000 辆……确实需要 Elon 的 $TSLA、$CCXI（Agility）、Apptronik 和 Figure 来赶上。并要求美国政府向上游供应链+稀土提供更多补贴。因为美国与中国大规模生产之间的差距变得越来越荒谬……但这几乎感觉像是俄罗斯/美国太空竞赛的机器人卫星时刻的开始？"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2074533565505876218",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 07 Jul 2026 16:38:39 GMT",
-      "content": "This is the average visual TA bro, takes a 50% 50% coinflip: If it goes the other way, they say \"ABC Pattern Invalidated\", should have known... If they get the coinflip right, they promote their $40/month chart. -> People drawing swiggly lines over KOSPI mean nothing where it heads. When it's primarily Samsung/SK Hynix and forward operating income growth from DRAM/NAND. -> The swiggly drawing over $SIVE, $AEHR, and others mean nothing. When it's primarily hyperscaler suppliers, thematic premiums, and volume ramp orders determining valuations. Then if something randomly goes from $1 to $60 like $AXTI, they claim they spotted it with their \"Golden Egg Dragon Candle\", while ignoring anything with InP substrate and otpical demand. There's rare times like these where it's a massive sector drop all together. But now the TA bros are showing up everywhere saying here's a $40 course on how they predicted it with swiggly lines.",
-      "url": "https://x.com/aleabitoreddit/status/2074533565505876218",
-      "tweet_id": "2074533565505876218",
-      "translated": "这是平均视觉 TA 兄弟，需要 50% 50% 硬币翻转：如果情况相反，他们会说“ABC 模式无效”，应该知道......如果他们得到正确的硬币翻转，他们会宣传他们的 40 美元/月图表。 -> 人们在 KOSPI 上画出的曲线对它的走向毫无意义。主要是三星/SK 海力士，并且预期营业收入增长来自 DRAM/NAND。 -> 对 $SIVE、$AEHR 和其他的摇摇晃晃的绘图没有任何意义。当主要是超大规模供应商时，主题溢价和批量订单决定了估值。然后，如果某个东西随机从 1 美元到 60 美元（例如 $AXTI），他们声称他们用“金蛋龙蜡烛”发现了它，而忽略了任何具有 InP 基材和光学需求的东西。很少有像现在这样出现行业大幅下跌的情况。但现在 TA 兄弟到处出现，说这里有一个 40 美元的课程，教他们如何用摇摆线预测它。"
     }
   ],
   "stats": {
