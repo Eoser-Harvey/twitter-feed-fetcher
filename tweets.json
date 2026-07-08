@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-08T05:54:46.029493+00:00",
-  "total": 12,
+  "fetched_at": "2026-07-08T08:32:40.612945+00:00",
+  "total": 9,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2074503704842293282",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 07 Jul 2026 14:40:00 GMT",
-      "content": "RT by @elonmusk: Americans have had enough of the bottom 2% of society ruining our lives “I'm gonna be so blunt. Because of the ghetto-ass activities that happened in Newport Beach — we are now going to see next year a more secure minimum confined prison in the area because of these f*cking parasites that should be locked up in a cage — This bottom 2% people of society cause all of our problems. I know you don't want to hear it. I know it might be mean, but they do. And if we just threw them all in jail, put them in mental asylums where they all belong, all of our problems would go away — but tax the rich, the billionaires. No, Elon Musk isn't taking a sh*t outside of a 7-Eleven and stealing sh*t” I agree with every word. Our society and way of life is being ruined by the bottom 2% of society. We don’t have to live like this, these people should not get to destroy our lives and be parasites off the system The bottom 1% are leaching the welfare system causing astronomical taxes, then these same people cause chaos all throughout society",
-      "url": "https://x.com/elonmusk/status/2074503704842293282",
-      "tweet_id": "2074503704842293282",
-      "translated": "@elonmusk 的转发：美国人已经受够了社会底层 2% 的人毁掉我们的生活“我会这么直白。由于纽波特海滩发生的贫民区活动，明年我们将在该地区看到一个更安全的最低密闭监狱，因为这些该死的寄生虫应该被关在笼子里——社会底层 2% 的人造成了我们所有的问题。我知道你不想听。我知道这可能会发生。如果我们把他们全部关进监狱，把他们关进精神病院，我们所有的问题都会消失——但是向富人、亿万富翁征税，不，埃隆·马斯克不会在 7-11 店外偷东西。”我同意每句话。我们的社会和生活方式正在被社会底层2%的人破坏。我们不必这样生活，这些人不应该破坏我们的生活，成为体制外的寄生虫。最底层的 1% 人正在榨取福利体系，造成天文数字的税收，然后这些人就会在整个社会造成混乱。"
-    },
-    {
-      "id": "tweet_elonmusk_2074211370464153863",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 06 Jul 2026 19:18:22 GMT",
-      "content": "RT by @elonmusk: Image",
-      "url": "https://x.com/elonmusk/status/2074211370464153863",
-      "tweet_id": "2074211370464153863",
-      "translated": "RT @elonmusk：图片"
-    },
-    {
-      "id": "tweet_elonmusk_2074523879075115285",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 07 Jul 2026 16:00:10 GMT",
-      "content": "Great point",
-      "url": "https://x.com/elonmusk/status/2074523879075115285",
-      "tweet_id": "2074523879075115285",
-      "translated": "很棒的一点"
-    },
     {
       "id": "tweet_cz_binance_2074552243068764167",
       "username": "cz_binance",
@@ -124,8 +94,8 @@
     }
   ],
   "stats": {
-    "users_success": 4,
-    "users_failed": 0,
-    "nitter_healthy": 9
+    "users_success": 3,
+    "users_failed": 1,
+    "nitter_healthy": 10
   }
 }
