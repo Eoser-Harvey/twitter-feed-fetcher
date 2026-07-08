@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-08T11:07:37.172890+00:00",
+  "fetched_at": "2026-07-08T14:14:09.485147+00:00",
   "total": 12,
   "tweets": [
     {
@@ -93,6 +93,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2074838397341065516",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 08 Jul 2026 12:49:57 GMT",
+      "content": "Blue Origin reportedly raising $10B at a $130B valuation per NYT. Seems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring. If SpaceX and Blue Origin is able to set such high valuations.",
+      "url": "https://x.com/aleabitoreddit/status/2074838397341065516",
+      "tweet_id": "2074838397341065516",
+      "translated": "据报道，Blue Origin 以《纽约时报》估值 130B 美元的价格筹集了 10B 美元。就相对估值锚定而言，$RKLB、$ASTS 和其他空间名称似乎相当积极。如果SpaceX和蓝色起源能够设定这么高的估值。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2074799339680202869",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -111,16 +121,6 @@
       "url": "https://x.com/aleabitoreddit/status/2074776109074583565",
       "tweet_id": "2074776109074583565",
       "translated": "特朗普：与伊朗的谅解备忘录“已经结束” 特朗普在北约峰会上表示，“与他们打交道是浪费时间”。市场总是令人兴奋的时刻。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2074581698604593367",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 07 Jul 2026 19:49:55 GMT",
-      "content": "Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. For $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out. Since there were warnings that: Sensors could be disabled or exploited remotely, given Hesai firmware update disabled lidar units on February 29 (as evidence). By second order effect, this is also bullish for upstream laser suppliers too like $LITE and $SIVE that are used in western lidar players.",
-      "url": "https://x.com/aleabitoreddit/status/2074581698604593367",
-      "tweet_id": "2074581698604593367",
-      "translated": "中国激光雷达制造商禾赛科技因其与 NVDA 和激光雷达传感器扩大合作伙伴关系而面临美国国家审查。对于 $OUST、$AEVA 和西方激光雷达兄弟来说，如果竞争对手受到监管，这通常是积极的。由于有警告称：鉴于 2 月 29 日禾赛固件更新禁用了激光雷达装置，传感器可能被禁用或远程利用（作为证据）。通过二阶效应，这对于西方激光雷达厂商使用的 $LITE 和 $SIVE 等上游激光供应商来说也是利好。"
     }
   ],
   "stats": {
