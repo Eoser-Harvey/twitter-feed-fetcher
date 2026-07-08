@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-08T08:32:40.612945+00:00",
-  "total": 9,
+  "fetched_at": "2026-07-08T11:07:37.172890+00:00",
+  "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2074740539874775163",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 08 Jul 2026 06:21:06 GMT",
+      "content": "Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow. It is an Opus-class model, but faster, more token-efficient and lower cost.",
+      "url": "https://x.com/elonmusk/status/2074740539874775163",
+      "tweet_id": "2074740539874775163",
+      "translated": "基于客户在 Beta 测试计划中的强烈积极反馈，@SpaceXAI 将于明天向公众推出 Grok 4.5。它是 Opus 级模型，但速度更快、代币效率更高且成本更低。"
+    },
+    {
+      "id": "tweet_elonmusk_2074739056697610504",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 08 Jul 2026 06:15:12 GMT",
+      "content": "America, the Beautiful",
+      "url": "https://x.com/elonmusk/status/2074739056697610504",
+      "tweet_id": "2074739056697610504",
+      "translated": "美国，美丽的"
+    },
+    {
+      "id": "tweet_elonmusk_2074738585727590547",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 08 Jul 2026 06:13:20 GMT",
+      "content": "Video",
+      "url": "https://x.com/elonmusk/status/2074738585727590547",
+      "tweet_id": "2074738585727590547",
+      "translated": "视频"
+    },
     {
       "id": "tweet_cz_binance_2074552243068764167",
       "username": "cz_binance",
@@ -63,6 +93,26 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2074799339680202869",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 08 Jul 2026 10:14:45 GMT",
+      "content": "Trump: “Spain is a terrible partner in NATO. They don't participate. They don't pay. Cut off all trade with Spain” Tbh no clue what’s going on anymore…",
+      "url": "https://x.com/aleabitoreddit/status/2074799339680202869",
+      "tweet_id": "2074799339680202869",
+      "translated": "特朗普：“西班牙是北约中一个糟糕的伙伴。他们不参与。他们不付钱。切断与西班牙的所有贸易”说实话，不知道发生了什么......"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2074776109074583565",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 08 Jul 2026 08:42:26 GMT",
+      "content": "Trump: Memorandum of Understanding with Iran “is over” “It’s a waste of time dealing with them,” Trump said at the NATO summit. Always an exciting time with markets.",
+      "url": "https://x.com/aleabitoreddit/status/2074776109074583565",
+      "tweet_id": "2074776109074583565",
+      "translated": "特朗普：与伊朗的谅解备忘录“已经结束” 特朗普在北约峰会上表示，“与他们打交道是浪费时间”。市场总是令人兴奋的时刻。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2074581698604593367",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -71,31 +121,11 @@
       "url": "https://x.com/aleabitoreddit/status/2074581698604593367",
       "tweet_id": "2074581698604593367",
       "translated": "中国激光雷达制造商禾赛科技因其与 NVDA 和激光雷达传感器扩大合作伙伴关系而面临美国国家审查。对于 $OUST、$AEVA 和西方激光雷达兄弟来说，如果竞争对手受到监管，这通常是积极的。由于有警告称：鉴于 2 月 29 日禾赛固件更新禁用了激光雷达装置，传感器可能被禁用或远程利用（作为证据）。通过二阶效应，这对于西方激光雷达厂商使用的 $LITE 和 $SIVE 等上游激光供应商来说也是利好。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2074568161299771394",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 07 Jul 2026 18:56:07 GMT",
-      "content": "Just Bloomberg and $META doing damage control after crashing the market with Meta Compute framing: Spokesperson: \"Meta is still hungry for even more computing power. It is still moving forward with plans for expensive new data centers and recently inked major computing deals with $CRVW, Google, $ORCL, and others.\" Just dropped that in with the Meta Muse announcement, and evenn threw in the \"expensive\" framing with DCs to signal capex. But little late given we're likely seeing a lot of margin liquidation cascades and heavy losses from media framing earlier.",
-      "url": "https://x.com/aleabitoreddit/status/2074568161299771394",
-      "tweet_id": "2074568161299771394",
-      "translated": "彭博社和 $META 在元计算框架让市场崩溃后，正在进行损害控制：发言人：“Meta 仍然渴望更多的计算能力。它仍在推进昂贵的新数据中心计划，并且最近与 $CRVW、谷歌、$ORCL 等公司签署了重大计算协议。”刚刚在 Meta Muse 公告中加入了这一点，甚至还加入了 DC 的“昂贵”框架来表示资本支出。但考虑到我们可能会看到大量的保证金清算级联以及早些时候媒体框架造成的严重损失，所以为时已晚。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2074548850996707412",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 07 Jul 2026 17:39:23 GMT",
-      "content": "How is the US so far behind? Xinhua: China's output of humanoids are expected to hit 100,000+ this year. Even Morgan Stanley originally projected 14,000 for 2026... Really need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup. And for more US Gov. subsidies to pour into upstream supply chains + rare earths. Cause this disparity between US vs. China mass production is getting ridiculous... But it almost feels like the start of Russia/US Space race Sputnik Moment for robotics?",
-      "url": "https://x.com/aleabitoreddit/status/2074548850996707412",
-      "tweet_id": "2074548850996707412",
-      "translated": "美国怎么落后这么远？新华社：今年中国人形机器人产量预计将达到10万只以上。甚至摩根士丹利最初预计 2026 年将达到 14,000 辆……确实需要 Elon 的 $TSLA、$CCXI（Agility）、Apptronik 和 Figure 来赶上。并要求美国政府向上游供应链+稀土提供更多补贴。因为美国与中国大规模生产之间的差距变得越来越荒谬……但这几乎感觉像是俄罗斯/美国太空竞赛的机器人卫星时刻的开始？"
     }
   ],
   "stats": {
-    "users_success": 3,
-    "users_failed": 1,
+    "users_success": 4,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
