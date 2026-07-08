@@ -1,36 +1,56 @@
 {
-  "fetched_at": "2026-07-08T16:41:34.112273+00:00",
+  "fetched_at": "2026-07-08T18:20:22.034581+00:00",
   "total": 12,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2074889665119740341",
+      "id": "tweet_elonmusk_2074912099554201969",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 08 Jul 2026 16:13:40 GMT",
-      "content": "Correct",
-      "url": "https://x.com/elonmusk/status/2074889665119740341",
-      "tweet_id": "2074889665119740341",
-      "translated": "正确的"
+      "published_at": "Wed, 08 Jul 2026 17:42:49 GMT",
+      "content": "We will be releasing a new @CommunityNotes feature that sends you an 𝕏 Chat message if a post you interacted with is corrected",
+      "url": "https://x.com/elonmusk/status/2074912099554201969",
+      "tweet_id": "2074912099554201969",
+      "translated": "我们将发布一个新的 @CommunityNotes 功能，如果您互动的帖子得到纠正，该功能会向您发送 𝕏 聊天消息"
     },
     {
-      "id": "tweet_elonmusk_2074740539874775163",
+      "id": "tweet_elonmusk_2074912266961527141",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 08 Jul 2026 06:21:06 GMT",
-      "content": "Pinned: Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow. It is an Opus-class model, but faster, more token-efficient and lower cost.",
-      "url": "https://x.com/elonmusk/status/2074740539874775163",
-      "tweet_id": "2074740539874775163",
-      "translated": "固定：基于客户在我们的 Beta 测试计划中的强烈积极反馈，@SpaceXAI 将于明天向公众推出 Grok 4.5。它是 Opus 级模型，但速度更快、代币效率更高且成本更低。"
+      "published_at": "Wed, 08 Jul 2026 17:43:29 GMT",
+      "content": "R to @elonmusk: Image",
+      "url": "https://x.com/elonmusk/status/2074912266961527141",
+      "tweet_id": "2074912266961527141",
+      "translated": "R 致@elonmusk：图片"
     },
     {
-      "id": "tweet_elonmusk_2074739056697610504",
+      "id": "tweet_elonmusk_2074911038286295049",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 08 Jul 2026 06:15:12 GMT",
-      "content": "America, the Beautiful",
-      "url": "https://x.com/elonmusk/status/2074739056697610504",
-      "tweet_id": "2074739056697610504",
-      "translated": "美国，美丽的"
+      "published_at": "Wed, 08 Jul 2026 17:38:36 GMT",
+      "content": "Our internal assessment is that Grok 4.5 is roughly comparable to Opus 4.7, but much faster. The combination of capability, faster speed and lower cost is what makes it competitive. We are closing the loop on real-world usefulness, not benchmarks. Hardcore engineers at Tesla & SpaceX find Grok 4.5 genuinely useful, which is what actually matters.",
+      "url": "https://x.com/elonmusk/status/2074911038286295049",
+      "tweet_id": "2074911038286295049",
+      "translated": "我们的内部评估是 Grok 4.5 与 Opus 4.7 大致相当，但速度更快。能力、更快的速度和更低的成本相结合使其具有竞争力。我们正在关闭现实世界实用性的循环，而不是基准。 Tesla 和 SpaceX 的核心工程师发现 Grok 4.5 确实有用，这才是真正重要的。"
+    },
+    {
+      "id": "tweet_cz_binance_2074836879992603059",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Wed, 08 Jul 2026 12:43:55 GMT",
+      "content": "RT by @cz_binance: #BNB Chain is on fire🔥 🔶$4T traded through @PancakeSwap 🔶BNB Chain is building the next trading layer 1 New L1 for agentic trading 100K+ TPS sub 50ms Testnet 2026 Mainnet 2027 CEX speed onchain custody 🔥",
+      "url": "https://x.com/cz_binance/status/2074836879992603059",
+      "tweet_id": "2074836879992603059",
+      "translated": "RT @cz_binance：#BNB 链火了🔥 🔶$4T 通过 @PancakeSwap 进行交易 🔶BNB 链正在构建下一个交易层 1 用于代理交易的新 L1 100K+ TPS 低于 50 毫秒 测试网 2026 年主网 2027 年 CEX 速度链上托管 🔥"
+    },
+    {
+      "id": "tweet_cz_binance_2074826154998153278",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Wed, 08 Jul 2026 12:01:18 GMT",
+      "content": "RT by @cz_binance: The BNB Chain 2026 H2 Tech Roadmap is here. After cutting BSC block intervals to 450 ms and nearly doubling benchmark throughput to ~5,200 TPS, the next target is another 2x increase on mainnet. What's next for BNB Chain 👇🧵",
+      "url": "https://x.com/cz_binance/status/2074826154998153278",
+      "tweet_id": "2074826154998153278",
+      "translated": "@cz_binance 转发：BNB 链 2026 H2 技术路线图在这里。将 BSC 区块间隔缩短至 450 毫秒并将基准吞吐量几乎翻倍至约 5,200 TPS 后，下一个目标是主网上再增加 2 倍。 BNB链的下一步是什么👇🧵"
     },
     {
       "id": "tweet_cz_binance_2074552243068764167",
@@ -41,26 +61,6 @@
       "url": "https://x.com/cz_binance/status/2074552243068764167",
       "tweet_id": "2074552243068764167",
       "translated": "来自前 CFTC 主席 Chris Giancarlo！"
-    },
-    {
-      "id": "tweet_cz_binance_2074498610797125698",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Tue, 07 Jul 2026 14:19:45 GMT",
-      "content": "Platforms treat users differently. Numbers speak.",
-      "url": "https://x.com/cz_binance/status/2074498610797125698",
-      "tweet_id": "2074498610797125698",
-      "translated": "平台对待用户的方式不同。数字说话。"
-    },
-    {
-      "id": "tweet_cz_binance_2074396505016852740",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Tue, 07 Jul 2026 07:34:01 GMT",
-      "content": "Woah... coming up to 9 years of building together!",
-      "url": "https://x.com/cz_binance/status/2074396505016852740",
-      "tweet_id": "2074396505016852740",
-      "translated": "哇哦...一起建设了 9 年！"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
