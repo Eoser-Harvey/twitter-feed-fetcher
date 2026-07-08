@@ -1,16 +1,26 @@
 {
-  "fetched_at": "2026-07-08T14:14:09.485147+00:00",
+  "fetched_at": "2026-07-08T16:41:34.112273+00:00",
   "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2074889665119740341",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 08 Jul 2026 16:13:40 GMT",
+      "content": "Correct",
+      "url": "https://x.com/elonmusk/status/2074889665119740341",
+      "tweet_id": "2074889665119740341",
+      "translated": "正确的"
+    },
     {
       "id": "tweet_elonmusk_2074740539874775163",
       "username": "elonmusk",
       "display_name": "马斯克",
       "published_at": "Wed, 08 Jul 2026 06:21:06 GMT",
-      "content": "Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow. It is an Opus-class model, but faster, more token-efficient and lower cost.",
+      "content": "Pinned: Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow. It is an Opus-class model, but faster, more token-efficient and lower cost.",
       "url": "https://x.com/elonmusk/status/2074740539874775163",
       "tweet_id": "2074740539874775163",
-      "translated": "基于客户在 Beta 测试计划中的强烈积极反馈，@SpaceXAI 将于明天向公众推出 Grok 4.5。它是 Opus 级模型，但速度更快、代币效率更高且成本更低。"
+      "translated": "固定：基于客户在我们的 Beta 测试计划中的强烈积极反馈，@SpaceXAI 将于明天向公众推出 Grok 4.5。它是 Opus 级模型，但速度更快、代币效率更高且成本更低。"
     },
     {
       "id": "tweet_elonmusk_2074739056697610504",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2074739056697610504",
       "tweet_id": "2074739056697610504",
       "translated": "美国，美丽的"
-    },
-    {
-      "id": "tweet_elonmusk_2074738585727590547",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 08 Jul 2026 06:13:20 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2074738585727590547",
-      "tweet_id": "2074738585727590547",
-      "translated": "视频"
     },
     {
       "id": "tweet_cz_binance_2074552243068764167",
