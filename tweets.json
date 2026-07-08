@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-07T23:05:02.380261+00:00",
-  "total": 9,
+  "fetched_at": "2026-07-08T02:50:44.924457+00:00",
+  "total": 12,
   "tweets": [
     {
       "id": "tweet_elonmusk_2074503704842293282",
@@ -63,6 +63,36 @@
       "translated": "哇哦...一起建设了 9 年！"
     },
     {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432",
+      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2068370500334637542",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
+      "content": "RT by @realDonaldTrump: POLL…",
+      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
+      "tweet_id": "2068370500334637542",
+      "translated": "RT @realDonaldTrump：投票……"
+    },
+    {
       "id": "tweet_aleabitoreddit_2074581698604593367",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -94,8 +124,8 @@
     }
   ],
   "stats": {
-    "users_success": 3,
-    "users_failed": 1,
+    "users_success": 4,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
