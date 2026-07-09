@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-09T15:58:58.365725+00:00",
-  "total": 12,
+  "fetched_at": "2026-07-09T18:05:35.486217+00:00",
+  "total": 9,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2075228817099231439",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 09 Jul 2026 14:41:20 GMT",
-      "content": "RT by @elonmusk: Even Zuckerberg has to advertise his AI model on X. X is the real arena.",
-      "url": "https://x.com/elonmusk/status/2075228817099231439",
-      "tweet_id": "2075228817099231439",
-      "translated": "RT by @elonmusk：连扎克伯格都得在 X 上宣传他的 AI 模型。X 才是真正的舞台。"
-    },
-    {
-      "id": "tweet_elonmusk_2075176864558006425",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 09 Jul 2026 11:14:54 GMT",
-      "content": "RT by @elonmusk: Falcon 9 launches 29 @Starlink satellites from Florida",
-      "url": "https://x.com/elonmusk/status/2075176864558006425",
-      "tweet_id": "2075176864558006425",
-      "translated": "RT @elonmusk：猎鹰 9 号从佛罗里达州发射了 29 颗 @Starlink 卫星"
-    },
-    {
-      "id": "tweet_elonmusk_2075118564995145860",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 09 Jul 2026 07:23:14 GMT",
-      "content": "RT by @elonmusk: Kardashev II or we’re not a serious civilization Moon and Mars are necessary steps to this",
-      "url": "https://x.com/elonmusk/status/2075118564995145860",
-      "tweet_id": "2075118564995145860",
-      "translated": "RT by @elonmusk：卡尔达肖夫二世，否则我们就不是一个严肃的文明，月球和火星是实现这一目标的必要步骤"
-    },
     {
       "id": "tweet_cz_binance_2075229182003450081",
       "username": "cz_binance",
@@ -123,8 +93,8 @@
     }
   ],
   "stats": {
-    "users_success": 4,
-    "users_failed": 0,
+    "users_success": 3,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
