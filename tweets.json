@@ -1,36 +1,65 @@
 {
-  "fetched_at": "2026-07-09T12:06:17.857905+00:00",
-  "total": 9,
+  "fetched_at": "2026-07-09T15:58:58.365725+00:00",
+  "total": 12,
   "tweets": [
     {
-      "id": "tweet_cz_binance_2074982829667086569",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 08 Jul 2026 22:23:52 GMT",
-      "content": "This is about right.",
-      "url": "https://x.com/cz_binance/status/2074982829667086569",
-      "tweet_id": "2074982829667086569",
-      "translated": "这大约是对的。"
+      "id": "tweet_elonmusk_2075228817099231439",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 09 Jul 2026 14:41:20 GMT",
+      "content": "RT by @elonmusk: Even Zuckerberg has to advertise his AI model on X. X is the real arena.",
+      "url": "https://x.com/elonmusk/status/2075228817099231439",
+      "tweet_id": "2075228817099231439",
+      "translated": "RT by @elonmusk：连扎克伯格都得在 X 上宣传他的 AI 模型。X 才是真正的舞台。"
     },
     {
-      "id": "tweet_cz_binance_2074982133303546016",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 08 Jul 2026 22:21:06 GMT",
-      "content": "If your success depends on someone else, you should either hire that person, or work for him. 🤷‍♂️",
-      "url": "https://x.com/cz_binance/status/2074982133303546016",
-      "tweet_id": "2074982133303546016",
-      "translated": "如果你的成功取决于其他人，你应该雇佣那个人，或者为他工作。 🤷‍♂️"
+      "id": "tweet_elonmusk_2075176864558006425",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 09 Jul 2026 11:14:54 GMT",
+      "content": "RT by @elonmusk: Falcon 9 launches 29 @Starlink satellites from Florida",
+      "url": "https://x.com/elonmusk/status/2075176864558006425",
+      "tweet_id": "2075176864558006425",
+      "translated": "RT @elonmusk：猎鹰 9 号从佛罗里达州发射了 29 颗 @Starlink 卫星"
     },
     {
-      "id": "tweet_cz_binance_2074836879992603059",
+      "id": "tweet_elonmusk_2075118564995145860",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 09 Jul 2026 07:23:14 GMT",
+      "content": "RT by @elonmusk: Kardashev II or we’re not a serious civilization Moon and Mars are necessary steps to this",
+      "url": "https://x.com/elonmusk/status/2075118564995145860",
+      "tweet_id": "2075118564995145860",
+      "translated": "RT by @elonmusk：卡尔达肖夫二世，否则我们就不是一个严肃的文明，月球和火星是实现这一目标的必要步骤"
+    },
+    {
+      "id": "tweet_cz_binance_2075229182003450081",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 08 Jul 2026 12:43:55 GMT",
-      "content": "RT by @cz_binance: #BNB Chain is on fire🔥 🔶$4T traded through @PancakeSwap 🔶BNB Chain is building the next trading layer 1 New L1 for agentic trading 100K+ TPS sub 50ms Testnet 2026 Mainnet 2027 CEX speed onchain custody 🔥",
-      "url": "https://x.com/cz_binance/status/2074836879992603059",
-      "tweet_id": "2074836879992603059",
-      "translated": "RT @cz_binance：#BNB 链火了🔥 🔶$4T 通过 @PancakeSwap 进行交易 🔶BNB 链正在构建下一个交易层 1 用于代理交易的新 L1 100K+ TPS 低于 50 毫秒 测试网 2026 年主网 2027 年 CEX 速度链上托管 🔥"
+      "published_at": "Thu, 09 Jul 2026 14:42:47 GMT",
+      "content": "5000 POS terminals of Alatau City Bank in Kazakhstan 🇰🇿 are powered by Binance Pay!",
+      "url": "https://x.com/cz_binance/status/2075229182003450081",
+      "tweet_id": "2075229182003450081",
+      "translated": "哈萨克斯坦阿拉套城市银行🇰🇿的5000台POS终端由Binance Pay提供支持！"
+    },
+    {
+      "id": "tweet_cz_binance_2075228799302566027",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 09 Jul 2026 14:41:16 GMT",
+      "content": "👀",
+      "url": "https://x.com/cz_binance/status/2075228799302566027",
+      "tweet_id": "2075228799302566027"
+    },
+    {
+      "id": "tweet_cz_binance_2075207091640213669",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 09 Jul 2026 13:15:00 GMT",
+      "content": "Good summary!",
+      "url": "https://x.com/cz_binance/status/2075207091640213669",
+      "tweet_id": "2075207091640213669",
+      "translated": "总结得好！"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -63,6 +92,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2075199849507762279",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 09 Jul 2026 12:46:14 GMT",
+      "content": "Nothing like an internal $META memo getting published. Showing AI ramping as usual: - LTAs signed with Samsung and $SNDK for memory - LTAs signed with Sumitomo Electric for fiber optics - Expected to deploy 7GW compute infra this year, and doubling in 2027. - as much as $145B capex spend this year “It plans to launch a chip about every six months through 2027”",
+      "url": "https://x.com/aleabitoreddit/status/2075199849507762279",
+      "tweet_id": "2075199849507762279",
+      "translated": "没有什么比发布内部 $META 备忘录更好的了。与往常一样，人工智能正在蓬勃发展： - 与三星签署了长期协议，并签署了 $SNDK 内存协议 - 与住友电工签署了光纤长期协议 - 预计今年将部署 7GW 计算基础设施，并在 2027 年翻倍。 - 今年资本支出高达 145B 美元 “计划到 2027 年大约每六个月推出一款芯片”"
+    },
+    {
       "id": "tweet_aleabitoreddit_2074979055410266452",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -81,21 +120,11 @@
       "url": "https://x.com/aleabitoreddit/status/2074965761345642660",
       "tweet_id": "2074965761345642660",
       "translated": "$META 将在加拿大建造一个新的 10B 美元 DC，以扩大人工智能能力。 “元计算”的媒体框架就是过度建设和削减资本支出。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2074951295027568736",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 08 Jul 2026 20:18:34 GMT",
-      "content": "Let’s put it this way: Retail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. And they end up panic selling after seeing swiggly line TAs and people comparing valuable chokepoints to memes. I see it as long term ownership over: - the next hyperscaler with $NBIS, projecting $7-9B ARR Q4 - 40% of the InP supply chain with $AXTI - leader of the next optical shift with $SIVE with CW DFB lasers - leader of US humanoids with $CCXI inside a future trillion dollar theme And so on… At cheaper valuations. While I might do things like lowering margin or hedging with my own portfolio, I’m personally not panicking when something drops if the thesis didn’t change. NFA and obviously depends on people’s investing timeframes: Since a crash would be life changing for people that depend on investing for rent or tuition. (Which is why I personally think others should do their own DD and choose longs in line with their own risk profile) But my personal goal is maximizing exposure to the next-gen supercycles before they hit. I think institutions think the same way as well, which is why there’s a lot of induced volatility along the way to maximize their exposure. If a thesis ends up correct, the valuation should be reflected in the long run.",
-      "url": "https://x.com/aleabitoreddit/status/2074951295027568736",
-      "tweet_id": "2074951295027568736",
-      "translated": "这么说吧：零售业认为 30-60% 的跌幅是一把“落刀”，持有者将永远无法恢复。在看到摇摆不定的助教和人们将有价值的瓶颈与迷因进行比较后，他们最终陷入恐慌性抛售。我认为这是长期所有权： - $NBIS 的下一个超大规模企业，预计第四季度 ARR 为 7-9B 美元 - $AXTI 的 InP 供应链的 40% - 下一个光学转变的领导者 $SIVE 和 CW DFB 激光器 - 美国类人机器人的领导者，未来万亿美元主题中的 $CCXI 等等......以更便宜的估值。虽然我可能会做一些事情，比如降低保证金或用自己的投资组合进行对冲，但如果论文没有改变，当事情下跌时，我个人不会惊慌。 NFA 显然取决于人们的投资时间框架：因为对于那些依靠投资赚取租金或学费的人来说，崩盘将改变他们的生活。 （这就是为什么我个人认为其他人应该做自己的 DD 并根据自己的风险状况选择多头）但我个人的目标是在下一代超级周期到来之前最大限度地接触它们。我认为机构也有同样的想法，这就是为什么在最大化其风险敞口的过程中会引发大量波动。如果一篇论文最终是正确的，那么从长远来看，其估值应该得到反映。"
     }
   ],
   "stats": {
-    "users_success": 3,
-    "users_failed": 1,
+    "users_success": 4,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
