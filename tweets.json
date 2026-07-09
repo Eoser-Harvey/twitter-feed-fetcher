@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-09T18:05:35.486217+00:00",
-  "total": 9,
+  "fetched_at": "2026-07-09T20:48:23.720796+00:00",
+  "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2075283356439257417",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 09 Jul 2026 18:18:03 GMT",
+      "content": "Try @Grok 4.5!",
+      "url": "https://x.com/elonmusk/status/2075283356439257417",
+      "tweet_id": "2075283356439257417",
+      "translated": "尝试@Grok 4.5！"
+    },
+    {
+      "id": "tweet_elonmusk_2075252689529983026",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 09 Jul 2026 16:16:12 GMT",
+      "content": "RT by @elonmusk: The upcoming wave of SpaceXAI Grok updates is insane Grok 4.5: The 1.5T foundation model is being refined almost daily, and its context window is expected to jump to 1M tokens, possibly as soon as next week Next model: The 2T foundation model is expected to finish training this month and become available to customers next month Grok Build: The harness is getting refinements almost every day based on user feedback. New features, fixes, and workflow improvements are landing at ridiculous speed Inference: SpaceXAI is working on internally developed C/C++ inference mapped directly to GB300 hardware, which could double speed or more Agentic Imagine: Grok will be able to call Imagine as a tool in agentic mode for image and video generation That is going to be huge for game developers, designers, builders, and anyone creating interactive worlds But the biggest thing is this: Grok is being built for real-world engineering Grok 4.5 early beta access was given to Tesla and SpaceX engineers, with feedback coming from real engineering teams solving real-world problems Next month’s release is expected to be another massive step-change improvement as SpaceXAI closes the loop on real-world engineering problems at Tesla, SpaceX, Neuralink, and Boring Company And from now through the end of 2026, Elon said a new from-scratch foundation model is expected to ship every month",
+      "url": "https://x.com/elonmusk/status/2075252689529983026",
+      "tweet_id": "2075252689529983026",
+      "translated": "RT @elonmusk：即将到来的 SpaceXAI Grok 更新浪潮非常疯狂 Grok 4.5：几乎每天都在完善 1.5T 基础模型，其上下文窗口预计最快将在下周跃升至 100 万个代币 下一个模型：预计 2T 基础模型将于本月完成训练，下个月向客户提供 Grok Build：该工具几乎每天都会根据用户反馈进行改进。新功能、修复和工作流程改进正在以惊人的速度落地 推理：SpaceXAI 正在开发直接映射到 GB300 硬件的内部开发的 C/C++ 推理，这可以使速度加倍或更高 Agentic Imagine：Grok 将能够在代理模式下调用 Imagine 作为图像和视频生成工具 这对于游戏开发人员、设计师、构建者和任何创建交互式世界的人来说将是巨大的 但最重要的是：Grok 正在为现实世界工程而构建 Grok 4.5 早期测试版特斯拉和 SpaceX 的工程师获得了访问权限，反馈来自解决现实世界问题的真实工程团队。下个月的发布预计将是另一个巨大的阶跃式改进，因为 SpaceXAI 关闭了特斯拉、SpaceX、Neuralink 和 Boring Company 现实世界工程问题的循环。埃隆表示，从现在到 2026 年底，预计每个月都会推出一个新的从头开始的基础模型"
+    },
+    {
+      "id": "tweet_elonmusk_2075261123264164276",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 09 Jul 2026 16:49:42 GMT",
+      "content": "Image",
+      "url": "https://x.com/elonmusk/status/2075261123264164276",
+      "tweet_id": "2075261123264164276",
+      "translated": "图像"
+    },
     {
       "id": "tweet_cz_binance_2075229182003450081",
       "username": "cz_binance",
@@ -62,6 +92,26 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2075302956581449892",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 09 Jul 2026 19:35:56 GMT",
+      "content": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\" Elon's comment: \"For now\" Meanwhile, 1X today posts a video of the most advanced humanoid hand. Looks like the inflection point for American humanoid programs is here? Both technologically with players like 1X and with mass production with $TSLA? I'm am personally long on Agility through $CCXI targeting commercialization with Amazon and others. But I'm proud to see American robotics as a whole go brrrr.",
+      "url": "https://x.com/aleabitoreddit/status/2075302956581449892",
+      "tweet_id": "2075302956581449892",
+      "translated": "“中国运送了全球约 90% 的人形机器人。我们不能再掉以轻心。” Elon 的评论：“现在” 与此同时，1X 今天发布了一段最先进的人形手的视频。看来美国人形项目的拐点已经到来了？无论是在技术上与 1X 等公司合作，还是在大规模生产方面与 TSLA 合作？我个人看好 $CCXI 的敏捷性，目标是与亚马逊和其他公司进行商业化。但我很自豪看到美国机器人技术整体上取得了巨大进步。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2075289915697553697",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 09 Jul 2026 18:44:07 GMT",
+      "content": "Three new $SIVE insider purchases today. Most notably: $SIVEF CEO Vikram bought 1,000,000 SEK worth of shares on the open market today. This is following the massive drop on Sivers stock following 2 misleading CPO delay reports, Meta Compute headlines, and another insider sale report from another photonics director. Typically, insider sells for any number of reasons. But having the CEO buy on the open-market is the clearest signal in management confidence. Following $GFS, $JBL, and other laser supplier partnerships, and his goal of NASDAQ listing in the near term. Feels like the CEO sees a clear potential for Sivers to become the next photonics giant (myself included).",
+      "url": "https://x.com/aleabitoreddit/status/2075289915697553697",
+      "tweet_id": "2075289915697553697",
+      "translated": "今天三笔新的 $SIVE 内部购买。最值得注意的是：$SIVEF 首席执行官 Vikram 今天在公开市场上购买了价值 1,000,000 瑞典克朗的股票。此前，在两份误导性的 CPO 延迟报告、Meta Compute 头条新闻以及另一位光子学总监的另一份内幕销售报告之后，Sivers 股票大幅下跌。通常，内部人士出于多种原因出售。但让首席执行官在公开市场上购买股票是管理层信心的最明确信号。继$GFS、$JBL等激光供应商合作之后，他的目标是近期在纳斯达克上市。感觉首席执行官看到了西弗斯成为下一个光子巨头（包括我自己）的明显潜力。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2075199849507762279",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -70,31 +120,11 @@
       "url": "https://x.com/aleabitoreddit/status/2075199849507762279",
       "tweet_id": "2075199849507762279",
       "translated": "没有什么比发布内部 $META 备忘录更好的了。与往常一样，人工智能正在蓬勃发展： - 与三星签署了长期协议，并签署了 $SNDK 内存协议 - 与住友电工签署了光纤长期协议 - 预计今年将部署 7GW 计算基础设施，并在 2027 年翻倍。 - 今年资本支出高达 145B 美元 “计划到 2027 年大约每六个月推出一款芯片”"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2074979055410266452",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 08 Jul 2026 22:08:52 GMT",
-      "content": "Wow, looks like Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM with Grok 4.5. That’s much more cost efficient as well… Kinda emulating what Chinese vendors have been doing to compete on pricing + adoption. (Which is an ideal thing given Chinese model growth among US companies recently) Never doubt Elon, maybe they might end up leapfrogging Anthropic + Mythos?",
-      "url": "https://x.com/aleabitoreddit/status/2074979055410266452",
-      "tweet_id": "2074979055410266452",
-      "translated": "哇，看起来 $SPCX 的 Elon + xAI 成功地使用 Grok 4.5 构建了 Anthropic Opus 级别的 LLM。这也更具成本效益......有点模仿中国供应商在定价和采用方面竞争的做法。 （考虑到最近中国模式在美国公司中的增长，这是一件理想的事情）永远不要怀疑埃隆，也许他们最终可能会超越人类+神话？"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2074965761345642660",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 08 Jul 2026 21:16:03 GMT",
-      "content": "$META to build a new $10B DC in Canada to expand AI capacity. So much for the media framing of “Meta Compute”as overbuilding and cutting capex.",
-      "url": "https://x.com/aleabitoreddit/status/2074965761345642660",
-      "tweet_id": "2074965761345642660",
-      "translated": "$META 将在加拿大建造一个新的 10B 美元 DC，以扩大人工智能能力。 “元计算”的媒体框架就是过度建设和削减资本支出。"
     }
   ],
   "stats": {
-    "users_success": 3,
-    "users_failed": 1,
+    "users_success": 4,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
