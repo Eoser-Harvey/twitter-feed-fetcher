@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-09T00:13:22.307699+00:00",
-  "total": 9,
+  "fetched_at": "2026-07-09T04:56:13.764647+00:00",
+  "total": 12,
   "tweets": [
     {
       "id": "tweet_elonmusk_2074971866662359519",
@@ -63,6 +63,36 @@
       "translated": "RT @cz_binance：#BNB 链火了🔥 🔶$4T 通过 @PancakeSwap 进行交易 🔶BNB 链正在构建下一个交易层 1 用于代理交易的新 L1 100K+ TPS 低于 50 毫秒 测试网 2026 年主网 2027 年 CEX 速度链上托管 🔥"
     },
     {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432",
+      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2068370500334637542",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
+      "content": "RT by @realDonaldTrump: POLL…",
+      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
+      "tweet_id": "2068370500334637542",
+      "translated": "RT @realDonaldTrump：投票……"
+    },
+    {
       "id": "tweet_aleabitoreddit_2074979055410266452",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -94,8 +124,8 @@
     }
   ],
   "stats": {
-    "users_success": 3,
-    "users_failed": 1,
+    "users_success": 4,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
