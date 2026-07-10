@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-10T00:07:16.401387+00:00",
+  "fetched_at": "2026-07-10T04:54:06.286405+00:00",
   "total": 12,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2075368342014099576",
+      "id": "tweet_elonmusk_2075403875410928124",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 09 Jul 2026 23:55:45 GMT",
-      "content": "Grok 4.5",
-      "url": "https://x.com/elonmusk/status/2075368342014099576",
-      "tweet_id": "2075368342014099576",
-      "translated": "格罗克4.5"
+      "published_at": "Fri, 10 Jul 2026 02:16:57 GMT",
+      "content": "𝕏 is a great platform for product announcements, especially if done by the CEO directly. Way more interesting to the public than generic press releases. This post by Mark Zuckerberg already received over 12 million views for free!",
+      "url": "https://x.com/elonmusk/status/2075403875410928124",
+      "tweet_id": "2075403875410928124",
+      "translated": "𝕏 是一个很好的产品发布平台，尤其是由首席执行官直接发布时。比一般的新闻稿对公众来说更有趣。马克·扎克伯格的这篇文章已经获得了超过 1200 万次免费浏览！"
     },
     {
-      "id": "tweet_elonmusk_2075228066649985064",
+      "id": "tweet_elonmusk_2075363502441865592",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 09 Jul 2026 14:38:21 GMT",
-      "content": "RT by @elonmusk: Defense is 8% of US government spending. Education 15%! Welfare is 47%!",
-      "url": "https://x.com/elonmusk/status/2075228066649985064",
-      "tweet_id": "2075228066649985064",
-      "translated": "RT @elonmusk：国防开支占美国政府支出的 8%。教育15%！福利是47%！"
+      "published_at": "Thu, 09 Jul 2026 23:36:32 GMT",
+      "content": "RT by @elonmusk: Wally Funk waited 60 years to get to space, and no one ever earned it more. She trained with the Mercury 13 in 1961, out-tested the men, and was told no anyway. She never stopped flying — 19,600 hours, thousands of students, a lifetime of firsts. Five years ago this month, I had the honor of flying with her on New Shepard's first crewed flight. At 82, she was fearless, joyful, and asking to go again before we’d even landed. Her dream took six decades, but it came true. Dreams have no expiration date. Godspeed, Wally.",
+      "url": "https://x.com/elonmusk/status/2075363502441865592",
+      "tweet_id": "2075363502441865592",
+      "translated": "RT @elonmusk：Wally Funk 等了 60 年才进入太空，没有人比他赚得更多。 1961 年，她在水星 13 号上接受训练，在测试中胜过了男子，但最终还是被告知不行。她从未停止过飞行——19,600 小时、数千名学生、一生的第一次。五年前的这个月，我有幸与她一起乘坐新谢泼德号的首次载人飞行。 82 岁的她无所畏惧、充满快乐，甚至在我们落地之前就要求再去一次。她的梦想花了六年的时间，终于实现了。梦想没有保质期。祝你好运，沃利。"
     },
     {
-      "id": "tweet_elonmusk_2075367885438890134",
+      "id": "tweet_elonmusk_2075402626284368071",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 09 Jul 2026 23:53:57 GMT",
-      "content": "Pinned: Starmind https://www.spacex.com/spacexai/starmind#power-generation",
-      "url": "https://x.com/elonmusk/status/2075367885438890134",
-      "tweet_id": "2075367885438890134",
-      "translated": "固定：Starmind https://www.spacex.com/spacexai/starmind#power- Generation"
+      "published_at": "Fri, 10 Jul 2026 02:11:59 GMT",
+      "content": "Starlink can now provide reliable 10Gpbs symmetric send/receive connectivity anywhere in the world",
+      "url": "https://x.com/elonmusk/status/2075402626284368071",
+      "tweet_id": "2075402626284368071",
+      "translated": "Starlink 现在可以在世界任何地方提供可靠的 10Gpbs 对称发送/接收连接"
     },
     {
       "id": "tweet_cz_binance_2075229182003450081",
