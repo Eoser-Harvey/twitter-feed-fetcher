@@ -1,36 +1,45 @@
 {
-  "fetched_at": "2026-07-10T04:54:06.286405+00:00",
+  "fetched_at": "2026-07-10T08:24:55.501771+00:00",
   "total": 12,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2075403875410928124",
+      "id": "tweet_elonmusk_2075491921540034689",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 10 Jul 2026 02:16:57 GMT",
-      "content": "𝕏 is a great platform for product announcements, especially if done by the CEO directly. Way more interesting to the public than generic press releases. This post by Mark Zuckerberg already received over 12 million views for free!",
-      "url": "https://x.com/elonmusk/status/2075403875410928124",
-      "tweet_id": "2075403875410928124",
-      "translated": "𝕏 是一个很好的产品发布平台，尤其是由首席执行官直接发布时。比一般的新闻稿对公众来说更有趣。马克·扎克伯格的这篇文章已经获得了超过 1200 万次免费浏览！"
+      "published_at": "Fri, 10 Jul 2026 08:06:49 GMT",
+      "content": "😂",
+      "url": "https://x.com/elonmusk/status/2075491921540034689",
+      "tweet_id": "2075491921540034689"
     },
     {
-      "id": "tweet_elonmusk_2075363502441865592",
+      "id": "tweet_elonmusk_2075100660903879045",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 09 Jul 2026 23:36:32 GMT",
-      "content": "RT by @elonmusk: Wally Funk waited 60 years to get to space, and no one ever earned it more. She trained with the Mercury 13 in 1961, out-tested the men, and was told no anyway. She never stopped flying — 19,600 hours, thousands of students, a lifetime of firsts. Five years ago this month, I had the honor of flying with her on New Shepard's first crewed flight. At 82, she was fearless, joyful, and asking to go again before we’d even landed. Her dream took six decades, but it came true. Dreams have no expiration date. Godspeed, Wally.",
-      "url": "https://x.com/elonmusk/status/2075363502441865592",
-      "tweet_id": "2075363502441865592",
-      "translated": "RT @elonmusk：Wally Funk 等了 60 年才进入太空，没有人比他赚得更多。 1961 年，她在水星 13 号上接受训练，在测试中胜过了男子，但最终还是被告知不行。她从未停止过飞行——19,600 小时、数千名学生、一生的第一次。五年前的这个月，我有幸与她一起乘坐新谢泼德号的首次载人飞行。 82 岁的她无所畏惧、充满快乐，甚至在我们落地之前就要求再去一次。她的梦想花了六年的时间，终于实现了。梦想没有保质期。祝你好运，沃利。"
+      "published_at": "Thu, 09 Jul 2026 06:12:05 GMT",
+      "content": "RT by @elonmusk: i tried tesla full self driving over the weekend. it’s magical. can’t believe it got that good without it being a bigger deal.",
+      "url": "https://x.com/elonmusk/status/2075100660903879045",
+      "tweet_id": "2075100660903879045",
+      "translated": "RT @elonmusk：周末我尝试了特斯拉全自动驾驶。这很神奇。不敢相信它会这么好，而不是一件大事。"
     },
     {
-      "id": "tweet_elonmusk_2075402626284368071",
+      "id": "tweet_elonmusk_2075480598617927810",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 10 Jul 2026 02:11:59 GMT",
-      "content": "Starlink can now provide reliable 10Gpbs symmetric send/receive connectivity anywhere in the world",
-      "url": "https://x.com/elonmusk/status/2075402626284368071",
-      "tweet_id": "2075402626284368071",
-      "translated": "Starlink 现在可以在世界任何地方提供可靠的 10Gpbs 对称发送/接收连接"
+      "published_at": "Fri, 10 Jul 2026 07:21:49 GMT",
+      "content": "RT by @elonmusk: GAVIN BAKER: “Tesla and Elon have done more to decarbonize the world than all environmental activists combined.”",
+      "url": "https://x.com/elonmusk/status/2075480598617927810",
+      "tweet_id": "2075480598617927810",
+      "translated": "RT @elonmusk：GAVIN BAKER：“特斯拉和埃隆为世界脱碳所做的努力比所有环保活动家加起来还要多。”"
+    },
+    {
+      "id": "tweet_cz_binance_2075185194617954446",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 09 Jul 2026 11:48:00 GMT",
+      "content": "RT by @cz_binance: Day 269 : 💚💚💚 One class a day - Giggle Academy worldwide. @cz_binance @NiannianCTO_BNB",
+      "url": "https://x.com/cz_binance/status/2075185194617954446",
+      "tweet_id": "2075185194617954446",
+      "translated": "RT @cz_binance：第 269 天：💚💚💚 每天一堂课 - 全球 Giggle 学院。 @cz_binance @NiannianCTO_BNB"
     },
     {
       "id": "tweet_cz_binance_2075229182003450081",
@@ -50,16 +59,6 @@
       "content": "👀",
       "url": "https://x.com/cz_binance/status/2075228799302566027",
       "tweet_id": "2075228799302566027"
-    },
-    {
-      "id": "tweet_cz_binance_2075207091640213669",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 09 Jul 2026 13:15:00 GMT",
-      "content": "Good summary!",
-      "url": "https://x.com/cz_binance/status/2075207091640213669",
-      "tweet_id": "2075207091640213669",
-      "translated": "总结得好！"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
