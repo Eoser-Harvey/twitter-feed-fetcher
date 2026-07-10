@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-09T22:24:28.948547+00:00",
+  "fetched_at": "2026-07-10T00:07:16.401387+00:00",
   "total": 12,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2075283356439257417",
+      "id": "tweet_elonmusk_2075368342014099576",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 09 Jul 2026 18:18:03 GMT",
-      "content": "Try @Grok 4.5!",
-      "url": "https://x.com/elonmusk/status/2075283356439257417",
-      "tweet_id": "2075283356439257417",
-      "translated": "尝试@Grok 4.5！"
+      "published_at": "Thu, 09 Jul 2026 23:55:45 GMT",
+      "content": "Grok 4.5",
+      "url": "https://x.com/elonmusk/status/2075368342014099576",
+      "tweet_id": "2075368342014099576",
+      "translated": "格罗克4.5"
     },
     {
-      "id": "tweet_elonmusk_2075252689529983026",
+      "id": "tweet_elonmusk_2075228066649985064",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 09 Jul 2026 16:16:12 GMT",
-      "content": "RT by @elonmusk: The upcoming wave of SpaceXAI Grok updates is insane Grok 4.5: The 1.5T foundation model is being refined almost daily, and its context window is expected to jump to 1M tokens, possibly as soon as next week Next model: The 2T foundation model is expected to finish training this month and become available to customers next month Grok Build: The harness is getting refinements almost every day based on user feedback. New features, fixes, and workflow improvements are landing at ridiculous speed Inference: SpaceXAI is working on internally developed C/C++ inference mapped directly to GB300 hardware, which could double speed or more Agentic Imagine: Grok will be able to call Imagine as a tool in agentic mode for image and video generation That is going to be huge for game developers, designers, builders, and anyone creating interactive worlds But the biggest thing is this: Grok is being built for real-world engineering Grok 4.5 early beta access was given to Tesla and SpaceX engineers, with feedback coming from real engineering teams solving real-world problems Next month’s release is expected to be another massive step-change improvement as SpaceXAI closes the loop on real-world engineering problems at Tesla, SpaceX, Neuralink, and Boring Company And from now through the end of 2026, Elon said a new from-scratch foundation model is expected to ship every month",
-      "url": "https://x.com/elonmusk/status/2075252689529983026",
-      "tweet_id": "2075252689529983026",
-      "translated": "RT @elonmusk：即将到来的 SpaceXAI Grok 更新浪潮非常疯狂 Grok 4.5：几乎每天都在完善 1.5T 基础模型，其上下文窗口预计最快将在下周跃升至 100 万个代币 下一个模型：预计 2T 基础模型将于本月完成训练，下个月向客户提供 Grok Build：该工具几乎每天都会根据用户反馈进行改进。新功能、修复和工作流程改进正在以惊人的速度落地 推理：SpaceXAI 正在开发直接映射到 GB300 硬件的内部开发的 C/C++ 推理，这可以使速度加倍或更高 Agentic Imagine：Grok 将能够在代理模式下调用 Imagine 作为图像和视频生成工具 这对于游戏开发人员、设计师、构建者和任何创建交互式世界的人来说将是巨大的 但最重要的是：Grok 正在为现实世界工程而构建 Grok 4.5 早期测试版特斯拉和 SpaceX 的工程师获得了访问权限，反馈来自解决现实世界问题的真实工程团队。下个月的发布预计将是另一个巨大的阶跃式改进，因为 SpaceXAI 关闭了特斯拉、SpaceX、Neuralink 和 Boring Company 现实世界工程问题的循环。埃隆表示，从现在到 2026 年底，预计每个月都会推出一个新的从头开始的基础模型"
+      "published_at": "Thu, 09 Jul 2026 14:38:21 GMT",
+      "content": "RT by @elonmusk: Defense is 8% of US government spending. Education 15%! Welfare is 47%!",
+      "url": "https://x.com/elonmusk/status/2075228066649985064",
+      "tweet_id": "2075228066649985064",
+      "translated": "RT @elonmusk：国防开支占美国政府支出的 8%。教育15%！福利是47%！"
     },
     {
-      "id": "tweet_elonmusk_2075261123264164276",
+      "id": "tweet_elonmusk_2075367885438890134",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 09 Jul 2026 16:49:42 GMT",
-      "content": "Image",
-      "url": "https://x.com/elonmusk/status/2075261123264164276",
-      "tweet_id": "2075261123264164276",
-      "translated": "图像"
+      "published_at": "Thu, 09 Jul 2026 23:53:57 GMT",
+      "content": "Pinned: Starmind https://www.spacex.com/spacexai/starmind#power-generation",
+      "url": "https://x.com/elonmusk/status/2075367885438890134",
+      "tweet_id": "2075367885438890134",
+      "translated": "固定：Starmind https://www.spacex.com/spacexai/starmind#power- Generation"
     },
     {
       "id": "tweet_cz_binance_2075229182003450081",
@@ -125,6 +125,6 @@
   "stats": {
     "users_success": 4,
     "users_failed": 0,
-    "nitter_healthy": 8
+    "nitter_healthy": 10
   }
 }
