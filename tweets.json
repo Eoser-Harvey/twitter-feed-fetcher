@@ -1,35 +1,36 @@
 {
-  "fetched_at": "2026-07-10T14:31:38.681934+00:00",
+  "fetched_at": "2026-07-10T16:58:13.961063+00:00",
   "total": 12,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2075491921540034689",
+      "id": "tweet_elonmusk_2075611819872223385",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 10 Jul 2026 08:06:49 GMT",
-      "content": "😂",
-      "url": "https://x.com/elonmusk/status/2075491921540034689",
-      "tweet_id": "2075491921540034689"
+      "published_at": "Fri, 10 Jul 2026 16:03:15 GMT",
+      "content": "Grok is closing the loop on real-world use cases",
+      "url": "https://x.com/elonmusk/status/2075611819872223385",
+      "tweet_id": "2075611819872223385",
+      "translated": "Grok 正在关闭现实世界用例的循环"
     },
     {
-      "id": "tweet_elonmusk_2075100660903879045",
+      "id": "tweet_elonmusk_2075608188376772644",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 09 Jul 2026 06:12:05 GMT",
-      "content": "RT by @elonmusk: i tried tesla full self driving over the weekend. it’s magical. can’t believe it got that good without it being a bigger deal.",
-      "url": "https://x.com/elonmusk/status/2075100660903879045",
-      "tweet_id": "2075100660903879045",
-      "translated": "RT @elonmusk：周末我尝试了特斯拉全自动驾驶。这很神奇。不敢相信它会这么好，而不是一件大事。"
+      "published_at": "Fri, 10 Jul 2026 15:48:49 GMT",
+      "content": "True",
+      "url": "https://x.com/elonmusk/status/2075608188376772644",
+      "tweet_id": "2075608188376772644",
+      "translated": "真的"
     },
     {
-      "id": "tweet_elonmusk_2075480598617927810",
+      "id": "tweet_elonmusk_2075607754429854036",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 10 Jul 2026 07:21:49 GMT",
-      "content": "RT by @elonmusk: GAVIN BAKER: “Tesla and Elon have done more to decarbonize the world than all environmental activists combined.”",
-      "url": "https://x.com/elonmusk/status/2075480598617927810",
-      "tweet_id": "2075480598617927810",
-      "translated": "RT @elonmusk：GAVIN BAKER：“特斯拉和埃隆为世界脱碳所做的努力比所有环保活动家加起来还要多。”"
+      "published_at": "Fri, 10 Jul 2026 15:47:06 GMT",
+      "content": "Grok Build",
+      "url": "https://x.com/elonmusk/status/2075607754429854036",
+      "tweet_id": "2075607754429854036",
+      "translated": "格罗克构建"
     },
     {
       "id": "tweet_cz_binance_2075185194617954446",
@@ -91,6 +92,26 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2075611260771852590",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 10 Jul 2026 16:01:02 GMT",
+      "content": "Sk Hynix is now trading under $SKHYV! It's now up an insane 16%. I wonder how Sk Hynix over in Korea is going to react on Monday.",
+      "url": "https://x.com/aleabitoreddit/status/2075611260771852590",
+      "tweet_id": "2075611260771852590",
+      "translated": "Sk Hynix 现在以 $SKHYV 进行交易！现在已经疯狂上涨了 16%。我想知道韩国的SK海力​​士周一会有何反应。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2075590371531493729",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 10 Jul 2026 14:38:01 GMT",
+      "content": "Why do I have this weird feeling the main reason retail is excited SK Hynix NASDAQ listing. Is because they can do degen option calls instead of individual stock purchases.",
+      "url": "https://x.com/aleabitoreddit/status/2075590371531493729",
+      "tweet_id": "2075590371531493729",
+      "translated": "为什么我有这种奇怪的感觉，主要原因是散户兴奋SK海力士纳斯达克上市。是因为他们可以进行 degen 期权看涨而不是购买个股。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2075557588159058076",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -99,31 +120,11 @@
       "url": "https://x.com/aleabitoreddit/status/2075557588159058076",
       "tweet_id": "2075557588159058076",
       "translated": "三菱汽车加入机器人竞赛，到 2027 年部署人形工人。与日本机器人公司 Highlanders 合作。 - Agility $CCXI x Foxconn、Toyota - Apptronik x $JBL、Mercedes - Highlanders x Mitsubishi - Figure × BMW - Boston Dynamics x Hyundai（子公司） - Optimus x Tesla（内部） - Rainbow Robotics x Samsung（子公司） 我不知道是否有很多人形公司与主要汽车制造商/制造商玩伙伴关系的模式。如果它们还没有被垂直整合。那么像 UBTech/AgiBot/Unitree 这样的中国厂商似乎并不关心中国的各种汽车厂商，也不与他们合作。好奇这种趋势如何发挥作用......"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2075539824589860866",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 10 Jul 2026 11:17:10 GMT",
-      "content": "The \"Mythical Golden Egg Dragon Candle\" predicted the $SIVE rally today. If you look at the Golden Egg hatching indicator I drew, you can tell it predicts Sivers CEO buying on the open market a day later. Do you guys think it's time I should sell courses on TA?",
-      "url": "https://x.com/aleabitoreddit/status/2075539824589860866",
-      "tweet_id": "2075539824589860866",
-      "translated": "“神话金蛋龙蜡烛”预测了今天 $SIVE 的上涨。如果您查看我绘制的金蛋孵化指标，您可以看出它预测 Sivers 首席执行官将在一天后在公开市场上买入。你们认为我是时候在 TA 上出售课程了吗？"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2075496116481884524",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 10 Jul 2026 08:23:29 GMT",
-      "content": "Yep, it’s interesting to witness retail capitulation. After we got Bloomberg Meta compute article cleared up by their internal memo. And the 2 reports on delays were denied by Nvidia. Both of which caused the selloff in the first place... So Photonics / Nvidia’s roadmap hasn’t fundamentally changed: $LITE is still completely sold out for the next 2 years and likely into 2029. $SIVE is about to volume ramp with GlobalFoundries, Jabil, Poet, Ayar, and other hyperscaler suppliers. $TSM COUPE and their TW suppliers from Shunsin to Foci aren’t randomly disappearing into the void. $AAOI and their $471m/month h2 2027 revenue projections haven’t changed. $IQE and their epiwafer contracts with Macom and Tower Semi haven’t disappeared. $AXTI ownership of 40% of the InP substrate supply chains haven’t suddenly disappeared. As with any theme from Rocketlab + Space sector 50% drop back in 2025. Or Nebius + Neocloud 50% drop entering 2026. Or the Samsung/SK Hynix crash from Iran War LNG/Helium/Oil fears few months ago. Volatility from indiscriminate thematic selloffs isn’t typically representative of individual company fundamentals. Retail tends to build conviction over price movements and imaginary charts, then lose that when a stock drops. And institutions are probably placing limit orders to capitalize on that. Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth.",
-      "url": "https://x.com/aleabitoreddit/status/2075496116481884524",
-      "tweet_id": "2075496116481884524",
-      "translated": "是的，目睹零售业的投降是很有趣的。在我们收到彭博社元计算文章后，他们的内部备忘录澄清了这一点。而这 2 份关于延迟的报道都被 Nvidia 否认了。这两个因素首先导致了抛售……所以 Photonics / Nvidia 的路线图并没有从根本上改变：$LITE 在未来 2 年（甚至可能到 2029 年）仍然完全售空。$SIVE 即将与 GlobalFoundries、Jabil、Poet、Ayar 和其他超大规模供应商一起提高产量。 $TSM COUPE 及其从 Shunsin 到 Foci 的台湾供应商并不是随机消失的。 $AAOI 及其 2027 年下半年 4.71 亿美元/月的收入预测没有改变。 $IQE 以及他们与 Macom 和 Tower Semi 的外延片合同并没有消失。 $AXTI 拥有 40% InP 衬底供应链的所有权并没有突然消失。与 Rocketlab + 太空领域的任何主题一样，到 2025 年会下降 50%。或者进入 2026 年 Nebius + Neocloud 会下降 50%。或者几个月前因伊朗战争液化天然气/氦气/石油担忧而导致的三星/SK 海力士崩溃。不加选择的主题抛售带来的波动通常不能代表个别公司的基本面。零售业往往会对价格走势和想象的图表建立信心，但当股票下跌时就会失去信心。机构可能会下限价单来利用这一点。信念不应与某一天股票的报价挂钩，而应与长期收入或营业收入增长挂钩。"
     }
   ],
   "stats": {
     "users_success": 4,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
