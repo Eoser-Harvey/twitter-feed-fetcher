@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-10T20:26:03.424499+00:00",
+  "fetched_at": "2026-07-10T22:06:01.127193+00:00",
   "total": 12,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2075687836091625704",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 10 Jul 2026 21:05:19 GMT",
+      "content": "Try Grok 4.5 in Perplexity",
+      "url": "https://x.com/elonmusk/status/2075687836091625704",
+      "tweet_id": "2075687836091625704",
+      "translated": "在 Perplexity 中尝试 Grok 4.5"
+    },
     {
       "id": "tweet_elonmusk_2075611819872223385",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2075608188376772644",
       "tweet_id": "2075608188376772644",
       "translated": "真的"
-    },
-    {
-      "id": "tweet_elonmusk_2075607754429854036",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 10 Jul 2026 15:47:06 GMT",
-      "content": "Grok Build",
-      "url": "https://x.com/elonmusk/status/2075607754429854036",
-      "tweet_id": "2075607754429854036",
-      "translated": "格罗克构建"
     },
     {
       "id": "tweet_cz_binance_2075185194617954446",
