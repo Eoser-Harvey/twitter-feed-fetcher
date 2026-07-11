@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-11T03:34:42.211489+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-11T06:17:00.780495+00:00",
+  "total": 18,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2075753054280831365",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 11 Jul 2026 01:24:28 GMT",
-      "content": "If solar power in space is harnessed for useful work at scale, the value of that will far exceed the Earth economy, because all of Earth civilization uses much less than a trillionth of our Sun’s power",
-      "url": "https://x.com/elonmusk/status/2075753054280831365",
-      "tweet_id": "2075753054280831365",
-      "translated": "如果大规模利用太空中的太阳能进行有用的工作，其价值将远远超过地球经济，因为整个地球文明使用的能量远少于太阳能量的万亿分之一"
-    },
-    {
-      "id": "tweet_elonmusk_2075751261396206004",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 11 Jul 2026 01:17:20 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2075751261396206004",
-      "tweet_id": "2075751261396206004",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_elonmusk_2075750805580214477",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 11 Jul 2026 01:15:32 GMT",
-      "content": "Grok Imagine makes beautiful art",
-      "url": "https://x.com/elonmusk/status/2075750805580214477",
-      "tweet_id": "2075750805580214477",
-      "translated": "Grok Imagine 创造美丽的艺术"
-    },
     {
       "id": "tweet_cz_binance_2075185194617954446",
       "username": "cz_binance",
@@ -60,36 +30,6 @@
       "content": "👀",
       "url": "https://x.com/cz_binance/status/2075228799302566027",
       "tweet_id": "2075228799302566027"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432",
-      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2068370500334637542",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
-      "content": "RT by @realDonaldTrump: POLL…",
-      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
-      "tweet_id": "2068370500334637542",
-      "translated": "RT @realDonaldTrump：投票……"
     },
     {
       "id": "tweet_aleabitoreddit_2075645547978084371",
@@ -122,6 +62,15 @@
       "translated": "Sk Hynix 现在以 $SKHYV 进行交易！现在已经疯狂上涨了 16%。我想知道韩国的SK海力​​士周一会有何反应。"
     },
     {
+      "id": "tweet_qinbafrank_2075825931214880810",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sat, 11 Jul 2026 06:14:03 GMT",
+      "content": "8号Coinbase刚把Grvt添加到现货路线图里，昨天Gvrt也上币安booster活动了。看起来TGE直通两大所应该是确定的了，币安合约应该可期，就是不知道币安现货能不能一起上了。",
+      "url": "https://x.com/qinbafrank/status/2075825931214880810",
+      "tweet_id": "2075825931214880810"
+    },
+    {
       "id": "tweet_qinbafrank_2075618224486703608",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -138,15 +87,6 @@
       "content": "美元流动还在恢复，稳定币发行量在缓慢向上抬头。相比一周前银行准备金回升到3.13万亿美金，稳定币发行量开始缓慢往上抬，看ETF净流入后面是不是也能慢慢恢复。看起来大饼有望继续📈，一周前流动性内容在这里https://x.com/qinbafrank/status/2072958255970517402?s=46&t=k6rimWsEbo2D2tXolYcM-A 之前说为什么关注美元流动性，美元流动性跟大饼的关系之前这里有详细聊过https://x.com/qinbafrank/status/2029816341361025505?s=46&t=k6rimWsEbo2D2tXolYcM-A",
       "url": "https://x.com/qinbafrank/status/2075592732006101357",
       "tweet_id": "2075592732006101357"
-    },
-    {
-      "id": "tweet_qinbafrank_2075543149821464874",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 10 Jul 2026 11:30:23 GMT",
-      "content": "再回头看是不是确实如此：Circle这只票其业务体量、创始及管理团队的进取心、以及稳定币/RWA/agent支付三个叙事叠加，是其下方有安全边际的原因，有安全边际就意味着跌多了超跌了，其实可以进的。 但未来时不时出现的潜在新竞争对手就是市场会不断FUD它的根源。除非未来它能建立其在合规稳定币领域足够的支配地位。",
-      "url": "https://x.com/qinbafrank/status/2075543149821464874",
-      "tweet_id": "2075543149821464874"
     },
     {
       "id": "tweet_xiaomustock_2075601078062879107",
@@ -231,8 +171,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 9
+    "users_success": 6,
+    "users_failed": 2,
+    "nitter_healthy": 10
   }
 }
