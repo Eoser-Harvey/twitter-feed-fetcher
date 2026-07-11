@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-11T19:07:38.167376+00:00",
+  "fetched_at": "2026-07-11T20:52:04.826508+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2076038090947166516",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 11 Jul 2026 20:17:06 GMT",
+      "content": "Tesla self-driving enables safer mobility for senior citizens",
+      "url": "https://x.com/elonmusk/status/2076038090947166516",
+      "tweet_id": "2076038090947166516",
+      "translated": "特斯拉自动驾驶为老年人提供更安全的出行"
+    },
     {
       "id": "tweet_elonmusk_2075643190334705885",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2075888291824746682",
       "tweet_id": "2075888291824746682",
       "translated": "RT @elonmusk：突发事件：星链为亚美尼亚提供了新的紧急连接支持。 🇦🇲 • 亚美尼亚内务部救援服务部门将额外部署 56 个套件，以在自然灾害和紧急情况下提供连接。 • 110 个 Starlink 终端已连接亚美尼亚偏远学校的数千名学生。"
-    },
-    {
-      "id": "tweet_elonmusk_2075926721337991455",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 11 Jul 2026 12:54:33 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2075926721337991455",
-      "tweet_id": "2075926721337991455",
-      "translated": "视频"
     },
     {
       "id": "tweet_cz_binance_2075185194617954446",
@@ -92,6 +92,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2076030743655109063",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sat, 11 Jul 2026 19:47:54 GMT",
+      "content": "Apparently, Korean Beauty was where all the alpha is. APR (278470.KS) is up 529% over the past 2Y, wildly outperforming both $NVDA and $INTC. Every female I know talks about their \"Medicube\" stick, then buying products... where you put a whole salmon's family tree on your face for better skin. The world's female population creates a bigger structural demand than hyperscalers for memory or lasers? Should have known...",
+      "url": "https://x.com/aleabitoreddit/status/2076030743655109063",
+      "tweet_id": "2076030743655109063",
+      "translated": "显然，韩国美女是所有阿尔法所在的地方。 APR (278470.KS) 在过去两年中上涨了 529%，远远超过 $NVDA 和 $INTC。我认识的每一位女性都会谈论她们的“Medicube”棒，然后购买产品……将一整条鲑鱼的家谱放在脸上以获得更好的皮肤。世界女性人口对内存或激光器的结构性需求比超大规模企业更大？应该知道..."
+    },
+    {
       "id": "tweet_aleabitoreddit_2075894311741440041",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,16 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2075645547978084371",
       "tweet_id": "2075645547978084371",
       "translated": "关于 $AMZN RNG + OpenAI 的 MRC 和 VCSEL。这似乎是对 B. Riley 的 $AAOI 销售报告的间接回应，该报告涉及“扁平化网络并削减收发器 TAM 40-50%”的优化。 Rosenblatt TLDR：他们已经为此进行了建模，尽管每个 XPU 可能使用更少的收发器。 XPU 的数量增长如此之快，光学总需求仍将上升。关于 CPO 的激光器架构：VCSEL 可作为 NPO/短距离的可靠桥梁。对于 CPO 来说，理想的架构是 UHP CW，而不是其他激光器，并引用了 Broadcom 的说法。这恰好支持了我的核心 $SIVE 论点。我觉得罗森布拉特和我在很多事情上都有相同的观点，我喜欢他们的行事方式。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2075634064518955297",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 10 Jul 2026 17:31:39 GMT",
-      "content": "Rosenblatt on recent optical sector weakness from $AAOI to $LITE: \"Stocks in the Optical sector have traded poorly for the last 1-2 months\" due to CPO delay reports and China capacity scares. \"We think short sellers... do not actually strongly believe in the thesis.\" Multiple short sellers told them they will likely close their positions... late July and early August. Further, they say they plan to buy Optical stocks in 2027 for the scale up CPO opportunity. Hilarious report on laser weakness, read is very positive for $SIVEF, $COHR, and others moving forward. I've been long on CPO sector, but seems like institutions want entry points, just a bit later on.",
-      "url": "https://x.com/aleabitoreddit/status/2075634064518955297",
-      "tweet_id": "2075634064518955297",
-      "translated": "Rosenblatt 就近期光学行业从 AAOI 美元跌至 LITE 美元的情况表示：由于 CPO 延迟报告和中国产能恐慌，“过去 1-2 个月光学行业的股票交易不佳”。 “我们认为卖空者......实际上并不坚信这一论点。”多个卖空者告诉他们，他们可能会平仓……七月底和八月初。此外，他们表示计划在 2027 年购买光学股票，以获得扩大 CPO 规模的机会。关于激光弱点的搞笑报告，阅读后对 $SIVEF、$COHR 和其他公司的前进非常积极。我一直在做多 CPO 行业，但似乎机构想要切入点，只是稍后。"
     },
     {
       "id": "tweet_qinbafrank_2075865324520640751",
