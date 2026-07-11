@@ -28,6 +28,9 @@ TARGET_USERS = [
     {"username": "realDonaldTrump", "display_name": "特朗普"},
     {"username": "aleabitoreddit", "display_name": "Serenity (白毛股神)"},
     {"username": "qinbafrank", "display_name": "秦巴Frank"},
+    {"username": "xiaomustock", "display_name": "小米股"},
+    {"username": "xingpt", "display_name": "星Prompt"},
+    {"username": "hibtc37", "display_name": "HiBTC"},
 ]
 TWEETS_PER_USER = 3
 RETRY_DELAY_SECONDS = 15       # Wait between retry attempts
