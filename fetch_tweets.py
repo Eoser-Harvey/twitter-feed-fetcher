@@ -27,6 +27,7 @@ TARGET_USERS = [
     {"username": "cz_binance", "display_name": "CZ (赵长鹏)"},
     {"username": "realDonaldTrump", "display_name": "特朗普"},
     {"username": "aleabitoreddit", "display_name": "Serenity (白毛股神)"},
+    {"username": "qinbafrank", "display_name": "秦巴Frank"},
 ]
 TWEETS_PER_USER = 3
 RETRY_DELAY_SECONDS = 15       # Wait between retry attempts
