@@ -1,36 +1,35 @@
 {
-  "fetched_at": "2026-07-10T22:06:01.127193+00:00",
+  "fetched_at": "2026-07-11T00:00:17.668540+00:00",
   "total": 12,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2075687836091625704",
+      "id": "tweet_elonmusk_2075728808359993694",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 10 Jul 2026 21:05:19 GMT",
-      "content": "Try Grok 4.5 in Perplexity",
-      "url": "https://x.com/elonmusk/status/2075687836091625704",
-      "tweet_id": "2075687836091625704",
-      "translated": "在 Perplexity 中尝试 Grok 4.5"
+      "published_at": "Fri, 10 Jul 2026 23:48:07 GMT",
+      "content": "🎯",
+      "url": "https://x.com/elonmusk/status/2075728808359993694",
+      "tweet_id": "2075728808359993694"
     },
     {
-      "id": "tweet_elonmusk_2075611819872223385",
+      "id": "tweet_elonmusk_2075728739615281398",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 10 Jul 2026 16:03:15 GMT",
-      "content": "Grok is closing the loop on real-world use cases",
-      "url": "https://x.com/elonmusk/status/2075611819872223385",
-      "tweet_id": "2075611819872223385",
-      "translated": "Grok 正在关闭现实世界用例的循环"
+      "published_at": "Fri, 10 Jul 2026 23:47:51 GMT",
+      "content": "The most important thing about Grok Build and the 4.5 release is that it is genuinely so useful for real-world work",
+      "url": "https://x.com/elonmusk/status/2075728739615281398",
+      "tweet_id": "2075728739615281398",
+      "translated": "Grok Build 和 4.5 版本最重要的一点是它对于现实世界的工作确实非常有用"
     },
     {
-      "id": "tweet_elonmusk_2075608188376772644",
+      "id": "tweet_elonmusk_2075695525488382420",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 10 Jul 2026 15:48:49 GMT",
-      "content": "True",
-      "url": "https://x.com/elonmusk/status/2075608188376772644",
-      "tweet_id": "2075608188376772644",
-      "translated": "真的"
+      "published_at": "Fri, 10 Jul 2026 21:35:52 GMT",
+      "content": "RT by @elonmusk: Built with two prompts and /goal!",
+      "url": "https://x.com/elonmusk/status/2075695525488382420",
+      "tweet_id": "2075695525488382420",
+      "translated": "RT by @elonmusk：用两个提示和 /goal 构建！"
     },
     {
       "id": "tweet_cz_binance_2075185194617954446",
