@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-11T06:17:00.780495+00:00",
-  "total": 18,
+  "fetched_at": "2026-07-11T08:50:20.848816+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2075818822544601377",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 11 Jul 2026 05:45:48 GMT",
+      "content": "Falcon Rising",
+      "url": "https://x.com/elonmusk/status/2075818822544601377",
+      "tweet_id": "2075818822544601377",
+      "translated": "猎鹰崛起"
+    },
+    {
+      "id": "tweet_elonmusk_2075814989953114259",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 11 Jul 2026 05:30:35 GMT",
+      "content": "Grok places second after Fable on real-world software engineering",
+      "url": "https://x.com/elonmusk/status/2075814989953114259",
+      "tweet_id": "2075814989953114259",
+      "translated": "Grok 在现实世界软件工程方面仅次于 Fable 排名第二"
+    },
+    {
+      "id": "tweet_elonmusk_2075814427698344032",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 11 Jul 2026 05:28:20 GMT",
+      "content": "Grok 4.5 Review",
+      "url": "https://x.com/elonmusk/status/2075814427698344032",
+      "tweet_id": "2075814427698344032",
+      "translated": "Grok 4.5 回顾"
+    },
     {
       "id": "tweet_cz_binance_2075185194617954446",
       "username": "cz_binance",
@@ -30,6 +60,36 @@
       "content": "👀",
       "url": "https://x.com/cz_binance/status/2075228799302566027",
       "tweet_id": "2075228799302566027"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432",
+      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2068370500334637542",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
+      "content": "RT by @realDonaldTrump: POLL…",
+      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
+      "tweet_id": "2068370500334637542",
+      "translated": "RT @realDonaldTrump：投票……"
     },
     {
       "id": "tweet_aleabitoreddit_2075645547978084371",
@@ -62,6 +122,15 @@
       "translated": "Sk Hynix 现在以 $SKHYV 进行交易！现在已经疯狂上涨了 16%。我想知道韩国的SK海力​​士周一会有何反应。"
     },
     {
+      "id": "tweet_qinbafrank_2075840247716540630",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sat, 11 Jul 2026 07:10:56 GMT",
+      "content": "海力士董事长说要推行内存即服务模式可行么？美股有类似模式的上市公司是哪几家？昨晚SK海力士ADR美股上市，崔泰源接受采访时提到，海力士正在研究“内存即服务”（Memory-as-a-Service，简称MaaS）模式。这个模式核心是，客户未来可能不再一次性购买内存芯片，而是按照使用量、容量或使用期限，向SK海力士租用内存资源。这一模式旨在应对内存供应紧张、采购成本较高，以及客户希望避免巨额前期硬件投入的现实情况。 其实存储行业已有成熟的服务化案例。Everpure（原Pure Storage，股票代码：P）和NetApp（股票代码：NTAP）两家上市公司，早已将存储系统打包成订阅服务模式。 1、Everpure和NetApp的存储服务业务模式 这两家业务模式属于企业级存储即服务（Storage as a Service，STaaS），已运行多年并在全球企业数据中心和混合云环境中得到广泛应用。它们的核心是将存储硬件、软件和管理服务整合为订阅产品，让客户以运营支出（OpEx）方式使用存储资源，而非一次性资本支出（CapEx）购买设备。 1）Everpure 推出 Evergreen//One 和 Evergreen//Flex 等真正的 Storage as a Service（STaaS）订阅模式。客户按使用量付费，类似公有云的灵活性，同时保留 on-prem 控制权。还包括数据服务、混合云支持和持续创新订阅（非破坏性升级）。 2）NetApp 通过 NetApp Keystone 提供 pay-as-you-go 的存储即服务（STaaS），支持 block/file/object 统一平台。云端有 Azure NetApp Files、Amazon FSx for NetApp ONTAP 等原生服务。还包括专业服务、托管服务和订阅模式。 这两家公司的模式共同点在于：将复杂的存储基础设施转化为可预测的订阅服务，客户无需管理底层硬件细节，可按需扩展，并享受厂商提供的维护与升级支持。它们已在企业环境中证明了商业可行性，形成了稳定的 recurring 收入来源。 2、海力士提出的MaaS与Everpure、NetApp的STaaS在理念上有相似之处， 都是从“一次性硬件销售”转向“订阅/按使用付费”的服务化转型，但存在本质差异： 1）层级不同：Everpure/NetApp卖的是“存储系统/解决方案”（硬件阵列+软件+管理），是内存的上层应用； 海力士MaaS针对的是“底层内存芯片/容量”本身。更接近“硅即服务”（silicon as a service）的概念。 2）实现难度：STaaS已成熟（硬件可控、软件定义存储成熟）； MaaS对芯片商极具挑战性（内存需与计算紧密耦合，尤其是HBM集成在GPU上，拆分/池化复杂）。 3）技术壁垒：存储服务依赖厂商自有阵列和软件；内存服务需要内存池化技术（CXL等新兴技术）、虚拟化/软件定义内存，以及大规模基础设施支持。 4）客户对象与价值链：前者直接服务企业IT/数据中心；后者可能需通过云巨头（AWS、Azure等）或数据中心运营商间接提供，或与Nvidia等生态合作。 3、短期（1-3年）难度很大，几乎不可行；中长期（5年以上）有一定可行性，但不会完全取代购买模式，而是作为补充模式存在。 前面聊到毕竟内存不是独立“存储设备”，而是服务器/GPU的紧密集成组件。HBM直接焊在GPU上或通过先进封装。要“租内存”需解决：如何物理/虚拟分配容量？如何保障性能/隔离？如何计费和SLA？目前内存池化技术尚不成熟，难以像租存储阵列那样简单。 而且现有的客户通常向服务器OEM（Dell、HPE）或云服务商买整机。海力士直接租内存会打破现有链条，需与Nvidia、云巨头深度合作（他们可能更想自己做类似服务）。 不过现在内存池化（CXL技术）、计算-存储分离、软件定义基础设都在进一步迭代，未来也可能实现“内存容量按需分配”。 简单说成熟的存储服务已证明了订阅模式的商业价值，但组件（内存就是组件）级服务的创新则需要更多技术突破和生态协同。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2075840247716540630",
+      "tweet_id": "2075840247716540630"
+    },
+    {
       "id": "tweet_qinbafrank_2075825931214880810",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -78,15 +147,6 @@
       "content": "SemiAnalysis说Meta超级智能部门（MSL）在未来六个月内在前沿AI领域超越谷歌。一个思考：Muse Spark1.1的推出，算是让Meta初步补上在闭源大模型的差距，现在Meta也要搞云业务出租算力、也在搞自研芯片，再加自身的社交平遥和分发能力，相当于Meta也是初步构建了跟谷歌一样的全栈AI生态。这是不是意味着市场能给全栈AI的谷歌27倍的动态市盈率，那么Meta是不是也有可能追上股份的动态市盈率水平？ 近期关于Meta的推文： 7月4号这里https://x.com/qinbafrank/status/2073249685780000833?s=46&t=k6rimWsEbo2D2tXolYcM-A 聊到Meta在AI上还是很有机会的 7月3号这里https://x.com/qinbafrank/status/2072902811675922742?s=46聊到:Meta不会退出前沿闭源大模型的追赶，搞云业务也是顺理成章。",
       "url": "https://x.com/qinbafrank/status/2075618224486703608",
       "tweet_id": "2075618224486703608"
-    },
-    {
-      "id": "tweet_qinbafrank_2075592732006101357",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 10 Jul 2026 14:47:24 GMT",
-      "content": "美元流动还在恢复，稳定币发行量在缓慢向上抬头。相比一周前银行准备金回升到3.13万亿美金，稳定币发行量开始缓慢往上抬，看ETF净流入后面是不是也能慢慢恢复。看起来大饼有望继续📈，一周前流动性内容在这里https://x.com/qinbafrank/status/2072958255970517402?s=46&t=k6rimWsEbo2D2tXolYcM-A 之前说为什么关注美元流动性，美元流动性跟大饼的关系之前这里有详细聊过https://x.com/qinbafrank/status/2029816341361025505?s=46&t=k6rimWsEbo2D2tXolYcM-A",
-      "url": "https://x.com/qinbafrank/status/2075592732006101357",
-      "tweet_id": "2075592732006101357"
     },
     {
       "id": "tweet_xiaomustock_2075601078062879107",
@@ -116,6 +176,15 @@
       "tweet_id": "2075554820401037509"
     },
     {
+      "id": "tweet_xingpt_2075858339637178710",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Sat, 11 Jul 2026 08:22:50 GMT",
+      "content": "推特的流量好像不太鼓励挖掘Alpha，而更鼓励搞抽象，鼓励转发媒体新闻，鼓励炫富和晒大腿。如此，我准备Alpha放会员频道，X转型做媒体搞新闻？",
+      "url": "https://x.com/xingpt/status/2075858339637178710",
+      "tweet_id": "2075858339637178710"
+    },
+    {
       "id": "tweet_xingpt_2075581360438435950",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -132,15 +201,6 @@
       "content": "整体的仓位从半导体和存储降下来了，这波回撤的有点痛苦，周末出一个反思的内容。美股还是新手。痛苦中成长。",
       "url": "https://x.com/xingpt/status/2075579878972559554",
       "tweet_id": "2075579878972559554"
-    },
-    {
-      "id": "tweet_xingpt_2075546226171519213",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Fri, 10 Jul 2026 11:42:36 GMT",
-      "content": "韩国市场的外资相关性系数是亚洲市场最高的，ADR上美国之后也许会有所下降。",
-      "url": "https://x.com/xingpt/status/2075546226171519213",
-      "tweet_id": "2075546226171519213"
     },
     {
       "id": "tweet_hibtc37_2075762760336687359",
@@ -171,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 6,
-    "users_failed": 2,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
