@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-12T06:36:57.968691+00:00",
+  "fetched_at": "2026-07-12T09:04:48.934225+00:00",
   "total": 24,
   "tweets": [
     {
@@ -122,6 +122,15 @@
       "translated": "关于 $AMZN RNG + OpenAI 的 MRC 和 VCSEL。这似乎是对 B. Riley 的 $AAOI 销售报告的间接回应，该报告涉及“扁平化网络并削减收发器 TAM 40-50%”的优化。 Rosenblatt TLDR：他们已经为此进行了建模，尽管每个 XPU 可能使用更少的收发器。 XPU 的数量增长如此之快，光学总需求仍将上升。关于 CPO 的激光器架构：VCSEL 可作为 NPO/短距离的可靠桥梁。对于 CPO 来说，理想的架构是 UHP CW，而不是其他激光器，并引用了 Broadcom 的说法。这恰好支持了我的核心 $SIVE 论点。我觉得罗森布拉特和我在很多事情上都有相同的观点，我喜欢他们的行事方式。"
     },
     {
+      "id": "tweet_qinbafrank_2076212081032856062",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sun, 12 Jul 2026 07:48:28 GMT",
+      "content": "6月11号在OKX星球直播的时候还聊到下半年关于大饼的操作思路： 1）从大周期配置的角度看大饼已经进入了性价比区间，大家对于最低点没有共识，但是对于底部区有共识就是下半年某个时间； 2）那么如果以年为单位来看，可以把想配置在大饼的仓位可以在未来四五个月内陆续打完。 3）之前的5万8、9可能不是最低点，最低点都是事后才看出来。只是按照以前的经验、最低点往往都是最悲观的时候，大家最多在那个位置买一点，很少会在最低点把仓位打满。所以跌的时间足够久之后、可以开始建仓，慢慢买。即使后面还要往下的跌，最终建仓的平均成本也是很有性价比的。 大家觉得这个操作思路如何？🤔 #OKX星球",
+      "url": "https://x.com/qinbafrank/status/2076212081032856062",
+      "tweet_id": "2076212081032856062"
+    },
+    {
       "id": "tweet_qinbafrank_2076185072613597214",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -138,15 +147,6 @@
       "content": "看到这两天Robinhood充斥着时间线，回想起来5月初还写过一篇推文hood的节奏何时到来，现在看到如此盛况感慨下： 短期最吸引眼球的，robinhood chain的meme大热。7月初这里https://x.com/qinbafrank/status/2072639801908777439?s=46&t=k6rimWsEbo2D2tXolYcM-A还说robinhood chain上线关注度不高但很值得重视，没想到过了一周多通过meme完全抓到最大的关注度。 中期最爆的自然还说世界杯预测事件合约数据很亮眼，未来所有事件合约都切到自营平台之后、业务模式会更好 长期影响最深远的还说特朗普账户正式上线，5月底这里https://x.com/qinbafrank/status/2060388312033182068?s=46&t=k6rimWsEbo2D2tXolYcM-A有聊过，特朗普账户未来能给hood带来3900万个优质儿童投资账户。",
       "url": "https://x.com/qinbafrank/status/2076135846567366699",
       "tweet_id": "2076135846567366699"
-    },
-    {
-      "id": "tweet_qinbafrank_2075865324520640751",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sat, 11 Jul 2026 08:50:35 GMT",
-      "content": "这一次搞Robinhood chain，猛推meme再一次把vald tenev的“坏小孩”气质展现得淋漓尽至，藐视合规和政策边界，只要机会空间够大先干了再说，大不了后面跟监管和解交罚款了事，足够狼性和进攻性。他的对立面就是coin的光头哥，典型的“好孩子”，",
-      "url": "https://x.com/qinbafrank/status/2075865324520640751",
-      "tweet_id": "2075865324520640751"
     },
     {
       "id": "tweet_xiaomustock_2075873886185697351",
@@ -176,31 +176,31 @@
       "tweet_id": "2075596586986754131"
     },
     {
-      "id": "tweet_xingpt_2076134024196792672",
+      "id": "tweet_xingpt_2076198914785751175",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Sun, 12 Jul 2026 02:38:18 GMT",
-      "content": "阿根廷这也太赖了，正义必胜",
-      "url": "https://x.com/xingpt/status/2076134024196792672",
-      "tweet_id": "2076134024196792672"
+      "published_at": "Sun, 12 Jul 2026 06:56:09 GMT",
+      "content": "R to @xingpt: Apple 起诉的目的：真正想要的三样东西 看懂这场官司,要先明白一件事：在加州,挖人本身完全合法。斯坦福法学教授 Mark Lemley 说得直白：雇几百个前 Apple 员工不是问题，用他们带来的文件才是。 所以 Apple 真正要的是: 其一,证据开示权。借诉讼合法翻查 OpenAI 的内部通信,搞清楚自己的技术到底流出去了多少； 其二,禁令。Apple 要求 OpenAI 销毁材料、把产品重新设计到\"不含任何 Apple 技术\"。OpenAI 首款设备(无屏音箱、眼镜、可穿戴 pin)原定 2026 底至 2027 年发布，如果禁令实行可能推迟节奏； 其三,杀鸡儆猴。起诉书详细展示了 Apple 如何审计离职员工的服务器日志和公司设备留言。等于向还在观望的员工喊话：再带资料走,你就是下一个被告； OpenAI 否认一切指控，且 6 月刚赢下 xAI 的同类诉讼，同时它招聘页上悄悄挂出的\"硬件 IP 律师\"和新加坡制造测试岗说明：这家公司一边备战官司诉讼，一般并未停止硬件开发的脚本。 AI 硬件时代的第一台设备，究竟是踩着 Apple 的肩膀问世,还是在诉讼的废墟里流产，这场官司就是分水岭。",
+      "url": "https://x.com/xingpt/status/2076198914785751175",
+      "tweet_id": "2076198914785751175"
     },
     {
-      "id": "tweet_xingpt_2075986409622790316",
+      "id": "tweet_xingpt_2076198910822125920",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Sat, 11 Jul 2026 16:51:44 GMT",
-      "content": "学习点交易理念，往往比直接抄作业更有意义",
-      "url": "https://x.com/xingpt/status/2075986409622790316",
-      "tweet_id": "2075986409622790316"
+      "published_at": "Sun, 12 Jul 2026 06:56:08 GMT",
+      "content": "R to @xingpt: OpenAI挖角手段简单粗暴：百万美元级期权、远超 Apple 的薪水，外加 Tang Tan 的一句承诺：\"这里没有官僚主义\"。Apple流失的人才覆盖相机、硅片、音频、手表、Vision Pro、制造、可靠性、human factors，几乎每个部门；就连显示技术高级总监 Cheng Chen、J595 桌面机器人团队接连被挖。 Apple 自己也在给OpenAI递刀：Siri 的一再跳票、AI 战略掉队，Cook 向 Ternus 交班引发硬件大重组，多位副总裁自感被降职。 今年 6 月底,执掌 Vision Pro 和智能眼镜的 Paul Meade 出走 OpenAI，更要命的是供应链跟着人一起搬家：Apple的核心供应商立讯拿下 OpenAI 首批设备的组装合同，歌尔在谈声学模组，Apple 甚至取消了年度中国供应链闭门会,怕高管离开总部太久被人趁虚而入。 Apple此后仓促发放 20 万至 40 万美元的留任股票，但仍然没能堵住人才流失的缺口，以至于2 月开始致函 OpenAI 表达关切，没想到对方连回都没回。",
+      "url": "https://x.com/xingpt/status/2076198910822125920",
+      "tweet_id": "2076198910822125920"
     },
     {
-      "id": "tweet_xingpt_2075984275930030265",
+      "id": "tweet_xingpt_2076198906724299029",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Sat, 11 Jul 2026 16:43:15 GMT",
-      "content": "这段话完美地解释了，为什么伊朗打仗那次 3 月底要抄底半导体；而 6 月底崩盘那次不能急着抄底的核心原因",
-      "url": "https://x.com/xingpt/status/2075984275930030265",
-      "tweet_id": "2075984275930030265"
+      "published_at": "Sun, 12 Jul 2026 06:56:07 GMT",
+      "content": "Apple 诉讼OpenAI的起诉书透露了许多惊人的细节： 至少超过 400 名前员工跳槽到了OpenAI工作，而OpenAI为了挖角Apple的技术，要求候选人带着 Apple 的零件去 OpenAI 面试,做\"show and tell\"。 前 iPhone 系统电气工程师 Chang Liu,今年 1 月跳槽 OpenAI 时没交还工作电脑，之后利用一个认证漏洞重新潜入 Apple 内网，下载了上千页机密文档，包括 Apple 产品复杂电路板的详细制造资料，还在聊天记录里调侃\"LOL\"\"so funny\"。 而 OpenAI 硬件负责人、在 Apple 干了 24 年的前产品设计副总裁 Tang Tan，被指控离职前把供应商名单和内部行业总结发进自己邮箱，面试 Apple 员工时用内部项目代号套问\"那个项目计划怎样了\"；有候选人在面试前几小时突击截屏下载某高度机密项目的文件，Tan 在面试中\"恰好\"追问同一个项目，Apple 称这已成了\"固定模式\"。 他甚至向新入职者分发 Apple 的《离职安检流程》内部文件，教人规避审查，还劝人别急着辞职，好在两周 notice 期里继续接触机密。",
+      "url": "https://x.com/xingpt/status/2076198906724299029",
+      "tweet_id": "2076198906724299029"
     },
     {
       "id": "tweet_hibtc37_2075915755699535926",
