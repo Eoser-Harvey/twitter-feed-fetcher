@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-12T18:02:07.325938+00:00",
+  "fetched_at": "2026-07-12T19:19:44.779954+00:00",
   "total": 24,
   "tweets": [
     {
@@ -92,6 +92,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2076372905450188998",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sun, 12 Jul 2026 18:27:32 GMT",
+      "content": "Looks like the Strait of Hormuz is open for the 50th time this year per Trump. I’m getting tired looking at macro.",
+      "url": "https://x.com/aleabitoreddit/status/2076372905450188998",
+      "tweet_id": "2076372905450188998",
+      "translated": "根据特朗普的说法，霍尔木兹海峡今年似乎是第 50 次开放。我厌倦了看宏观。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2076266613675069628",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,16 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2076248337863639506",
       "tweet_id": "2076248337863639506",
       "translated": "上个月有一份关于波士顿动力价值链的 IBK 研究报告。总结一下：IBK 将这些公司映射到 Atlas 作为供应商： - Hwashin (010690) / 身体、手臂、腿 - LG Energy (373220) / 电池 - Hyundai Autoever (307950) / 集成 - Hyundai Mobis (012330) / 执行器 至于人形体积斜坡：他们正在建模，2028 年为 11.29K，20k 2029 年，2030 年 30k...2031 年 40k，2032 年 50k。不太确定为什么 IBK 和其他机构热衷于线性建模 S 曲线成交量斜坡...就像每年增加 +10K，不太认为成交量斜坡会这样工作...如果我不得不猜测它看起来更像是： - 15-20k 2028 - 2029 年 40k-70k - 2030 年 90k-140k 由于波士顿动力公司预计到 2028 年产能将达到 30k（我相信他们的目标是到 2029-2030 年实现更多上网），而中国在 2026 年的产能已达到 100k EOY。就竞争格局而言，他们指出： - $TSLA、Figure、Apptronik、$CCXI （敏捷性），不如美国选手。然后是波士顿动力（现为韩国母公司）——Unitree、Fourier、AGibot、UBtech、$XPEV 作为中国的领导者。 - Neura、Pal Robotics、Wandercraft、Oversonic 为欧盟领导者。他们还围绕现代摩比斯/现代 Autoever/Glovis 进行了大量估值建模。 BD经济所有权方面，现代汽车占27.9%，摩比斯占11.3%，格洛维斯占11.3%。因此，至少机构现在更加重视公司内部的人形部分。然后根据报告假设： - 每个 Atlas 31 个执行器 - 2028 年每个执行器 1,000 美元 - Atlas ASP 为 13.4 万美元，这意味着最终销售价格的执行器成本约为 23-28%。也许更有趣的说法是 IBK 表示执行器容量是成交量增长的最大信号。例如。每31万个执行器容量可支持1万个以上的机器人。因此，跟踪执行器输出、产量、ASP 是 2028-2030 年斜坡的更清晰的解读。我没有太多个人收获，但希望其他人觉得它很有趣，也许围绕和信作为核心供应商，或者围绕执行器容量作为指标。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2076030743655109063",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sat, 11 Jul 2026 19:47:54 GMT",
-      "content": "Apparently, Korean Beauty was where all the alpha is. APR (278470.KS) is up 529% over the past 2Y, wildly outperforming both $NVDA and $INTC. Every female I know talks about their \"Medicube\" stick, then buying products... where you put a whole salmon's family tree on your face for better skin. The world's female population creates a bigger structural demand than hyperscalers for memory or lasers? Should have known...",
-      "url": "https://x.com/aleabitoreddit/status/2076030743655109063",
-      "tweet_id": "2076030743655109063",
-      "translated": "显然，韩国美女是所有阿尔法所在的地方。 APR (278470.KS) 在过去两年中上涨了 529%，远远超过 $NVDA 和 $INTC。我认识的每一位女性都会谈论她们的“Medicube”棒，然后购买产品……将一整条鲑鱼的家谱放在脸上以获得更好的皮肤。世界女性人口对内存或激光器的结构性需求比超大规模企业更大？应该知道..."
     },
     {
       "id": "tweet_qinbafrank_2076267339704893579",
