@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-12T16:06:25.079092+00:00",
+  "fetched_at": "2026-07-12T18:02:07.325938+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2076005333416521787",
+      "id": "tweet_elonmusk_2076259670751100967",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 11 Jul 2026 18:06:56 GMT",
-      "content": "RT by @elonmusk: How many people have left America to escape Capitalism? VS How many people have come to America while escaping socialism?",
-      "url": "https://x.com/elonmusk/status/2076005333416521787",
-      "tweet_id": "2076005333416521787",
-      "translated": "RT @elonmusk：有多少人为了逃离资本主义而离开美国？ VS 有多少人逃离社会主义来到美国？"
+      "published_at": "Sun, 12 Jul 2026 10:57:35 GMT",
+      "content": "RT by @elonmusk: Grok 4.5 is the truth seeking leader that other AIs can aspire to become",
+      "url": "https://x.com/elonmusk/status/2076259670751100967",
+      "tweet_id": "2076259670751100967",
+      "translated": "RT @elonmusk：Grok 4.5 是其他人工智能渴望成为的寻求真理的领导者"
     },
     {
-      "id": "tweet_elonmusk_2076252465674977609",
+      "id": "tweet_elonmusk_2076340432464752656",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 12 Jul 2026 10:28:57 GMT",
-      "content": "Try Grok 4.5 and see for yourself",
-      "url": "https://x.com/elonmusk/status/2076252465674977609",
-      "tweet_id": "2076252465674977609",
-      "translated": "尝试 Grok 4.5 并亲自看看"
+      "published_at": "Sun, 12 Jul 2026 16:18:30 GMT",
+      "content": "RT by @elonmusk: I say both energy and mass, as they are separate scarcities for practical purposes, despite being technically “equivalent”, as described by Einstein’s famous equation. Our solar system has only a tiny percentage of non-solar atoms with which to build things.",
+      "url": "https://x.com/elonmusk/status/2076340432464752656",
+      "tweet_id": "2076340432464752656",
+      "translated": "RT by @elonmusk：我说的是能量和质量，因为它们对于实际目的来说是单独的稀缺性，尽管它们在技术上是“等价的”，正如爱因斯坦著名的方程所描述的那样。我们的太阳系只有极小比例的非太阳原子可以用来建造东西。"
     },
     {
-      "id": "tweet_elonmusk_2076102645823971373",
+      "id": "tweet_elonmusk_2076323348217565485",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 12 Jul 2026 00:33:37 GMT",
-      "content": "Starship is evolving rapidly",
-      "url": "https://x.com/elonmusk/status/2076102645823971373",
-      "tweet_id": "2076102645823971373",
-      "translated": "星舰正在迅速发展"
+      "published_at": "Sun, 12 Jul 2026 15:10:37 GMT",
+      "content": "RT by @elonmusk: I would like to offer a counterargument that LLMs (or maybe AIs) cannot jump. Before AlphaGo, the AI field had the same argument for Go: there are 2.08 × 10^170 possibilities, nothing fits in the computer, and there is no way AI could possibly predict the outcome of the next 50-60 moves. It turned out most moves do not lead to a win. Combined with clever use of Monte Carlo Tree Search, the sampling becomes quite manageable. The same can be said for physics, where equations are just another form of compression. Einstein did not start with relativity. That was not his first paper. He spent years understanding the properties of light before concluding that the speed of light is constant across the universe, which unlocked his discovery of relativity. During his thought process, he also interacted with other physicists (e.g., sub-agents) to enrich his thinking. Currently we have not run an agent for years of compute. The sessions are often fragmented and disoriented, so every new session is almost a fragmented memory of the past, but it may not be for long.",
+      "url": "https://x.com/elonmusk/status/2076323348217565485",
+      "tweet_id": "2076323348217565485",
+      "translated": "RT by @elonmusk：我想提出一个反驳，即法学硕士（或者人工智能）无法跳跃。在 AlphaGo 之前，AI 领域对围棋有同样的论点：有 2.08 × 10^170 种可能性，没有任何东西适合计算机，并且 AI 不可能预测接下来 50-60 步的结果。事实证明，大多数举动都不会带来胜利。结合蒙特卡罗树搜索的巧妙使用，采样变得非常易于管理。对于物理学来说也是如此，方程只是另一种形式的压缩。爱因斯坦并不是从相对论开始的。那不是他的第一篇论文。他花了数年时间来了解光的性质，然后得出结论，光速在整个宇宙中是恒定的，这开启了他对相对论的发现。在他的思考过程中，他还与其他物理学家（例如子代理）进行互动，以丰富他的思维。目前我们已经多年没有运行代理进行计算了。会议常常是碎片化的、迷失方向的，所以每一次新的会议几乎都是过去的碎片记忆，但可能不会持续太久。"
     },
     {
       "id": "tweet_cz_binance_2075185194617954446",
