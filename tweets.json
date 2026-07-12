@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-12T09:04:48.934225+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-12T11:13:44.267699+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2076102645823971373",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 12 Jul 2026 00:33:37 GMT",
-      "content": "Starship is evolving rapidly",
-      "url": "https://x.com/elonmusk/status/2076102645823971373",
-      "tweet_id": "2076102645823971373",
-      "translated": "星舰正在迅速发展"
-    },
-    {
-      "id": "tweet_elonmusk_2076036462290624972",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 11 Jul 2026 20:10:38 GMT",
-      "content": "RT by @elonmusk: and yes, i would say that @elonmusk mission with @SpaceXAI is going well. the results definitively shows how Grok 4.5 training pushed even further to become as neutral as possible and it does feel good to know there is at least 1 model out there that is within that neutral zone.",
-      "url": "https://x.com/elonmusk/status/2076036462290624972",
-      "tweet_id": "2076036462290624972",
-      "translated": "RT @elonmusk：是的，我想说 @elonmusk 与 @SpaceXAI 的任务进展顺利。结果明确显示了 Grok 4.5 训练如何进一步推动变得尽可能中立，并且知道至少有 1 个模型位于该中立区域内确实感觉很好。"
-    },
-    {
-      "id": "tweet_elonmusk_2076040435743506800",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 11 Jul 2026 20:26:25 GMT",
-      "content": "RT by @elonmusk: Grok 4.5 by @SpaceXAI is the most neutral AI model out there. Almost perfectly balanced between the political Left and Right. No other model comes even close to its neutrality. Fantastic achievement, and much harder to pull off than most would realize!",
-      "url": "https://x.com/elonmusk/status/2076040435743506800",
-      "tweet_id": "2076040435743506800",
-      "translated": "RT @elonmusk：@SpaceXAI 的 Grok 4.5 是目前最中立的人工智能模型。政治左派和右派之间几乎完美平衡。没有其他模型可以接近它的中立性。了不起的成就，但实现起来比大多数人想象的要困难得多！"
-    },
     {
       "id": "tweet_cz_binance_2075185194617954446",
       "username": "cz_binance",
@@ -92,6 +62,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2076248337863639506",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sun, 12 Jul 2026 10:12:33 GMT",
+      "content": "So there's a IBK Research report on Boston Dynamics value chains from last month. Just a summary: IBK maps these companies to Atlas as suppliers: - Hwashin (010690) / body, arms, legs - LG Energy (373220) / battery - Hyundai Autoever (307950) / integration - Hyundai Mobis (012330) / actuators As for humanoid volume ramps: They're modeling for, 11.29K in 2028, 20k 2029, 30k in 2030... 40k in 2031, and 50k in 2032. Not quite sure why IBK and other institutions are a fan of linearly modeling S-curve volume ramps... Like adding +10K per year, don't quite think it's volume ramp is going to work like that... if I had to guess it would look more like: - 15-20k 2028 - 40k-70k 2029 - 90k-140k for 2030 Since Boston Dynamics is projecting 30k capacity by 2028 (I'm sure they'd aim to get more online by 2029-2030), as China collectively is already doing 100k EOY in 2026. In terms of competitive landscape they name: - $TSLA, Figure, Apptronik, $CCXI (Agility), as US players. Then Boston Dynamics (Korea parent owned now) - Unitree, Fourier, AGibot, UBtech, $XPEV as the Chinese leaders. - Neura, Pal Robotics, Wandercraft, Oversonic, as the EU leaders. They also did quite a lot of valuation modeling around Hyundai Mobis/Hyundai Autoever/Glovis. Regarding the BD economic ownership from 27.9% from Hyundai Motor, 11.3% from Mobis, and 11.3% from Glovis. So at least institution are valuing humanoid segments inside companies lot more now. Then from report assumptions: - 31 actuators per Atlas - $1K per actuator in 2028 - $134K Atlas ASP, Which implies actuator cost of final selling price is roughly 23–28%. Probably the more interesting statement was IBK stated that actuator capacity is biggest signal for volume ramp. eg. every 310,000 units of actuator capacity supports 10,000 more robots. So tracking actuator outputs, yields, ASP is a cleaner read on 2028-2030 ramp. I didn't have much personal takeaways, but hopefully others find it interesting, maybe around Hwashin as a core supplier or around actuator capacity as an indicator.",
+      "url": "https://x.com/aleabitoreddit/status/2076248337863639506",
+      "tweet_id": "2076248337863639506",
+      "translated": "上个月有一份关于波士顿动力价值链的 IBK 研究报告。总结一下：IBK 将这些公司映射到 Atlas 作为供应商： - Hwashin (010690) / 身体、手臂、腿 - LG Energy (373220) / 电池 - Hyundai Autoever (307950) / 集成 - Hyundai Mobis (012330) / 执行器 至于人形体积斜坡：他们正在建模，2028 年为 11.29K，20k 2029 年，2030 年 30k...2031 年 40k，2032 年 50k。不太确定为什么 IBK 和其他机构热衷于线性建模 S 曲线成交量斜坡...就像每年增加 +10K，不太认为成交量斜坡会这样工作...如果我不得不猜测它看起来更像是： - 15-20k 2028 - 2029 年 40k-70k - 2030 年 90k-140k 由于波士顿动力公司预计到 2028 年产能将达到 30k（我相信他们的目标是到 2029-2030 年实现更多上网），而中国在 2026 年的产能已达到 100k EOY。就竞争格局而言，他们指出： - $TSLA、Figure、Apptronik、$CCXI （敏捷性），不如美国选手。然后是波士顿动力（现为韩国母公司）——Unitree、Fourier、AGibot、UBtech、$XPEV 作为中国的领导者。 - Neura、Pal Robotics、Wandercraft、Oversonic 为欧盟领导者。他们还围绕现代摩比斯/现代 Autoever/Glovis 进行了大量估值建模。 BD经济所有权方面，现代汽车占27.9%，摩比斯占11.3%，格洛维斯占11.3%。因此，至少机构现在更加重视公司内部的人形部分。然后根据报告假设： - 每个 Atlas 31 个执行器 - 2028 年每个执行器 1,000 美元 - Atlas ASP 为 13.4 万美元，这意味着最终销售价格的执行器成本约为 23-28%。也许更有趣的说法是 IBK 表示执行器容量是成交量增长的最大信号。例如。每31万个执行器容量可支持1万个以上的机器人。因此，跟踪执行器输出、产量、ASP 是 2028-2030 年斜坡的更清晰的解读。我没有太多个人收获，但希望其他人觉得它很有趣，也许围绕和信作为核心供应商，或者围绕执行器容量作为指标。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2076030743655109063",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,16 +90,6 @@
       "url": "https://x.com/aleabitoreddit/status/2075894311741440041",
       "tweet_id": "2075894311741440041",
       "translated": "逆向思维，但 Sam Altman / OpenAI 做的事情是正确的，如果他像 $AAPL 一样惹恼了所有 Mag7。通过建立自己的生态系统而不是被吸进另一个生态系统。 $GOOGL、苹果、微软和其他公司已经有一段时间没有出现过真正的颠覆者了。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2075645547978084371",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 10 Jul 2026 18:17:16 GMT",
-      "content": "Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. In what appears to be an indirect response on B. Riley's $AAOI sell report regarding optimizations that \"flattens networks and cuts transceiver TAM 40-50%\". Rosenblatt TLDR: They've already modeled for this, even though each XPU may use fewer transceivers. The number of XPUs is growing so quickly that total optical demand should still rise. On lasers architectures for CPO: VCSELs are useful as a credible bridge for NPO/short reach. Ideal architecture though for CPO is UHP CW over other lasers, and cites Broadcom for that statements. Which happens to supports my core $SIVE thesis. I feel like Rosenblatt and I share the same views on a lot of things, I like the way they roll.",
-      "url": "https://x.com/aleabitoreddit/status/2075645547978084371",
-      "tweet_id": "2075645547978084371",
-      "translated": "关于 $AMZN RNG + OpenAI 的 MRC 和 VCSEL。这似乎是对 B. Riley 的 $AAOI 销售报告的间接回应，该报告涉及“扁平化网络并削减收发器 TAM 40-50%”的优化。 Rosenblatt TLDR：他们已经为此进行了建模，尽管每个 XPU 可能使用更少的收发器。 XPU 的数量增长如此之快，光学总需求仍将上升。关于 CPO 的激光器架构：VCSEL 可作为 NPO/短距离的可靠桥梁。对于 CPO 来说，理想的架构是 UHP CW，而不是其他激光器，并引用了 Broadcom 的说法。这恰好支持了我的核心 $SIVE 论点。我觉得罗森布拉特和我在很多事情上都有相同的观点，我喜欢他们的行事方式。"
     },
     {
       "id": "tweet_qinbafrank_2076212081032856062",
@@ -231,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
