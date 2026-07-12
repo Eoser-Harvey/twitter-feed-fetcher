@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-12T13:24:54.168634+00:00",
+  "fetched_at": "2026-07-12T14:59:43.918417+00:00",
   "total": 24,
   "tweets": [
     {
@@ -204,6 +204,15 @@
       "tweet_id": "2076198906724299029"
     },
     {
+      "id": "tweet_hibtc37_2076302037713895740",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Sun, 12 Jul 2026 13:45:56 GMT",
+      "content": "算力紧缺",
+      "url": "https://x.com/hibtc37/status/2076302037713895740",
+      "tweet_id": "2076302037713895740"
+    },
+    {
       "id": "tweet_hibtc37_2075915755699535926",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -220,15 +229,6 @@
       "content": "海力士1.2万亿市值，还是太便宜，作为AI时代的王者级别代表，HBM遥遥领先者，他和MU未来应该是台积电级别的存在",
       "url": "https://x.com/hibtc37/status/2075762760336687359",
       "tweet_id": "2075762760336687359"
-    },
-    {
-      "id": "tweet_hibtc37_2075761246033576010",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Sat, 11 Jul 2026 01:57:01 GMT",
-      "content": "我有个股票收益非常好啊，不敢晒，每次一晒，不管是啥就巅峰，晒单即平仓？",
-      "url": "https://x.com/hibtc37/status/2075761246033576010",
-      "tweet_id": "2075761246033576010"
     }
   ],
   "stats": {
