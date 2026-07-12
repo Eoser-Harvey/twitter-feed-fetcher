@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-12T11:13:44.267699+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-12T13:24:54.168634+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2076005333416521787",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 11 Jul 2026 18:06:56 GMT",
+      "content": "RT by @elonmusk: How many people have left America to escape Capitalism? VS How many people have come to America while escaping socialism?",
+      "url": "https://x.com/elonmusk/status/2076005333416521787",
+      "tweet_id": "2076005333416521787",
+      "translated": "RT @elonmusk：有多少人为了逃离资本主义而离开美国？ VS 有多少人逃离社会主义来到美国？"
+    },
+    {
+      "id": "tweet_elonmusk_2076252465674977609",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 12 Jul 2026 10:28:57 GMT",
+      "content": "Try Grok 4.5 and see for yourself",
+      "url": "https://x.com/elonmusk/status/2076252465674977609",
+      "tweet_id": "2076252465674977609",
+      "translated": "尝试 Grok 4.5 并亲自看看"
+    },
+    {
+      "id": "tweet_elonmusk_2076102645823971373",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 12 Jul 2026 00:33:37 GMT",
+      "content": "Starship is evolving rapidly",
+      "url": "https://x.com/elonmusk/status/2076102645823971373",
+      "tweet_id": "2076102645823971373",
+      "translated": "星舰正在迅速发展"
+    },
     {
       "id": "tweet_cz_binance_2075185194617954446",
       "username": "cz_binance",
@@ -62,6 +92,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2076266613675069628",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sun, 12 Jul 2026 11:25:10 GMT",
+      "content": "Apparently there’s a new popular trend to bearpost trillion dollar companies. Like $NVDA or $TSM. By finding isolating technical details, then blowing it out of proportions by claiming their whole program is delayed. -> if the company doesn’t respond, stock prices/sentiment are damaged. -> if the company issues a response, they can’t go into detail since supply chains are confidential… but people still doubt them -> Poster gain more impressions, then does it again with more views the next time. Don’t quite think this is very healthy, with more folks copying that playbook. Especially around incentive structures.",
+      "url": "https://x.com/aleabitoreddit/status/2076266613675069628",
+      "tweet_id": "2076266613675069628",
+      "translated": "显然，现在有一种新的流行趋势来支撑万亿美元的公司。例如 $NVDA 或 $TSM。通过找到孤立的技术细节，然后通过声称他们的整个计划被延迟来夸大其词。 -> 如果公司不回应，股价/情绪就会受损。 -> 如果公司做出回应，他们无法详细说明，因为供应链是保密的……但人们仍然怀疑他们 -> 海报获得更多印象，然后下次再做一次，获得更多浏览量。我不太认为这很健康，因为越来越多的人效仿该剧本。特别是在激励结构方面。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2076248337863639506",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -82,14 +122,14 @@
       "translated": "显然，韩国美女是所有阿尔法所在的地方。 APR (278470.KS) 在过去两年中上涨了 529%，远远超过 $NVDA 和 $INTC。我认识的每一位女性都会谈论她们的“Medicube”棒，然后购买产品……将一整条鲑鱼的家谱放在脸上以获得更好的皮肤。世界女性人口对内存或激光器的结构性需求比超大规模企业更大？应该知道..."
     },
     {
-      "id": "tweet_aleabitoreddit_2075894311741440041",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sat, 11 Jul 2026 10:45:46 GMT",
-      "content": "Contrarian take, but Sam Altman / OpenAI is doing something right if he's pissing off every Mag7 like $AAPL. By building their own ecosystem instead of being sucked into another. It's been awhile since $GOOGL, Apple, Microsoft, and others had some genuine disruptors.",
-      "url": "https://x.com/aleabitoreddit/status/2075894311741440041",
-      "tweet_id": "2075894311741440041",
-      "translated": "逆向思维，但 Sam Altman / OpenAI 做的事情是正确的，如果他像 $AAPL 一样惹恼了所有 Mag7。通过建立自己的生态系统而不是被吸进另一个生态系统。 $GOOGL、苹果、微软和其他公司已经有一段时间没有出现过真正的颠覆者了。"
+      "id": "tweet_qinbafrank_2076267339704893579",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sun, 12 Jul 2026 11:28:03 GMT",
+      "content": "英伟达闭门路演都说什么了？回应了哪些传闻？本周大摩在加州组织了一场英伟达非交易路演，老黄、英伟达的CFO Colette Kress和IR 负责人Toshiya Har亲自出席出席，密集会见投资人。 这场闭门会主要针对市场对产品进度、ASIC竞争和增长可持续性的疑虑（FUD）进行澄清和回应。梳理下闭门会核心内容和要点： 1、营收增长与整体展望（最受关注） 1）单季营收已达千亿美元规模，且增速仍在加速上行。这被视为强劲信号，显示需求远超此前预期。 2）Vera Rubin 产品周期景气度强劲，将为未来12个月带来显著的订单和营收增量，是短期增长主要驱动。 3）大摩等机构给出乐观预测：2027财年营收约3930亿美元，2028财年约5988亿美元。 4）CPU业务目标：本财年力争达到200亿美元。 2、产品路线图与新品进度（重点辟谣） 1）Rubin Ultra：明确将于明年（2027年）出货，彻底否认延后至2028年的市场传闻。路线图未变。 2）Kyber机架：当前设计是过渡性方案，后续将被更优方案替代，以支持更大规模的单机架纵向扩展（更大计算集群）。这属于优化调整，而非延期或问题；路线图保持灵活性，可降低产能爬坡风险。 3）核心技术按计划推进： ◦800V供电系统。 ◦机架间光学纵向扩展（optical links/inter-rack optical vertical expansion）。 •整体下一代产品周期（包括Rubin系列）无重大变化，黄仁勋亲自出面澄清，显示公司对进度的信心。 3、ASIC竞争与市场份额 1）即使部分云厂商和前沿AI实验室大力投入自定义ASIC（专用芯片），英伟达仍保持强势主导地位。 2）关键案例：一家此前主要依赖ASIC进行前沿模型开发的大客户，已将英伟达GPU使用比例大幅提升至接近50%（市场猜测可能指向Anthropic等实验室）。这被视为重大验证——即使ASIC阵营也需要更多英伟达GPU。 3）原因：英伟达在token使用成本最低，全栈生态（GPU + 网络 + 软件 + CPU等）形成强大护城河，前沿AI工作负载仍高度依赖其平台。 4）AI实验室目前约占AI算力需求的20%，其需求增长显著。 4、客户多元化与新增长引擎 1）客户结构从过去高度依赖少数头部超大规模云厂商（hyperscalers），转向多元化：AI实验室、企业客户、新兴云服务提供商（neocloud）、主权AI（Sovereign AI）项目（数据安全、产业自主、地缘政治因素驱动，重要性上升）。 2）新增长点（企业、主权AI、工业领域客户）可能比传统 hyperscalers 增长更快，降低集中度风险。 5、供应链与供给约束 1）内存（HBM等）供应紧缺预计将持续数年。AI token需求增长速度快于存储/内存产能扩张，导致行业性短缺（影响数据中心组件、GPU及AI运营）。 黄仁勋明确表示，内存短缺是长期现象。 2）整体供给仍为主要瓶颈，但英伟达正通过多元化供应链和规划应对。 6、其他管理层观点与资本回报 1）强劲自由现金流（FCF）支持股东回报：未来超过50%的现金流可能用于回购等股东回报。 2）全AI基础设施平台（硬件+网络+软件）护城河持续加固。 大摩总结： 市场对产品延期、竞争和增长可持续性的担忧被夸大，英伟达“全速前进”（firing on all cylinders）。 大摩维持强烈看好立场，并上调目标价至288美元（对应显著上行空间）。",
+      "url": "https://x.com/qinbafrank/status/2076267339704893579",
+      "tweet_id": "2076267339704893579",
+      "translated": "英伟达闭门路演都说什么了？回应了哪些传闻？本周大摩在加州组织了一场英伟达非交易路演，老黄、英伟达的CFO Colette Kress和IR 负责人Toshiya Har亲自出席出席，密集会见投资人。 这场闭门会主要针对市场对产品进度、ASIC竞争和增长可持续性的疑虑（FUD）进行澄清和回应。梳理下闭门会核心内容和要点： 1、营收增长与整体展望（最受关注） 1）单季营收已达千亿美元规模，且增速仍在加速上行。这被视为强劲信号，显示需求远超此前预期。 2）Vera Rubin 产品周期景气度强劲，将为未来12个月带来显着的订单和营收增量，是短期增长主要驱动。 3）大摩等机构给出乐观预测：2027财年营收约3930亿美元，2028财年约5988亿美元。 4）CPU业务目标：本财年力争达到200亿美元。 2、产品路线图与新品进度（重点辟谣） 1）Rubin Ultra：明确将于明年（2027年）出货，彻底否认延后至2028年的市场传闻。路线图未变。 2）Kyber机架：当前设计是过渡性方案，后续将被更优方案替代，以支持更大规模的单机架纵向扩展（更大计算集群）。这属于优化调整，而非延期或问题；路线图保持灵活性，可降低产能爬坡风险。 3）核心技术按计划推进： ◦800V供电系统。 ◦机架间光学纵向扩展（optical links/inter-rack optical vertical expansion）。 •整体下一代产品周期（包括Rubin系列）无重大变化，黄仁勋亲自出面澄清，显示公司对进度的信心。 3、ASIC竞争与市场份额 1）即使部分云厂商和前沿AI实验室大力投入自定义ASIC（专用芯片），英伟达仍保持强势主导地位。 2）关键案例：一家此前主要依赖ASIC进行前沿模型开发的大客户，已将英伟达GPU使用比例大幅提升至接近50%（市场猜测可能指向Anthropic等实验室）。这被视为重大验证——即使ASIC阵营也需要更多英伟达GPU。 3）原因：英伟达在token使用成本最低，全栈生态（GPU + 网络 + 软件 + CPU等）形成强大护城河，前沿AI工作负载仍高度依赖其平台。 4）AI实验室目前约占AI算力需求的20%，其需求增长显着。 4、客户多元化与新增长引擎 1）客户结构从过去高度依赖少数头部超大规模云厂商（hyperscalers），转向多元化：AI实验室、企业客户、新兴云服务提供商（neocloud）、主权AI（Sovereign AI）项目（数据安全、产业自主、地缘政治因素驱动，重要性上升）。 2）新增长点（企业、主权AI、工业领域客户）可能比传统 hyperscalers 增长更快，降低集中度风险。 5、供应链与供给约束 1）内存（HBM等）供应紧缺预计将持续数年。 AI token需求增长速度快于存储/内存产能扩张，导致行业性短缺（影响数据中心组件、GPU及AI运营）。 黄仁勋明确表示，内存短缺是长期现象。 2）整体供给仍为主要瓶颈，但英伟达正通过多元化供应链和规划应对。 6、其他管理层观点与资本回报 1）强劲自由现金流（FCF）支持股东回报：未来超过50%的现金流可能用于回购等股东回报。 2）全AI基础设施平台（硬件+网络+软件）护城河持续加固。 大摩总结： 市场对产品延期、竞争和增长可持续性的担忧被夸大，英伟达“全速前进”（firing on all cylinders）。 大摩维持强烈看好立场，并上调目标价至288美元（对应显着上行空间）。"
     },
     {
       "id": "tweet_qinbafrank_2076212081032856062",
@@ -108,15 +148,6 @@
       "content": "美伊冲突再起，核心是什么？核心美国想突破伊朗对霍尔木兹海峡的控制力，而伊朗对此则毫不退让。看周三凌晨伊朗对三艘商船发动袭击时商船的位置就能看出来，这三艘商船基本上处于霍尔木兹海峡靠近阿曼一侧的南线航路，而伊朗指定的航线则是在海峡北侧靠近伊朗。这就是揭示了这次冲突的起因：美国鼓动商船（不然商船也不敢行动）寻求开辟出不受伊朗人控制的南侧航道，被伊朗发现，而伊朗人头铁地寻求用武力事实上控制海峡。 1、所以当前最尖锐的问题不是核设施，而是霍尔木兹海峡“谁说了算”： 1）川普理解的开放是“国际水道恢复正常、所有航道无条件开放”； 2）伊朗理解的是“伊朗负责保障安全，因此船舶必须服从伊朗指定的航线和管理”。 2、双方都存在“用有限升级换取更好条件”的诱因： 1）美国希望通过军事打击证明红线可信，但又面临高油价、汽油价格和11月国会中期选举压力； 2）伊朗需要制裁解除和经济恢复，却又不愿公开表现为在美国轰炸后退让 其实双方都在算计一件事： 只要报复规模可控，就可以先打一下、提高对方成本，再回到谈判桌上。 3、美国的寻求航线的突破举动，意图为何： 1）川普可能还没接受一个残酷的现实：已经无法将霍尔木兹海峡恢复战前的状态； 2）还要时不时展现强硬，安抚国内的反对声音和情绪，为支持率和大选。 美国拥有绝对空中和远程打击优势，但伊朗依然保留了足以制造全球能源冲击的非对称能力。对川普来说，要么变相买回海峡的国际航权（给伊朗支付巨额资金让伊朗放弃控制权），要么彻底摧毁伊朗政权和军事实力（现在看起来川普也无意到这一步）。 4、后续怎么看？ 1）边打边谈、反复短暂停火，这应该是当前的基准情景。双方通过阿曼、卡塔尔、巴基斯坦保持沟通。 双方都有继续谈判的经济和政治需要，但又都没有能力接受对方的核心条件。那就会出现“打一下、停一下、再谈一下”。 2）再之后阿曼提出的折中方案最后是可能性最大的：国际航行权不受影响，但可设立区域共同管理、安全、环保和导航服务机制，服务费有明确服务对应，不能被视为“过路费”。 这样可以包装成各方都能接受的方案：美国可以说海峡保持国际通行； 伊朗可以说自身安全管理权得到承认 3）8月中旬是一个关键节点 6月设定的60天谈判窗口将在这一时期接近终点。如果届时只有海峡临时安排、没有核材料路线图，川普不得不采用“制裁＋局部军事打击”的方式延长谈判。 4）对市场的影响 核心还是油价，只要油价不持续长时间保持80-85区间甚至更高价位（短期上去摸一下影响不大），那么对市场来说还就是扰动。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
       "url": "https://x.com/qinbafrank/status/2076185072613597214",
       "tweet_id": "2076185072613597214"
-    },
-    {
-      "id": "tweet_qinbafrank_2076135846567366699",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sun, 12 Jul 2026 02:45:33 GMT",
-      "content": "看到这两天Robinhood充斥着时间线，回想起来5月初还写过一篇推文hood的节奏何时到来，现在看到如此盛况感慨下： 短期最吸引眼球的，robinhood chain的meme大热。7月初这里https://x.com/qinbafrank/status/2072639801908777439?s=46&t=k6rimWsEbo2D2tXolYcM-A还说robinhood chain上线关注度不高但很值得重视，没想到过了一周多通过meme完全抓到最大的关注度。 中期最爆的自然还说世界杯预测事件合约数据很亮眼，未来所有事件合约都切到自营平台之后、业务模式会更好 长期影响最深远的还说特朗普账户正式上线，5月底这里https://x.com/qinbafrank/status/2060388312033182068?s=46&t=k6rimWsEbo2D2tXolYcM-A有聊过，特朗普账户未来能给hood带来3900万个优质儿童投资账户。",
-      "url": "https://x.com/qinbafrank/status/2076135846567366699",
-      "tweet_id": "2076135846567366699"
     },
     {
       "id": "tweet_xiaomustock_2075873886185697351",
@@ -201,8 +232,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
