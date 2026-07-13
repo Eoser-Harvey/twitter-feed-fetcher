@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-13T18:46:36.330008+00:00",
+  "fetched_at": "2026-07-13T20:18:28.395746+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2076690060699684905",
+      "id": "tweet_elonmusk_2076696092037833091",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Mon, 13 Jul 2026 15:27:48 GMT",
-      "content": "Literally true",
-      "url": "https://x.com/elonmusk/status/2076690060699684905",
-      "tweet_id": "2076690060699684905",
-      "translated": "字面意思是真的"
+      "published_at": "Mon, 13 Jul 2026 15:51:46 GMT",
+      "content": "RT by @elonmusk: If you run /privacy and change the setting, all previously synced data is deleted.",
+      "url": "https://x.com/elonmusk/status/2076696092037833091",
+      "tweet_id": "2076696092037833091",
+      "translated": "RT by @elonmusk：如果您运行 /privacy 并更改设置，所有以前同步的数据都会被删除。"
     },
     {
-      "id": "tweet_elonmusk_2076373041773256963",
+      "id": "tweet_elonmusk_2076725943708868615",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 12 Jul 2026 18:28:04 GMT",
-      "content": "RT by @elonmusk: Well shit - grok 4.5 is KILLING it it in my video studio evals! 6/33 -> 23/33 with ridiculous cost efficiency compared to 5.6 models",
-      "url": "https://x.com/elonmusk/status/2076373041773256963",
-      "tweet_id": "2076373041773256963",
-      "translated": "RT by @elonmusk：好吧，狗屎 - grok 4.5 在我的视频工作室评估中正在杀死它！ 6/33 -> 23/33 与 5.6 型号相比，成本效率高得离谱"
+      "published_at": "Mon, 13 Jul 2026 17:50:23 GMT",
+      "content": "RT by @elonmusk: That's not the case. The CLI doesn't retain data under ZDR (including headless/non-headless modes), and has since launch. Similarly, /privacy in the CLI will disable or reenable any data retention. For some features, including remote session listing, cloud agents, and handoff, you will need to enable data syncing.",
+      "url": "https://x.com/elonmusk/status/2076725943708868615",
+      "tweet_id": "2076725943708868615",
+      "translated": "RT @elonmusk：事实并非如此。 CLI 不保留 ZDR 下的数据（包括无头/非无头模式），自启动以来一直如此。同样，CLI 中的 /privacy 将禁用或重新启用任何数据保留。对于某些功能，包括远程会话列表、云代理和切换，您将需要启用数据同步。"
     },
     {
-      "id": "tweet_elonmusk_2076563677319209094",
+      "id": "tweet_elonmusk_2076739857863385206",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Mon, 13 Jul 2026 07:05:36 GMT",
-      "content": "Using Grok agents in background mode",
-      "url": "https://x.com/elonmusk/status/2076563677319209094",
-      "tweet_id": "2076563677319209094",
-      "translated": "在后台模式下使用 Grok 代理"
+      "published_at": "Mon, 13 Jul 2026 18:45:40 GMT",
+      "content": "Progress",
+      "url": "https://x.com/elonmusk/status/2076739857863385206",
+      "tweet_id": "2076739857863385206",
+      "translated": "进步"
     },
     {
       "id": "tweet_cz_binance_2076667370848850297",
@@ -91,6 +91,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2076748688559587338",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Mon, 13 Jul 2026 19:20:46 GMT",
+      "content": "Morgan Stanley note on CPO today. Key participants include: - $SIVE, $COHR, and $LITE in laser supply - Broadcom and Nvidia in switch platforms - Lightmatter, Ayar Labs, Marvell/Celestial, and POET in optical engines and photonics, - $TSM, $GFS, and $TSEM in silicon photonics foundry capacity I’ve covered all of these before, like Tower Semi. But I’m especially happy that Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO. A small $1.5B laser company next to your two leading $60B+ companies… If you also synthesize Rosenblatt Securities recent note that China laser suppliers were quite far from having CPO lasers. This kinda magnifies importance of the three Western leaders of that laser chokepoint.",
+      "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
+      "tweet_id": "2076748688559587338",
+      "translated": "摩根士丹利今日发布 CPO 报告。主要参与者包括： - 激光供应领域的 $SIVE、$COHR 和 $LITE - 开关平台领域的 Broadcom 和 Nvidia - 光学引擎和光子领域的 Lightmatter、Ayar Labs、Marvell/Celestial 和 POET， - 硅光子代工领域的 $TSM、$GFS 和 $TSEM 我之前已经介绍过所有这些，例如 Tower Semi。但我特别高兴的是，摩根士丹利验证了我的研究，即 $SIVE 是 CPO 领域的关键全球参与者之一。一家规模为 1.5B 美元的小型激光公司，紧邻两家领先的 60B+ 美元公司……如果您还综合罗森布拉特证券公司最近指出的情况，中国激光供应商距离拥有 CPO 激光器还很远。这有点放大了激光阻塞点的三位西方领导人的​​重要性。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2076467953995071881",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -109,16 +119,6 @@
       "url": "https://x.com/aleabitoreddit/status/2076372905450188998",
       "tweet_id": "2076372905450188998",
       "translated": "根据特朗普的说法，霍尔木兹海峡今年似乎是第 50 次开放。我厌倦了看宏观。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2076266613675069628",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sun, 12 Jul 2026 11:25:10 GMT",
-      "content": "Apparently there’s a new popular trend to bearpost trillion dollar companies. Like $NVDA or $TSM. By finding isolating technical details, then blowing it out of proportions by claiming their whole program is delayed. -> if the company doesn’t respond, stock prices/sentiment are damaged. -> if the company issues a response, they can’t go into detail since supply chains are confidential… but people still doubt them -> Poster gain more impressions, then does it again with more views the next time. Don’t quite think this is very healthy, with more folks copying that playbook. Especially around incentive structures.",
-      "url": "https://x.com/aleabitoreddit/status/2076266613675069628",
-      "tweet_id": "2076266613675069628",
-      "translated": "显然，现在有一种新的流行趋势来支撑万亿美元的公司。例如 $NVDA 或 $TSM。通过找到孤立的技术细节，然后通过声称他们的整个计划被延迟来夸大其词。 -> 如果公司不回应，股价/情绪就会受损。 -> 如果公司做出回应，他们无法详细说明，因为供应链是保密的……但人们仍然怀疑他们 -> 海报获得更多印象，然后下次再做一次，获得更多浏览量。我不太认为这很健康，因为越来越多的人效仿该剧本。特别是在激励结构方面。"
     },
     {
       "id": "tweet_qinbafrank_2076728737991913542",
