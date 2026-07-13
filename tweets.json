@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-12T23:57:55.380241+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-13T03:30:31.664770+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2076352093703794999",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 12 Jul 2026 17:04:50 GMT",
-      "content": "RT by @elonmusk: Elon Musk explains why the Sun is humanity's ultimate energy source: \"The vast majority of Earth's energy already comes from the Sun. Without it, Earth would be a frozen ice ball A roughly 100-mile by 100-mile area of solar panels....about a corner of Arizona, could generate enough electricity to power the entire United States\" The challenge isn't whether enough solar energy exists It's building the infrastructure to capture, store, and distribute it efficiently",
-      "url": "https://x.com/elonmusk/status/2076352093703794999",
-      "tweet_id": "2076352093703794999",
-      "translated": "@elonmusk 的 RT：埃隆·马斯克解释了为什么太阳是人类的终极能源：“地球的绝大多数能量已经来自太阳。如果没有太阳，地球将成为一个冰冻的冰球。大约 100 英里 x 100 英里的太阳能电池板面积……大约在亚利桑那州的一个角落，可以产生足够的电力来为整个美国供电。”挑战不在于是否存在足够的太阳能，而在于建设基础设施来有效地捕获、存储和分配太阳能。"
-    },
-    {
-      "id": "tweet_elonmusk_2076434715951689733",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 12 Jul 2026 22:33:09 GMT",
-      "content": "Grok Build improvements",
-      "url": "https://x.com/elonmusk/status/2076434715951689733",
-      "tweet_id": "2076434715951689733",
-      "translated": "Grok 构建改进"
-    },
-    {
-      "id": "tweet_elonmusk_2076434607562531049",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 12 Jul 2026 22:32:43 GMT",
-      "content": "Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on some software benchmarks!",
-      "url": "https://x.com/elonmusk/status/2076434607562531049",
-      "tweet_id": "2076434607562531049",
-      "translated": "在某些软件基准测试中，Grok 4.5 的排名甚至略高于 Fable，这是一个非常好的模型！"
-    },
     {
       "id": "tweet_cz_binance_2076406141941092618",
       "username": "cz_binance",
@@ -93,6 +63,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2076467953995071881",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Mon, 13 Jul 2026 00:45:13 GMT",
+      "content": "Just a semi recap TLDR: - $GLW glass bridge per Morgan Stanley has potential, but hard to displace FAU (like FOCI) in short term - $SPCX Starlink Gen 3 is scaling to 100,000 units (10x prev gen) creating possible capacity constraints for suppliers of switches to CCL. - PCB supply shortages are projected to persist until 2028, and component shortages/price hikes are already forcing ODMs like Inventec to issue conservative H2 shipment - DeepSeek and Zhipu are developing custom ASICs to bypass $NVDA (kinda expected by now). - Anthropic has achieved a $30B ARR and is projected to hit >$1B in Q3 profit. Turns out these frontier labs are more profitable than people think. - US admin pressured $AAPL to source from $INTC, in exchange for tariff exception. Kinda pressuring alignment away from TSM. - $TSM plans a 30x expansion of its Photonic Integrated Circuit (PIC) capacity by 2028, growing from 500 to 25,000 wafers per month - Hanmi Semiconductor is entering the CoWoS packaging equipment market - $NVDA and NTT hosting a conference July 24th to discuss CPO strategies. - 5x general NAND flash price hike this year, market size $489B by next year triggered by RAG/inference. Samsung and SK Hynix make emergency fab investments, NAND equipment suppliers go brrrr. - Gas turbine bottleneck, 40% supply gap accompanied by staggering 5-year delivery cycles (mega-fabs need them for mass production). - AI probe card assembly has hit a severe bottleneck apparently. Which is attempted to by solved with things like Innovation Service's machines. - Nanya, 79.5% gross margins reported, memory go brr. 4x capex for capacity/advanced packaging. - CXMT's STAR Market IPO on July 16, so should bring a lot of attention to memory players in that supply chain. - KYEC $1.4B investment into US for $TSM Arizona output test facilities. Lot of these players like $AMKR and others should go brr in 2028. - $INTC CEO warned last month that helium could hinder the manufacturing costs and delivery times of AI chips - 3D NAND word lines are shifting from Tungsten to Molybdenum starting at the 375-layer node - SambaNova secured JPM for AI inference and raised $1B at an $11B valuation. - HBM prices projections to double in 2027 as $NVDA Rubin platform drives demand. - $MU provides $500 million in funding to support GlobalWafers' US manufacturing capacity - $META 'Iris' will enter mass production in September via $AVGO and TSMC and Meta aims to double computing power to 14GW by 2027. - Largan Precision has secured its first CPO FAU order, mass production slated for middle of next year (kinda indication around Foci and others). - Samsung and SK Hynix have delayed the implementation of hybrid bonding packaging technology for HBM4 apparently - Memory costs (DRAM/NAND) have reached 60% of the BOM for sub-$400 smartphones, causing a severe volume contraction. - SK Hynix successfully rasied $26.5 billion through a Nasdaq ADR - $TSLA issued procurement guidelines requiring suppliers to reach weekly production of 1,000 units by September and double to 2,000-2,500 by year end for its 3rd gen Optimus robot. Apparently Alliance Technology and A-Link may be in this supply chain harmonic reducers and vision lenses? Kinda go through all this stuff every day, but don't wanna be a news reporter so just consolidated stuff I found interesting.",
+      "url": "https://x.com/aleabitoreddit/status/2076467953995071881",
+      "tweet_id": "2076467953995071881",
+      "translated": "简单回顾一下 TLDR： - 摩根士丹利的 $GLW 玻璃桥具有潜力，但短期内很难取代 FAU（如 FOCI） - $SPCX Starlink Gen 3 正在扩展到 100,000 台（上一代的 10 倍），为 CCL 交换机供应商造成了可能的产能限制。 - PCB 供应短缺预计将持续到 2028 年，元件短缺/价格上涨已经迫使 Inventec 等 ODM 发布保守的 H2 出货量 - DeepSeek 和 Zhipu 正在开发定制 ASIC，以绕过 NVDA（目前有点预期）。 - Anthropic 的 ARR 已达到 30B 美元，预计第三季度利润将达到 10 亿美元以上。事实证明，这些前沿实验室的利润比人们想象的要高。 - 美国行政部门向 $AAPL 施压，要求其从 $INTC 采购，以换取关税豁免。有点压力，远离TSM。 - $TSM 计划到 2028 年将其光子集成电路 (PIC) 产能扩大 30 倍，从每月 500 片晶圆增加到 25,000 片 - Hanmi Semiconductor 正在进入 CoWoS 封装设备市场 - $NVDA 和 NTT 于 7 月 24 日举办会议讨论 CPO 战略。 - 今年 NAND 闪存价格普遍上涨 5 倍，由 RAG/inference 触发，明年市场规模将达到 $489B。三星和SK海力士紧急投资晶圆厂，NAND设备供应商陷入困境。 - 燃气轮机瓶颈，40% 的供应缺口，以及惊人的 5 年交付周期（大型晶圆厂需要它们进行大规模生产）。 - AI探针卡组装显然已经遇到了严重的瓶颈。人们试图通过创新服务的机器之类的东西来解决这个问题。 - Nanya，报告毛利率为 79.5%，内存运行良好。容量/先进封装的 4 倍资本支出。 - 长鑫存储将于 7 月 16 日科创板 IPO，因此应该会引起该供应链内存厂商的广泛关注。 - KYEC 向美国投资 1.4B 美元用于 $TSM Arizona 输出测试设施。许多像 $AMKR 和其他公司这样的公司应该会在 2028 年走上正轨。 - $INTC 首席执行官上个月警告说，氦气可能会阻碍 AI 芯片的制造成本和交付时间 - 3D NAND 字线从 375 层节点开始从钨转向钼 - SambaNova 获得了 JPM 的人工智能推理服务，并以 11B 美元的估值筹集了 10 亿美元。 - 由于 NVDA Rubin 平台推动需求，HBM 预计 2027 年价格将翻倍。 - $MU 提供 5 亿美元资金支持 GlobalWafers 的美国制造能力 - $META 'Iris' 将于 9 月通过 $AVGO 和台积电进入量产，Meta 的目标是到 2027 年将计算能力翻一番，达到 14GW。 - 大立光电 (Largan Precision) 已获得第一个 CPO FAU 订单，定于明年年中进行量产（与 Foci 等公司类似）。 - 三星和 SK Hynix 明显推迟了 HBM4 混合键合封装技术的实施 - 内存成本 (DRAM/NAND) 已达到 400 美元以下智能手机 BOM 的 60%，导致销量严重萎缩。 - SK 海力士通过纳斯达克 ADR 成功筹集了 265 亿美元 - TSLA 发布了采购指南，要求供应商在 9 月份之前达到每周生产 1,000 台的目标，并在年底前将其第三代 Optimus 机器人的产量翻一番，达到 2,000-2,500 台。显然Alliance Technology和A-Link可能在这个供应链中谐波减速器和视觉镜片？有点每天都要经历所有这些东西，但不想成为一名新闻记者，所以只是整合了我发现有趣的东西。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2076372905450188998",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -111,16 +91,6 @@
       "url": "https://x.com/aleabitoreddit/status/2076266613675069628",
       "tweet_id": "2076266613675069628",
       "translated": "显然，现在有一种新的流行趋势来支撑万亿美元的公司。例如 $NVDA 或 $TSM。通过找到孤立的技术细节，然后通过声称他们的整个计划被延迟来夸大其词。 -> 如果公司不回应，股价/情绪就会受损。 -> 如果公司做出回应，他们无法详细说明，因为供应链是保密的……但人们仍然怀疑他们 -> 海报获得更多印象，然后下次再做一次，获得更多浏览量。我不太认为这很健康，因为越来越多的人效仿该剧本。特别是在激励结构方面。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2076248337863639506",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sun, 12 Jul 2026 10:12:33 GMT",
-      "content": "So there's a IBK Research report on Boston Dynamics value chains from last month. Just a summary: IBK maps these companies to Atlas as suppliers: - Hwashin (010690) / body, arms, legs - LG Energy (373220) / battery - Hyundai Autoever (307950) / integration - Hyundai Mobis (012330) / actuators As for humanoid volume ramps: They're modeling for, 11.29K in 2028, 20k 2029, 30k in 2030... 40k in 2031, and 50k in 2032. Not quite sure why IBK and other institutions are a fan of linearly modeling S-curve volume ramps... Like adding +10K per year, don't quite think it's volume ramp is going to work like that... if I had to guess it would look more like: - 15-20k 2028 - 40k-70k 2029 - 90k-140k for 2030 Since Boston Dynamics is projecting 30k capacity by 2028 (I'm sure they'd aim to get more online by 2029-2030), as China collectively is already doing 100k EOY in 2026. In terms of competitive landscape they name: - $TSLA, Figure, Apptronik, $CCXI (Agility), as US players. Then Boston Dynamics (Korea parent owned now) - Unitree, Fourier, AGibot, UBtech, $XPEV as the Chinese leaders. - Neura, Pal Robotics, Wandercraft, Oversonic, as the EU leaders. They also did quite a lot of valuation modeling around Hyundai Mobis/Hyundai Autoever/Glovis. Regarding the BD economic ownership from 27.9% from Hyundai Motor, 11.3% from Mobis, and 11.3% from Glovis. So at least institution are valuing humanoid segments inside companies lot more now. Then from report assumptions: - 31 actuators per Atlas - $1K per actuator in 2028 - $134K Atlas ASP, Which implies actuator cost of final selling price is roughly 23–28%. Probably the more interesting statement was IBK stated that actuator capacity is biggest signal for volume ramp. eg. every 310,000 units of actuator capacity supports 10,000 more robots. So tracking actuator outputs, yields, ASP is a cleaner read on 2028-2030 ramp. I didn't have much personal takeaways, but hopefully others find it interesting, maybe around Hwashin as a core supplier or around actuator capacity as an indicator.",
-      "url": "https://x.com/aleabitoreddit/status/2076248337863639506",
-      "tweet_id": "2076248337863639506",
-      "translated": "上个月有一份关于波士顿动力价值链的 IBK 研究报告。总结一下：IBK 将这些公司映射到 Atlas 作为供应商： - Hwashin (010690) / 身体、手臂、腿 - LG Energy (373220) / 电池 - Hyundai Autoever (307950) / 集成 - Hyundai Mobis (012330) / 执行器 至于人形体积斜坡：他们正在建模，2028 年为 11.29K，20k 2029 年，2030 年 30k...2031 年 40k，2032 年 50k。不太确定为什么 IBK 和其他机构热衷于线性建模 S 曲线成交量斜坡...就像每年增加 +10K，不太认为成交量斜坡会这样工作...如果我不得不猜测它看起来更像是： - 15-20k 2028 - 2029 年 40k-70k - 2030 年 90k-140k 由于波士顿动力公司预计到 2028 年产能将达到 30k（我相信他们的目标是到 2029-2030 年实现更多上网），而中国在 2026 年的产能已达到 100k EOY。就竞争格局而言，他们指出： - $TSLA、Figure、Apptronik、$CCXI （敏捷性），不如美国选手。然后是波士顿动力（现为韩国母公司）——Unitree、Fourier、AGibot、UBtech、$XPEV 作为中国的领导者。 - Neura、Pal Robotics、Wandercraft、Oversonic 为欧盟领导者。他们还围绕现代摩比斯/现代 Autoever/Glovis 进行了大量估值建模。 BD经济所有权方面，现代汽车占27.9%，摩比斯占11.3%，格洛维斯占11.3%。因此，至少机构现在更加重视公司内部的人形部分。然后根据报告假设： - 每个 Atlas 31 个执行器 - 2028 年每个执行器 1,000 美元 - Atlas ASP 为 13.4 万美元，这意味着最终销售价格的执行器成本约为 23-28%。也许更有趣的说法是 IBK 表示执行器容量是成交量增长的最大信号。例如。每31万个执行器容量可支持1万个以上的机器人。因此，跟踪执行器输出、产量、ASP 是 2028-2030 年斜坡的更清晰的解读。我没有太多个人收获，但希望其他人觉得它很有趣，也许围绕和信作为核心供应商，或者围绕执行器容量作为指标。"
     },
     {
       "id": "tweet_qinbafrank_2076267339704893579",
@@ -151,6 +121,15 @@
       "tweet_id": "2076185072613597214"
     },
     {
+      "id": "tweet_xiaomustock_2076493680870043957",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Mon, 13 Jul 2026 02:27:27 GMT",
+      "content": "世界可以毁灭了，累了，就这样吧。",
+      "url": "https://x.com/xiaomustock/status/2076493680870043957",
+      "tweet_id": "2076493680870043957"
+    },
+    {
       "id": "tweet_xiaomustock_2075873886185697351",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -169,13 +148,13 @@
       "tweet_id": "2075601078062879107"
     },
     {
-      "id": "tweet_xiaomustock_2075596586986754131",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Fri, 10 Jul 2026 15:02:43 GMT",
-      "content": "去年真是满大街的好机会， 当时145梭哈的3万股amd现在已经高攀不起，回想起来真是脑残呐， 去年的股票能预期业绩涨十倍股价也能十倍， 现阶段大部分AI红利涨幅被吃完了， 预期不上不下，业绩翻倍都笑死，所以股价翻倍都笑死。 只能寻找业绩还能明确有十倍以上潜力的，才可能获得十倍左右的股价涨幅。",
-      "url": "https://x.com/xiaomustock/status/2075596586986754131",
-      "tweet_id": "2075596586986754131"
+      "id": "tweet_xingpt_2076490906203726109",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 13 Jul 2026 02:16:26 GMT",
+      "content": "海力士暴跌，一天跌 10 个点，这种跌法我只在山寨币里见过。 怎么说呢，一大早基本面处了利空： 海力士营业利润预计将达到60.4万亿韩元，环比增长61%，同比增长556%，但仍比市场普遍预期的65万亿韩元低8%。业绩未达预期的主要原因是SK海力士的高带宽内存(HBM)收入占比高于同行，导致其平均售价(ASP)涨幅低于市场平均水平。 但下跌这么多，我觉得还是韩国杠杆太高，上周看的杠杆数据还是没见底，金融市场去杠杆的过程一定是非常暴力的。如果看好存储板块，还是拿住正股，2xETF一旦开始震荡趋势千万不能再拿了。",
+      "url": "https://x.com/xingpt/status/2076490906203726109",
+      "tweet_id": "2076490906203726109"
     },
     {
       "id": "tweet_xingpt_2076198914785751175",
@@ -196,45 +175,36 @@
       "tweet_id": "2076198910822125920"
     },
     {
-      "id": "tweet_xingpt_2076198906724299029",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Sun, 12 Jul 2026 06:56:07 GMT",
-      "content": "Apple 诉讼OpenAI的起诉书透露了许多惊人的细节： 至少超过 400 名前员工跳槽到了OpenAI工作，而OpenAI为了挖角Apple的技术，要求候选人带着 Apple 的零件去 OpenAI 面试,做\"show and tell\"。 前 iPhone 系统电气工程师 Chang Liu,今年 1 月跳槽 OpenAI 时没交还工作电脑，之后利用一个认证漏洞重新潜入 Apple 内网，下载了上千页机密文档，包括 Apple 产品复杂电路板的详细制造资料，还在聊天记录里调侃\"LOL\"\"so funny\"。 而 OpenAI 硬件负责人、在 Apple 干了 24 年的前产品设计副总裁 Tang Tan，被指控离职前把供应商名单和内部行业总结发进自己邮箱，面试 Apple 员工时用内部项目代号套问\"那个项目计划怎样了\"；有候选人在面试前几小时突击截屏下载某高度机密项目的文件，Tan 在面试中\"恰好\"追问同一个项目，Apple 称这已成了\"固定模式\"。 他甚至向新入职者分发 Apple 的《离职安检流程》内部文件，教人规避审查，还劝人别急着辞职，好在两周 notice 期里继续接触机密。",
-      "url": "https://x.com/xingpt/status/2076198906724299029",
-      "tweet_id": "2076198906724299029"
-    },
-    {
-      "id": "tweet_hibtc37_2076302037713895740",
+      "id": "tweet_hibtc37_2076505153864343999",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Sun, 12 Jul 2026 13:45:56 GMT",
-      "content": "算力紧缺",
-      "url": "https://x.com/hibtc37/status/2076302037713895740",
-      "tweet_id": "2076302037713895740"
+      "published_at": "Mon, 13 Jul 2026 03:13:02 GMT",
+      "content": "希望海力士收盘拉回一些，要不然带崩存储，真不敢想😅",
+      "url": "https://x.com/hibtc37/status/2076505153864343999",
+      "tweet_id": "2076505153864343999"
     },
     {
-      "id": "tweet_hibtc37_2075915755699535926",
+      "id": "tweet_hibtc37_2076488910755320175",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Sat, 11 Jul 2026 12:10:59 GMT",
-      "content": "Gate全团队对一个被盗/疑似被盗的客户，极尽嘲讽，真是让人大跌眼镜，虽然，他事后道歉了，但依然很难让人接受，这不是做服务该有的做事态度 好的，交易所，越来越少了，野鸡所多了，拉低了行业操守和从业标准，各大平台很容易陷入比烂模式 交易所，永远是不可信的，唯有私钥可信，但真接受一点之前，大多数人都要付出昂贵代价",
-      "url": "https://x.com/hibtc37/status/2075915755699535926",
-      "tweet_id": "2075915755699535926"
+      "published_at": "Mon, 13 Jul 2026 02:08:30 GMT",
+      "content": "平仓后，怎么没想到反手呢",
+      "url": "https://x.com/hibtc37/status/2076488910755320175",
+      "tweet_id": "2076488910755320175"
     },
     {
-      "id": "tweet_hibtc37_2075762760336687359",
+      "id": "tweet_hibtc37_2076488272252121293",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Sat, 11 Jul 2026 02:03:02 GMT",
-      "content": "海力士1.2万亿市值，还是太便宜，作为AI时代的王者级别代表，HBM遥遥领先者，他和MU未来应该是台积电级别的存在",
-      "url": "https://x.com/hibtc37/status/2075762760336687359",
-      "tweet_id": "2075762760336687359"
+      "published_at": "Mon, 13 Jul 2026 02:05:58 GMT",
+      "content": "知道容易，做到需要魄力，SPCX挂的单没吃到几个就下去了……又错失一个确定性机会",
+      "url": "https://x.com/hibtc37/status/2076488272252121293",
+      "tweet_id": "2076488272252121293"
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
