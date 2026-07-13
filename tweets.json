@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-13T10:30:22.362826+00:00",
+  "fetched_at": "2026-07-13T16:37:10.773469+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2076690060699684905",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 13 Jul 2026 15:27:48 GMT",
+      "content": "Literally true",
+      "url": "https://x.com/elonmusk/status/2076690060699684905",
+      "tweet_id": "2076690060699684905",
+      "translated": "字面意思是真的"
+    },
     {
       "id": "tweet_elonmusk_2076373041773256963",
       "username": "elonmusk",
@@ -23,14 +33,13 @@
       "translated": "在后台模式下使用 Grok 代理"
     },
     {
-      "id": "tweet_elonmusk_2076558971905650718",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 13 Jul 2026 06:46:54 GMT",
-      "content": "R to @elonmusk: The publicly available version of Mythos (Fable with Claude as fallback) is significantly nerfed, but still that’s all most people have access to",
-      "url": "https://x.com/elonmusk/status/2076558971905650718",
-      "tweet_id": "2076558971905650718",
-      "translated": "R 致@elonmusk：Mythos 的公开版本（以克劳德为后备的寓言）已被严重削弱，但这仍然是大多数人可以访问的内容"
+      "id": "tweet_cz_binance_2076667370848850297",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Mon, 13 Jul 2026 13:57:38 GMT",
+      "content": "🤣",
+      "url": "https://x.com/cz_binance/status/2076667370848850297",
+      "tweet_id": "2076667370848850297"
     },
     {
       "id": "tweet_cz_binance_2076569318800974030",
@@ -50,16 +59,6 @@
       "content": "没那么深奥，就是好久没看那个钱包，打开一看，发现代币太多了（上万个），软件显示有点不友好。提了建议，之后又做了个测试。 打到我的地址不如直接打入黑洞，减少一步操作，更直接有效🙏： 0x000000000000000000000000000000000000dEaD",
       "url": "https://x.com/cz_binance/status/2076562377906995462",
       "tweet_id": "2076562377906995462"
-    },
-    {
-      "id": "tweet_cz_binance_2076406141941092618",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 12 Jul 2026 20:39:36 GMT",
-      "content": "Based on today's biotech, everyone will use this feature one. Hope you use it as late as possible. But might be a good idea to set it up early. 🙏",
-      "url": "https://x.com/cz_binance/status/2076406141941092618",
-      "tweet_id": "2076406141941092618",
-      "translated": "基于当今的生物技术，每个人都会使用这一功能。希望您尽可能晚地使用它。但尽早设置可能是个好主意。 🙏"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -122,6 +121,15 @@
       "translated": "显然，现在有一种新的流行趋势来支撑万亿美元的公司。例如 $NVDA 或 $TSM。通过找到孤立的技术细节，然后通过声称他们的整个计划被延迟来夸大其词。 -> 如果公司不回应，股价/情绪就会受损。 -> 如果公司做出回应，他们无法详细说明，因为供应链是保密的……但人们仍然怀疑他们 -> 海报获得更多印象，然后下次再做一次，获得更多浏览量。我不太认为这很健康，因为越来越多的人效仿该剧本。特别是在激励结构方面。"
     },
     {
+      "id": "tweet_qinbafrank_2076654003455398067",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Mon, 13 Jul 2026 13:04:31 GMT",
+      "content": "台积电6月营收月报： 1）6月单月营收4426.8亿元新台币，同比去年6月增幅67.9% ； 2）2026年1至6月半年营收合计约2.40万亿元新台币，较去年同期增长35.6%。 这里值得注意的一点： 35.6%半年同比增速与6月67.9%的同比增速之间存在明显落差，这意味着去年下半年起台积电的营收增速已明显提速。 而且过往规律显示，台积电营收通常呈现\"下半年强于上半年\"的季节性特征，叠加当前AI需求持续超预期的产业背景，下半年营收有望延续强劲增势",
+      "url": "https://x.com/qinbafrank/status/2076654003455398067",
+      "tweet_id": "2076654003455398067"
+    },
+    {
       "id": "tweet_qinbafrank_2076613920769663136",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -138,15 +146,6 @@
       "content": "AI时代创意IP的“清算基础设施”终于有人在做了，看到@KorProtocol宣布完成750万美元A轮融资，由1kx和BlockchainCapital领投，投后估值1亿美元，Republic、Animoca、Solana、Avalanche等一众机构跟投。这条消息其实挺有意思的，不是单纯的融资新闻，而是AI内容爆发后，底层权利基础设施终于开始被认真定价了。 AI把内容生产成本打到接近零，但它解决不了几个最根本的问题：这是谁的？谁能用？钱怎么分？ 传统娱乐行业本来就权属混乱、授权慢、版税到账拖几年，AI 一来直接把矛盾放大了十倍。KOR 做的就是把这个“清算所”搬到链上——Verify + Route + Settle 三引擎，把创意资产从静态文件变成可验证、可匹配、可自动结算的活资产。 1）Verify 引擎 是基础。创作者把作品上链注册，建立数字 DNA，记录来源、所有权、许可条款。尤其是 AI 生成内容，之前根本说不清谁拥有，现在链上能给出清晰的“出生证明”。这不是简单的 NFT，而是给 IP 做了一次可编程的权属确权。 2）Route 引擎 才是商业价值所在。它不是被动等待交易，而是用数据和 AI 主动撮合。一边是验证后的创作者和资产，另一边是厂牌、品牌、平台、经纪公司。性能信号、需求数据驱动定价和推荐，形成匹配闭环。Pacer、Streamline 这类产品已经在帮艺术家规划发行、推荐内容，本质上是把“发现”和“交易”从人工低效变成数据驱动的高效市场。 3）Settle 引擎 则是落地关键。交易一旦发生，智能合约 + USDC 在 Base 链上即时自动分成，所有参与方（原作者、remix 创作者、平台）实时到账，支持复杂分成规则和 recurring revenue。这直接解决了传统版税 opaque、到账慢的痛点。 从价值链角度看，KOR 其实在做三件事： 把混乱的 IP 权属变成可信的链上资产（降低交易摩擦）； 用数据和 AI 把供给和需求高效撮合（提升市场流动性）； 用可编程结算让价值实时、透明地流转（重构分成机制）。 这三者叠加就形成了正向飞轮：交易越多，数据越丰富，匹配越准，定价越合理，收入也越稳定。目前他们已经跑出 100 万+ 注册用户、200 万美元+ 收入、28.5 万+ NFT、1000+ IP 合作伙伴，还有 deadmau5 和《黑镜》这样的合作，说明早期产品市场契合度不低。 更重要的是时代背景。AI 让内容生产变成 commodity，但权利管理和变现依然是稀缺基础设施。未来真正值钱的，不是又多一个生成工具，而是能把这些内容变成可交易、可组合、可持续变现的资产层。KOR 卡的正是这个位置——它不是在和 AI 工具竞争，而是在为整个 AI 内容经济提供底层清算轨道。 融资后他们会继续扩大 IP 供给、深化合作、推进网络扩展。短期看是基础设施建设，中长期看是 AI x 娱乐赛道里最被低估的确定性机会之一。资本结构也挺干净，1kx 和 Blockchain Capital 这种专注基础设施的机构领投，后面还有生态方支持，执行力应该有保障。 现在生态还在早期窗口期。有版权收费或 IP 变现需求的创作者，建议去 http://id.korprotocol.io 拿个 KOR ID，体验资产注册和生态交互。KORUS 可以试试授权 remix，KOR Hubs 则适合直接面向粉丝社区卖 stem packs、办比赛、收付费反馈。这些都是把 IP 从“静态”变成“可交互可变现”的真实路径。 AI 时代，生产端已经卷到极致，接下来真正决定天花板的，是权利、匹配和结算这套基础设施。KOR 正在把这套东西从概念变成可规模化的协议，值得持续跟踪。",
       "url": "https://x.com/qinbafrank/status/2076589362339528766",
       "tweet_id": "2076589362339528766"
-    },
-    {
-      "id": "tweet_qinbafrank_2076527991862300949",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Mon, 13 Jul 2026 04:43:47 GMT",
-      "content": "怎么理解美银上周最新一期《The Flow Show》报告，标题也足够吸睛：“No landing, no cut, no hike, no sweep, no bears 没有着陆、没有削减、没有加息、没有横扫、也没有空头”。美银这一份报告描述了一个基本面尚未转坏、趋势尚未破坏，但仓位和共识已高度饱和的市场。 容易被误读成“完全看空美股”，个人角度更准确的理解是： 1）战术层面偏谨慎 Bull & Bear 9.5意味着不应继续增加杠杆和追逐最拥挤的交易。 2）趋势层面仍未转空。 MAGS、AUD/JPY、股票资金流和AI资本开支仍支撑风险资产。 3）风险收益已经明显不对称。 市场继续上涨需要四个“No”大体同时成立；市场出现较大调整，只需要其中一个重要假设被证伪。 4）下一阶段更可能是轮动，而不是所有资产同步上涨。 商品、新兴市场、小盘价值、消费者、软件和现金流型科技，可能相对纯AI硬件拥挤交易更有吸引力。 5）真正的系统性风险触发器不是估值本身。 更值得担心的是实际利率失控、AI融资约束、日本利率冲击以及套息交易逆转。 对美股组合最贴合本期报告的定位是： 保留高质量核心仓位，减少杠杆和低质量高估值敞口； 不过度追涨半导体和AI资本品； 配置现金或长债尾部对冲； 等待小盘价值、消费、EM等轮动方向得到价格确认。 此内容由@BITstocks_CN赞助，买美股上BIT—16000+ 只美股与 ETF，真实持仓，享股息分红。",
-      "url": "https://x.com/qinbafrank/status/2076527991862300949",
-      "tweet_id": "2076527991862300949"
     },
     {
       "id": "tweet_xiaomustock_2076585478808281292",
@@ -176,6 +175,15 @@
       "tweet_id": "2076532128049992073"
     },
     {
+      "id": "tweet_xingpt_2076634227106591059",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 13 Jul 2026 11:45:56 GMT",
+      "content": "Meta说要把原来的算力中心扩展到 5GW，原来不缺算力的传言也不攻自破了。 基本面没问题的时候，空头故意放一些消息配合砸盘，这时候应该先跑，还是应该不变，甚至加仓？ 我最开始的时候认为这是个好的错杀机会，至少跑路是不符合我对基本面的判断的，问了几个meta和硅谷的朋友，算力都缺得要死，怎么可能不缺算力； 我的判断没问题。但还是错了。 错在过于相信基本面的支撑，忽略了空头或者获利盘砸盘的量能，消息只不过配合砸盘放给媒体的工具。 正确地做法是暂时跑路，或者坚持不动仓位，但是要给一个判断错误跑路的时机。",
+      "url": "https://x.com/xingpt/status/2076634227106591059",
+      "tweet_id": "2076634227106591059"
+    },
+    {
       "id": "tweet_xingpt_2076579578865385481",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -194,13 +202,13 @@
       "tweet_id": "2076579435181162839"
     },
     {
-      "id": "tweet_xingpt_2076569856850457012",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Mon, 13 Jul 2026 07:30:09 GMT",
-      "content": "A股股民跌了就怪峰哥：一个是梁文锋，说是文峰的量化割韭菜，害得股民追涨杀跌；一个是二次元峰哥，都怪峰哥一买就跌。",
-      "url": "https://x.com/xingpt/status/2076569856850457012",
-      "tweet_id": "2076569856850457012"
+      "id": "tweet_hibtc37_2076669696364154933",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Mon, 13 Jul 2026 14:06:52 GMT",
+      "content": "已跑，天台人满为患",
+      "url": "https://x.com/hibtc37/status/2076669696364154933",
+      "tweet_id": "2076669696364154933"
     },
     {
       "id": "tweet_hibtc37_2076531516554031189",
@@ -219,20 +227,11 @@
       "content": "海力士 多套救",
       "url": "https://x.com/hibtc37/status/2076516080168976415",
       "tweet_id": "2076516080168976415"
-    },
-    {
-      "id": "tweet_hibtc37_2076505153864343999",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Mon, 13 Jul 2026 03:13:02 GMT",
-      "content": "希望海力士收盘拉回一些，要不然带崩存储，真不敢想😅",
-      "url": "https://x.com/hibtc37/status/2076505153864343999",
-      "tweet_id": "2076505153864343999"
     }
   ],
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
