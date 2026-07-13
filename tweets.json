@@ -1,36 +1,55 @@
 {
-  "fetched_at": "2026-07-13T06:56:53.710151+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-13T10:30:22.362826+00:00",
+  "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2076472406860873975",
+      "id": "tweet_elonmusk_2076373041773256963",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Mon, 13 Jul 2026 01:02:55 GMT",
-      "content": "RT by @elonmusk: NEW: Grok 4.5 now scores highest on the SWE-Atlas-QnA benchmark, edging Claude Fable 5 & GPT-5.6 Sol.",
-      "url": "https://x.com/elonmusk/status/2076472406860873975",
-      "tweet_id": "2076472406860873975",
-      "translated": "RT @elonmusk：新：Grok 4.5 现在在 SWE-Atlas-QnA 基准测试中得分最高，领先于 Claude Fable 5 和 GPT-5.6 Sol。"
+      "published_at": "Sun, 12 Jul 2026 18:28:04 GMT",
+      "content": "RT by @elonmusk: Well shit - grok 4.5 is KILLING it it in my video studio evals! 6/33 -> 23/33 with ridiculous cost efficiency compared to 5.6 models",
+      "url": "https://x.com/elonmusk/status/2076373041773256963",
+      "tweet_id": "2076373041773256963",
+      "translated": "RT by @elonmusk：好吧，狗屎 - grok 4.5 在我的视频工作室评估中正在杀死它！ 6/33 -> 23/33 与 5.6 型号相比，成本效率高得离谱"
     },
     {
-      "id": "tweet_elonmusk_2076373929439244528",
+      "id": "tweet_elonmusk_2076563677319209094",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 12 Jul 2026 18:31:36 GMT",
-      "content": "RT by @elonmusk: I get to see this monster fly again later this week... new photos to come!",
-      "url": "https://x.com/elonmusk/status/2076373929439244528",
-      "tweet_id": "2076373929439244528",
-      "translated": "RT @elonmusk：本周晚些时候我会再次看到这个怪物飞翔......新照片即将到来！"
+      "published_at": "Mon, 13 Jul 2026 07:05:36 GMT",
+      "content": "Using Grok agents in background mode",
+      "url": "https://x.com/elonmusk/status/2076563677319209094",
+      "tweet_id": "2076563677319209094",
+      "translated": "在后台模式下使用 Grok 代理"
     },
     {
-      "id": "tweet_elonmusk_2076352093703794999",
+      "id": "tweet_elonmusk_2076558971905650718",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 12 Jul 2026 17:04:50 GMT",
-      "content": "RT by @elonmusk: Elon Musk explains why the Sun is humanity's ultimate energy source: \"The vast majority of Earth's energy already comes from the Sun. Without it, Earth would be a frozen ice ball A roughly 100-mile by 100-mile area of solar panels....about a corner of Arizona, could generate enough electricity to power the entire United States\" The challenge isn't whether enough solar energy exists It's building the infrastructure to capture, store, and distribute it efficiently",
-      "url": "https://x.com/elonmusk/status/2076352093703794999",
-      "tweet_id": "2076352093703794999",
-      "translated": "@elonmusk 的 RT：埃隆·马斯克解释了为什么太阳是人类的终极能源：“地球的绝大多数能量已经来自太阳。如果没有太阳，地球将成为一个冰冻的冰球。大约 100 英里 x 100 英里的太阳能电池板面积……大约在亚利桑那州的一个角落，可以产生足够的电力来为整个美国供电。”挑战不在于是否存在足够的太阳能，而在于建设基础设施来有效地捕获、存储和分配太阳能。"
+      "published_at": "Mon, 13 Jul 2026 06:46:54 GMT",
+      "content": "R to @elonmusk: The publicly available version of Mythos (Fable with Claude as fallback) is significantly nerfed, but still that’s all most people have access to",
+      "url": "https://x.com/elonmusk/status/2076558971905650718",
+      "tweet_id": "2076558971905650718",
+      "translated": "R 致@elonmusk：Mythos 的公开版本（以克劳德为后备的寓言）已被严重削弱，但这仍然是大多数人可以访问的内容"
+    },
+    {
+      "id": "tweet_cz_binance_2076569318800974030",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Mon, 13 Jul 2026 07:28:01 GMT",
+      "content": "RT by @cz_binance: [ $ASTER Buyback and Burn Update ] From 2026-06-29 00:00 UTC to 2026-07-13 00:00 UTC, 99% of daily platform fees were used to buy back 3,083,815.69 $ASTER for stakers. A matching 3,083,815.69 $ASTER has been burned from the team allocation. https://bscscan.com/tx/0xf078f6d35731cd450d9c5d70352d2d7680716478a538629da565763b373ca570 - Cumulative burn under the upgraded tokenomics since 2026-06-17: 6,020,941.22 $ASTER - Cumulative burn across all programs: 183,801,942.79 $ASTER - Est. total staking APY as of 2026-07-13: 5.35% with a 26-week lock and 28.85% with the maximum 208-week lock. Variable.",
+      "url": "https://x.com/cz_binance/status/2076569318800974030",
+      "tweet_id": "2076569318800974030",
+      "translated": "@cz_binance 转发：【$ASTER 回购销毁更新】2026-06-29 00:00 UTC 至 2026-07-13 00:00 UTC，每日平台费用的 99% 用于为质押者回购 3,083,815.69 $ASTER。相应的 3,083,815.69 $ASTER 已从团队分配中被销毁。 https://bscscan.com/tx/0xf078f6d35731cd450d9c5d70352d2d7680716478a538629da565763b373ca570 - 自 2026 年 6 月 17 日以来升级代币经济下的累积燃烧：6,020,941.22 $ASTER - 累积烧毁所有程序：183,801,942.79 $ASTER - Est。截至 2026 年 7 月 13 日的总质押年利率：26 周锁定为 5.35%，最长 208 周锁定为 28.85%。多变的。"
+    },
+    {
+      "id": "tweet_cz_binance_2076562377906995462",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Mon, 13 Jul 2026 07:00:26 GMT",
+      "content": "没那么深奥，就是好久没看那个钱包，打开一看，发现代币太多了（上万个），软件显示有点不友好。提了建议，之后又做了个测试。 打到我的地址不如直接打入黑洞，减少一步操作，更直接有效🙏： 0x000000000000000000000000000000000000dEaD",
+      "url": "https://x.com/cz_binance/status/2076562377906995462",
+      "tweet_id": "2076562377906995462"
     },
     {
       "id": "tweet_cz_binance_2076406141941092618",
@@ -43,24 +62,34 @@
       "translated": "基于当今的生物技术，每个人都会使用这一功能。希望您尽可能晚地使用它。但尽早设置可能是个好主意。 🙏"
     },
     {
-      "id": "tweet_cz_binance_2076402335035666734",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 12 Jul 2026 20:24:29 GMT",
-      "content": "RT by @cz_binance: If you ask me, Trust Wallet is the perfect choice for moving your funds. Clean and SAFU.",
-      "url": "https://x.com/cz_binance/status/2076402335035666734",
-      "tweet_id": "2076402335035666734",
-      "translated": "RT @cz_binance：如果你问我，Trust Wallet 是转移资金的完美选择。干净、SAFU。"
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432",
+      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
     },
     {
-      "id": "tweet_cz_binance_2075185194617954446",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 09 Jul 2026 11:48:00 GMT",
-      "content": "RT by @cz_binance: Day 269 : 💚💚💚 One class a day - Giggle Academy worldwide. @cz_binance @NiannianCTO_BNB",
-      "url": "https://x.com/cz_binance/status/2075185194617954446",
-      "tweet_id": "2075185194617954446",
-      "translated": "RT @cz_binance：第 269 天：💚💚💚 每天一堂课 - 全球 Giggle 学院。 @cz_binance @NiannianCTO_BNB"
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2068370500334637542",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
+      "content": "RT by @realDonaldTrump: POLL…",
+      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
+      "tweet_id": "2068370500334637542",
+      "translated": "RT @realDonaldTrump：投票……"
     },
     {
       "id": "tweet_aleabitoreddit_2076467953995071881",
@@ -93,6 +122,24 @@
       "translated": "显然，现在有一种新的流行趋势来支撑万亿美元的公司。例如 $NVDA 或 $TSM。通过找到孤立的技术细节，然后通过声称他们的整个计划被延迟来夸大其词。 -> 如果公司不回应，股价/情绪就会受损。 -> 如果公司做出回应，他们无法详细说明，因为供应链是保密的……但人们仍然怀疑他们 -> 海报获得更多印象，然后下次再做一次，获得更多浏览量。我不太认为这很健康，因为越来越多的人效仿该剧本。特别是在激励结构方面。"
     },
     {
+      "id": "tweet_qinbafrank_2076613920769663136",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Mon, 13 Jul 2026 10:25:14 GMT",
+      "content": "看到字节哥说海力士6月底已经清仓，很惭愧之前这里秀的时候也只是移动止盈了一点，剩下的仓位也是大幅回撤，所幸7709都是3月份4月初买的成本还可以。今天在60左右又开始硬着头皮买了些，还买了些海力士正股。为什么买？ 1、这是压缩式去杠杆https://x.com/qinbafrank/status/2075067198570475727?s=46&t=k6rimWsEbo2D2tXolYcM-A而非基本面出了大问题，如果说之前市场对海力士过于fomo，那么跌了接近40%的海力士就显得眉清目秀了。 2、今天海力士大跌主要因素是KIS（韩国投资证券）最新SK海力士（SK hynix）报告梳理认为其二季度利润60万亿韩元，低于市场共识8%。甚至高于调低了对海力士26年和27年全年的业绩预测。 但是很多人忽略的是KIS维持对海力士的买入评级甚至目标价依然维持在380万韩元。",
+      "url": "https://x.com/qinbafrank/status/2076613920769663136",
+      "tweet_id": "2076613920769663136"
+    },
+    {
+      "id": "tweet_qinbafrank_2076589362339528766",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Mon, 13 Jul 2026 08:47:39 GMT",
+      "content": "AI时代创意IP的“清算基础设施”终于有人在做了，看到@KorProtocol宣布完成750万美元A轮融资，由1kx和BlockchainCapital领投，投后估值1亿美元，Republic、Animoca、Solana、Avalanche等一众机构跟投。这条消息其实挺有意思的，不是单纯的融资新闻，而是AI内容爆发后，底层权利基础设施终于开始被认真定价了。 AI把内容生产成本打到接近零，但它解决不了几个最根本的问题：这是谁的？谁能用？钱怎么分？ 传统娱乐行业本来就权属混乱、授权慢、版税到账拖几年，AI 一来直接把矛盾放大了十倍。KOR 做的就是把这个“清算所”搬到链上——Verify + Route + Settle 三引擎，把创意资产从静态文件变成可验证、可匹配、可自动结算的活资产。 1）Verify 引擎 是基础。创作者把作品上链注册，建立数字 DNA，记录来源、所有权、许可条款。尤其是 AI 生成内容，之前根本说不清谁拥有，现在链上能给出清晰的“出生证明”。这不是简单的 NFT，而是给 IP 做了一次可编程的权属确权。 2）Route 引擎 才是商业价值所在。它不是被动等待交易，而是用数据和 AI 主动撮合。一边是验证后的创作者和资产，另一边是厂牌、品牌、平台、经纪公司。性能信号、需求数据驱动定价和推荐，形成匹配闭环。Pacer、Streamline 这类产品已经在帮艺术家规划发行、推荐内容，本质上是把“发现”和“交易”从人工低效变成数据驱动的高效市场。 3）Settle 引擎 则是落地关键。交易一旦发生，智能合约 + USDC 在 Base 链上即时自动分成，所有参与方（原作者、remix 创作者、平台）实时到账，支持复杂分成规则和 recurring revenue。这直接解决了传统版税 opaque、到账慢的痛点。 从价值链角度看，KOR 其实在做三件事： 把混乱的 IP 权属变成可信的链上资产（降低交易摩擦）； 用数据和 AI 把供给和需求高效撮合（提升市场流动性）； 用可编程结算让价值实时、透明地流转（重构分成机制）。 这三者叠加就形成了正向飞轮：交易越多，数据越丰富，匹配越准，定价越合理，收入也越稳定。目前他们已经跑出 100 万+ 注册用户、200 万美元+ 收入、28.5 万+ NFT、1000+ IP 合作伙伴，还有 deadmau5 和《黑镜》这样的合作，说明早期产品市场契合度不低。 更重要的是时代背景。AI 让内容生产变成 commodity，但权利管理和变现依然是稀缺基础设施。未来真正值钱的，不是又多一个生成工具，而是能把这些内容变成可交易、可组合、可持续变现的资产层。KOR 卡的正是这个位置——它不是在和 AI 工具竞争，而是在为整个 AI 内容经济提供底层清算轨道。 融资后他们会继续扩大 IP 供给、深化合作、推进网络扩展。短期看是基础设施建设，中长期看是 AI x 娱乐赛道里最被低估的确定性机会之一。资本结构也挺干净，1kx 和 Blockchain Capital 这种专注基础设施的机构领投，后面还有生态方支持，执行力应该有保障。 现在生态还在早期窗口期。有版权收费或 IP 变现需求的创作者，建议去 http://id.korprotocol.io 拿个 KOR ID，体验资产注册和生态交互。KORUS 可以试试授权 remix，KOR Hubs 则适合直接面向粉丝社区卖 stem packs、办比赛、收付费反馈。这些都是把 IP 从“静态”变成“可交互可变现”的真实路径。 AI 时代，生产端已经卷到极致，接下来真正决定天花板的，是权利、匹配和结算这套基础设施。KOR 正在把这套东西从概念变成可规模化的协议，值得持续跟踪。",
+      "url": "https://x.com/qinbafrank/status/2076589362339528766",
+      "tweet_id": "2076589362339528766"
+    },
+    {
       "id": "tweet_qinbafrank_2076527991862300949",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -102,24 +149,13 @@
       "tweet_id": "2076527991862300949"
     },
     {
-      "id": "tweet_qinbafrank_2076520435676860661",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Mon, 13 Jul 2026 04:13:46 GMT",
-      "content": "本周迎来7月第一个分水岭，上周一有聊过对于7月走势推演：标普大概率高位震荡，纳指和半导体波动显著放大。真正的分水岭是7月14日的6月CPI、随后Q2财报开启和月底的议息会议。现在回看上周的波动确实不小，今天刚开盘又是一记闷棍。聊聊我的理解： 1、今早上市场的闷棍来自两个原因： 1）周末美国和伊朗再次互相发动攻击，伊朗宣称关闭霍尔木兹海峡。这就导致了“能源供应冲击—通胀预期上升—加息预期上升—美债收益率上涨—科技股估值承压”的传导链条。 而且今天早上油价、十年美债收益率、美元指数同步上行，市场自然也会承压。 关于美伊冲突再起，昨天这里https://x.com/qinbafrank/status/2076185072613597214?s=20有详细聊过：双方都在算计一件事： 只要报复规模可控，就可以先打一下、提高对方成本，再回到谈判桌上。为什么这么说？你看美伊周末的攻击范围：美国打击的伊朗在波斯湾沿岸的军事基地和设施，没有攻击伊朗内部和德黑兰以及能源设施；伊朗打击的是美军在波斯湾各国的军事基地，其实这些基地三月之后基本上被放弃了，人员、装备早都撤走。双方还是在控制冲突的规模，没有进一步升级。 2）海力士的大跌 是韩国投资证券一个分析师披露海力士2026年Q2营业利润预计 60.4万亿韩元（环比 +61%，同比 +556%），但比市场普遍共识（65万亿韩元）低约 8%。主要原因是海力士的 HBM（高带宽内存）收入占比高于同行，导致其 ASP（平均售价）涨幅低于市场平均水平。导致海力士大跌 实质上跟上周三星披露2季度业绩预告表现是一样的https://x.com/qinbafrank/status/2074357003556884498?s=20，业绩增长度很强，但是市场预期也都整体抬起来了。 2、本周的第一个分水岭 本周影响市场的几条主线： CPI、PPI数据； 沃什在国会的听证会； 财报季开启，第一枪在周三的阿斯麦和周四的台积电（今天下午公布6月月度营收）； 1）周二公布的cpi数据 6月广义 CPI 和核心cpi同比大概率低于5月，关键是与市场预期的偏离度。广义cpi走弱利好估值和久期资产，油价下跌市场也知道通胀会回落，但关键是看广义cpi和核心cpi回落的斜率（看环比）。特别是核心cpi环比要能低于0.3% ，否则市场担心回落速度过慢。 意义在于让市场确认通胀开始回落，最好当然是回落斜率快于预期。这也是前面说到，7月14号的cpi是7月的第一个分水岭。 2）沃什的听证会 这将为市场提供又一次观察其政策思路的窗口，值得注意的是，周二听证会开场前90分钟，最新CPI数据就将正式公布，沃什几乎无法回避关于美国通胀走势的相关提问，这也让本次听证会的关注度大幅提升。 3）阿斯麦和台积电的财报关注点 阿斯麦重点关注 其EUV和High-NA EUV系统的订单情况。这是ASML最重要的前瞻指标，能反映2027年及以后的半导体资本开支需求； 全年2026指引更新：此前指引营收€36-40亿区间，市场会关注是否维持或上调； High-NA EUV推进情况：下一代光刻机的采用进度和客户反馈，这是长期增长的关键驱动； 台积电重点关注： —AI/HPC需求强度，管理层会如何描述“AI需求是否依然extremely robust”，重点看HPC（高性能计算）营收占比和同比/环比增长。 —CoWoS先进封装产能，这是当前AI芯片（尤其是NVIDIA等）最紧缺的环节。市场会重点关注：CoWoS产能扩张进度和利用率是否仍有供需缺口（NVIDIA reportedly占了很大份额），这被视为检验“AI资本开支是否有天花板”的重要信号 —全年2026营收指引更新：此前指引“超过30%”同比增长，市场期待是否上修（部分券商已预期上调）。 —资本开支（Capex）：此前上调至$52-56亿区间高位，关注是否进一步增加以支持先进制程和CoWoS扩张。 —整体AI基础设施周期展望：管理层对2026下半年及2027年的需求看法。 当然对于财报季最关键是还是下旬的超大云厂商的业绩报告。 3、本周需要重点关注的几个点 1）看布伦特油价。 80美元是近期情绪分水岭；持续高于85美元，市场会开始担心能源冲击重新扩散到服务和商品价格。当然油价最终还是看美伊双方博弈的情况； 2）看美国10年期收益率。 4.60%附近是科技股估值压力位（去年这里https://x.com/qinbafrank/status/1943928865866625415?s=20就有聊过4.6%是十年美债收益率的一个阈值）； 站上4.65%—4.70%，纳指更容易被下沙，反弹难度明显增加； 回到4.50%以下，科技股才更容易持续修复。 3）看台积电、ASML和海力士能否出现分化。 如果台积电和ASML指引仍强，而海力士止跌，说明近期主要是仓位和获利了结； 如果三者同时转弱，则要警惕AI硬件板块从短期调整演变为盈利预期下修。 整体来说，周一至周二CPI公布前，市场仍会压低高估值科技和半导体仓位。只要布伦特油价没有持续突破80—85美元、核心CPI没有明显高于0.3%环比，10年期收益率大概率会在4.50%—4.65%之间震荡，市场有机会在周二或周三出现止跌和修复修复。 最终周二CPI和周四台积电，是决定方向的两个最关键节点。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2076520435676860661",
-      "tweet_id": "2076520435676860661",
-      "translated": "本周迎来7月第一个分水岭，上周一有聊过对于7月走势推演：标普大概率高位震荡，纳指和半导体波动显着放大。真正的分水岭是7月14日的6月CPI、随后Q2财报开启和月底的议息会议。现在回看上周的波动确实不小，今天刚开盘又是一记闷棍。聊聊我的理解： 1、今早上市场的闷棍来自两个原因： 1）周末美国和伊朗再次互相发动攻击，伊朗宣称关闭霍尔木兹海峡。这就导致了“能源供应冲击—通胀预期上升—加息预期上升—美债收益率上涨—科技股估值承压”的传导链条。 而且今天早上油价、十年美债收益率、美元指数同步上行，市场自然也会承压。 关于美伊冲突再起，昨天这里https://x.com/qinbafrank/status/2076185072613597214?s=20有详细聊过：双方都在算计一件事： 只要报复规模可控，就可以先打一下、提高对方成本，再回到谈判桌上。为什么这么说？你看美伊周末的攻击范围：美国打击的伊朗在波斯湾沿岸的军事基地和设施，没有攻击伊朗内部和德黑兰以及能源设施；伊朗打击的是美军在波斯湾各国的军事基地，其实这些基地三月之后基本上被放弃了，人员、装备早都撤走。双方还是在控制冲突的规模，没有进一步升级。 2）海力士的大跌 是韩国投资证券一个分析师披露海力士2026年Q2营业利润预计 60.4万亿韩元（环比 +61%，同比 +556%），但比市场普遍共识（65万亿韩元）低约 8%。主要原因是海力士的 HBM（高带宽内存）收入占比高于同行，导致其 ASP（平均售价）涨幅低于市场平均水平。导致海力士大跌 实质上跟上周三星披露2季度业绩预告表现是一样的https://x.com/qinbafrank/status/2074357003556884498?s=20，业绩增长度很强，但是市场预期也都整体抬起来了。 2、本周的第一个分水岭 本周影响市场的几条主线： CPI、PPI数据； 沃什在国会的听证会； 财报季开启，第一枪在周三的阿斯麦和周四的台积电（今天下午公布6月月度营收）； 1）周二公布的cpi数据 6月广义 CPI 和核心cpi同比大概率低于5月，关键是与市场预期的偏离度。广义cpi走弱利好估值和久期资产，油价下跌市场也知道通胀会回落，但关键是看广义cpi和核心cpi回落的斜率（看环比）。特别是核心cpi环比要能低于0.3% ，否则市场担心回落速度过慢。 意义在于让市场确认通胀开始回落，最好当然是回落斜率快于预期。这也是前面说到，7月14号的cpi是7月的第一个分水岭。 2）沃什的听证会 这将为市场提供又一次观察其政策思路的窗口，值得注意的是，周二听证会开场前90分钟，最新CPI数据就将正式公布，沃什几乎无法回避关于美国通胀走势的相关提问，这也让本次听证会的关注度大幅提升。 3）阿斯麦和台积电的财报关注点 阿斯麦重点关注 其EUV和High-NA EUV系统的订单情况。这是ASML最重要的前瞻指标，能反映2027年及以后的半导体资本开支需求； 全年2026指引更新：此前指引营收€36-40亿区间，市场会关注是否维持或上调； High-NA EUV推进情况：下一代光刻机的采用进度和客户反馈，这是长期增长的关键驱动； 台积电重点关注： —AI/HPC需求强度，管理层会如何描述“AI需求是否依然extremely robust”，重点看HPC（高性能计算）营收占比和同比/环比增长。 —CoWoS先进封装产能，这是当前AI芯片（尤其是NVIDIA等）最紧缺的环节。市场会重点关注：CoWoS产能扩张进度和利用率是否仍有供需缺口（NVIDIA reportedly占了很大份额），这被视为检验“AI资本开支是否有天花板”的重要信号 —全年2026营收指引更新：此前指引“超过30%”同比增长，市场期待是否上修（部分券商已预期上调）。 —资本开支（Capex）：此前上调至$52-56亿区间高位，关注是否进一步增加以支持先进制程和CoWoS扩张。 —整体AI基础设施周期展望：管理层对2026下半年及2027年的需求看法。 当然对于财报季最关键是还是下旬的超大云厂商的业绩报告。 3、本周需要重点关注的几个点 1）看布伦特油价。 80美元是近期情绪分水岭；持续高于85美元，市场会开始担心能源冲击重新扩散到服务和商品价格。当然油价最终还是看美伊双方博弈的情况； 2）看美国10年期收益率。 4.60%附近是科技股估值压力位（去年这里https://x.com/qinbafrank/status/1943928865866625415?s=20就有聊过4.6%是十年美债收益率的一个阈值）； 站上4.65%—4.70%，纳指更容易被下沙，反弹难度明显增加； 回到4.50%以下，科技股才更容易持续修复。 3）看台积电、ASML和海力士能否出现分化。 如果台积电和ASML指引仍强，而海力士止跌，说明近期主要是仓位和获利了结； 如果三者同时转弱，则要警惕AI硬件板块从短期调整演变为盈利预期下修。 整体来说，周一至周二CPI公布前，市场仍会压低高估值科技和半导体仓位。只要布伦特油价没有持续突破80—85美元、核心CPI没有明显高于0.3%环比，10年期收益率大概率会在4.50%—4.65%之间震荡，市场有机会在周二或周三出现止跌和修复修复。 最终周二CPI和周四台积电，是决定方向的两个最关键节点。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」"
-    },
-    {
-      "id": "tweet_qinbafrank_2076267339704893579",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sun, 12 Jul 2026 11:28:03 GMT",
-      "content": "英伟达闭门路演都说什么了？回应了哪些传闻？本周大摩在加州组织了一场英伟达非交易路演，老黄、英伟达的CFO Colette Kress和IR 负责人Toshiya Har亲自出席出席，密集会见投资人。 这场闭门会主要针对市场对产品进度、ASIC竞争和增长可持续性的疑虑（FUD）进行澄清和回应。梳理下闭门会核心内容和要点： 1、营收增长与整体展望（最受关注） 1）单季营收已达千亿美元规模，且增速仍在加速上行。这被视为强劲信号，显示需求远超此前预期。 2）Vera Rubin 产品周期景气度强劲，将为未来12个月带来显著的订单和营收增量，是短期增长主要驱动。 3）大摩等机构给出乐观预测：2027财年营收约3930亿美元，2028财年约5988亿美元。 4）CPU业务目标：本财年力争达到200亿美元。 2、产品路线图与新品进度（重点辟谣） 1）Rubin Ultra：明确将于明年（2027年）出货，彻底否认延后至2028年的市场传闻。路线图未变。 2）Kyber机架：当前设计是过渡性方案，后续将被更优方案替代，以支持更大规模的单机架纵向扩展（更大计算集群）。这属于优化调整，而非延期或问题；路线图保持灵活性，可降低产能爬坡风险。 3）核心技术按计划推进： ◦800V供电系统。 ◦机架间光学纵向扩展（optical links/inter-rack optical vertical expansion）。 •整体下一代产品周期（包括Rubin系列）无重大变化，黄仁勋亲自出面澄清，显示公司对进度的信心。 3、ASIC竞争与市场份额 1）即使部分云厂商和前沿AI实验室大力投入自定义ASIC（专用芯片），英伟达仍保持强势主导地位。 2）关键案例：一家此前主要依赖ASIC进行前沿模型开发的大客户，已将英伟达GPU使用比例大幅提升至接近50%（市场猜测可能指向Anthropic等实验室）。这被视为重大验证——即使ASIC阵营也需要更多英伟达GPU。 3）原因：英伟达在token使用成本最低，全栈生态（GPU + 网络 + 软件 + CPU等）形成强大护城河，前沿AI工作负载仍高度依赖其平台。 4）AI实验室目前约占AI算力需求的20%，其需求增长显著。 4、客户多元化与新增长引擎 1）客户结构从过去高度依赖少数头部超大规模云厂商（hyperscalers），转向多元化：AI实验室、企业客户、新兴云服务提供商（neocloud）、主权AI（Sovereign AI）项目（数据安全、产业自主、地缘政治因素驱动，重要性上升）。 2）新增长点（企业、主权AI、工业领域客户）可能比传统 hyperscalers 增长更快，降低集中度风险。 5、供应链与供给约束 1）内存（HBM等）供应紧缺预计将持续数年。AI token需求增长速度快于存储/内存产能扩张，导致行业性短缺（影响数据中心组件、GPU及AI运营）。 黄仁勋明确表示，内存短缺是长期现象。 2）整体供给仍为主要瓶颈，但英伟达正通过多元化供应链和规划应对。 6、其他管理层观点与资本回报 1）强劲自由现金流（FCF）支持股东回报：未来超过50%的现金流可能用于回购等股东回报。 2）全AI基础设施平台（硬件+网络+软件）护城河持续加固。 大摩总结： 市场对产品延期、竞争和增长可持续性的担忧被夸大，英伟达“全速前进”（firing on all cylinders）。 大摩维持强烈看好立场，并上调目标价至288美元（对应显著上行空间）。",
-      "url": "https://x.com/qinbafrank/status/2076267339704893579",
-      "tweet_id": "2076267339704893579",
-      "translated": "英伟达闭门路演都说什么了？回应了哪些传闻？本周大摩在加州组织了一场英伟达非交易路演，老黄、英伟达的CFO Colette Kress和IR 负责人Toshiya Har亲自出席出席，密集会见投资人。 这场闭门会主要针对市场对产品进度、ASIC竞争和增长可持续性的疑虑（FUD）进行澄清和回应。梳理下闭门会核心内容和要点： 1、营收增长与整体展望（最受关注） 1）单季营收已达千亿美元规模，且增速仍在加速上行。这被视为强劲信号，显示需求远超此前预期。 2）Vera Rubin 产品周期景气度强劲，将为未来12个月带来显着的订单和营收增量，是短期增长主要驱动。 3）大摩等机构给出乐观预测：2027财年营收约3930亿美元，2028财年约5988亿美元。 4）CPU业务目标：本财年力争达到200亿美元。 2、产品路线图与新品进度（重点辟谣） 1）Rubin Ultra：明确将于明年（2027年）出货，彻底否认延后至2028年的市场传闻。路线图未变。 2）Kyber机架：当前设计是过渡性方案，后续将被更优方案替代，以支持更大规模的单机架纵向扩展（更大计算集群）。这属于优化调整，而非延期或问题；路线图保持灵活性，可降低产能爬坡风险。 3）核心技术按计划推进： ◦800V供电系统。 ◦机架间光学纵向扩展（optical links/inter-rack optical vertical expansion）。 •整体下一代产品周期（包括Rubin系列）无重大变化，黄仁勋亲自出面澄清，显示公司对进度的信心。 3、ASIC竞争与市场份额 1）即使部分云厂商和前沿AI实验室大力投入自定义ASIC（专用芯片），英伟达仍保持强势主导地位。 2）关键案例：一家此前主要依赖ASIC进行前沿模型开发的大客户，已将英伟达GPU使用比例大幅提升至接近50%（市场猜测可能指向Anthropic等实验室）。这被视为重大验证——即使ASIC阵营也需要更多英伟达GPU。 3）原因：英伟达在token使用成本最低，全栈生态（GPU + 网络 + 软件 + CPU等）形成强大护城河，前沿AI工作负载仍高度依赖其平台。 4）AI实验室目前约占AI算力需求的20%，其需求增长显着。 4、客户多元化与新增长引擎 1）客户结构从过去高度依赖少数头部超大规模云厂商（hyperscalers），转向多元化：AI实验室、企业客户、新兴云服务提供商（neocloud）、主权AI（Sovereign AI）项目（数据安全、产业自主、地缘政治因素驱动，重要性上升）。 2）新增长点（企业、主权AI、工业领域客户）可能比传统 hyperscalers 增长更快，降低集中度风险。 5、供应链与供给约束 1）内存（HBM等）供应紧缺预计将持续数年。 AI token需求增长速度快于存储/内存产能扩张，导致行业性短缺（影响数据中心组件、GPU及AI运营）。 黄仁勋明确表示，内存短缺是长期现象。 2）整体供给仍为主要瓶颈，但英伟达正通过多元化供应链和规划应对。 6、其他管理层观点与资本回报 1）强劲自由现金流（FCF）支持股东回报：未来超过50%的现金流可能用于回购等股东回报。 2）全AI基础设施平台（硬件+网络+软件）护城河持续加固。 大摩总结： 市场对产品延期、竞争和增长可持续性的担忧被夸大，英伟达“全速前进”（firing on all cylinders）。 大摩维持强烈看好立场，并上调目标价至288美元（对应显着上行空间）。"
+      "id": "tweet_xiaomustock_2076585478808281292",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Mon, 13 Jul 2026 08:32:13 GMT",
+      "content": "过去一个月利润最高50%全还回去， 还倒贴13%，棒子是真该死呐，一群精神病。",
+      "url": "https://x.com/xiaomustock/status/2076585478808281292",
+      "tweet_id": "2076585478808281292"
     },
     {
       "id": "tweet_xiaomustock_2076553346870370710",
@@ -140,40 +176,31 @@
       "tweet_id": "2076532128049992073"
     },
     {
-      "id": "tweet_xiaomustock_2076493680870043957",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Mon, 13 Jul 2026 02:27:27 GMT",
-      "content": "世界可以毁灭了，累了，就这样吧。",
-      "url": "https://x.com/xiaomustock/status/2076493680870043957",
-      "tweet_id": "2076493680870043957"
-    },
-    {
-      "id": "tweet_xingpt_2076516152990450082",
+      "id": "tweet_xingpt_2076579578865385481",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Mon, 13 Jul 2026 03:56:45 GMT",
-      "content": "行情不好 看看妹子 昨天ICML大火的妹子据网友说是韩国人 Summer Ann；有人翻出ins旧照质疑其隆过胸。 但是阅女无数的麦总说应该是真的。",
-      "url": "https://x.com/xingpt/status/2076516152990450082",
-      "tweet_id": "2076516152990450082"
+      "published_at": "Mon, 13 Jul 2026 08:08:47 GMT",
+      "content": "R to @xingpt: Patreon会员可下载源代码：https://www.patreon.com/xingpt/posts/yi-ge-wang-zhan-163332849",
+      "url": "https://x.com/xingpt/status/2076579578865385481",
+      "tweet_id": "2076579578865385481"
     },
     {
-      "id": "tweet_xingpt_2076490906203726109",
+      "id": "tweet_xingpt_2076579435181162839",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Mon, 13 Jul 2026 02:16:26 GMT",
-      "content": "海力士暴跌，一天跌 10 个点，这种跌法我只在山寨币里见过。 怎么说呢，一大早基本面处了利空： 海力士营业利润预计将达到60.4万亿韩元，环比增长61%，同比增长556%，但仍比市场普遍预期的65万亿韩元低8%。业绩未达预期的主要原因是SK海力士的高带宽内存(HBM)收入占比高于同行，导致其平均售价(ASP)涨幅低于市场平均水平。 但下跌这么多，我觉得还是韩国杠杆太高，上周看的杠杆数据还是没见底，金融市场去杠杆的过程一定是非常暴力的。如果看好存储板块，还是拿住正股，2xETF一旦开始震荡趋势千万不能再拿了。",
-      "url": "https://x.com/xingpt/status/2076490906203726109",
-      "tweet_id": "2076490906203726109"
+      "published_at": "Mon, 13 Jul 2026 08:08:12 GMT",
+      "content": "黑色星期一的韩国股市资金流汇总，散户还在接盘！ 7/13 暴跌日角色再度互换：外资 −1.69、机构 −2.22 万亿齐抛，散户单日 +3.88 万亿创 7 月最大接盘（同日外资在 KOSPI200 期货反手净买 +5,015 手——现货抛、期货接）。",
+      "url": "https://x.com/xingpt/status/2076579435181162839",
+      "tweet_id": "2076579435181162839"
     },
     {
-      "id": "tweet_xingpt_2076198914785751175",
+      "id": "tweet_xingpt_2076569856850457012",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Sun, 12 Jul 2026 06:56:09 GMT",
-      "content": "R to @xingpt: Apple 起诉的目的：真正想要的三样东西 看懂这场官司,要先明白一件事：在加州,挖人本身完全合法。斯坦福法学教授 Mark Lemley 说得直白：雇几百个前 Apple 员工不是问题，用他们带来的文件才是。 所以 Apple 真正要的是: 其一,证据开示权。借诉讼合法翻查 OpenAI 的内部通信,搞清楚自己的技术到底流出去了多少； 其二,禁令。Apple 要求 OpenAI 销毁材料、把产品重新设计到\"不含任何 Apple 技术\"。OpenAI 首款设备(无屏音箱、眼镜、可穿戴 pin)原定 2026 底至 2027 年发布，如果禁令实行可能推迟节奏； 其三,杀鸡儆猴。起诉书详细展示了 Apple 如何审计离职员工的服务器日志和公司设备留言。等于向还在观望的员工喊话：再带资料走,你就是下一个被告； OpenAI 否认一切指控，且 6 月刚赢下 xAI 的同类诉讼，同时它招聘页上悄悄挂出的\"硬件 IP 律师\"和新加坡制造测试岗说明：这家公司一边备战官司诉讼，一般并未停止硬件开发的脚本。 AI 硬件时代的第一台设备，究竟是踩着 Apple 的肩膀问世,还是在诉讼的废墟里流产，这场官司就是分水岭。",
-      "url": "https://x.com/xingpt/status/2076198914785751175",
-      "tweet_id": "2076198914785751175"
+      "published_at": "Mon, 13 Jul 2026 07:30:09 GMT",
+      "content": "A股股民跌了就怪峰哥：一个是梁文锋，说是文峰的量化割韭菜，害得股民追涨杀跌；一个是二次元峰哥，都怪峰哥一买就跌。",
+      "url": "https://x.com/xingpt/status/2076569856850457012",
+      "tweet_id": "2076569856850457012"
     },
     {
       "id": "tweet_hibtc37_2076531516554031189",
@@ -204,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
-    "nitter_healthy": 10
+    "users_success": 8,
+    "users_failed": 0,
+    "nitter_healthy": 9
   }
 }
