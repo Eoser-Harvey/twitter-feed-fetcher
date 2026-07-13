@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T20:18:28.395746+00:00",
+  "fetched_at": "2026-07-13T22:00:10.285298+00:00",
   "total": 24,
   "tweets": [
     {
@@ -9,8 +9,7 @@
       "published_at": "Mon, 13 Jul 2026 15:51:46 GMT",
       "content": "RT by @elonmusk: If you run /privacy and change the setting, all previously synced data is deleted.",
       "url": "https://x.com/elonmusk/status/2076696092037833091",
-      "tweet_id": "2076696092037833091",
-      "translated": "RT by @elonmusk：如果您运行 /privacy 并更改设置，所有以前同步的数据都会被删除。"
+      "tweet_id": "2076696092037833091"
     },
     {
       "id": "tweet_elonmusk_2076725943708868615",
@@ -20,7 +19,7 @@
       "content": "RT by @elonmusk: That's not the case. The CLI doesn't retain data under ZDR (including headless/non-headless modes), and has since launch. Similarly, /privacy in the CLI will disable or reenable any data retention. For some features, including remote session listing, cloud agents, and handoff, you will need to enable data syncing.",
       "url": "https://x.com/elonmusk/status/2076725943708868615",
       "tweet_id": "2076725943708868615",
-      "translated": "RT @elonmusk：事实并非如此。 CLI 不保留 ZDR 下的数据（包括无头/非无头模式），自启动以来一直如此。同样，CLI 中的 /privacy 将禁用或重新启用任何数据保留。对于某些功能，包括远程会话列表、云代理和切换，您将需要启用数据同步。"
+      "translated": "RT by @elonmusk: That's not the case. CLI 不保留 ZDR 下的数据（包括无头/非无头模式），自启动以来一直如此。同样，CLI 中的 /privacy 将禁用或重新启用任何数据保留。对于某些功能，包括远程会话列表、云代理和切换，您将需要启用数据同步。"
     },
     {
       "id": "tweet_elonmusk_2076739857863385206",
@@ -232,6 +231,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
