@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-07-13T23:04:49.683732+00:00",
+  "fetched_at": "2026-07-14T02:39:15.567270+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2076726650365264196",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 13 Jul 2026 17:53:11 GMT",
+      "content": "RT by @elonmusk: The default in Grok Build is off. You can also run /privacy and any synced data is deleted. ZDR is respected for both headless and interactive use as well.",
+      "url": "https://x.com/elonmusk/status/2076726650365264196",
+      "tweet_id": "2076726650365264196",
+      "translated": "RT by @elonmusk：Grok Build 中的默认设置是关闭的。您还可以运行 /privacy 并删除所有同步数据。 ZDR 在无头和交互式使用方面也受到尊重。"
+    },
+    {
+      "id": "tweet_elonmusk_2076747704248758617",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 13 Jul 2026 19:16:51 GMT",
+      "content": "RT by @elonmusk: We're rolling out a small tweak to boost visibility of your posts to your mutuals (people who you follow back). We noticed this data was missing from the algo and it made your friends appear less in your replies. This resulted in the reply section feeling more like a battleground with people you don't recognize. This should also help clusters form around interests more easily, which many people have asked for.",
+      "url": "https://x.com/elonmusk/status/2076747704248758617",
+      "tweet_id": "2076747704248758617",
+      "translated": "RT @elonmusk：我们正在推出一项小调整，以提高您的帖子对您​​的共同用户（您回关注的人）的可见性。我们注意到算法中缺少此数据，这使得您的朋友在您的回复中出现较少。这导致回复部分感觉更像是一个你不认识的人的战场。这也应该有助于更容易地围绕兴趣形成集群，这是许多人所要求的。"
+    },
     {
       "id": "tweet_elonmusk_2076796854973423971",
       "username": "elonmusk",
@@ -11,26 +31,6 @@
       "url": "https://x.com/elonmusk/status/2076796854973423971",
       "tweet_id": "2076796854973423971",
       "translated": "真的"
-    },
-    {
-      "id": "tweet_elonmusk_2076696092037833091",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 13 Jul 2026 15:51:46 GMT",
-      "content": "RT by @elonmusk: If you run /privacy and change the setting, all previously synced data is deleted.",
-      "url": "https://x.com/elonmusk/status/2076696092037833091",
-      "tweet_id": "2076696092037833091",
-      "translated": "RT by @elonmusk：如果您运行 /privacy 并更改设置，所有以前同步的数据都会被删除。"
-    },
-    {
-      "id": "tweet_elonmusk_2076725943708868615",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 13 Jul 2026 17:50:23 GMT",
-      "content": "RT by @elonmusk: That's not the case. The CLI doesn't retain data under ZDR (including headless/non-headless modes), and has since launch. Similarly, /privacy in the CLI will disable or reenable any data retention. For some features, including remote session listing, cloud agents, and handoff, you will need to enable data syncing.",
-      "url": "https://x.com/elonmusk/status/2076725943708868615",
-      "tweet_id": "2076725943708868615",
-      "translated": "RT @elonmusk：事实并非如此。 CLI 不保留 ZDR 下的数据（包括无头/非无头模式），自启动以来一直如此。同样，CLI 中的 /privacy 将禁用或重新启用任何数据保留。对于某些功能，包括远程会话列表、云代理和切换，您将需要启用数据同步。"
     },
     {
       "id": "tweet_cz_binance_2076667370848850297",
@@ -91,6 +91,26 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2076846994614792663",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 14 Jul 2026 01:51:24 GMT",
+      "content": "So Jensen himself went out to do damage control with $NVDA delays reports apparently: 1. Jensen Huang said no delays: - 800V and rack-to-rack optical interconnects is progressing fully in line with the original plan with no material delay. - Debunked the rumor that the next-generation flagship, Rubin Ultra, would be delayed until 2028 and said it would be on track to ship next year - Rack system optimizations, like replacing Kyber with a new design are architectural optimizations, not impacting delivery timelines. 2. On ASIC competition: no loss of market share. - Talked about how a leading frontier lab that previously relied heavily on internal ASICs has shifted nearly 50% of its compute load to Nvidia 3. On over-reliance on hyperscalers. - AI frontier labs currently contributing to ~20% of demand. - Traditional cloud providers, Nvidia provides Vera CPUs and high-speed networking - Sovereign AI",
+      "url": "https://x.com/aleabitoreddit/status/2076846994614792663",
+      "tweet_id": "2076846994614792663",
+      "translated": "因此，Jensen 亲自出去进行损害控制，显然有 $NVDA 延迟报告： 1. Jensen Huang 表示没有延迟： - 800V 和机架到机架光学互连的进展完全符合原计划，没有任何重大延迟。 - 驳斥了下一代旗舰产品 Rubin Ultra 将推迟到 2028 年的传言，并表示将于明年发货 - 机架系统优化，例如用新设计替换 Kyber，属于架构优化，不会影响交付时间表。 2.关于ASIC竞争：不损失市场份额。 - 谈论了一家先前严重依赖内部 ASIC 的领先前沿实验室如何将近 50% 的计算负载转移到 Nvidia 3。关于过度依赖超大规模处理器。 - AI 前沿实验室目前贡献了约 20% 的需求。 - 传统云提供商，Nvidia 提供 Vera CPU 和高速网络 - Sovereign AI"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2076808331453415674",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Mon, 13 Jul 2026 23:17:46 GMT",
+      "content": "TLDR of Innolight investor relations takeaways: 1. \"Overall, 1.6T market demand has not contracted; instead, 800G demand has increased significantly compared with previous expectations\" Prob most important takeaway as a whole was 800G demand revision (also longer tail demand). Which is a bullish read through on US transceiver makers like $AAOI, $COHR, $LITE. Lot of new customers like neoclouds, AI model companies, contributing to overall demand rather than just hyperscalers, diversification always a bonus. 2. Innolight said the shortage covers the module supply chain broadly including: - Optical chips. - Electrical chips. - PCBs. - Other module materials From last ER, I think they singled out EMLs and CW optical chips as the most constrained. So Innolight's bottleneck list mention broadened since then. They expect some of the component availability to improve gradually from the second half of 2026 through the first half of 2027. Think a lot of this is already known from earlier though. But just some confirmation + easing timelines (EML is extremely bottlenecked, same with CW, this is probably talking about other components). 3. Innolight said module-production equipment is not the constraint. Equipment lead times remain relatively short. So this isn't really a bottleneck compared to others. 4. The overall proportion of silicon photonics continues to trend upward. Last year it was mainly 800G. This year, some 800G customers are further increasing their silicon-photonics proportion. 1.6T also added some new customers Positive for SiPH penetration eg. $SIVE / $JBL, since this shifts away from EML toward CW. Basically: main surprising takeaway is just 800g demand go brrr. Apart from that just reaffirming bottlenecks/timelines/market speculation.",
+      "url": "https://x.com/aleabitoreddit/status/2076808331453415674",
+      "tweet_id": "2076808331453415674",
+      "translated": "旭创科技投资者关系要点： 1.“总体而言，1.6T 市场需求并未萎缩；相反，800G 需求与之前的预期相比显着增加” Prob 整体上最重要的要点是 800G 需求修正（也是长尾需求）。这是对 $AAOI、$COHR、$LITE 等美国收发器制造商的看涨解读。许多新客户，如 Neoclouds、人工智能模型公司，对整体需求做出了贡献，而不仅仅是超大规模企业，多元化总是一个好处。 2. 旭创科技表示，短缺涵盖模组供应链，主要包括： - 光芯片。 - 电子芯片。 - 多氯联苯。 - 其他模块材料 从上一个 ER 来看，我认为他们将 EML 和 CW 光学芯片列为最受限制的材料。因此，旭创科技的瓶颈清单从那时起就扩大了。他们预计，从 2026 年下半年到 2027 年上半年，一些组件的可用性将逐渐提高。不过，我想，其中很多内容在早些时候就已为人所知。但只是一些确认+宽松的时间表（EML 非常瓶颈，与 CW 相同，这可能是在谈论其他组件）。 3.旭创表示，组件生产设备不是限制。设备交货时间仍然相对较短。因此，与其他方面相比，这并不是真正的瓶颈。 4、硅光子整体占比持续上升。去年主要是800G。今年，部分800G客户进一步加大硅光占比。 1.6T 还增加了一些新客户，对 SiPH 渗透率持积极态度，例如。 $SIVE / $JBL，因为这从 EML 转向 CW。基本上：主要令人惊讶的外卖只是 800 克的需求。除此之外，只是重申瓶颈/时间表/市场猜测。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2076748688559587338",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -101,24 +121,13 @@
       "translated": "摩根士丹利今日发布 CPO 报告。主要参与者包括： - 激光供应领域的 $SIVE、$COHR 和 $LITE - 开关平台领域的 Broadcom 和 Nvidia - 光学引擎和光子领域的 Lightmatter、Ayar Labs、Marvell/Celestial 和 POET， - 硅光子代工领域的 $TSM、$GFS 和 $TSEM 我之前已经介绍过所有这些，例如 Tower Semi。但我特别高兴的是，摩根士丹利验证了我的研究，即 $SIVE 是 CPO 领域的关键全球参与者之一。一家规模为 1.5B 美元的小型激光公司，紧邻两家领先的 60B+ 美元公司……如果您还综合罗森布拉特证券公司最近指出的情况，中国激光供应商距离拥有 CPO 激光器还很远。这有点放大了激光阻塞点的三位西方领导人的​​重要性。"
     },
     {
-      "id": "tweet_aleabitoreddit_2076467953995071881",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 13 Jul 2026 00:45:13 GMT",
-      "content": "Just a semi recap TLDR: - $GLW glass bridge per Morgan Stanley has potential, but hard to displace FAU (like FOCI) in short term - $SPCX Starlink Gen 3 is scaling to 100,000 units (10x prev gen) creating possible capacity constraints for suppliers of switches to CCL. - PCB supply shortages are projected to persist until 2028, and component shortages/price hikes are already forcing ODMs like Inventec to issue conservative H2 shipment - DeepSeek and Zhipu are developing custom ASICs to bypass $NVDA (kinda expected by now). - Anthropic has achieved a $30B ARR and is projected to hit >$1B in Q3 profit. Turns out these frontier labs are more profitable than people think. - US admin pressured $AAPL to source from $INTC, in exchange for tariff exception. Kinda pressuring alignment away from TSM. - $TSM plans a 30x expansion of its Photonic Integrated Circuit (PIC) capacity by 2028, growing from 500 to 25,000 wafers per month - Hanmi Semiconductor is entering the CoWoS packaging equipment market - $NVDA and NTT hosting a conference July 24th to discuss CPO strategies. - 5x general NAND flash price hike this year, market size $489B by next year triggered by RAG/inference. Samsung and SK Hynix make emergency fab investments, NAND equipment suppliers go brrrr. - Gas turbine bottleneck, 40% supply gap accompanied by staggering 5-year delivery cycles (mega-fabs need them for mass production). - AI probe card assembly has hit a severe bottleneck apparently. Which is attempted to by solved with things like Innovation Service's machines. - Nanya, 79.5% gross margins reported, memory go brr. 4x capex for capacity/advanced packaging. - CXMT's STAR Market IPO on July 16, so should bring a lot of attention to memory players in that supply chain. - KYEC $1.4B investment into US for $TSM Arizona output test facilities. Lot of these players like $AMKR and others should go brr in 2028. - $INTC CEO warned last month that helium could hinder the manufacturing costs and delivery times of AI chips - 3D NAND word lines are shifting from Tungsten to Molybdenum starting at the 375-layer node - SambaNova secured JPM for AI inference and raised $1B at an $11B valuation. - HBM prices projections to double in 2027 as $NVDA Rubin platform drives demand. - $MU provides $500 million in funding to support GlobalWafers' US manufacturing capacity - $META 'Iris' will enter mass production in September via $AVGO and TSMC and Meta aims to double computing power to 14GW by 2027. - Largan Precision has secured its first CPO FAU order, mass production slated for middle of next year (kinda indication around Foci and others). - Samsung and SK Hynix have delayed the implementation of hybrid bonding packaging technology for HBM4 apparently - Memory costs (DRAM/NAND) have reached 60% of the BOM for sub-$400 smartphones, causing a severe volume contraction. - SK Hynix successfully rasied $26.5 billion through a Nasdaq ADR - $TSLA issued procurement guidelines requiring suppliers to reach weekly production of 1,000 units by September and double to 2,000-2,500 by year end for its 3rd gen Optimus robot. Apparently Alliance Technology and A-Link may be in this supply chain harmonic reducers and vision lenses? Kinda go through all this stuff every day, but don't wanna be a news reporter so just consolidated stuff I found interesting.",
-      "url": "https://x.com/aleabitoreddit/status/2076467953995071881",
-      "tweet_id": "2076467953995071881",
-      "translated": "简单回顾一下 TLDR： - 摩根士丹利的 $GLW 玻璃桥具有潜力，但短期内很难取代 FAU（如 FOCI） - $SPCX Starlink Gen 3 正在扩展到 100,000 台（上一代的 10 倍），为 CCL 交换机供应商造成了可能的产能限制。 - PCB 供应短缺预计将持续到 2028 年，元件短缺/价格上涨已经迫使 Inventec 等 ODM 发布保守的 H2 出货量 - DeepSeek 和 Zhipu 正在开发定制 ASIC，以绕过 NVDA（目前有点预期）。 - Anthropic 的 ARR 已达到 30B 美元，预计第三季度利润将达到 10 亿美元以上。事实证明，这些前沿实验室的利润比人们想象的要高。 - 美国行政部门向 $AAPL 施压，要求其从 $INTC 采购，以换取关税豁免。有点压力，远离TSM。 - $TSM 计划到 2028 年将其光子集成电路 (PIC) 产能扩大 30 倍，从每月 500 片晶圆增加到 25,000 片 - Hanmi Semiconductor 正在进入 CoWoS 封装设备市场 - $NVDA 和 NTT 于 7 月 24 日举办会议讨论 CPO 战略。 - 今年 NAND 闪存价格普遍上涨 5 倍，由 RAG/inference 触发，明年市场规模将达到 $489B。三星和SK海力士紧急投资晶圆厂，NAND设备供应商陷入困境。 - 燃气轮机瓶颈，40% 的供应缺口，以及惊人的 5 年交付周期（大型晶圆厂需要它们进行大规模生产）。 - AI探针卡组装显然已经遇到了严重的瓶颈。人们试图通过创新服务的机器之类的东西来解决这个问题。 - Nanya，报告毛利率为 79.5%，内存运行良好。容量/先进封装的 4 倍资本支出。 - 长鑫存储将于 7 月 16 日科创板 IPO，因此应该会引起该供应链内存厂商的广泛关注。 - KYEC 向美国投资 1.4B 美元用于 $TSM Arizona 输出测试设施。许多像 $AMKR 和其他公司这样的公司应该会在 2028 年走上正轨。 - $INTC 首席执行官上个月警告说，氦气可能会阻碍 AI 芯片的制造成本和交付时间 - 3D NAND 字线从 375 层节点开始从钨转向钼 - SambaNova 获得了 JPM 的人工智能推理服务，并以 11B 美元的估值筹集了 10 亿美元。 - 由于 NVDA Rubin 平台推动需求，HBM 预计 2027 年价格将翻倍。 - $MU 提供 5 亿美元资金支持 GlobalWafers 的美国制造能力 - $META 'Iris' 将于 9 月通过 $AVGO 和台积电进入量产，Meta 的目标是到 2027 年将计算能力翻一番，达到 14GW。 - 大立光电 (Largan Precision) 已获得第一个 CPO FAU 订单，定于明年年中进行量产（与 Foci 等公司类似）。 - 三星和 SK Hynix 明显推迟了 HBM4 混合键合封装技术的实施 - 内存成本 (DRAM/NAND) 已达到 400 美元以下智能手机 BOM 的 60%，导致销量严重萎缩。 - SK 海力士通过纳斯达克 ADR 成功筹集了 265 亿美元 - TSLA 发布了采购指南，要求供应商在 9 月份之前达到每周生产 1,000 台的目标，并在年底前将其第三代 Optimus 机器人的产量翻一番，达到 2,000-2,500 台。显然Alliance Technology和A-Link可能在这个供应链中谐波减速器和视觉镜片？有点每天都要经历所有这些东西，但不想成为一名新闻记者，所以只是整合了我发现有趣的东西。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2076372905450188998",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sun, 12 Jul 2026 18:27:32 GMT",
-      "content": "Looks like the Strait of Hormuz is open for the 50th time this year per Trump. I’m getting tired looking at macro.",
-      "url": "https://x.com/aleabitoreddit/status/2076372905450188998",
-      "tweet_id": "2076372905450188998",
-      "translated": "根据特朗普的说法，霍尔木兹海峡今年似乎是第 50 次开放。我厌倦了看宏观。"
+      "id": "tweet_qinbafrank_2076839550119444702",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Tue, 14 Jul 2026 01:21:49 GMT",
+      "content": "AI采用进入工程化时代，超大CSP新的机遇及挑战，AI商业化进程评判标准新体系",
+      "url": "https://x.com/qinbafrank/status/2076839550119444702",
+      "tweet_id": "2076839550119444702"
     },
     {
       "id": "tweet_qinbafrank_2076728737991913542",
@@ -137,15 +146,6 @@
       "content": "台积电6月营收月报： 1）6月单月营收4426.8亿元新台币，同比去年6月增幅67.9% ； 2）2026年1至6月半年营收合计约2.40万亿元新台币，较去年同期增长35.6%。 这里值得注意的一点： 35.6%半年同比增速与6月67.9%的同比增速之间存在明显落差，这意味着去年下半年起台积电的营收增速已明显提速。 而且过往规律显示，台积电营收通常呈现\"下半年强于上半年\"的季节性特征，叠加当前AI需求持续超预期的产业背景，下半年营收有望延续强劲增势",
       "url": "https://x.com/qinbafrank/status/2076654003455398067",
       "tweet_id": "2076654003455398067"
-    },
-    {
-      "id": "tweet_qinbafrank_2076613920769663136",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Mon, 13 Jul 2026 10:25:14 GMT",
-      "content": "看到字节哥说海力士6月底已经清仓，很惭愧之前这里秀的时候也只是移动止盈了一点，剩下的仓位也是大幅回撤，所幸7709都是3月份4月初买的成本还可以。今天在60左右又开始硬着头皮买了些，还买了些海力士正股。为什么买？ 1、这是压缩式去杠杆https://x.com/qinbafrank/status/2075067198570475727?s=46&t=k6rimWsEbo2D2tXolYcM-A而非基本面出了大问题，如果说之前市场对海力士过于fomo，那么跌了接近40%的海力士就显得眉清目秀了。 2、今天海力士大跌主要因素是KIS（韩国投资证券）最新SK海力士（SK hynix）报告梳理认为其二季度利润60万亿韩元，低于市场共识8%。甚至高于调低了对海力士26年和27年全年的业绩预测。 但是很多人忽略的是KIS维持对海力士的买入评级甚至目标价依然维持在380万韩元。",
-      "url": "https://x.com/qinbafrank/status/2076613920769663136",
-      "tweet_id": "2076613920769663136"
     },
     {
       "id": "tweet_xiaomustock_2076585478808281292",
@@ -202,6 +202,24 @@
       "tweet_id": "2076579435181162839"
     },
     {
+      "id": "tweet_hibtc37_2076834853035880698",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Tue, 14 Jul 2026 01:03:09 GMT",
+      "content": "R to @hibtc37: 已跑",
+      "url": "https://x.com/hibtc37/status/2076834853035880698",
+      "tweet_id": "2076834853035880698"
+    },
+    {
+      "id": "tweet_hibtc37_2076829937257111665",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Tue, 14 Jul 2026 00:43:37 GMT",
+      "content": "做了个反手试试",
+      "url": "https://x.com/hibtc37/status/2076829937257111665",
+      "tweet_id": "2076829937257111665"
+    },
+    {
       "id": "tweet_hibtc37_2076669696364154933",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -209,29 +227,11 @@
       "content": "已跑，天台人满为患",
       "url": "https://x.com/hibtc37/status/2076669696364154933",
       "tweet_id": "2076669696364154933"
-    },
-    {
-      "id": "tweet_hibtc37_2076531516554031189",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Mon, 13 Jul 2026 04:57:48 GMT",
-      "content": "海力士 有止跌迹象了",
-      "url": "https://x.com/hibtc37/status/2076531516554031189",
-      "tweet_id": "2076531516554031189"
-    },
-    {
-      "id": "tweet_hibtc37_2076516080168976415",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Mon, 13 Jul 2026 03:56:27 GMT",
-      "content": "海力士 多套救",
-      "url": "https://x.com/hibtc37/status/2076516080168976415",
-      "tweet_id": "2076516080168976415"
     }
   ],
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
