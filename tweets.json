@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-14T12:16:31.291024+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-14T14:55:05.029642+00:00",
+  "total": 21,
   "tweets": [
     {
       "id": "tweet_elonmusk_2076909201524203973",
@@ -63,34 +63,14 @@
       "translated": "RT @cz_binance：自发布以来排名第一。永远第一。 ❤️ 祝贺@Binance 度过了令人难以置信的 9 年！在我从事加密货币的 10 年里，我使用过很多交易所，但币安一直是我的最爱。为多年的创新和成长干杯！ 🚀 #Binance #BinanceTurns9 #Crypto"
     },
     {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432",
-      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2068370500334637542",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
-      "content": "RT by @realDonaldTrump: POLL…",
-      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
-      "tweet_id": "2068370500334637542",
-      "translated": "RT @realDonaldTrump：投票……"
+      "id": "tweet_aleabitoreddit_2077039373711970804",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 14 Jul 2026 14:35:50 GMT",
+      "content": "Two different capacity expansion announcements today across $TSEM and $AAOI. Tower Semi, supported by the Japanese government, announced expansion of its 300mm Silicon Photonics (SiPho), Silicon Germanium (SiGe), and advanced packaging capabilities. Targeting $1.2B net profit, and $3.6B revenue in 2028 (with a ~$28B MC, that's ~23.3 2028 forward p/e). AAOI announced the commencement of its buildout, roughly 400,000 square feet of manufacturing to make 800g/1.6T production go brrr. The overall expansion is also supported by the local city government in Texas. (they also $20.85M worth of subsidies from the State earlier). This one isn't exactly as materially new as Tower, since AAOI originally announced these plans before. Just commencement of it. Regardless, glad to see both of these companies in their Anime training arc phase as they power up.",
+      "url": "https://x.com/aleabitoreddit/status/2077039373711970804",
+      "tweet_id": "2077039373711970804",
+      "translated": "今天，$TSEM 和 $AAOI 发布了两项不同的产能扩张公告。 Tower Semi 在日本政府的支持下，宣布扩大其 300mm 硅光子 (SiPho)、硅锗 (SiGe) 和先进封装能力。目标是 2028 年净利润 1.2B 美元，收入 3.6B 美元（MC 约为 28B 美元，2028 年远期市盈率约为 23.3）。 AAOI 宣布开始扩建约 400,000 平方英尺的生产基地，以实现 800 克/1.6 吨的产量。整体扩张也得到了德克萨斯州当地市政府的支持。 （他们早些时候还从国家获得了价值 2085 万美元的补贴）。这个计划并不像 Tower 那样新颖，因为 AAOI 最初宣布了这些计划。刚刚开始。无论如何，很高兴看到这两家公司在启动时都处于动漫培训弧阶段。"
     },
     {
       "id": "tweet_aleabitoreddit_2076846994614792663",
@@ -113,14 +93,13 @@
       "translated": "旭创科技投资者关系要点： 1.“总体而言，1.6T 市场需求并未萎缩；相反，800G 需求与之前的预期相比显着增加” Prob 整体上最重要的要点是 800G 需求修正（也是长尾需求）。这是对 $AAOI、$COHR、$LITE 等美国收发器制造商的看涨解读。许多新客户，如 Neoclouds、人工智能模型公司，对整体需求做出了贡献，而不仅仅是超大规模企业，多元化总是一个好处。 2. 旭创科技表示，短缺涵盖模组供应链，主要包括： - 光芯片。 - 电子芯片。 - 多氯联苯。 - 其他模块材料 从上一个 ER 来看，我认为他们将 EML 和 CW 光学芯片列为最受限制的材料。因此，旭创科技的瓶颈清单从那时起就扩大了。他们预计，从 2026 年下半年到 2027 年上半年，一些组件的可用性将逐渐提高。不过，我想，其中很多内容在早些时候就已为人所知。但只是一些确认+宽松的时间表（EML 非常瓶颈，与 CW 相同，这可能是在谈论其他组件）。 3.旭创表示，组件生产设备不是限制。设备交货时间仍然相对较短。因此，与其他方面相比，这并不是真正的瓶颈。 4、硅光子整体占比持续上升。去年主要是800G。今年，部分800G客户进一步加大硅光占比。 1.6T 还增加了一些新客户，对 SiPH 渗透率持积极态度，例如。 $SIVE / $JBL，因为这从 EML 转向 CW。基本上：主要令人惊讶的外卖只是 800 克的需求。除此之外，只是重申瓶颈/时间表/市场猜测。"
     },
     {
-      "id": "tweet_aleabitoreddit_2076748688559587338",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 13 Jul 2026 19:20:46 GMT",
-      "content": "Morgan Stanley note on CPO today. Key participants include: - $SIVE, $COHR, and $LITE in laser supply - Broadcom and Nvidia in switch platforms - Lightmatter, Ayar Labs, Marvell/Celestial, and POET in optical engines and photonics, - $TSM, $GFS, and $TSEM in silicon photonics foundry capacity I’ve covered all of these before, like Tower Semi. But I’m especially happy that Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO. A small $1.5B laser company next to your two leading $60B+ companies… If you also synthesize Rosenblatt Securities recent note that China laser suppliers were quite far from having CPO lasers. This kinda magnifies importance of the three Western leaders of that laser chokepoint.",
-      "url": "https://x.com/aleabitoreddit/status/2076748688559587338",
-      "tweet_id": "2076748688559587338",
-      "translated": "摩根士丹利今日发布 CPO 报告。主要参与者包括： - 激光供应领域的 $SIVE、$COHR 和 $LITE - 开关平台领域的 Broadcom 和 Nvidia - 光学引擎和光子领域的 Lightmatter、Ayar Labs、Marvell/Celestial 和 POET， - 硅光子代工领域的 $TSM、$GFS 和 $TSEM 我之前已经介绍过所有这些，例如 Tower Semi。但我特别高兴的是，摩根士丹利验证了我的研究，即 $SIVE 是 CPO 领域的关键全球参与者之一。一家规模为 1.5B 美元的小型激光公司，紧邻两家领先的 60B+ 美元公司……如果您还综合罗森布拉特证券公司最近指出的情况，中国激光供应商距离拥有 CPO 激光器还很远。这有点放大了激光阻塞点的三位西方领导人的​​重要性。"
+      "id": "tweet_qinbafrank_2077008322973381081",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Tue, 14 Jul 2026 12:32:27 GMT",
+      "content": "今晚cpi全部都大幅度低于预期，7月第一个分水岭顺利过关。",
+      "url": "https://x.com/qinbafrank/status/2077008322973381081",
+      "tweet_id": "2077008322973381081"
     },
     {
       "id": "tweet_qinbafrank_2076998727592743164",
@@ -141,13 +120,13 @@
       "tweet_id": "2076979332657070387"
     },
     {
-      "id": "tweet_qinbafrank_2076940164363059232",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Tue, 14 Jul 2026 08:01:37 GMT",
-      "content": "昨晚大科技里微软、亚马逊都能逆势的，算是比较强势了，为何？个人角度应也是之前说的这个逻辑：企业采用AI已经从“买最强模型”阶段，进入“工程化部署 + 多模型 + 私有数据系统”阶段。这个阶段，云服务商（CSP）从“卖算力/卖API的中间商”，升级成了“AI操作系统层”。他们能提供私有化部署、多模型编排、数据安全、权限管理、工具调用框架等一整套基础设施，这正是大企业现在最缺的。 微软和 亚马逊是目前企业级云/AI基础设施最成熟的两家。他们在私有部署、合规、安全、企业级集成上优势明显。当然也是他们之前跌的很多，被压制的很充分。 这个逻辑上周这里https://x.com/qinbafrank/status/2074754779755295164?s=46&t=k6rimWsEbo2D2tXolYcM-A就有聊过。 今天上午的长文相当于是细化和展开",
-      "url": "https://x.com/qinbafrank/status/2076940164363059232",
-      "tweet_id": "2076940164363059232"
+      "id": "tweet_xiaomustock_2077017515545526305",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Tue, 14 Jul 2026 13:08:59 GMT",
+      "content": "你们此时此刻是不是百病全消，神清气爽 保守估计自己又是全银河系最牛逼的人？",
+      "url": "https://x.com/xiaomustock/status/2077017515545526305",
+      "tweet_id": "2077017515545526305"
     },
     {
       "id": "tweet_xiaomustock_2076902928359755987",
@@ -166,15 +145,6 @@
       "content": "人亏钱就跟得病了一样浑身难受，赚钱了就跟吃了灵丹妙药，但大多数人的财富多少并不会影响到衣食住行，这他娘的是为什么",
       "url": "https://x.com/xiaomustock/status/2076901960129855716",
       "tweet_id": "2076901960129855716"
-    },
-    {
-      "id": "tweet_xiaomustock_2076895446749135298",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Tue, 14 Jul 2026 05:03:56 GMT",
-      "content": "起飞了，75总能反弹到吧",
-      "url": "https://x.com/xiaomustock/status/2076895446749135298",
-      "tweet_id": "2076895446749135298"
     },
     {
       "id": "tweet_xingpt_2076980085048139789",
@@ -204,6 +174,15 @@
       "tweet_id": "2076967565465878970"
     },
     {
+      "id": "tweet_hibtc37_2077017139895218550",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Tue, 14 Jul 2026 13:07:29 GMT",
+      "content": "CPI数据出来，上区间直接被击穿了，不算命中吧 主力可能要去吃，我之前说的651，不过可能需要时间吧， 新街区： 643 637市价 没有有效的下区间，目前 转评赞走起",
+      "url": "https://x.com/hibtc37/status/2077017139895218550",
+      "tweet_id": "2077017139895218550"
+    },
+    {
       "id": "tweet_hibtc37_2076920435971870947",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -220,20 +199,11 @@
       "content": "海力士波动太大了，不敢玩了，玩的有点挫败，韩国人真是不讲武德啊，之前做多赚的，来回打止损亏回去了，还亏了些，还有点EWY看看 还是回来玩大饼吧，之前跟我做空SPCX的粉丝都赚了，我没没吃到啥仓位 玩5w刀有点提不起兴趣，那些1万刀做到50万刀的，真佩服，得找到几个非常确性机会才行，SPCX是我发现的一个吧 整体账户5万，目前4.8万，如果韩股触底，这周有望回6w，目标50w 6-8-10-15-20-25-30-50，中间肯定有回撤",
       "url": "https://x.com/hibtc37/status/2076916203495608490",
       "tweet_id": "2076916203495608490"
-    },
-    {
-      "id": "tweet_hibtc37_2076864267601732079",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Tue, 14 Jul 2026 03:00:02 GMT",
-      "content": "玩不过韩国人，上下波动太大了，心脏要很大",
-      "url": "https://x.com/hibtc37/status/2076864267601732079",
-      "tweet_id": "2076864267601732079"
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 9
+    "users_success": 7,
+    "users_failed": 1,
+    "nitter_healthy": 10
   }
 }
