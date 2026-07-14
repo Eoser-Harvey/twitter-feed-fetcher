@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T08:09:56.224272+00:00",
+  "fetched_at": "2026-07-14T10:50:20.375809+00:00",
   "total": 24,
   "tweets": [
     {
@@ -122,13 +122,22 @@
       "translated": "摩根士丹利今日发布 CPO 报告。主要参与者包括： - 激光供应领域的 $SIVE、$COHR 和 $LITE - 开关平台领域的 Broadcom 和 Nvidia - 光学引擎和光子领域的 Lightmatter、Ayar Labs、Marvell/Celestial 和 POET， - 硅光子代工领域的 $TSM、$GFS 和 $TSEM 我之前已经介绍过所有这些，例如 Tower Semi。但我特别高兴的是，摩根士丹利验证了我的研究，即 $SIVE 是 CPO 领域的关键全球参与者之一。一家规模为 1.5B 美元的小型激光公司，紧邻两家领先的 60B+ 美元公司……如果您还综合罗森布拉特证券公司最近指出的情况，中国激光供应商距离拥有 CPO 激光器还很远。这有点放大了激光阻塞点的三位西方领导人的​​重要性。"
     },
     {
-      "id": "tweet_qinbafrank_2076933092225523958",
+      "id": "tweet_qinbafrank_2076979332657070387",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
-      "published_at": "Tue, 14 Jul 2026 07:33:31 GMT",
-      "content": "R to @qinbafrank: 7709今天成交额225亿港币，资产规模484亿港币，这么恐怖的换手率",
-      "url": "https://x.com/qinbafrank/status/2076933092225523958",
-      "tweet_id": "2076933092225523958"
+      "published_at": "Tue, 14 Jul 2026 10:37:15 GMT",
+      "content": "刚开始接触股票资产的同学，其实可以好好看看Bitget推出的的TradFi科普一百问Module 2《资产百科：股票》 模块，这个节点补课其实挺及时的。我也看了下内容讲得比较系统： 1）股票到底是什么、是怎么运作的； 2）企业为什么要发行股票（本质上不是为了圈钱那么简单）； 3）股价涨跌到底受哪些因素驱动； 4）不同类型股票的区别； 5）以及在现在这个多资产时代，为什么懂股票越来越重要。 对很多从纯币市过来的玩家来说，这块内容其实特别有针对性。 加密货币更多是流动性、叙事和情绪驱动的： 而美股本质上是公司现金流、盈利能力和资本配置的博弈。 很多时候 crypto 的涨跌，其实也跟着 TradFi 的机构资金和宏观节奏在走。你如果连股票最基础的运作逻辑都没搞明白，就很难看懂机构在干什么、资金为什么在某些板块共振。 尤其现在 AI、半导体这些赛道，TradFi 上市公司和 crypto 生态的交集越来越深。懂了股票那一套，再去看这些公司的基本面、竞争格局和资本开支，就不会只剩下“叙事牛不牛”这一种判断维度了。 更现实的一点是，这次升级还带了真金白银的激励：每完成一个学习模块，就能解锁一次幸运抽奖机会，总奖池 30万 USDT。Module 1 学完的继续往下学，没开始的现在入场也来得及。后续每周还会继续开放新模块，学得越多，抽奖机会越多。 学完不光能把知识真正用上，还能撸个毛。值得大家去好好学习下内容。",
+      "url": "https://x.com/qinbafrank/status/2076979332657070387",
+      "tweet_id": "2076979332657070387"
+    },
+    {
+      "id": "tweet_qinbafrank_2076940164363059232",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Tue, 14 Jul 2026 08:01:37 GMT",
+      "content": "昨晚大科技里微软、亚马逊都能逆势的，算是比较强势了，为何？个人角度应也是之前说的这个逻辑：企业采用AI已经从“买最强模型”阶段，进入“工程化部署 + 多模型 + 私有数据系统”阶段。这个阶段，云服务商（CSP）从“卖算力/卖API的中间商”，升级成了“AI操作系统层”。他们能提供私有化部署、多模型编排、数据安全、权限管理、工具调用框架等一整套基础设施，这正是大企业现在最缺的。 微软和 亚马逊是目前企业级云/AI基础设施最成熟的两家。他们在私有部署、合规、安全、企业级集成上优势明显。当然也是他们之前跌的很多，被压制的很充分。 这个逻辑上周这里https://x.com/qinbafrank/status/2074754779755295164?s=46&t=k6rimWsEbo2D2tXolYcM-A就有聊过。 今天上午的长文相当于是细化和展开",
+      "url": "https://x.com/qinbafrank/status/2076940164363059232",
+      "tweet_id": "2076940164363059232"
     },
     {
       "id": "tweet_qinbafrank_2076929872077943154",
@@ -138,15 +147,6 @@
       "content": "韩国监管出手，海力士正股和7709今天都放巨量，能看出来是有一大票资金进去争抢带血的筹码、底部正在形成，这一波去杠杆应该是到了尾声。",
       "url": "https://x.com/qinbafrank/status/2076929872077943154",
       "tweet_id": "2076929872077943154"
-    },
-    {
-      "id": "tweet_qinbafrank_2076926988871413951",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Tue, 14 Jul 2026 07:09:16 GMT",
-      "content": "Deribit和SignalPlus联合发起的的“孤岛计划”期权交易大赛，应该是业内最顶格的期权交易大赛了，60万U的总奖池，值得关注下。 根据官方最新公布的规则，现在不需要你有多大的资金量，只需要存入 1 美元，或者仅仅交易 1 次，就能直接获取抽取私人岛屿的资格。绝对值得去撸个毛。 大赛报名链接：https://t.signalplus.com/nuwa/rank#/competition/deribit/detail?open=individual",
-      "url": "https://x.com/qinbafrank/status/2076926988871413951",
-      "tweet_id": "2076926988871413951"
     },
     {
       "id": "tweet_xiaomustock_2076902928359755987",
@@ -176,31 +176,31 @@
       "tweet_id": "2076895446749135298"
     },
     {
-      "id": "tweet_xingpt_2076941952495616455",
+      "id": "tweet_xingpt_2076980085048139789",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Tue, 14 Jul 2026 08:08:43 GMT",
-      "content": "我的神，最早买存储的台湾大佬！",
-      "url": "https://x.com/xingpt/status/2076941952495616455",
-      "tweet_id": "2076941952495616455"
+      "published_at": "Tue, 14 Jul 2026 10:40:15 GMT",
+      "content": "SK海力士 000660（KRX 日线）技术面见底了吗？ 今天海力士技术面有筑底迹象，短线反弹概率大，长期反转还需要确认。几个看多信号包括： ① 盘中插破布林下轨又收回带内，经典反转； ② 跌破 EMA100后收盘重新站上； ③ 现价仍远高于年线 SMA200，长期上升结构未破，缓冲近 48%。 但动能尚未确认： MACD已下穿信号线且跌破零轴，柱状深负，刚拐头向下；RSI 40.68，既没超卖、又在 50 下方，无底背离。价格还压在 EMA20/50 之下。",
+      "url": "https://x.com/xingpt/status/2076980085048139789",
+      "tweet_id": "2076980085048139789"
     },
     {
-      "id": "tweet_xingpt_2076939181130207246",
+      "id": "tweet_xingpt_2076974114062119398",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Tue, 14 Jul 2026 07:57:43 GMT",
-      "content": "Patreon更新了PCB的投资逻辑 https://www.patreon.com/xingpt/posts/san-jia-quan-ji-163768944?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
-      "url": "https://x.com/xingpt/status/2076939181130207246",
-      "tweet_id": "2076939181130207246"
+      "published_at": "Tue, 14 Jul 2026 10:16:31 GMT",
+      "content": "最近行情波动太大了，还是放点现金在理财比较安心：USD1 续期从 7 月 10 日到 8 月 7 日。 这次需要注意的是：在币安合约账户或杠杆账户中持有USD1，用户需在USD1合约交易对上的每日未平仓合约量，保持至少 300 USD1，方可获得1.2倍加成年化收益。 继续舒服了",
+      "url": "https://x.com/xingpt/status/2076974114062119398",
+      "tweet_id": "2076974114062119398"
     },
     {
-      "id": "tweet_xingpt_2076634227106591059",
+      "id": "tweet_xingpt_2076967565465878970",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Mon, 13 Jul 2026 11:45:56 GMT",
-      "content": "Meta说要把原来的算力中心扩展到 5GW，原来不缺算力的传言也不攻自破了。 基本面没问题的时候，空头故意放一些消息配合砸盘，这时候应该先跑，还是应该不变，甚至加仓？ 我最开始的时候认为这是个好的错杀机会，至少跑路是不符合我对基本面的判断的，问了几个meta和硅谷的朋友，算力都缺得要死，怎么可能不缺算力； 我的判断没问题。但还是错了。 错在过于相信基本面的支撑，忽略了空头或者获利盘砸盘的量能，消息只不过配合砸盘放给媒体的工具。 正确地做法是暂时跑路，或者坚持不动仓位，但是要给一个判断错误跑路的时机。",
-      "url": "https://x.com/xingpt/status/2076634227106591059",
-      "tweet_id": "2076634227106591059"
+      "published_at": "Tue, 14 Jul 2026 09:50:30 GMT",
+      "content": "R to @xingpt: 截止7.13 日融资余额继续下降，约为34.79 万亿韩元",
+      "url": "https://x.com/xingpt/status/2076967565465878970",
+      "tweet_id": "2076967565465878970"
     },
     {
       "id": "tweet_hibtc37_2076920435971870947",
@@ -233,6 +233,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
