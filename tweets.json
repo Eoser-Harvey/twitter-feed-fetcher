@@ -1,36 +1,16 @@
 {
-  "fetched_at": "2026-07-14T14:55:05.029642+00:00",
+  "fetched_at": "2026-07-14T16:19:14.668405+00:00",
   "total": 21,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2076909201524203973",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 14 Jul 2026 05:58:35 GMT",
-      "content": "Grok 4.5 reaches #1 position on Long-Horizon Terminal-Bench",
-      "url": "https://x.com/elonmusk/status/2076909201524203973",
-      "tweet_id": "2076909201524203973",
-      "translated": "Grok 4.5 在 Long-Horizo​​n Terminal-Bench 上排名第一"
-    },
-    {
-      "id": "tweet_elonmusk_2076881971117011234",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 14 Jul 2026 04:10:23 GMT",
-      "content": "RT by @elonmusk: Just a reminder that deepseek v3 came out 18 months ago and was considered revolutionary at the time but is basically unusable today There was a fierce debate at the time about vibe coding and the argument was that LLMs can never create anything new because they are limited by their training data Those engineers were partly right and vibe coding was a real nightmare, I cannot believe what we used to put ourselves through with Sonnet 3.5, but we also knew real new things could be made and that the detractors were wrong I guess us non-engineers saw it most clearly (I would like to think so at least) because we were astonished at the new things we could do without the programming background, and we had nothing to lose and everything to gain in our enthusiasm Then came Opus 4.5 earlier this year which changed everything Suddenly real production code became possible with so much less friction and headache Everyone complained endlessly about models being nerfed or quantized but there was a steady march of progress from 4.5 to 4.8 Now a completely new crop of models is coming out that is not quite a 4.5 moment but something close We are not only getting more polish but things are becoming a little freaky, entire isolated domains become possible to combine with small teams or even just one person into new applications that would have required large infusions of time and capital in the past My wife back in 2021 told me about AI but I was in healthcare, I thought she was being a little nutty, and she talked like something from a science fiction film was coming and she got involved in it early on She never stops letting me know that she was right, and she was The next year is going to be wild, the world is truly going to change over the next few years, the scale of disruption will be a combination of astonishing and awesome, but also catastrophic There are many amazing things ahead and extraordinary challenges and opportunities We are living inside one of one of the biggest revolutions in human history",
-      "url": "https://x.com/elonmusk/status/2076881971117011234",
-      "tweet_id": "2076881971117011234",
-      "translated": "@elonmusk 的 RT：只是提醒一下，deepseek v3 于 18 个月前问世，当时被认为是革命性的，但今天基本上无法使用。当时关于 Vibe 编码存在激烈的争论，争论的焦点是法学硕士永远无法创造任何新东西，因为他们受到训练数据的限制。这些工程师部分正确，Vibe 编码是一场真正的噩梦，我不敢相信我们过去在 Sonnet 3.5 中经历了什么，但我们也知道真正的新东西可以被创造出来，而且批评者也知道我想我们这些非工程师看得最清楚（至少我想是这样），因为我们对没有编程背景就能做的新事情感到惊讶，我们没有什么可失去的，我们的热情中得到了一切然后今年早些时候的 Opus 4.5 改变了一切突然真正的生产代码变得可能，摩擦和头痛大大减少每个人都无休止地抱怨模型被削弱或量化，但从 4.5 到 4.8 有了稳步的进展，现在完全是新一批模型即将问世，虽然不是 4.5 时刻，但已经很接近了。我们不仅变得更加完善，而且事情变得有点怪异，整个孤立的领域可以与小团队甚至一个人结合到新的应用程序中，而这在过去需要大量的时间和资本注入。我的妻子早在 2021 年就向我介绍了人工智能，但我从事医疗保健行业，我认为她有点疯狂，她说话就像科幻电影中的东西即将到来，她很早就参与其中她不停地让我知道她是对的，她是对的。明年将是疯狂的，未来几年世界将真正发生变化，破坏的规模将是令人惊讶和令人敬畏的，但也是灾难性的。未来有许多令人惊奇的事情以及非凡的挑战和机遇，我们生活在人类历史上最大的革命之一"
-    },
-    {
-      "id": "tweet_elonmusk_2076905740531302479",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 14 Jul 2026 05:44:50 GMT",
-      "content": "The woke mob had turned Twitter into Wormtongue to the World",
-      "url": "https://x.com/elonmusk/status/2076905740531302479",
-      "tweet_id": "2076905740531302479",
-      "translated": "觉醒的暴民已经把推特变成了世界的口语"
+      "id": "tweet_cz_binance_2077045885012230590",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Tue, 14 Jul 2026 15:01:43 GMT",
+      "content": "One CEX, many decentralized communities.",
+      "url": "https://x.com/cz_binance/status/2077045885012230590",
+      "tweet_id": "2077045885012230590",
+      "translated": "一个CEX，多个去中心化社区。"
     },
     {
       "id": "tweet_cz_binance_2076873794849771681",
@@ -53,14 +33,44 @@
       "translated": "RT @cz_binance：币安九周年：由您打造，与您共庆！请于 7 月 14 日下午 1 点（世界标准时间）收听我们的领导层和特邀嘉宾在 Square、YouTube 和 X 上的直播。我们将分享 9,000 美元的奖励。你不想错过这个。在这里设置提醒👇 https://www.binance.com/en/square/audio?id=4290675780574"
     },
     {
-      "id": "tweet_cz_binance_2076875977658171899",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Tue, 14 Jul 2026 03:46:34 GMT",
-      "content": "RT by @cz_binance: Number 1 since launch. Number 1 forever. ❤️ Congratulations @Binance on 9 incredible years! In my 10 years in crypto, I've used many exchanges, but Binance has always been my favorite. Here's to many more years of innovation and growth! 🚀 #Binance #BinanceTurns9 #Crypto",
-      "url": "https://x.com/cz_binance/status/2076875977658171899",
-      "tweet_id": "2076875977658171899",
-      "translated": "RT @cz_binance：自发布以来排名第一。永远第一。 ❤️ 祝贺@Binance 度过了令人难以置信的 9 年！在我从事加密货币的 10 年里，我使用过很多交易所，但币安一直是我的最爱。为多年的创新和成长干杯！ 🚀 #Binance #BinanceTurns9 #Crypto"
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432",
+      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2068370500334637542",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
+      "content": "RT by @realDonaldTrump: POLL…",
+      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
+      "tweet_id": "2068370500334637542",
+      "translated": "RT @realDonaldTrump：投票……"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2077044786402660829",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 14 Jul 2026 14:57:21 GMT",
+      "content": "$NBIS signs $1B+ compute agreement with Reflection AI, for GB300 access through 2029. Reflection also signed a multi-billion dollar agreement with $SPCX earlier. Interesting to say the least, seeing Nebius drop -5% off the news today. Also... counterparty to get this done kinda reminds me of OpenAI, where they might not have the funds to actually execute on these LTAs yet compared to $META or $MSFT. But generally positive long term developments, customer diversification was one of the core strengths of Nebius.",
+      "url": "https://x.com/aleabitoreddit/status/2077044786402660829",
+      "tweet_id": "2077044786402660829",
+      "translated": "$NBIS 与 Reflection AI 签署了 1B+ 美元的计算协议，到 2029 年访问 GB300。Reflection 早些时候还与 $SPCX 签署了一项价值数十亿美元的协议。至少可以说很有趣，看到 Nebius 今天的新闻下降了 -5%。另外......完成这项工作的交易对手有点让我想起 OpenAI，与 $META 或 $MSFT 相比，他们可能没有资金来实际执行这些 LTA。但从总体来看，长期发展积极，客户多元化是 Nebius 的核心优势之一。"
     },
     {
       "id": "tweet_aleabitoreddit_2077039373711970804",
@@ -83,14 +93,13 @@
       "translated": "因此，Jensen 亲自出去进行损害控制，显然有 $NVDA 延迟报告： 1. Jensen Huang 表示没有延迟： - 800V 和机架到机架光学互连的进展完全符合原计划，没有任何重大延迟。 - 驳斥了下一代旗舰产品 Rubin Ultra 将推迟到 2028 年的传言，并表示将于明年发货 - 机架系统优化，例如用新设计替换 Kyber，属于架构优化，不会影响交付时间表。 2.关于ASIC竞争：不损失市场份额。 - 谈论了一家先前严重依赖内部 ASIC 的领先前沿实验室如何将近 50% 的计算负载转移到 Nvidia 3。关于过度依赖超大规模处理器。 - AI 前沿实验室目前贡献了约 20% 的需求。 - 传统云提供商，Nvidia 提供 Vera CPU 和高速网络 - Sovereign AI"
     },
     {
-      "id": "tweet_aleabitoreddit_2076808331453415674",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 13 Jul 2026 23:17:46 GMT",
-      "content": "TLDR of Innolight investor relations takeaways: 1. \"Overall, 1.6T market demand has not contracted; instead, 800G demand has increased significantly compared with previous expectations\" Prob most important takeaway as a whole was 800G demand revision (also longer tail demand). Which is a bullish read through on US transceiver makers like $AAOI, $COHR, $LITE. Lot of new customers like neoclouds, AI model companies, contributing to overall demand rather than just hyperscalers, diversification always a bonus. 2. Innolight said the shortage covers the module supply chain broadly including: - Optical chips. - Electrical chips. - PCBs. - Other module materials From last ER, I think they singled out EMLs and CW optical chips as the most constrained. So Innolight's bottleneck list mention broadened since then. They expect some of the component availability to improve gradually from the second half of 2026 through the first half of 2027. Think a lot of this is already known from earlier though. But just some confirmation + easing timelines (EML is extremely bottlenecked, same with CW, this is probably talking about other components). 3. Innolight said module-production equipment is not the constraint. Equipment lead times remain relatively short. So this isn't really a bottleneck compared to others. 4. The overall proportion of silicon photonics continues to trend upward. Last year it was mainly 800G. This year, some 800G customers are further increasing their silicon-photonics proportion. 1.6T also added some new customers Positive for SiPH penetration eg. $SIVE / $JBL, since this shifts away from EML toward CW. Basically: main surprising takeaway is just 800g demand go brrr. Apart from that just reaffirming bottlenecks/timelines/market speculation.",
-      "url": "https://x.com/aleabitoreddit/status/2076808331453415674",
-      "tweet_id": "2076808331453415674",
-      "translated": "旭创科技投资者关系要点： 1.“总体而言，1.6T 市场需求并未萎缩；相反，800G 需求与之前的预期相比显着增加” Prob 整体上最重要的要点是 800G 需求修正（也是长尾需求）。这是对 $AAOI、$COHR、$LITE 等美国收发器制造商的看涨解读。许多新客户，如 Neoclouds、人工智能模型公司，对整体需求做出了贡献，而不仅仅是超大规模企业，多元化总是一个好处。 2. 旭创科技表示，短缺涵盖模组供应链，主要包括： - 光芯片。 - 电子芯片。 - 多氯联苯。 - 其他模块材料 从上一个 ER 来看，我认为他们将 EML 和 CW 光学芯片列为最受限制的材料。因此，旭创科技的瓶颈清单从那时起就扩大了。他们预计，从 2026 年下半年到 2027 年上半年，一些组件的可用性将逐渐提高。不过，我想，其中很多内容在早些时候就已为人所知。但只是一些确认+宽松的时间表（EML 非常瓶颈，与 CW 相同，这可能是在谈论其他组件）。 3.旭创表示，组件生产设备不是限制。设备交货时间仍然相对较短。因此，与其他方面相比，这并不是真正的瓶颈。 4、硅光子整体占比持续上升。去年主要是800G。今年，部分800G客户进一步加大硅光占比。 1.6T 还增加了一些新客户，对 SiPH 渗透率持积极态度，例如。 $SIVE / $JBL，因为这从 EML 转向 CW。基本上：主要令人惊讶的外卖只是 800 克的需求。除此之外，只是重申瓶颈/时间表/市场猜测。"
+      "id": "tweet_qinbafrank_2077058899992285259",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Tue, 14 Jul 2026 15:53:26 GMT",
+      "content": "美股安全软件板块为何今天这么强势？还没看到具体的催化事件，今天白天这篇推文应该没有这么大的能量吧🤔。不过昨天逆势走强也能看出端倪。",
+      "url": "https://x.com/qinbafrank/status/2077058899992285259",
+      "tweet_id": "2077058899992285259"
     },
     {
       "id": "tweet_qinbafrank_2077008322973381081",
@@ -111,13 +120,13 @@
       "tweet_id": "2076998727592743164"
     },
     {
-      "id": "tweet_qinbafrank_2076979332657070387",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Tue, 14 Jul 2026 10:37:15 GMT",
-      "content": "刚开始接触股票资产的同学，其实可以好好看看Bitget推出的的TradFi科普一百问Module 2《资产百科：股票》 模块，这个节点补课其实挺及时的。我也看了下内容讲得比较系统： 1）股票到底是什么、是怎么运作的； 2）企业为什么要发行股票（本质上不是为了圈钱那么简单）； 3）股价涨跌到底受哪些因素驱动； 4）不同类型股票的区别； 5）以及在现在这个多资产时代，为什么懂股票越来越重要。 对很多从纯币市过来的玩家来说，这块内容其实特别有针对性。 加密货币更多是流动性、叙事和情绪驱动的： 而美股本质上是公司现金流、盈利能力和资本配置的博弈。 很多时候 crypto 的涨跌，其实也跟着 TradFi 的机构资金和宏观节奏在走。你如果连股票最基础的运作逻辑都没搞明白，就很难看懂机构在干什么、资金为什么在某些板块共振。 尤其现在 AI、半导体这些赛道，TradFi 上市公司和 crypto 生态的交集越来越深。懂了股票那一套，再去看这些公司的基本面、竞争格局和资本开支，就不会只剩下“叙事牛不牛”这一种判断维度了。 更现实的一点是，这次升级还带了真金白银的激励：每完成一个学习模块，就能解锁一次幸运抽奖机会，总奖池 30万 USDT。Module 1 学完的继续往下学，没开始的现在入场也来得及。后续每周还会继续开放新模块，学得越多，抽奖机会越多。 学完不光能把知识真正用上，还能撸个毛。值得大家去好好学习下内容。",
-      "url": "https://x.com/qinbafrank/status/2076979332657070387",
-      "tweet_id": "2076979332657070387"
+      "id": "tweet_xiaomustock_2077055927786885527",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Tue, 14 Jul 2026 15:41:37 GMT",
+      "content": "请发给你的韩国朋友。 AI能干的事情过去2年， 慢慢从一维数据到二维数据再到未来的三维数据进化，也就是文字，图片，三维视频。 这经历的时间也才短短2年多，24年到现在26年。而存储扩产在2028年，也就是2年后，AI会发展成什么样，这些傻逼预测分析师硅谷投资客都没有考虑进去，他们只是基于现在的AI状态来分析存储未来尤其是存储2028年的未来做出当下的判断，他们都是傻逼。 如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。人们现在对存储的假设是基于现有AI水平来测算。 但这些傻逼都没有考虑进去2年后AI会发展成什么样， 现在AI视频已经可以以假乱真， 俩年后更是不敢想象会进化到啥程度， 如果AI能进化到理解现实物理世界，那它处理的数据全是视频数据， 存储需求的数量级可能是百倍于现在， 要坚信你的存储。 试想一下AI俩年后会发展成什么样，回想过去俩年AI的进化速度和对存储需求的增长速度，不要再扔掉你们宝贵的 #海力士 $SKHYX 了。 AI用量会在俩年后暴增数倍，想象你2年后使用频率，从现在一天3-5次会不会暴增到30-50次？ AI使用群体数量俩年后会不会从1B暴增到几B？（使用群体不限于人，包括汽车，包括手机，包括机器人，甚至智能体本身…） AI现在人70%的使用是文字token，俩年后会不会进化到视频影像物理三维视频token输入输出？（这里存储数据量差别千倍万倍。） 这里面的需求差别2年后会是现在的多少倍？十倍还是百倍？ 那俩年后的存储产量增量是几倍？翻倍都撑死了吧？这些傻逼预测师永远不会这么给你算，只会基于现在AI状态误导你。 拿出你们290万韩元梭哈的勇气， 190万韩元都不敢买，真去死了算了。",
+      "url": "https://x.com/xiaomustock/status/2077055927786885527",
+      "tweet_id": "2077055927786885527"
     },
     {
       "id": "tweet_xiaomustock_2077017515545526305",
@@ -138,13 +147,13 @@
       "tweet_id": "2076902928359755987"
     },
     {
-      "id": "tweet_xiaomustock_2076901960129855716",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Tue, 14 Jul 2026 05:29:48 GMT",
-      "content": "人亏钱就跟得病了一样浑身难受，赚钱了就跟吃了灵丹妙药，但大多数人的财富多少并不会影响到衣食住行，这他娘的是为什么",
-      "url": "https://x.com/xiaomustock/status/2076901960129855716",
-      "tweet_id": "2076901960129855716"
+      "id": "tweet_xingpt_2077041680734458201",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Tue, 14 Jul 2026 14:45:00 GMT",
+      "content": "作为非专业散户，还是应该优先配置美股大盘指数标普 500 和QQQ；次要配置行业指数，培养自己的盘感和行业的选择，比如SOXX，IGV之类的；最次配个股，比较考验对公司的理解，财务数据，产业前瞻；忌讳配个股杠杆，2xETF，极度不建议散户玩，杠杆高，风险大。",
+      "url": "https://x.com/xingpt/status/2077041680734458201",
+      "tweet_id": "2077041680734458201"
     },
     {
       "id": "tweet_xingpt_2076980085048139789",
@@ -163,15 +172,6 @@
       "content": "最近行情波动太大了，还是放点现金在理财比较安心：USD1 续期从 7 月 10 日到 8 月 7 日。 这次需要注意的是：在币安合约账户或杠杆账户中持有USD1，用户需在USD1合约交易对上的每日未平仓合约量，保持至少 300 USD1，方可获得1.2倍加成年化收益。 继续舒服了",
       "url": "https://x.com/xingpt/status/2076974114062119398",
       "tweet_id": "2076974114062119398"
-    },
-    {
-      "id": "tweet_xingpt_2076967565465878970",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Tue, 14 Jul 2026 09:50:30 GMT",
-      "content": "R to @xingpt: 截止7.13 日融资余额继续下降，约为34.79 万亿韩元",
-      "url": "https://x.com/xingpt/status/2076967565465878970",
-      "tweet_id": "2076967565465878970"
     },
     {
       "id": "tweet_hibtc37_2077017139895218550",
