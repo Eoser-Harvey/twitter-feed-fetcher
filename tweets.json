@@ -1,36 +1,16 @@
 {
-  "fetched_at": "2026-07-14T20:14:48.445445+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-14T22:02:31.611104+00:00",
+  "total": 21,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2077044528234553709",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 14 Jul 2026 14:56:19 GMT",
-      "content": "Ancient times",
-      "url": "https://x.com/elonmusk/status/2077044528234553709",
-      "tweet_id": "2077044528234553709",
-      "translated": "古代"
-    },
-    {
-      "id": "tweet_elonmusk_2077043449279262954",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 14 Jul 2026 14:52:02 GMT",
-      "content": "True",
-      "url": "https://x.com/elonmusk/status/2077043449279262954",
-      "tweet_id": "2077043449279262954",
-      "translated": "真的"
-    },
-    {
-      "id": "tweet_elonmusk_2076879176628305957",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 14 Jul 2026 03:59:16 GMT",
-      "content": "RT by @elonmusk: Falcon 9 launches 27 @Starlink satellites from California",
-      "url": "https://x.com/elonmusk/status/2076879176628305957",
-      "tweet_id": "2076879176628305957",
-      "translated": "RT @elonmusk：猎鹰 9 号从加利福尼亚州发射了 27 颗 @Starlink 卫星"
+      "id": "tweet_cz_binance_2077027836875935773",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Tue, 14 Jul 2026 13:50:00 GMT",
+      "content": "RT by @cz_binance: 🔥CZ: BINANCE REACHED WORLD'S NO. 1 EXCHANGE IN JUST 5 MONTHS AND “STAYED THERE” Celebrating Binance’s 9th anniversary, founder CZ says several factors drove the exchange’s success: “The product has to be good. Customer service has to be good.” “You have to have a mission. Our mission was to increase the freedom of money.” CZ says \"protecting users\" helped Binance keep its lead.",
+      "url": "https://x.com/cz_binance/status/2077027836875935773",
+      "tweet_id": "2077027836875935773",
+      "translated": "RT @cz_binance：🔥CZ：币安达到世界第一。短短 5 个月内就成为 1 家交易所并“一直坚守在那里” 在庆祝币安成立 9 周年之际，创始人 CZ 表示，有几个因素推动了交易所的成功：“产品必须良好。客户服务必须良好。” “你必须有一个使命。我们的使命是增加资金自由度。” CZ 表示，“保护用户”帮助币安保持了领先地位。"
     },
     {
       "id": "tweet_cz_binance_2077045885012230590",
@@ -51,16 +31,6 @@
       "url": "https://x.com/cz_binance/status/2076873794849771681",
       "tweet_id": "2076873794849771681",
       "translated": "RT @cz_binance：@Binance 九周年快乐！过去9年发生了很多事情。感谢大家的支持！我们始终与您同在！期待下一个90年！ 🙏🙏🙏🙏🙏🙏🙏🙏"
-    },
-    {
-      "id": "tweet_cz_binance_2076623143720943887",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Mon, 13 Jul 2026 11:01:53 GMT",
-      "content": "RT by @cz_binance: 9 years of Binance: built by you, celebrated with you! Tune in July 14, 1pm UTC to join our leadership and special guests live on Square, YouTube & X. We are giving away a share of $9,000 in rewards. You don't want to miss this. Set your reminder here👇 https://www.binance.com/en/square/audio?id=4290675780574",
-      "url": "https://x.com/cz_binance/status/2076623143720943887",
-      "tweet_id": "2076623143720943887",
-      "translated": "RT @cz_binance：币安九周年：由您打造，与您共庆！请于 7 月 14 日下午 1 点（世界标准时间）收听我们的领导层和特邀嘉宾在 Square、YouTube 和 X 上的直播。我们将分享 9,000 美元的奖励。你不想错过这个。在这里设置提醒👇 https://www.binance.com/en/square/audio?id=4290675780574"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -232,8 +202,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 10
+    "users_success": 7,
+    "users_failed": 1,
+    "nitter_healthy": 9
   }
 }
