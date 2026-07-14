@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-14T05:34:28.717948+00:00",
+  "fetched_at": "2026-07-14T08:09:56.224272+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2076750536582529090",
+      "id": "tweet_elonmusk_2076909201524203973",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Mon, 13 Jul 2026 19:28:06 GMT",
-      "content": "RT by @elonmusk: SpaceX was founded on one powerful belief: A future where humanity is out exploring the stars is fundamentally more exciting than one where we are not Every Falcon launch, every Starship test, and every step toward Mars is built around that belief The goal is not just to reach space It is to build a future where humanity becomes a multiplanetary civilization",
-      "url": "https://x.com/elonmusk/status/2076750536582529090",
-      "tweet_id": "2076750536582529090",
-      "translated": "RT by @elonmusk：SpaceX 建立在一个强大的信念之上：人类探索星空的未来从根本上来说比我们不探索的未来更令人兴奋。每次猎鹰发射、每一次星际飞船测试以及迈向火星的每一步都是围绕这一信念建立的。目标不仅仅是到达太空，而是建设一个人类成为多行星文明的未来。"
+      "published_at": "Tue, 14 Jul 2026 05:58:35 GMT",
+      "content": "Grok 4.5 reaches #1 position on Long-Horizon Terminal-Bench",
+      "url": "https://x.com/elonmusk/status/2076909201524203973",
+      "tweet_id": "2076909201524203973",
+      "translated": "Grok 4.5 在 Long-Horizo​​n Terminal-Bench 上排名第一"
     },
     {
-      "id": "tweet_elonmusk_2076722045136843026",
+      "id": "tweet_elonmusk_2076881971117011234",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Mon, 13 Jul 2026 17:34:53 GMT",
-      "content": "RT by @elonmusk: Crazy what you can build with Grok 4.5 and Grok Build in minutes.",
-      "url": "https://x.com/elonmusk/status/2076722045136843026",
-      "tweet_id": "2076722045136843026",
-      "translated": "RT by @elonmusk：使用 Grok 4.5 和 Grok Build 在几分钟内就能构建出疯狂的东西。"
+      "published_at": "Tue, 14 Jul 2026 04:10:23 GMT",
+      "content": "RT by @elonmusk: Just a reminder that deepseek v3 came out 18 months ago and was considered revolutionary at the time but is basically unusable today There was a fierce debate at the time about vibe coding and the argument was that LLMs can never create anything new because they are limited by their training data Those engineers were partly right and vibe coding was a real nightmare, I cannot believe what we used to put ourselves through with Sonnet 3.5, but we also knew real new things could be made and that the detractors were wrong I guess us non-engineers saw it most clearly (I would like to think so at least) because we were astonished at the new things we could do without the programming background, and we had nothing to lose and everything to gain in our enthusiasm Then came Opus 4.5 earlier this year which changed everything Suddenly real production code became possible with so much less friction and headache Everyone complained endlessly about models being nerfed or quantized but there was a steady march of progress from 4.5 to 4.8 Now a completely new crop of models is coming out that is not quite a 4.5 moment but something close We are not only getting more polish but things are becoming a little freaky, entire isolated domains become possible to combine with small teams or even just one person into new applications that would have required large infusions of time and capital in the past My wife back in 2021 told me about AI but I was in healthcare, I thought she was being a little nutty, and she talked like something from a science fiction film was coming and she got involved in it early on She never stops letting me know that she was right, and she was The next year is going to be wild, the world is truly going to change over the next few years, the scale of disruption will be a combination of astonishing and awesome, but also catastrophic There are many amazing things ahead and extraordinary challenges and opportunities We are living inside one of one of the biggest revolutions in human history",
+      "url": "https://x.com/elonmusk/status/2076881971117011234",
+      "tweet_id": "2076881971117011234",
+      "translated": "@elonmusk 的 RT：只是提醒一下，deepseek v3 于 18 个月前问世，当时被认为是革命性的，但今天基本上无法使用。当时关于 Vibe 编码存在激烈的争论，争论的焦点是法学硕士永远无法创造任何新东西，因为他们受到训练数据的限制。这些工程师部分正确，Vibe 编码是一场真正的噩梦，我不敢相信我们过去在 Sonnet 3.5 中经历了什么，但我们也知道真正的新东西可以被创造出来，而且批评者也知道我想我们这些非工程师看得最清楚（至少我想是这样），因为我们对没有编程背景就能做的新事情感到惊讶，我们没有什么可失去的，我们的热情中得到了一切然后今年早些时候的 Opus 4.5 改变了一切突然真正的生产代码变得可能，摩擦和头痛大大减少每个人都无休止地抱怨模型被削弱或量化，但从 4.5 到 4.8 有了稳步的进展，现在完全是新一批模型即将问世，虽然不是 4.5 时刻，但已经很接近了。我们不仅变得更加完善，而且事情变得有点怪异，整个孤立的领域可以与小团队甚至一个人结合到新的应用程序中，而这在过去需要大量的时间和资本注入。我的妻子早在 2021 年就向我介绍了人工智能，但我从事医疗保健行业，我认为她有点疯狂，她说话就像科幻电影中的东西即将到来，她很早就参与其中她不停地让我知道她是对的，她是对的。明年将是疯狂的，未来几年世界将真正发生变化，破坏的规模将是令人惊讶和令人敬畏的，但也是灾难性的。未来有许多令人惊奇的事情以及非凡的挑战和机遇，我们生活在人类历史上最大的革命之一"
     },
     {
-      "id": "tweet_elonmusk_2076726650365264196",
+      "id": "tweet_elonmusk_2076905740531302479",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Mon, 13 Jul 2026 17:53:11 GMT",
-      "content": "RT by @elonmusk: The default in Grok Build is off. You can also run /privacy and any synced data is deleted. ZDR is respected for both headless and interactive use as well.",
-      "url": "https://x.com/elonmusk/status/2076726650365264196",
-      "tweet_id": "2076726650365264196",
-      "translated": "RT by @elonmusk：Grok Build 中的默认设置是关闭的。您还可以运行 /privacy 并删除所有同步数据。 ZDR 在无头和交互式使用方面也受到尊重。"
+      "published_at": "Tue, 14 Jul 2026 05:44:50 GMT",
+      "content": "The woke mob had turned Twitter into Wormtongue to the World",
+      "url": "https://x.com/elonmusk/status/2076905740531302479",
+      "tweet_id": "2076905740531302479",
+      "translated": "觉醒的暴民已经把推特变成了世界的口语"
     },
     {
       "id": "tweet_cz_binance_2076875977658171899",
@@ -122,31 +122,40 @@
       "translated": "摩根士丹利今日发布 CPO 报告。主要参与者包括： - 激光供应领域的 $SIVE、$COHR 和 $LITE - 开关平台领域的 Broadcom 和 Nvidia - 光学引擎和光子领域的 Lightmatter、Ayar Labs、Marvell/Celestial 和 POET， - 硅光子代工领域的 $TSM、$GFS 和 $TSEM 我之前已经介绍过所有这些，例如 Tower Semi。但我特别高兴的是，摩根士丹利验证了我的研究，即 $SIVE 是 CPO 领域的关键全球参与者之一。一家规模为 1.5B 美元的小型激光公司，紧邻两家领先的 60B+ 美元公司……如果您还综合罗森布拉特证券公司最近指出的情况，中国激光供应商距离拥有 CPO 激光器还很远。这有点放大了激光阻塞点的三位西方领导人的​​重要性。"
     },
     {
-      "id": "tweet_qinbafrank_2076881784537776475",
+      "id": "tweet_qinbafrank_2076933092225523958",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
-      "published_at": "Tue, 14 Jul 2026 04:09:38 GMT",
-      "content": "一张图详细了解今年走势最好的一个板块：安全软件，昨晚美股大跌还能逆势走强。安全软件走强的逻辑在于：AI Agent替代的是一部分“软件执行席位”，安全软件掌握的却是“身份、权限、数据、流量、运行行为和恢复能力”。Agent越自主，控制层越重要。 所以，安全saas控股是三件事在同时发生： 1）AI Agent、云迁移、多模态数据让攻击面大幅扩大（数据泄露、模型投毒、提示注入等新风险），这带动安全总市场继续扩容，AI 带来真正的新增预算； 2）预算从传统点工具向平台、身份、云、数据和运行时迁移； 3）企业部署AI必须同步加强“零信任”、云安全、端点检测（EDR）、AI安全平台； AI不是简单增加一个新的安全产品，而是让整个企业重新建立一层AI控制系统。这套控制系统包含：身份和权限、数据访问、云和工作负载、网络与API、模型和Agent运行时、SOC检测与自动响应，业务恢复和回滚。 未来三到五年，广义AI相关安全预算达到数百亿美元甚至近千亿美金。 我应该是最早就在说到安全软件是最被错杀的软件版块，1月底这里https://x.com/qinbafrank/status/2017528068324397416?s=46&t=k6rimWsEbo2D2tXolYcM-A有聊过； 2月中这里https://x.com/qinbafrank/status/2021506837720498224?s=46&t=k6rimWsEbo2D2tXolYcM-A还详细梳理过看好的安全软件公司、到现在基本上都翻倍了。特别说明下Crwd在6月底拆股了（1拆4）。 转发引用的推文在5月下旬又聊过一次。",
-      "url": "https://x.com/qinbafrank/status/2076881784537776475",
-      "tweet_id": "2076881784537776475"
+      "published_at": "Tue, 14 Jul 2026 07:33:31 GMT",
+      "content": "R to @qinbafrank: 7709今天成交额225亿港币，资产规模484亿港币，这么恐怖的换手率",
+      "url": "https://x.com/qinbafrank/status/2076933092225523958",
+      "tweet_id": "2076933092225523958"
     },
     {
-      "id": "tweet_qinbafrank_2076870354212175872",
+      "id": "tweet_qinbafrank_2076929872077943154",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
-      "published_at": "Tue, 14 Jul 2026 03:24:13 GMT",
-      "content": "川普说要对 经霍尔木兹海峡运输的货物收取20%的“安全费用”，伊朗说要收一起收但你收20%太黑了。这是给伊朗一个助攻么？之前聊到美伊冲突再起，这次核心还是霍尔木兹海峡的控制权。 1、川普昨天的表态：霍尔木兹海峡必须开放、美国可能直接“接管”或主导海峡安全、美国将重新实施对伊朗的封锁、海湾产油国应为美国提供的安全保护支付费用。能看出来美国核心还是要明确谁拥有海峡安全安排的主导权，试图决定谁能进出伊朗港口、谁承担安保成本。 2、但也能看出来双方还是克制 美军军事行动目标限定为削弱伊朗攻击商船和封控海峡的能力，还没有把这一轮行动升级为全面摧毁伊朗国家能力（德黑兰、工业设施、电厂等） 伊朗则大多是固定、已知、早有预警、受到防空保护的军事目标，其实美军在波斯湾的军事基地大部分已经是撤退状态（人员和装备已经撤离） 从军事信号角度看，双方存在某种非正式对应关系： 美国打伊朗控制海峡的军事能力； 伊朗打美国支撑这些行动的地区军事节点 所以说双方确实表现出明显的“战术克制”和“升级管理”；不是没有战争，而是在按照一套彼此大致能够理解的规则，克制地打有限战争。 3、未来数日最可能出现的是“有限战争继续＋强制谈判并行”：美国通过空袭和海上封锁迫使伊朗接受新的航运与安全条件；伊朗则通过可控但危险的导弹、无人机、代理人和商船压力，提高美国及海湾国家的成本，争取重新谈判。 换言之： 20%安全费、谁管理海峡，是博弈； 空袭、导弹反击和海上封锁，是战争 只要这种克制的隐含规则继续存在，战争就可能维持在“有限交火＋强制谈判”的区间；一旦美军基地出现重大伤亡、美国打击伊朗核心能源或政治目标、伊朗击沉美国军舰，或者封锁行动中发生首次致命交火，这套克制机制就可能迅速失效。 4、更值得聊的点是： 之前美国的基本立场是：“霍尔木兹海峡属于国际航道，伊朗不得封锁、审批或收费”。但川普提出由美国充当海峡“守护者”，并按货物价值收取20%的所谓安全补偿后，争论就容易从： “国际海峡能不能收费？” 悄然变成： “谁在提供安全、谁有资格收费、收多少？” 这不正是伊朗想要的叙事转换么？ 美国一旦主张“军事保护可以货币化”，伊朗就可以反问：既然收费原则成立，为什么紧邻海峡、长期维持航标、交通管理和安全力量的伊朗不能收费？ 阿拉格齐真正想要表达的是要把以下议题重新带回谈判： 伊朗参与海峡安全管理； 商船通行的通知、登记或许可机制； 为扫雷、护航、引航、航标和交通管理支付费用； 由海湾出口国、船东或保险机构共同承担安全成本； 设立地区性或多边航运安全基金。 其中有些安排可以被称为“服务费”或“成本分摊”，而不是直接的“通行税”。 感觉川普给了伊朗对霍尔木兹海峡收费的一个助攻🤔 周日推文里聊到未来之后阿曼提出的折中方案最后是可能性最大的：国际航行权不受影响，但可设立区域共同管理、安全、环保和导航服务机制，服务费有明确服务对应，不能被视为“过路费”。 这样可以包装成各方都能接受的方案：美国可以说海峡保持国际通行； 伊朗可以说自身安全管理权得到承认。 看之后会不会是这样的？ 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2076870354212175872",
-      "tweet_id": "2076870354212175872"
+      "published_at": "Tue, 14 Jul 2026 07:20:43 GMT",
+      "content": "韩国监管出手，海力士正股和7709今天都放巨量，能看出来是有一大票资金进去争抢带血的筹码、底部正在形成，这一波去杠杆应该是到了尾声。",
+      "url": "https://x.com/qinbafrank/status/2076929872077943154",
+      "tweet_id": "2076929872077943154"
     },
     {
-      "id": "tweet_qinbafrank_2076839550119444702",
+      "id": "tweet_qinbafrank_2076926988871413951",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
-      "published_at": "Tue, 14 Jul 2026 01:21:49 GMT",
-      "content": "AI采用进入工程化时代，超大CSP新的机遇及挑战，AI商业化进程评判标准新体系",
-      "url": "https://x.com/qinbafrank/status/2076839550119444702",
-      "tweet_id": "2076839550119444702"
+      "published_at": "Tue, 14 Jul 2026 07:09:16 GMT",
+      "content": "Deribit和SignalPlus联合发起的的“孤岛计划”期权交易大赛，应该是业内最顶格的期权交易大赛了，60万U的总奖池，值得关注下。 根据官方最新公布的规则，现在不需要你有多大的资金量，只需要存入 1 美元，或者仅仅交易 1 次，就能直接获取抽取私人岛屿的资格。绝对值得去撸个毛。 大赛报名链接：https://t.signalplus.com/nuwa/rank#/competition/deribit/detail?open=individual",
+      "url": "https://x.com/qinbafrank/status/2076926988871413951",
+      "tweet_id": "2076926988871413951"
+    },
+    {
+      "id": "tweet_xiaomustock_2076902928359755987",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Tue, 14 Jul 2026 05:33:39 GMT",
+      "content": "韩国看来是要从向下熔断 变成接下来向上熔断",
+      "url": "https://x.com/xiaomustock/status/2076902928359755987",
+      "tweet_id": "2076902928359755987"
     },
     {
       "id": "tweet_xiaomustock_2076901960129855716",
@@ -167,13 +176,22 @@
       "tweet_id": "2076895446749135298"
     },
     {
-      "id": "tweet_xiaomustock_2076889799848591595",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Tue, 14 Jul 2026 04:41:29 GMT",
-      "content": "51.5抄到大底了艹她妈的， 南海2x海力士午盘开了估计也是爆拉。 哪有小孩天天哭。",
-      "url": "https://x.com/xiaomustock/status/2076889799848591595",
-      "tweet_id": "2076889799848591595"
+      "id": "tweet_xingpt_2076941952495616455",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Tue, 14 Jul 2026 08:08:43 GMT",
+      "content": "我的神，最早买存储的台湾大佬！",
+      "url": "https://x.com/xingpt/status/2076941952495616455",
+      "tweet_id": "2076941952495616455"
+    },
+    {
+      "id": "tweet_xingpt_2076939181130207246",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Tue, 14 Jul 2026 07:57:43 GMT",
+      "content": "Patreon更新了PCB的投资逻辑 https://www.patreon.com/xingpt/posts/san-jia-quan-ji-163768944?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
+      "url": "https://x.com/xingpt/status/2076939181130207246",
+      "tweet_id": "2076939181130207246"
     },
     {
       "id": "tweet_xingpt_2076634227106591059",
@@ -185,22 +203,22 @@
       "tweet_id": "2076634227106591059"
     },
     {
-      "id": "tweet_xingpt_2076579578865385481",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Mon, 13 Jul 2026 08:08:47 GMT",
-      "content": "R to @xingpt: Patreon会员可下载源代码：https://www.patreon.com/xingpt/posts/yi-ge-wang-zhan-163332849",
-      "url": "https://x.com/xingpt/status/2076579578865385481",
-      "tweet_id": "2076579578865385481"
+      "id": "tweet_hibtc37_2076920435971870947",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Tue, 14 Jul 2026 06:43:13 GMT",
+      "content": "新街区 632 625市价 613 还是大饼好，对于我主力比较明牌操作，美股对于我还是黑盒子",
+      "url": "https://x.com/hibtc37/status/2076920435971870947",
+      "tweet_id": "2076920435971870947"
     },
     {
-      "id": "tweet_xingpt_2076579435181162839",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Mon, 13 Jul 2026 08:08:12 GMT",
-      "content": "黑色星期一的韩国股市资金流汇总，散户还在接盘！ 7/13 暴跌日角色再度互换：外资 −1.69、机构 −2.22 万亿齐抛，散户单日 +3.88 万亿创 7 月最大接盘（同日外资在 KOSPI200 期货反手净买 +5,015 手——现货抛、期货接）。",
-      "url": "https://x.com/xingpt/status/2076579435181162839",
-      "tweet_id": "2076579435181162839"
+      "id": "tweet_hibtc37_2076916203495608490",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Tue, 14 Jul 2026 06:26:24 GMT",
+      "content": "海力士波动太大了，不敢玩了，玩的有点挫败，韩国人真是不讲武德啊，之前做多赚的，来回打止损亏回去了，还亏了些，还有点EWY看看 还是回来玩大饼吧，之前跟我做空SPCX的粉丝都赚了，我没没吃到啥仓位 玩5w刀有点提不起兴趣，那些1万刀做到50万刀的，真佩服，得找到几个非常确性机会才行，SPCX是我发现的一个吧 整体账户5万，目前4.8万，如果韩股触底，这周有望回6w，目标50w 6-8-10-15-20-25-30-50，中间肯定有回撤",
+      "url": "https://x.com/hibtc37/status/2076916203495608490",
+      "tweet_id": "2076916203495608490"
     },
     {
       "id": "tweet_hibtc37_2076864267601732079",
@@ -210,29 +228,11 @@
       "content": "玩不过韩国人，上下波动太大了，心脏要很大",
       "url": "https://x.com/hibtc37/status/2076864267601732079",
       "tweet_id": "2076864267601732079"
-    },
-    {
-      "id": "tweet_hibtc37_2076834853035880698",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Tue, 14 Jul 2026 01:03:09 GMT",
-      "content": "R to @hibtc37: 已跑",
-      "url": "https://x.com/hibtc37/status/2076834853035880698",
-      "tweet_id": "2076834853035880698"
-    },
-    {
-      "id": "tweet_hibtc37_2076829937257111665",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Tue, 14 Jul 2026 00:43:37 GMT",
-      "content": "做了个反手试试",
-      "url": "https://x.com/hibtc37/status/2076829937257111665",
-      "tweet_id": "2076829937257111665"
     }
   ],
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
