@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-07-14T02:39:15.567270+00:00",
+  "fetched_at": "2026-07-14T05:34:28.717948+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2076750536582529090",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 13 Jul 2026 19:28:06 GMT",
+      "content": "RT by @elonmusk: SpaceX was founded on one powerful belief: A future where humanity is out exploring the stars is fundamentally more exciting than one where we are not Every Falcon launch, every Starship test, and every step toward Mars is built around that belief The goal is not just to reach space It is to build a future where humanity becomes a multiplanetary civilization",
+      "url": "https://x.com/elonmusk/status/2076750536582529090",
+      "tweet_id": "2076750536582529090",
+      "translated": "RT by @elonmusk：SpaceX 建立在一个强大的信念之上：人类探索星空的未来从根本上来说比我们不探索的未来更令人兴奋。每次猎鹰发射、每一次星际飞船测试以及迈向火星的每一步都是围绕这一信念建立的。目标不仅仅是到达太空，而是建设一个人类成为多行星文明的未来。"
+    },
+    {
+      "id": "tweet_elonmusk_2076722045136843026",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 13 Jul 2026 17:34:53 GMT",
+      "content": "RT by @elonmusk: Crazy what you can build with Grok 4.5 and Grok Build in minutes.",
+      "url": "https://x.com/elonmusk/status/2076722045136843026",
+      "tweet_id": "2076722045136843026",
+      "translated": "RT by @elonmusk：使用 Grok 4.5 和 Grok Build 在几分钟内就能构建出疯狂的东西。"
+    },
     {
       "id": "tweet_elonmusk_2076726650365264196",
       "username": "elonmusk",
@@ -13,52 +33,33 @@
       "translated": "RT by @elonmusk：Grok Build 中的默认设置是关闭的。您还可以运行 /privacy 并删除所有同步数据。 ZDR 在无头和交互式使用方面也受到尊重。"
     },
     {
-      "id": "tweet_elonmusk_2076747704248758617",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 13 Jul 2026 19:16:51 GMT",
-      "content": "RT by @elonmusk: We're rolling out a small tweak to boost visibility of your posts to your mutuals (people who you follow back). We noticed this data was missing from the algo and it made your friends appear less in your replies. This resulted in the reply section feeling more like a battleground with people you don't recognize. This should also help clusters form around interests more easily, which many people have asked for.",
-      "url": "https://x.com/elonmusk/status/2076747704248758617",
-      "tweet_id": "2076747704248758617",
-      "translated": "RT @elonmusk：我们正在推出一项小调整，以提高您的帖子对您​​的共同用户（您回关注的人）的可见性。我们注意到算法中缺少此数据，这使得您的朋友在您的回复中出现较少。这导致回复部分感觉更像是一个你不认识的人的战场。这也应该有助于更容易地围绕兴趣形成集群，这是许多人所要求的。"
-    },
-    {
-      "id": "tweet_elonmusk_2076796854973423971",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 13 Jul 2026 22:32:09 GMT",
-      "content": "True",
-      "url": "https://x.com/elonmusk/status/2076796854973423971",
-      "tweet_id": "2076796854973423971",
-      "translated": "真的"
-    },
-    {
-      "id": "tweet_cz_binance_2076667370848850297",
+      "id": "tweet_cz_binance_2076875977658171899",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
-      "published_at": "Mon, 13 Jul 2026 13:57:38 GMT",
-      "content": "🤣",
-      "url": "https://x.com/cz_binance/status/2076667370848850297",
-      "tweet_id": "2076667370848850297"
+      "published_at": "Tue, 14 Jul 2026 03:46:34 GMT",
+      "content": "RT by @cz_binance: Number 1 since launch. Number 1 forever. ❤️ Congratulations @Binance on 9 incredible years! In my 10 years in crypto, I've used many exchanges, but Binance has always been my favorite. Here's to many more years of innovation and growth! 🚀 #Binance #BinanceTurns9 #Crypto",
+      "url": "https://x.com/cz_binance/status/2076875977658171899",
+      "tweet_id": "2076875977658171899",
+      "translated": "RT @cz_binance：自发布以来排名第一。永远第一。 ❤️ 祝贺@Binance 度过了令人难以置信的 9 年！在我从事加密货币的 10 年里，我使用过很多交易所，但币安一直是我的最爱。为多年的创新和成长干杯！ 🚀 #Binance #BinanceTurns9 #Crypto"
     },
     {
-      "id": "tweet_cz_binance_2076569318800974030",
+      "id": "tweet_cz_binance_2076869431687602510",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
-      "published_at": "Mon, 13 Jul 2026 07:28:01 GMT",
-      "content": "RT by @cz_binance: [ $ASTER Buyback and Burn Update ] From 2026-06-29 00:00 UTC to 2026-07-13 00:00 UTC, 99% of daily platform fees were used to buy back 3,083,815.69 $ASTER for stakers. A matching 3,083,815.69 $ASTER has been burned from the team allocation. https://bscscan.com/tx/0xf078f6d35731cd450d9c5d70352d2d7680716478a538629da565763b373ca570 - Cumulative burn under the upgraded tokenomics since 2026-06-17: 6,020,941.22 $ASTER - Cumulative burn across all programs: 183,801,942.79 $ASTER - Est. total staking APY as of 2026-07-13: 5.35% with a 26-week lock and 28.85% with the maximum 208-week lock. Variable.",
-      "url": "https://x.com/cz_binance/status/2076569318800974030",
-      "tweet_id": "2076569318800974030",
-      "translated": "@cz_binance 转发：【$ASTER 回购销毁更新】2026-06-29 00:00 UTC 至 2026-07-13 00:00 UTC，每日平台费用的 99% 用于为质押者回购 3,083,815.69 $ASTER。相应的 3,083,815.69 $ASTER 已从团队分配中被销毁。 https://bscscan.com/tx/0xf078f6d35731cd450d9c5d70352d2d7680716478a538629da565763b373ca570 - 自 2026 年 6 月 17 日以来升级代币经济下的累积燃烧：6,020,941.22 $ASTER - 累积烧毁所有程序：183,801,942.79 $ASTER - Est。截至 2026 年 7 月 13 日的总质押年利率：26 周锁定为 5.35%，最长 208 周锁定为 28.85%。多变的。"
+      "published_at": "Tue, 14 Jul 2026 03:20:33 GMT",
+      "content": "RT by @cz_binance: 币安九周年：从草根交易所到超级金融平台",
+      "url": "https://x.com/cz_binance/status/2076869431687602510",
+      "tweet_id": "2076869431687602510"
     },
     {
-      "id": "tweet_cz_binance_2076562377906995462",
+      "id": "tweet_cz_binance_2076874631307239558",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
-      "published_at": "Mon, 13 Jul 2026 07:00:26 GMT",
-      "content": "没那么深奥，就是好久没看那个钱包，打开一看，发现代币太多了（上万个），软件显示有点不友好。提了建议，之后又做了个测试。 打到我的地址不如直接打入黑洞，减少一步操作，更直接有效🙏： 0x000000000000000000000000000000000000dEaD",
-      "url": "https://x.com/cz_binance/status/2076562377906995462",
-      "tweet_id": "2076562377906995462"
+      "published_at": "Tue, 14 Jul 2026 03:41:13 GMT",
+      "content": "R to @binance: Just noticed, the quoted tweet above only had 3 likes, as of this writing. 😂",
+      "url": "https://x.com/cz_binance/status/2076874631307239558",
+      "tweet_id": "2076874631307239558",
+      "translated": "R 致@binance：刚刚注意到，截至撰写本文时，上面引用的推文只有 3 个点赞。 😂"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -121,6 +122,24 @@
       "translated": "摩根士丹利今日发布 CPO 报告。主要参与者包括： - 激光供应领域的 $SIVE、$COHR 和 $LITE - 开关平台领域的 Broadcom 和 Nvidia - 光学引擎和光子领域的 Lightmatter、Ayar Labs、Marvell/Celestial 和 POET， - 硅光子代工领域的 $TSM、$GFS 和 $TSEM 我之前已经介绍过所有这些，例如 Tower Semi。但我特别高兴的是，摩根士丹利验证了我的研究，即 $SIVE 是 CPO 领域的关键全球参与者之一。一家规模为 1.5B 美元的小型激光公司，紧邻两家领先的 60B+ 美元公司……如果您还综合罗森布拉特证券公司最近指出的情况，中国激光供应商距离拥有 CPO 激光器还很远。这有点放大了激光阻塞点的三位西方领导人的​​重要性。"
     },
     {
+      "id": "tweet_qinbafrank_2076881784537776475",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Tue, 14 Jul 2026 04:09:38 GMT",
+      "content": "一张图详细了解今年走势最好的一个板块：安全软件，昨晚美股大跌还能逆势走强。安全软件走强的逻辑在于：AI Agent替代的是一部分“软件执行席位”，安全软件掌握的却是“身份、权限、数据、流量、运行行为和恢复能力”。Agent越自主，控制层越重要。 所以，安全saas控股是三件事在同时发生： 1）AI Agent、云迁移、多模态数据让攻击面大幅扩大（数据泄露、模型投毒、提示注入等新风险），这带动安全总市场继续扩容，AI 带来真正的新增预算； 2）预算从传统点工具向平台、身份、云、数据和运行时迁移； 3）企业部署AI必须同步加强“零信任”、云安全、端点检测（EDR）、AI安全平台； AI不是简单增加一个新的安全产品，而是让整个企业重新建立一层AI控制系统。这套控制系统包含：身份和权限、数据访问、云和工作负载、网络与API、模型和Agent运行时、SOC检测与自动响应，业务恢复和回滚。 未来三到五年，广义AI相关安全预算达到数百亿美元甚至近千亿美金。 我应该是最早就在说到安全软件是最被错杀的软件版块，1月底这里https://x.com/qinbafrank/status/2017528068324397416?s=46&t=k6rimWsEbo2D2tXolYcM-A有聊过； 2月中这里https://x.com/qinbafrank/status/2021506837720498224?s=46&t=k6rimWsEbo2D2tXolYcM-A还详细梳理过看好的安全软件公司、到现在基本上都翻倍了。特别说明下Crwd在6月底拆股了（1拆4）。 转发引用的推文在5月下旬又聊过一次。",
+      "url": "https://x.com/qinbafrank/status/2076881784537776475",
+      "tweet_id": "2076881784537776475"
+    },
+    {
+      "id": "tweet_qinbafrank_2076870354212175872",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Tue, 14 Jul 2026 03:24:13 GMT",
+      "content": "川普说要对 经霍尔木兹海峡运输的货物收取20%的“安全费用”，伊朗说要收一起收但你收20%太黑了。这是给伊朗一个助攻么？之前聊到美伊冲突再起，这次核心还是霍尔木兹海峡的控制权。 1、川普昨天的表态：霍尔木兹海峡必须开放、美国可能直接“接管”或主导海峡安全、美国将重新实施对伊朗的封锁、海湾产油国应为美国提供的安全保护支付费用。能看出来美国核心还是要明确谁拥有海峡安全安排的主导权，试图决定谁能进出伊朗港口、谁承担安保成本。 2、但也能看出来双方还是克制 美军军事行动目标限定为削弱伊朗攻击商船和封控海峡的能力，还没有把这一轮行动升级为全面摧毁伊朗国家能力（德黑兰、工业设施、电厂等） 伊朗则大多是固定、已知、早有预警、受到防空保护的军事目标，其实美军在波斯湾的军事基地大部分已经是撤退状态（人员和装备已经撤离） 从军事信号角度看，双方存在某种非正式对应关系： 美国打伊朗控制海峡的军事能力； 伊朗打美国支撑这些行动的地区军事节点 所以说双方确实表现出明显的“战术克制”和“升级管理”；不是没有战争，而是在按照一套彼此大致能够理解的规则，克制地打有限战争。 3、未来数日最可能出现的是“有限战争继续＋强制谈判并行”：美国通过空袭和海上封锁迫使伊朗接受新的航运与安全条件；伊朗则通过可控但危险的导弹、无人机、代理人和商船压力，提高美国及海湾国家的成本，争取重新谈判。 换言之： 20%安全费、谁管理海峡，是博弈； 空袭、导弹反击和海上封锁，是战争 只要这种克制的隐含规则继续存在，战争就可能维持在“有限交火＋强制谈判”的区间；一旦美军基地出现重大伤亡、美国打击伊朗核心能源或政治目标、伊朗击沉美国军舰，或者封锁行动中发生首次致命交火，这套克制机制就可能迅速失效。 4、更值得聊的点是： 之前美国的基本立场是：“霍尔木兹海峡属于国际航道，伊朗不得封锁、审批或收费”。但川普提出由美国充当海峡“守护者”，并按货物价值收取20%的所谓安全补偿后，争论就容易从： “国际海峡能不能收费？” 悄然变成： “谁在提供安全、谁有资格收费、收多少？” 这不正是伊朗想要的叙事转换么？ 美国一旦主张“军事保护可以货币化”，伊朗就可以反问：既然收费原则成立，为什么紧邻海峡、长期维持航标、交通管理和安全力量的伊朗不能收费？ 阿拉格齐真正想要表达的是要把以下议题重新带回谈判： 伊朗参与海峡安全管理； 商船通行的通知、登记或许可机制； 为扫雷、护航、引航、航标和交通管理支付费用； 由海湾出口国、船东或保险机构共同承担安全成本； 设立地区性或多边航运安全基金。 其中有些安排可以被称为“服务费”或“成本分摊”，而不是直接的“通行税”。 感觉川普给了伊朗对霍尔木兹海峡收费的一个助攻🤔 周日推文里聊到未来之后阿曼提出的折中方案最后是可能性最大的：国际航行权不受影响，但可设立区域共同管理、安全、环保和导航服务机制，服务费有明确服务对应，不能被视为“过路费”。 这样可以包装成各方都能接受的方案：美国可以说海峡保持国际通行； 伊朗可以说自身安全管理权得到承认。 看之后会不会是这样的？ 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2076870354212175872",
+      "tweet_id": "2076870354212175872"
+    },
+    {
       "id": "tweet_qinbafrank_2076839550119444702",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -130,49 +149,31 @@
       "tweet_id": "2076839550119444702"
     },
     {
-      "id": "tweet_qinbafrank_2076728737991913542",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Mon, 13 Jul 2026 18:01:29 GMT",
-      "content": "美银这个报告里的情景推演，最大的意义就是梳理了未来潜在风险，不一定都会发生，但可以做到心中有数。",
-      "url": "https://x.com/qinbafrank/status/2076728737991913542",
-      "tweet_id": "2076728737991913542"
-    },
-    {
-      "id": "tweet_qinbafrank_2076654003455398067",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Mon, 13 Jul 2026 13:04:31 GMT",
-      "content": "台积电6月营收月报： 1）6月单月营收4426.8亿元新台币，同比去年6月增幅67.9% ； 2）2026年1至6月半年营收合计约2.40万亿元新台币，较去年同期增长35.6%。 这里值得注意的一点： 35.6%半年同比增速与6月67.9%的同比增速之间存在明显落差，这意味着去年下半年起台积电的营收增速已明显提速。 而且过往规律显示，台积电营收通常呈现\"下半年强于上半年\"的季节性特征，叠加当前AI需求持续超预期的产业背景，下半年营收有望延续强劲增势",
-      "url": "https://x.com/qinbafrank/status/2076654003455398067",
-      "tweet_id": "2076654003455398067"
-    },
-    {
-      "id": "tweet_xiaomustock_2076585478808281292",
+      "id": "tweet_xiaomustock_2076901960129855716",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Mon, 13 Jul 2026 08:32:13 GMT",
-      "content": "过去一个月利润最高50%全还回去， 还倒贴13%，棒子是真该死呐，一群精神病。",
-      "url": "https://x.com/xiaomustock/status/2076585478808281292",
-      "tweet_id": "2076585478808281292"
+      "published_at": "Tue, 14 Jul 2026 05:29:48 GMT",
+      "content": "人亏钱就跟得病了一样浑身难受，赚钱了就跟吃了灵丹妙药，但大多数人的财富多少并不会影响到衣食住行，这他娘的是为什么",
+      "url": "https://x.com/xiaomustock/status/2076901960129855716",
+      "tweet_id": "2076901960129855716"
     },
     {
-      "id": "tweet_xiaomustock_2076553346870370710",
+      "id": "tweet_xiaomustock_2076895446749135298",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Mon, 13 Jul 2026 06:24:33 GMT",
-      "content": "韩国这帮疯子跳楼了",
-      "url": "https://x.com/xiaomustock/status/2076553346870370710",
-      "tweet_id": "2076553346870370710"
+      "published_at": "Tue, 14 Jul 2026 05:03:56 GMT",
+      "content": "起飞了，75总能反弹到吧",
+      "url": "https://x.com/xiaomustock/status/2076895446749135298",
+      "tweet_id": "2076895446749135298"
     },
     {
-      "id": "tweet_xiaomustock_2076532128049992073",
+      "id": "tweet_xiaomustock_2076889799848591595",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Mon, 13 Jul 2026 05:00:14 GMT",
-      "content": "这市场谁在赚钱啊，亏了整整一个月了",
-      "url": "https://x.com/xiaomustock/status/2076532128049992073",
-      "tweet_id": "2076532128049992073"
+      "published_at": "Tue, 14 Jul 2026 04:41:29 GMT",
+      "content": "51.5抄到大底了艹她妈的， 南海2x海力士午盘开了估计也是爆拉。 哪有小孩天天哭。",
+      "url": "https://x.com/xiaomustock/status/2076889799848591595",
+      "tweet_id": "2076889799848591595"
     },
     {
       "id": "tweet_xingpt_2076634227106591059",
@@ -202,6 +203,15 @@
       "tweet_id": "2076579435181162839"
     },
     {
+      "id": "tweet_hibtc37_2076864267601732079",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Tue, 14 Jul 2026 03:00:02 GMT",
+      "content": "玩不过韩国人，上下波动太大了，心脏要很大",
+      "url": "https://x.com/hibtc37/status/2076864267601732079",
+      "tweet_id": "2076864267601732079"
+    },
+    {
       "id": "tweet_hibtc37_2076834853035880698",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -218,20 +228,11 @@
       "content": "做了个反手试试",
       "url": "https://x.com/hibtc37/status/2076829937257111665",
       "tweet_id": "2076829937257111665"
-    },
-    {
-      "id": "tweet_hibtc37_2076669696364154933",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Mon, 13 Jul 2026 14:06:52 GMT",
-      "content": "已跑，天台人满为患",
-      "url": "https://x.com/hibtc37/status/2076669696364154933",
-      "tweet_id": "2076669696364154933"
     }
   ],
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
