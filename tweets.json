@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T18:07:16.617013+00:00",
+  "fetched_at": "2026-07-14T20:14:48.445445+00:00",
   "total": 24,
   "tweets": [
     {
@@ -150,6 +150,15 @@
       "tweet_id": "2076998727592743164"
     },
     {
+      "id": "tweet_xiaomustock_2077123703226413448",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Tue, 14 Jul 2026 20:10:56 GMT",
+      "content": "未来各大巨头搞物理AI的军备竞赛的时候， 他们绝对的需求量不是gpu，cpu， 只有存储。 存储的量决定了他们能训练多少数据，因为音频数据的大小规模千倍万倍于文本图片。 未来俩年内会看到这个观点和变化。",
+      "url": "https://x.com/xiaomustock/status/2077123703226413448",
+      "tweet_id": "2077123703226413448"
+    },
+    {
       "id": "tweet_xiaomustock_2077079145587294555",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -166,15 +175,6 @@
       "content": "做海力士差价收敛的长期都会死， 看看港股和a股有几个收敛的， 差价100%都是常事。",
       "url": "https://x.com/xiaomustock/status/2077077950504259787",
       "tweet_id": "2077077950504259787"
-    },
-    {
-      "id": "tweet_xiaomustock_2077065422822904063",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Tue, 14 Jul 2026 16:19:21 GMT",
-      "content": "盈透证券支持了稳定币的充提。",
-      "url": "https://x.com/xiaomustock/status/2077065422822904063",
-      "tweet_id": "2077065422822904063"
     },
     {
       "id": "tweet_xingpt_2077041680734458201",
