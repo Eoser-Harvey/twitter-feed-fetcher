@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-14T16:19:14.668405+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-14T18:07:16.617013+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2077044528234553709",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 14 Jul 2026 14:56:19 GMT",
+      "content": "Ancient times",
+      "url": "https://x.com/elonmusk/status/2077044528234553709",
+      "tweet_id": "2077044528234553709",
+      "translated": "古代"
+    },
+    {
+      "id": "tweet_elonmusk_2077043449279262954",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 14 Jul 2026 14:52:02 GMT",
+      "content": "True",
+      "url": "https://x.com/elonmusk/status/2077043449279262954",
+      "tweet_id": "2077043449279262954",
+      "translated": "真的"
+    },
+    {
+      "id": "tweet_elonmusk_2076879176628305957",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 14 Jul 2026 03:59:16 GMT",
+      "content": "RT by @elonmusk: Falcon 9 launches 27 @Starlink satellites from California",
+      "url": "https://x.com/elonmusk/status/2076879176628305957",
+      "tweet_id": "2076879176628305957",
+      "translated": "RT @elonmusk：猎鹰 9 号从加利福尼亚州发射了 27 颗 @Starlink 卫星"
+    },
     {
       "id": "tweet_cz_binance_2077045885012230590",
       "username": "cz_binance",
@@ -120,31 +150,31 @@
       "tweet_id": "2076998727592743164"
     },
     {
-      "id": "tweet_xiaomustock_2077055927786885527",
+      "id": "tweet_xiaomustock_2077079145587294555",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Tue, 14 Jul 2026 15:41:37 GMT",
-      "content": "请发给你的韩国朋友。 AI能干的事情过去2年， 慢慢从一维数据到二维数据再到未来的三维数据进化，也就是文字，图片，三维视频。 这经历的时间也才短短2年多，24年到现在26年。而存储扩产在2028年，也就是2年后，AI会发展成什么样，这些傻逼预测分析师硅谷投资客都没有考虑进去，他们只是基于现在的AI状态来分析存储未来尤其是存储2028年的未来做出当下的判断，他们都是傻逼。 如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。人们现在对存储的假设是基于现有AI水平来测算。 但这些傻逼都没有考虑进去2年后AI会发展成什么样， 现在AI视频已经可以以假乱真， 俩年后更是不敢想象会进化到啥程度， 如果AI能进化到理解现实物理世界，那它处理的数据全是视频数据， 存储需求的数量级可能是百倍于现在， 要坚信你的存储。 试想一下AI俩年后会发展成什么样，回想过去俩年AI的进化速度和对存储需求的增长速度，不要再扔掉你们宝贵的 #海力士 $SKHYX 了。 AI用量会在俩年后暴增数倍，想象你2年后使用频率，从现在一天3-5次会不会暴增到30-50次？ AI使用群体数量俩年后会不会从1B暴增到几B？（使用群体不限于人，包括汽车，包括手机，包括机器人，甚至智能体本身…） AI现在人70%的使用是文字token，俩年后会不会进化到视频影像物理三维视频token输入输出？（这里存储数据量差别千倍万倍。） 这里面的需求差别2年后会是现在的多少倍？十倍还是百倍？ 那俩年后的存储产量增量是几倍？翻倍都撑死了吧？这些傻逼预测师永远不会这么给你算，只会基于现在AI状态误导你。 拿出你们290万韩元梭哈的勇气， 190万韩元都不敢买，真去死了算了。",
-      "url": "https://x.com/xiaomustock/status/2077055927786885527",
-      "tweet_id": "2077055927786885527"
+      "published_at": "Tue, 14 Jul 2026 17:13:53 GMT",
+      "content": "另外说明一下啥情况100%溢价，a股和h股里，如果h股只有a股流通量的1/10或者1/20，只要概念不错基本上都是100%溢价。",
+      "url": "https://x.com/xiaomustock/status/2077079145587294555",
+      "tweet_id": "2077079145587294555"
     },
     {
-      "id": "tweet_xiaomustock_2077017515545526305",
+      "id": "tweet_xiaomustock_2077077950504259787",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Tue, 14 Jul 2026 13:08:59 GMT",
-      "content": "你们此时此刻是不是百病全消，神清气爽 保守估计自己又是全银河系最牛逼的人？",
-      "url": "https://x.com/xiaomustock/status/2077017515545526305",
-      "tweet_id": "2077017515545526305"
+      "published_at": "Tue, 14 Jul 2026 17:09:08 GMT",
+      "content": "做海力士差价收敛的长期都会死， 看看港股和a股有几个收敛的， 差价100%都是常事。",
+      "url": "https://x.com/xiaomustock/status/2077077950504259787",
+      "tweet_id": "2077077950504259787"
     },
     {
-      "id": "tweet_xiaomustock_2076902928359755987",
+      "id": "tweet_xiaomustock_2077065422822904063",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Tue, 14 Jul 2026 05:33:39 GMT",
-      "content": "韩国看来是要从向下熔断 变成接下来向上熔断",
-      "url": "https://x.com/xiaomustock/status/2076902928359755987",
-      "tweet_id": "2076902928359755987"
+      "published_at": "Tue, 14 Jul 2026 16:19:21 GMT",
+      "content": "盈透证券支持了稳定币的充提。",
+      "url": "https://x.com/xiaomustock/status/2077065422822904063",
+      "tweet_id": "2077065422822904063"
     },
     {
       "id": "tweet_xingpt_2077041680734458201",
@@ -202,8 +232,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
