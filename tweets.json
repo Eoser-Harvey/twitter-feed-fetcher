@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-14T22:02:31.611104+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-14T23:06:37.586938+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2077044528234553709",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 14 Jul 2026 14:56:19 GMT",
+      "content": "Ancient times",
+      "url": "https://x.com/elonmusk/status/2077044528234553709",
+      "tweet_id": "2077044528234553709",
+      "translated": "古代"
+    },
+    {
+      "id": "tweet_elonmusk_2077043449279262954",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 14 Jul 2026 14:52:02 GMT",
+      "content": "True",
+      "url": "https://x.com/elonmusk/status/2077043449279262954",
+      "tweet_id": "2077043449279262954",
+      "translated": "真的"
+    },
+    {
+      "id": "tweet_elonmusk_2076879176628305957",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 14 Jul 2026 03:59:16 GMT",
+      "content": "RT by @elonmusk: Falcon 9 launches 27 @Starlink satellites from California",
+      "url": "https://x.com/elonmusk/status/2076879176628305957",
+      "tweet_id": "2076879176628305957",
+      "translated": "RT @elonmusk：猎鹰 9 号从加利福尼亚州发射了 27 颗 @Starlink 卫星"
+    },
     {
       "id": "tweet_cz_binance_2077027836875935773",
       "username": "cz_binance",
@@ -174,6 +204,15 @@
       "tweet_id": "2076974114062119398"
     },
     {
+      "id": "tweet_hibtc37_2077165845953036602",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Tue, 14 Jul 2026 22:58:24 GMT",
+      "content": "黑子说话！ 651 643第88次命中✅ 651丝毫不差😃 新街区： 656 649市价 最近转评赞不那么积极了，我即将开放第二批免费进群名单，你看着办吧",
+      "url": "https://x.com/hibtc37/status/2077165845953036602",
+      "tweet_id": "2077165845953036602"
+    },
+    {
       "id": "tweet_hibtc37_2077017139895218550",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -190,20 +229,11 @@
       "content": "新街区 632 625市价 613 还是大饼好，对于我主力比较明牌操作，美股对于我还是黑盒子",
       "url": "https://x.com/hibtc37/status/2076920435971870947",
       "tweet_id": "2076920435971870947"
-    },
-    {
-      "id": "tweet_hibtc37_2076916203495608490",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Tue, 14 Jul 2026 06:26:24 GMT",
-      "content": "海力士波动太大了，不敢玩了，玩的有点挫败，韩国人真是不讲武德啊，之前做多赚的，来回打止损亏回去了，还亏了些，还有点EWY看看 还是回来玩大饼吧，之前跟我做空SPCX的粉丝都赚了，我没没吃到啥仓位 玩5w刀有点提不起兴趣，那些1万刀做到50万刀的，真佩服，得找到几个非常确性机会才行，SPCX是我发现的一个吧 整体账户5万，目前4.8万，如果韩股触底，这周有望回6w，目标50w 6-8-10-15-20-25-30-50，中间肯定有回撤",
-      "url": "https://x.com/hibtc37/status/2076916203495608490",
-      "tweet_id": "2076916203495608490"
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
-    "nitter_healthy": 9
+    "users_success": 8,
+    "users_failed": 0,
+    "nitter_healthy": 10
   }
 }
