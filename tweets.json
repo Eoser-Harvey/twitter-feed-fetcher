@@ -1,36 +1,56 @@
 {
-  "fetched_at": "2026-07-15T14:53:45.348998+00:00",
+  "fetched_at": "2026-07-15T16:25:28.310339+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2077400333450400088",
+      "id": "tweet_elonmusk_2077086951833063580",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 15 Jul 2026 14:30:10 GMT",
-      "content": "RT by @elonmusk: Tesla has partnered with 7-Eleven Japan to begin installing Superchargers at the country’s largest convenience store chain. The 150th Supercharger site in Japan was also the first of this new partnership, which opened on July 11 at the 7-Eleven Kawasaki Shimokodanaka East store in Kanagawa Prefecture. https://driveteslacanada.ca/news/tesla-superchargers-7-eleven-japan/",
-      "url": "https://x.com/elonmusk/status/2077400333450400088",
-      "tweet_id": "2077400333450400088",
-      "translated": "RT @elonmusk：特斯拉已与日本 7-11 合作，开始在该国最大的连锁便利店安装超级充电站。日本第 150 个 Supercharger 站点也是这一新合作伙伴关系的第一个站点，该站点于 7 月 11 日在神奈川县 7-11 川崎下小田中东店开业。 https://driveteslacanada.ca/news/tesla-superchargers-7-eleven-japan/"
+      "published_at": "Tue, 14 Jul 2026 17:44:54 GMT",
+      "content": "RT by @elonmusk: Well said Demis! Worth reading",
+      "url": "https://x.com/elonmusk/status/2077086951833063580",
+      "tweet_id": "2077086951833063580",
+      "translated": "RT @elonmusk：Demis 说得好！值得一读"
     },
     {
-      "id": "tweet_elonmusk_2077045662324052467",
+      "id": "tweet_elonmusk_2077063479232795024",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 14 Jul 2026 15:00:50 GMT",
-      "content": "RT by @elonmusk: Used @grok to remove the background😉🤗 @XFashion",
-      "url": "https://x.com/elonmusk/status/2077045662324052467",
-      "tweet_id": "2077045662324052467",
-      "translated": "RT by @elonmusk：使用@grok 删除背景😉🤗 @XFashion"
+      "published_at": "Tue, 14 Jul 2026 16:11:38 GMT",
+      "content": "RT by @elonmusk: An important piece from Demis. We need more of this kind of thinking. A good reminder that the goal is a frontier ecosystem that promotes innovation and choice, while avoiding any one model drop that breaks the world!",
+      "url": "https://x.com/elonmusk/status/2077063479232795024",
+      "tweet_id": "2077063479232795024",
+      "translated": "RT @elonmusk：Demis 的重要作品。我们需要更多这样的思考。一个很好的提醒是，我们的目标是建立一个促进创新和选择的前沿生态系统，同时避免任何一款打破世界的模型掉落！"
     },
     {
-      "id": "tweet_elonmusk_2077391771403948116",
+      "id": "tweet_elonmusk_2077415601610297535",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 15 Jul 2026 13:56:09 GMT",
-      "content": "RT by @elonmusk: BREAKING: Grok 4.5 has climbed to #2 on the FrontierSWE benchmark. The result places Grok 4.5 among the world's top-performing AI models for software engineering tasks, highlighting its growing strength in real-world coding and agentic developer workflows. Another milestone as xAI continues advancing Grok's coding capabilities. @elonmusk",
-      "url": "https://x.com/elonmusk/status/2077391771403948116",
-      "tweet_id": "2077391771403948116",
-      "translated": "RT @elonmusk：重大消息：Grok 4.5 在 FrontierSWE 基准测试中已攀升至第二名。结果使 Grok 4.5 跻身全球性能最佳的软件工程任务人工智能模型之列，突显了其在现实世界编码和代理开发人员工作流程中日益增强的实力。 xAI 继续提升 Grok 的编码能力的另一个里程碑。 @埃隆马斯克"
+      "published_at": "Wed, 15 Jul 2026 15:30:50 GMT",
+      "content": "It is a thoughtful framework overall and certainly a good starting point for discussions",
+      "url": "https://x.com/elonmusk/status/2077415601610297535",
+      "tweet_id": "2077415601610297535",
+      "translated": "总体而言，这是一个深思熟虑的框架，当然也是讨论的良好起点"
+    },
+    {
+      "id": "tweet_cz_binance_2077089969743810992",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Tue, 14 Jul 2026 17:56:53 GMT",
+      "content": "RT by @cz_binance: दिल्ली ने दिल जीत लिया। 💛 #BinanceTurns9",
+      "url": "https://x.com/cz_binance/status/2077089969743810992",
+      "tweet_id": "2077089969743810992",
+      "translated": "RT @cz_binance：德里赢得了人心。 💛 #BinanceTurns9"
+    },
+    {
+      "id": "tweet_cz_binance_2077405607951282346",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Wed, 15 Jul 2026 14:51:07 GMT",
+      "content": "$932 Million USD",
+      "url": "https://x.com/cz_binance/status/2077405607951282346",
+      "tweet_id": "2077405607951282346",
+      "translated": "9.32 亿美元"
     },
     {
       "id": "tweet_cz_binance_2077396044334223778",
@@ -41,26 +61,6 @@
       "url": "https://x.com/cz_binance/status/2077396044334223778",
       "tweet_id": "2077396044334223778",
       "translated": "100亿美元"
-    },
-    {
-      "id": "tweet_cz_binance_2077298139690901706",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 15 Jul 2026 07:44:05 GMT",
-      "content": "RT by @cz_binance: 9 years of Binance feels personal. For many of us, Binance was not just another app. It was where we bought our first coins, learned the market, tried Launchpool, used Earn, sent payments, followed new narratives, and kept coming back every cycle. That is what makes 9YA special. Binance did not just grow with crypto, it helped make crypto usable for millions. Today it serves 300M+ users across 100+ countries, with around 43% of global crypto holders using the platform and $156.4T in cumulative trading volume. Binance has become much more than an exchange, evolving toward a financial super app that brings together crypto, payments, and access to global markets. From spot and futures to payments, rewards, stocks, ETFs, tokenized assets, stablecoins and real-world utility, Binance is building the kind of ecosystem that makes global finance feel more open and accessible. Crypto is becoming a global financial layer, and Binance is one of the biggest reasons that future feels real. Happy 9YA Binance 🚀 @heyibinance @_RichardTeng @cz_binance",
-      "url": "https://x.com/cz_binance/status/2077298139690901706",
-      "tweet_id": "2077298139690901706",
-      "translated": "来自 @cz_binance 的转发：币安 9 年的经历让人感觉很个人化。对于我们许多人来说，币安不仅仅是另一个应用程序。我们在这里购买了第一批代币，了解市场，尝试 Launchpool，使用 Earn，发送付款，遵循新的叙述，并在每个周期不断回来。这就是 9YA 的特别之处。币安不仅与加密货币一起成长，还帮助数百万人使用加密货币。如今，它为 100 多个国家/地区的 3 亿多用户提供服务，全球约 43% 的加密货币持有者使用该平台，累计交易量为 156.4T 美元。币安已经不仅仅是一个交易所，而是一个将加密货币、支付和全球市场准入结合在一起的金融超级应用程序。从现货和期货到支付、奖励、股票、ETF、代币化资产、稳定币和现实世界的实用工具，币安正在构建一种生态系统，让全球金融感觉更加开放和便利。加密货币正在成为全球金融层，而币安是让未来感觉真实的最大原因之一。币安九岁快乐🚀 @heyibinance @_RichardTeng @cz_binance"
-    },
-    {
-      "id": "tweet_cz_binance_2077027836875935773",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Tue, 14 Jul 2026 13:50:00 GMT",
-      "content": "RT by @cz_binance: 🔥CZ: BINANCE REACHED WORLD'S NO. 1 EXCHANGE IN JUST 5 MONTHS AND “STAYED THERE” Celebrating Binance’s 9th anniversary, founder CZ says several factors drove the exchange’s success: “The product has to be good. Customer service has to be good.” “You have to have a mission. Our mission was to increase the freedom of money.” CZ says \"protecting users\" helped Binance keep its lead.",
-      "url": "https://x.com/cz_binance/status/2077027836875935773",
-      "tweet_id": "2077027836875935773",
-      "translated": "RT @cz_binance：🔥CZ：币安达到世界第一。短短 5 个月内就成为 1 家交易所并“一直坚守在那里” 在庆祝币安成立 9 周年之际，创始人 CZ 表示，有几个因素推动了交易所的成功：“产品必须良好。客户服务必须良好。” “你必须有一个使命。我们的使命是增加资金自由度。” CZ 表示，“保护用户”帮助币安保持了领先地位。"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -93,6 +93,26 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2077421268991926703",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 15 Jul 2026 15:53:21 GMT",
+      "content": "$AAPL looks to acquire AI chip companies for running AI (Source: The Information) Right now, $MSFT, $META, Amazon, Google are carrying AI capex spend. But what if Apple joined the others after M&A? A possible scenario is that they revise capex largely upward for their own AI buildout. Since they probably witnessed Google cutting off Meta from compute constraints... or what happens when you partner with OpenAI for LLMs. Then learned how important it is to have your own infrastructure. This scenario would be quite bullish thematically from optical networking to foundries and something markets would not expect? We'll see what happens.",
+      "url": "https://x.com/aleabitoreddit/status/2077421268991926703",
+      "tweet_id": "2077421268991926703",
+      "translated": "$AAPL 寻求收购人工智能芯片公司来运行人工智能（来源：The Information） 目前，$MSFT、$META、亚马逊、谷歌正在承担人工智能资本支出。但如果苹果在并购后加入其他公司呢？一种可能的情况是，他们为了自己的人工智能建设而大幅上调资本支出。因为他们可能见证了 Google 切断了 Meta 的计算限制……或者当你与 OpenAI 合作获得法学硕士时会发生什么。然后了解到拥有自己的基础设施是多么重要。从光网络到代工厂，这种情况将是非常乐观的主题，而市场不会预料到这一点？我们会看看会发生什么。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2077406548012466390",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 15 Jul 2026 14:54:52 GMT",
+      "content": "$NVDA CEO, Jensen Huang in Tokyo today said: \"The reports are not true. Vera Rubin is already in production. Giant amounts of production incoming\" As a flat denial to the accusation that their AI servers would be delayed. Jensen appears to be using the Umbrella term for Rubin Ultra/Kyber, then pointed to current gen ramp. Regardless, lot of damage has been done already to Nvidia supply chains stock prices, after the multiple delay reports. Even if Nvidia refuted them by clarifying Kyber change was an architecture optimization, not impacting timelines. It's a very dangerous and growing trend for folks to post overreaching broader claims from technical nuances to grow viewcount... Especially if they get Jensen has to respond. In the end, I'm trusting $NVDA on timelines since they probably have the greatest visibility into their own supply chain.",
+      "url": "https://x.com/aleabitoreddit/status/2077406548012466390",
+      "tweet_id": "2077406548012466390",
+      "translated": "$NVDA 首席执行官黄仁勋 (Jensen Huang) 今天在东京表示：“这些报道并不属实。Vera Rubin 已经投入生产。大量生产即将到来。”这是对他们的人工智能服务器将被延迟的指控的断然否认。 Jensen 似乎使用了 Rubin Ultra/Kyber 的保护伞术语，然后指出了当前的发电量。无论如何，在多次延迟报告之后，英伟达供应链的股价已经受到了很大的损害。即使 Nvidia 澄清 Kyber 的变化是一种架构优化，而不是影响时间表来反驳他们。对于人们来说，通过技术细微差别发布过分广泛的主张来增加观看次数是一种非常危险且日益增长的趋势……特别是如果他们得到詹森必须回应的话。最后，我相信 $NVDA 的时间表，因为他们可能对自己的供应链有最大的了解。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2077228758491386121",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -103,24 +123,13 @@
       "translated": "根据 Trendforce 的预测，2026 年下半年 SLC NAND 将上涨 120-170%。 $MU (21%)、Kioxia (20%) 占据最大份额，但更明显的受益者似乎是： 1. Winbond (2344)：约 15% 的 SLC NAND 市场份额 2. Macronix (2337)：约 11% 的市场份额 3. 通过 Puya Semi 的 SkyHigh Memory：约 14% 的市场份额 鉴于美光的 1T 美元价格和其他产品相对于 SLC NAND TAM 来说有点大。 （来源：2026 年第一季度华邦演示/Trendforce）。"
     },
     {
-      "id": "tweet_aleabitoreddit_2077208587005542464",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 15 Jul 2026 01:48:14 GMT",
-      "content": "$AEHR back up +36.4% today off earnings! 2027 guide: $130-$150m (160-200% growth) from 2026 revenue. Sees opportunity to guide higher (assumes no memory revenue or little to none from newly benchmarked AI customer). Q4 bookings: $60.7M, effective backlog is $100.6M. - Lead AI processor wafer-level burn-in customer is significantly ramping their products. - Engaged with additional AI processor customers who are evaluating wafer-level burn-in. - Benchmark customer, which was a “major supplier of AI accelerators, CPUs and network processors” “exceeded their expectations. From management: The potential revenue opportunity from one of these devices is \"significant to Aehr\". So another benchmark win for potential HVM in the future. - Wafer level burn-in benchmark with a \"global leader in NAND flash completed\". Now evaluating a development agreement for HBM/NAND Seems like $SNDK since there was HBF related discussions from last quarter I think. - \"Our package level burn-in business for AI processors also gained momentum over the year … from our lead hyperscale customer for Sonoma systems\" - Silicon photonics customer already ramping, newer networking customers has forecast additional systems Basically the amount of global semi companies that map to $AEHR is pretty ridiculous across silicon photonics, memory, AI processors, and others. I don’t quite think that $130-$150m guidance is representative of actualized revenue for 2027 if these hyperscalers/semi companies convert to HVM. Typically with these types of qualification into HVM players, markets don’t really judge it by current quarter, but what’s to come. And it looks very positive so far in terms of reactions... $116 -> $60 -> $94 all in the span of a month is pretty insane volatility tho, so good to know what you're holding.",
-      "url": "https://x.com/aleabitoreddit/status/2077208587005542464",
-      "tweet_id": "2077208587005542464",
-      "translated": "今天，$AEHR 收益比收益上涨 36.4%！ 2027 年指南：2026 年收入增加 130-1.5 亿美元（增长 160-200%）。看到引导更高的机会（假设没有内存收入，或者新基准人工智能客户几乎没有收入）。第四季度预订量：6070 万美元，有效积压订单为 1.006 亿美元。 - 领先的人工智能处理器晶圆级预烧客户正在大幅提升其产品。 - 与正在评估晶圆级老化的其他人工智能处理器客户进行交流。 - Benchmark 客户是“AI 加速器、CPU 和网络处理器的主要供应商”，“超出了他们的预期。来自管理层：其中一个设备的潜在收入机会“对 Aehr 来说意义重大”。因此，未来潜在 HVM 的另一个基准胜利。 - 具有“NAND 闪存全球领导者”的晶圆级老化基准。现在正在评估 HBM/NAND 的开发协议，看起来像是 $SNDK，因为我认为上季度就有 HBF 相关讨论。 - “我们的 AI 处理器的封装级预烧业务在这一年里也获得了动力……来自我们索诺玛系统的领先超大规模客户” - 硅光子客户已经在增加，新的网络客户预测会有更多系统 基本上，在硅光子、内存、AI 处理器等领域，映射到 AEHR 的全球半导体公司的数量相当可笑，如果这些超大规模/半导体公司进行转换，我不太认为 130-1.5 亿美元的指导能够代表 2027 年的实际收入。通常，对于 HVM 玩家的这些类型的资格，市场不会在当前季度真正对其进行判断，但就反应而言，到目前为止，它看起来非常积极......一个月内的 116 美元 -> 60 美元 -> 94 美元是相当疯狂的波动，所以很高兴知道你持有什么。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2077044786402660829",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 14 Jul 2026 14:57:21 GMT",
-      "content": "$NBIS signs $1B+ compute agreement with Reflection AI, for GB300 access through 2029. Reflection also signed a multi-billion dollar agreement with $SPCX earlier. Interesting to say the least, seeing Nebius drop -5% off the news today. Also... counterparty to get this done kinda reminds me of OpenAI, where they might not have the funds to actually execute on these LTAs yet compared to $META or $MSFT. But generally positive long term developments, customer diversification was one of the core strengths of Nebius.",
-      "url": "https://x.com/aleabitoreddit/status/2077044786402660829",
-      "tweet_id": "2077044786402660829",
-      "translated": "$NBIS 与 Reflection AI 签署了 1B+ 美元的计算协议，到 2029 年访问 GB300。Reflection 早些时候还与 $SPCX 签署了一项价值数十亿美元的协议。至少可以说很有趣，看到 Nebius 今天的新闻下降了 -5%。另外......完成这项工作的交易对手有点让我想起 OpenAI，与 $META 或 $MSFT 相比，他们可能没有资金来实际执行这些 LTA。但从总体来看，长期发展积极，客户多元化是 Nebius 的核心优势之一。"
+      "id": "tweet_qinbafrank_2077406163398959406",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 15 Jul 2026 14:53:20 GMT",
+      "content": "大云厂商的表现给了我今晚一丝慰藉，这算是超大CSP的价值重估时刻么？一周前开始聊https://x.com/qinbafrank/status/2074754779755295164?s=46&t=k6rimWsEbo2D2tXolYcM-A大云厂商的价值重估，昨天也深化成了下面的长文。",
+      "url": "https://x.com/qinbafrank/status/2077406163398959406",
+      "tweet_id": "2077406163398959406"
     },
     {
       "id": "tweet_qinbafrank_2077300348461666661",
@@ -139,15 +148,6 @@
       "content": "Stripe与顶级私募股权机构Advent International联合向PayPal提交收购要约，拟全资收购这家老牌支付巨头，交易整体估值突破530亿美元。如果收购成功这真的要重塑全球数字支付行业的格局了。",
       "url": "https://x.com/qinbafrank/status/2077260808309055670",
       "tweet_id": "2077260808309055670"
-    },
-    {
-      "id": "tweet_qinbafrank_2077259839638806616",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 15 Jul 2026 05:11:54 GMT",
-      "content": "19年币安在圈内首创IEO模式的时候开始用币安APP，还翻到了当年的朋友圈，也快八年了，也算是亲眼见证了币安这么多年的发展历程。 看到了币安在19年初首创IEO模式带来当时的小阳春、然后开始大力推行合约业务、20年下半年又是推动 CEX深度介入公链与 DeFi（BNB Chain/BSC）、23-25年简化收益获取（Earn和Launchpool）、到现在大力进入股票业务，许多举措在当时是高风险创新，但通过规模效应和用户反馈快速迭代，最终被行业广泛采用。 币安的9年也是一部币市发展史，个人角度看crypto从来不是一条直线，曲折中前行。平台也一样，谁能抓住真实需求（流动性、基础设施、资产上链、AI代理场景），谁就能继续往前。币安这9年，从小球场到更大赛场，社区的光一直跟着。期待接下来它继续把这条路走实，让更多人能看到加密和传统金融融合的实际价值。 祝 @binancezh 九周年快乐！ 顺便给大家送点福利：在评论区说说你和币安的故事，48小时后抽5位朋友，每人送一张《功夫女足》电影票。🎬 #币安九周年",
-      "url": "https://x.com/qinbafrank/status/2077259839638806616",
-      "tweet_id": "2077259839638806616"
     },
     {
       "id": "tweet_xiaomustock_2077241505262313546",
@@ -177,13 +177,22 @@
       "tweet_id": "2077079145587294555"
     },
     {
-      "id": "tweet_xingpt_2077402507232563342",
+      "id": "tweet_xingpt_2077409295462010925",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Wed, 15 Jul 2026 14:38:48 GMT",
-      "content": "臻宝科技、SpaceX、SK 海力士市场不同，但共享同一个节奏。 第一个共同点是高开。热门 IPO 的发行价通常较保守，股票上市后会用首笔成交重新定价。 臻宝科技从 44.56 元直接开在 448 元，SpaceX 从 135 美元开在 150 美元，SK 海力士 ADS 也从 149 美元开在 170 美元。 幅度虽然不同，但三者都先用明显高于发行价的价格确认市场愿意支付的稀缺性溢价。 高开之后通常不是一路上涨，而是进入放量换手。早期获配者获利了结，错过配售的资金趁震荡进场，价格因此容易先回撤，再出现第二段行情。 臻宝科技早盘跌至 388.66 元后，午后拉到 585 元收盘；SpaceX 冲上 176.52 美元后一度回吐，之后再涨至 225.64 美元；SK 海力士第二日下跌 9.3%，第三日随即反弹 27.3%。 三者真正相似的地方，是第一次放量震荡后，价格都曾重新转强。 二次拉升之后，市场才开始消化估值。短线资金退潮、成交量下降，价格会逐渐回到盈利可以支撑的位置。 SpaceX 后来回落至 136.08 美元，几乎回到 135 美元发行价；SK 海力士则持续大幅双向波动。这个阶段不一定每天慢慢下跌，但常见的讯号是反弹高度下降、成交量缩小，市场热度不再足以支撑原本的溢价。 套回 CXMT，长鑫上市后先看 A 股首笔成交如何定锚，再看第一轮放量回撤后能否站回开盘价与 VWAP（成交量加权平均价格）。 若价格重新放量转强，可能复制二次拉升；若反弹无量、始终站不回 VWAP，则更可能向每股 29.9–44.9 元的市场估值区间收敛。 Hyperliquid 可以用 4 小时 K 线观察这套节奏，重点不是每根 K 线完全相同，而是「高开、换手、再突破、估值回归」是否依序出现。",
-      "url": "https://x.com/xingpt/status/2077402507232563342",
-      "tweet_id": "2077402507232563342"
+      "published_at": "Wed, 15 Jul 2026 15:05:47 GMT",
+      "content": "果然跟币圈家人反着来一点错没有：6 月初币圈开始疯狂炒股，股票见顶，币圈见底。 现在币圈开始反弹了，家人们回归原生家庭吗",
+      "url": "https://x.com/xingpt/status/2077409295462010925",
+      "tweet_id": "2077409295462010925"
+    },
+    {
+      "id": "tweet_xingpt_2077408036046737721",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 15 Jul 2026 15:00:46 GMT",
+      "content": "加密的利好主要是跟着宏观走的，CPI、PPI数据超预期地疲软，所以黄金、加密这些受到资金流冲击的资产就水涨船高。历史来看，三季度加密表现相对其他极度弱，不知道今年是不是例外",
+      "url": "https://x.com/xingpt/status/2077408036046737721",
+      "tweet_id": "2077408036046737721"
     },
     {
       "id": "tweet_xingpt_2077402612388000114",
@@ -195,13 +204,13 @@
       "tweet_id": "2077402612388000114"
     },
     {
-      "id": "tweet_xingpt_2077396772515983699",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 15 Jul 2026 14:16:01 GMT",
-      "content": "美股开盘依然是大的云厂和MAGS强于半导体链",
-      "url": "https://x.com/xingpt/status/2077396772515983699",
-      "tweet_id": "2077396772515983699"
+      "id": "tweet_hibtc37_2077412732257906902",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Wed, 15 Jul 2026 15:19:26 GMT",
+      "content": "财报好，半导体也大跌……这波谁看得懂，来说说",
+      "url": "https://x.com/hibtc37/status/2077412732257906902",
+      "tweet_id": "2077412732257906902"
     },
     {
       "id": "tweet_hibtc37_2077403153524568518",
@@ -220,20 +229,11 @@
       "content": "贝莱德盘前转出2990BTC到交易所热钱包",
       "url": "https://x.com/hibtc37/status/2077362757742313809",
       "tweet_id": "2077362757742313809"
-    },
-    {
-      "id": "tweet_hibtc37_2077290020952756631",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Wed, 15 Jul 2026 07:11:49 GMT",
-      "content": "$ASML 业绩爆炸！关键是上调全年指引！利好存储！ 财报季节，存储，拿住！ “阿斯麦Q2业绩全面超预期，再度上调全年指引，2027年低NA EUV产能增加30%”",
-      "url": "https://x.com/hibtc37/status/2077290020952756631",
-      "tweet_id": "2077290020952756631"
     }
   ],
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
