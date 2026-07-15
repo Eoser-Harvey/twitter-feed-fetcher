@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-15T20:12:58.503559+00:00",
+  "fetched_at": "2026-07-15T22:03:53.751257+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2077495635687723408",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 15 Jul 2026 20:48:52 GMT",
+      "content": "Grok Build is now open source",
+      "url": "https://x.com/elonmusk/status/2077495635687723408",
+      "tweet_id": "2077495635687723408",
+      "translated": "Grok Build 现已开源"
+    },
     {
       "id": "tweet_elonmusk_2077086951833063580",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2077063479232795024",
       "tweet_id": "2077063479232795024",
       "translated": "RT @elonmusk：Demis 的重要作品。我们需要更多这样的思考。一个很好的提醒是，我们的目标是建立一个促进创新和选择的前沿生态系统，同时避免任何一款打破世界的模型掉落！"
-    },
-    {
-      "id": "tweet_elonmusk_2077415601610297535",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 15 Jul 2026 15:30:50 GMT",
-      "content": "It is a thoughtful framework overall and certainly a good starting point for discussions",
-      "url": "https://x.com/elonmusk/status/2077415601610297535",
-      "tweet_id": "2077415601610297535",
-      "translated": "总体而言，这是一个深思熟虑的框架，当然也是讨论的良好起点"
     },
     {
       "id": "tweet_cz_binance_2077302207683195161",
@@ -235,6 +235,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
