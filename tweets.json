@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-15T18:10:56.797297+00:00",
+  "fetched_at": "2026-07-15T20:12:58.503559+00:00",
   "total": 24,
   "tweets": [
     {
@@ -33,6 +33,16 @@
       "translated": "总体而言，这是一个深思熟虑的框架，当然也是讨论的良好起点"
     },
     {
+      "id": "tweet_cz_binance_2077302207683195161",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Wed, 15 Jul 2026 08:00:15 GMT",
+      "content": "RT by @cz_binance: Keep the receipt. The 0 Fee Carnival covers gas on USDC, USD1 and U across supported wallets, exchanges and bridges until July 31. Discover where you can save below 👇 https://www.bnbchain.org/en/blog/0-fee-transactions-for-usdc-usd1-u-extended-until-july-31",
+      "url": "https://x.com/cz_binance/status/2077302207683195161",
+      "tweet_id": "2077302207683195161",
+      "translated": "RT @cz_binance：保留收据。 0 费用嘉年华涵盖了 USDC、USD1 和 U 的 Gas，适用于受支持的钱包、交易所和桥接器，直至 7 月 31 日。在下面了解您可以在哪里节省👇 https://www.bnbchain.org/en/blog/0-fee-transactions-for-usdc-usd1-u-extended-until-july-31"
+    },
+    {
       "id": "tweet_cz_binance_2077089969743810992",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
@@ -51,16 +61,6 @@
       "url": "https://x.com/cz_binance/status/2077405607951282346",
       "tweet_id": "2077405607951282346",
       "translated": "9.32 亿美元"
-    },
-    {
-      "id": "tweet_cz_binance_2077396044334223778",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 15 Jul 2026 14:13:07 GMT",
-      "content": "$10 billion",
-      "url": "https://x.com/cz_binance/status/2077396044334223778",
-      "tweet_id": "2077396044334223778",
-      "translated": "100亿美元"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
