@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-15T16:25:28.310339+00:00",
+  "fetched_at": "2026-07-15T18:10:56.797297+00:00",
   "total": 24,
   "tweets": [
     {
@@ -93,6 +93,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2077437150715666900",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 15 Jul 2026 16:56:28 GMT",
+      "content": "Anthropic to IPO as early as October per Bloomberg. This is following their $65B financing at a $965 billion valuation last May. Hmm, would you all invest in Anthropic at a $1T+ valuation?",
+      "url": "https://x.com/aleabitoreddit/status/2077437150715666900",
+      "tweet_id": "2077437150715666900",
+      "translated": "据彭博社报道，Anthropic 最早将于 10 月进行 IPO。继去年 5 月以 9650 亿美元的估值融资 65B 美元之后。嗯，你们都会以 1T+ 的估值投资 Anthropic 吗？"
+    },
+    {
       "id": "tweet_aleabitoreddit_2077421268991926703",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -111,16 +121,6 @@
       "url": "https://x.com/aleabitoreddit/status/2077406548012466390",
       "tweet_id": "2077406548012466390",
       "translated": "$NVDA 首席执行官黄仁勋 (Jensen Huang) 今天在东京表示：“这些报道并不属实。Vera Rubin 已经投入生产。大量生产即将到来。”这是对他们的人工智能服务器将被延迟的指控的断然否认。 Jensen 似乎使用了 Rubin Ultra/Kyber 的保护伞术语，然后指出了当前的发电量。无论如何，在多次延迟报告之后，英伟达供应链的股价已经受到了很大的损害。即使 Nvidia 澄清 Kyber 的变化是一种架构优化，而不是影响时间表来反驳他们。对于人们来说，通过技术细微差别发布过分广泛的主张来增加观看次数是一种非常危险且日益增长的趋势……特别是如果他们得到詹森必须回应的话。最后，我相信 $NVDA 的时间表，因为他们可能对自己的供应链有最大的了解。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2077228758491386121",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 15 Jul 2026 03:08:23 GMT",
-      "content": "Well, looks like SLC NAND is forcasted to rise up 120-170% for H2 2026 per Trendforce. There's $MU (21%), Kioxia (20%) as largest share, but clearer beneficiaries appears to be: 1. Winbond (2344): ~15% of the SLC NAND market 2. Macronix (2337): ~11% market share 3. SkyHigh Memory via Puya Semi: ~14% market share Given Micron at $1T and others are a bit large relative to SLC NAND TAM. (source: Q1 2026 Winbond presentation/Trendforce).",
-      "url": "https://x.com/aleabitoreddit/status/2077228758491386121",
-      "tweet_id": "2077228758491386121",
-      "translated": "根据 Trendforce 的预测，2026 年下半年 SLC NAND 将上涨 120-170%。 $MU (21%)、Kioxia (20%) 占据最大份额，但更明显的受益者似乎是： 1. Winbond (2344)：约 15% 的 SLC NAND 市场份额 2. Macronix (2337)：约 11% 的市场份额 3. 通过 Puya Semi 的 SkyHigh Memory：约 14% 的市场份额 鉴于美光的 1T 美元价格和其他产品相对于 SLC NAND TAM 来说有点大。 （来源：2026 年第一季度华邦演示/Trendforce）。"
     },
     {
       "id": "tweet_qinbafrank_2077406163398959406",
@@ -150,6 +150,15 @@
       "tweet_id": "2077260808309055670"
     },
     {
+      "id": "tweet_xiaomustock_2077430770302685530",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Wed, 15 Jul 2026 16:31:07 GMT",
+      "content": "海力士已经跌的不是大力士也不是海公公了，只能叫它海狗",
+      "url": "https://x.com/xiaomustock/status/2077430770302685530",
+      "tweet_id": "2077430770302685530"
+    },
+    {
       "id": "tweet_xiaomustock_2077241505262313546",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -168,13 +177,23 @@
       "tweet_id": "2077123703226413448"
     },
     {
-      "id": "tweet_xiaomustock_2077079145587294555",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Tue, 14 Jul 2026 17:13:53 GMT",
-      "content": "另外说明一下啥情况100%溢价，a股和h股里，如果h股只有a股流通量的1/10或者1/20，只要概念不错基本上都是100%溢价。",
-      "url": "https://x.com/xiaomustock/status/2077079145587294555",
-      "tweet_id": "2077079145587294555"
+      "id": "tweet_xingpt_2077441809572401658",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 15 Jul 2026 17:14:59 GMT",
+      "content": "这个位置其实有点纠结：如果说 Q3 开始，是风格切换的起点，费城半导体SOXX7 月 1 号起下跌 16%，苹果 AAPL 从涨价新闻第二天开始上涨了19%。 那么现在风格切换是否已经完成，或者说到了什么阶段？ 半导体回调结束了吗？苹果还能继续向上吗？ 技术面上看，风格切换还没有逆转，但正在接近完成；基本面上还得等月底财报发。 市场就是这样，一步慢了，步步慢。 现在这个阶段要么不做了，要么轻仓试试，总之不是容易的点。",
+      "url": "https://x.com/xingpt/status/2077441809572401658",
+      "tweet_id": "2077441809572401658"
+    },
+    {
+      "id": "tweet_xingpt_2077433751362310553",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 15 Jul 2026 16:42:57 GMT",
+      "content": "Image",
+      "url": "https://x.com/xingpt/status/2077433751362310553",
+      "tweet_id": "2077433751362310553",
+      "translated": "图像"
     },
     {
       "id": "tweet_xingpt_2077409295462010925",
@@ -184,24 +203,6 @@
       "content": "果然跟币圈家人反着来一点错没有：6 月初币圈开始疯狂炒股，股票见顶，币圈见底。 现在币圈开始反弹了，家人们回归原生家庭吗",
       "url": "https://x.com/xingpt/status/2077409295462010925",
       "tweet_id": "2077409295462010925"
-    },
-    {
-      "id": "tweet_xingpt_2077408036046737721",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 15 Jul 2026 15:00:46 GMT",
-      "content": "加密的利好主要是跟着宏观走的，CPI、PPI数据超预期地疲软，所以黄金、加密这些受到资金流冲击的资产就水涨船高。历史来看，三季度加密表现相对其他极度弱，不知道今年是不是例外",
-      "url": "https://x.com/xingpt/status/2077408036046737721",
-      "tweet_id": "2077408036046737721"
-    },
-    {
-      "id": "tweet_xingpt_2077402612388000114",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 15 Jul 2026 14:39:13 GMT",
-      "content": "R to @xingpt: 原版网页放在了Patreon会员：https://www.patreon.com/xingpt/posts/yi-ge-wang-ye-da-163896087?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
-      "url": "https://x.com/xingpt/status/2077402612388000114",
-      "tweet_id": "2077402612388000114"
     },
     {
       "id": "tweet_hibtc37_2077412732257906902",
