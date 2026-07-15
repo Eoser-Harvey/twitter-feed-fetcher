@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-15T10:53:50.563795+00:00",
+  "fetched_at": "2026-07-15T12:18:18.549918+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2077233376281469157",
+      "id": "tweet_elonmusk_2077151925662097659",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 15 Jul 2026 03:26:44 GMT",
-      "content": "RT by @elonmusk: Congrats to the @Starlink team on the release of the new Starlink V5 terminal, designed with high performance, reliability, and scalability in mind based on the learnings of our previous products. Also, designed and manufactured in the USA.",
-      "url": "https://x.com/elonmusk/status/2077233376281469157",
-      "tweet_id": "2077233376281469157",
-      "translated": "RT @elonmusk：祝贺 @Starlink 团队发布了新的 Starlink V5 终端，该终端在我们之前产品的基础上，以高性能、可靠性和可扩展性为设计理念。此外，在美国设计和制造。"
+      "published_at": "Tue, 14 Jul 2026 22:03:05 GMT",
+      "content": "RT by @elonmusk: Interesting.",
+      "url": "https://x.com/elonmusk/status/2077151925662097659",
+      "tweet_id": "2077151925662097659",
+      "translated": "RT @elonmusk：有趣。"
     },
     {
-      "id": "tweet_elonmusk_2077219839626641676",
+      "id": "tweet_elonmusk_2077362080286412981",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 15 Jul 2026 02:32:57 GMT",
-      "content": "Grok 4.5 is worth trying",
-      "url": "https://x.com/elonmusk/status/2077219839626641676",
-      "tweet_id": "2077219839626641676",
-      "translated": "Grok 4.5值得尝试"
+      "published_at": "Wed, 15 Jul 2026 11:58:10 GMT",
+      "content": "Needs to change.",
+      "url": "https://x.com/elonmusk/status/2077362080286412981",
+      "tweet_id": "2077362080286412981",
+      "translated": "需要改变。"
     },
     {
-      "id": "tweet_elonmusk_2077152453557178625",
+      "id": "tweet_elonmusk_2077361679034118271",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 14 Jul 2026 22:05:11 GMT",
-      "content": "RT by @elonmusk: BREAKING: The new Starlink V5 is 48% smaller and 62% lighter than V4. • Size: 384 × 306 mm vs 594 × 383 mm • Weight: 1.1 kg vs 2.9 kg • Power: 35–50W vs 75–100W • Wind rating: 265 km/h vs 96+ km/h • Same 110° field of view • Speeds up to 375+ Mbps",
-      "url": "https://x.com/elonmusk/status/2077152453557178625",
-      "tweet_id": "2077152453557178625",
-      "translated": "RT @elonmusk：重大突破：新的 Starlink V5 比 V4 小 48%，轻 62%。 • 尺寸：384 × 306 毫米与 594 × 383 毫米 • 重量：1.1 千克与 2.9 千克 • 功率：35–50 瓦与 75–100 瓦 • 风速：265 公里/小时与 96+ 公里/小时 • 相同的 110° 视野 • 速度高达 375+ Mbps"
+      "published_at": "Wed, 15 Jul 2026 11:56:34 GMT",
+      "content": "Once we have completed our review for security vulnerabilities, we will make the entire codebase of 𝕏 open source, with no exceptions. Moreover, we will invite third party reviewers to examine the system that is running to confirm that the open source code is what is running. Trust through total transparency is the only thing that should be believed.",
+      "url": "https://x.com/elonmusk/status/2077361679034118271",
+      "tweet_id": "2077361679034118271",
+      "translated": "一旦我们完成了安全漏洞审查，我们将开源𝕏的整个代码库，无一例外。此外，我们将邀请第三方评审员检查正在运行的系统，以确认开源代码正在运行。通过完全透明的信任是唯一应该相信的事情。"
     },
     {
       "id": "tweet_cz_binance_2077298139690901706",
@@ -177,6 +177,15 @@
       "tweet_id": "2077079145587294555"
     },
     {
+      "id": "tweet_xingpt_2077343235736039845",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 15 Jul 2026 10:43:17 GMT",
+      "content": "网站源代码：https://www.patreon.com/xingpt/posts/yi-ge-wang-zhan-163332849?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
+      "url": "https://x.com/xingpt/status/2077343235736039845",
+      "tweet_id": "2077343235736039845"
+    },
+    {
       "id": "tweet_xingpt_2077342476818587782",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -195,14 +204,13 @@
       "tweet_id": "2077313413487960506"
     },
     {
-      "id": "tweet_xingpt_2077307014225801229",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 15 Jul 2026 08:19:21 GMT",
-      "content": "R to @xingpt: app-production-eafd.up.railw…",
-      "url": "https://x.com/xingpt/status/2077307014225801229",
-      "tweet_id": "2077307014225801229",
-      "translated": "R 至 @xingpt：app-生产-eafd.up.railw…"
+      "id": "tweet_hibtc37_2077362757742313809",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Wed, 15 Jul 2026 12:00:51 GMT",
+      "content": "贝莱德盘前转出2990BTC到交易所热钱包",
+      "url": "https://x.com/hibtc37/status/2077362757742313809",
+      "tweet_id": "2077362757742313809"
     },
     {
       "id": "tweet_hibtc37_2077290020952756631",
@@ -221,15 +229,6 @@
       "content": "香港对于中国人基本是最优解了，身份、地缘政治、生活方式、文化、国际化程度等，目前还没有可以代替他的",
       "url": "https://x.com/hibtc37/status/2077287131207315628",
       "tweet_id": "2077287131207315628"
-    },
-    {
-      "id": "tweet_hibtc37_2077239209082200446",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Wed, 15 Jul 2026 03:49:55 GMT",
-      "content": "IBM暴跌，这是被存储（硬件代表）挤兑的又一家公司，存储是AI大基建的战略关键产品了，不是什么紫苏叶小虾米，是石油级别的，不断消耗空间的存储。 短期去杠杆是会很痛，但对于AI牛，是健康的，AI基本面没被证伪，牛市就在，经过这段时间下跌和加仓，我的美股AI持仓利润已经全部没了，但继续看好，等下一次情绪高涨，减仓，财报季已经来了，是吃土还是发财，在此一举😆，然后加息前，只留利润玩，抄底大饼和mstr，完美接力",
-      "url": "https://x.com/hibtc37/status/2077239209082200446",
-      "tweet_id": "2077239209082200446"
     }
   ],
   "stats": {
