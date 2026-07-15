@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-14T23:06:37.586938+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-15T02:37:16.522852+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2077044528234553709",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 14 Jul 2026 14:56:19 GMT",
-      "content": "Ancient times",
-      "url": "https://x.com/elonmusk/status/2077044528234553709",
-      "tweet_id": "2077044528234553709",
-      "translated": "古代"
-    },
-    {
-      "id": "tweet_elonmusk_2077043449279262954",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 14 Jul 2026 14:52:02 GMT",
-      "content": "True",
-      "url": "https://x.com/elonmusk/status/2077043449279262954",
-      "tweet_id": "2077043449279262954",
-      "translated": "真的"
-    },
-    {
-      "id": "tweet_elonmusk_2076879176628305957",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 14 Jul 2026 03:59:16 GMT",
-      "content": "RT by @elonmusk: Falcon 9 launches 27 @Starlink satellites from California",
-      "url": "https://x.com/elonmusk/status/2076879176628305957",
-      "tweet_id": "2076879176628305957",
-      "translated": "RT @elonmusk：猎鹰 9 号从加利福尼亚州发射了 27 颗 @Starlink 卫星"
-    },
     {
       "id": "tweet_cz_binance_2077027836875935773",
       "username": "cz_binance",
@@ -93,6 +63,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2077208587005542464",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 15 Jul 2026 01:48:14 GMT",
+      "content": "$AEHR back up +36.4% today off earnings! 2027 guide: $130-$150m (160-200% growth) from 2026 revenue. Sees opportunity to guide higher (assumes no memory revenue or little to none from newly benchmarked AI customer). Q4 bookings: $60.7M, effective backlog is $100.6M. - Lead AI processor wafer-level burn-in customer is significantly ramping their products. - Engaged with additional AI processor customers who are evaluating wafer-level burn-in. - Benchmark customer, which was a “major supplier of AI accelerators, CPUs and network processors” “exceeded their expectations. From management: The potential revenue opportunity from one of these devices is \"significant to Aehr\". So another benchmark win for potential HVM in the future. - Wafer level burn-in benchmark with a \"global leader in NAND flash completed\". Now evaluating a development agreement for HBM/NAND Seems like $SNDK since there was HBF related discussions from last quarter I think. - \"Our package level burn-in business for AI processors also gained momentum over the year … from our lead hyperscale customer for Sonoma systems\" - Silicon photonics customer already ramping, newer networking customers has forecast additional systems Basically the amount of global semi companies that map to $AEHR is pretty ridiculous across silicon photonics, memory, AI processors, and others. I don’t quite think that $130-$150m guidance is representative of actualized revenue for 2027 if these hyperscalers/semi companies convert to HVM. Typically with these types of qualification into HVM players, markets don’t really judge it by current quarter, but what’s to come. And it looks very positive so far in terms of reactions... $116 -> $60 -> $94 all in the span of a month is pretty insane volatility tho, so good to know what you're holding.",
+      "url": "https://x.com/aleabitoreddit/status/2077208587005542464",
+      "tweet_id": "2077208587005542464",
+      "translated": "今天，$AEHR 收益比收益上涨 36.4%！ 2027 年指南：2026 年收入增加 130-1.5 亿美元（增长 160-200%）。看到引导更高的机会（假设没有内存收入，或者新基准人工智能客户几乎没有收入）。第四季度预订量：6070 万美元，有效积压订单为 1.006 亿美元。 - 领先的人工智能处理器晶圆级预烧客户正在大幅提升其产品。 - 与正在评估晶圆级老化的其他人工智能处理器客户进行交流。 - Benchmark 客户是“AI 加速器、CPU 和网络处理器的主要供应商”，“超出了他们的预期。来自管理层：其中一个设备的潜在收入机会“对 Aehr 来说意义重大”。因此，未来潜在 HVM 的另一个基准胜利。 - 具有“NAND 闪存全球领导者”的晶圆级老化基准。现在正在评估 HBM/NAND 的开发协议，看起来像是 $SNDK，因为我认为上季度就有 HBF 相关讨论。 - “我们的 AI 处理器的封装级预烧业务在这一年里也获得了动力……来自我们索诺玛系统的领先超大规模客户” - 硅光子客户已经在增加，新的网络客户预测会有更多系统 基本上，在硅光子、内存、AI 处理器等领域，映射到 AEHR 的全球半导体公司的数量相当可笑，如果这些超大规模/半导体公司进行转换，我不太认为 130-1.5 亿美元的指导能够代表 2027 年的实际收入。通常，对于 HVM 玩家的这些类型的资格，市场不会在当前季度真正对其进行判断，但就反应而言，到目前为止，它看起来非常积极......一个月内的 116 美元 -> 60 美元 -> 94 美元是相当疯狂的波动，所以很高兴知道你持有什么。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2077044786402660829",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -113,14 +93,22 @@
       "translated": "今天，$TSEM 和 $AAOI 发布了两项不同的产能扩张公告。 Tower Semi 在日本政府的支持下，宣布扩大其 300mm 硅光子 (SiPho)、硅锗 (SiGe) 和先进封装能力。目标是 2028 年净利润 1.2B 美元，收入 3.6B 美元（MC 约为 28B 美元，2028 年远期市盈率约为 23.3）。 AAOI 宣布开始扩建约 400,000 平方英尺的生产基地，以实现 800 克/1.6 吨的产量。整体扩张也得到了德克萨斯州当地市政府的支持。 （他们早些时候还从国家获得了价值 2085 万美元的补贴）。这个计划并不像 Tower 那样新颖，因为 AAOI 最初宣布了这些计划。刚刚开始。无论如何，很高兴看到这两家公司在启动时都处于动漫培训弧阶段。"
     },
     {
-      "id": "tweet_aleabitoreddit_2076846994614792663",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 14 Jul 2026 01:51:24 GMT",
-      "content": "So Jensen himself went out to do damage control with $NVDA delays reports apparently: 1. Jensen Huang said no delays: - 800V and rack-to-rack optical interconnects is progressing fully in line with the original plan with no material delay. - Debunked the rumor that the next-generation flagship, Rubin Ultra, would be delayed until 2028 and said it would be on track to ship next year - Rack system optimizations, like replacing Kyber with a new design are architectural optimizations, not impacting delivery timelines. 2. On ASIC competition: no loss of market share. - Talked about how a leading frontier lab that previously relied heavily on internal ASICs has shifted nearly 50% of its compute load to Nvidia 3. On over-reliance on hyperscalers. - AI frontier labs currently contributing to ~20% of demand. - Traditional cloud providers, Nvidia provides Vera CPUs and high-speed networking - Sovereign AI",
-      "url": "https://x.com/aleabitoreddit/status/2076846994614792663",
-      "tweet_id": "2076846994614792663",
-      "translated": "因此，Jensen 亲自出去进行损害控制，显然有 $NVDA 延迟报告： 1. Jensen Huang 表示没有延迟： - 800V 和机架到机架光学互连的进展完全符合原计划，没有任何重大延迟。 - 驳斥了下一代旗舰产品 Rubin Ultra 将推迟到 2028 年的传言，并表示将于明年发货 - 机架系统优化，例如用新设计替换 Kyber，属于架构优化，不会影响交付时间表。 2.关于ASIC竞争：不损失市场份额。 - 谈论了一家先前严重依赖内部 ASIC 的领先前沿实验室如何将近 50% 的计算负载转移到 Nvidia 3。关于过度依赖超大规模处理器。 - AI 前沿实验室目前贡献了约 20% 的需求。 - 传统云提供商，Nvidia 提供 Vera CPU 和高速网络 - Sovereign AI"
+      "id": "tweet_qinbafrank_2077211772935905410",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 15 Jul 2026 02:00:54 GMT",
+      "content": "长鑫能大A股王么？昨晚长鑫公布了IPO定价，发行价8.66元/股，发行股数66.88亿股，占发行后总股本约10.00%，并授予中金公司不超15.00%的超额配售选择权。如果不计算超额配售，按照发行价计算的公司上市前总市值约5792亿元。如果公司市值达到2万亿的话，股价需要涨到近30元。 长鑫今年上半年预计归母净利润为500到570亿元。如果按照全年乘以2测算，2万亿的总市值对应的动态市盈率为17.5到20倍，这么一看也不是很贵？🤔 如果长鑫要冲刺A股市值第一，则要达到2.68万亿以上，对应市盈率为25倍左右。目前科创板平均市盈率为104倍，25倍左右的市盈率不算高。当然对比三星、海力士的估值那是高了。 考虑上市初期流通盘就是ipo发行的部分，又是大A半导体AI的压舱石，感觉按照ipo发行价计算的5000多亿市值远远压不住的。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2077211772935905410",
+      "tweet_id": "2077211772935905410"
+    },
+    {
+      "id": "tweet_qinbafrank_2077206593373098267",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 15 Jul 2026 01:40:19 GMT",
+      "content": "再来详细聊聊昨晚6月通胀数据的含金量，这是一份明显偏鸽，昨晚也说到7月第一个分水岭顺利过关。但需要区分“表面降温”和“底层降温的通胀报告： 1、整体CPI环比下降0.4%，主要是汽油价格大跌造成的，不能理解为美国已经进入广泛通缩。 2、核心CPI环比持平比整体CPI更有意义。住房、核心商品和非住房服务均有降温，且截尾均值、中位数CPI和粘性CPI也同步走弱，说明并非完全由能源单项驱动。 1）住房是本次报告最重要、最具持续性的偏鸽信号 住房在CPI中的权重约为35.1%，6月环比上涨0.1%，为2021年1月以来最小月度涨幅；同比则由此前高位逐步回落至3.3%。 由于住房权重极高，住房每月从0.4%降至0.2%，对核心CPI的影响远比服装、二手车等小权重项目重要。6月住房数据与美联储此前预期的“住房服务将继续提供通缩力量”相吻合。住房这是本次数据中最值得美联储重视的结构性改善。 2）核心商品：没有出现广泛的再通胀扩散，核心商品环比下降0.1%，同比仅上涨0.8%。核心商品数据传递了一个重要信号：此前关税、进口成本和供应链扰动，至少在6月没有演化成全面的终端商品涨价。 企业可能仍然面临成本压力，但由于消费者价格敏感、需求竞争和企业担忧市场份额，成本向零售价格的传导并不顺畅。这与美联储地区企业反馈中“企业担心涨价会削弱需求，因此对提价较为谨慎”的描述相符。商品再通胀尚未全面形成，是偏鸽因素； 3）核心服务：明显降温，但一次性因素较多 剔除能源的服务价格6月环比持平，同比上涨3.2%。更值得关注的是，CPI口径“剔除住房租金的服务”环比下降0.2%，同比上涨3.1%。这一指标近似于市场所说的“超级核心通胀”。 服务通胀正在降温，但尚未完全回到与2%通胀目标一致的状态。 4）核心CPI的“0.0%”也被汽车保险、无线通信、酒店和服装等几个异常下跌项目压低。更合理的底层运行速度可能在环比0.1%—0.2%，而不是严格意义上的零。 总的来说，这次cpi数据最重要的三个真实信号是： 1）住房通胀重新明显放缓。 2）核心商品没有出现全面成本传导。 3）广义底层通胀指标同步降温，说明核心改善不完全是统计噪音。 4、对美联储而言，这份数据显著降低了7月加息必要性，但尚不足以支持立即降息。打断了此前“通胀持续扩散、需要尽快加息”的叙事，但还没有建立“通胀已经稳步回到2%、可以立即降息”的新叙事，之前聊过沃什给降息设定了一个很高的门槛（需要pce到2%才行，本质上是以免过早开香槟） 对美股而言，这是利好估值和利率敏感资产的一份数据。进一步要看7月第二个分水岭，大科技的财报。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2077206593373098267",
+      "tweet_id": "2077206593373098267"
     },
     {
       "id": "tweet_qinbafrank_2077058899992285259",
@@ -130,24 +118,6 @@
       "content": "美股安全软件板块为何今天这么强势？还没看到具体的催化事件，今天白天这篇推文应该没有这么大的能量吧🤔。不过昨天逆势走强也能看出端倪。",
       "url": "https://x.com/qinbafrank/status/2077058899992285259",
       "tweet_id": "2077058899992285259"
-    },
-    {
-      "id": "tweet_qinbafrank_2077008322973381081",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Tue, 14 Jul 2026 12:32:27 GMT",
-      "content": "今晚cpi全部都大幅度低于预期，7月第一个分水岭顺利过关。",
-      "url": "https://x.com/qinbafrank/status/2077008322973381081",
-      "tweet_id": "2077008322973381081"
-    },
-    {
-      "id": "tweet_qinbafrank_2076998727592743164",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Tue, 14 Jul 2026 11:54:20 GMT",
-      "content": "怎么看马上要公布的6月美国cpi数据？1）广义cpi同比环比低于前值基本上是预期之内，通胀回落是共识、甚至环比出现负值也是预期。核心是看能不能低于预期； 2）关键是看核心cpi、同比环比能不能也低于预期。核心是看跟预期的偏离度 3）如果美伊一直保持停火状态，那么今晚通胀数据符合预期就能带动市场情绪提振。但是当下美伊冲突再起，油价又反弹了。那么今晚通胀数据要低于预期才能过关，否则市场会担心通胀下降不够快，还有担心再被油价带起来的隐忧。",
-      "url": "https://x.com/qinbafrank/status/2076998727592743164",
-      "tweet_id": "2076998727592743164"
     },
     {
       "id": "tweet_xiaomustock_2077123703226413448",
@@ -204,6 +174,24 @@
       "tweet_id": "2076974114062119398"
     },
     {
+      "id": "tweet_hibtc37_2077175510657089785",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Tue, 14 Jul 2026 23:36:48 GMT",
+      "content": "在行业十多年，有十年的粉丝，还挺有沉淀的感觉",
+      "url": "https://x.com/hibtc37/status/2077175510657089785",
+      "tweet_id": "2077175510657089785"
+    },
+    {
+      "id": "tweet_hibtc37_2077172603148701921",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Tue, 14 Jul 2026 23:25:15 GMT",
+      "content": "太震撼了！美版海力士爆拉27%！！！ 我总结了密码，从 $CBRS $SPCX $SKHY 同样的手法： 1、上市前两天，preipo巅峰，多单平仓 2、集合竞价到巅峰， 3、开盘后先涨，第二交易日开始跌，开盘多，第二天平，可以反手 4、猛拉一波，持有多单 5、继续猛拉，择机平多，可以反手空 6、解锁前加开始到解锁持续暴跌砸出深坑，提前开空，解锁完第二天就平 7、反弹，再第6点开多 共同点高FDV低流通，韩海力士是高流通了，但美海力士还是2.5%低流通，这三个股票同个阶段的，流通市值级别为百亿、750亿、300亿（大致），那不随便拿捏价格吗 所以的，对应不同阶段，对个股采取不同策略，现在我是： $CBRS 解锁深坑开始做多（图1） $SPCX 解锁前开始暴跌做空（图2） $SKHY adr刚上市做多（海力士费率无敌高，就选代替品做多EWY，图2） 这个策略三个股票，都在赚钱，后面在遇到类似的新股，可以上点资金了 这次在海力士上亏的，估计可以很快赚回来了，测试账户的整天资产重回5w，向6w进发中，距离50w，还差44w",
+      "url": "https://x.com/hibtc37/status/2077172603148701921",
+      "tweet_id": "2077172603148701921"
+    },
+    {
       "id": "tweet_hibtc37_2077165845953036602",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -211,29 +199,11 @@
       "content": "黑子说话！ 651 643第88次命中✅ 651丝毫不差😃 新街区： 656 649市价 最近转评赞不那么积极了，我即将开放第二批免费进群名单，你看着办吧",
       "url": "https://x.com/hibtc37/status/2077165845953036602",
       "tweet_id": "2077165845953036602"
-    },
-    {
-      "id": "tweet_hibtc37_2077017139895218550",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Tue, 14 Jul 2026 13:07:29 GMT",
-      "content": "CPI数据出来，上区间直接被击穿了，不算命中吧 主力可能要去吃，我之前说的651，不过可能需要时间吧， 新街区： 643 637市价 没有有效的下区间，目前 转评赞走起",
-      "url": "https://x.com/hibtc37/status/2077017139895218550",
-      "tweet_id": "2077017139895218550"
-    },
-    {
-      "id": "tweet_hibtc37_2076920435971870947",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Tue, 14 Jul 2026 06:43:13 GMT",
-      "content": "新街区 632 625市价 613 还是大饼好，对于我主力比较明牌操作，美股对于我还是黑盒子",
-      "url": "https://x.com/hibtc37/status/2076920435971870947",
-      "tweet_id": "2076920435971870947"
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
