@@ -1,36 +1,46 @@
 {
-  "fetched_at": "2026-07-15T12:18:18.549918+00:00",
+  "fetched_at": "2026-07-15T14:53:45.348998+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2077151925662097659",
+      "id": "tweet_elonmusk_2077400333450400088",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 14 Jul 2026 22:03:05 GMT",
-      "content": "RT by @elonmusk: Interesting.",
-      "url": "https://x.com/elonmusk/status/2077151925662097659",
-      "tweet_id": "2077151925662097659",
-      "translated": "RT @elonmusk：有趣。"
+      "published_at": "Wed, 15 Jul 2026 14:30:10 GMT",
+      "content": "RT by @elonmusk: Tesla has partnered with 7-Eleven Japan to begin installing Superchargers at the country’s largest convenience store chain. The 150th Supercharger site in Japan was also the first of this new partnership, which opened on July 11 at the 7-Eleven Kawasaki Shimokodanaka East store in Kanagawa Prefecture. https://driveteslacanada.ca/news/tesla-superchargers-7-eleven-japan/",
+      "url": "https://x.com/elonmusk/status/2077400333450400088",
+      "tweet_id": "2077400333450400088",
+      "translated": "RT @elonmusk：特斯拉已与日本 7-11 合作，开始在该国最大的连锁便利店安装超级充电站。日本第 150 个 Supercharger 站点也是这一新合作伙伴关系的第一个站点，该站点于 7 月 11 日在神奈川县 7-11 川崎下小田中东店开业。 https://driveteslacanada.ca/news/tesla-superchargers-7-eleven-japan/"
     },
     {
-      "id": "tweet_elonmusk_2077362080286412981",
+      "id": "tweet_elonmusk_2077045662324052467",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 15 Jul 2026 11:58:10 GMT",
-      "content": "Needs to change.",
-      "url": "https://x.com/elonmusk/status/2077362080286412981",
-      "tweet_id": "2077362080286412981",
-      "translated": "需要改变。"
+      "published_at": "Tue, 14 Jul 2026 15:00:50 GMT",
+      "content": "RT by @elonmusk: Used @grok to remove the background😉🤗 @XFashion",
+      "url": "https://x.com/elonmusk/status/2077045662324052467",
+      "tweet_id": "2077045662324052467",
+      "translated": "RT by @elonmusk：使用@grok 删除背景😉🤗 @XFashion"
     },
     {
-      "id": "tweet_elonmusk_2077361679034118271",
+      "id": "tweet_elonmusk_2077391771403948116",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 15 Jul 2026 11:56:34 GMT",
-      "content": "Once we have completed our review for security vulnerabilities, we will make the entire codebase of 𝕏 open source, with no exceptions. Moreover, we will invite third party reviewers to examine the system that is running to confirm that the open source code is what is running. Trust through total transparency is the only thing that should be believed.",
-      "url": "https://x.com/elonmusk/status/2077361679034118271",
-      "tweet_id": "2077361679034118271",
-      "translated": "一旦我们完成了安全漏洞审查，我们将开源𝕏的整个代码库，无一例外。此外，我们将邀请第三方评审员检查正在运行的系统，以确认开源代码正在运行。通过完全透明的信任是唯一应该相信的事情。"
+      "published_at": "Wed, 15 Jul 2026 13:56:09 GMT",
+      "content": "RT by @elonmusk: BREAKING: Grok 4.5 has climbed to #2 on the FrontierSWE benchmark. The result places Grok 4.5 among the world's top-performing AI models for software engineering tasks, highlighting its growing strength in real-world coding and agentic developer workflows. Another milestone as xAI continues advancing Grok's coding capabilities. @elonmusk",
+      "url": "https://x.com/elonmusk/status/2077391771403948116",
+      "tweet_id": "2077391771403948116",
+      "translated": "RT @elonmusk：重大消息：Grok 4.5 在 FrontierSWE 基准测试中已攀升至第二名。结果使 Grok 4.5 跻身全球性能最佳的软件工程任务人工智能模型之列，突显了其在现实世界编码和代理开发人员工作流程中日益增强的实力。 xAI 继续提升 Grok 的编码能力的另一个里程碑。 @埃隆马斯克"
+    },
+    {
+      "id": "tweet_cz_binance_2077396044334223778",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Wed, 15 Jul 2026 14:13:07 GMT",
+      "content": "$10 billion",
+      "url": "https://x.com/cz_binance/status/2077396044334223778",
+      "tweet_id": "2077396044334223778",
+      "translated": "100亿美元"
     },
     {
       "id": "tweet_cz_binance_2077298139690901706",
@@ -51,16 +61,6 @@
       "url": "https://x.com/cz_binance/status/2077027836875935773",
       "tweet_id": "2077027836875935773",
       "translated": "RT @cz_binance：🔥CZ：币安达到世界第一。短短 5 个月内就成为 1 家交易所并“一直坚守在那里” 在庆祝币安成立 9 周年之际，创始人 CZ 表示，有几个因素推动了交易所的成功：“产品必须良好。客户服务必须良好。” “你必须有一个使命。我们的使命是增加资金自由度。” CZ 表示，“保护用户”帮助币安保持了领先地位。"
-    },
-    {
-      "id": "tweet_cz_binance_2077045885012230590",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Tue, 14 Jul 2026 15:01:43 GMT",
-      "content": "One CEX, many decentralized communities.",
-      "url": "https://x.com/cz_binance/status/2077045885012230590",
-      "tweet_id": "2077045885012230590",
-      "translated": "一个CEX，多个去中心化社区。"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -177,31 +177,40 @@
       "tweet_id": "2077079145587294555"
     },
     {
-      "id": "tweet_xingpt_2077343235736039845",
+      "id": "tweet_xingpt_2077402507232563342",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Wed, 15 Jul 2026 10:43:17 GMT",
-      "content": "网站源代码：https://www.patreon.com/xingpt/posts/yi-ge-wang-zhan-163332849?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
-      "url": "https://x.com/xingpt/status/2077343235736039845",
-      "tweet_id": "2077343235736039845"
+      "published_at": "Wed, 15 Jul 2026 14:38:48 GMT",
+      "content": "臻宝科技、SpaceX、SK 海力士市场不同，但共享同一个节奏。 第一个共同点是高开。热门 IPO 的发行价通常较保守，股票上市后会用首笔成交重新定价。 臻宝科技从 44.56 元直接开在 448 元，SpaceX 从 135 美元开在 150 美元，SK 海力士 ADS 也从 149 美元开在 170 美元。 幅度虽然不同，但三者都先用明显高于发行价的价格确认市场愿意支付的稀缺性溢价。 高开之后通常不是一路上涨，而是进入放量换手。早期获配者获利了结，错过配售的资金趁震荡进场，价格因此容易先回撤，再出现第二段行情。 臻宝科技早盘跌至 388.66 元后，午后拉到 585 元收盘；SpaceX 冲上 176.52 美元后一度回吐，之后再涨至 225.64 美元；SK 海力士第二日下跌 9.3%，第三日随即反弹 27.3%。 三者真正相似的地方，是第一次放量震荡后，价格都曾重新转强。 二次拉升之后，市场才开始消化估值。短线资金退潮、成交量下降，价格会逐渐回到盈利可以支撑的位置。 SpaceX 后来回落至 136.08 美元，几乎回到 135 美元发行价；SK 海力士则持续大幅双向波动。这个阶段不一定每天慢慢下跌，但常见的讯号是反弹高度下降、成交量缩小，市场热度不再足以支撑原本的溢价。 套回 CXMT，长鑫上市后先看 A 股首笔成交如何定锚，再看第一轮放量回撤后能否站回开盘价与 VWAP（成交量加权平均价格）。 若价格重新放量转强，可能复制二次拉升；若反弹无量、始终站不回 VWAP，则更可能向每股 29.9–44.9 元的市场估值区间收敛。 Hyperliquid 可以用 4 小时 K 线观察这套节奏，重点不是每根 K 线完全相同，而是「高开、换手、再突破、估值回归」是否依序出现。",
+      "url": "https://x.com/xingpt/status/2077402507232563342",
+      "tweet_id": "2077402507232563342"
     },
     {
-      "id": "tweet_xingpt_2077342476818587782",
+      "id": "tweet_xingpt_2077402612388000114",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Wed, 15 Jul 2026 10:40:16 GMT",
-      "content": "今天韩国股市，外资继续净买入，散户继续净卖出。散户的净卖出主要是由于周一被强平之后的结算，以及一些散户开始去杠杆。 外资买入由于隔夜美股ADR大涨，开始买入相对便宜的韩国。但目前仍然溢价超过 38%",
-      "url": "https://x.com/xingpt/status/2077342476818587782",
-      "tweet_id": "2077342476818587782"
+      "published_at": "Wed, 15 Jul 2026 14:39:13 GMT",
+      "content": "R to @xingpt: 原版网页放在了Patreon会员：https://www.patreon.com/xingpt/posts/yi-ge-wang-ye-da-163896087?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
+      "url": "https://x.com/xingpt/status/2077402612388000114",
+      "tweet_id": "2077402612388000114"
     },
     {
-      "id": "tweet_xingpt_2077313413487960506",
+      "id": "tweet_xingpt_2077396772515983699",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Wed, 15 Jul 2026 08:44:47 GMT",
-      "content": "百度谈了那么久，被阿里摘了桃子？ Apple在中国落地了Apple intelligence，阿里的千问为合作方。盘前阿里美股已经上涨超过3%！",
-      "url": "https://x.com/xingpt/status/2077313413487960506",
-      "tweet_id": "2077313413487960506"
+      "published_at": "Wed, 15 Jul 2026 14:16:01 GMT",
+      "content": "美股开盘依然是大的云厂和MAGS强于半导体链",
+      "url": "https://x.com/xingpt/status/2077396772515983699",
+      "tweet_id": "2077396772515983699"
+    },
+    {
+      "id": "tweet_hibtc37_2077403153524568518",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Wed, 15 Jul 2026 14:41:22 GMT",
+      "content": "存储又跌麻",
+      "url": "https://x.com/hibtc37/status/2077403153524568518",
+      "tweet_id": "2077403153524568518"
     },
     {
       "id": "tweet_hibtc37_2077362757742313809",
@@ -220,20 +229,11 @@
       "content": "$ASML 业绩爆炸！关键是上调全年指引！利好存储！ 财报季节，存储，拿住！ “阿斯麦Q2业绩全面超预期，再度上调全年指引，2027年低NA EUV产能增加30%”",
       "url": "https://x.com/hibtc37/status/2077290020952756631",
       "tweet_id": "2077290020952756631"
-    },
-    {
-      "id": "tweet_hibtc37_2077287131207315628",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Wed, 15 Jul 2026 07:00:20 GMT",
-      "content": "香港对于中国人基本是最优解了，身份、地缘政治、生活方式、文化、国际化程度等，目前还没有可以代替他的",
-      "url": "https://x.com/hibtc37/status/2077287131207315628",
-      "tweet_id": "2077287131207315628"
     }
   ],
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
