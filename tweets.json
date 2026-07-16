@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-16T06:22:09.838946+00:00",
+  "fetched_at": "2026-07-16T09:17:37.862491+00:00",
   "total": 24,
   "tweets": [
     {
@@ -20,7 +20,7 @@
       "content": "Pinned: Image",
       "url": "https://x.com/elonmusk/status/2077626867297681867",
       "tweet_id": "2077626867297681867",
-      "translated": "固定：图像"
+      "translated": "固定：图片"
     },
     {
       "id": "tweet_elonmusk_2077445418884202757",
@@ -30,7 +30,27 @@
       "content": "RT by @elonmusk: I know I'm late but yeah ok Grok 4.5 is actually really good. It's super fast, direct path to solutions, and quite capable.",
       "url": "https://x.com/elonmusk/status/2077445418884202757",
       "tweet_id": "2077445418884202757",
-      "translated": "RT @elonmusk：我知道我迟到了，但是好吧，Grok 4.5 实际上非常好。它是超级快速、直接的解决方案，而且功能非常强大。"
+      "translated": "RT by @elonmusk：我知道我迟到了，但是好吧，Grok 4.5 实际上非常好。它是超级快速、直接的解决方案，而且功能非常强大。"
+    },
+    {
+      "id": "tweet_cz_binance_2077659139854004689",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 16 Jul 2026 07:38:34 GMT",
+      "content": "AI is great, but it does not protect you against inflation. Bitcoin does.",
+      "url": "https://x.com/cz_binance/status/2077659139854004689",
+      "tweet_id": "2077659139854004689",
+      "translated": "人工智能很棒，但它并不能保护你免受通货膨胀的影响。比特币确实如此。"
+    },
+    {
+      "id": "tweet_cz_binance_2077526409132593185",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Wed, 15 Jul 2026 22:51:09 GMT",
+      "content": "RT by @cz_binance: Congratulations to @binance as it turns 9 🚀 🚀 9 Years ago, @cz_binance said, I want to help a little bit but helped more than the world could imagine... And yep, we all believed and did write songs and EP's about this very moment! To the moon! #BinanceTurns9 #Binance",
+      "url": "https://x.com/cz_binance/status/2077526409132593185",
+      "tweet_id": "2077526409132593185",
+      "translated": "RT by @cz_binance：恭喜@binance 迎来 9 岁生日🚀 🚀 9 年前，@cz_binance 说，我想提供一点帮助，但帮助的程度超出了世界的想象......是的，我们都相信并确实为这一刻写了歌曲和 EP！去月球！ #BinanceTurns9 #Binance"
     },
     {
       "id": "tweet_cz_binance_2077302207683195161",
@@ -41,26 +61,6 @@
       "url": "https://x.com/cz_binance/status/2077302207683195161",
       "tweet_id": "2077302207683195161",
       "translated": "RT @cz_binance：保留收据。 0 费用嘉年华涵盖了 USDC、USD1 和 U 的 Gas，适用于受支持的钱包、交易所和桥接器，直至 7 月 31 日。在下面了解您可以在哪里节省👇 https://www.bnbchain.org/en/blog/0-fee-transactions-for-usdc-usd1-u-extended-until-july-31"
-    },
-    {
-      "id": "tweet_cz_binance_2077089969743810992",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Tue, 14 Jul 2026 17:56:53 GMT",
-      "content": "RT by @cz_binance: दिल्ली ने दिल जीत लिया। 💛 #BinanceTurns9",
-      "url": "https://x.com/cz_binance/status/2077089969743810992",
-      "tweet_id": "2077089969743810992",
-      "translated": "RT @cz_binance：德里赢得了人心。 💛 #BinanceTurns9"
-    },
-    {
-      "id": "tweet_cz_binance_2077405607951282346",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 15 Jul 2026 14:51:07 GMT",
-      "content": "$932 Million USD",
-      "url": "https://x.com/cz_binance/status/2077405607951282346",
-      "tweet_id": "2077405607951282346",
-      "translated": "9.32 亿美元"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -123,6 +123,15 @@
       "translated": "$NVDA 首席执行官黄仁勋 (Jensen Huang) 今天在东京表示：“这些报道并不属实。Vera Rubin 已经投入生产。大量生产即将到来。”这是对他们的人工智能服务器将被延迟的指控的断然否认。 Jensen 似乎使用了 Rubin Ultra/Kyber 的保护伞术语，然后指出了当前的发电量。无论如何，在多次延迟报告之后，英伟达供应链的股价已经受到了很大的损害。即使 Nvidia 澄清 Kyber 的变化是一种架构优化，而不是影响时间表来反驳他们。对于人们来说，通过技术细微差别发布过分广泛的主张来增加观看次数是一种非常危险且日益增长的趋势……特别是如果他们得到詹森必须回应的话。最后，我相信 $NVDA 的时间表，因为他们可能对自己的供应链有最大的了解。"
     },
     {
+      "id": "tweet_qinbafrank_2077671483900678240",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Thu, 16 Jul 2026 08:27:37 GMT",
+      "content": "美股代币化流动性碎片化的问题终于开始被解决了，看到OKX宣布要上线24支代币化美股和ETF，全球首家做“统一代币化股票市场”，能24/7交易，还把多个发行方的东西合并到一个订单簿里。代币化美股的痛点是什么？OKX 这套统一机制又解决了什么问题？ 普通意义上的代币化美股，就是把真实股票或 ETF 的价格表现做成区块链上的代币。背后 1:1 由真实股份托管，你买到的不是苹果的股票，而是代表苹果股价走势的链上凭证。交易在加密平台上走，用稳定币结算，理论上能 24小时不间断。 这不是OKX 首创，之前 Kraken、Bybit 已经通过 Backed 的 xStocks 上过类似产品。本质还是把 TradFi 的流动性切一小块，搬到链上或者 CEX 上，让 crypto 用户不用开美股账户也能参与美股行情。 但这个模式的问题也很严重：流动性太碎片。不同平台、不同发行方发同样的标的（比如 AAPL），各自一个订单簿，深度浅、价差大、公司行动（分红、拆股）规则还不一样。用户体验像在不同交易所炒同一个币，割裂感很强。 看起来OKX 这波想干的，就是把这个碎片化的问题尽量解决掉。OKX 的“统一”到底统一了什么？ 1）他们把资产统一命名：前面加个大写 X，比如 XAAPL、XTSLA、XSPY。背后还是靠 Backed 的 xStocks 背书，1:1 真实股份托管，支持 Solana 和 X Layer 网络存取。 2）更关键的创新在于订单簿统一。如果未来有其他发行方也做了同样标的的代币化版本，OKX 会把它们合并成一个资产、一个订单簿、同一套公司行动规则。流动性不再分散在多个池子里，而是集中到一个地方。 3）交易上自然也是crypto原生：全天候 24/7，用 稳定币直接交易，支持网格和 DCA 机器人，分红自动折算股数，这点对 crypto 用户特别友好， 总结来说，OKX 不是简单复制别人已经有的xStocks，而是想做一个聚合层：把可能分散的代币化供给收拢到自己平台，形成更深的流动性池，同时保留 crypto 原生的交易工具和账户体验。 之前代币化美股最被诟病就是流动性碎片和稀薄，okx这套模式这个最大的好处就是流动性集中，对整个市场来说，统一订单簿如果真能跑起来，理论上能改善价格发现效率，减少同一标的在不同平台间的套利空间。长期看，这也是 RWA 赛道从“各自为战”往“基础设施聚合”迈的一步。 当然也要明确这不是股票，没有投票权，没有股东身份，只是价格敞口，值不值得上得自己判断。 OKX 这套机制，本质上是想把 crypto 的交易体验和 TradFi 的资产做一次更深的融合。不是简单上架几个代币，而是试图在流动性层做整合。这方向如果走得通，对后面更多 RWA 上链有示范作用。",
+      "url": "https://x.com/qinbafrank/status/2077671483900678240",
+      "tweet_id": "2077671483900678240"
+    },
+    {
       "id": "tweet_qinbafrank_2077612585357365487",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -141,13 +150,13 @@
       "tweet_id": "2077406163398959406"
     },
     {
-      "id": "tweet_qinbafrank_2077300348461666661",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 15 Jul 2026 07:52:52 GMT",
-      "content": "Q2科技及半导体财报季阿斯麦交了第一份优质答卷，多项核心指标超越市场预期，并上调全年业绩展望。阿斯麦将2026年全年净销售额预期上调至430亿至450亿欧元，较此前360亿至400亿欧元的区间大幅提升。阿斯麦披露，英特尔已在美国俄勒冈州工厂正式将High NA EUV设备用于部分Ultra 3（猎豹湖）处理器的量产制造。 1、业绩来源几个点： 1）下游客户加速产能扩张计划，转化为对阿斯麦全产品组合的客户承诺，还是Ai需求驱动； 2）新光刻系统销量从Q1的67台大幅提升至Q2的86台，二手系统销量从12台降至5台。这表明客户更倾向于采购全新高端设备，而非二手替代方案，印证了终端需求的强劲 3）产能扩张，2026年低数值孔径EUV产能约65台的基础上，2027年增加30%产能，并研究2028年再增加30%；DUV浸没式光刻机2026年产能约130台的基础上，同样计划2027年增加30%，并研究2028年再增加30%。 2、意义最大的是未来指引上调 阿斯麦将2026年全年净销售额预期从360亿-400亿欧元大幅上调至430亿-450亿欧元，全年毛利率预期从原先水平上调至54%-56%。此前市场一致预期约为394亿欧元，新指引中值（440亿欧元）超出市场预期约12%。 三季度指引预计净销售额110亿-120亿欧元（市场预期约102.7亿欧元），毛利率55%-57%。 上半年完成（Q1约88亿+Q2约93亿）181亿欧元），全年指引中值440亿欧元意味着下半年需完成约259亿欧元，其中Q3指引中值115亿欧元，则Q4需达到约144亿欧元。意味着预期环比增速极高，显示出管理层对下半年需求加速的强烈信心。",
-      "url": "https://x.com/qinbafrank/status/2077300348461666661",
-      "tweet_id": "2077300348461666661"
+      "id": "tweet_xiaomustock_2077653260094284052",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Thu, 16 Jul 2026 07:15:12 GMT",
+      "content": "投降了，剩下60%刚58卖了，太贪心了， 本来买的时候就想着有个75就走， 真到了反而贪心了， 几把人性呐， 太恶心丑陋。",
+      "url": "https://x.com/xiaomustock/status/2077653260094284052",
+      "tweet_id": "2077653260094284052"
     },
     {
       "id": "tweet_xiaomustock_2077605283707462081",
@@ -166,15 +175,6 @@
       "content": "海力士已经跌的不是大力士也不是海公公了，只能叫它海狗",
       "url": "https://x.com/xiaomustock/status/2077430770302685530",
       "tweet_id": "2077430770302685530"
-    },
-    {
-      "id": "tweet_xiaomustock_2077241505262313546",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Wed, 15 Jul 2026 03:59:02 GMT",
-      "content": "51.5抄的78跑了40%， 非常后悔， 因为跑了一部分发现完全不知道买什么， 全市场都是垃圾股，没有比海力士更好的。",
-      "url": "https://x.com/xiaomustock/status/2077241505262313546",
-      "tweet_id": "2077241505262313546"
     },
     {
       "id": "tweet_xingpt_2077594716628226515",
@@ -204,6 +204,24 @@
       "tweet_id": "2077587110559940810"
     },
     {
+      "id": "tweet_hibtc37_2077667908218687702",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Thu, 16 Jul 2026 08:13:25 GMT",
+      "content": "EWY169.5跑了，昨天，6倍空马斯克还空着",
+      "url": "https://x.com/hibtc37/status/2077667908218687702",
+      "tweet_id": "2077667908218687702"
+    },
+    {
+      "id": "tweet_hibtc37_2077667384614363498",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Thu, 16 Jul 2026 08:11:20 GMT",
+      "content": "昨天，CBRS188跑了，财报爆好，半导体股价暴跌，看不懂了，心里好方，换仓什么，有推荐吗",
+      "url": "https://x.com/hibtc37/status/2077667384614363498",
+      "tweet_id": "2077667384614363498"
+    },
+    {
       "id": "tweet_hibtc37_2077621068286808515",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -211,24 +229,6 @@
       "content": "海力士啥时跌到头啊，Dram亏惨，MU要到成本线了，这游戏究竟谁赢",
       "url": "https://x.com/hibtc37/status/2077621068286808515",
       "tweet_id": "2077621068286808515"
-    },
-    {
-      "id": "tweet_hibtc37_2077611673486229588",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Thu, 16 Jul 2026 04:29:57 GMT",
-      "content": "黑子说话！ 656第89次命中✅ 656丝毫不差😀 新街区： 661 645市价 主力的意图可能是67k，估计目标是677附近，走一步看一步吧，我会找机会空进去（如果有钱），先说明，目前我还没开单，因为只玩5w，我的资金都在做空马斯克占用了，OK可以看到我实盘，质疑我的黑粉，请你点点手指去看看 自负盈亏，转评赞走起！",
-      "url": "https://x.com/hibtc37/status/2077611673486229588",
-      "tweet_id": "2077611673486229588"
-    },
-    {
-      "id": "tweet_hibtc37_2077579705189011462",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Thu, 16 Jul 2026 02:22:55 GMT",
-      "content": "你对了，我刚好有3000",
-      "url": "https://x.com/hibtc37/status/2077579705189011462",
-      "tweet_id": "2077579705189011462"
     }
   ],
   "stats": {
