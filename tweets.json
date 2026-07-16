@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-15T22:03:53.751257+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-16T00:02:34.597551+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2077495635687723408",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 15 Jul 2026 20:48:52 GMT",
-      "content": "Grok Build is now open source",
-      "url": "https://x.com/elonmusk/status/2077495635687723408",
-      "tweet_id": "2077495635687723408",
-      "translated": "Grok Build 现已开源"
-    },
-    {
-      "id": "tweet_elonmusk_2077086951833063580",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 14 Jul 2026 17:44:54 GMT",
-      "content": "RT by @elonmusk: Well said Demis! Worth reading",
-      "url": "https://x.com/elonmusk/status/2077086951833063580",
-      "tweet_id": "2077086951833063580",
-      "translated": "RT @elonmusk：Demis 说得好！值得一读"
-    },
-    {
-      "id": "tweet_elonmusk_2077063479232795024",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 14 Jul 2026 16:11:38 GMT",
-      "content": "RT by @elonmusk: An important piece from Demis. We need more of this kind of thinking. A good reminder that the goal is a frontier ecosystem that promotes innovation and choice, while avoiding any one model drop that breaks the world!",
-      "url": "https://x.com/elonmusk/status/2077063479232795024",
-      "tweet_id": "2077063479232795024",
-      "translated": "RT @elonmusk：Demis 的重要作品。我们需要更多这样的思考。一个很好的提醒是，我们的目标是建立一个促进创新和选择的前沿生态系统，同时避免任何一款打破世界的模型掉落！"
-    },
     {
       "id": "tweet_cz_binance_2077302207683195161",
       "username": "cz_binance",
@@ -205,6 +175,15 @@
       "tweet_id": "2077409295462010925"
     },
     {
+      "id": "tweet_hibtc37_2077538221412782505",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Wed, 15 Jul 2026 23:38:05 GMT",
+      "content": "意义就是我的收益在OK交易员里，现在依然能排进前7名 争论没有意义，用仓位表达观点，而且我一直是实盘，字节股神和白毛股神，你们没有见过他们任何一个仓位，全靠吹，一个赌末日期权，一个赌微盘毛票 对应币圈，一个赌末日二元期权，一个冲土狗，这种竟然受到追捧，这很好解释市场80%人亏钱的现象，共同点都是都非常急于拿到结果 而且帖子里哪里有下区间呢？再说，市场95%是震荡，为什么不做震荡呢？5%上涨下跌你就能抓住吗？",
+      "url": "https://x.com/hibtc37/status/2077538221412782505",
+      "tweet_id": "2077538221412782505"
+    },
+    {
       "id": "tweet_hibtc37_2077412732257906902",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -221,20 +200,11 @@
       "content": "存储又跌麻",
       "url": "https://x.com/hibtc37/status/2077403153524568518",
       "tweet_id": "2077403153524568518"
-    },
-    {
-      "id": "tweet_hibtc37_2077362757742313809",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Wed, 15 Jul 2026 12:00:51 GMT",
-      "content": "贝莱德盘前转出2990BTC到交易所热钱包",
-      "url": "https://x.com/hibtc37/status/2077362757742313809",
-      "tweet_id": "2077362757742313809"
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 9
   }
 }
