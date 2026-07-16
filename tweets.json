@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-16T03:30:33.698744+00:00",
+  "fetched_at": "2026-07-16T06:22:09.838946+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2077528321819320571",
+      "id": "tweet_elonmusk_2077629400569278597",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 15 Jul 2026 22:58:45 GMT",
-      "content": "RT by @elonmusk: Usage limits are reset and Grok Build is open-source",
-      "url": "https://x.com/elonmusk/status/2077528321819320571",
-      "tweet_id": "2077528321819320571",
-      "translated": "RT by @elonmusk：重置使用限制，Grok Build 开源"
+      "published_at": "Thu, 16 Jul 2026 05:40:24 GMT",
+      "content": "Arguing with NPCs is pointless",
+      "url": "https://x.com/elonmusk/status/2077629400569278597",
+      "tweet_id": "2077629400569278597",
+      "translated": "和NPC争论是没有意义的"
     },
     {
-      "id": "tweet_elonmusk_2077512540431466565",
+      "id": "tweet_elonmusk_2077626867297681867",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 15 Jul 2026 21:56:02 GMT",
-      "content": "RT by @elonmusk: I've inspected the open-sourced Grok Build so you don't have to. Here's exactly what data it sends (and what stays local): Core (unavoidable)→ Your prompts/conversations + tool calls go to xAI's inference API. That's the whole point of the CLI. Everything else is off by default — no Mixpanel, no Sentry, no product telemetry unless you explicitly turn it on. Even the auto-update check is a simple version GET you can disable in config. Purely local stuff (crash reports, debug logs, secret redaction, auth) never touches the network. All telemetry paths also scrub secrets before anything is sent. Full details 👇",
-      "url": "https://x.com/elonmusk/status/2077512540431466565",
-      "tweet_id": "2077512540431466565",
-      "translated": "RT @elonmusk：我已经检查了开源的 Grok Build，所以你不必这样做。以下是它发送的数据（以及保留在本地的数据）：核心（不可避免）→ 您的提示/对话 + 工具调用将转到 xAI 的推理 API。这就是 CLI 的全部意义。其他一切默认情况下都是关闭的 - 没有 Mixpanel、没有 Sentry、没有产品遥测，除非您明确将其打开。即使自动更新检查也是一个简单的 GET 版本，您可以在配置中禁用。纯粹的本地内容（崩溃报告、调试日志、秘密编辑、身份验证）永远不会接触网络。所有遥测路径也会在发送任何内容之前清除秘密。完整详情👇"
+      "published_at": "Thu, 16 Jul 2026 05:30:20 GMT",
+      "content": "Pinned: Image",
+      "url": "https://x.com/elonmusk/status/2077626867297681867",
+      "tweet_id": "2077626867297681867",
+      "translated": "固定：图像"
     },
     {
-      "id": "tweet_elonmusk_2077495635687723408",
+      "id": "tweet_elonmusk_2077445418884202757",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 15 Jul 2026 20:48:52 GMT",
-      "content": "Grok Build is now open source",
-      "url": "https://x.com/elonmusk/status/2077495635687723408",
-      "tweet_id": "2077495635687723408",
-      "translated": "Grok Build 现已开源"
+      "published_at": "Wed, 15 Jul 2026 17:29:19 GMT",
+      "content": "RT by @elonmusk: I know I'm late but yeah ok Grok 4.5 is actually really good. It's super fast, direct path to solutions, and quite capable.",
+      "url": "https://x.com/elonmusk/status/2077445418884202757",
+      "tweet_id": "2077445418884202757",
+      "translated": "RT @elonmusk：我知道我迟到了，但是好吧，Grok 4.5 实际上非常好。它是超级快速、直接的解决方案，而且功能非常强大。"
     },
     {
       "id": "tweet_cz_binance_2077302207683195161",
@@ -123,6 +123,15 @@
       "translated": "$NVDA 首席执行官黄仁勋 (Jensen Huang) 今天在东京表示：“这些报道并不属实。Vera Rubin 已经投入生产。大量生产即将到来。”这是对他们的人工智能服务器将被延迟的指控的断然否认。 Jensen 似乎使用了 Rubin Ultra/Kyber 的保护伞术语，然后指出了当前的发电量。无论如何，在多次延迟报告之后，英伟达供应链的股价已经受到了很大的损害。即使 Nvidia 澄清 Kyber 的变化是一种架构优化，而不是影响时间表来反驳他们。对于人们来说，通过技术细微差别发布过分广泛的主张来增加观看次数是一种非常危险且日益增长的趋势……特别是如果他们得到詹森必须回应的话。最后，我相信 $NVDA 的时间表，因为他们可能对自己的供应链有最大的了解。"
     },
     {
+      "id": "tweet_qinbafrank_2077612585357365487",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Thu, 16 Jul 2026 04:33:35 GMT",
+      "content": "腾讯也是不负众望，混元大模型Hy3总调用量较上一代模型(Hy2)增长已超68倍。发布一周后，Hy3在OpenRouter全球大模型调用量总榜排名第一。",
+      "url": "https://x.com/qinbafrank/status/2077612585357365487",
+      "tweet_id": "2077612585357365487"
+    },
+    {
       "id": "tweet_qinbafrank_2077406163398959406",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -141,13 +150,13 @@
       "tweet_id": "2077300348461666661"
     },
     {
-      "id": "tweet_qinbafrank_2077260808309055670",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 15 Jul 2026 05:15:44 GMT",
-      "content": "Stripe与顶级私募股权机构Advent International联合向PayPal提交收购要约，拟全资收购这家老牌支付巨头，交易整体估值突破530亿美元。如果收购成功这真的要重塑全球数字支付行业的格局了。",
-      "url": "https://x.com/qinbafrank/status/2077260808309055670",
-      "tweet_id": "2077260808309055670"
+      "id": "tweet_xiaomustock_2077605283707462081",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Thu, 16 Jul 2026 04:04:34 GMT",
+      "content": "刚睡醒，又后悔没把剩下的60%也78卖掉，韩国人是真疯呐。",
+      "url": "https://x.com/xiaomustock/status/2077605283707462081",
+      "tweet_id": "2077605283707462081"
     },
     {
       "id": "tweet_xiaomustock_2077430770302685530",
@@ -168,13 +177,13 @@
       "tweet_id": "2077241505262313546"
     },
     {
-      "id": "tweet_xiaomustock_2077123703226413448",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Tue, 14 Jul 2026 20:10:56 GMT",
-      "content": "未来各大巨头搞物理AI的军备竞赛的时候， 他们绝对的需求量不是gpu，cpu， 只有存储。 存储的量决定了他们能训练多少数据，因为音频数据的大小规模千倍万倍于文本图片。 未来俩年内会看到这个观点和变化。",
-      "url": "https://x.com/xiaomustock/status/2077123703226413448",
-      "tweet_id": "2077123703226413448"
+      "id": "tweet_xingpt_2077594716628226515",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Thu, 16 Jul 2026 03:22:34 GMT",
+      "content": "图赫尔是个外行……",
+      "url": "https://x.com/xingpt/status/2077594716628226515",
+      "tweet_id": "2077594716628226515"
     },
     {
       "id": "tweet_xingpt_2077591516714066197",
@@ -195,13 +204,22 @@
       "tweet_id": "2077587110559940810"
     },
     {
-      "id": "tweet_xingpt_2077441809572401658",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 15 Jul 2026 17:14:59 GMT",
-      "content": "这个位置其实有点纠结：如果说 Q3 开始，是风格切换的起点，费城半导体SOXX7 月 1 号起下跌 16%，苹果 AAPL 从涨价新闻第二天开始上涨了19%。 那么现在风格切换是否已经完成，或者说到了什么阶段？ 半导体回调结束了吗？苹果还能继续向上吗？ 技术面上看，风格切换还没有逆转，但正在接近完成；基本面上还得等月底财报发。 市场就是这样，一步慢了，步步慢。 现在这个阶段要么不做了，要么轻仓试试，总之不是容易的点。",
-      "url": "https://x.com/xingpt/status/2077441809572401658",
-      "tweet_id": "2077441809572401658"
+      "id": "tweet_hibtc37_2077621068286808515",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Thu, 16 Jul 2026 05:07:17 GMT",
+      "content": "海力士啥时跌到头啊，Dram亏惨，MU要到成本线了，这游戏究竟谁赢",
+      "url": "https://x.com/hibtc37/status/2077621068286808515",
+      "tweet_id": "2077621068286808515"
+    },
+    {
+      "id": "tweet_hibtc37_2077611673486229588",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Thu, 16 Jul 2026 04:29:57 GMT",
+      "content": "黑子说话！ 656第89次命中✅ 656丝毫不差😀 新街区： 661 645市价 主力的意图可能是67k，估计目标是677附近，走一步看一步吧，我会找机会空进去（如果有钱），先说明，目前我还没开单，因为只玩5w，我的资金都在做空马斯克占用了，OK可以看到我实盘，质疑我的黑粉，请你点点手指去看看 自负盈亏，转评赞走起！",
+      "url": "https://x.com/hibtc37/status/2077611673486229588",
+      "tweet_id": "2077611673486229588"
     },
     {
       "id": "tweet_hibtc37_2077579705189011462",
@@ -211,24 +229,6 @@
       "content": "你对了，我刚好有3000",
       "url": "https://x.com/hibtc37/status/2077579705189011462",
       "tweet_id": "2077579705189011462"
-    },
-    {
-      "id": "tweet_hibtc37_2077538221412782505",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Wed, 15 Jul 2026 23:38:05 GMT",
-      "content": "意义就是我的收益在OK交易员里，现在依然能排进前7名 争论没有意义，用仓位表达观点，而且我一直是实盘，字节股神和白毛股神，你们没有见过他们任何一个仓位，全靠吹，一个赌末日期权，一个赌微盘毛票 对应币圈，一个赌末日二元期权，一个冲土狗，这种竟然受到追捧，这很好解释市场80%人亏钱的现象，共同点都是都非常急于拿到结果 而且帖子里哪里有下区间呢？再说，市场95%是震荡，为什么不做震荡呢？5%上涨下跌你就能抓住吗？",
-      "url": "https://x.com/hibtc37/status/2077538221412782505",
-      "tweet_id": "2077538221412782505"
-    },
-    {
-      "id": "tweet_hibtc37_2077412732257906902",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Wed, 15 Jul 2026 15:19:26 GMT",
-      "content": "财报好，半导体也大跌……这波谁看得懂，来说说",
-      "url": "https://x.com/hibtc37/status/2077412732257906902",
-      "tweet_id": "2077412732257906902"
     }
   ],
   "stats": {
