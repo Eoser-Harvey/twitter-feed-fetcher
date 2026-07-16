@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-16T00:02:34.597551+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-16T03:30:33.698744+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2077528321819320571",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 15 Jul 2026 22:58:45 GMT",
+      "content": "RT by @elonmusk: Usage limits are reset and Grok Build is open-source",
+      "url": "https://x.com/elonmusk/status/2077528321819320571",
+      "tweet_id": "2077528321819320571",
+      "translated": "RT by @elonmusk：重置使用限制，Grok Build 开源"
+    },
+    {
+      "id": "tweet_elonmusk_2077512540431466565",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 15 Jul 2026 21:56:02 GMT",
+      "content": "RT by @elonmusk: I've inspected the open-sourced Grok Build so you don't have to. Here's exactly what data it sends (and what stays local): Core (unavoidable)→ Your prompts/conversations + tool calls go to xAI's inference API. That's the whole point of the CLI. Everything else is off by default — no Mixpanel, no Sentry, no product telemetry unless you explicitly turn it on. Even the auto-update check is a simple version GET you can disable in config. Purely local stuff (crash reports, debug logs, secret redaction, auth) never touches the network. All telemetry paths also scrub secrets before anything is sent. Full details 👇",
+      "url": "https://x.com/elonmusk/status/2077512540431466565",
+      "tweet_id": "2077512540431466565",
+      "translated": "RT @elonmusk：我已经检查了开源的 Grok Build，所以你不必这样做。以下是它发送的数据（以及保留在本地的数据）：核心（不可避免）→ 您的提示/对话 + 工具调用将转到 xAI 的推理 API。这就是 CLI 的全部意义。其他一切默认情况下都是关闭的 - 没有 Mixpanel、没有 Sentry、没有产品遥测，除非您明确将其打开。即使自动更新检查也是一个简单的 GET 版本，您可以在配置中禁用。纯粹的本地内容（崩溃报告、调试日志、秘密编辑、身份验证）永远不会接触网络。所有遥测路径也会在发送任何内容之前清除秘密。完整详情👇"
+    },
+    {
+      "id": "tweet_elonmusk_2077495635687723408",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 15 Jul 2026 20:48:52 GMT",
+      "content": "Grok Build is now open source",
+      "url": "https://x.com/elonmusk/status/2077495635687723408",
+      "tweet_id": "2077495635687723408",
+      "translated": "Grok Build 现已开源"
+    },
     {
       "id": "tweet_cz_binance_2077302207683195161",
       "username": "cz_binance",
@@ -147,6 +177,24 @@
       "tweet_id": "2077123703226413448"
     },
     {
+      "id": "tweet_xingpt_2077591516714066197",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Thu, 16 Jul 2026 03:09:52 GMT",
+      "content": "妈的这次签号分配少了，大部分A股沪市的持仓都是ETF，不给算配额。下次还是支持国家买股票，准备打新长江！",
+      "url": "https://x.com/xingpt/status/2077591516714066197",
+      "tweet_id": "2077591516714066197"
+    },
+    {
+      "id": "tweet_xingpt_2077587110559940810",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Thu, 16 Jul 2026 02:52:21 GMT",
+      "content": "神奇啊，我投过的两个公司合并了。",
+      "url": "https://x.com/xingpt/status/2077587110559940810",
+      "tweet_id": "2077587110559940810"
+    },
+    {
       "id": "tweet_xingpt_2077441809572401658",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -156,23 +204,13 @@
       "tweet_id": "2077441809572401658"
     },
     {
-      "id": "tweet_xingpt_2077433751362310553",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 15 Jul 2026 16:42:57 GMT",
-      "content": "Image",
-      "url": "https://x.com/xingpt/status/2077433751362310553",
-      "tweet_id": "2077433751362310553",
-      "translated": "图像"
-    },
-    {
-      "id": "tweet_xingpt_2077409295462010925",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 15 Jul 2026 15:05:47 GMT",
-      "content": "果然跟币圈家人反着来一点错没有：6 月初币圈开始疯狂炒股，股票见顶，币圈见底。 现在币圈开始反弹了，家人们回归原生家庭吗",
-      "url": "https://x.com/xingpt/status/2077409295462010925",
-      "tweet_id": "2077409295462010925"
+      "id": "tweet_hibtc37_2077579705189011462",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Thu, 16 Jul 2026 02:22:55 GMT",
+      "content": "你对了，我刚好有3000",
+      "url": "https://x.com/hibtc37/status/2077579705189011462",
+      "tweet_id": "2077579705189011462"
     },
     {
       "id": "tweet_hibtc37_2077538221412782505",
@@ -191,20 +229,11 @@
       "content": "财报好，半导体也大跌……这波谁看得懂，来说说",
       "url": "https://x.com/hibtc37/status/2077412732257906902",
       "tweet_id": "2077412732257906902"
-    },
-    {
-      "id": "tweet_hibtc37_2077403153524568518",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Wed, 15 Jul 2026 14:41:22 GMT",
-      "content": "存储又跌麻",
-      "url": "https://x.com/hibtc37/status/2077403153524568518",
-      "tweet_id": "2077403153524568518"
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
-    "nitter_healthy": 9
+    "users_success": 8,
+    "users_failed": 0,
+    "nitter_healthy": 10
   }
 }
