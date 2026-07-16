@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-07-16T15:42:39.392297+00:00",
+  "fetched_at": "2026-07-16T17:20:22.004880+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2077779871649181921",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 16 Jul 2026 15:38:19 GMT",
+      "content": "RT by @elonmusk: It’s been very fast, and a pleasure to use. Nice work!",
+      "url": "https://x.com/elonmusk/status/2077779871649181921",
+      "tweet_id": "2077779871649181921",
+      "translated": "RT by @elonmusk：速度非常快，使用起来很愉快。干得好！"
+    },
+    {
+      "id": "tweet_elonmusk_2077767492487774635",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 16 Jul 2026 14:49:07 GMT",
+      "content": "RT by @elonmusk: Stacking Starship for Flight 13",
+      "url": "https://x.com/elonmusk/status/2077767492487774635",
+      "tweet_id": "2077767492487774635",
+      "translated": "RT @elonmusk：为 13 号航班堆叠星舰"
+    },
     {
       "id": "tweet_elonmusk_2077675807959364062",
       "username": "elonmusk",
@@ -13,24 +33,14 @@
       "translated": "RT @elonmusk：星舰 13 号航班今天正在飞行，它将再次创造历史 回顾：当一名 SpaceX 员工遇到埃隆·马斯克时，给了他一个拥抱，并对星舰航班非常乐观"
     },
     {
-      "id": "tweet_elonmusk_2077662880972054731",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 16 Jul 2026 07:53:26 GMT",
-      "content": "RT by @elonmusk: I swear, Grok Build adds about 60 points to my IQ which means I can experience what it's like to have an IQ in the top half of all humans while I'm using it.",
-      "url": "https://x.com/elonmusk/status/2077662880972054731",
-      "tweet_id": "2077662880972054731",
-      "translated": "RT by @elonmusk：我发誓，Grok Build 给我的智商增加了大约 60 点，这意味着我在使用它时可以体验到智商处于全人类前一半的感觉。"
-    },
-    {
-      "id": "tweet_elonmusk_2077556147595419927",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 16 Jul 2026 00:49:19 GMT",
-      "content": "RT by @elonmusk: Render mermaid charts in your CLI",
-      "url": "https://x.com/elonmusk/status/2077556147595419927",
-      "tweet_id": "2077556147595419927",
-      "translated": "RT by @elonmusk：在 CLI 中渲染美人鱼图表"
+      "id": "tweet_cz_binance_2077741288263180688",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 16 Jul 2026 13:05:00 GMT",
+      "content": "RT by @cz_binance: Today’s pod is with @cz_binance founder and former CEO of @binance to discuss: - What Binance got right during its launch and how it climbed to the top (and stayed there) - Why CZ was surprised by stablecoin’s sticking power - Where AI is going next both in and outside of crypto TIMESTAMPS: 00:00 - AI, Crypto, and the Future of Payments 00:33 - Building Binance in 2017 and Moving Faster 03:44 - How Binance Reached the Top 05:48 - Building a Community-Driven Platform 08:27 - Creating Products People Return To 10:31 - Crypto as Foundational Technology 11:33 - Where AI and Crypto Intersect 14:26 - Using AI as a Productivity Tool 18:37 - The Next Opportunities in Crypto 21:21 - Building at the Intersection of Skills and Value 21:53 - The Future of Traditional and On-Chain Finance Watch below or on X:",
+      "url": "https://x.com/cz_binance/status/2077741288263180688",
+      "tweet_id": "2077741288263180688",
+      "translated": "RT by @cz_binance：今天的播客与 @cz_binance 创始人兼 @binance 前首席执行官讨论： - 币安在推出过程中做对了什么以及它如何攀登顶峰（并保持在那里） - 为什么 CZ 对稳定币的粘性力量感到惊讶 - 人工智能在加密货币内外的下一步发展方向 TIMESTAMPS: 00:00 - 人工智能、加密货币和支付的未来 00:33 - 构建币安2017 年，步伐更快 03:44 - 币安如何登顶 05:48 - 构建社区驱动的平台 08:27 - 创造人们回味的产品 10:31 - 加密货币作为基础技术 11:33 - 人工智能和加密货币的交叉点 14:26 - 使用人工智能作为生产力工具 18:37 - 加密货币的下一个机遇 21:21 - 在加密货币的交叉点进行构建技能和价值 21:53 - 传统金融和链上金融的未来 观看下方或 X 上的内容："
     },
     {
       "id": "tweet_cz_binance_2077680728276398186",
@@ -50,16 +60,6 @@
       "content": "香港商务印书馆排行榜第一😆",
       "url": "https://x.com/cz_binance/status/2077695009474629861",
       "tweet_id": "2077695009474629861"
-    },
-    {
-      "id": "tweet_cz_binance_2077659139854004689",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 16 Jul 2026 07:38:34 GMT",
-      "content": "AI is great, but it does not protect you against inflation. Bitcoin does.",
-      "url": "https://x.com/cz_binance/status/2077659139854004689",
-      "tweet_id": "2077659139854004689",
-      "translated": "人工智能很棒，但它并不能保护你免受通货膨胀的影响。比特币确实如此。"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -92,6 +92,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2077784594959725056",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 16 Jul 2026 15:57:05 GMT",
+      "content": "My guess is we’re close to market bottom on semis from $INTC to $LITE. A good indicator is if everyone on $RDDT blew up their portfolios to $0.",
+      "url": "https://x.com/aleabitoreddit/status/2077784594959725056",
+      "tweet_id": "2077784594959725056",
+      "translated": "我的猜测是，我们已经接近从 $INTC 到 $LITE 的半决赛市场底部。一个好的指标是 $RDDT 上的每个人都将其投资组合炸至 0 美元。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2077768896061563339",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,16 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2077753660592033828",
       "tweet_id": "2077753660592033828",
       "translated": "今天，$MU 宣布与 $QCOM 签署了内存长期协议。有趣的反应是美光科技随后下跌 5.37%。签署所有这些结构协议后，你不觉得记忆或人工智能名称有什么单独的错误吗？更像是去杠杆化/保证金级联的尾部。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2077741631135191234",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 16 Jul 2026 13:06:22 GMT",
-      "content": "I hope there's someone at X can fix this subscription bug. Many people are reporting that subscriptions don't renew anymore.",
-      "url": "https://x.com/aleabitoreddit/status/2077741631135191234",
-      "tweet_id": "2077741631135191234",
-      "translated": "我希望 X 的有人可以修复这个订阅错误。许多人报告说订阅不再续订。"
     },
     {
       "id": "tweet_qinbafrank_2077774496225018167",
@@ -149,6 +149,15 @@
       "tweet_id": "2077671483900678240"
     },
     {
+      "id": "tweet_xiaomustock_2077783854694469787",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Thu, 16 Jul 2026 15:54:08 GMT",
+      "content": "冉莹颖跟这个品牌方不仅单呐，十指相扣，拳王皱市明钱不仅被这娘们败光了， 头顶说不定都是绿的，这眼神都拉丝了。",
+      "url": "https://x.com/xiaomustock/status/2077783854694469787",
+      "tweet_id": "2077783854694469787"
+    },
+    {
       "id": "tweet_xiaomustock_2077653260094284052",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -165,15 +174,6 @@
       "content": "刚睡醒，又后悔没把剩下的60%也78卖掉，韩国人是真疯呐。",
       "url": "https://x.com/xiaomustock/status/2077605283707462081",
       "tweet_id": "2077605283707462081"
-    },
-    {
-      "id": "tweet_xiaomustock_2077430770302685530",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Wed, 15 Jul 2026 16:31:07 GMT",
-      "content": "海力士已经跌的不是大力士也不是海公公了，只能叫它海狗",
-      "url": "https://x.com/xiaomustock/status/2077430770302685530",
-      "tweet_id": "2077430770302685530"
     },
     {
       "id": "tweet_xingpt_2077714640566718895",
