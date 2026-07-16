@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-16T11:42:48.620243+00:00",
+  "fetched_at": "2026-07-16T13:57:17.758326+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2077629400569278597",
+      "id": "tweet_elonmusk_2077675807959364062",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 16 Jul 2026 05:40:24 GMT",
-      "content": "Arguing with NPCs is pointless",
-      "url": "https://x.com/elonmusk/status/2077629400569278597",
-      "tweet_id": "2077629400569278597",
-      "translated": "和NPC争论是没有意义的"
+      "published_at": "Thu, 16 Jul 2026 08:44:48 GMT",
+      "content": "RT by @elonmusk: Starship Flight 13 is flying today, and once again it’s going to make history Throwback: Amazing moment when a SpaceX employee met Elon Musk, gave him a hug, and was very optimistic about the Starship Flight “We will make it,” the employee said to Elon",
+      "url": "https://x.com/elonmusk/status/2077675807959364062",
+      "tweet_id": "2077675807959364062",
+      "translated": "RT @elonmusk：星舰 13 号航班今天正在飞行，它将再次创造历史 回顾：当一名 SpaceX 员工遇到埃隆·马斯克时，给了他一个拥抱，并对星舰航班非常乐观"
     },
     {
-      "id": "tweet_elonmusk_2077626867297681867",
+      "id": "tweet_elonmusk_2077662880972054731",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 16 Jul 2026 05:30:20 GMT",
-      "content": "Pinned: Image",
-      "url": "https://x.com/elonmusk/status/2077626867297681867",
-      "tweet_id": "2077626867297681867",
-      "translated": "固定：图片"
+      "published_at": "Thu, 16 Jul 2026 07:53:26 GMT",
+      "content": "RT by @elonmusk: I swear, Grok Build adds about 60 points to my IQ which means I can experience what it's like to have an IQ in the top half of all humans while I'm using it.",
+      "url": "https://x.com/elonmusk/status/2077662880972054731",
+      "tweet_id": "2077662880972054731",
+      "translated": "RT by @elonmusk：我发誓，Grok Build 给我的智商增加了大约 60 点，这意味着我在使用它时可以体验到智商处于全人类前一半的感觉。"
     },
     {
-      "id": "tweet_elonmusk_2077445418884202757",
+      "id": "tweet_elonmusk_2077556147595419927",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 15 Jul 2026 17:29:19 GMT",
-      "content": "RT by @elonmusk: I know I'm late but yeah ok Grok 4.5 is actually really good. It's super fast, direct path to solutions, and quite capable.",
-      "url": "https://x.com/elonmusk/status/2077445418884202757",
-      "tweet_id": "2077445418884202757",
-      "translated": "RT by @elonmusk：我知道我迟到了，但是好吧，Grok 4.5 实际上非常好。它是超级快速、直接的解决方案，而且功能非常强大。"
+      "published_at": "Thu, 16 Jul 2026 00:49:19 GMT",
+      "content": "RT by @elonmusk: Render mermaid charts in your CLI",
+      "url": "https://x.com/elonmusk/status/2077556147595419927",
+      "tweet_id": "2077556147595419927",
+      "translated": "RT by @elonmusk：在 CLI 中渲染美人鱼图表"
     },
     {
       "id": "tweet_cz_binance_2077680728276398186",
@@ -92,6 +92,26 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2077753660592033828",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 16 Jul 2026 13:54:10 GMT",
+      "content": "Today, $MU announced it signed memory LTAs with $QCOM. Interesting reaction to see Micron proceeded to drop 5.37% right after. Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed? More like the tail end of deleveraging / margin cascades.",
+      "url": "https://x.com/aleabitoreddit/status/2077753660592033828",
+      "tweet_id": "2077753660592033828",
+      "translated": "今天，$MU 宣布与 $QCOM 签署了内存长期协议。有趣的反应是美光科技随后下跌 5.37%。签署所有这些结构协议后，你不觉得记忆或人工智能名称有什么单独的错误吗？更像是去杠杆化/保证金级联的尾部。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2077741631135191234",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 16 Jul 2026 13:06:22 GMT",
+      "content": "I hope there's someone at X can fix this subscription bug. Many people are reporting that subscriptions don't renew anymore.",
+      "url": "https://x.com/aleabitoreddit/status/2077741631135191234",
+      "tweet_id": "2077741631135191234",
+      "translated": "我希望 X 的有人可以修复这个订阅错误。许多人报告说订阅不再续订。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2077437150715666900",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -102,24 +122,13 @@
       "translated": "据彭博社报道，Anthropic 最早将于 10 月进行 IPO。继去年 5 月以 9650 亿美元的估值融资 65B 美元之后。嗯，你们都会以 1T+ 的估值投资 Anthropic 吗？"
     },
     {
-      "id": "tweet_aleabitoreddit_2077421268991926703",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 15 Jul 2026 15:53:21 GMT",
-      "content": "$AAPL looks to acquire AI chip companies for running AI (Source: The Information) Right now, $MSFT, $META, Amazon, Google are carrying AI capex spend. But what if Apple joined the others after M&A? A possible scenario is that they revise capex largely upward for their own AI buildout. Since they probably witnessed Google cutting off Meta from compute constraints... or what happens when you partner with OpenAI for LLMs. Then learned how important it is to have your own infrastructure. This scenario would be quite bullish thematically from optical networking to foundries and something markets would not expect? We'll see what happens.",
-      "url": "https://x.com/aleabitoreddit/status/2077421268991926703",
-      "tweet_id": "2077421268991926703",
-      "translated": "$AAPL 寻求收购人工智能芯片公司来运行人工智能（来源：The Information） 目前，$MSFT、$META、亚马逊、谷歌正在承担人工智能资本支出。但如果苹果在并购后加入其他公司呢？一种可能的情况是，他们为了自己的人工智能建设而大幅上调资本支出。因为他们可能见证了 Google 切断了 Meta 的计算限制……或者当你与 OpenAI 合作获得法学硕士时会发生什么。然后了解到拥有自己的基础设施是多么重要。从光网络到代工厂，这种情况将是非常乐观的主题，而市场不会预料到这一点？我们会看看会发生什么。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2077406548012466390",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 15 Jul 2026 14:54:52 GMT",
-      "content": "$NVDA CEO, Jensen Huang in Tokyo today said: \"The reports are not true. Vera Rubin is already in production. Giant amounts of production incoming\" As a flat denial to the accusation that their AI servers would be delayed. Jensen appears to be using the Umbrella term for Rubin Ultra/Kyber, then pointed to current gen ramp. Regardless, lot of damage has been done already to Nvidia supply chains stock prices, after the multiple delay reports. Even if Nvidia refuted them by clarifying Kyber change was an architecture optimization, not impacting timelines. It's a very dangerous and growing trend for folks to post overreaching broader claims from technical nuances to grow viewcount... Especially if they get Jensen has to respond. In the end, I'm trusting $NVDA on timelines since they probably have the greatest visibility into their own supply chain.",
-      "url": "https://x.com/aleabitoreddit/status/2077406548012466390",
-      "tweet_id": "2077406548012466390",
-      "translated": "$NVDA 首席执行官黄仁勋 (Jensen Huang) 今天在东京表示：“这些报道并不属实。Vera Rubin 已经投入生产。大量生产即将到来。”这是对他们的人工智能服务器将被延迟的指控的断然否认。 Jensen 似乎使用了 Rubin Ultra/Kyber 的保护伞术语，然后指出了当前的发电量。无论如何，在多次延迟报告之后，英伟达供应链的股价已经受到了很大的损害。即使 Nvidia 澄清 Kyber 的变化是一种架构优化，而不是影响时间表来反驳他们。对于人们来说，通过技术细微差别发布过分广泛的主张来增加观看次数是一种非常危险且日益增长的趋势……特别是如果他们得到詹森必须回应的话。最后，我相信 $NVDA 的时间表，因为他们可能对自己的供应链有最大的了解。"
+      "id": "tweet_qinbafrank_2077739165039697997",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Thu, 16 Jul 2026 12:56:34 GMT",
+      "content": "说一个冷知识，最近大家对市场体感非常之差，但纳指跌幅竟然还没有6月初次去杠杆的跌幅大，当时纳指是6个交易日跌了接近9个点。下图面纳指100期货走势图，要是看纳指现货走势图形还挺好看。6月中还在space里聊到下半年还会出现类似6月初那样的去杠杆行情。",
+      "url": "https://x.com/qinbafrank/status/2077739165039697997",
+      "tweet_id": "2077739165039697997"
     },
     {
       "id": "tweet_qinbafrank_2077671483900678240",
@@ -138,15 +147,6 @@
       "content": "腾讯也是不负众望，混元大模型Hy3总调用量较上一代模型(Hy2)增长已超68倍。发布一周后，Hy3在OpenRouter全球大模型调用量总榜排名第一。",
       "url": "https://x.com/qinbafrank/status/2077612585357365487",
       "tweet_id": "2077612585357365487"
-    },
-    {
-      "id": "tweet_qinbafrank_2077406163398959406",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 15 Jul 2026 14:53:20 GMT",
-      "content": "大云厂商的表现给了我今晚一丝慰藉，这算是超大CSP的价值重估时刻么？一周前开始聊https://x.com/qinbafrank/status/2074754779755295164?s=46&t=k6rimWsEbo2D2tXolYcM-A大云厂商的价值重估，昨天也深化成了下面的长文。",
-      "url": "https://x.com/qinbafrank/status/2077406163398959406",
-      "tweet_id": "2077406163398959406"
     },
     {
       "id": "tweet_xiaomustock_2077653260094284052",
@@ -203,6 +203,15 @@
       "tweet_id": "2077594716628226515"
     },
     {
+      "id": "tweet_hibtc37_2077732121054175398",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Thu, 16 Jul 2026 12:28:34 GMT",
+      "content": "存储到我成本线了，先投降再说",
+      "url": "https://x.com/hibtc37/status/2077732121054175398",
+      "tweet_id": "2077732121054175398"
+    },
+    {
       "id": "tweet_hibtc37_2077704706152136792",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -219,20 +228,11 @@
       "content": "37度七粉群 开放专用贴 免费电报群，本周开放88个名额，申请加群，请留下评论报名 服务能力有限，为了保持群风，只能每周分批开放，请理解 最好说一下申请理由，怎么对我达成200k粉丝目标有帮助，评论优秀者，可以直接拉进群 加群规则：88个名额，由评论里报名的粉丝选出，不区分新老粉，但老铁粉依然是优先，我会用Grok来评分，评分最高88位，可免费进群 评分规则：请@grok 三天后统计在本条内容下方的留言者的分数，分数由高到低选出前100位，列出来他们的ID和分数，请在5天后再给出结果，分数统计逻辑是留言者对 @hibtc37 在过去两周的互动分数，每位留言者的互动分数由以下4项求和： 1、转发，3分 2、评论，2分 3、点赞，1分 4、收藏，3分 说明：如果名单里有垃圾广告和黄诈号，志愿者会手工剔除。名单出来后，会告诉大家怎么进群。如有不周之处，请理解，祝你工作和生活愉快，谢谢支持🙏",
       "url": "https://x.com/hibtc37/status/2077697281911136554",
       "tweet_id": "2077697281911136554"
-    },
-    {
-      "id": "tweet_hibtc37_2077667908218687702",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Thu, 16 Jul 2026 08:13:25 GMT",
-      "content": "EWY169.5跑了，昨天，6倍空马斯克还空着",
-      "url": "https://x.com/hibtc37/status/2077667908218687702",
-      "tweet_id": "2077667908218687702"
     }
   ],
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
