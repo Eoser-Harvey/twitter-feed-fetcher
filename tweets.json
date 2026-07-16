@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-16T19:15:46.647685+00:00",
+  "fetched_at": "2026-07-16T21:04:06.091749+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2077803428512969113",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 16 Jul 2026 17:11:55 GMT",
+      "content": "RT by @elonmusk: Starlink Mobile will be available in Italy with @FASTWEB. The service will keep customers connected via apps and text messaging in remote areas without signal 🛰️📱",
+      "url": "https://x.com/elonmusk/status/2077803428512969113",
+      "tweet_id": "2077803428512969113",
+      "translated": "RT @elonmusk：Starlink Mobile 将通过 @FASTWEB 在意大利推出。该服务将让客户在没有信号的偏远地区通过应用程序和短信保持联系🛰️📱"
+    },
     {
       "id": "tweet_elonmusk_2077779871649181921",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2077767492487774635",
       "tweet_id": "2077767492487774635",
       "translated": "RT @elonmusk：为 13 号航班堆叠星舰"
-    },
-    {
-      "id": "tweet_elonmusk_2077675807959364062",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 16 Jul 2026 08:44:48 GMT",
-      "content": "RT by @elonmusk: Starship Flight 13 is flying today, and once again it’s going to make history Throwback: Amazing moment when a SpaceX employee met Elon Musk, gave him a hug, and was very optimistic about the Starship Flight “We will make it,” the employee said to Elon",
-      "url": "https://x.com/elonmusk/status/2077675807959364062",
-      "tweet_id": "2077675807959364062",
-      "translated": "RT @elonmusk：星舰 13 号航班今天正在飞行，它将再次创造历史 回顾：当一名 SpaceX 员工遇到埃隆·马斯克时，给了他一个拥抱，并对星舰航班非常乐观"
     },
     {
       "id": "tweet_cz_binance_2077741288263180688",
