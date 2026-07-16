@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-16T13:57:17.758326+00:00",
+  "fetched_at": "2026-07-16T15:42:39.392297+00:00",
   "total": 24,
   "tweets": [
     {
@@ -92,6 +92,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2077768896061563339",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 16 Jul 2026 14:54:42 GMT",
+      "content": "Lot of people were curious about $SIVE capacity volume ramp modeling through fab-light (Win Semi + others): Using 10% of Win's wafer capacity as a low-end allocation (65% yield assumption, $50-$75 ASP): Sivers would support $341-$512M worth of annual array revenue. Given upper end of managements 50-60%+ gross margin target, would be roughly: $205–307M of annual gross profit. Against Sivers current ~$1.1B MC, would be ~: 3.6–5.4× MC/gross profit if this capacity scenario plays out in 2028. And at 15% would be $307–461M in gross profit (2.4–3.6× MC/gross profit) Sivers CEO also replied that they're working with more fabs for capacity. And from an older deck, there looks to be more qualifications since 2024. So capacity targets might be larger than what's stated here as CPO takes off. I also expect to see revenue pipeline projections hiked in future quarters, as more qualification suppliers to into HVM. _ As for demand side, CW also happens to be very bottlenecked. Lumentum are buying CW off the open market due to EML obligations from their ER transcript. And $AMD are signing LTAs to secure CW capacity (from Trendforce). So when Sivers is ramping with $GFS, $JBL, Ayar, $POET, O-NET and others... Given the current constraints, it's highly likely any independent qualified capacity that comes online would be absorbed. And as a cherry on top, Morgan Stanley named $SIVE (~$1.1B) as one of the three leading CPO laser players . Alongside $55B+ players Coherent and Lumentum in their recent note for a reason... _ TLDR: Sivers only needs a low end allocation from Win to make substantial gross income relative to current valuations. I think the largest revenue upside that isn't modeled in if they TAM expansion with M&A after US NASDAQ listing. By copying the Lumentum playbook with Cloud Light to build out entire transceiver modules or with optical engines.",
+      "url": "https://x.com/aleabitoreddit/status/2077768896061563339",
+      "tweet_id": "2077768896061563339",
+      "translated": "很多人对通过 fab-light（Win Semi 和其他公司）进行的 $SIVE 产能产量增长模型感到好奇：使用 Win 晶圆产能的 10% 作为低端配置（假设产量为 65%，平均售价为 50-75 美元）：Sivers 将支持价值 341-5.12 亿美元的年度阵列收入。鉴于管理层的上限为 50-60%+ 毛利率目标，年毛利润大致为：205-3.07 亿美元。相对于 Sivers 当前的 ~$1.1B MC，如果这种产能情景在 2028 年实现，则约为：3.6–5.4× MC/毛利润。如果 15%，毛利润将达到 307–4.61 亿美元（2.4–3.6× MC/毛利润）Sivers 首席执行官还回答说，他们正在与更多晶圆厂合作以提高产能。从较旧的牌组来看，自 2024 年以来似乎有更多的资格。因此，随着 CPO 的起飞，容量目标可能会比此处所述的更大。我还预计，随着更多合格供应商进入 HVM，未来几个季度的收入预测将会上调。 _ 至于需求端，CW也恰好遇到了很大的瓶颈。由于 ER 成绩单中的 EML 义务，Lumentum 正在公开市场上购买 CW。 $AMD 正在签署长期协议以确保 CW 产能（来自 Trendforce）。因此，当 Sivers 与 $GFS、$JBL、Ayar、$POET、O-NET 等合作时……考虑到当前的限制，任何上线的独立合格产能很可能都会被吸收。更锦上添花的是，摩根士丹利将 $SIVE (~$1.1B) 评为三大领先的 CPO 激光厂商之一。与 $55B+ 的玩家 Coherent 和 Lumentum 一起在最近的说明中是有原因的...... _ TLDR：Sivers 只需要 Win 的低端配置即可获得相对于当前估值的可观总收入。我认为最大的收入增长并未体现在他们在美国纳斯达克上市后通过并购进行 TAM 扩张。通过使用 Cloud Light 复制 Lumentum 剧本来构建整个收发器模块或使用光学引擎。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2077753660592033828",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -112,14 +122,13 @@
       "translated": "我希望 X 的有人可以修复这个订阅错误。许多人报告说订阅不再续订。"
     },
     {
-      "id": "tweet_aleabitoreddit_2077437150715666900",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 15 Jul 2026 16:56:28 GMT",
-      "content": "Anthropic to IPO as early as October per Bloomberg. This is following their $65B financing at a $965 billion valuation last May. Hmm, would you all invest in Anthropic at a $1T+ valuation?",
-      "url": "https://x.com/aleabitoreddit/status/2077437150715666900",
-      "tweet_id": "2077437150715666900",
-      "translated": "据彭博社报道，Anthropic 最早将于 10 月进行 IPO。继去年 5 月以 9650 亿美元的估值融资 65B 美元之后。嗯，你们都会以 1T+ 的估值投资 Anthropic 吗？"
+      "id": "tweet_qinbafrank_2077774496225018167",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Thu, 16 Jul 2026 15:16:57 GMT",
+      "content": "一周前聊到的大模型价格战是真的来了，今天几家 AI 大模型公司不约而同做了同一件事： 1）Anthropic 宣布重置所有用户的 5 小时和每周使用限制； 2）OpenAI 再次提高 Codex 和 ChatGPT Work 的使用额度。注意“再次”两个字，说明不是第一次放开限制，而是近期连续多轮上调； 3）xAI 不仅重置了 Grok 的使用限额，还开放了 Grok Build； 4）Cursor更直接，将所有订阅计划的模型使用额度翻倍。 看到这类动作，大家最关心两个问题：为什么要这么做？影响是什么？ 1、先说为什么要这么做？ 核心还是这两周一起聊到的https://x.com/qinbafrank/status/2076839550119444702?s=46&t=k6rimWsEbo2D2tXolYcM-A 企业采用AI进入分场景、多模型的工程化阶段，企业自己也需要把高频、低复杂度和低价值场景分配给高性价比token、这也倒逼了解前沿闭源大模型主动应战，价格战永远是最有效的策略。 2、再说有何影响？ 1）短期来看，大家担心是不是影响大模型的利润率。毕竟价格下降意味着单次调用收入降低，单位 Token 的商业价值下降，短期毛利率和盈利能力自然会承压。 2）但中长期，则是要看能激发出多大的幅度的需求量增长。如果需求爆发式增长、token的消耗量增长幅度大大抵消token单价的降低，最后总盘子变大了。上周在这里https://x.com/qinbafrank/status/2074061695438483754?s=46&t=k6rimWsEbo2D2tXolYcM-A也有聊过：“越多企业采用AI，成本工程化做的越好，高端模型的份额被部分蚕食，但会不会带动商业化份额绝对值应该还是在快速增长？因为盘子更大了。” 但这里最关键的就是这个短期和中长期之间的时间差有多大。降价毛利和盈利能力会立马下去，需求的爆炸是不是能立马补上来，还是需要一点时间才行？",
+      "url": "https://x.com/qinbafrank/status/2077774496225018167",
+      "tweet_id": "2077774496225018167"
     },
     {
       "id": "tweet_qinbafrank_2077739165039697997",
@@ -138,15 +147,6 @@
       "content": "美股代币化流动性碎片化的问题终于开始被解决了，看到OKX宣布要上线24支代币化美股和ETF，全球首家做“统一代币化股票市场”，能24/7交易，还把多个发行方的东西合并到一个订单簿里。代币化美股的痛点是什么？OKX 这套统一机制又解决了什么问题？ 普通意义上的代币化美股，就是把真实股票或 ETF 的价格表现做成区块链上的代币。背后 1:1 由真实股份托管，你买到的不是苹果的股票，而是代表苹果股价走势的链上凭证。交易在加密平台上走，用稳定币结算，理论上能 24小时不间断。 这不是OKX 首创，之前 Kraken、Bybit 已经通过 Backed 的 xStocks 上过类似产品。本质还是把 TradFi 的流动性切一小块，搬到链上或者 CEX 上，让 crypto 用户不用开美股账户也能参与美股行情。 但这个模式的问题也很严重：流动性太碎片。不同平台、不同发行方发同样的标的（比如 AAPL），各自一个订单簿，深度浅、价差大、公司行动（分红、拆股）规则还不一样。用户体验像在不同交易所炒同一个币，割裂感很强。 看起来OKX 这波想干的，就是把这个碎片化的问题尽量解决掉。OKX 的“统一”到底统一了什么？ 1）他们把资产统一命名：前面加个大写 X，比如 XAAPL、XTSLA、XSPY。背后还是靠 Backed 的 xStocks 背书，1:1 真实股份托管，支持 Solana 和 X Layer 网络存取。 2）更关键的创新在于订单簿统一。如果未来有其他发行方也做了同样标的的代币化版本，OKX 会把它们合并成一个资产、一个订单簿、同一套公司行动规则。流动性不再分散在多个池子里，而是集中到一个地方。 3）交易上自然也是crypto原生：全天候 24/7，用 稳定币直接交易，支持网格和 DCA 机器人，分红自动折算股数，这点对 crypto 用户特别友好， 总结来说，OKX 不是简单复制别人已经有的xStocks，而是想做一个聚合层：把可能分散的代币化供给收拢到自己平台，形成更深的流动性池，同时保留 crypto 原生的交易工具和账户体验。 之前代币化美股最被诟病就是流动性碎片和稀薄，okx这套模式这个最大的好处就是流动性集中，对整个市场来说，统一订单簿如果真能跑起来，理论上能改善价格发现效率，减少同一标的在不同平台间的套利空间。长期看，这也是 RWA 赛道从“各自为战”往“基础设施聚合”迈的一步。 当然也要明确这不是股票，没有投票权，没有股东身份，只是价格敞口，值不值得上得自己判断。 OKX 这套机制，本质上是想把 crypto 的交易体验和 TradFi 的资产做一次更深的融合。不是简单上架几个代币，而是试图在流动性层做整合。这方向如果走得通，对后面更多 RWA 上链有示范作用。",
       "url": "https://x.com/qinbafrank/status/2077671483900678240",
       "tweet_id": "2077671483900678240"
-    },
-    {
-      "id": "tweet_qinbafrank_2077612585357365487",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Thu, 16 Jul 2026 04:33:35 GMT",
-      "content": "腾讯也是不负众望，混元大模型Hy3总调用量较上一代模型(Hy2)增长已超68倍。发布一周后，Hy3在OpenRouter全球大模型调用量总榜排名第一。",
-      "url": "https://x.com/qinbafrank/status/2077612585357365487",
-      "tweet_id": "2077612585357365487"
     },
     {
       "id": "tweet_xiaomustock_2077653260094284052",
@@ -233,6 +233,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
