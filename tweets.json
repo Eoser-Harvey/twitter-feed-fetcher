@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-16T09:17:37.862491+00:00",
+  "fetched_at": "2026-07-16T11:42:48.620243+00:00",
   "total": 24,
   "tweets": [
     {
@@ -33,6 +33,25 @@
       "translated": "RT by @elonmusk：我知道我迟到了，但是好吧，Grok 4.5 实际上非常好。它是超级快速、直接的解决方案，而且功能非常强大。"
     },
     {
+      "id": "tweet_cz_binance_2077680728276398186",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 16 Jul 2026 09:04:21 GMT",
+      "content": "RT by @cz_binance: binancecoin:native is designed to fight its own inflation. constantly burning, during every transaction. if you haven’t read my last article, some context here.",
+      "url": "https://x.com/cz_binance/status/2077680728276398186",
+      "tweet_id": "2077680728276398186",
+      "translated": "RT @cz_binance：binancecoin:native 旨在对抗自身的通货膨胀。在每次交易过程中不断燃烧。如果你还没有读过我的上一篇文章，这里有一些背景信息。"
+    },
+    {
+      "id": "tweet_cz_binance_2077695009474629861",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 16 Jul 2026 10:01:06 GMT",
+      "content": "香港商务印书馆排行榜第一😆",
+      "url": "https://x.com/cz_binance/status/2077695009474629861",
+      "tweet_id": "2077695009474629861"
+    },
+    {
       "id": "tweet_cz_binance_2077659139854004689",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
@@ -41,26 +60,6 @@
       "url": "https://x.com/cz_binance/status/2077659139854004689",
       "tweet_id": "2077659139854004689",
       "translated": "人工智能很棒，但它并不能保护你免受通货膨胀的影响。比特币确实如此。"
-    },
-    {
-      "id": "tweet_cz_binance_2077526409132593185",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 15 Jul 2026 22:51:09 GMT",
-      "content": "RT by @cz_binance: Congratulations to @binance as it turns 9 🚀 🚀 9 Years ago, @cz_binance said, I want to help a little bit but helped more than the world could imagine... And yep, we all believed and did write songs and EP's about this very moment! To the moon! #BinanceTurns9 #Binance",
-      "url": "https://x.com/cz_binance/status/2077526409132593185",
-      "tweet_id": "2077526409132593185",
-      "translated": "RT by @cz_binance：恭喜@binance 迎来 9 岁生日🚀 🚀 9 年前，@cz_binance 说，我想提供一点帮助，但帮助的程度超出了世界的想象......是的，我们都相信并确实为这一刻写了歌曲和 EP！去月球！ #BinanceTurns9 #Binance"
-    },
-    {
-      "id": "tweet_cz_binance_2077302207683195161",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 15 Jul 2026 08:00:15 GMT",
-      "content": "RT by @cz_binance: Keep the receipt. The 0 Fee Carnival covers gas on USDC, USD1 and U across supported wallets, exchanges and bridges until July 31. Discover where you can save below 👇 https://www.bnbchain.org/en/blog/0-fee-transactions-for-usdc-usd1-u-extended-until-july-31",
-      "url": "https://x.com/cz_binance/status/2077302207683195161",
-      "tweet_id": "2077302207683195161",
-      "translated": "RT @cz_binance：保留收据。 0 费用嘉年华涵盖了 USDC、USD1 和 U 的 Gas，适用于受支持的钱包、交易所和桥接器，直至 7 月 31 日。在下面了解您可以在哪里节省👇 https://www.bnbchain.org/en/blog/0-fee-transactions-for-usdc-usd1-u-extended-until-july-31"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -177,6 +176,24 @@
       "tweet_id": "2077430770302685530"
     },
     {
+      "id": "tweet_xingpt_2077714640566718895",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Thu, 16 Jul 2026 11:19:07 GMT",
+      "content": "搞了个长鑫股价链上的计算器，随时可以换算从哪里买最划算。",
+      "url": "https://x.com/xingpt/status/2077714640566718895",
+      "tweet_id": "2077714640566718895"
+    },
+    {
+      "id": "tweet_xingpt_2077707703791829131",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Thu, 16 Jul 2026 10:51:33 GMT",
+      "content": "一切都有迹可循：当美光财报出现高达 85% 的净利率的时候，所有下游企业都开始愤怒，英伟达开始削减机柜的存储比例，苹果开始转嫁成本到消费者，半导体产业几乎就在逼着存储厂商调价，降低价格上浮的节奏，让利给上下游。 那么股价只有向下调整这一种解法了。 当然现在来说这些似乎有点晚，但当下一次出现某个产业链公司净利率极高的时候，往往是股价见顶的象征",
+      "url": "https://x.com/xingpt/status/2077707703791829131",
+      "tweet_id": "2077707703791829131"
+    },
+    {
       "id": "tweet_xingpt_2077594716628226515",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -186,22 +203,22 @@
       "tweet_id": "2077594716628226515"
     },
     {
-      "id": "tweet_xingpt_2077591516714066197",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 16 Jul 2026 03:09:52 GMT",
-      "content": "妈的这次签号分配少了，大部分A股沪市的持仓都是ETF，不给算配额。下次还是支持国家买股票，准备打新长江！",
-      "url": "https://x.com/xingpt/status/2077591516714066197",
-      "tweet_id": "2077591516714066197"
+      "id": "tweet_hibtc37_2077704706152136792",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Thu, 16 Jul 2026 10:39:38 GMT",
+      "content": "沃什真是我克星🥹",
+      "url": "https://x.com/hibtc37/status/2077704706152136792",
+      "tweet_id": "2077704706152136792"
     },
     {
-      "id": "tweet_xingpt_2077587110559940810",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 16 Jul 2026 02:52:21 GMT",
-      "content": "神奇啊，我投过的两个公司合并了。",
-      "url": "https://x.com/xingpt/status/2077587110559940810",
-      "tweet_id": "2077587110559940810"
+      "id": "tweet_hibtc37_2077697281911136554",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Thu, 16 Jul 2026 10:10:08 GMT",
+      "content": "37度七粉群 开放专用贴 免费电报群，本周开放88个名额，申请加群，请留下评论报名 服务能力有限，为了保持群风，只能每周分批开放，请理解 最好说一下申请理由，怎么对我达成200k粉丝目标有帮助，评论优秀者，可以直接拉进群 加群规则：88个名额，由评论里报名的粉丝选出，不区分新老粉，但老铁粉依然是优先，我会用Grok来评分，评分最高88位，可免费进群 评分规则：请@grok 三天后统计在本条内容下方的留言者的分数，分数由高到低选出前100位，列出来他们的ID和分数，请在5天后再给出结果，分数统计逻辑是留言者对 @hibtc37 在过去两周的互动分数，每位留言者的互动分数由以下4项求和： 1、转发，3分 2、评论，2分 3、点赞，1分 4、收藏，3分 说明：如果名单里有垃圾广告和黄诈号，志愿者会手工剔除。名单出来后，会告诉大家怎么进群。如有不周之处，请理解，祝你工作和生活愉快，谢谢支持🙏",
+      "url": "https://x.com/hibtc37/status/2077697281911136554",
+      "tweet_id": "2077697281911136554"
     },
     {
       "id": "tweet_hibtc37_2077667908218687702",
@@ -211,24 +228,6 @@
       "content": "EWY169.5跑了，昨天，6倍空马斯克还空着",
       "url": "https://x.com/hibtc37/status/2077667908218687702",
       "tweet_id": "2077667908218687702"
-    },
-    {
-      "id": "tweet_hibtc37_2077667384614363498",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Thu, 16 Jul 2026 08:11:20 GMT",
-      "content": "昨天，CBRS188跑了，财报爆好，半导体股价暴跌，看不懂了，心里好方，换仓什么，有推荐吗",
-      "url": "https://x.com/hibtc37/status/2077667384614363498",
-      "tweet_id": "2077667384614363498"
-    },
-    {
-      "id": "tweet_hibtc37_2077621068286808515",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Thu, 16 Jul 2026 05:07:17 GMT",
-      "content": "海力士啥时跌到头啊，Dram亏惨，MU要到成本线了，这游戏究竟谁赢",
-      "url": "https://x.com/hibtc37/status/2077621068286808515",
-      "tweet_id": "2077621068286808515"
     }
   ],
   "stats": {
