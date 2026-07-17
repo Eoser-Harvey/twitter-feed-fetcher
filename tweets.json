@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-17T13:43:55.255670+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-17T15:16:52.281408+00:00",
+  "total": 21,
   "tweets": [
     {
       "id": "tweet_elonmusk_2078086509052227916",
@@ -62,34 +62,14 @@
       "tweet_id": "2077695009474629861"
     },
     {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432",
-      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2068370500334637542",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
-      "content": "RT by @realDonaldTrump: POLL…",
-      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
-      "tweet_id": "2068370500334637542",
-      "translated": "RT @realDonaldTrump：投票……"
+      "id": "tweet_aleabitoreddit_2078130772121399553",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 17 Jul 2026 14:52:40 GMT",
+      "content": "Agreed! It’s nice to remember your thesis during a market crash. From my own personal thesis, if $AAOI hits $1.4B quarterly revenue start of Q3 2027. Which is annualized $5.6B off a $8B MC. Is it “over” for the company if that revenue ramp hasn’t even shown up in the quarterly earnings… when it’s 2026? Same applies to my CPO sector exposure like $SIVE, an architecture shift led by $NVDA. If scale out volume ramps from H2 2026 into 2027, and scale up heavily volume ramps into 2028. Is it “over” that $0 -> $91B TAM expansion (per GS) hasn’t even hit yet? With robotics like Agility, is it over in 2026 if the listing hasn’t even happened yet and humanoids haven’t ramped? I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals. It’s brutal for everyone to see KOSPI, TW, Nikkei, and AI, space, robotics sector stocks crash recently. Especially when there’s a lot of irrational behavior stemming from those leverage. In the end, we can’t tell you what stocks to buy, what timeframe you should sell, how to size your positions, or what you should do. Only share personal thoughts or research and track if they get validated over time. So it’s extremely important to build your own thesis, since everyone has unique risk tolerance or investing timeframes. And that usually leads to having higher conviction during crashes.",
+      "url": "https://x.com/aleabitoreddit/status/2078130772121399553",
+      "tweet_id": "2078130772121399553",
+      "translated": "同意！在市场崩溃期间记住你的论文真是太好了。根据我自己的个人论文，如果 $AAOI 从 2027 年第三季度开始达到 $1.4B 季度收入。按年计算，$8B MC 收益为 $5.6B。如果到了 2026 年，收入增长甚至没有体现在季度收益中，那么公司就“结束”了吗？这同样适用于我对 CPO 行业的投资，例如 $SIVE，这是由 $NVDA 领导的架构转变。如果从 2026 年下半年横向扩展到 2027 年，并在 2028 年大幅扩展容量。$0 -> $91B TAM 扩展（每 GS）还没有达到“结束”吗？像 Agility 这样的机器人，如果还没有上市，人形机器人还没有普及，那么 2026 年就结束了吗？我个人认为当前的市场状况是流动性和杠杆的反映，而不是个人基本面的反映。最近，KOSPI、TW、日经指数以及人工智能、太空、机器人板块的股票暴跌，对每个人来说都是残酷的。尤其是当这些杠杆作用产生了很多非理性行为时。最后，我们无法告诉您应该购买哪些股票，应该在什么时间范围内出售，如何调整您的头寸规模，或者您应该做什么。仅分享个人想法或研究，并跟踪它们是否随着时间的推移得到验证。因此，建立自己的论文非常重要，因为每个人都有独特的风险承受能力或投资时间表。这通常会导致人们在发生车祸时有更高的信念。"
     },
     {
       "id": "tweet_aleabitoreddit_2077955479742173422",
@@ -110,16 +90,6 @@
       "url": "https://x.com/aleabitoreddit/status/2077784594959725056",
       "tweet_id": "2077784594959725056",
       "translated": "我的猜测是，我们已经接近从 $INTC 到 $LITE 的半决赛市场底部。一个好的指标是 $RDDT 上的每个人都将其投资组合炸至 0 美元。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2077768896061563339",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 16 Jul 2026 14:54:42 GMT",
-      "content": "Lot of people were curious about $SIVE capacity volume ramp modeling through fab-light (Win Semi + others): Using 10% of Win's wafer capacity as a low-end allocation (65% yield assumption, $50-$75 ASP): Sivers would support $341-$512M worth of annual array revenue. Given upper end of managements 50-60%+ gross margin target, would be roughly: $205–307M of annual gross profit. Against Sivers current ~$1.1B MC, would be ~: 3.6–5.4× MC/gross profit if this capacity scenario plays out in 2028. And at 15% would be $307–461M in gross profit (2.4–3.6× MC/gross profit) Sivers CEO also replied that they're working with more fabs for capacity. And from an older deck, there looks to be more qualifications since 2024. So capacity targets might be larger than what's stated here as CPO takes off. I also expect to see revenue pipeline projections hiked in future quarters, as more qualification suppliers to into HVM. _ As for demand side, CW also happens to be very bottlenecked. Lumentum are buying CW off the open market due to EML obligations from their ER transcript. And $AMD are signing LTAs to secure CW capacity (from Trendforce). So when Sivers is ramping with $GFS, $JBL, Ayar, $POET, O-NET and others... Given the current constraints, it's highly likely any independent qualified capacity that comes online would be absorbed. And as a cherry on top, Morgan Stanley named $SIVE (~$1.1B) as one of the three leading CPO laser players . Alongside $55B+ players Coherent and Lumentum in their recent note for a reason... _ TLDR: Sivers only needs a low end allocation from Win to make substantial gross income relative to current valuations. I think the largest revenue upside that isn't modeled in if they TAM expansion with M&A after US NASDAQ listing. By copying the Lumentum playbook with Cloud Light to build out entire transceiver modules or with optical engines.",
-      "url": "https://x.com/aleabitoreddit/status/2077768896061563339",
-      "tweet_id": "2077768896061563339",
-      "translated": "很多人对通过 fab-light（Win Semi 和其他公司）进行的 $SIVE 产能产量增长模型感到好奇：使用 Win 晶圆产能的 10% 作为低端配置（假设产量为 65%，平均售价为 50-75 美元）：Sivers 将支持价值 341-5.12 亿美元的年度阵列收入。鉴于管理层的上限为 50-60%+ 毛利率目标，年毛利润大致为：205-3.07 亿美元。相对于 Sivers 当前的 ~$1.1B MC，如果这种产能情景在 2028 年实现，则约为：3.6–5.4× MC/毛利润。如果 15%，毛利润将达到 307–4.61 亿美元（2.4–3.6× MC/毛利润）Sivers 首席执行官还回答说，他们正在与更多晶圆厂合作以提高产能。从较旧的牌组来看，自 2024 年以来似乎有更多的资格。因此，随着 CPO 的起飞，容量目标可能会比此处所述的更大。我还预计，随着更多合格供应商进入 HVM，未来几个季度的收入预测将会上调。 _ 至于需求端，CW也恰好遇到了很大的瓶颈。由于 ER 成绩单中的 EML 义务，Lumentum 正在公开市场上购买 CW。 $AMD 正在签署长期协议以确保 CW 产能（来自 Trendforce）。因此，当 Sivers 与 $GFS、$JBL、Ayar、$POET、O-NET 等合作时……考虑到当前的限制，任何上线的独立合格产能很可能都会被吸收。更锦上添花的是，摩根士丹利将 $SIVE (~$1.1B) 评为三大领先的 CPO 激光厂商之一。与 $55B+ 的玩家 Coherent 和 Lumentum 一起在最近的说明中是有原因的...... _ TLDR：Sivers 只需要 Win 的低端配置即可获得相对于当前估值的可观总收入。我认为最大的收入增长并未体现在他们在美国纳斯达克上市后通过并购进行 TAM 扩张。通过使用 Cloud Light 复制 Lumentum 剧本来构建整个收发器模块或使用光学引擎。"
     },
     {
       "id": "tweet_qinbafrank_2078055175030485427",
@@ -176,6 +146,15 @@
       "tweet_id": "2078022313266803156"
     },
     {
+      "id": "tweet_xingpt_2078118270876758280",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Fri, 17 Jul 2026 14:03:00 GMT",
+      "content": "半导体有回调见底迹象，标志性事件是苹果市值反超英伟达，左侧加了点半导体仓位",
+      "url": "https://x.com/xingpt/status/2078118270876758280",
+      "tweet_id": "2078118270876758280"
+    },
+    {
       "id": "tweet_xingpt_2078013823789957349",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -192,15 +171,6 @@
       "content": "《龙虾时刻与DeepSeek 冲击》 Kimi K3 全网一片赞誉，都说要对标Fable5；中国大模型的崛起让OpenAI、Anthropic的定价开始产生质疑。Deepseek冲击每隔一段时间肯定会发生，只要美国大模型厂几个月没有新东西拉开差距，中国大模型就会以 1/20 之一的价格和 90% 的能力把美国竞对卷进价格战。 那么从投资来说，也是一个渐进往返的关系：美国大模型受到冲击，半导体Capex高投入难持续，与中国大模型和国产算力链相比，美国投入的性价比遭受质疑，也就是Deepseek moment。 Capex投入少的公司，现金流强的公司比如苹果、腾讯就会涨，Capex投入多的，现金流吃紧的公司比如亚马逊就会跌，半导体产业链（存储、CPU、光模块……）也会跌； 几个月后，美国大模型继续推出新品开始拉开差距，半导体超级周期继续发动，云厂继续投入；投入多的公司和半导体产业链继续上涨，类似于年初的龙虾爆发+Opus 4.6；Agent智能经济引爆了Token需求。 AI的发展就是曲折前行的，DeepSeek冲击与龙虾时刻每隔半年就开始交替出现。 这个模式有两个终局： 健康的终局是美国大模型继续发力拉开差距，云厂收入ROI开始持续好转，有现金流继续投入，半导体需求继续增加，供需两旺，你好我好大家好，继续跳舞继续high； 悲惨的终局是美国大模型再也上不去了，每次更新都是渐进式的，而非跳跃式的；类比iPhone年年换新，但是iPhone4 之后就逐渐没有了革命性的差距，年年挤牙膏； 云厂投入巨大但是现金流还是无法转正，ROI持续萎靡。中国大模型价格战把大模型价格打下来，OA两大厂一级估值开始倒挂，大模型陷入价格战，资产泡沫崩盘。 价格战之后，大模型成本降低，普及率上升，最终实现正向资本回报，走出泡沫复制互联网复苏路径。 现在资产的定价是往悲观方向在走的，要重回乐观情形，只能寄希望于OA两个厂放出大招，大模型能力有跳跃式的发展，推动大模型需求继续提升，云厂通过出租算力收支回复平衡。我们期待下一个龙虾时刻……",
       "url": "https://x.com/xingpt/status/2077976731185815654",
       "tweet_id": "2077976731185815654"
-    },
-    {
-      "id": "tweet_xingpt_2077714640566718895",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 16 Jul 2026 11:19:07 GMT",
-      "content": "搞了个长鑫股价链上的计算器，随时可以换算从哪里买最划算。",
-      "url": "https://x.com/xingpt/status/2077714640566718895",
-      "tweet_id": "2077714640566718895"
     },
     {
       "id": "tweet_hibtc37_2078046865871065561",
@@ -231,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
