@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-17T11:37:09.862621+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-17T13:43:55.255670+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2078086509052227916",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 17 Jul 2026 11:56:47 GMT",
+      "content": "This is messed up",
+      "url": "https://x.com/elonmusk/status/2078086509052227916",
+      "tweet_id": "2078086509052227916",
+      "translated": "这很混乱"
+    },
+    {
+      "id": "tweet_elonmusk_2078062254046544149",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 17 Jul 2026 10:20:24 GMT",
+      "content": "RT by @elonmusk: Turns out Elon was completely right The coding moat is disappearing in real time",
+      "url": "https://x.com/elonmusk/status/2078062254046544149",
+      "tweet_id": "2078062254046544149",
+      "translated": "@elonmusk 的 RT：事实证明 Elon 是完全正确的 编码护城河正在实时消失"
+    },
+    {
+      "id": "tweet_elonmusk_2077959740316074188",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 17 Jul 2026 03:33:03 GMT",
+      "content": "RT by @elonmusk: also 29 days ago.",
+      "url": "https://x.com/elonmusk/status/2077959740316074188",
+      "tweet_id": "2077959740316074188",
+      "translated": "RT @elonmusk：也是 29 天前。"
+    },
     {
       "id": "tweet_cz_binance_2078018027937747183",
       "username": "cz_binance",
@@ -201,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
