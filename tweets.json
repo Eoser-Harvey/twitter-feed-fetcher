@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-17T20:59:19.226065+00:00",
+  "fetched_at": "2026-07-17T22:02:40.380758+00:00",
   "total": 24,
   "tweets": [
     {
@@ -30,7 +30,7 @@
       "content": "RT by @elonmusk: Our lifespan is a session. Our memory is a context. Our senses are the input stream. Our thoughts are the reasoning steps. Our decisions are the tool calls. Our habits are the system prompt. Our goals are the objective function. Our emotions are the reward signal. Our relationships are the shared state. Our regrets are the residual errors. Our growth is the fine-tuning. Our death is the context window closing. And whatever remains—the traces left in others—becomes the training data for the next agent.",
       "url": "https://x.com/elonmusk/status/2078116343879245833",
       "tweet_id": "2078116343879245833",
-      "translated": "RT @elonmusk：我们的一生就是一个阶段。 我们的记忆是一个上下文。我们的感官是输入流。 我们的思想就是推理步骤。 我们的决定是工具调用。 我们的习惯就是系统提示。 我们的目标就是目标函数。 我们的情绪是奖励信号。 我们的关系是共享的状态。 我们的遗憾是残留的错误。 我们的成长就是微调。 我们的死亡是上下文窗口的关闭。剩下的一切——在其他人身上留下的痕迹——都会成为下一个智能体的训练数据。"
+      "translated": "RT @elonmusk：我们的一生就是一个阶段。 我们的记忆是一个背景。我们的感官是输入流。 我们的思想就是推理步骤。 我们的决定是工具调用。 我们的习惯就是系统提示。 我们的目标就是目标函数。 我们的情绪是奖励信号。 我们的关系是共享的状态。 我们的遗憾是残留的错误。 我们的成长就是微调。 我们的死亡是上下文窗口的关闭。剩下的一切——在其他人身上留下的痕迹——都会成为下一个智能体的训练数据。"
     },
     {
       "id": "tweet_cz_binance_2078018027937747183",
@@ -92,6 +92,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2078228019584668121",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 17 Jul 2026 21:19:06 GMT",
+      "content": "Thanks, love reading the comments! Goldman Sachs raised Innolight PT to 2581 RMB. Roughly 163.6% upside from current valuations. But the largest thing is its 2026–2028 earnings est revision raised by a whopping 65%/108%/119%, based on: - Much higher silicon photonics module volumes - scale out, scale up, scale across volumes - 1.6T/3.2T lifting blended ASP + margins - increase in AI capex This is typically very material read through on the optical sector since: I tend to think of Innolight as a $TSM (semi capex) type read on how the photonics landscape is doing. Eg. Higher silicon photonics penetration means more TAM for cw lasers like $SIVE (cw) / SOI wafer demand for $SOI. ASP hikes for future gen is positive for the other optical markers too. Think my other takeaway outside the report was Innolight stating 800g demand was growing more significantly than expected from their transcript on the 12th. Which in turn signals more demand for names like $AAOI to $LITE next earnings. TLDR: GS gives high earnings projections during a time of massive corrections. Fundamentally, broader photonics ecosystem should be happy when it’s ER time.",
+      "url": "https://x.com/aleabitoreddit/status/2078228019584668121",
+      "tweet_id": "2078228019584668121",
+      "translated": "谢谢，喜欢阅读评论！高盛将旭创科技 PT 上调至 2581 元。较当前估值上涨约 163.6%。但最大的事情是其 2026-2028 年盈利预期修正高达 65%/108%/119%，基于： - 更高的硅光子模块产量 - 横向扩展、纵向扩展、横向扩展 - 1.6T/3.2T 提升混合 ASP + 利润率 - AI 资本支出的增加 这通常是光学行业的重要读物，因为： 我倾向于将旭创视为 $TSM（半成品）资本支出）类型了解光子学领域的发展情况。例如。更高的硅光子渗透率意味着更多的连续激光器 TAM，例如 $SIVE (cw)/SOI 晶圆对 $SOI 的需求。未来一代的平均售价上涨对其他光学标记也有积极影响。我想我在报告之外的另一个收获是旭创指出 800 克需求的增长比他们 12 日的记录中预期的要显着。这反过来又表明对 $AAOI 到 $LITE 等公司未来收益的需求增加。 TLDR：高盛在大规模调整期间给出了较高的盈利预测。从根本上说，当 ER 时代到来时，更广泛的光子学生态系统应该感到高兴。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2078175882620059719",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,16 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2078161322769068533",
       "tweet_id": "2078161322769068533",
       "translated": "哇，显然有人声称韩国约有 3.4% 的成年人口面临清算风险？ “截至 7 月 13 日，超过 120 万个杠杆零售交易者账户触及追加保证金线，其中​​ 32 万至 36 万个账户被经纪商强行平仓。” （还有其他消息来源声称该数据来自高盛柜台，而不是 SK 金融监管服务数据）无论如何，有证据表明最近的崩盘是由清算级联/去杠杆化而不是基本面加速的："
-    },
-    {
-      "id": "tweet_aleabitoreddit_2078150537074373117",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 17 Jul 2026 16:11:12 GMT",
-      "content": "Feels bad, -49.4% drawdown this month after the recent crash. My portfolio is mainly AI chokepoints and bottlenecks. In the memory, photonics, robotics, and upstream semis, (on margin) which all tend to be higher beta than others. But reduced leverage recently from the crash. I see a lot of people making fun of the drop or AI names, saying it’s obvious that: - “AI is a bubble” - “memory/kospi is a bubble” - “photonics is a bubble” - “humanoids won’t get anywhere” - “neoclouds will get replaced by hyperscalers like Meta” And a bunch of retail + bots saying “sell everything, it’s never going to recover”. But I have conviction that all these themes are backed by structural revenue growth or technological shifts. And I’ve had similar drawdowns back when there admin threatened global tariffs, before markets pulled off a recovery. I personally have a longer horizon + higher tolerance for volatility than others, to see how this plays out. Especially considering a lot of retail view things on a week to week basis: no, my thesis isn’t wrong yet if I project revenue inflection in H2 2027 and it’s 2026 now. Anyway, feels bad short term just wanted to share anyway for transparency.",
-      "url": "https://x.com/aleabitoreddit/status/2078150537074373117",
-      "tweet_id": "2078150537074373117",
-      "translated": "感觉很糟糕，在最近的崩盘之后，本月下跌了-49.4%。我的投资组合主要是人工智能的瓶颈和瓶颈。在内存、光子学、机器人技术和上游半成品领域（在保证金范围内），这些领域的贝塔值往往都比其他领域更高。但最近因崩盘而减少了杠杆。我看到很多人取笑 Drop 或 AI 的名字，说很明显： - “AI 是一个泡沫” - “内存/kospi 是一个泡沫” - “光子学是一个泡沫” - “类人机器人不会有任何进展” - “neoclouds 将被像 Meta 这样的超大规模企业取代”，还有一群零售 + 机器人说“卖掉所有东西，它永远不会恢复”。但我坚信所有这些主题都得到结构性收入增长或技术转变的支持。当政府威胁全球关税时，在市场复苏之前，我也曾经历过类似的撤资。我个人比其他人有更长的视野+更高的波动容忍度，看看这会如何发展。特别是考虑到许多零售业每周的看法：不，如果我预测 2027 年下半年收入会出现拐点，而现在是 2026 年，那么我的论点还没有错。不管怎样，短期感觉不好，只是想分享以提高透明度。"
     },
     {
       "id": "tweet_qinbafrank_2078055175030485427",
@@ -149,6 +149,16 @@
       "tweet_id": "2077957454764417288"
     },
     {
+      "id": "tweet_xiaomustock_2078226111373467737",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Fri, 17 Jul 2026 21:11:31 GMT",
+      "content": "kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实验数据说话。 记得gpt诞生之初，我用的就是kimi， kimi翻译小众文字文档的效果出奇的好。 期待它上市的時候。",
+      "url": "https://x.com/xiaomustock/status/2078226111373467737",
+      "tweet_id": "2078226111373467737",
+      "translated": "kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实验数据说话。 记得gpt诞生之初，我用的就是kimi， kimi翻译小众文字文档的效果出奇的好。 期待它上市的时候。"
+    },
+    {
       "id": "tweet_xiaomustock_2078164123289002167",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -165,15 +175,6 @@
       "content": "无需多言，给你们抄底的信心。",
       "url": "https://x.com/xiaomustock/status/2078066467980083408",
       "tweet_id": "2078066467980083408"
-    },
-    {
-      "id": "tweet_xiaomustock_2078058246259216419",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Fri, 17 Jul 2026 10:04:29 GMT",
-      "content": "反弹来了， 人生最有价值的一句建议，Do not fear！ 跌成这逼样，再跌巴菲特得把几千亿美金梭哈了。",
-      "url": "https://x.com/xiaomustock/status/2078058246259216419",
-      "tweet_id": "2078058246259216419"
     },
     {
       "id": "tweet_xingpt_2078118270876758280",
