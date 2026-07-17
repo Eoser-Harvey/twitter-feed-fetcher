@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-17T10:00:57.751043+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-17T11:37:09.862621+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2077959740316074188",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 17 Jul 2026 03:33:03 GMT",
-      "content": "RT by @elonmusk: also 29 days ago.",
-      "url": "https://x.com/elonmusk/status/2077959740316074188",
-      "tweet_id": "2077959740316074188",
-      "translated": "RT @elonmusk：也是 29 天前。"
-    },
-    {
-      "id": "tweet_elonmusk_2078015422931091486",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 17 Jul 2026 07:14:19 GMT",
-      "content": "As promised",
-      "url": "https://x.com/elonmusk/status/2078015422931091486",
-      "tweet_id": "2078015422931091486",
-      "translated": "正如所承诺的"
-    },
-    {
-      "id": "tweet_elonmusk_2078014448267104664",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 17 Jul 2026 07:10:26 GMT",
-      "content": "Try Grok",
-      "url": "https://x.com/elonmusk/status/2078014448267104664",
-      "tweet_id": "2078014448267104664",
-      "translated": "尝试格罗克"
-    },
     {
       "id": "tweet_cz_binance_2078018027937747183",
       "username": "cz_binance",
@@ -149,6 +119,24 @@
       "tweet_id": "2077957454764417288"
     },
     {
+      "id": "tweet_xiaomustock_2078066467980083408",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Fri, 17 Jul 2026 10:37:09 GMT",
+      "content": "无需多言，给你们抄底的信心。",
+      "url": "https://x.com/xiaomustock/status/2078066467980083408",
+      "tweet_id": "2078066467980083408"
+    },
+    {
+      "id": "tweet_xiaomustock_2078058246259216419",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Fri, 17 Jul 2026 10:04:29 GMT",
+      "content": "反弹来了， 人生最有价值的一句建议，Do not fear！ 跌成这逼样，再跌巴菲特得把几千亿美金梭哈了。",
+      "url": "https://x.com/xiaomustock/status/2078058246259216419",
+      "tweet_id": "2078058246259216419"
+    },
+    {
       "id": "tweet_xiaomustock_2078022313266803156",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -156,24 +144,6 @@
       "content": "目前gate被盗的这笔钱用户这边立案成功了， gate自己的人脸系统和人工手持验证被攻破， 也不去报警也不立案就隔那一天到晚嘲讽用户， 💰是保管在你交易所 @Gate 被盗的啊",
       "url": "https://x.com/xiaomustock/status/2078022313266803156",
       "tweet_id": "2078022313266803156"
-    },
-    {
-      "id": "tweet_xiaomustock_2077988665767432262",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Fri, 17 Jul 2026 05:27:59 GMT",
-      "content": "真是股灾了，哪哪都在暴跌 我自己金融危机了",
-      "url": "https://x.com/xiaomustock/status/2077988665767432262",
-      "tweet_id": "2077988665767432262"
-    },
-    {
-      "id": "tweet_xiaomustock_2077974663393919061",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Fri, 17 Jul 2026 04:32:21 GMT",
-      "content": "昨天抄底的睡醒全被套了， 看来还是反弹再抄最安全， 朋友劝我我也没听😅",
-      "url": "https://x.com/xiaomustock/status/2077974663393919061",
-      "tweet_id": "2077974663393919061"
     },
     {
       "id": "tweet_xingpt_2078013823789957349",
@@ -231,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
