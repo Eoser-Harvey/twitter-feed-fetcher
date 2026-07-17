@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-17T00:07:15.001894+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-17T04:10:03.366117+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2077890013841310149",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 16 Jul 2026 22:55:59 GMT",
-      "content": "R to @elonmusk: Some of the engines didn’t start, triggering an automatic launch abort. Now offloading propellant. Next launch attempt hopefully in a few days.",
-      "url": "https://x.com/elonmusk/status/2077890013841310149",
-      "tweet_id": "2077890013841310149",
-      "translated": "R 致@elonmusk：一些引擎没有启动，触发了自动发射中止。现在正在卸载推进剂。希望在几天内进行下一次发射尝试。"
-    },
-    {
-      "id": "tweet_elonmusk_2077702864345133420",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 16 Jul 2026 10:32:19 GMT",
-      "content": "RT by @elonmusk: SpaceXAI has updated Zero Data Retention (ZDR) in Docs with more information",
-      "url": "https://x.com/elonmusk/status/2077702864345133420",
-      "tweet_id": "2077702864345133420",
-      "translated": "RT by @elonmusk：SpaceXAI 已更新文档中的零数据保留 (ZDR)，提供更多信息"
-    },
-    {
-      "id": "tweet_elonmusk_2077882072950096042",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 16 Jul 2026 22:24:26 GMT",
-      "content": "To understand more about Starship",
-      "url": "https://x.com/elonmusk/status/2077882072950096042",
-      "tweet_id": "2077882072950096042",
-      "translated": "了解更多关于星舰的信息"
-    },
     {
       "id": "tweet_cz_binance_2077741288263180688",
       "username": "cz_binance",
@@ -92,6 +62,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2077955479742173422",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 17 Jul 2026 03:16:07 GMT",
+      "content": "Kim Sunwoo of Meritz Securities: \"This Is Not the Time to Sell Samsung Electronics and $SKHY\" They claim markets are excessively misunderstanding the situation with semis. And that DRAM shortage will intensify in the second half of this year. - H2 2026: \"suppliers can fulfill only 75%–80% of DRAM demand\". - 2027: \"fulfillment is expected to fall into the 60% range.\" In the article, they attached market forecasts that show SK Hynix with a 2027 3.5x P/E and Samsung a 3.9x P/E. Think the $INTC CEO said it best around timeframes with his quote \"no relief in memory supply or pricing until at least 2028\". Especially after $MU 16 LTAs with favorable take or pay volume contracts... memory demand seems structural.",
+      "url": "https://x.com/aleabitoreddit/status/2077955479742173422",
+      "tweet_id": "2077955479742173422",
+      "translated": "Meritz 证券公司的 Kim Sunwoo：“现在不是出售三星电子和 $SKHY 的时候” 他们声称市场过度误解了半成品的情况。今年下半年，DRAM 短缺现象将会加剧。 - 2026 年下半年：“供应商只能满足 DRAM 需求的 75%–80%”。 - 2027年：“预计履行率将落入60%范围内。”在文章中，他们附上了市场预测，显示 SK 海力士 2027 年市盈率为 3.5 倍，三星为 3.9 倍市盈率。认为 $INTC 首席执行官所说的最好是在时间范围内，他的名言是“至少在 2028 年之前内存供应或定价不会缓解”。尤其是在签订了 16 美元的长期协议以及有利的照付不议合同之后……内存需求似乎是结构性的。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2077784594959725056",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -112,14 +92,22 @@
       "translated": "很多人对通过 fab-light（Win Semi 和其他公司）进行的 $SIVE 产能产量增长模型感到好奇：使用 Win 晶圆产能的 10% 作为低端配置（假设产量为 65%，平均售价为 50-75 美元）：Sivers 将支持价值 341-5.12 亿美元的年度阵列收入。鉴于管理层的上限为 50-60%+ 毛利率目标，年毛利润大致为：205-3.07 亿美元。相对于 Sivers 当前的 ~$1.1B MC，如果这种产能情景在 2028 年实现，则约为：3.6–5.4× MC/毛利润。如果 15%，毛利润将达到 307–4.61 亿美元（2.4–3.6× MC/毛利润）Sivers 首席执行官还回答说，他们正在与更多晶圆厂合作以提高产能。从较旧的牌组来看，自 2024 年以来似乎有更多的资格。因此，随着 CPO 的起飞，容量目标可能会比此处所述的更大。我还预计，随着更多合格供应商进入 HVM，未来几个季度的收入预测将会上调。 _ 至于需求端，CW也恰好遇到了很大的瓶颈。由于 ER 成绩单中的 EML 义务，Lumentum 正在公开市场上购买 CW。 $AMD 正在签署长期协议以确保 CW 产能（来自 Trendforce）。因此，当 Sivers 与 $GFS、$JBL、Ayar、$POET、O-NET 等合作时……考虑到当前的限制，任何上线的独立合格产能很可能都会被吸收。更锦上添花的是，摩根士丹利将 $SIVE (~$1.1B) 评为三大领先的 CPO 激光厂商之一。与 $55B+ 的玩家 Coherent 和 Lumentum 一起在最近的说明中是有原因的...... _ TLDR：Sivers 只需要 Win 的低端配置即可获得相对于当前估值的可观总收入。我认为最大的收入增长并未体现在他们在美国纳斯达克上市后通过并购进行 TAM 扩张。通过使用 Cloud Light 复制 Lumentum 剧本来构建整个收发器模块或使用光学引擎。"
     },
     {
-      "id": "tweet_aleabitoreddit_2077753660592033828",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 16 Jul 2026 13:54:10 GMT",
-      "content": "Today, $MU announced it signed memory LTAs with $QCOM. Interesting reaction to see Micron proceeded to drop 5.37% right after. Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed? More like the tail end of deleveraging / margin cascades.",
-      "url": "https://x.com/aleabitoreddit/status/2077753660592033828",
-      "tweet_id": "2077753660592033828",
-      "translated": "今天，$MU 宣布与 $QCOM 签署了内存长期协议。有趣的反应是美光科技随后下跌 5.37%。签署所有这些结构协议后，你不觉得记忆或人工智能名称有什么单独的错误吗？更像是去杠杆化/保证金级联的尾部。"
+      "id": "tweet_qinbafrank_2077957454764417288",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Fri, 17 Jul 2026 03:23:58 GMT",
+      "content": "听说基本面已经不重要了？去年底今年初的时候技术面可看不出来美光能涨到一千以上，但是基本面能算出来。二级投资哪有什么非黑即白，各有各的优势。 为什么有人觉得“基本面不重要了”？其实是短期市场现象和情绪的的放大： 1）短期：资金、情绪、叙事（AI hype）、主题炒作、量化资金抱团，能让股价短期严重脱离基本面。涨的时候是疯涨、跌的时候也是狂跌。这种情况下，短期也不是基本面能决定的了。 2）而中长期基本面依然是最终的锚。 盈利是不是能兑现、现金流是在持续好转还是持续恶化、竞争格局更好还是更差，这才是真正决定长期走势的指挥棒， 不是非黑即白，也不用此消彼长。基本面和技术面结合也是更好的。 1）基本面决定“买什么”（方向和持有加仓的理由） 找有真实增长驱动、护城河、合理估值的公司。不是所有AI概念股都值得买，要看谁真正能把需求变成利润和现金流。 2）技术面决定“什么时候买/卖、仓位多少”（择时和风险控制） 趋势跟踪、均线系统、成交量、支撑阻力、RSI/MACD等，避免在明显弱势里重仓。基本面好的股票如果技术面显示筑底完成、放量突破，就可以加仓；高位冲得太猛时，也可以用技术面做减仓或对冲。 其实可以这么说： 基本面能提前看出大逻辑； 技术面更擅长跟踪趋势和控制风险。 两者结合起来会更游刃有余。 而更重要的就是活的够久，确保自己不下牌桌，能持续赚钱。",
+      "url": "https://x.com/qinbafrank/status/2077957454764417288",
+      "tweet_id": "2077957454764417288"
+    },
+    {
+      "id": "tweet_qinbafrank_2077920253921919206",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Fri, 17 Jul 2026 00:56:09 GMT",
+      "content": "Kimi K3在Artificial Analysis Intelligence Index 上得分 57，其智能水平可与Opus 4.8 和GPT-5.5相媲美，但仍落后于 Fable 5和 GPT-5.6 Sol，K3性能已经到了全球第三。Artificial Analysis应该业内被广泛认为的最独立、最严谨的AI模型基准测试平台之一，能到这个水平已经很牛了。作为开源大模型能媲美前沿闭源大模型上一代旗舰产品，已经很牛了。",
+      "url": "https://x.com/qinbafrank/status/2077920253921919206",
+      "tweet_id": "2077920253921919206"
     },
     {
       "id": "tweet_qinbafrank_2077774496225018167",
@@ -129,24 +117,6 @@
       "content": "一周前聊到的大模型价格战是真的来了，今天几家 AI 大模型公司不约而同做了同一件事： 1）Anthropic 宣布重置所有用户的 5 小时和每周使用限制； 2）OpenAI 再次提高 Codex 和 ChatGPT Work 的使用额度。注意“再次”两个字，说明不是第一次放开限制，而是近期连续多轮上调； 3）xAI 不仅重置了 Grok 的使用限额，还开放了 Grok Build； 4）Cursor更直接，将所有订阅计划的模型使用额度翻倍。 看到这类动作，大家最关心两个问题：为什么要这么做？影响是什么？ 1、先说为什么要这么做？ 核心还是这两周一起聊到的https://x.com/qinbafrank/status/2076839550119444702?s=46&t=k6rimWsEbo2D2tXolYcM-A 企业采用AI进入分场景、多模型的工程化阶段，企业自己也需要把高频、低复杂度和低价值场景分配给高性价比token、这也倒逼了解前沿闭源大模型主动应战，价格战永远是最有效的策略。 2、再说有何影响？ 1）短期来看，大家担心是不是影响大模型的利润率。毕竟价格下降意味着单次调用收入降低，单位 Token 的商业价值下降，短期毛利率和盈利能力自然会承压。 2）但中长期，则是要看能激发出多大的幅度的需求量增长。如果需求爆发式增长、token的消耗量增长幅度大大抵消token单价的降低，最后总盘子变大了。上周在这里https://x.com/qinbafrank/status/2074061695438483754?s=46&t=k6rimWsEbo2D2tXolYcM-A也有聊过：“越多企业采用AI，成本工程化做的越好，高端模型的份额被部分蚕食，但会不会带动商业化份额绝对值应该还是在快速增长？因为盘子更大了。” 但这里最关键的就是这个短期和中长期之间的时间差有多大。降价毛利和盈利能力会立马下去，需求的爆炸是不是能立马补上来，还是需要一点时间才行？",
       "url": "https://x.com/qinbafrank/status/2077774496225018167",
       "tweet_id": "2077774496225018167"
-    },
-    {
-      "id": "tweet_qinbafrank_2077739165039697997",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Thu, 16 Jul 2026 12:56:34 GMT",
-      "content": "说一个冷知识，最近大家对市场体感非常之差，但纳指跌幅竟然还没有6月初次去杠杆的跌幅大，当时纳指是6个交易日跌了接近9个点。下图面纳指100期货走势图，要是看纳指现货走势图形还挺好看。6月中还在space里聊到下半年还会出现类似6月初那样的去杠杆行情。",
-      "url": "https://x.com/qinbafrank/status/2077739165039697997",
-      "tweet_id": "2077739165039697997"
-    },
-    {
-      "id": "tweet_qinbafrank_2077671483900678240",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Thu, 16 Jul 2026 08:27:37 GMT",
-      "content": "美股代币化流动性碎片化的问题终于开始被解决了，看到OKX宣布要上线24支代币化美股和ETF，全球首家做“统一代币化股票市场”，能24/7交易，还把多个发行方的东西合并到一个订单簿里。代币化美股的痛点是什么？OKX 这套统一机制又解决了什么问题？ 普通意义上的代币化美股，就是把真实股票或 ETF 的价格表现做成区块链上的代币。背后 1:1 由真实股份托管，你买到的不是苹果的股票，而是代表苹果股价走势的链上凭证。交易在加密平台上走，用稳定币结算，理论上能 24小时不间断。 这不是OKX 首创，之前 Kraken、Bybit 已经通过 Backed 的 xStocks 上过类似产品。本质还是把 TradFi 的流动性切一小块，搬到链上或者 CEX 上，让 crypto 用户不用开美股账户也能参与美股行情。 但这个模式的问题也很严重：流动性太碎片。不同平台、不同发行方发同样的标的（比如 AAPL），各自一个订单簿，深度浅、价差大、公司行动（分红、拆股）规则还不一样。用户体验像在不同交易所炒同一个币，割裂感很强。 看起来OKX 这波想干的，就是把这个碎片化的问题尽量解决掉。OKX 的“统一”到底统一了什么？ 1）他们把资产统一命名：前面加个大写 X，比如 XAAPL、XTSLA、XSPY。背后还是靠 Backed 的 xStocks 背书，1:1 真实股份托管，支持 Solana 和 X Layer 网络存取。 2）更关键的创新在于订单簿统一。如果未来有其他发行方也做了同样标的的代币化版本，OKX 会把它们合并成一个资产、一个订单簿、同一套公司行动规则。流动性不再分散在多个池子里，而是集中到一个地方。 3）交易上自然也是crypto原生：全天候 24/7，用 稳定币直接交易，支持网格和 DCA 机器人，分红自动折算股数，这点对 crypto 用户特别友好， 总结来说，OKX 不是简单复制别人已经有的xStocks，而是想做一个聚合层：把可能分散的代币化供给收拢到自己平台，形成更深的流动性池，同时保留 crypto 原生的交易工具和账户体验。 之前代币化美股最被诟病就是流动性碎片和稀薄，okx这套模式这个最大的好处就是流动性集中，对整个市场来说，统一订单簿如果真能跑起来，理论上能改善价格发现效率，减少同一标的在不同平台间的套利空间。长期看，这也是 RWA 赛道从“各自为战”往“基础设施聚合”迈的一步。 当然也要明确这不是股票，没有投票权，没有股东身份，只是价格敞口，值不值得上得自己判断。 OKX 这套机制，本质上是想把 crypto 的交易体验和 TradFi 的资产做一次更深的融合。不是简单上架几个代币，而是试图在流动性层做整合。这方向如果走得通，对后面更多 RWA 上链有示范作用。",
-      "url": "https://x.com/qinbafrank/status/2077671483900678240",
-      "tweet_id": "2077671483900678240"
     },
     {
       "id": "tweet_xiaomustock_2077810933297267197",
@@ -203,6 +173,24 @@
       "tweet_id": "2077594716628226515"
     },
     {
+      "id": "tweet_hibtc37_2077743322521624673",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Thu, 16 Jul 2026 13:13:05 GMT",
+      "content": "RT by @hibtc37: 易理华现在这个词在我脑子里是一种type， 已经不仅代表此人了。 只要是跟他行为有相同的人 我全部把它归类为“易类纲目”。 见利忘义，恩将仇报，为了钱能坏良心害人的人， 都不能算一个人， 只能算小畜牲。 易理华刚经笑来介绍认识我的时候 正值EOS盛世， 我所创立的ONO又是EOS链上华人第一大项目， 他是非常羡慕我，以及特别想认识我的。 但是那时候我没怎么搭理他。 我这个人习惯是这样，从小就不爱和不熟的人多啰嗦。 因为我时间有限，一天要干很多活，还有很多学习和总结思考工作。 而且那时候真的特别忙， 凌晨3点跟西雅图同事开会，早上8点和悉尼开会，下午1点还要和柏林团队开会，初创阶段，作息很难稳定，所以很少看微信。 易理华发现我有事只找笑来，却不搭理他， 用他中专毕业的小脑子只能琢磨出来一个理由：【怪我没钱。 要是我有钱了，徐可不得扑上来笑盈盈的搭理我吗？】 然后，事态的发展就变态起来了， 笑来发现易理华一直在做老鼠仓。 最信任的朴实农村小伙，崩了他。 一向对自己智商自信的笑来被侮辱了智商。 易理华恩将仇报的 做了笑来inb基金3个亿的 极巨化老鼠仓！ 黄毛华一口吃成巨化肥华。 笑来正打算封杀肥华。 然而华子书没读下去，腹黑下作的兵法却研究了不少， 跑过来跟我说： 【徐可你知道吗？别看笑来表面上支持你，实际上笑来他私下和我亲口说你闲话，说你是靠睡投资人拿的投资。】 试图从内部瓦解我和笑来的信任。 这兵法我懂， 我小学有个同学女孩叫hpp，非常嫉妒我，（后来我才知道是她暗恋的男生暗恋我） 她就为了报复我、孤立我， 去和我最好的两个闺蜜挑拨我，试图分裂她们和我。 真的有其中一个离开了我。 另外一个闺蜜至今还是我的好闺蜜。 但这种弱智的事情只在小学发生过， 再大一点大家都成熟了也各自忙学习， 没人这么无聊去跟张三说：诶 李四背后说你坏话哦。 所以我的认知就是：干这种事的，要么就小学生，要么就是小学没毕业的大人。 我怎么也不会相信，笑来一个50多快入土的老登 那会儿手上币有几百亿美金，闲到要背后说我闲话。 我直接甩截图给笑来， 笑来也是性情中人， 马上发朋友圈自证清白：徐可是我支持的创业者，我永远也从来没有编造这种下三滥谣言诋毁过她。 然后易理华🤡， 秒给我弹语音： 【哎呀，徐可 我只是好心提醒一下你， 你干嘛把这个发给笑来呀？】 我说：那你告诉我他到底说过这话没有？ 要不我拉他进麦你俩对峙下？ 易理华：【误会误会，哎呀，我就是那么一说， 跟你开玩笑的啦！ 求你帮我删一下朋友圈好不好， 不吵架了求你了…】 我说：那你给我道歉辟谣。 易理华私下跟我道歉态度非常良好， 姿态非常的舔狗。 发的朋友圈却是心不甘情不愿。 公开承认小人行为，非常潦草，非常没有诚意。 我很久以后回过头才想明白， 我跟他无冤无仇， 他没见过我，也不认识我，不知道我的家庭情况。 他为什么要往我身上泼脏水呢，为什么造谣我呢？ 后来我才懂， 他用他村里精神小伙的认知自导自演这一出， 就是为了转移大众视线，帮他自己度过危机的手段。 然后这件事白热化之后 紧接着， 笑来那个名震海内外江湖的“韭菜都是傻逼”录音门 就被爆出来了。 至此，笑来系彻底跌落神坛，不只是人设崩塌，还附带赠送一个边控半永久。 而那会儿的黄毛华子已经踩着笑来的尸体， 摇身一变变成精英华子， 开始混政府投资了。 很快骗取当地小富楼霁月的情感肉体与利益。 说实话她爸爸是行长，既不算天龙人也不算什么一代，只能算比较稳定的中产。 江浙沪行长可以说满地跑，（我妈过生日，要来十几个派出所所长，二十几个银行行长，这种是坐不上主桌的）， 但是配易理华这种中专精神小伙已经是绰绰有余。 华子拿着崩笑来崩来的现金 给楼家出了点钱买房， 岳父还以为自己女儿找到了好归宿， 钓到镶钻金龟婿， kuku给亲亲女婿拉人头搞传销。 华子也逐渐在推杯换盏中迷失自我， 踩着楼霁月她爹的名号，搞得自己也跟行长亲儿子一样，要在浙江只手遮天啦。 正所谓无知者无畏， 社青华子正是凭着自己对神秘力量的一无所知， 一手把自己岳父的晚节崩的稀烂不堪。 当然稀烂的老头只配做自己的前岳父， 没有利用价值了，吃干抹净了就一脚蹬。 对于我来说， 我从幼儿园到2017年“币圈”成立之前，从来没接触过这种下流胚的圈子和人。 我自从跟我妈说过这些事，就不准我从事w3了。 就像我妈说的： “妈妈这一代那么努力，就是为了让你不要接触这些不三不四的人。 从小到大把你捧在手心里像天上的仙子一样养着，读书都是最好的学校， 力学到南外到mva到ucl， 你最后居然跟这些不三不四的人搅到一起做生意，这种低档次的人要跟你妈结交攀附，你妈从来都不搭理。” 我以前觉得是我妈有刻板印象， 后来真和这些凤凰男创业者做生意才发现， 他们是真他妈低等中的低等， 下作中的下作， 公司干不过你，成绩不如你，没有你优秀， 就来造你黄谣。 真搞不过这些没出息的捞货。 我发现我是图有学问没有社会化经历， 跟我妈相比 我真的是拉完了",
+      "url": "https://x.com/hibtc37/status/2077743322521624673",
+      "tweet_id": "2077743322521624673"
+    },
+    {
+      "id": "tweet_hibtc37_2077906191947305114",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Fri, 17 Jul 2026 00:00:16 GMT",
+      "content": "这个交易测试账户，资产到6w的目标了，目标50W还差43.8w 可惜SPCX看准，但仓位没吃够，还是不够果断啊 下一个目标做空CBRS和BTC，你认为哪个赔率更高呢？",
+      "url": "https://x.com/hibtc37/status/2077906191947305114",
+      "tweet_id": "2077906191947305114"
+    },
+    {
       "id": "tweet_hibtc37_2077732121054175398",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -210,29 +198,11 @@
       "content": "存储到我成本线了，先投降再说",
       "url": "https://x.com/hibtc37/status/2077732121054175398",
       "tweet_id": "2077732121054175398"
-    },
-    {
-      "id": "tweet_hibtc37_2077704706152136792",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Thu, 16 Jul 2026 10:39:38 GMT",
-      "content": "沃什真是我克星🥹",
-      "url": "https://x.com/hibtc37/status/2077704706152136792",
-      "tweet_id": "2077704706152136792"
-    },
-    {
-      "id": "tweet_hibtc37_2077697281911136554",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Thu, 16 Jul 2026 10:10:08 GMT",
-      "content": "37度七粉群 开放专用贴 免费电报群，本周开放88个名额，申请加群，请留下评论报名 服务能力有限，为了保持群风，只能每周分批开放，请理解 最好说一下申请理由，怎么对我达成200k粉丝目标有帮助，评论优秀者，可以直接拉进群 加群规则：88个名额，由评论里报名的粉丝选出，不区分新老粉，但老铁粉依然是优先，我会用Grok来评分，评分最高88位，可免费进群 评分规则：请@grok 三天后统计在本条内容下方的留言者的分数，分数由高到低选出前100位，列出来他们的ID和分数，请在5天后再给出结果，分数统计逻辑是留言者对 @hibtc37 在过去两周的互动分数，每位留言者的互动分数由以下4项求和： 1、转发，3分 2、评论，2分 3、点赞，1分 4、收藏，3分 说明：如果名单里有垃圾广告和黄诈号，志愿者会手工剔除。名单出来后，会告诉大家怎么进群。如有不周之处，请理解，祝你工作和生活愉快，谢谢支持🙏",
-      "url": "https://x.com/hibtc37/status/2077697281911136554",
-      "tweet_id": "2077697281911136554"
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
