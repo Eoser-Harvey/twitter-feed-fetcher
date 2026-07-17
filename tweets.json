@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-17T15:16:52.281408+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-17T17:16:01.945732+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2077938572158550041",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 17 Jul 2026 02:08:56 GMT",
+      "content": "RT by @elonmusk: Newly declassified documents from the Department of Homeland Security show that over 250,000 non-citizens are illegally registered to vote in just the four states for which public data files have been reviewed.",
+      "url": "https://x.com/elonmusk/status/2077938572158550041",
+      "tweet_id": "2077938572158550041",
+      "translated": "RT @elonmusk：国土安全部最新解密的文件显示，仅在公共数据文件经过审查的四个州就有超过 25 万非公民非法登记投票。"
+    },
     {
       "id": "tweet_elonmusk_2078086509052227916",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2078062254046544149",
       "tweet_id": "2078062254046544149",
       "translated": "@elonmusk 的 RT：事实证明 Elon 是完全正确的 编码护城河正在实时消失"
-    },
-    {
-      "id": "tweet_elonmusk_2077959740316074188",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 17 Jul 2026 03:33:03 GMT",
-      "content": "RT by @elonmusk: also 29 days ago.",
-      "url": "https://x.com/elonmusk/status/2077959740316074188",
-      "tweet_id": "2077959740316074188",
-      "translated": "RT @elonmusk：也是 29 天前。"
     },
     {
       "id": "tweet_cz_binance_2078018027937747183",
@@ -62,6 +62,56 @@
       "tweet_id": "2077695009474629861"
     },
     {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432",
+      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2068370500334637542",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
+      "content": "RT by @realDonaldTrump: POLL…",
+      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
+      "tweet_id": "2068370500334637542",
+      "translated": "RT @realDonaldTrump：投票……"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2078161322769068533",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 17 Jul 2026 16:54:04 GMT",
+      "content": "Wow, apparently there’s claims ~3.4% of the adult population in Korea faces liquidation risk? “As of July 13, over 1.2 million leveraged retail traders' accounts hit margin call lines, with 320,000 to 360,000 accounts force-liquidated by brokers.” (There were other sources claiming this data came from Goldman Sachs desks rather than SK financial supervisory service data) Regardless, just evidence recent crash was accelerated by liquidation cascades/deleveraging rather than fundamentals:",
+      "url": "https://x.com/aleabitoreddit/status/2078161322769068533",
+      "tweet_id": "2078161322769068533",
+      "translated": "哇，显然有人声称韩国约有 3.4% 的成年人口面临清算风险？ “截至 7 月 13 日，超过 120 万个杠杆零售交易者账户触及追加保证金线，其中​​ 32 万至 36 万个账户被经纪商强行平仓。” （还有其他消息来源声称该数据来自高盛柜台，而不是 SK 金融监管服务数据）无论如何，有证据表明最近的崩盘是由清算级联/去杠杆化而不是基本面加速的："
+    },
+    {
+      "id": "tweet_aleabitoreddit_2078150537074373117",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 17 Jul 2026 16:11:12 GMT",
+      "content": "Feels bad, -49.4% drawdown this month after the recent crash. My portfolio is mainly AI chokepoints and bottlenecks. In the memory, photonics, robotics, and upstream semis, (on margin) which all tend to be higher beta than others. But reduced leverage recently from the crash. I see a lot of people making fun of the drop or AI names, saying it’s obvious that: - “AI is a bubble” - “memory/kospi is a bubble” - “photonics is a bubble” - “humanoids won’t get anywhere” - “neoclouds will get replaced by hyperscalers like Meta” And a bunch of retail + bots saying “sell everything, it’s never going to recover”. But I have conviction that all these themes are backed by structural revenue growth or technological shifts. And I’ve had similar drawdowns back when there admin threatened global tariffs, before markets pulled off a recovery. I personally have a longer horizon + higher tolerance for volatility than others, to see how this plays out. Especially considering a lot of retail view things on a week to week basis: no, my thesis isn’t wrong yet if I project revenue inflection in H2 2027 and it’s 2026 now. Anyway, feels bad short term just wanted to share anyway for transparency.",
+      "url": "https://x.com/aleabitoreddit/status/2078150537074373117",
+      "tweet_id": "2078150537074373117",
+      "translated": "感觉很糟糕，在最近的崩盘之后，本月下跌了-49.4%。我的投资组合主要是人工智能的瓶颈和瓶颈。在内存、光子学、机器人技术和上游半成品领域（在保证金范围内），这些领域的贝塔值往往都比其他领域更高。但最近因崩盘而减少了杠杆。我看到很多人取笑 Drop 或 AI 的名字，说很明显： - “AI 是一个泡沫” - “内存/kospi 是一个泡沫” - “光子学是一个泡沫” - “类人机器人不会有任何进展” - “neoclouds 将被像 Meta 这样的超大规模企业取代”，还有一群零售 + 机器人说“卖掉所有东西，它永远不会恢复”。但我坚信所有这些主题都得到结构性收入增长或技术转变的支持。当政府威胁全球关税时，在市场复苏之前，我也曾经历过类似的撤资。我个人比其他人有更长的视野+更高的波动容忍度，看看这会如何发展。特别是考虑到许多零售业每周的看法：不，如果我预测 2027 年下半年收入会出现拐点，而现在是 2026 年，那么我的论点还没有错。不管怎样，短期感觉不好，只是想分享以提高透明度。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2078130772121399553",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -70,26 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2078130772121399553",
       "tweet_id": "2078130772121399553",
       "translated": "同意！在市场崩溃期间记住你的论文真是太好了。根据我自己的个人论文，如果 $AAOI 从 2027 年第三季度开始达到 $1.4B 季度收入。按年计算，$8B MC 收益为 $5.6B。如果到了 2026 年，收入增长甚至没有体现在季度收益中，那么公司就“结束”了吗？这同样适用于我对 CPO 行业的投资，例如 $SIVE，这是由 $NVDA 领导的架构转变。如果从 2026 年下半年横向扩展到 2027 年，并在 2028 年大幅扩展容量。$0 -> $91B TAM 扩展（每 GS）还没有达到“结束”吗？像 Agility 这样的机器人，如果还没有上市，人形机器人还没有普及，那么 2026 年就结束了吗？我个人认为当前的市场状况是流动性和杠杆的反映，而不是个人基本面的反映。最近，KOSPI、TW、日经指数以及人工智能、太空、机器人板块的股票暴跌，对每个人来说都是残酷的。尤其是当这些杠杆作用产生了很多非理性行为时。最后，我们无法告诉您应该购买哪些股票，应该在什么时间范围内出售，如何调整您的头寸规模，或者您应该做什么。仅分享个人想法或研究，并跟踪它们是否随着时间的推移得到验证。因此，建立自己的论文非常重要，因为每个人都有独特的风险承受能力或投资时间表。这通常会导致人们在发生车祸时有更高的信念。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2077955479742173422",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 17 Jul 2026 03:16:07 GMT",
-      "content": "Kim Sunwoo of Meritz Securities: \"This Is Not the Time to Sell Samsung Electronics and $SKHY\" They claim markets are excessively misunderstanding the situation with semis. And that DRAM shortage will intensify in the second half of this year. - H2 2026: \"suppliers can fulfill only 75%–80% of DRAM demand\". - 2027: \"fulfillment is expected to fall into the 60% range.\" In the article, they attached market forecasts that show SK Hynix with a 2027 3.5x P/E and Samsung a 3.9x P/E. Think the $INTC CEO said it best around timeframes with his quote \"no relief in memory supply or pricing until at least 2028\". Especially after $MU 16 LTAs with favorable take or pay volume contracts... memory demand seems structural.",
-      "url": "https://x.com/aleabitoreddit/status/2077955479742173422",
-      "tweet_id": "2077955479742173422",
-      "translated": "Meritz 证券公司的 Kim Sunwoo：“现在不是出售三星电子和 $SKHY 的时候” 他们声称市场过度误解了半成品的情况。今年下半年，DRAM 短缺现象将会加剧。 - 2026 年下半年：“供应商只能满足 DRAM 需求的 75%–80%”。 - 2027年：“预计履行率将落入60%范围内。”在文章中，他们附上了市场预测，显示 SK 海力士 2027 年市盈率为 3.5 倍，三星为 3.9 倍市盈率。认为 $INTC 首席执行官所说的最好是在时间范围内，他的名言是“至少在 2028 年之前内存供应或定价不会缓解”。尤其是在签订了 16 美元的长期协议以及有利的照付不议合同之后……内存需求似乎是结构性的。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2077784594959725056",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 16 Jul 2026 15:57:05 GMT",
-      "content": "My guess is we’re close to market bottom on semis from $INTC to $LITE. A good indicator is if everyone on $RDDT blew up their portfolios to $0.",
-      "url": "https://x.com/aleabitoreddit/status/2077784594959725056",
-      "tweet_id": "2077784594959725056",
-      "translated": "我的猜测是，我们已经接近从 $INTC 到 $LITE 的半决赛市场底部。一个好的指标是 $RDDT 上的每个人都将其投资组合炸至 0 美元。"
     },
     {
       "id": "tweet_qinbafrank_2078055175030485427",
@@ -119,6 +149,15 @@
       "tweet_id": "2077957454764417288"
     },
     {
+      "id": "tweet_xiaomustock_2078164123289002167",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Fri, 17 Jul 2026 17:05:12 GMT",
+      "content": "爽呐，他娘的终于扛到回本了",
+      "url": "https://x.com/xiaomustock/status/2078164123289002167",
+      "tweet_id": "2078164123289002167"
+    },
+    {
       "id": "tweet_xiaomustock_2078066467980083408",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -135,15 +174,6 @@
       "content": "反弹来了， 人生最有价值的一句建议，Do not fear！ 跌成这逼样，再跌巴菲特得把几千亿美金梭哈了。",
       "url": "https://x.com/xiaomustock/status/2078058246259216419",
       "tweet_id": "2078058246259216419"
-    },
-    {
-      "id": "tweet_xiaomustock_2078022313266803156",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Fri, 17 Jul 2026 07:41:41 GMT",
-      "content": "目前gate被盗的这笔钱用户这边立案成功了， gate自己的人脸系统和人工手持验证被攻破， 也不去报警也不立案就隔那一天到晚嘲讽用户， 💰是保管在你交易所 @Gate 被盗的啊",
-      "url": "https://x.com/xiaomustock/status/2078022313266803156",
-      "tweet_id": "2078022313266803156"
     },
     {
       "id": "tweet_xingpt_2078118270876758280",
@@ -201,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
