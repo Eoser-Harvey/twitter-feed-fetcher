@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-17T04:10:03.366117+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-17T07:19:59.446253+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2078015422931091486",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 17 Jul 2026 07:14:19 GMT",
+      "content": "As promised",
+      "url": "https://x.com/elonmusk/status/2078015422931091486",
+      "tweet_id": "2078015422931091486",
+      "translated": "正如所承诺的"
+    },
+    {
+      "id": "tweet_elonmusk_2078014448267104664",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 17 Jul 2026 07:10:26 GMT",
+      "content": "Try Grok",
+      "url": "https://x.com/elonmusk/status/2078014448267104664",
+      "tweet_id": "2078014448267104664",
+      "translated": "尝试格罗克"
+    },
+    {
+      "id": "tweet_elonmusk_2077867806906003478",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 16 Jul 2026 21:27:44 GMT",
+      "content": "RT by @elonmusk: Grok 4.5 is the first time I feel like I can regularly use a Grok model for building software.",
+      "url": "https://x.com/elonmusk/status/2077867806906003478",
+      "tweet_id": "2077867806906003478",
+      "translated": "RT by @elonmusk：Grok 4.5 是我第一次觉得我可以定期使用 Grok 模型来构建软件。"
+    },
     {
       "id": "tweet_cz_binance_2077741288263180688",
       "username": "cz_binance",
@@ -119,31 +149,49 @@
       "tweet_id": "2077774496225018167"
     },
     {
-      "id": "tweet_xiaomustock_2077810933297267197",
+      "id": "tweet_xiaomustock_2077988665767432262",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Thu, 16 Jul 2026 17:41:45 GMT",
-      "content": "这下好了，我是傻逼，亏死了他娘的",
-      "url": "https://x.com/xiaomustock/status/2077810933297267197",
-      "tweet_id": "2077810933297267197"
+      "published_at": "Fri, 17 Jul 2026 05:27:59 GMT",
+      "content": "真是股灾了，哪哪都在暴跌 我自己金融危机了",
+      "url": "https://x.com/xiaomustock/status/2077988665767432262",
+      "tweet_id": "2077988665767432262"
     },
     {
-      "id": "tweet_xiaomustock_2077808981247238213",
+      "id": "tweet_xiaomustock_2077974663393919061",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Thu, 16 Jul 2026 17:33:59 GMT",
-      "content": "全网现在都是清仓的，看空的，做空的。 怎么能让你们所有人都对呢， 意见越统一的时候傻逼越多。",
-      "url": "https://x.com/xiaomustock/status/2077808981247238213",
-      "tweet_id": "2077808981247238213"
+      "published_at": "Fri, 17 Jul 2026 04:32:21 GMT",
+      "content": "昨天抄底的睡醒全被套了， 看来还是反弹再抄最安全， 朋友劝我我也没听😅",
+      "url": "https://x.com/xiaomustock/status/2077974663393919061",
+      "tweet_id": "2077974663393919061"
     },
     {
-      "id": "tweet_xiaomustock_2077803489942802814",
+      "id": "tweet_xiaomustock_2077969239865262495",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Thu, 16 Jul 2026 17:12:10 GMT",
-      "content": "全网看起来都清仓了， 抄了soxl，muu，snxx， 三个成本142/27.2/15",
-      "url": "https://x.com/xiaomustock/status/2077803489942802814",
-      "tweet_id": "2077803489942802814"
+      "published_at": "Fri, 17 Jul 2026 04:10:48 GMT",
+      "content": "睡醒天塌了",
+      "url": "https://x.com/xiaomustock/status/2077969239865262495",
+      "tweet_id": "2077969239865262495"
+    },
+    {
+      "id": "tweet_xingpt_2078013823789957349",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Fri, 17 Jul 2026 07:07:57 GMT",
+      "content": "洛阳将长期纸贵：知识是无限的，人类文明是不断进步的，人类需要纸来记录历史和文明，因此对纸的需求也是无限的，以前用毛笔，后来制版印刷，再后来激光打印，对纸的需求指数级上升，papermaxxing！除了高端的生产用Paper，还有消费级的tissue和napkin；随着人们对美好生活的追求，纸张的层数也在指数级上升，从2层4层，现在到8层16层！纸张需求增长看不到极限！ 但生产纸的供应是有限的，生产纸需要种树，一个树长成需要几年甚至数十年，地球植被还在被破坏，能用来造林的土地越来越少，纸张供给被几大造纸厂长期协议锁定到5年后了，长期缺纸必定是行业长期趋势，缺纸超级周期！",
+      "url": "https://x.com/xingpt/status/2078013823789957349",
+      "tweet_id": "2078013823789957349"
+    },
+    {
+      "id": "tweet_xingpt_2077976731185815654",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Fri, 17 Jul 2026 04:40:34 GMT",
+      "content": "《龙虾时刻与DeepSeek 冲击》 Kimi K3 全网一片赞誉，都说要对标Fable5；中国大模型的崛起让OpenAI、Anthropic的定价开始产生质疑。Deepseek冲击每隔一段时间肯定会发生，只要美国大模型厂几个月没有新东西拉开差距，中国大模型就会以 1/20 之一的价格和 90% 的能力把美国竞对卷进价格战。 那么从投资来说，也是一个渐进往返的关系：美国大模型受到冲击，半导体Capex高投入难持续，与中国大模型和国产算力链相比，美国投入的性价比遭受质疑，也就是Deepseek moment。 Capex投入少的公司，现金流强的公司比如苹果、腾讯就会涨，Capex投入多的，现金流吃紧的公司比如亚马逊就会跌，半导体产业链（存储、CPU、光模块……）也会跌； 几个月后，美国大模型继续推出新品开始拉开差距，半导体超级周期继续发动，云厂继续投入；投入多的公司和半导体产业链继续上涨，类似于年初的龙虾爆发+Opus 4.6；Agent智能经济引爆了Token需求。 AI的发展就是曲折前行的，DeepSeek冲击与龙虾时刻每隔半年就开始交替出现。 这个模式有两个终局： 健康的终局是美国大模型继续发力拉开差距，云厂收入ROI开始持续好转，有现金流继续投入，半导体需求继续增加，供需两旺，你好我好大家好，继续跳舞继续high； 悲惨的终局是美国大模型再也上不去了，每次更新都是渐进式的，而非跳跃式的；类比iPhone年年换新，但是iPhone4 之后就逐渐没有了革命性的差距，年年挤牙膏； 云厂投入巨大但是现金流还是无法转正，ROI持续萎靡。中国大模型价格战把大模型价格打下来，OA两大厂一级估值开始倒挂，大模型陷入价格战，资产泡沫崩盘。 价格战之后，大模型成本降低，普及率上升，最终实现正向资本回报，走出泡沫复制互联网复苏路径。 现在资产的定价是往悲观方向在走的，要重回乐观情形，只能寄希望于OA两个厂放出大招，大模型能力有跳跃式的发展，推动大模型需求继续提升，云厂通过出租算力收支回复平衡。我们期待下一个龙虾时刻……",
+      "url": "https://x.com/xingpt/status/2077976731185815654",
+      "tweet_id": "2077976731185815654"
     },
     {
       "id": "tweet_xingpt_2077714640566718895",
@@ -155,22 +203,13 @@
       "tweet_id": "2077714640566718895"
     },
     {
-      "id": "tweet_xingpt_2077707703791829131",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 16 Jul 2026 10:51:33 GMT",
-      "content": "一切都有迹可循：当美光财报出现高达 85% 的净利率的时候，所有下游企业都开始愤怒，英伟达开始削减机柜的存储比例，苹果开始转嫁成本到消费者，半导体产业几乎就在逼着存储厂商调价，降低价格上浮的节奏，让利给上下游。 那么股价只有向下调整这一种解法了。 当然现在来说这些似乎有点晚，但当下一次出现某个产业链公司净利率极高的时候，往往是股价见顶的象征",
-      "url": "https://x.com/xingpt/status/2077707703791829131",
-      "tweet_id": "2077707703791829131"
-    },
-    {
-      "id": "tweet_xingpt_2077594716628226515",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 16 Jul 2026 03:22:34 GMT",
-      "content": "图赫尔是个外行……",
-      "url": "https://x.com/xingpt/status/2077594716628226515",
-      "tweet_id": "2077594716628226515"
+      "id": "tweet_hibtc37_2078008621250773105",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Fri, 17 Jul 2026 06:47:17 GMT",
+      "content": "韩国政府加保证金+加息，这操作是要刺破泡沫，不是维稳啊！我判断失误了，应该疯狂做空海力士，而我还做多……",
+      "url": "https://x.com/hibtc37/status/2078008621250773105",
+      "tweet_id": "2078008621250773105"
     },
     {
       "id": "tweet_hibtc37_2077743322521624673",
@@ -189,20 +228,11 @@
       "content": "这个交易测试账户，资产到6w的目标了，目标50W还差43.8w 可惜SPCX看准，但仓位没吃够，还是不够果断啊 下一个目标做空CBRS和BTC，你认为哪个赔率更高呢？",
       "url": "https://x.com/hibtc37/status/2077906191947305114",
       "tweet_id": "2077906191947305114"
-    },
-    {
-      "id": "tweet_hibtc37_2077732121054175398",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Thu, 16 Jul 2026 12:28:34 GMT",
-      "content": "存储到我成本线了，先投降再说",
-      "url": "https://x.com/hibtc37/status/2077732121054175398",
-      "tweet_id": "2077732121054175398"
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
