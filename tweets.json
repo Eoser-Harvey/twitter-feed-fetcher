@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-16T22:59:50.868434+00:00",
+  "fetched_at": "2026-07-17T00:07:15.001894+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2077890013841310149",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 16 Jul 2026 22:55:59 GMT",
+      "content": "R to @elonmusk: Some of the engines didn’t start, triggering an automatic launch abort. Now offloading propellant. Next launch attempt hopefully in a few days.",
+      "url": "https://x.com/elonmusk/status/2077890013841310149",
+      "tweet_id": "2077890013841310149",
+      "translated": "R 致@elonmusk：一些引擎没有启动，触发了自动发射中止。现在正在卸载推进剂。希望在几天内进行下一次发射尝试。"
+    },
     {
       "id": "tweet_elonmusk_2077702864345133420",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2077882072950096042",
       "tweet_id": "2077882072950096042",
       "translated": "了解更多关于星舰的信息"
-    },
-    {
-      "id": "tweet_elonmusk_2077845977516392703",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 16 Jul 2026 20:01:00 GMT",
-      "content": "RT by @elonmusk: No Starship, no orbital data centers. No orbital data centers, no potential $28.5 trillion market. Before you watch tonight's launch, see what we think SpaceX's master plan is.",
-      "url": "https://x.com/elonmusk/status/2077845977516392703",
-      "tweet_id": "2077845977516392703",
-      "translated": "RT @elonmusk：没有星舰，没有轨道数据中心。没有轨道数据中心，就没有 28.5 万亿美元的潜在市场。在观看今晚的发射之前，先看看我们认为 SpaceX 的总体规划是什么。"
     },
     {
       "id": "tweet_cz_binance_2077741288263180688",
