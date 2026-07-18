@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-18T13:20:28.242532+00:00",
+  "fetched_at": "2026-07-18T14:56:58.875987+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2078488424894390501",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 18 Jul 2026 14:33:51 GMT",
+      "content": "Video",
+      "url": "https://x.com/elonmusk/status/2078488424894390501",
+      "tweet_id": "2078488424894390501",
+      "translated": "视频"
+    },
     {
       "id": "tweet_elonmusk_2078367770899542088",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2078368917404151868",
       "tweet_id": "2078368917404151868",
       "translated": "MF 月球上的大众司机！！"
-    },
-    {
-      "id": "tweet_elonmusk_2078368743634149460",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 18 Jul 2026 06:38:17 GMT",
-      "content": "Grok Build improves almost every day",
-      "url": "https://x.com/elonmusk/status/2078368743634149460",
-      "tweet_id": "2078368743634149460",
-      "translated": "Grok Build 几乎每天都在进步"
     },
     {
       "id": "tweet_cz_binance_2078018027937747183",
