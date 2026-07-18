@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-18T08:51:00.538160+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-18T10:21:21.155146+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2078368917404151868",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 18 Jul 2026 06:38:58 GMT",
-      "content": "Mass drivers on the mf Moon!!",
-      "url": "https://x.com/elonmusk/status/2078368917404151868",
-      "tweet_id": "2078368917404151868",
-      "translated": "MF 月球上的大众司机！！"
-    },
-    {
-      "id": "tweet_elonmusk_2078368743634149460",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 18 Jul 2026 06:38:17 GMT",
-      "content": "Grok Build improves almost every day",
-      "url": "https://x.com/elonmusk/status/2078368743634149460",
-      "tweet_id": "2078368743634149460",
-      "translated": "Grok Build 几乎每天都在进步"
-    },
-    {
-      "id": "tweet_elonmusk_2078366941199171689",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 18 Jul 2026 06:31:07 GMT",
-      "content": "Easy predictions",
-      "url": "https://x.com/elonmusk/status/2078366941199171689",
-      "tweet_id": "2078366941199171689",
-      "translated": "简单的预测"
-    },
     {
       "id": "tweet_cz_binance_2078018027937747183",
       "username": "cz_binance",
@@ -232,8 +202,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 10
+    "users_success": 7,
+    "users_failed": 1,
+    "nitter_healthy": 9
   }
 }
