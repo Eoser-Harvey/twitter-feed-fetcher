@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-18T00:02:46.676045+00:00",
+  "fetched_at": "2026-07-18T03:22:32.163683+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2078250748920414692",
+      "id": "tweet_elonmusk_2078290352612487568",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 17 Jul 2026 22:49:25 GMT",
-      "content": "Grok has the best value for coding",
-      "url": "https://x.com/elonmusk/status/2078250748920414692",
-      "tweet_id": "2078250748920414692",
-      "translated": "Grok 具有最佳的编码价值"
+      "published_at": "Sat, 18 Jul 2026 01:26:47 GMT",
+      "content": "RT by @elonmusk: Can't wait! Grok 4.5 has been amazing already",
+      "url": "https://x.com/elonmusk/status/2078290352612487568",
+      "tweet_id": "2078290352612487568",
+      "translated": "RT @elonmusk：等不及了！ Grok 4.5 已经很棒了"
     },
     {
-      "id": "tweet_elonmusk_2078200590765535431",
+      "id": "tweet_elonmusk_2078122342966858183",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 17 Jul 2026 19:30:06 GMT",
-      "content": "Cool",
-      "url": "https://x.com/elonmusk/status/2078200590765535431",
-      "tweet_id": "2078200590765535431",
-      "translated": "凉爽的"
+      "published_at": "Fri, 17 Jul 2026 14:19:10 GMT",
+      "content": "RT by @elonmusk: Grok 4.5 uses less tokens than any other big model, performance great on almost all tasks, cost you cheaper than any big model, finishes the task faster than others. Makes me happy :)",
+      "url": "https://x.com/elonmusk/status/2078122342966858183",
+      "tweet_id": "2078122342966858183",
+      "translated": "RT by @elonmusk：Grok 4.5 使用的代币比任何其他大型模型都少，几乎在所有任务上都表现出色，成本比任何大型模型都便宜，比其他模型更快地完成任务。让我开心:)"
     },
     {
-      "id": "tweet_elonmusk_2078195617877143895",
+      "id": "tweet_elonmusk_2078291115858624574",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 17 Jul 2026 19:10:20 GMT",
-      "content": "Grok 4.5 is arguably #1 when taking speed and cost into account",
-      "url": "https://x.com/elonmusk/status/2078195617877143895",
-      "tweet_id": "2078195617877143895",
-      "translated": "考虑到速度和成本，Grok 4.5 可以说是#1"
+      "published_at": "Sat, 18 Jul 2026 01:29:49 GMT",
+      "content": "RT by @elonmusk: Grok TTS just took the top spot on The Humanness Index It scored 94 for humanness....just six points below the human baseline of 100 and achieved the highest model rating Even the cost difference is insane: • Grok TTS: $15 • Eleven v3: $100 Grok delivers the higher human-likeness score while costing nearly 7× less than the next model It is also faster, with 460 ms latency compared with 758 ms for Eleven v3 Grok TTS is delivering top-tier voice quality without the premium price",
+      "url": "https://x.com/elonmusk/status/2078291115858624574",
+      "tweet_id": "2078291115858624574",
+      "translated": "RT by @elonmusk：Grok TTS 刚刚在人性指数中名列前茅 它的人性得分为 94....仅比人类基线 100 低 6 分，并获得了最高的模型评级 即使成本差异也很疯狂： • Grok TTS：15 美元 • 11 个 v3：100 美元 Grok 提供了更高的人性化得分，同时成本比下一个模型低近 7 倍 它也更快，与相比，延迟为 460 毫秒11 v3 Grok TTS 为 758 毫秒，无需高价即可提供顶级语音质量"
     },
     {
       "id": "tweet_cz_binance_2078018027937747183",
@@ -92,6 +92,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2078283847612186739",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sat, 18 Jul 2026 01:00:56 GMT",
+      "content": "Thanks! I’ve always shared personal research and core thoughts for free. Not trying to sell anything or tell others what to do. And above all, just being transparent about my own returns (win or loss) Maybe this information democratization upsets some business models… When others try and pitch their $40 TA subscriptions that are always right and predicted the semis crash. But if they really believed it, they would have made 5000%+ buying puts and wouldn’t need to market a paywall. Yes, if I’m on 1.4x leverage, and if a portfolio concentrated in memory/photonics underlying crashes -35% on avg… you get a 49% drawdown. I’m just sharing what happens. But I expect AI names to recover since I see demand from compute to energy to memory to networking to be structural.",
+      "url": "https://x.com/aleabitoreddit/status/2078283847612186739",
+      "tweet_id": "2078283847612186739",
+      "translated": "谢谢！我总是免费分享个人研究和核心思想。不试图出售任何东西或告诉别人该做什么。最重要的是，只要对我自己的回报（赢或输）保持透明，也许这种信息民主化会扰乱某些商业模式……当其他人尝试推销他们的 40 美元 TA 订阅时，他们总是正确的并预测了半决赛崩溃。但如果他们真的相信这一点，他们就会买入 5000% 以上的看跌期权，并且不需要营销付费专区。是的，如果我的杠杆率为 1.4 倍，并且如果专注于内存/光子学基础的投资组合平均崩溃 -35%……你会得到 49% 的回撤。我只是分享发生的事情。但我预计人工智能名称将会复苏，因为我认为从计算到能源到内存再到网络的需求都是结构性的。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2078228019584668121",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -112,14 +122,13 @@
       "translated": "$META 正在洽谈以 100 亿美元的交易将计算租赁给 Anthropic。似乎他们看到了 $SPCX $45B 计算交易的利润有多大。但如果超大规模企业抄袭他们的作业，就去验证 Neocloud 商业模式，例如 $NBIS、$IREN 等。资料来源：纽约时报"
     },
     {
-      "id": "tweet_aleabitoreddit_2078161322769068533",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 17 Jul 2026 16:54:04 GMT",
-      "content": "Wow, apparently there’s claims ~3.4% of the adult population in Korea faces liquidation risk? “As of July 13, over 1.2 million leveraged retail traders' accounts hit margin call lines, with 320,000 to 360,000 accounts force-liquidated by brokers.” (There were other sources claiming this data came from Goldman Sachs desks rather than SK financial supervisory service data) Regardless, just evidence recent crash was accelerated by liquidation cascades/deleveraging rather than fundamentals:",
-      "url": "https://x.com/aleabitoreddit/status/2078161322769068533",
-      "tweet_id": "2078161322769068533",
-      "translated": "哇，显然有人声称韩国约有 3.4% 的成年人口面临清算风险？ “截至 7 月 13 日，超过 120 万个杠杆零售交易者账户触及追加保证金线，其中​​ 32 万至 36 万个账户被经纪商强行平仓。” （还有其他消息来源声称该数据来自高盛柜台，而不是 SK 金融监管服务数据）无论如何，有证据表明最近的崩盘是由清算级联/去杠杆化而不是基本面加速的："
+      "id": "tweet_qinbafrank_2078283378009207114",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sat, 18 Jul 2026 00:59:04 GMT",
+      "content": "这两天美伊冲突最大的变化在于开始突破军事目标范畴，能源基础设施与民用设施相继成为打击目标，意味着再持续下去已经到了能影响市场的阶段。 科威特周五指，伊朗将袭击范围扩大至科威特的电力与海水淡化厂。伊拉克官员周四称，该国北部库尔德地区最大的天然气田因面临遭袭的威胁而关闭，美军则将空袭目标延伸至距霍尔木兹海峡350英里以外的恰巴哈尔港。双方均未显示出任何收手迹象。 伊朗消息称打击一艘未经许可穿越海峡船只，美军称重启封锁三天内拦截六船 军事冲突的深化已直接传导至全球能源市场。据船舶追踪机构Kpler数据，霍尔木兹海峡通航量已跌至三周低点 最大的因素是油价突破了之前聊到的89-85区间，看布油的走势隐隐有突破均线压制的迹象，需要密切关注。需要真的突破并能站稳、市场未来一段时间又要受到油价的影响了。 7号冲突爆发后，开始油价反弹但没有很高，然后本周cpi和ppi数据有很好、短期内市场会忽略美伊冲突的影响。但是如果持续两周后还没看到缓和的迹象、同时油价突破压力位、市场的耐心也就越来越小了。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2078283378009207114",
+      "tweet_id": "2078283378009207114"
     },
     {
       "id": "tweet_qinbafrank_2078055175030485427",
@@ -138,15 +147,6 @@
       "content": "这个挑战挺有意思的，同一时间交易rToken比xStocks成交价低了1.5美金，充分说明了流动性深度的重要性。 这说明流动性优势不只是数据好看，是真能拿来交易的 看了Bitget最近rToken的几个挑战，价差有时候不是最窄，但综合执行体验，尤其是大单和波动时候，差距拉得开。为什么rToken的流动性这么好？核心是机制决定的 rToken的订单不是在平台内部撮合完事，它通过合规经纪商直连纳斯达克和纽交所的流动性池。买的时候相当于你用USDT在美股市场真买了股票，然后平台给你铸成1:1的代币；卖的时候反过来，股票在美股那边直接卖掉。 这就直接把“券商级流动性”带进来了。其他一些代币化产品要么靠内部做市商，要么深度薄，价差一拉就明显，稍微大点单就得层层穿。rToken因为订单能走到真实美股订单簿，深度和活跃度天然高一个量级。 可以说这是底层架构带来的结构性优势。",
       "url": "https://x.com/qinbafrank/status/2078034890512334909",
       "tweet_id": "2078034890512334909"
-    },
-    {
-      "id": "tweet_qinbafrank_2077957454764417288",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 17 Jul 2026 03:23:58 GMT",
-      "content": "听说基本面已经不重要了？去年底今年初的时候技术面可看不出来美光能涨到一千以上，但是基本面能算出来。二级投资哪有什么非黑即白，各有各的优势。 为什么有人觉得“基本面不重要了”？其实是短期市场现象和情绪的的放大： 1）短期：资金、情绪、叙事（AI hype）、主题炒作、量化资金抱团，能让股价短期严重脱离基本面。涨的时候是疯涨、跌的时候也是狂跌。这种情况下，短期也不是基本面能决定的了。 2）而中长期基本面依然是最终的锚。 盈利是不是能兑现、现金流是在持续好转还是持续恶化、竞争格局更好还是更差，这才是真正决定长期走势的指挥棒， 不是非黑即白，也不用此消彼长。基本面和技术面结合也是更好的。 1）基本面决定“买什么”（方向和持有加仓的理由） 找有真实增长驱动、护城河、合理估值的公司。不是所有AI概念股都值得买，要看谁真正能把需求变成利润和现金流。 2）技术面决定“什么时候买/卖、仓位多少”（择时和风险控制） 趋势跟踪、均线系统、成交量、支撑阻力、RSI/MACD等，避免在明显弱势里重仓。基本面好的股票如果技术面显示筑底完成、放量突破，就可以加仓；高位冲得太猛时，也可以用技术面做减仓或对冲。 其实可以这么说： 基本面能提前看出大逻辑； 技术面更擅长跟踪趋势和控制风险。 两者结合起来会更游刃有余。 而更重要的就是活的够久，确保自己不下牌桌，能持续赚钱。",
-      "url": "https://x.com/qinbafrank/status/2077957454764417288",
-      "tweet_id": "2077957454764417288"
     },
     {
       "id": "tweet_xiaomustock_2078226111373467737",
@@ -204,36 +204,36 @@
       "tweet_id": "2077976731185815654"
     },
     {
-      "id": "tweet_hibtc37_2078046865871065561",
+      "id": "tweet_hibtc37_2077697281911136554",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Fri, 17 Jul 2026 09:19:15 GMT",
-      "content": "可怕，这去杠杆不还早着啊😅😅",
-      "url": "https://x.com/hibtc37/status/2078046865871065561",
-      "tweet_id": "2078046865871065561"
+      "published_at": "Thu, 16 Jul 2026 10:10:08 GMT",
+      "content": "RT by @hibtc37: 37度七粉群 开放专用贴 免费电报群，本周开放88个名额，申请加群，请留下评论报名 服务能力有限，为了保持群风，只能每周分批开放，请理解 最好说一下申请理由，怎么对我达成200k粉丝目标有帮助，评论优秀者，可以直接拉进群 加群规则：88个名额，由评论里报名的粉丝选出，不区分新老粉，但老铁粉依然是优先，我会用Grok来评分，评分最高88位，可免费进群 评分规则：请@grok 三天后统计在本条内容下方的留言者的分数，分数由高到低选出前100位，列出来他们的ID和分数，请在5天后再给出结果，分数统计逻辑是留言者对 @hibtc37 在过去两周的互动分数，每位留言者的互动分数由以下4项求和： 1、转发，3分 2、评论，2分 3、点赞，1分 4、收藏，3分 说明：如果名单里有垃圾广告和黄诈号，志愿者会手工剔除。名单出来后，会告诉大家怎么进群。如有不周之处，请理解，祝你工作和生活愉快，谢谢支持🙏",
+      "url": "https://x.com/hibtc37/status/2077697281911136554",
+      "tweet_id": "2077697281911136554"
     },
     {
-      "id": "tweet_hibtc37_2078008621250773105",
+      "id": "tweet_hibtc37_2078314152880406557",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Fri, 17 Jul 2026 06:47:17 GMT",
-      "content": "韩国政府加保证金+加息，这操作是要刺破泡沫，不是维稳啊！我判断失误了，应该疯狂做空海力士，而我还做多……",
-      "url": "https://x.com/hibtc37/status/2078008621250773105",
-      "tweet_id": "2078008621250773105"
+      "published_at": "Sat, 18 Jul 2026 03:01:21 GMT",
+      "content": "ETF连续四天正流入，昨天+$132.33m，这波反弹继续，上区间656有戏了",
+      "url": "https://x.com/hibtc37/status/2078314152880406557",
+      "tweet_id": "2078314152880406557"
     },
     {
-      "id": "tweet_hibtc37_2077743322521624673",
+      "id": "tweet_hibtc37_2078307347139797463",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 16 Jul 2026 13:13:05 GMT",
-      "content": "RT by @hibtc37: 易理华现在这个词在我脑子里是一种type， 已经不仅代表此人了。 只要是跟他行为有相同的人 我全部把它归类为“易类纲目”。 见利忘义，恩将仇报，为了钱能坏良心害人的人， 都不能算一个人， 只能算小畜牲。 易理华刚经笑来介绍认识我的时候 正值EOS盛世， 我所创立的ONO又是EOS链上华人第一大项目， 他是非常羡慕我，以及特别想认识我的。 但是那时候我没怎么搭理他。 我这个人习惯是这样，从小就不爱和不熟的人多啰嗦。 因为我时间有限，一天要干很多活，还有很多学习和总结思考工作。 而且那时候真的特别忙， 凌晨3点跟西雅图同事开会，早上8点和悉尼开会，下午1点还要和柏林团队开会，初创阶段，作息很难稳定，所以很少看微信。 易理华发现我有事只找笑来，却不搭理他， 用他中专毕业的小脑子只能琢磨出来一个理由：【怪我没钱。 要是我有钱了，徐可不得扑上来笑盈盈的搭理我吗？】 然后，事态的发展就变态起来了， 笑来发现易理华一直在做老鼠仓。 最信任的朴实农村小伙，崩了他。 一向对自己智商自信的笑来被侮辱了智商。 易理华恩将仇报的 做了笑来inb基金3个亿的 极巨化老鼠仓！ 黄毛华一口吃成巨化肥华。 笑来正打算封杀肥华。 然而华子书没读下去，腹黑下作的兵法却研究了不少， 跑过来跟我说： 【徐可你知道吗？别看笑来表面上支持你，实际上笑来他私下和我亲口说你闲话，说你是靠睡投资人拿的投资。】 试图从内部瓦解我和笑来的信任。 这兵法我懂， 我小学有个同学女孩叫hpp，非常嫉妒我，（后来我才知道是她暗恋的男生暗恋我） 她就为了报复我、孤立我， 去和我最好的两个闺蜜挑拨我，试图分裂她们和我。 真的有其中一个离开了我。 另外一个闺蜜至今还是我的好闺蜜。 但这种弱智的事情只在小学发生过， 再大一点大家都成熟了也各自忙学习， 没人这么无聊去跟张三说：诶 李四背后说你坏话哦。 所以我的认知就是：干这种事的，要么就小学生，要么就是小学没毕业的大人。 我怎么也不会相信，笑来一个50多快入土的老登 那会儿手上币有几百亿美金，闲到要背后说我闲话。 我直接甩截图给笑来， 笑来也是性情中人， 马上发朋友圈自证清白：徐可是我支持的创业者，我永远也从来没有编造这种下三滥谣言诋毁过她。 然后易理华🤡， 秒给我弹语音： 【哎呀，徐可 我只是好心提醒一下你， 你干嘛把这个发给笑来呀？】 我说：那你告诉我他到底说过这话没有？ 要不我拉他进麦你俩对峙下？ 易理华：【误会误会，哎呀，我就是那么一说， 跟你开玩笑的啦！ 求你帮我删一下朋友圈好不好， 不吵架了求你了…】 我说：那你给我道歉辟谣。 易理华私下跟我道歉态度非常良好， 姿态非常的舔狗。 发的朋友圈却是心不甘情不愿。 公开承认小人行为，非常潦草，非常没有诚意。 我很久以后回过头才想明白， 我跟他无冤无仇， 他没见过我，也不认识我，不知道我的家庭情况。 他为什么要往我身上泼脏水呢，为什么造谣我呢？ 后来我才懂， 他用他村里精神小伙的认知自导自演这一出， 就是为了转移大众视线，帮他自己度过危机的手段。 然后这件事白热化之后 紧接着， 笑来那个名震海内外江湖的“韭菜都是傻逼”录音门 就被爆出来了。 至此，笑来系彻底跌落神坛，不只是人设崩塌，还附带赠送一个边控半永久。 而那会儿的黄毛华子已经踩着笑来的尸体， 摇身一变变成精英华子， 开始混政府投资了。 很快骗取当地小富楼霁月的情感肉体与利益。 说实话她爸爸是行长，既不算天龙人也不算什么一代，只能算比较稳定的中产。 江浙沪行长可以说满地跑，（我妈过生日，要来十几个派出所所长，二十几个银行行长，这种是坐不上主桌的）， 但是配易理华这种中专精神小伙已经是绰绰有余。 华子拿着崩笑来崩来的现金 给楼家出了点钱买房， 岳父还以为自己女儿找到了好归宿， 钓到镶钻金龟婿， kuku给亲亲女婿拉人头搞传销。 华子也逐渐在推杯换盏中迷失自我， 踩着楼霁月她爹的名号，搞得自己也跟行长亲儿子一样，要在浙江只手遮天啦。 正所谓无知者无畏， 社青华子正是凭着自己对神秘力量的一无所知， 一手把自己岳父的晚节崩的稀烂不堪。 当然稀烂的老头只配做自己的前岳父， 没有利用价值了，吃干抹净了就一脚蹬。 对于我来说， 我从幼儿园到2017年“币圈”成立之前，从来没接触过这种下流胚的圈子和人。 我自从跟我妈说过这些事，就不准我从事w3了。 就像我妈说的： “妈妈这一代那么努力，就是为了让你不要接触这些不三不四的人。 从小到大把你捧在手心里像天上的仙子一样养着，读书都是最好的学校， 力学到南外到mva到ucl， 你最后居然跟这些不三不四的人搅到一起做生意，这种低档次的人要跟你妈结交攀附，你妈从来都不搭理。” 我以前觉得是我妈有刻板印象， 后来真和这些凤凰男创业者做生意才发现， 他们是真他妈低等中的低等， 下作中的下作， 公司干不过你，成绩不如你，没有你优秀， 就来造你黄谣。 真搞不过这些没出息的捞货。 我发现我是图有学问没有社会化经历， 跟我妈相比 我真的是拉完了",
-      "url": "https://x.com/hibtc37/status/2077743322521624673",
-      "tweet_id": "2077743322521624673"
+      "published_at": "Sat, 18 Jul 2026 02:34:19 GMT",
+      "content": "终于有人挖出来了，果然是洗钱！当时看到新闻第一反应就是女方想卷钱，要不然人不会这么蠢到简单数学题都不会算的",
+      "url": "https://x.com/hibtc37/status/2078307347139797463",
+      "tweet_id": "2078307347139797463"
     }
   ],
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
