@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-18T03:22:32.163683+00:00",
+  "fetched_at": "2026-07-18T06:08:00.083429+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2078290352612487568",
+      "id": "tweet_elonmusk_2078326813953265926",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 18 Jul 2026 01:26:47 GMT",
-      "content": "RT by @elonmusk: Can't wait! Grok 4.5 has been amazing already",
-      "url": "https://x.com/elonmusk/status/2078290352612487568",
-      "tweet_id": "2078290352612487568",
-      "translated": "RT @elonmusk：等不及了！ Grok 4.5 已经很棒了"
+      "published_at": "Sat, 18 Jul 2026 03:51:40 GMT",
+      "content": "RT by @elonmusk: My favorite system prompt at Grok Build: Do a) …, b) …, c) …. After finishing, please double-check the correctness and DM the visualization of sample outputs. Then walk away.",
+      "url": "https://x.com/elonmusk/status/2078326813953265926",
+      "tweet_id": "2078326813953265926",
+      "translated": "RT by @elonmusk：Grok Build 中我最喜欢的系统提示符：Do a) …, b) …, c) …。完成后，请仔细检查正确性并DM示例输出的可视化。然后走开。"
     },
     {
-      "id": "tweet_elonmusk_2078122342966858183",
+      "id": "tweet_elonmusk_2078174130554523916",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 17 Jul 2026 14:19:10 GMT",
-      "content": "RT by @elonmusk: Grok 4.5 uses less tokens than any other big model, performance great on almost all tasks, cost you cheaper than any big model, finishes the task faster than others. Makes me happy :)",
-      "url": "https://x.com/elonmusk/status/2078122342966858183",
-      "tweet_id": "2078122342966858183",
-      "translated": "RT by @elonmusk：Grok 4.5 使用的代币比任何其他大型模型都少，几乎在所有任务上都表现出色，成本比任何大型模型都便宜，比其他模型更快地完成任务。让我开心:)"
+      "published_at": "Fri, 17 Jul 2026 17:44:57 GMT",
+      "content": "RT by @elonmusk: The beginning of the Megacharger network Build-out is focused on the most important Semi routes and depots first. Follow our progress here: https://www.tesla.com/findus?bounds=40.088148238001295%2C-72.5347021341828%2C25.057723630856046%2C-110.0859716654328&filters=tesla_exclusive_megachargers%2Ccoming_soon_megachargers%2Call_megachargers For Semi customers who can install Megachargers or Basechargers at their depots, we recommend installing their own infrastructure too for the most efficient use of their fleet. Especially in California, Washington, Oregon, and Canada - private Semi Charging for Business financials are super attractive right now. Get in touch: https://www.tesla.com/semi-charging-for-business",
+      "url": "https://x.com/elonmusk/status/2078174130554523916",
+      "tweet_id": "2078174130554523916",
+      "translated": "RT by @elonmusk：Megacharger 网络建设的开始首先关注最重要的 Semi 路线和车站。在这里关注我们的进展： https://www.tesla.com/findus?bounds=40.088148238001295%2C-72.5347021341828%2C25.057723630856046%2C- 110.0859716654328&filters=tesla_exclusive_megachargers%2Ccoming_soon_megachargers%2Call_megachargers对于可以在其仓库安装 Megachargers 或 Basechargers 的 Semi 客户，我们建议也安装自己的基础设施，以便最有效地利用其车队。特别是在加利福尼亚州、华盛顿州、俄勒冈州和加拿大，私人半收费企业财务现在非常有吸引力。联系我们：https://www.tesla.com/semi-charging-for-business"
     },
     {
-      "id": "tweet_elonmusk_2078291115858624574",
+      "id": "tweet_elonmusk_2078329972226457616",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 18 Jul 2026 01:29:49 GMT",
-      "content": "RT by @elonmusk: Grok TTS just took the top spot on The Humanness Index It scored 94 for humanness....just six points below the human baseline of 100 and achieved the highest model rating Even the cost difference is insane: • Grok TTS: $15 • Eleven v3: $100 Grok delivers the higher human-likeness score while costing nearly 7× less than the next model It is also faster, with 460 ms latency compared with 758 ms for Eleven v3 Grok TTS is delivering top-tier voice quality without the premium price",
-      "url": "https://x.com/elonmusk/status/2078291115858624574",
-      "tweet_id": "2078291115858624574",
-      "translated": "RT by @elonmusk：Grok TTS 刚刚在人性指数中名列前茅 它的人性得分为 94....仅比人类基线 100 低 6 分，并获得了最高的模型评级 即使成本差异也很疯狂： • Grok TTS：15 美元 • 11 个 v3：100 美元 Grok 提供了更高的人性化得分，同时成本比下一个模型低近 7 倍 它也更快，与相比，延迟为 460 毫秒11 v3 Grok TTS 为 758 毫秒，无需高价即可提供顶级语音质量"
+      "published_at": "Sat, 18 Jul 2026 04:04:13 GMT",
+      "content": "RT by @elonmusk: Tesla Diner is turning 1 on July 21st, so we're throwing a party Come swing by for a day full of fun: – Cybercab on display – Birthday menu – @Tesla_Optimus – Face painting for kids & adults – Photo booth – Servers on roller skates delivering your order – Light show – Skypad DJ – Complimentary collectibles  🎂🎂🎂 P.S.: Complimentary Diner birthday hats signed by @woodhaus2 for the first 50 car orders at midnight that day...($15 f&b min order)",
+      "url": "https://x.com/elonmusk/status/2078329972226457616",
+      "tweet_id": "2078329972226457616",
+      "translated": "RT by @elonmusk：Tesla Diner 将于 7 月 21 日迎来 1 岁生日，所以我们要举办一场派对来度过充满乐趣的一天： – 展示的网吧 – 生日菜单 – @Tesla_Optimus – 儿童和成人脸部彩绘 – 照相亭 – 穿着溜冰鞋的服务员送餐 – 灯光秀 – Skypad DJ – 免费收藏品 🎂🎂🎂 P.S.：免费当天午夜前 50 份汽车订单可获得由 @woodhaus2 签名的餐厅生日帽...（餐饮最低订单 15 美元）"
     },
     {
       "id": "tweet_cz_binance_2078018027937747183",
@@ -92,6 +92,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2078338950150959558",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sat, 18 Jul 2026 04:39:54 GMT",
+      "content": "For anyone watching the 25%+ premium in $SKHY versus SK Hynix's Korean shares: The ADRs and local shares become convertible on July 29. Should open the door for arbitrage and likely compress the ADR premium. Maybe lifting Korean shares or pressuring US shares. 2.5% currently is the US ADR stock, so an additional 22.5% can be converted.",
+      "url": "https://x.com/aleabitoreddit/status/2078338950150959558",
+      "tweet_id": "2078338950150959558",
+      "translated": "对于那些关注 $SKHY 相对于 SK 海力士韩国股票 25% 以上溢价的人来说：美国存托凭证和本地股票将于 7 月 29 日开始可兑换。应该会打开套利之门，并可能压缩美国存托凭证溢价。也许会提振韩国股市或给美国股市带来压力。目前2.5%是美国ADR股票，因此可以额外转换22.5%。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2078283847612186739",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -112,14 +122,13 @@
       "translated": "谢谢，喜欢阅读评论！高盛将旭创科技 PT 上调至 2581 元。较当前估值上涨约 163.6%。但最大的事情是其 2026-2028 年盈利预期修正高达 65%/108%/119%，基于： - 更高的硅光子模块产量 - 横向扩展、纵向扩展、横向扩展 - 1.6T/3.2T 提升混合 ASP + 利润率 - AI 资本支出的增加 这通常是光学行业的重要读物，因为： 我倾向于将旭创视为 $TSM（半成品）资本支出）类型了解光子学领域的发展情况。例如。更高的硅光子渗透率意味着更多的连续激光器 TAM，例如 $SIVE (cw)/SOI 晶圆对 $SOI 的需求。未来一代的平均售价上涨对其他光学标记也有积极影响。我想我在报告之外的另一个收获是旭创指出 800 克需求的增长比他们 12 日的记录中预期的要显着。这反过来又表明对 $AAOI 到 $LITE 等公司未来收益的需求增加。 TLDR：高盛在大规模调整期间给出了较高的盈利预测。从根本上说，当 ER 时代到来时，更广泛的光子学生态系统应该感到高兴。"
     },
     {
-      "id": "tweet_aleabitoreddit_2078175882620059719",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 17 Jul 2026 17:51:55 GMT",
-      "content": "$META in talks to lease compute to Anthropic in a $10B dollar deal. Seems like they saw how profitable $SPCX $45B compute deal was. But just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework. Source: NYT",
-      "url": "https://x.com/aleabitoreddit/status/2078175882620059719",
-      "tweet_id": "2078175882620059719",
-      "translated": "$META 正在洽谈以 100 亿美元的交易将计算租赁给 Anthropic。似乎他们看到了 $SPCX $45B 计算交易的利润有多大。但如果超大规模企业抄袭他们的作业，就去验证 Neocloud 商业模式，例如 $NBIS、$IREN 等。资料来源：纽约时报"
+      "id": "tweet_qinbafrank_2078341291138756728",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sat, 18 Jul 2026 04:49:12 GMT",
+      "content": "Authropic宣布从7月20日开始Fable 5将被纳入所有Max和Team Premium订阅计划，但使用额度为原限制的 50%。Pro和 mTeam Standard用户仍然可以通过使用额度访问 Fable，并且会获得一次性的 100 美元额度赠送。这是因为kimi k3的缘故？ 官方给出的解释是： Fable 5 的需求难以预测，因此采取分阶段开放策略，随着获得更多算力资源，逐步扩大用户覆盖。 这已经不是 Fable 5 第一次延长使用周期。7月12日， GPT-5.6 全量放出，Fable 5再次延长了一周至7月19日。 今天再次延长大概凌晨跟kimi k3关系很大了。 AI模型发布已经越来越像一场“排位赛”。大模型厂商OpenAI、Anthropic、Gemini、智谱、 Kimi、DeepSeek等之间的竞争，本质上已经从“谁先做出更聪明的大模型”，进入了下一阶段： “谁能以更低成本、更大规模，把AI真正交付给更多用户。”",
+      "url": "https://x.com/qinbafrank/status/2078341291138756728",
+      "tweet_id": "2078341291138756728"
     },
     {
       "id": "tweet_qinbafrank_2078283378009207114",
@@ -138,15 +147,6 @@
       "content": "这一波去杠杆的触发点是什么？个人角度这一波美股去杠杆触发事件还是月初1号Meta被爆出来售卖算力市场担心“算力是不是过剩”，然后美股半导体连续两天大跌，soxx基本上破位了。当然也可以更早来看，6月21号这里https://x.com/qinbafrank/status/2068637353061896476?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到6月下旬是“高位震荡偏弱、先防回撤、再看7月初是否修复”的节点，当时主要原因还是沃什鹰派言论预期、季末再平衡、token经济性等几个因素一起导致的。当时美股疲软、韩股大跌。转过7月美股还没完全修复，就迎来彭博报道Meta售卖算力的事件冲击，整个走势就完全变了。 短期涨幅透支预期，边际买盘枯竭，一旦抛压出现，没有增量资金承接。此时杠杆资金就是整个市场最薄弱的一环，几乎所有加杠杆都有平仓线和风控线，早期只需要短期快速下跌几个点，大量杠杆账户会自动卖出股票，开始清算。 这就是上周二三星业绩预告营收稍低于市场最乐观预期但也远超平均预期，还是大跌的原因，负向循环已经形成了。这也是上周四这里https://x.com/qinbafrank/status/2075067198570475727?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到压缩式去杠杆： “当下市场是多层杠杆化叙事的同步表达 本次调整速度远超历史，主要因为市场已从单纯“买股票”升级为“买多层杠杆化叙事”。一个半导体多头头寸同时存在于： 1）现货股票与高beta个股 2）单名期权、OTM看涨期权、LEAP远期期权 3）杠杆ETF（SOXL、韩国芯片杠杆ETF） 4）主题基金、CTA策略、波动率控制模型 5）融资买入余额与趋势跟踪资金 这就导致了当上涨时，所有表达同时增加delta；当反转时，所有表达同时减少delta，形成“共识强化”与“拥挤踩踏”的极端对称。所有人都朝同一方向加仓，也会朝同一方向减仓。流动性看似充裕，实则极度脆弱。一旦价格无法继续上行，被延后的反证会集中爆发。” 然后是上周中伊朗攻击霍尔木兹海峡商船，美军反击，到现在还没缓和的迹象、这也对冲了本周cpi和ppi数据的利好。 然后再试本周一韩国投资证券下调了今年和明年海力士的盈利预测、虽然对海力士的目标价不变，但基本上也进一步强力打击市场的情绪。 负向螺旋进一步加深。 个人角度可以把一次完整去杠杆分为四步： 1）拥挤交易开始松动，现在拥挤交易已经不是松动、可能是崩塌了； 2）主动卖出和机械清算加速，能明显感到机械清算正在加速，甚至已进入后段； 3）波动率见顶、广度背离、卖压衰竭：刚看到一些迹象 4）资金稳定、好消息重新被买入、逐步再风险化。 所以目前最准确的定位是： 1）现在应该正在度过加速机械清算的后期，开始广度背离、还没看到卖压衰竭的第三阶段前段。 2）价格和对冲基金仓位已经清洗得比较深，但零售杠杆和系统融资杠杆还没有确认下降（要看FINRA之后的持仓数据披露）； 3）期权市场已经很紧张，但尚未完成由“恐慌上升”向“恐慌消退”的转折； 4）市场还没有恢复奖励好消息的能力。 什么时候看到市场出现好消息不跌，好消息就是好消息的时候，届时去杠杆应该是差不多完成了。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
       "url": "https://x.com/qinbafrank/status/2078055175030485427",
       "tweet_id": "2078055175030485427"
-    },
-    {
-      "id": "tweet_qinbafrank_2078034890512334909",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 17 Jul 2026 08:31:40 GMT",
-      "content": "这个挑战挺有意思的，同一时间交易rToken比xStocks成交价低了1.5美金，充分说明了流动性深度的重要性。 这说明流动性优势不只是数据好看，是真能拿来交易的 看了Bitget最近rToken的几个挑战，价差有时候不是最窄，但综合执行体验，尤其是大单和波动时候，差距拉得开。为什么rToken的流动性这么好？核心是机制决定的 rToken的订单不是在平台内部撮合完事，它通过合规经纪商直连纳斯达克和纽交所的流动性池。买的时候相当于你用USDT在美股市场真买了股票，然后平台给你铸成1:1的代币；卖的时候反过来，股票在美股那边直接卖掉。 这就直接把“券商级流动性”带进来了。其他一些代币化产品要么靠内部做市商，要么深度薄，价差一拉就明显，稍微大点单就得层层穿。rToken因为订单能走到真实美股订单簿，深度和活跃度天然高一个量级。 可以说这是底层架构带来的结构性优势。",
-      "url": "https://x.com/qinbafrank/status/2078034890512334909",
-      "tweet_id": "2078034890512334909"
     },
     {
       "id": "tweet_xiaomustock_2078226111373467737",
@@ -204,6 +204,15 @@
       "tweet_id": "2077976731185815654"
     },
     {
+      "id": "tweet_hibtc37_2078323771421900924",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Sat, 18 Jul 2026 03:39:35 GMT",
+      "content": "学习当美股韭菜，这人流量吊打我们行业，而且所有人都在有序排了很多条长龙…很震惊，还是说，只是新加坡人喜欢排队",
+      "url": "https://x.com/hibtc37/status/2078323771421900924",
+      "tweet_id": "2078323771421900924"
+    },
+    {
       "id": "tweet_hibtc37_2077697281911136554",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -220,20 +229,11 @@
       "content": "ETF连续四天正流入，昨天+$132.33m，这波反弹继续，上区间656有戏了",
       "url": "https://x.com/hibtc37/status/2078314152880406557",
       "tweet_id": "2078314152880406557"
-    },
-    {
-      "id": "tweet_hibtc37_2078307347139797463",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Sat, 18 Jul 2026 02:34:19 GMT",
-      "content": "终于有人挖出来了，果然是洗钱！当时看到新闻第一反应就是女方想卷钱，要不然人不会这么蠢到简单数学题都不会算的",
-      "url": "https://x.com/hibtc37/status/2078307347139797463",
-      "tweet_id": "2078307347139797463"
     }
   ],
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
