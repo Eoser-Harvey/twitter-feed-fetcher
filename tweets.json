@@ -1,36 +1,46 @@
 {
-  "fetched_at": "2026-07-19T16:03:59.401650+00:00",
+  "fetched_at": "2026-07-19T18:00:55.866314+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2078741450812965182",
+      "id": "tweet_elonmusk_2078614590934733223",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 19 Jul 2026 07:19:17 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2078741450812965182",
-      "tweet_id": "2078741450812965182",
-      "translated": "视频"
+      "published_at": "Sat, 18 Jul 2026 22:55:11 GMT",
+      "content": "RT by @elonmusk: Throwback to 2014: Elon Musk gives a tour inside the brand-new Dragon V2 An early glimpse of Elon showing America the spacecraft that would eventually restore its ability to launch astronauts into orbit from its own soil",
+      "url": "https://x.com/elonmusk/status/2078614590934733223",
+      "tweet_id": "2078614590934733223",
+      "translated": "RT by @elonmusk：回顾 2014 年：埃隆·马斯克 (Elon Musk) 参观全新的 Dragon V2 飞船"
     },
     {
-      "id": "tweet_elonmusk_2078562760942850182",
+      "id": "tweet_elonmusk_2078880263556243538",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 18 Jul 2026 19:29:14 GMT",
-      "content": "RT by @elonmusk: Gold rush",
-      "url": "https://x.com/elonmusk/status/2078562760942850182",
-      "tweet_id": "2078562760942850182",
-      "translated": "RT @elonmusk：淘金热"
+      "published_at": "Sun, 19 Jul 2026 16:30:53 GMT",
+      "content": "Wow",
+      "url": "https://x.com/elonmusk/status/2078880263556243538",
+      "tweet_id": "2078880263556243538",
+      "translated": "哇"
     },
     {
-      "id": "tweet_elonmusk_2078402450738893169",
+      "id": "tweet_elonmusk_2078879781806919870",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 18 Jul 2026 08:52:13 GMT",
-      "content": "RT by @elonmusk: Grok Build is becoming a complete environment for building, deploying and managing real-world applications Its plugin marketplace brings the entire development stack into one connected workflow: • Vercel for deployment • Sentry for monitoring • Chrome DevTools for debugging • Cloudflare for infrastructure • Supabase, MongoDB and Neon for databases • Firecrawl for web data • Figma for design • Railway for hosting • Stripe for payments You are not just asking Grok to write code You can build, test, debug, connect infrastructure, deploy and manage production without constantly switching between tools Grok Build combines a frontier model, a powerful agentic harness and all the tools needed to go from an idea to a shipped product",
-      "url": "https://x.com/elonmusk/status/2078402450738893169",
-      "tweet_id": "2078402450738893169",
-      "translated": "@elonmusk 的 RT：Grok Build 正在成为构建、部署和管理实际应用程序的完整环境。它的插件市场将整个开发堆栈引入一个连接的工作流程中： • Vercel 用于部署 • Sentry 用于监控 • Chrome DevTools 用于调试 • Cloudflare 用于基础设施 • Supabase、MongoDB 和 Neon 用于数据库 • Firecrawl 用于 Web 数据 • Figma 用于设计 • Railway 用于托管 • Stripe 用于支付 您不只是要求 Grok 编写代码 您可以构建、测试、调试、连接基础设施，部署和管理生产，无需不断地在工具之间切换 Grok Build 结合了前沿模型、强大的代理工具以及从想法到交付产品所需的所有工具"
+      "published_at": "Sun, 19 Jul 2026 16:28:58 GMT",
+      "content": "Way more than a billion",
+      "url": "https://x.com/elonmusk/status/2078879781806919870",
+      "tweet_id": "2078879781806919870",
+      "translated": "远远超过十亿"
+    },
+    {
+      "id": "tweet_cz_binance_2078884041994952773",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sun, 19 Jul 2026 16:45:54 GMT",
+      "content": "Who will win?",
+      "url": "https://x.com/cz_binance/status/2078884041994952773",
+      "tweet_id": "2078884041994952773",
+      "translated": "谁会赢？"
     },
     {
       "id": "tweet_cz_binance_2078848542001537530",
@@ -50,16 +60,6 @@
       "url": "https://x.com/cz_binance/status/2078018027937747183",
       "tweet_id": "2078018027937747183",
       "translated": "很棒的谈话！"
-    },
-    {
-      "id": "tweet_cz_binance_2077680728276398186",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 16 Jul 2026 09:04:21 GMT",
-      "content": "RT by @cz_binance: binancecoin:native is designed to fight its own inflation. constantly burning, during every transaction. if you haven’t read my last article, some context here.",
-      "url": "https://x.com/cz_binance/status/2077680728276398186",
-      "tweet_id": "2077680728276398186",
-      "translated": "RT @cz_binance：binancecoin:native 旨在对抗自身的通货膨胀。在每次交易过程中不断燃烧。如果你还没有读过我的上一篇文章，这里有一些背景信息。"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -149,6 +149,24 @@
       "tweet_id": "2078431440258441606"
     },
     {
+      "id": "tweet_xiaomustock_2078877540811415949",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Sun, 19 Jul 2026 16:20:04 GMT",
+      "content": "买了5万刀阿根廷赢，最后一场了想把前面买球输的赚回来。 之前阿根廷那一场对手埃及还是谁进球了，被因为很早之前的踩脚吹掉了， 轮到阿根廷进球踩脚啥事没有。 后面阿根廷打的几局都莫名其妙，对手跟封印了一样只防守不进攻， 感觉是一种无形大手黑幕必须要让阿根廷保送。 巨大的阴谋。 再不赌球了他娘的买啥亏啥，我老是想反买一小博大被爆干，干服了正买又被爆干。🌚 赌球真几把脸黑呐。",
+      "url": "https://x.com/xiaomustock/status/2078877540811415949",
+      "tweet_id": "2078877540811415949"
+    },
+    {
+      "id": "tweet_xiaomustock_2078872580476535295",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Sun, 19 Jul 2026 16:00:21 GMT",
+      "content": "全市场真正唯一害怕的事情就是这些云厂缩减2027年的财务开支，尤其是谷歌亚马逊，它俩家就占了全球总支出一半快4000亿美金。",
+      "url": "https://x.com/xiaomustock/status/2078872580476535295",
+      "tweet_id": "2078872580476535295"
+    },
+    {
       "id": "tweet_xiaomustock_2078869561403941324",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -156,24 +174,6 @@
       "content": "假如说此时kimi高价买了一大堆推理卡内存卡，等能到货安装运行的时候，如果被gpt或者ds或者别的claude反超远远拉开，这买的推理卡和内存卡是不是打水漂了或者收效甚低也错过了在模型领先时刻爆赚的红利。 云厂恰恰能解决所有大模型公司的这种顾虑。",
       "url": "https://x.com/xiaomustock/status/2078869561403941324",
       "tweet_id": "2078869561403941324"
-    },
-    {
-      "id": "tweet_xiaomustock_2078868708840349890",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Sun, 19 Jul 2026 15:44:58 GMT",
-      "content": "真正利好的是谷歌和亚马逊这种云厂。 不管谁的模型突然又又领先， 那么云厂都能给调配算力过去， 而不是大模型公司自由算力在领先的时候爆赚在落后的时候爆亏。 云厂是不管谁领先，它的生意都越来越大需求越来越旺，它都能吃到调配算力的溢价。 而谷歌兼具大模型和云厂俩大业务真可能被他笑到最后，模型一时的领先对谷歌来说不重要了。",
-      "url": "https://x.com/xiaomustock/status/2078868708840349890",
-      "tweet_id": "2078868708840349890"
-    },
-    {
-      "id": "tweet_xiaomustock_2078865618779205687",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Sun, 19 Jul 2026 15:32:41 GMT",
-      "content": "再牛逼的模型，想把模型实力转化成收入， 那你就必须要有海量的内存卡和推理卡， 不然破天的富贵你把握不住， 所以你说内存和推理卡缺不缺？ kimi再牛逼能怎么样，富贵来了新增订阅都接不住。",
-      "url": "https://x.com/xiaomustock/status/2078865618779205687",
-      "tweet_id": "2078865618779205687"
     },
     {
       "id": "tweet_xingpt_2078847180379660478",
