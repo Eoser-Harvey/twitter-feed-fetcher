@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-19T14:58:55.300579+00:00",
+  "fetched_at": "2026-07-19T16:03:59.401650+00:00",
   "total": 24,
   "tweets": [
     {
@@ -30,7 +30,7 @@
       "content": "RT by @elonmusk: Grok Build is becoming a complete environment for building, deploying and managing real-world applications Its plugin marketplace brings the entire development stack into one connected workflow: • Vercel for deployment • Sentry for monitoring • Chrome DevTools for debugging • Cloudflare for infrastructure • Supabase, MongoDB and Neon for databases • Firecrawl for web data • Figma for design • Railway for hosting • Stripe for payments You are not just asking Grok to write code You can build, test, debug, connect infrastructure, deploy and manage production without constantly switching between tools Grok Build combines a frontier model, a powerful agentic harness and all the tools needed to go from an idea to a shipped product",
       "url": "https://x.com/elonmusk/status/2078402450738893169",
       "tweet_id": "2078402450738893169",
-      "translated": "@elonmusk 的 RT：Grok Build 正在成为构建、部署和管理实际应用程序的完整环境。它的插件市场将整个开发堆栈带入一个连接的工作流程中： • Vercel 用于部署 • Sentry 用于监控 • Chrome DevTools 用于调试 • Cloudflare 用于基础设施 • Supabase、MongoDB 和 Neon 用于数据库 • Firecrawl 用于 Web 数据 • Figma 用于设计 • Railway 用于托管 • Stripe 用于支付 您不只是要求 Grok 编写代码 您可以构建、测试、调试、连接基础设施，部署和管理生产，无需不断地在工具之间切换 Grok Build 结合了前沿模型、强大的代理工具以及从想法到交付产品所需的所有工具"
+      "translated": "@elonmusk 的 RT：Grok Build 正在成为构建、部署和管理实际应用程序的完整环境。它的插件市场将整个开发堆栈引入一个连接的工作流程中： • Vercel 用于部署 • Sentry 用于监控 • Chrome DevTools 用于调试 • Cloudflare 用于基础设施 • Supabase、MongoDB 和 Neon 用于数据库 • Firecrawl 用于 Web 数据 • Figma 用于设计 • Railway 用于托管 • Stripe 用于支付 您不只是要求 Grok 编写代码 您可以构建、测试、调试、连接基础设施，部署和管理生产，无需不断地在工具之间切换 Grok Build 结合了前沿模型、强大的代理工具以及从想法到交付产品所需的所有工具"
     },
     {
       "id": "tweet_cz_binance_2078848542001537530",
@@ -149,32 +149,31 @@
       "tweet_id": "2078431440258441606"
     },
     {
-      "id": "tweet_xiaomustock_2078640545442996467",
+      "id": "tweet_xiaomustock_2078869561403941324",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Sun, 19 Jul 2026 00:38:19 GMT",
-      "content": "你们是什么时候开始知道hbm存储的",
-      "url": "https://x.com/xiaomustock/status/2078640545442996467",
-      "tweet_id": "2078640545442996467"
+      "published_at": "Sun, 19 Jul 2026 15:48:21 GMT",
+      "content": "假如说此时kimi高价买了一大堆推理卡内存卡，等能到货安装运行的时候，如果被gpt或者ds或者别的claude反超远远拉开，这买的推理卡和内存卡是不是打水漂了或者收效甚低也错过了在模型领先时刻爆赚的红利。 云厂恰恰能解决所有大模型公司的这种顾虑。",
+      "url": "https://x.com/xiaomustock/status/2078869561403941324",
+      "tweet_id": "2078869561403941324"
     },
     {
-      "id": "tweet_xiaomustock_2078226111373467737",
+      "id": "tweet_xiaomustock_2078868708840349890",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Fri, 17 Jul 2026 21:11:31 GMT",
-      "content": "kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实验数据说话。 记得gpt诞生之初，我用的就是kimi， kimi翻译小众文字文档的效果出奇的好。 期待它上市的時候。",
-      "url": "https://x.com/xiaomustock/status/2078226111373467737",
-      "tweet_id": "2078226111373467737",
-      "translated": "kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实验数据说话。 记得gpt诞生之初，我用的就是kimi， kimi翻译小众文字文档的效果出奇的好。 期待它上市的时候。"
+      "published_at": "Sun, 19 Jul 2026 15:44:58 GMT",
+      "content": "真正利好的是谷歌和亚马逊这种云厂。 不管谁的模型突然又又领先， 那么云厂都能给调配算力过去， 而不是大模型公司自由算力在领先的时候爆赚在落后的时候爆亏。 云厂是不管谁领先，它的生意都越来越大需求越来越旺，它都能吃到调配算力的溢价。 而谷歌兼具大模型和云厂俩大业务真可能被他笑到最后，模型一时的领先对谷歌来说不重要了。",
+      "url": "https://x.com/xiaomustock/status/2078868708840349890",
+      "tweet_id": "2078868708840349890"
     },
     {
-      "id": "tweet_xiaomustock_2078164123289002167",
+      "id": "tweet_xiaomustock_2078865618779205687",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Fri, 17 Jul 2026 17:05:12 GMT",
-      "content": "爽呐，他娘的终于扛到回本了",
-      "url": "https://x.com/xiaomustock/status/2078164123289002167",
-      "tweet_id": "2078164123289002167"
+      "published_at": "Sun, 19 Jul 2026 15:32:41 GMT",
+      "content": "再牛逼的模型，想把模型实力转化成收入， 那你就必须要有海量的内存卡和推理卡， 不然破天的富贵你把握不住， 所以你说内存和推理卡缺不缺？ kimi再牛逼能怎么样，富贵来了新增订阅都接不住。",
+      "url": "https://x.com/xiaomustock/status/2078865618779205687",
+      "tweet_id": "2078865618779205687"
     },
     {
       "id": "tweet_xingpt_2078847180379660478",
