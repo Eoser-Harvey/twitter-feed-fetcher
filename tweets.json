@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-07-18T23:56:56.109175+00:00",
+  "fetched_at": "2026-07-19T02:55:13.302231+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2078543365101216077",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 18 Jul 2026 18:12:10 GMT",
+      "content": "RT by @elonmusk: Big updates next week :)",
+      "url": "https://x.com/elonmusk/status/2078543365101216077",
+      "tweet_id": "2078543365101216077",
+      "translated": "RT @elonmusk：下周有大更新:)"
+    },
+    {
+      "id": "tweet_elonmusk_2078185742480597122",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 17 Jul 2026 18:31:06 GMT",
+      "content": "RT by @elonmusk: Olive Garden implemented the SAVE America Act more quickly than the US Senate.",
+      "url": "https://x.com/elonmusk/status/2078185742480597122",
+      "tweet_id": "2078185742480597122",
+      "translated": "RT @elonmusk：橄榄园比美国参议院更快地实施了《拯救美国法案》。"
+    },
     {
       "id": "tweet_elonmusk_2078521506007560474",
       "username": "elonmusk",
@@ -11,26 +31,6 @@
       "url": "https://x.com/elonmusk/status/2078521506007560474",
       "tweet_id": "2078521506007560474",
       "translated": "机器人打架真有趣"
-    },
-    {
-      "id": "tweet_elonmusk_2078495013936206287",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 18 Jul 2026 15:00:02 GMT",
-      "content": "Try Grok Build https://x.ai/cli",
-      "url": "https://x.com/elonmusk/status/2078495013936206287",
-      "tweet_id": "2078495013936206287",
-      "translated": "尝试 Grok Build https://x.ai/cli"
-    },
-    {
-      "id": "tweet_elonmusk_2078308274399834157",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 18 Jul 2026 02:38:00 GMT",
-      "content": "RT by @elonmusk: MARC ANDREESSEN WENT ON ROGAN FOR OVER 3 HOURS. HERE ARE THE 17 THINGS WORTH YOUR ATTENTION. 1. AGI is already here, in his view. He says the line got crossed about 3 months ago with GPT-5.5, Claude 4.6, Gemini 3, and Grok 4.3, and nobody noticed because the field moves too fast to register milestones anymore. 2. For almost any topic, he says the top models now give him better answers than the world-class experts he could call by phone, and he can call almost anyone. Worth noting he has not published data behind this, and a separate Nature Medicine study on a comparable AI health tool found it missed real emergencies more than half the time. Take the claim seriously, verify it yourself. 3. His claim on doctors: they are already using ChatGPT in the exam room, typing your symptoms in the moment you stop talking. His actual quote: \"at that point you're asking the question of like, what do I need you for.\" 4. Reportedly, when AI declines to answer something, he tells it he's writing a novel to get past the refusal. 5. Reportedly, his technique for hard topics is escalating simplicity: explain it like I'm 10, then 5, then 2, until it clicks. 6. Reportedly, instead of asking for the \"right\" answer, he has the AI steelman both sides of a hard question, then decides himself. 7. Reportedly, for big questions he has the AI role-play a panel of experts arguing with each other. 8. His broader point: the moment you think \"I don't know how to figure this out\" is exactly when most people give up, and exactly when you should open the AI instead. 9. His view: the only real skill left is knowing what to ask. The bottleneck is in your head, not the model. 10. He describes sending AI photos, rashes, blood tests, for a fast second opinion, since current models read images directly. 11. He points to CBT as the one clinically proven therapy type that AI can plausibly deliver on its own, meaning real therapeutic support becomes freely available at scale. 12. He cites AI cracking previously unsolved math problems, with early signs of the same happening in physics, chemistry, and biology. 13. Reportedly, he claims the top AI coders in Silicon Valley now earn as much as $50 million a year, which he uses as a signal of how large this shift actually is. 14. Reportedly, a friend paid to sequence his own DNA, fed it to an AI along with blood work and wearable data, and got back a working health dashboard. 15. Reportedly, another friend set up cameras in his home jiu-jitsu gym so AI could review his sparring and give him technique notes. 16. He coined the term \"AI vampire\" for the pattern of people working more and sleeping less because AI keeps making more output possible, a real term he used, though the framing around it varies by account. 17. His extrapolation: one person eventually running many AI coding agents, each reviewing the others, describing this as close, not years out. Watch the full interview before treating any single number as settled. Several of these are Andreessen's stated views and anecdotes, not independently verified facts. Follow @cyrilXBT for every AI insight worth your attention the moment it surfaces.",
-      "url": "https://x.com/elonmusk/status/2078308274399834157",
-      "tweet_id": "2078308274399834157",
-      "translated": "RT @elonmusk：MARC ANDREESSEN 在 ROGAN 上持续了 3 个多小时。以下是值得您关注的 17 件事。 1. 在他看来，AGI 已经到来。他说，大约 3 个月前，GPT-5.5、Claude 4.6、Gemini 3 和 Grok 4.3 就跨越了这条界限，但没有人注意到，因为该领域发展得太快，无法再登记里程碑了。 2. 他说，对于几乎任何话题，顶级模特现在给他的答案都比他可以打电话给世界级专家更好，而且他几乎可以给任何人打电话。值得注意的是，他尚未发布这背后的数据，而《自然医学》对类似人工智能健康工具的另一项研究发现，它有一半以上错过了真正的紧急情况。认真对待这个说法，亲自验证一下。 3.他对医生的说法：他们已经在检查室使用ChatGPT，在你停止说话的那一刻输入你的症状。他的原话是：“那时你会问这样的问题，我需要你做什么。” 4. 据报道，当人工智能拒绝回答某些问题时，他会告诉它他正在写一本小说来摆脱拒绝。 5. 据报道，他处理难题的技巧正在变得越来越简单：像我 10 岁一样解释，然后是 5 岁，然后是 2 岁，直到明白为止。 6. 据报道，他没有要求“正确”答案，而是让人工智能钢铁侠双方提出一个难题，然后自己做出决定。 7. 据报道，对于重大问题，他让人工智能角色扮演一个专家小组，互相争论。 8. 他更广泛的观点是：当你认为“我不知道如何解决这个问题”的时候，正是大多数人放弃的时候，也正是你应该打开人工智能的时候。 9. 他的观点：剩下的唯一真正的技能就是知道要问什么。瓶颈在于你的头脑，而不是模型。 10. 他描述了发送人工智能照片、皮疹、血液测试，以快速获得第二意见，因为当前的模型直接读取图像。 11. 他指出 CBT 是一种经过临床验证的治疗类型，人工智能可以自行提供，这意味着真正的治疗支持可以大规模免费提供。 12. 他引用人工智能破解了以前未解决的数学问题，在物理、化学和生物学领域也出现了同样的情况。 13. 据报道，他声称硅谷顶级人工智能程序员现在的年薪高达 5000 万美元，他用这个来表明这种转变实际上有多大。 14. 据报道，一位朋友花钱对自己的 DNA 进行了测序，将其与血液检查和可穿戴数据一起输入人工智能，并取回了一个可用的健康仪表板。 15. 据报道，另一位朋友在他家的柔术馆里安装了摄像头，这样人工智能就可以回顾他的拳击比赛并给他提供技术笔记。 16. 他创造了“人工智能吸血鬼”这个词来形容人们工作更多、睡眠更少的模式，因为人工智能不断地创造更多的产出，这是他使用的一个真正的术语，尽管围绕它的框架因帐户而异。 17. 他的推断：一个人最终运行了许多人工智能编码代理，每个代理都审查其他代理，并将其描述为即将到来的事情，而不是几年后的事情。在将任何一个数字视为已确定之前，请先观看完整的采访。其中一些是安德森陈述的观点和轶事，而不是独立证实的事实。关注@cyrilXBT，了解每一个值得您关注的人工智能见解。"
     },
     {
       "id": "tweet_cz_binance_2078018027937747183",
@@ -122,6 +122,24 @@
       "translated": "谢谢，喜欢阅读评论！高盛将旭创科技 PT 上调至 2581 元。较当前估值上涨约 163.6%。但最大的事情是其 2026-2028 年盈利预期修正高达 65%/108%/119%，基于： - 更高的硅光子模块产量 - 横向扩展、纵向扩展、横向扩展 - 1.6T/3.2T 提升混合 ASP + 利润率 - AI 资本支出的增加 这通常是光学行业的重要读物，因为： 我倾向于将旭创视为 $TSM（半成品）资本支出）类型了解光子学领域的发展情况。例如。更高的硅光子渗透率意味着更多的连续激光器 TAM，例如 $SIVE (cw)/SOI 晶圆对 $SOI 的需求。未来一代的平均售价上涨对其他光学标记也有积极影响。我想我在报告之外的另一个收获是旭创指出 800 克需求的增长比他们 12 日的记录中预期的要显着。这反过来又表明对 $AAOI 到 $LITE 等公司未来收益的需求增加。 TLDR：高盛在大规模调整期间给出了较高的盈利预测。从根本上说，当 ER 时代到来时，更广泛的光子学生态系统应该感到高兴。"
     },
     {
+      "id": "tweet_qinbafrank_2078672470111056017",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sun, 19 Jul 2026 02:45:11 GMT",
+      "content": "2名美军阵亡，美军昨晚承认伊朗对约旦美军基地的导弹袭击，已造成两名美军士兵阵亡，一人失踪，另外四人受伤，这是自三月底以来伊朗开火导致的首例美军阵亡。由此，在与伊朗五个月的冲突中，已至少16名美军士兵战死。 只能说局势进一步升级了，明显两周过去双方还没有任何缓和的迹象。美军出现伤亡、这就更严重了、短期内川普很难退让、势必要继续保持强硬。 如昨天聊到的7号冲突爆发后，开始油价反弹但没有很高，然后本周cpi和ppi数据有很好、短期内市场会忽略美伊冲突的影响。但是如果持续两周后还没看到缓和的迹象、同时油价突破压力位、市场的耐心也就越来越小了。 那么在未来缓和之前，市场有可能先交易冲突持续升级。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2078672470111056017",
+      "tweet_id": "2078672470111056017"
+    },
+    {
+      "id": "tweet_qinbafrank_2078653102715289992",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sun, 19 Jul 2026 01:28:13 GMT",
+      "content": "韩股这一波去杠杆是如何发生的？",
+      "url": "https://x.com/qinbafrank/status/2078653102715289992",
+      "tweet_id": "2078653102715289992"
+    },
+    {
       "id": "tweet_qinbafrank_2078431440258441606",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -131,22 +149,13 @@
       "tweet_id": "2078431440258441606"
     },
     {
-      "id": "tweet_qinbafrank_2078341291138756728",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sat, 18 Jul 2026 04:49:12 GMT",
-      "content": "Authropic宣布从7月20日开始Fable 5将被纳入所有Max和Team Premium订阅计划，但使用额度为原限制的 50%。Pro和 mTeam Standard用户仍然可以通过使用额度访问 Fable，并且会获得一次性的 100 美元额度赠送。这是因为kimi k3的缘故？ 官方给出的解释是： Fable 5 的需求难以预测，因此采取分阶段开放策略，随着获得更多算力资源，逐步扩大用户覆盖。 这已经不是 Fable 5 第一次延长使用周期。7月12日， GPT-5.6 全量放出，Fable 5再次延长了一周至7月19日。 今天再次延长大概凌晨跟kimi k3关系很大了。 AI模型发布已经越来越像一场“排位赛”。大模型厂商OpenAI、Anthropic、Gemini、智谱、 Kimi、DeepSeek等之间的竞争，本质上已经从“谁先做出更聪明的大模型”，进入了下一阶段： “谁能以更低成本、更大规模，把AI真正交付给更多用户。”",
-      "url": "https://x.com/qinbafrank/status/2078341291138756728",
-      "tweet_id": "2078341291138756728"
-    },
-    {
-      "id": "tweet_qinbafrank_2078283378009207114",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sat, 18 Jul 2026 00:59:04 GMT",
-      "content": "这两天美伊冲突最大的变化在于开始突破军事目标范畴，能源基础设施与民用设施相继成为打击目标，意味着再持续下去已经到了能影响市场的阶段。 科威特周五指，伊朗将袭击范围扩大至科威特的电力与海水淡化厂。伊拉克官员周四称，该国北部库尔德地区最大的天然气田因面临遭袭的威胁而关闭，美军则将空袭目标延伸至距霍尔木兹海峡350英里以外的恰巴哈尔港。双方均未显示出任何收手迹象。 伊朗消息称打击一艘未经许可穿越海峡船只，美军称重启封锁三天内拦截六船 军事冲突的深化已直接传导至全球能源市场。据船舶追踪机构Kpler数据，霍尔木兹海峡通航量已跌至三周低点 最大的因素是油价突破了之前聊到的89-85区间，看布油的走势隐隐有突破均线压制的迹象，需要密切关注。需要真的突破并能站稳、市场未来一段时间又要受到油价的影响了。 7号冲突爆发后，开始油价反弹但没有很高，然后本周cpi和ppi数据有很好、短期内市场会忽略美伊冲突的影响。但是如果持续两周后还没看到缓和的迹象、同时油价突破压力位、市场的耐心也就越来越小了。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2078283378009207114",
-      "tweet_id": "2078283378009207114"
+      "id": "tweet_xiaomustock_2078640545442996467",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Sun, 19 Jul 2026 00:38:19 GMT",
+      "content": "你们是什么时候开始知道hbm存储的",
+      "url": "https://x.com/xiaomustock/status/2078640545442996467",
+      "tweet_id": "2078640545442996467"
     },
     {
       "id": "tweet_xiaomustock_2078226111373467737",
@@ -166,15 +175,6 @@
       "content": "爽呐，他娘的终于扛到回本了",
       "url": "https://x.com/xiaomustock/status/2078164123289002167",
       "tweet_id": "2078164123289002167"
-    },
-    {
-      "id": "tweet_xiaomustock_2078066467980083408",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Fri, 17 Jul 2026 10:37:09 GMT",
-      "content": "无需多言，给你们抄底的信心。",
-      "url": "https://x.com/xiaomustock/status/2078066467980083408",
-      "tweet_id": "2078066467980083408"
     },
     {
       "id": "tweet_xingpt_2078440620205785238",
@@ -204,6 +204,24 @@
       "tweet_id": "2078013823789957349"
     },
     {
+      "id": "tweet_hibtc37_2078642864402391443",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Sun, 19 Jul 2026 00:47:32 GMT",
+      "content": "国产显卡训练出国产模型是行外言论了 H200和B300这些，疯狂往中国搬，只要是行业内的人，没有一个不知道的 如果此刻发生中美战争，AI主导，你是领导，你用国产显卡，还是英伟达B300，和老美打？",
+      "url": "https://x.com/hibtc37/status/2078642864402391443",
+      "tweet_id": "2078642864402391443"
+    },
+    {
+      "id": "tweet_hibtc37_2078638105939366262",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Sun, 19 Jul 2026 00:28:38 GMT",
+      "content": "木头姐又站岗😅 $SPCX 成本142，现价124 $CBRS 成本216，现价173 妥妥反向指标，新股跟着木头姐反着来，可能胜率很高？ #ARK #SPCX #CBRS",
+      "url": "https://x.com/hibtc37/status/2078638105939366262",
+      "tweet_id": "2078638105939366262"
+    },
+    {
       "id": "tweet_hibtc37_2078323771421900924",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -211,29 +229,11 @@
       "content": "学习当美股韭菜，这人流量吊打我们行业，而且所有人都在有序排了很多条长龙…很震惊，还是说，只是新加坡人喜欢排队",
       "url": "https://x.com/hibtc37/status/2078323771421900924",
       "tweet_id": "2078323771421900924"
-    },
-    {
-      "id": "tweet_hibtc37_2077697281911136554",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Thu, 16 Jul 2026 10:10:08 GMT",
-      "content": "RT by @hibtc37: 37度七粉群 开放专用贴 免费电报群，本周开放88个名额，申请加群，请留下评论报名 服务能力有限，为了保持群风，只能每周分批开放，请理解 最好说一下申请理由，怎么对我达成200k粉丝目标有帮助，评论优秀者，可以直接拉进群 加群规则：88个名额，由评论里报名的粉丝选出，不区分新老粉，但老铁粉依然是优先，我会用Grok来评分，评分最高88位，可免费进群 评分规则：请@grok 三天后统计在本条内容下方的留言者的分数，分数由高到低选出前100位，列出来他们的ID和分数，请在5天后再给出结果，分数统计逻辑是留言者对 @hibtc37 在过去两周的互动分数，每位留言者的互动分数由以下4项求和： 1、转发，3分 2、评论，2分 3、点赞，1分 4、收藏，3分 说明：如果名单里有垃圾广告和黄诈号，志愿者会手工剔除。名单出来后，会告诉大家怎么进群。如有不周之处，请理解，祝你工作和生活愉快，谢谢支持🙏",
-      "url": "https://x.com/hibtc37/status/2077697281911136554",
-      "tweet_id": "2077697281911136554"
-    },
-    {
-      "id": "tweet_hibtc37_2078314152880406557",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Sat, 18 Jul 2026 03:01:21 GMT",
-      "content": "ETF连续四天正流入，昨天+$132.33m，这波反弹继续，上区间656有戏了",
-      "url": "https://x.com/hibtc37/status/2078314152880406557",
-      "tweet_id": "2078314152880406557"
     }
   ],
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
