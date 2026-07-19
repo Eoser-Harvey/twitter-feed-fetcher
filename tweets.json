@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-19T12:01:38.407749+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-19T13:46:34.000834+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2078741450812965182",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 19 Jul 2026 07:19:17 GMT",
+      "content": "Video",
+      "url": "https://x.com/elonmusk/status/2078741450812965182",
+      "tweet_id": "2078741450812965182",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_elonmusk_2078562760942850182",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 18 Jul 2026 19:29:14 GMT",
+      "content": "RT by @elonmusk: Gold rush",
+      "url": "https://x.com/elonmusk/status/2078562760942850182",
+      "tweet_id": "2078562760942850182",
+      "translated": "RT @elonmusk：淘金热"
+    },
+    {
+      "id": "tweet_elonmusk_2078402450738893169",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 18 Jul 2026 08:52:13 GMT",
+      "content": "RT by @elonmusk: Grok Build is becoming a complete environment for building, deploying and managing real-world applications Its plugin marketplace brings the entire development stack into one connected workflow: • Vercel for deployment • Sentry for monitoring • Chrome DevTools for debugging • Cloudflare for infrastructure • Supabase, MongoDB and Neon for databases • Firecrawl for web data • Figma for design • Railway for hosting • Stripe for payments You are not just asking Grok to write code You can build, test, debug, connect infrastructure, deploy and manage production without constantly switching between tools Grok Build combines a frontier model, a powerful agentic harness and all the tools needed to go from an idea to a shipped product",
+      "url": "https://x.com/elonmusk/status/2078402450738893169",
+      "tweet_id": "2078402450738893169",
+      "translated": "@elonmusk 的 RT：Grok Build 正在成为构建、部署和管理实际应用程序的完整环境。它的插件市场将整个开发堆栈带入一个连接的工作流程中： • Vercel 用于部署 • Sentry 用于监控 • Chrome DevTools 用于调试 • Cloudflare 用于基础设施 • Supabase、MongoDB 和 Neon 用于数据库 • Firecrawl 用于 Web 数据 • Figma 用于设计 • Railway 用于托管 • Stripe 用于支付 您不只是要求 Grok 编写代码 您可以构建、测试、调试、连接基础设施，部署和管理生产，无需不断地在工具之间切换 Grok Build 结合了前沿模型、强大的代理工具以及从想法到交付产品所需的所有工具"
+    },
     {
       "id": "tweet_cz_binance_2078018027937747183",
       "username": "cz_binance",
@@ -147,6 +177,24 @@
       "tweet_id": "2078164123289002167"
     },
     {
+      "id": "tweet_xingpt_2078814145701646619",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Sun, 19 Jul 2026 12:08:09 GMT",
+      "content": "后面还有DeepSeek V4 和Qwen 3.8 😂，大模型井喷。是不是以后不缺token了，算力也要闲置了？",
+      "url": "https://x.com/xingpt/status/2078814145701646619",
+      "tweet_id": "2078814145701646619"
+    },
+    {
+      "id": "tweet_xingpt_2078813124766191846",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Sun, 19 Jul 2026 12:04:06 GMT",
+      "content": "Kimi K3，GPT5.6 SOL，Claude Fable5，Qwen Code 3.7max；大模型太多用不过来了",
+      "url": "https://x.com/xingpt/status/2078813124766191846",
+      "tweet_id": "2078813124766191846"
+    },
+    {
       "id": "tweet_xingpt_2078683936432246994",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -154,24 +202,6 @@
       "content": "OKX 也终于上了股票类的资产，用xStock的token 代币的模式，目前支持交易所内的统一账户，可以用网格或者定投的策略交易，支持Solana和Xlayer链上操作。 （如果看不到的话切换繁中/英文）",
       "url": "https://x.com/xingpt/status/2078683936432246994",
       "tweet_id": "2078683936432246994"
-    },
-    {
-      "id": "tweet_xingpt_2078680791761158354",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Sun, 19 Jul 2026 03:18:15 GMT",
-      "content": "为什么错过前半段行情后，后半段最容易亏钱? 很多人这波科技行情被割，就是因为看别人四五月份赚了太多钱，六月份开始加仓高位上车。 很容易产生一个心理锚点： “别人已经赚了好几倍，我至少也要把差距追回来。” 随后通常会出现几个危险动作： 原来只敢买10万元，现在为了追赶收益买到20万元。 前期涨10%就想止盈，后期看到上涨反而舍不得卖。 个股已经远离均线，仍然把正常回调理解为加仓机会。 一旦开始亏损，又容易继续补仓，希望行情立即反弹。 问题在于，行情后半段往往已经出现估值抬升、筹码拥挤、获利盘增多、波动放大等现象。潜在上涨空间可能缩小，向下波动却可能扩大。交易者在风险收益比下降的时候，反而使用了更大的仓位。 这种常见错误是用当前账户承担风险，试图追回过去没有赚到的钱。 错过的上涨已经属于历史，无法通过下一笔交易直接补回来。下一笔交易只能根据当时的赔率和风险决定是否参与。",
-      "url": "https://x.com/xingpt/status/2078680791761158354",
-      "tweet_id": "2078680791761158354"
-    },
-    {
-      "id": "tweet_xingpt_2078440620205785238",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Sat, 18 Jul 2026 11:23:54 GMT",
-      "content": "现在玩meme的是真难，没有大的叙事和流动性只能看几个交易所/公链的脸色。",
-      "url": "https://x.com/xingpt/status/2078440620205785238",
-      "tweet_id": "2078440620205785238"
     },
     {
       "id": "tweet_hibtc37_2078642864402391443",
@@ -202,8 +232,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
