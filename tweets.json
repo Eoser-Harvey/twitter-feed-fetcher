@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-19T18:00:55.866314+00:00",
+  "fetched_at": "2026-07-19T19:20:17.194481+00:00",
   "total": 24,
   "tweets": [
     {
@@ -92,6 +92,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2078914447180263438",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sun, 19 Jul 2026 18:46:43 GMT",
+      "content": "There’s nothing quite like the scent of more AI capex on a Sunday. Probably some ways to go if leading frontier models are out of capacity from too much demand.",
+      "url": "https://x.com/aleabitoreddit/status/2078914447180263438",
+      "tweet_id": "2078914447180263438",
+      "translated": "没有什么比周日更多人工智能资本支出的气味更好的了。如果领先的前沿模型因需求过多而产能不足，那么可能还有一些路可走。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2078338950150959558",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,16 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2078283847612186739",
       "tweet_id": "2078283847612186739",
       "translated": "谢谢！我总是免费分享个人研究和核心思想。不试图出售任何东西或告诉别人该做什么。最重要的是，只要对我自己的回报（赢或输）保持透明，也许这种信息民主化会扰乱某些商业模式……当其他人尝试推销他们的 40 美元 TA 订阅时，他们总是正确的并预测了半决赛崩溃。但如果他们真的相信这一点，他们就会买入 5000% 以上的看跌期权，并且不需要营销付费专区。是的，如果我的杠杆率为 1.4 倍，并且如果专注于内存/光子学基础的投资组合平均崩溃 -35%……你会得到 49% 的回撤。我只是分享发生的事情。但我预计人工智能名称将会复苏，因为我认为从计算到能源到内存再到网络的需求都是结构性的。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2078228019584668121",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 17 Jul 2026 21:19:06 GMT",
-      "content": "Thanks, love reading the comments! Goldman Sachs raised Innolight PT to 2581 RMB. Roughly 163.6% upside from current valuations. But the largest thing is its 2026–2028 earnings est revision raised by a whopping 65%/108%/119%, based on: - Much higher silicon photonics module volumes - scale out, scale up, scale across volumes - 1.6T/3.2T lifting blended ASP + margins - increase in AI capex This is typically very material read through on the optical sector since: I tend to think of Innolight as a $TSM (semi capex) type read on how the photonics landscape is doing. Eg. Higher silicon photonics penetration means more TAM for cw lasers like $SIVE (cw) / SOI wafer demand for $SOI. ASP hikes for future gen is positive for the other optical markers too. Think my other takeaway outside the report was Innolight stating 800g demand was growing more significantly than expected from their transcript on the 12th. Which in turn signals more demand for names like $AAOI to $LITE next earnings. TLDR: GS gives high earnings projections during a time of massive corrections. Fundamentally, broader photonics ecosystem should be happy when it’s ER time.",
-      "url": "https://x.com/aleabitoreddit/status/2078228019584668121",
-      "tweet_id": "2078228019584668121",
-      "translated": "谢谢，喜欢阅读评论！高盛将旭创科技 PT 上调至 2581 元。较当前估值上涨约 163.6%。但最大的事情是其 2026-2028 年盈利预期修正高达 65%/108%/119%，基于： - 更高的硅光子模块产量 - 横向扩展、纵向扩展、横向扩展 - 1.6T/3.2T 提升混合 ASP + 利润率 - AI 资本支出的增加 这通常是光学行业的重要读物，因为： 我倾向于将旭创视为 $TSM（半成品）资本支出）类型了解光子学领域的发展情况。例如。更高的硅光子渗透率意味着更多的连续激光器 TAM，例如 $SIVE (cw)/SOI 晶圆对 $SOI 的需求。未来一代的平均售价上涨对其他光学标记也有积极影响。我想我在报告之外的另一个收获是旭创指出 800 克需求的增长比他们 12 日的记录中预期的要显着。这反过来又表明对 $AAOI 到 $LITE 等公司未来收益的需求增加。 TLDR：高盛在大规模调整期间给出了较高的盈利预测。从根本上说，当 ER 时代到来时，更广泛的光子学生态系统应该感到高兴。"
     },
     {
       "id": "tweet_qinbafrank_2078672470111056017",
