@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-07-19T19:20:17.194481+00:00",
+  "fetched_at": "2026-07-19T20:54:15.783524+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2078903115248460118",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 19 Jul 2026 18:01:41 GMT",
+      "content": "RT by @elonmusk: The first phone call across the Atlantic, in 1927, cost about seventy five dollars for three minutes, more than a thousand in today's money. Right now you can see a face on the other side of the planet, in real time, for free.",
+      "url": "https://x.com/elonmusk/status/2078903115248460118",
+      "tweet_id": "2078903115248460118",
+      "translated": "@elonmusk 转发：1927 年，第一通横跨大西洋的电话，三分钟的费用约为 75 美元，按今天的价格计算是 1000 多美元。现在，您可以免费实时看到地球另一边的面孔。"
+    },
+    {
+      "id": "tweet_elonmusk_2078933283539148891",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 19 Jul 2026 20:01:34 GMT",
+      "content": "RT by @elonmusk: SpaceX's newest satellites carry about 1,024 gigabits of bandwidth each. The generation before carried 96. That is a tenfold leap in a single design cycle, beamed down from orbit. Jumps like that do not happen in industries that have given up, if so can you name me any?",
+      "url": "https://x.com/elonmusk/status/2078933283539148891",
+      "tweet_id": "2078933283539148891",
+      "translated": "RT @elonmusk：SpaceX 最新的卫星每颗均承载约 1,024 GB 带宽。前一代搭载的是 96。这是从轨道发射的单个设计周期中十倍的飞跃。像这样的跳跃不会发生在已经放弃的行业中，如果有的话你能告诉我一些吗？"
+    },
     {
       "id": "tweet_elonmusk_2078614590934733223",
       "username": "elonmusk",
@@ -11,26 +31,6 @@
       "url": "https://x.com/elonmusk/status/2078614590934733223",
       "tweet_id": "2078614590934733223",
       "translated": "RT by @elonmusk：回顾 2014 年：埃隆·马斯克 (Elon Musk) 参观全新的 Dragon V2 飞船"
-    },
-    {
-      "id": "tweet_elonmusk_2078880263556243538",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 19 Jul 2026 16:30:53 GMT",
-      "content": "Wow",
-      "url": "https://x.com/elonmusk/status/2078880263556243538",
-      "tweet_id": "2078880263556243538",
-      "translated": "哇"
-    },
-    {
-      "id": "tweet_elonmusk_2078879781806919870",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 19 Jul 2026 16:28:58 GMT",
-      "content": "Way more than a billion",
-      "url": "https://x.com/elonmusk/status/2078879781806919870",
-      "tweet_id": "2078879781806919870",
-      "translated": "远远超过十亿"
     },
     {
       "id": "tweet_cz_binance_2078884041994952773",
