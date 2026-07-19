@@ -1,95 +1,34 @@
 {
-  "fetched_at": "2026-07-19T20:54:15.783524+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-19T21:56:58.622682+00:00",
+  "total": 15,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2078903115248460118",
+      "id": "tweet_elonmusk_2078960515900940515",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 19 Jul 2026 18:01:41 GMT",
-      "content": "RT by @elonmusk: The first phone call across the Atlantic, in 1927, cost about seventy five dollars for three minutes, more than a thousand in today's money. Right now you can see a face on the other side of the planet, in real time, for free.",
-      "url": "https://x.com/elonmusk/status/2078903115248460118",
-      "tweet_id": "2078903115248460118",
-      "translated": "@elonmusk 转发：1927 年，第一通横跨大西洋的电话，三分钟的费用约为 75 美元，按今天的价格计算是 1000 多美元。现在，您可以免费实时看到地球另一边的面孔。"
+      "published_at": "Sun, 19 Jul 2026 21:49:46 GMT",
+      "content": "x.com/i/jf/soccer/league/mat…",
+      "url": "https://x.com/elonmusk/status/2078960515900940515",
+      "tweet_id": "2078960515900940515"
     },
     {
-      "id": "tweet_elonmusk_2078933283539148891",
+      "id": "tweet_elonmusk_2078920456682488189",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 19 Jul 2026 20:01:34 GMT",
-      "content": "RT by @elonmusk: SpaceX's newest satellites carry about 1,024 gigabits of bandwidth each. The generation before carried 96. That is a tenfold leap in a single design cycle, beamed down from orbit. Jumps like that do not happen in industries that have given up, if so can you name me any?",
-      "url": "https://x.com/elonmusk/status/2078933283539148891",
-      "tweet_id": "2078933283539148891",
-      "translated": "RT @elonmusk：SpaceX 最新的卫星每颗均承载约 1,024 GB 带宽。前一代搭载的是 96。这是从轨道发射的单个设计周期中十倍的飞跃。像这样的跳跃不会发生在已经放弃的行业中，如果有的话你能告诉我一些吗？"
+      "published_at": "Sun, 19 Jul 2026 19:10:36 GMT",
+      "content": "RT by @elonmusk: BREAKING: Grok 4.5 leads VulcanBench’s new coding benchmark. 🔥 Grok scored 91.3%, solving 21 of 23 real-world software tasks across five languages, beating Claude Fable 5 and GPT-5.6 Sol while also owning the cost-efficiency frontier. Grok keeps winning. 🏆",
+      "url": "https://x.com/elonmusk/status/2078920456682488189",
+      "tweet_id": "2078920456682488189",
+      "translated": "RT @elonmusk：突破：Grok 4.5 领先 VulcanBench 的新编码基准。 🔥 Grok 得分为 91.3%，跨五种语言解决了 23 个现实世界软件任务中的 21 个，击败了 Claude Fable 5 和 GPT-5.6 Sol，同时还拥有成本效率前沿。格罗克不断获胜。 🏆"
     },
     {
-      "id": "tweet_elonmusk_2078614590934733223",
+      "id": "tweet_elonmusk_2078960011196141571",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 18 Jul 2026 22:55:11 GMT",
-      "content": "RT by @elonmusk: Throwback to 2014: Elon Musk gives a tour inside the brand-new Dragon V2 An early glimpse of Elon showing America the spacecraft that would eventually restore its ability to launch astronauts into orbit from its own soil",
-      "url": "https://x.com/elonmusk/status/2078614590934733223",
-      "tweet_id": "2078614590934733223",
-      "translated": "RT by @elonmusk：回顾 2014 年：埃隆·马斯克 (Elon Musk) 参观全新的 Dragon V2 飞船"
-    },
-    {
-      "id": "tweet_cz_binance_2078884041994952773",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 19 Jul 2026 16:45:54 GMT",
-      "content": "Who will win?",
-      "url": "https://x.com/cz_binance/status/2078884041994952773",
-      "tweet_id": "2078884041994952773",
-      "translated": "谁会赢？"
-    },
-    {
-      "id": "tweet_cz_binance_2078848542001537530",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 19 Jul 2026 14:24:50 GMT",
-      "content": "不活跃好像一点也不影响涨粉。熊市快结束了？🤔",
-      "url": "https://x.com/cz_binance/status/2078848542001537530",
-      "tweet_id": "2078848542001537530"
-    },
-    {
-      "id": "tweet_cz_binance_2078018027937747183",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Fri, 17 Jul 2026 07:24:40 GMT",
-      "content": "Great conversation!",
-      "url": "https://x.com/cz_binance/status/2078018027937747183",
-      "tweet_id": "2078018027937747183",
-      "translated": "很棒的谈话！"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432",
-      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2068370500334637542",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
-      "content": "RT by @realDonaldTrump: POLL…",
-      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
-      "tweet_id": "2068370500334637542",
-      "translated": "RT @realDonaldTrump：投票……"
+      "published_at": "Sun, 19 Jul 2026 21:47:46 GMT",
+      "content": "x.com/i/jf/soccer/league/mat…",
+      "url": "https://x.com/elonmusk/status/2078960011196141571",
+      "tweet_id": "2078960011196141571"
     },
     {
       "id": "tweet_aleabitoreddit_2078914447180263438",
@@ -201,38 +140,11 @@
       "content": "Kimi K3，GPT5.6 SOL，Claude Fable5，Qwen Code 3.7max；大模型太多用不过来了",
       "url": "https://x.com/xingpt/status/2078813124766191846",
       "tweet_id": "2078813124766191846"
-    },
-    {
-      "id": "tweet_hibtc37_2078642864402391443",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Sun, 19 Jul 2026 00:47:32 GMT",
-      "content": "国产显卡训练出国产模型是行外言论了 H200和B300这些，疯狂往中国搬，只要是行业内的人，没有一个不知道的 如果此刻发生中美战争，AI主导，你是领导，你用国产显卡，还是英伟达B300，和老美打？",
-      "url": "https://x.com/hibtc37/status/2078642864402391443",
-      "tweet_id": "2078642864402391443"
-    },
-    {
-      "id": "tweet_hibtc37_2078638105939366262",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Sun, 19 Jul 2026 00:28:38 GMT",
-      "content": "木头姐又站岗😅 $SPCX 成本142，现价124 $CBRS 成本216，现价173 妥妥反向指标，新股跟着木头姐反着来，可能胜率很高？ #ARK #SPCX #CBRS",
-      "url": "https://x.com/hibtc37/status/2078638105939366262",
-      "tweet_id": "2078638105939366262"
-    },
-    {
-      "id": "tweet_hibtc37_2078323771421900924",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Sat, 18 Jul 2026 03:39:35 GMT",
-      "content": "学习当美股韭菜，这人流量吊打我们行业，而且所有人都在有序排了很多条长龙…很震惊，还是说，只是新加坡人喜欢排队",
-      "url": "https://x.com/hibtc37/status/2078323771421900924",
-      "tweet_id": "2078323771421900924"
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 5,
+    "users_failed": 3,
     "nitter_healthy": 10
   }
 }
