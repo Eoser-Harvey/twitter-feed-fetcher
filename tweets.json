@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-19T02:55:13.302231+00:00",
+  "fetched_at": "2026-07-19T05:57:05.876391+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2078543365101216077",
+      "id": "tweet_elonmusk_2078562760942850182",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 18 Jul 2026 18:12:10 GMT",
-      "content": "RT by @elonmusk: Big updates next week :)",
-      "url": "https://x.com/elonmusk/status/2078543365101216077",
-      "tweet_id": "2078543365101216077",
-      "translated": "RT @elonmusk：下周有大更新:)"
+      "published_at": "Sat, 18 Jul 2026 19:29:14 GMT",
+      "content": "RT by @elonmusk: Gold rush",
+      "url": "https://x.com/elonmusk/status/2078562760942850182",
+      "tweet_id": "2078562760942850182",
+      "translated": "RT @elonmusk：淘金热"
     },
     {
-      "id": "tweet_elonmusk_2078185742480597122",
+      "id": "tweet_elonmusk_2078402450738893169",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 17 Jul 2026 18:31:06 GMT",
-      "content": "RT by @elonmusk: Olive Garden implemented the SAVE America Act more quickly than the US Senate.",
-      "url": "https://x.com/elonmusk/status/2078185742480597122",
-      "tweet_id": "2078185742480597122",
-      "translated": "RT @elonmusk：橄榄园比美国参议院更快地实施了《拯救美国法案》。"
+      "published_at": "Sat, 18 Jul 2026 08:52:13 GMT",
+      "content": "RT by @elonmusk: Grok Build is becoming a complete environment for building, deploying and managing real-world applications Its plugin marketplace brings the entire development stack into one connected workflow: • Vercel for deployment • Sentry for monitoring • Chrome DevTools for debugging • Cloudflare for infrastructure • Supabase, MongoDB and Neon for databases • Firecrawl for web data • Figma for design • Railway for hosting • Stripe for payments You are not just asking Grok to write code You can build, test, debug, connect infrastructure, deploy and manage production without constantly switching between tools Grok Build combines a frontier model, a powerful agentic harness and all the tools needed to go from an idea to a shipped product",
+      "url": "https://x.com/elonmusk/status/2078402450738893169",
+      "tweet_id": "2078402450738893169",
+      "translated": "@elonmusk 的 RT：Grok Build 正在成为构建、部署和管理实际应用程序的完整环境。它的插件市场将整个开发堆栈引入一个连接的工作流程中： • Vercel 用于部署 • Sentry 用于监控 • Chrome DevTools 用于调试 • Cloudflare 用于基础设施 • Supabase、MongoDB 和 Neon 用于数据库 • Firecrawl 用于 Web 数据 • Figma 用于设计 • Railway 用于托管 • Stripe 用于支付 您不只是要求 Grok 编写代码 您可以构建、测试、调试、连接基础设施，部署和管理生产，无需不断地在工具之间切换 Grok Build 结合了前沿模型、强大的代理工具以及从想法到交付产品所需的所有工具"
     },
     {
-      "id": "tweet_elonmusk_2078521506007560474",
+      "id": "tweet_elonmusk_2078692662345888102",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 18 Jul 2026 16:45:18 GMT",
-      "content": "Robot fights are fun 😂",
-      "url": "https://x.com/elonmusk/status/2078521506007560474",
-      "tweet_id": "2078521506007560474",
-      "translated": "机器人打架真有趣"
+      "published_at": "Sun, 19 Jul 2026 04:05:25 GMT",
+      "content": "Try Grok Build",
+      "url": "https://x.com/elonmusk/status/2078692662345888102",
+      "tweet_id": "2078692662345888102",
+      "translated": "尝试 Grok 构建"
     },
     {
       "id": "tweet_cz_binance_2078018027937747183",
@@ -177,6 +177,24 @@
       "tweet_id": "2078164123289002167"
     },
     {
+      "id": "tweet_xingpt_2078683936432246994",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Sun, 19 Jul 2026 03:30:45 GMT",
+      "content": "OKX 也终于上了股票类的资产，用xStock的token 代币的模式，目前支持交易所内的统一账户，可以用网格或者定投的策略交易，支持Solana和Xlayer链上操作。 （如果看不到的话切换繁中/英文）",
+      "url": "https://x.com/xingpt/status/2078683936432246994",
+      "tweet_id": "2078683936432246994"
+    },
+    {
+      "id": "tweet_xingpt_2078680791761158354",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Sun, 19 Jul 2026 03:18:15 GMT",
+      "content": "为什么错过前半段行情后，后半段最容易亏钱? 很多人这波科技行情被割，就是因为看别人四五月份赚了太多钱，六月份开始加仓高位上车。 很容易产生一个心理锚点： “别人已经赚了好几倍，我至少也要把差距追回来。” 随后通常会出现几个危险动作： 原来只敢买10万元，现在为了追赶收益买到20万元。 前期涨10%就想止盈，后期看到上涨反而舍不得卖。 个股已经远离均线，仍然把正常回调理解为加仓机会。 一旦开始亏损，又容易继续补仓，希望行情立即反弹。 问题在于，行情后半段往往已经出现估值抬升、筹码拥挤、获利盘增多、波动放大等现象。潜在上涨空间可能缩小，向下波动却可能扩大。交易者在风险收益比下降的时候，反而使用了更大的仓位。 这种常见错误是用当前账户承担风险，试图追回过去没有赚到的钱。 错过的上涨已经属于历史，无法通过下一笔交易直接补回来。下一笔交易只能根据当时的赔率和风险决定是否参与。",
+      "url": "https://x.com/xingpt/status/2078680791761158354",
+      "tweet_id": "2078680791761158354"
+    },
+    {
       "id": "tweet_xingpt_2078440620205785238",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -184,24 +202,6 @@
       "content": "现在玩meme的是真难，没有大的叙事和流动性只能看几个交易所/公链的脸色。",
       "url": "https://x.com/xingpt/status/2078440620205785238",
       "tweet_id": "2078440620205785238"
-    },
-    {
-      "id": "tweet_xingpt_2078118270876758280",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Fri, 17 Jul 2026 14:03:00 GMT",
-      "content": "半导体有回调见底迹象，标志性事件是苹果市值反超英伟达，左侧加了点半导体仓位",
-      "url": "https://x.com/xingpt/status/2078118270876758280",
-      "tweet_id": "2078118270876758280"
-    },
-    {
-      "id": "tweet_xingpt_2078013823789957349",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Fri, 17 Jul 2026 07:07:57 GMT",
-      "content": "洛阳将长期纸贵：知识是无限的，人类文明是不断进步的，人类需要纸来记录历史和文明，因此对纸的需求也是无限的，以前用毛笔，后来制版印刷，再后来激光打印，对纸的需求指数级上升，papermaxxing！除了高端的生产用Paper，还有消费级的tissue和napkin；随着人们对美好生活的追求，纸张的层数也在指数级上升，从2层4层，现在到8层16层！纸张需求增长看不到极限！ 但生产纸的供应是有限的，生产纸需要种树，一个树长成需要几年甚至数十年，地球植被还在被破坏，能用来造林的土地越来越少，纸张供给被几大造纸厂长期协议锁定到5年后了，长期缺纸必定是行业长期趋势，缺纸超级周期！",
-      "url": "https://x.com/xingpt/status/2078013823789957349",
-      "tweet_id": "2078013823789957349"
     },
     {
       "id": "tweet_hibtc37_2078642864402391443",
@@ -234,6 +234,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
