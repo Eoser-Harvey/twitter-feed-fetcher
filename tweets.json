@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-20T20:25:06.415053+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-20T22:02:28.140654+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2079240370576146875",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 20 Jul 2026 16:21:49 GMT",
+      "content": "RT by @elonmusk: Grok 4.5 is really good at React. It's also very affordable and token efficient!",
+      "url": "https://x.com/elonmusk/status/2079240370576146875",
+      "tweet_id": "2079240370576146875",
+      "translated": "RT by @elonmusk：Grok 4.5 非常适合 React。它也非常实惠且高效！"
+    },
+    {
+      "id": "tweet_elonmusk_2079261553136734239",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 20 Jul 2026 17:45:59 GMT",
+      "content": "Grok for Excel is now live",
+      "url": "https://x.com/elonmusk/status/2079261553136734239",
+      "tweet_id": "2079261553136734239",
+      "translated": "Grok for Excel 现已上线"
+    },
+    {
+      "id": "tweet_elonmusk_2079072559673577619",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 20 Jul 2026 05:15:00 GMT",
+      "content": "RT by @elonmusk: • Starship To “Collapse Cost” of AI Compute & Global Communications",
+      "url": "https://x.com/elonmusk/status/2079072559673577619",
+      "tweet_id": "2079072559673577619",
+      "translated": "RT by @elonmusk： • Starship 将“降低人工智能计算和全球通信的成本”"
+    },
     {
       "id": "tweet_cz_binance_2079162814321602586",
       "username": "cz_binance",
@@ -20,7 +50,7 @@
       "content": "Had a great convo with Lisa from 天下雜誌. Taiwan is like a second home. Many of my childhood friends were Taiwanese. That's why my Mandarin carries a Taiwanese accent. 😄 We talked about the early Binance days, family, and what I’m focused on now. https://www.cw.com.tw/article/5142079",
       "url": "https://x.com/cz_binance/status/2079162299953123460",
       "tweet_id": "2079162299953123460",
-      "translated": "与《天下杂志》的丽莎进行了一次精彩的交流。台湾就像第二故乡。我儿时的很多朋友都是台湾人。这就是为什么我的普通话带有台湾口音。 😄 我们谈论了早期的币安时代、家庭以及我现在关注的事情。 https://www.cw.com.tw/article/5142079"
+      "translated": "与天下杂志的丽莎进行了一次精彩的交流。台湾就像第二故乡。我儿时的很多朋友都是台湾人。这就是为什么我的普通话带有台湾口音。 😄 我们谈论了早期的币安时代、家庭以及我现在关注的事情。 https://www.cw.com.tw/article/5142079"
     },
     {
       "id": "tweet_cz_binance_2078649815404015990",
@@ -63,6 +93,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2079319999915925938",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Mon, 20 Jul 2026 21:38:14 GMT",
+      "content": "If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings. Not exactly too new since it dates back to Nvidia’s existing share position of 1.19M shares + $2B prefunded warrant of ~21M shares. But great for sentiment having Nvidia be a large shareholder of the Neocloud leader.",
+      "url": "https://x.com/aleabitoreddit/status/2079319999915925938",
+      "tweet_id": "2079319999915925938",
+      "translated": "如果您好奇为什么 $NBIS 会在下班后上涨。 $NVDA 通过 SEC 文件披露其拥有 Nebius 9.3% 的实益所有权。这并不是什么新鲜事，因为它可以追溯到 Nvidia 现有的 119 万股股票头寸 + 约 2100 万股的 20 亿美元预融资认股权证。但让 Nvidia 成为 Neocloud 领导者的大股东，这对市场情绪来说是件好事。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2079289335351062693",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -81,16 +121,6 @@
       "url": "https://x.com/aleabitoreddit/status/2079254669793316962",
       "tweet_id": "2079254669793316962",
       "translated": "将新 AI 云合同的 ARR 目标修改为 4B+ 后，$IREN +19.69%。其客户群现在包括 Microsoft、Nvidia、Perplexity 和 Figure。 $HUT +10.45% 15Y $9.8B AI DC 租赁 $CIFR +16.76% $CLSK +13.7% $WYFI +9.18% $NBIS 和 $CRWV 正在慢慢洗澡。但看起来 Neoclouds/Colo 玩家确实在 Kimi 计算短缺消息和新合同等新催化剂的推动下迅速复苏。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2079089592385610023",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 20 Jul 2026 06:22:41 GMT",
-      "content": "Some updates on bottleneck timelines: - ABF substrates: 1 year / eg. Ajinomoto (2802) for ABF film, Ibiden, Unimicron, Nan Ya PCB, etc make the substrates - HDI Boards: Over 6 months / Victory Giant (300476), Zhen Ding (4958), Unimicron, Compeq (2313), Meiko (6787) - Multilayer boards: ~6 months / Victory Giant, WUS (002463), $TTMI, Gold Circuit Electronics (2368), - CCL: Over 6 months (severe shortages of materials) / Elite Material (2383), Shengyi (600183), TUC (6274), ITEQ (6213), Nan Ya Plastics (1303), Resonac (4004) Mitsui Kinzoku (5706) / HVLP copper foil. Nittobo / glass fiber/cloth - MLCCs, chip resistors, tantalum capacitors, aluminum electrolytic capacitors: 15-20 weeks to 1 year+ MLCC: Murata (6981), Samsung Electro-Mechanics, TDK (6762), Taiyo Yuden (6976), Yageo (2327), Walsin (2492) Chip Resistors: Yageo, Walsin, KOA (6999), Rohm (6963) and $VSH Tantalum capacitors: Kyocera/AVX, Yageo/KEMET, $VSH again Aluminum electrolytic capacitors: Nippon Chemi-Con (6997) Nichicon (6996) | Timelines sourced from Digitimes, did the honors of adding in related companies. But it's slightly more nuanced since MLCCs and others mix. in commodity types vs. AI DCs. Regardless, just some helpful mapping.",
-      "url": "https://x.com/aleabitoreddit/status/2079089592385610023",
-      "tweet_id": "2079089592385610023",
-      "translated": "关于瓶颈时间表的一些更新： - ABF 基材：1 年/例如。 Ajinomoto (2802) 用于 ABF 薄膜，Ibiden、Unimicron、Nan Ya PCB 等制作基板 - HDI 板：超过 6 个月 / Victory Giant (300476)、Zhen Ding (4958)、Unimicron、Compeq (2313)、Meiko (6787) - 多层板：~6 个月 / Victory Giant、WUS (002463)、$TTMI、Gold电路电子(2368)、-覆铜板：超过6个月(材料严重短缺)/精英材料(2383)、生益(600183)、TUC(6274)、ITEQ(6213)、南亚塑料(1303)、Resonac(4004)三井金属(5706)/HVLP铜箔。 Nittobo / 玻璃纤维/布 - MLCC、片式电阻器、钽电容器、铝电解电容器：15-20 周至 1 年+ MLCC：Murata (6981)、Samsung Electro-Mechanics、TDK (6762)、Taiyo Yuden (6976)、Yageo (2327)、Walsin (2492) 片式电阻器：Yageo、 Walsin、KOA (6999)、Rohm (6963) 和 $VSH 钽电容器：Kyocera/AVX、Yageo/KEMET，又是 $VSH 铝电解电容器：Nippon Chemi-Con (6997) Nichicon (6996) |时间线来自 Digitimes，荣幸地添加了相关公司。但由于 MLCC 和其他器件混合在一起，情况会更加微妙。商品类型与人工智能 DC 的比较。无论如何，只是一些有用的映射。"
     },
     {
       "id": "tweet_qinbafrank_2079257365703225401",
@@ -203,8 +233,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 9
   }
 }
