@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-20T18:06:39.760696+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-20T20:25:06.415053+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2079240370576146875",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 20 Jul 2026 16:21:49 GMT",
-      "content": "RT by @elonmusk: Grok 4.5 is really good at React. It's also very affordable and token efficient!",
-      "url": "https://x.com/elonmusk/status/2079240370576146875",
-      "tweet_id": "2079240370576146875",
-      "translated": "RT by @elonmusk：Grok 4.5 非常适合 React。它也非常实惠且高效！"
-    },
-    {
-      "id": "tweet_elonmusk_2079261553136734239",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 20 Jul 2026 17:45:59 GMT",
-      "content": "Grok for Excel is now live",
-      "url": "https://x.com/elonmusk/status/2079261553136734239",
-      "tweet_id": "2079261553136734239",
-      "translated": "Grok for Excel 现已上线"
-    },
-    {
-      "id": "tweet_elonmusk_2079072559673577619",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 20 Jul 2026 05:15:00 GMT",
-      "content": "RT by @elonmusk: • Starship To “Collapse Cost” of AI Compute & Global Communications",
-      "url": "https://x.com/elonmusk/status/2079072559673577619",
-      "tweet_id": "2079072559673577619",
-      "translated": "RT by @elonmusk： • Starship 将“降低人工智能计算和全球通信的成本”"
-    },
     {
       "id": "tweet_cz_binance_2079162814321602586",
       "username": "cz_binance",
@@ -50,7 +20,7 @@
       "content": "Had a great convo with Lisa from 天下雜誌. Taiwan is like a second home. Many of my childhood friends were Taiwanese. That's why my Mandarin carries a Taiwanese accent. 😄 We talked about the early Binance days, family, and what I’m focused on now. https://www.cw.com.tw/article/5142079",
       "url": "https://x.com/cz_binance/status/2079162299953123460",
       "tweet_id": "2079162299953123460",
-      "translated": "与天下杂志的丽莎进行了一次精彩的交流。台湾就像第二故乡。我儿时的很多朋友都是台湾人。这就是为什么我的普通话带有台湾口音。 😄 我们谈论了早期的币安时代、家庭以及我现在关注的事情。 https://www.cw.com.tw/article/5142079"
+      "translated": "与《天下杂志》的丽莎进行了一次精彩的交流。台湾就像第二故乡。我儿时的很多朋友都是台湾人。这就是为什么我的普通话带有台湾口音。 😄 我们谈论了早期的币安时代、家庭以及我现在关注的事情。 https://www.cw.com.tw/article/5142079"
     },
     {
       "id": "tweet_cz_binance_2078649815404015990",
@@ -93,6 +63,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2079289335351062693",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Mon, 20 Jul 2026 19:36:23 GMT",
+      "content": "TBH, casually posting novel information discovery to X is how research should be done. Apparently this was #16 on the Smale's list of Mathematical Problems for the Next Century? Kinda shows that the value generated from AI does not scale linearly with token costs... After seeing this, bears are still probably going to say: \"B-but where's the profit coming from after AI usage?\" AI + capex is likely going to keep going brrr.",
+      "url": "https://x.com/aleabitoreddit/status/2079289335351062693",
+      "tweet_id": "2079289335351062693",
+      "translated": "说实话，随意将新发现的信息发布到 X 才是研究应该进行的方式。显然这是斯梅尔的下世纪数学问题清单上的第 16 名？有点表明人工智能产生的价值并不与代币成本成线性比例......看到这一点后，看空者仍然可能会说：“B-但是使用人工智能后的利润来自哪里？”人工智能+资本支出可能会继续下去。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2079254669793316962",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -111,16 +91,6 @@
       "url": "https://x.com/aleabitoreddit/status/2079089592385610023",
       "tweet_id": "2079089592385610023",
       "translated": "关于瓶颈时间表的一些更新： - ABF 基材：1 年/例如。 Ajinomoto (2802) 用于 ABF 薄膜，Ibiden、Unimicron、Nan Ya PCB 等制作基板 - HDI 板：超过 6 个月 / Victory Giant (300476)、Zhen Ding (4958)、Unimicron、Compeq (2313)、Meiko (6787) - 多层板：~6 个月 / Victory Giant、WUS (002463)、$TTMI、Gold电路电子(2368)、-覆铜板：超过6个月(材料严重短缺)/精英材料(2383)、生益(600183)、TUC(6274)、ITEQ(6213)、南亚塑料(1303)、Resonac(4004)三井金属(5706)/HVLP铜箔。 Nittobo / 玻璃纤维/布 - MLCC、片式电阻器、钽电容器、铝电解电容器：15-20 周至 1 年+ MLCC：Murata (6981)、Samsung Electro-Mechanics、TDK (6762)、Taiyo Yuden (6976)、Yageo (2327)、Walsin (2492) 片式电阻器：Yageo、 Walsin、KOA (6999)、Rohm (6963) 和 $VSH 钽电容器：Kyocera/AVX、Yageo/KEMET，又是 $VSH 铝电解电容器：Nippon Chemi-Con (6997) Nichicon (6996) |时间线来自 Digitimes，荣幸地添加了相关公司。但由于 MLCC 和其他器件混合在一起，情况会更加微妙。商品类型与人工智能 DC 的比较。无论如何，只是一些有用的映射。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2078914447180263438",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sun, 19 Jul 2026 18:46:43 GMT",
-      "content": "There’s nothing quite like the scent of more AI capex on a Sunday. Probably some ways to go if leading frontier models are out of capacity from too much demand.",
-      "url": "https://x.com/aleabitoreddit/status/2078914447180263438",
-      "tweet_id": "2078914447180263438",
-      "translated": "没有什么比周日更多人工智能资本支出的气味更好的了。如果领先的前沿模型因需求过多而产能不足，那么可能还有一些路可走。"
     },
     {
       "id": "tweet_qinbafrank_2079257365703225401",
@@ -233,8 +203,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 8
+    "users_success": 7,
+    "users_failed": 1,
+    "nitter_healthy": 9
   }
 }
