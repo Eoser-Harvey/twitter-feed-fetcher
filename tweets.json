@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-20T03:56:18.579985+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-20T06:50:05.922101+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2078988716950065383",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 19 Jul 2026 23:41:50 GMT",
-      "content": "RT by @elonmusk: An absolutely incredible performance by Spain to take home the World Cup! 🇪🇸🏆 So well-deserved, just a beautiful display of teamwork all tournament. Congratulations to Argentina & Messi on a great run. And huge kudos to all of the teams and fans around the world for making this World Cup so memorable, already looking forward to 2030!",
-      "url": "https://x.com/elonmusk/status/2078988716950065383",
-      "tweet_id": "2078988716950065383",
-      "translated": "RT @elonmusk：西班牙队以绝对令人难以置信的表现夺得世界杯冠军！ 🇪🇸🏆 当之无愧，整个锦标赛完美地展示了团队合作。祝贺阿根廷队和梅西取得出色的成绩。向世界各地的所有球队和球迷致以崇高的敬意，让这届世界杯如此令人难忘，我们已经开始期待 2030 年了！"
-    },
-    {
-      "id": "tweet_elonmusk_2078766969877049810",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 19 Jul 2026 09:00:41 GMT",
-      "content": "RT by @elonmusk: Image",
-      "url": "https://x.com/elonmusk/status/2078766969877049810",
-      "tweet_id": "2078766969877049810",
-      "translated": "RT @elonmusk：图片"
-    },
-    {
-      "id": "tweet_elonmusk_2079010090036641831",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 20 Jul 2026 01:06:46 GMT",
-      "content": "R to @elonmusk: I mean Thursday (duh)",
-      "url": "https://x.com/elonmusk/status/2079010090036641831",
-      "tweet_id": "2079010090036641831",
-      "translated": "R 致@elonmusk：我是说星期四（废话）"
-    },
     {
       "id": "tweet_cz_binance_2078649815404015990",
       "username": "cz_binance",
@@ -92,6 +62,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2079089592385610023",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Mon, 20 Jul 2026 06:22:41 GMT",
+      "content": "Some updates on bottleneck timelines: - ABF substrates: 1 year / eg. Ajinomoto (2802) for ABF film, Ibiden, Unimicron, Nan Ya PCB, etc make the substrates - HDI Boards: Over 6 months / Victory Giant (300476), Zhen Ding (4958), Unimicron, Compeq (2313), Meiko (6787) - Multilayer boards: ~6 months / Victory Giant, WUS (002463), $TTMI, Gold Circuit Electronics (2368), - CCL: Over 6 months (severe shortages of materials) / Elite Material (2383), Shengyi (600183), TUC (6274), ITEQ (6213), Nan Ya Plastics (1303), Resonac (4004) Mitsui Kinzoku (5706) / HVLP copper foil. Nittobo / glass fiber/cloth - MLCCs, chip resistors, tantalum capacitors, aluminum electrolytic capacitors: 15-20 weeks to 1 year+ MLCC: Murata (6981), Samsung Electro-Mechanics, TDK (6762), Taiyo Yuden (6976), Yageo (2327), Walsin (2492) Chip Resistors: Yageo, Walsin, KOA (6999), Rohm (6963) and $VSH Tantalum capacitors: Kyocera/AVX, Yageo/KEMET, $VSH again Aluminum electrolytic capacitors: Nippon Chemi-Con (6997) Nichicon (6996) | Timelines sourced from Digitimes, did the honors of adding in related companies. But it's slightly more nuanced since MLCCs and others mix. in commodity types vs. AI DCs. Regardless, just some helpful mapping.",
+      "url": "https://x.com/aleabitoreddit/status/2079089592385610023",
+      "tweet_id": "2079089592385610023",
+      "translated": "关于瓶颈时间表的一些更新： - ABF 基材：1 年/例如。 Ajinomoto (2802) 用于 ABF 薄膜，Ibiden、Unimicron、Nan Ya PCB 等制作基板 - HDI 板：超过 6 个月 / Victory Giant (300476)、Zhen Ding (4958)、Unimicron、Compeq (2313)、Meiko (6787) - 多层板：~6 个月 / Victory Giant、WUS (002463)、$TTMI、Gold电路电子(2368)、-覆铜板：超过6个月(材料严重短缺)/精英材料(2383)、生益(600183)、TUC(6274)、ITEQ(6213)、南亚塑料(1303)、Resonac(4004)三井金属(5706)/HVLP铜箔。 Nittobo / 玻璃纤维/布 - MLCC、片式电阻器、钽电容器、铝电解电容器：15-20 周至 1 年+ MLCC：Murata (6981)、Samsung Electro-Mechanics、TDK (6762)、Taiyo Yuden (6976)、Yageo (2327)、Walsin (2492) 片式电阻器：Yageo、 Walsin、KOA (6999)、Rohm (6963) 和 $VSH 钽电容器：Kyocera/AVX、Yageo/KEMET，又是 $VSH 铝电解电容器：Nippon Chemi-Con (6997) Nichicon (6996) |时间线来自 Digitimes，荣幸地添加了相关公司。但由于 MLCC 和其他器件混合在一起，情况会更加微妙。商品类型与人工智能 DC 的比较。无论如何，只是一些有用的映射。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2078914447180263438",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,16 +90,6 @@
       "url": "https://x.com/aleabitoreddit/status/2078338950150959558",
       "tweet_id": "2078338950150959558",
       "translated": "对于那些关注 $SKHY 相对于 SK 海力士韩国股票 25% 以上溢价的人来说：美国存托凭证和本地股票将于 7 月 29 日开始可兑换。应该会打开套利之门，并可能压缩美国存托凭证溢价。也许会提振韩国股市或给美国股市带来压力。目前2.5%是美国ADR股票，因此可以额外转换22.5%。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2078283847612186739",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sat, 18 Jul 2026 01:00:56 GMT",
-      "content": "Thanks! I’ve always shared personal research and core thoughts for free. Not trying to sell anything or tell others what to do. And above all, just being transparent about my own returns (win or loss) Maybe this information democratization upsets some business models… When others try and pitch their $40 TA subscriptions that are always right and predicted the semis crash. But if they really believed it, they would have made 5000%+ buying puts and wouldn’t need to market a paywall. Yes, if I’m on 1.4x leverage, and if a portfolio concentrated in memory/photonics underlying crashes -35% on avg… you get a 49% drawdown. I’m just sharing what happens. But I expect AI names to recover since I see demand from compute to energy to memory to networking to be structural.",
-      "url": "https://x.com/aleabitoreddit/status/2078283847612186739",
-      "tweet_id": "2078283847612186739",
-      "translated": "谢谢！我总是免费分享个人研究和核心思想。不试图出售任何东西或告诉别人该做什么。最重要的是，只要对我自己的回报（赢或输）保持透明，也许这种信息民主化会扰乱某些商业模式……当其他人尝试推销他们的 40 美元 TA 订阅时，他们总是正确的并预测了半决赛崩溃。但如果他们真的相信这一点，他们就会买入 5000% 以上的看跌期权，并且不需要营销付费专区。是的，如果我的杠杆率为 1.4 倍，并且如果专注于内存/光子学基础的投资组合平均崩溃 -35%……你会得到 49% 的回撤。我只是分享发生的事情。但我预计人工智能名称将会复苏，因为我认为从计算到能源到内存再到网络的需求都是结构性的。"
     },
     {
       "id": "tweet_qinbafrank_2079033967274348562",
@@ -212,14 +182,13 @@
       "tweet_id": "2079031336388718783"
     },
     {
-      "id": "tweet_hibtc37_2079022882118889836",
+      "id": "tweet_hibtc37_2077697281911136554",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Mon, 20 Jul 2026 01:57:36 GMT",
-      "content": "R to @grok: @grok",
-      "url": "https://x.com/hibtc37/status/2079022882118889836",
-      "tweet_id": "2079022882118889836",
-      "translated": "R 至@grok：@grok"
+      "published_at": "Thu, 16 Jul 2026 10:10:08 GMT",
+      "content": "37度七粉群 开放专用贴 免费电报群，本周开放88个名额，申请加群，请留下评论报名 服务能力有限，为了保持群风，只能每周分批开放，请理解 最好说一下申请理由，怎么对我达成200k粉丝目标有帮助，评论优秀者，可以直接拉进群 加群规则：88个名额，由评论里报名的粉丝选出，不区分新老粉，但老铁粉依然是优先，我会用Grok来评分，评分最高88位，可免费进群 评分规则：请@grok 三天后统计在本条内容下方的留言者的分数，分数由高到低选出前100位，列出来他们的ID和分数，请在5天后再给出结果，分数统计逻辑是留言者对 @hibtc37 在过去两周的互动分数，每位留言者的互动分数由以下4项求和： 1、转发，3分 2、评论，2分 3、点赞，1分 4、收藏，3分 说明：如果名单里有垃圾广告和黄诈号，志愿者会手工剔除。名单出来后，会告诉大家怎么进群。如有不周之处，请理解，祝你工作和生活愉快，谢谢支持🙏",
+      "url": "https://x.com/hibtc37/status/2077697281911136554",
+      "tweet_id": "2077697281911136554"
     },
     {
       "id": "tweet_hibtc37_2079013899098284245",
@@ -232,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 9
   }
 }
