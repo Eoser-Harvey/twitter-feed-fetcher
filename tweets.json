@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-20T22:02:28.140654+00:00",
+  "fetched_at": "2026-07-20T23:59:02.035441+00:00",
   "total": 24,
   "tweets": [
     {
@@ -50,7 +50,7 @@
       "content": "Had a great convo with Lisa from 天下雜誌. Taiwan is like a second home. Many of my childhood friends were Taiwanese. That's why my Mandarin carries a Taiwanese accent. 😄 We talked about the early Binance days, family, and what I’m focused on now. https://www.cw.com.tw/article/5142079",
       "url": "https://x.com/cz_binance/status/2079162299953123460",
       "tweet_id": "2079162299953123460",
-      "translated": "与天下杂志的丽莎进行了一次精彩的交流。台湾就像第二故乡。我儿时的很多朋友都是台湾人。这就是为什么我的普通话带有台湾口音。 😄 我们谈论了早期的币安时代、家庭以及我现在关注的事情。 https://www.cw.com.tw/article/5142079"
+      "translated": "与《天下杂志》的丽莎进行了一次精彩的交流。台湾就像第二故乡。我儿时的很多朋友都是台湾人。这就是为什么我的普通话带有台湾口音。 😄 我们谈论了早期的币安时代、家庭以及我现在关注的事情。 https://www.cw.com.tw/article/5142079"
     },
     {
       "id": "tweet_cz_binance_2078649815404015990",
@@ -204,6 +204,15 @@
       "tweet_id": "2079200121246699639"
     },
     {
+      "id": "tweet_hibtc37_2079354598251487661",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Mon, 20 Jul 2026 23:55:43 GMT",
+      "content": "R to @hibtc37: 写错了，应该是第10周",
+      "url": "https://x.com/hibtc37/status/2079354598251487661",
+      "tweet_id": "2079354598251487661"
+    },
+    {
       "id": "tweet_hibtc37_2079173040064373126",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -220,16 +229,6 @@
       "content": "交易实验第8周总结： 初始资产：20万 累计提现：31万 最新结余：6.2万 开始时间：5月5日2026年 目标资产：50W 账号资产重置，从5W开始计算，目标50万，看看多久能做到，当前最近做空SPCX和海力士为主，可能等大饼刀670-677开始做空，还有做空CBRS，目前看到的一些比较确定性机会 你认为有什么策略可以5-50吗？时间可以慢，我觉得慢慢撸大饼和姨太应该是可以到的",
       "url": "https://x.com/hibtc37/status/2079031336388718783",
       "tweet_id": "2079031336388718783"
-    },
-    {
-      "id": "tweet_hibtc37_2079022882118889836",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Mon, 20 Jul 2026 01:57:36 GMT",
-      "content": "R to @grok: @grok",
-      "url": "https://x.com/hibtc37/status/2079022882118889836",
-      "tweet_id": "2079022882118889836",
-      "translated": "R 至@grok：@grok"
     }
   ],
   "stats": {
