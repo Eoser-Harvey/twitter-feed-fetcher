@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-19T22:56:18.720553+00:00",
+  "fetched_at": "2026-07-20T00:01:16.985342+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2078987522927972695",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 19 Jul 2026 23:37:05 GMT",
+      "content": "Try Grok 4.5!",
+      "url": "https://x.com/elonmusk/status/2078987522927972695",
+      "tweet_id": "2078987522927972695",
+      "translated": "尝试 Grok 4.5！"
+    },
     {
       "id": "tweet_elonmusk_2078836217378975750",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2078973008358555851",
       "tweet_id": "2078973008358555851",
       "translated": "Grok 擅长预测"
-    },
-    {
-      "id": "tweet_elonmusk_2078972489925812454",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 19 Jul 2026 22:37:21 GMT",
-      "content": "🇪🇸 🇪🇸 Congratulations Spain!! 🇪🇸 🇪🇸",
-      "url": "https://x.com/elonmusk/status/2078972489925812454",
-      "tweet_id": "2078972489925812454",
-      "translated": "🇪🇸🇪🇸恭喜西班牙！！ 🇪🇸🇪🇸"
     },
     {
       "id": "tweet_cz_binance_2078649815404015990",
@@ -233,6 +233,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
