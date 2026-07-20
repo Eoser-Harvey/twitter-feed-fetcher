@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-20T00:01:16.985342+00:00",
+  "fetched_at": "2026-07-20T03:56:18.579985+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2078987522927972695",
+      "id": "tweet_elonmusk_2078988716950065383",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 19 Jul 2026 23:37:05 GMT",
-      "content": "Try Grok 4.5!",
-      "url": "https://x.com/elonmusk/status/2078987522927972695",
-      "tweet_id": "2078987522927972695",
-      "translated": "尝试 Grok 4.5！"
+      "published_at": "Sun, 19 Jul 2026 23:41:50 GMT",
+      "content": "RT by @elonmusk: An absolutely incredible performance by Spain to take home the World Cup! 🇪🇸🏆 So well-deserved, just a beautiful display of teamwork all tournament. Congratulations to Argentina & Messi on a great run. And huge kudos to all of the teams and fans around the world for making this World Cup so memorable, already looking forward to 2030!",
+      "url": "https://x.com/elonmusk/status/2078988716950065383",
+      "tweet_id": "2078988716950065383",
+      "translated": "RT @elonmusk：西班牙队以绝对令人难以置信的表现夺得世界杯冠军！ 🇪🇸🏆 当之无愧，整个锦标赛完美地展示了团队合作。祝贺阿根廷队和梅西取得出色的成绩。向世界各地的所有球队和球迷致以崇高的敬意，让这届世界杯如此令人难忘，我们已经开始期待 2030 年了！"
     },
     {
-      "id": "tweet_elonmusk_2078836217378975750",
+      "id": "tweet_elonmusk_2078766969877049810",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 19 Jul 2026 13:35:51 GMT",
-      "content": "RT by @elonmusk: Back then she was a young 55 year old with crazy ideas",
-      "url": "https://x.com/elonmusk/status/2078836217378975750",
-      "tweet_id": "2078836217378975750",
-      "translated": "RT by @elonmusk：当时她还是个 55 岁的年轻人，有着疯狂的想法"
+      "published_at": "Sun, 19 Jul 2026 09:00:41 GMT",
+      "content": "RT by @elonmusk: Image",
+      "url": "https://x.com/elonmusk/status/2078766969877049810",
+      "tweet_id": "2078766969877049810",
+      "translated": "RT @elonmusk：图片"
     },
     {
-      "id": "tweet_elonmusk_2078973008358555851",
+      "id": "tweet_elonmusk_2079010090036641831",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 19 Jul 2026 22:39:25 GMT",
-      "content": "Grok is good at predictions",
-      "url": "https://x.com/elonmusk/status/2078973008358555851",
-      "tweet_id": "2078973008358555851",
-      "translated": "Grok 擅长预测"
+      "published_at": "Mon, 20 Jul 2026 01:06:46 GMT",
+      "content": "R to @elonmusk: I mean Thursday (duh)",
+      "url": "https://x.com/elonmusk/status/2079010090036641831",
+      "tweet_id": "2079010090036641831",
+      "translated": "R 致@elonmusk：我是说星期四（废话）"
     },
     {
       "id": "tweet_cz_binance_2078649815404015990",
@@ -122,6 +122,15 @@
       "translated": "谢谢！我总是免费分享个人研究和核心思想。不试图出售任何东西或告诉别人该做什么。最重要的是，只要对我自己的回报（赢或输）保持透明，也许这种信息民主化会扰乱某些商业模式……当其他人尝试推销他们的 40 美元 TA 订阅时，他们总是正确的并预测了半决赛崩溃。但如果他们真的相信这一点，他们就会买入 5000% 以上的看跌期权，并且不需要营销付费专区。是的，如果我的杠杆率为 1.4 倍，并且如果专注于内存/光子学基础的投资组合平均崩溃 -35%……你会得到 49% 的回撤。我只是分享发生的事情。但我预计人工智能名称将会复苏，因为我认为从计算到能源到内存再到网络的需求都是结构性的。"
     },
     {
+      "id": "tweet_qinbafrank_2079033967274348562",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Mon, 20 Jul 2026 02:41:39 GMT",
+      "content": "Kimi算力紧缺让大家有看到云厂商的价值，但是如果认为云厂商的价值只在算力层面，那是有点看轻它们了。超大CSP未来真正的价值在于：成为企业多模型架构中的关键“中间层”，本质上是把“模型层”商品化后，CSP 把价值更多地转移到基础设施 + 平台服务层（托管、优化、路由、治理、安全），不仅仅是算力。换句话说： 大模型 ARR 是“模型层收入”； CSP业绩才是“AI 工程化收入”。 这就意味着CSP正在既帮客户降本，又自己赚取更高比例的利润。 之前这里https://x.com/qinbafrank/status/2074754779755295164?s=46&t=k6rimWsEbo2D2tXolYcM-A有聊超大CSP的价值重估的，应该算是最早聊到这一点的：超大CSP有算力、能部署开源模型，也能自研模型，不再是只靠前沿闭源大模型，毛利会更高，海量B端客户通道依然有巨大优势， 这些都会让超大CSP形成新的战略优势。 未来模型公司决定“AI 能做什么”； CSP 决定“AI 能以多大规模、多低成本、多高可靠性进入企业生产系统”。 更详细AI采用工程化还是上周的长文，有详细聊到。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2079033967274348562",
+      "tweet_id": "2079033967274348562"
+    },
+    {
       "id": "tweet_qinbafrank_2078672470111056017",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -140,13 +149,13 @@
       "tweet_id": "2078653102715289992"
     },
     {
-      "id": "tweet_qinbafrank_2078431440258441606",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sat, 18 Jul 2026 10:47:25 GMT",
-      "content": "韩股去杠杆到了什么阶段？看神鱼@bitfish 推特提到的 http://kimpremium.com展示的韩国散户杠杆精细化监控数据，网站数据截止到7月15号，16号韩股还有一个交易日。聊聊对几个数据的理解： 1、显性融资债务： 信用融资余额从6月24日峰值38.6328万亿降到7月15日的34.370184万亿，减少4.262616万亿，降幅11.03%。名义上仍相当于峰值的89%。这是目前最接近“真实还了多少显性债务”的指标。算是回到4月份的水平 2、R2 =信用融资余额 / 投资者存管金， 目前31.283%，仍处于过去10年约21%分位，静态看不算高。但看变化： 1）7月14日 → 7月15日： 存管金从111.2825万亿降到109.866972万亿，减少1.4155万亿；信用融资从34.7078万亿降到34.370184万亿，只减少0.3376万亿； R2从31.189%升到31.283%。 2）再看6月底到7月15日： 信用融资下降7.92%，存管金下降9.67%，R2反而上升0.594个百分点。 核心问题就是：债务在减少，但剩余投资者的现金安全垫下降得更快。流动性缓冲没有同步改善，甚至有所变薄。这比单纯看R2的绝对分位数更重要。 3、7月16日个人净买入4.78万亿：还没看到投降暴跌 再把能看到的7月16日数据拿出来，个人投资者16日当天在KOSPI市场净买入4.78万亿，外资和机构分别净卖出1.93万亿和3.05万亿。 而典型出清尾声通常会出现： 散户从抄底转为主动卖出、存管金企稳或回升、信用融资加速下降、杠杆ETF持续净赎回、强平见顶后回落。 现在看到的是机构和外资在降低风险敞口，个人反而在继续吸收风险。这些买入资金来源可能是已有现金、卖出其他资产，或者新增杠杆，目前还分不清。但大额抄底至少说明，市场行为层面还没有形成全面的风险厌恶和投降。 4、强平仍在高压区间 截至7月15日，强平5日均值620亿韩元，仍在10年99%分位，单日强平385亿韩元，强平占未收款比例3.8%，远低于10%“爆仓日”阈值。 韩国金融投资协会统计的强平主要覆盖短期未结算交易，不包括全部信用融资账户和担保贷款的强制平仓，所以这个数字是压力代理指标，不是全部强制卖出总额。7月16日暴跌后的强平数据还没进来，实际压力可能比现在看到的更高。 5、杠杆ETF的规模还不小 除传统信用融资外，杠杆ETF 嵌入杠杆规模24.2 万亿韩元，甚至能看到7月以来截止到7月15号只有13号这一天是净赎回的，7月其余交易日都还是净申购的。意味着显性融资盘降下来了，但产品化、ETF化的杠杆敞口还很重。投资人没有通过账户加杠杆，而是通过杠杆ETF来加杠杆。 去杠杆后期，应看流通份额是否被授权参与商注销，就是持续大量的净赎回发生。 所以整体的判断是： 显性融资去杠杆中后段，现金缓冲没有改善，ETF机械减仓很剧烈，但散户行为尚未出现典型出清尾声的投降迹象。整体从去杠杆中段推进到中后段，应该还没到最终出清阶段。 后续密切关注： 信用融资余额是否继续大幅下降、 存管金是否企稳、 R2是否转为下降、 杠杆ETF是否出现持续净赎回， 以及强平5日均值是否见顶回落。 为什么关注去杠杆的程度？说实话并不能准确定位去杠杆到了什么阶段，但是既然市场的调整是由去杠杆来引发恶，那么市场能否真正企稳要看杠杆是不是真正出清，至少出清了绝大部分才好。 价格下跌本身不能证明融资债务减少了多少，只是把风险资产重新定价了。",
-      "url": "https://x.com/qinbafrank/status/2078431440258441606",
-      "tweet_id": "2078431440258441606"
+      "id": "tweet_xiaomustock_2079035312031039598",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Mon, 20 Jul 2026 02:46:59 GMT",
+      "content": "均价52.3海力士2x我又来了 梭完了，生死有命富贵在天，买定离手了。",
+      "url": "https://x.com/xiaomustock/status/2079035312031039598",
+      "tweet_id": "2079035312031039598"
     },
     {
       "id": "tweet_xiaomustock_2078970263484686514",
@@ -165,15 +174,6 @@
       "content": "买了5万刀阿根廷赢，最后一场了想把前面买球输的赚回来。 之前阿根廷那一场对手埃及还是谁进球了，被因为很早之前的踩脚吹掉了， 轮到阿根廷进球踩脚啥事没有。 后面阿根廷打的几局都莫名其妙，对手跟封印了一样只防守不进攻， 感觉是一种无形大手黑幕必须要让阿根廷保送。 巨大的阴谋。 再不赌球了他娘的买啥亏啥，我老是想反买一小博大被爆干，干服了正买又被爆干。🌚 赌球真几把脸黑呐。",
       "url": "https://x.com/xiaomustock/status/2078877540811415949",
       "tweet_id": "2078877540811415949"
-    },
-    {
-      "id": "tweet_xiaomustock_2078872580476535295",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Sun, 19 Jul 2026 16:00:21 GMT",
-      "content": "全市场真正唯一害怕的事情就是这些云厂缩减2027年的财务开支，尤其是谷歌亚马逊，它俩家就占了全球总支出一半快4000亿美金。",
-      "url": "https://x.com/xiaomustock/status/2078872580476535295",
-      "tweet_id": "2078872580476535295"
     },
     {
       "id": "tweet_xingpt_2078847180379660478",
@@ -203,31 +203,32 @@
       "tweet_id": "2078813124766191846"
     },
     {
-      "id": "tweet_hibtc37_2078642864402391443",
+      "id": "tweet_hibtc37_2079031336388718783",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Sun, 19 Jul 2026 00:47:32 GMT",
-      "content": "国产显卡训练出国产模型是行外言论了 H200和B300这些，疯狂往中国搬，只要是行业内的人，没有一个不知道的 如果此刻发生中美战争，AI主导，你是领导，你用国产显卡，还是英伟达B300，和老美打？",
-      "url": "https://x.com/hibtc37/status/2078642864402391443",
-      "tweet_id": "2078642864402391443"
+      "published_at": "Mon, 20 Jul 2026 02:31:11 GMT",
+      "content": "交易实验第8周总结： 初始资产：20万 累计提现：31万 最新结余：6.2万 开始时间：5月5日2026年 目标资产：50W 账号资产重置，从5W开始计算，目标50万，看看多久能做到，当前最近做空SPCX和海力士为主，可能等大饼刀670-677开始做空，还有做空CBRS，目前看到的一些比较确定性机会 你认为有什么策略可以5-50吗？时间可以慢，我觉得慢慢撸大饼和姨太应该是可以到的",
+      "url": "https://x.com/hibtc37/status/2079031336388718783",
+      "tweet_id": "2079031336388718783"
     },
     {
-      "id": "tweet_hibtc37_2078638105939366262",
+      "id": "tweet_hibtc37_2079022882118889836",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Sun, 19 Jul 2026 00:28:38 GMT",
-      "content": "木头姐又站岗😅 $SPCX 成本142，现价124 $CBRS 成本216，现价173 妥妥反向指标，新股跟着木头姐反着来，可能胜率很高？ #ARK #SPCX #CBRS",
-      "url": "https://x.com/hibtc37/status/2078638105939366262",
-      "tweet_id": "2078638105939366262"
+      "published_at": "Mon, 20 Jul 2026 01:57:36 GMT",
+      "content": "R to @grok: @grok",
+      "url": "https://x.com/hibtc37/status/2079022882118889836",
+      "tweet_id": "2079022882118889836",
+      "translated": "R 至@grok：@grok"
     },
     {
-      "id": "tweet_hibtc37_2078323771421900924",
+      "id": "tweet_hibtc37_2079013899098284245",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Sat, 18 Jul 2026 03:39:35 GMT",
-      "content": "学习当美股韭菜，这人流量吊打我们行业，而且所有人都在有序排了很多条长龙…很震惊，还是说，只是新加坡人喜欢排队",
-      "url": "https://x.com/hibtc37/status/2078323771421900924",
-      "tweet_id": "2078323771421900924"
+      "published_at": "Mon, 20 Jul 2026 01:21:54 GMT",
+      "content": "R to @hibtc37: @grok 请按照这个帖子规则，从评论里，筛选和列出88名粉丝的id",
+      "url": "https://x.com/hibtc37/status/2079013899098284245",
+      "tweet_id": "2079013899098284245"
     }
   ],
   "stats": {
