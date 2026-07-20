@@ -1,36 +1,56 @@
 {
-  "fetched_at": "2026-07-20T10:15:08.728959+00:00",
+  "fetched_at": "2026-07-20T13:09:24.611754+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2078891465145810993",
+      "id": "tweet_elonmusk_2079157111183806697",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 19 Jul 2026 17:15:23 GMT",
-      "content": "RT by @elonmusk: I'm a cardiologist. Everyone is sharing this study as a skin story. They're burying the part that matters. Scientists took the aorta of a 75-year-old donor, applied a single engineered enzyme, and stripped away more than 70% of the molecular damage — bringing it down to the levels you'd see in a 30-year-old artery. Published five days ago in Nature Communications. Revel Pharmaceuticals, with Calico and the University of Colorado. Here's what they erased. Sugar reacts with proteins in your body the same way heat browns bread — slowly, over a lifetime. It leaves behind a residue called CML, the most abundant advanced glycation end product in aging tissue. It welds itself onto collagen and elastin in your skin, your eye lens, and your arterial walls. Two things follow. Your arteries stiffen. And CML latches onto a receptor called RAGE, which drives chronic inflammation — the exact fire I've been writing about for months as the engine of heart disease. Since the 1980s this damage was considered permanent. Your body has no enzyme to remove it. Every existing approach only slows new damage from forming. Nothing touched what was already there. So they built an enzyme that doesn't exist in nature. They screened 45,000 protein structures, then ran five rounds of directed evolution across more than 500 million variants until they had CMLase — a molecular lawnmower that oxidizes the CML off the protein and restores the original, healthy lysine underneath. Not patched. Reversed. Over 70% cleared from elderly arterial tissue. Over 55% from elderly skin — below the levels found in 31-year-old skin. 45-78% in lens proteins. The CEO said they expected 20% and were floored. Arterial stiffness drives systolic hypertension, heart failure, and stroke, and I have no drug that reverses it. I can slow the process. I cannot undo it. This paper says undoing it may be possible. The caveats are real and I won't skip them. This was done on donated tissue in a dish, not in a living person. No functional data yet — we don't know if that artery got measurably more elastic. Delivering a large enzyme deep into human tissue is a hard, unsolved problem. Clinical trials are years away. But something considered permanent for forty years just came off human tissue. We spent a century learning to slow aging. Someone finally figured out how to erase it. Thank you @theallinpod @friedberg @chamath @pesottas",
-      "url": "https://x.com/elonmusk/status/2078891465145810993",
-      "tweet_id": "2078891465145810993",
-      "translated": "RT @elonmusk：我是一名心脏病专家。每个人都将这项研究作为皮肤故事来分享。他们正在埋葬重要的部分。科学家们取了一位 75 岁捐献者的主动脉，应用了一种工程酶，消除了 70% 以上的分子损伤，将其降低到了 30 岁动脉的水平。五天前发表在《自然通讯》上。 Revel Pharmaceuticals、Calico 和科罗拉多大学。这是他们删除的内容。糖与体内的蛋白质发生反应，就像加热面包一样——缓慢地、持续一生。它留下了一种称为 CML 的残留物，这是衰老组织中最丰富的高级糖基化终产物。它会将自身焊接到皮肤、晶状体和动脉壁的胶原蛋白和弹性蛋白上。接下来有两件事。你的动脉变硬。 CML 与一种名为 RAGE 的受体结合，这种受体会引发慢性炎症——这正是我几个月来一直在写的作为心脏病引擎的火灾。自 20 世纪 80 年代以来，这种损害被认为是永久性的。您的身体没有酶可以去除它。现有的每一种方法都只会减缓新损害的形成。没有任何东西触及已经存在的东西。因此他们构建了一种自然界中不存在的酶。他们筛选了 45,000 个蛋白质结构，然后对超过 5 亿个变体进行了五轮定向进化，直到他们有了 CMLase——一种分子割草机，可以氧化蛋白质上的 CML，并恢复其下原始的、健康的赖氨酸。没有打补丁。反了。超过 70% 从老年动脉组织中清除。超过 55% 来自老年皮肤——低于 31 岁皮肤的水平。 45-78% 为晶状体蛋白。首席执行官表示，他们的预期是 20%，但结果却令人震惊。动脉僵硬会导致收缩期高血压、心力衰竭和中风，而我没有药物可以逆转它。我可以减慢这个过程。我无法撤消它。这篇论文说，撤销它是可能的。这些警告是真实的，我不会跳过它们。这是在培养皿中的捐赠组织上进行的，而不是在活人身上进行的。还没有功能数据——我们不知道那条动脉是否变得更有弹性。将大酶输送到人体组织深处是一个尚未解决的难题。临床试验还需要数年时间。但一些被认为可以持续四十年的东西却从人体组织上脱落了。我们花了一个世纪的时间学习延缓衰老。终于有人知道如何删除它了。谢谢@theallinpod @friedberg @chamath @pesottas"
+      "published_at": "Mon, 20 Jul 2026 10:50:58 GMT",
+      "content": "Grok",
+      "url": "https://x.com/elonmusk/status/2079157111183806697",
+      "tweet_id": "2079157111183806697",
+      "translated": "格罗克"
     },
     {
-      "id": "tweet_elonmusk_2078988716950065383",
+      "id": "tweet_elonmusk_2078913853203882238",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 19 Jul 2026 23:41:50 GMT",
-      "content": "RT by @elonmusk: An absolutely incredible performance by Spain to take home the World Cup! 🇪🇸🏆 So well-deserved, just a beautiful display of teamwork all tournament. Congratulations to Argentina & Messi on a great run. And huge kudos to all of the teams and fans around the world for making this World Cup so memorable, already looking forward to 2030!",
-      "url": "https://x.com/elonmusk/status/2078988716950065383",
-      "tweet_id": "2078988716950065383",
-      "translated": "RT @elonmusk：西班牙队以绝对令人难以置信的表现夺得世界杯冠军！ 🇪🇸🏆 当之无愧，整个锦标赛完美地展示了团队合作。祝贺阿根廷队和梅西取得出色的成绩。向世界各地的所有球队和球迷致以崇高的敬意，让这届世界杯如此令人难忘，我们已经开始期待 2030 年了！"
+      "published_at": "Sun, 19 Jul 2026 18:44:21 GMT",
+      "content": "RT by @elonmusk: Rome conquered Greece in 146 BC when they burned Corinth to the ground. And then the strangest thing in ancient history happened. The winners spent the next few centuries desperately trying to become the losers. It actually started before the final conquest. When the general Marcellus sacked Syracuse in 211 BC, he shipped boatloads of Greek statues and paintings back to Rome, and the city went crazy for it. Suddenly every rich Roman had to have Greek art in his house. Decades later Cicero built an entire court case around prosecuting a governor named Verres for looting Greek masterpieces, and Romans ate it up. Then came the schools. Wealthy families started buying Greek slaves specifically because they were educated, and handed them the job of raising their children. So the sons of the men who crushed Greece grew up speaking Greek, memorizing Greek poetry, and learning philosophy from Greeks. The elite eventually sent their teenagers abroad to Athens and Rhodes to finish their education, the way people today send kids to study overseas. Cicero did it. Julius Caesar did it. Their gods were Greek gods wearing name tags. Zeus became Jupiter. Hera became Juno. Aphrodite became Venus. Ares became Mars. Same myths, same family drama, mostly just relabeled. Their entertainment was borrowed too. The first big Roman playwrights, Plautus and Terence, basically adapted Greek comedies into Latin. Their doctors were Greek. Their architecture leaned on Greek columns, the Doric and Ionic and Corinthian orders you still see on bank buildings today. And the art obsession left a strange fingerprint on history. Romans loved Greek bronze statues so much that they mass produced marble copies of them. A huge chunk of what people walk past in museums today and call \"Greek sculpture\" is actually a Roman copy. The Greek originals melted down or vanished long ago. The knockoffs are what survived. Not everyone was thrilled. Cato the Elder spent his whole life warning that Greek culture would rot the Roman character. He sneered at Greek philosophers, distrusted Greek doctors, and wanted them kept out of the city. And then, as an old man, he quietly sat down and learned Greek anyway. Even the loudest hater caved. The trend went all the way to the top. Virgil wrote the Aeneid, Rome's national epic, by openly modeling it on Homer. The emperor Nero competed in Greek games and toured Greece like a superfan. Hadrian was so obsessed he grew a Greek philosopher's beard and poured money into rebuilding Athens. And Marcus Aurelius, master of the entire Roman world, wrote his private journal not in Latin but in Greek, because that was the language of serious thinking. The poet Horace nailed it in a single line: captured Greece took her savage conqueror captive. Rome won every war on the battlefield and then handed its whole soul to the people it had beaten.",
+      "url": "https://x.com/elonmusk/status/2078913853203882238",
+      "tweet_id": "2078913853203882238",
+      "translated": "RT @elonmusk：罗马于公元前 146 年征服了希腊，当时他们将科林斯夷为平地。然后古代历史上最奇怪的事情发生了。在接下来的几个世纪里，胜利者拼命地试图成为失败者。它实际上在最终征服之前就开始了。当马塞勒斯将军于公元前 211 年洗劫锡拉丘兹时，他将一船希腊雕像和绘画运回罗马，整个城市都为之疯狂。突然之间，每个富有的罗马人家里都必须有希腊艺术品。几十年后，西塞罗围绕起诉一位名叫维雷斯的总督掠夺希腊杰作而提起了整个法庭诉讼，而罗马人却将其吞没。然后是学校。富裕的家庭开始购买希腊奴隶，因为他们受过教育，并让他们承担抚养孩子的工作。因此，那些摧毁希腊的人的儿子长大后会说希腊语，背诵希腊诗歌，并向希腊人学习哲学。精英们最终将他们的青少年送到雅典和罗德岛完成学业，就像今天人们送孩子出国留学一样。西塞罗做到了。尤利乌斯·凯撒做到了。他们的神是戴着名牌的希腊神。宙斯变成了朱庇特。赫拉变成了朱诺。阿佛洛狄忒变成了维纳斯。阿瑞斯变成了火星。同样的神话，同样的家庭剧，大部分只是重新贴上了标签。他们的娱乐活动也是借来的。最早的罗马剧作家普劳图斯和特伦斯基本上将希腊喜剧改编成拉丁语。他们的医生是希腊人。他们的建筑风格依赖于希腊柱式、多立克柱式、爱奥尼亚式柱式和科林斯式柱式，您今天仍然在银行大楼上看到这些柱式。对艺术的痴迷在历史上留下了奇怪的印记。罗马人非常喜欢希腊青铜雕像，以至于他们大量生产了希腊青铜雕像的大理石复制品。今天人们在博物馆里走过的所谓“希腊雕塑”的很大一部分实际上是罗马的复制品。希腊原作很久以前就融化或消失了。幸存下来的是仿冒品。并不是每个人都感到兴奋。老加图一生都在警告希腊文化会腐蚀罗马性格。他嘲笑希腊哲学家，不信任希腊医生，并希望他们远离这座城市。然后，作为一个老人，他静静地坐下来学习希腊语。即使是最大声的仇恨者也屈服了。趋势一路走到了顶峰。维吉尔公开模仿荷马，写出了罗马民族史诗《埃涅阿斯纪》。尼禄皇帝参加了希腊的比赛，并像超级球迷一样游览了希腊。哈德良对此非常着迷，他留起了希腊哲学家的胡子，并投入大量资金重建雅典。整个罗马世界的主人马可·奥勒留（Marcus Aurelius）不是用拉丁语而是用希腊语写他的私人日记，因为那是严肃思考的语言。诗人贺拉斯用一句话概括了这一点：被占领的希腊俘虏了她野蛮的征服者。罗马在战场上赢得了每一场战争，然后将其整个灵魂交给了被它打败的人民。"
     },
     {
-      "id": "tweet_elonmusk_2078766969877049810",
+      "id": "tweet_elonmusk_2079149795810152550",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 19 Jul 2026 09:00:41 GMT",
-      "content": "RT by @elonmusk: Image",
-      "url": "https://x.com/elonmusk/status/2078766969877049810",
-      "tweet_id": "2078766969877049810",
-      "translated": "RT @elonmusk：图片"
+      "published_at": "Mon, 20 Jul 2026 10:21:54 GMT",
+      "content": "True",
+      "url": "https://x.com/elonmusk/status/2079149795810152550",
+      "tweet_id": "2079149795810152550",
+      "translated": "真的"
+    },
+    {
+      "id": "tweet_cz_binance_2079162814321602586",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Mon, 20 Jul 2026 11:13:38 GMT",
+      "content": "《幣安人生》just launched in Taiwan. You can now find it at Eslite 誠品. Book_com.tw, Momo and Sanmin will follow tomorrow. https://www.eslite.com/product/10012117792683185984006",
+      "url": "https://x.com/cz_binance/status/2079162814321602586",
+      "tweet_id": "2079162814321602586",
+      "translated": "《币安人生》just launched in Taiwan. You can now find it at Eslite 诚品. Book_com.tw, Momo and Sanmin will follow tomorrow. https://www.eslite.com/product/10012117792683185984006"
+    },
+    {
+      "id": "tweet_cz_binance_2079162299953123460",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Mon, 20 Jul 2026 11:11:35 GMT",
+      "content": "Had a great convo with Lisa from 天下雜誌. Taiwan is like a second home. Many of my childhood friends were Taiwanese. That's why my Mandarin carries a Taiwanese accent. 😄 We talked about the early Binance days, family, and what I’m focused on now. https://www.cw.com.tw/article/5142079",
+      "url": "https://x.com/cz_binance/status/2079162299953123460",
+      "tweet_id": "2079162299953123460",
+      "translated": "与天下杂志的丽莎进行了一次精彩的交流。台湾就像第二故乡。我儿时的很多朋友都是台湾人。这就是为什么我的普通话带有台湾口音。 😄 我们谈论了早期的币安时代、家庭以及我现在关注的事情。 https://www.cw.com.tw/article/5142079"
     },
     {
       "id": "tweet_cz_binance_2078649815404015990",
@@ -41,25 +61,6 @@
       "url": "https://x.com/cz_binance/status/2078649815404015990",
       "tweet_id": "2078649815404015990",
       "translated": "RT by @cz_binance：来认识一下 Mai 🌟 Giggle Academy 的新伙伴，她随时准备与您的孩子一起玩耍、聊天和学习。"
-    },
-    {
-      "id": "tweet_cz_binance_2078884041994952773",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 19 Jul 2026 16:45:54 GMT",
-      "content": "Who will win?",
-      "url": "https://x.com/cz_binance/status/2078884041994952773",
-      "tweet_id": "2078884041994952773",
-      "translated": "谁会赢？"
-    },
-    {
-      "id": "tweet_cz_binance_2078848542001537530",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 19 Jul 2026 14:24:50 GMT",
-      "content": "不活跃好像一点也不影响涨粉。熊市快结束了？🤔",
-      "url": "https://x.com/cz_binance/status/2078848542001537530",
-      "tweet_id": "2078848542001537530"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -122,6 +123,15 @@
       "translated": "对于那些关注 $SKHY 相对于 SK 海力士韩国股票 25% 以上溢价的人来说：美国存托凭证和本地股票将于 7 月 29 日开始可兑换。应该会打开套利之门，并可能压缩美国存托凭证溢价。也许会提振韩国股市或给美国股市带来压力。目前2.5%是美国ADR股票，因此可以额外转换22.5%。"
     },
     {
+      "id": "tweet_qinbafrank_2079158544147050685",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Mon, 20 Jul 2026 10:56:40 GMT",
+      "content": "7月20日韩股：信用融资实质性加速下降，外资开始小幅度买入韩国国内机构继续风险收缩。前两天这里https://x.com/qinbafrank/status/2078431440258441606有详细梳理韩股去杠杆的程度，今天又过了一个交易日，再聊聊最新进展： 1、信用融资去化加速 前两天聊过截止7月15号数据，KOSPI已经跌了25%左右、但信用融资余额只下降约11%，典型股价跌得快，债务降得慢。看过上周四7月16号数据（17号韩股休市）。 信用融资余额从7月15日的约34.3702万亿韩元，下降到7月16日的33.3624万亿韩元，一个交易日减少约1.01万亿韩元。 资产负债表去杠杆终于加速了，而且单日减少1万亿韩元，说明去杠杆已经不再只是股价下跌和ETF净值缩水，而是开始进入真正的融资偿还、主动减仓或强制平仓阶段。 2、外资开始小幅度买入韩国国内机构继续风险收缩 7月20日KOSPI下跌4.46%，KOSPI收盘统计显示，个人和外资分别净买入3,510亿和约5,235亿韩元，机构则净卖出约9,217亿韩元。外资当天还净买入约3,510亿韩元的KOSPI 200期货。 KOSDAQ方面则是另一种结构：个人净买入1,908亿韩元，而外资和机构分别净卖出577亿和1,348亿韩元。 整体总结就是： 1）个人投资者继续抄底，净买入约0.54万亿韩元 2）外资开始小幅抄底，净买入约0.47万亿韩元，但集中于三星电子和SK海力士 3）韩国国内机构大规模减仓，净卖出约1.06万亿韩元 4）KOSDAQ：外资与机构共同撤出，个人独自承接 今天韩股更像是国内机构风险预算收缩、组合减仓和被动卖出主导的下跌，而不是典型的“外资出逃日”。但KOSDAQ的结构更弱，因为外资和机构同时卖出，仅靠个人投资者承接。 3、杠杆ETF敞口已经削掉近一半，散户行为还没有真正出清 看高盛的统计，境内外韩国单股杠杆ETF的总管理资产，已经从6月22日约530亿美元的峰值下降到7月16日约280亿美元，下降47.2%这说明产品层面的市场敞口已经经历了非常大的压缩。三星电子和SK海力士分别较6月峰值下跌约34%和40%，杠杆ETF的每日重置机制进一步放大了资产规模收缩。 这里存在一个非常关键的反常现象，6月底至7月14日： 四只主要三星电子、SK海力士多头杠杆ETF累计净流入反而从12.3万亿韩元增加到15.7万亿韩元，即个人资金净增加约3.4万亿韩元。而同期16只单股杠杆ETF的AUM却从16.1177万亿韩元下降到10.3828万亿韩元，下降35.6%。 也就是说基金资产规模下降，并不是因为投资者全面撤离；大量散户一边继续净买入，净值一边因标的下跌和波动损耗而缩小。这是一种“仓位被市场强制压缩，但投资者主观上仍在加仓”的状态。 有些数据今天还没公布，后续继续观察7月21日至23日公布或反映的数据： 1）信用融资余额是否继续出现单日5,000亿至1万亿韩元级别下降； 2）强制平仓金额是否重新升至千亿韩元级； 3）投资者存管金是否继续流失； 4）杠杆ETF是否出现真实净赎回； 5）KOSDAQ融资盘是否开始比KOSPI更快下降。 与这里https://x.com/qinbafrank/status/2078431440258441606相比，判断可以升级一些： 价格继续深跌，信用融资也开始出现1万亿韩元级快速下降，出清强度进一步提升。外资尝试买入，不再是一味卖出了。 期待本周内能看到企稳的迹象。",
+      "url": "https://x.com/qinbafrank/status/2079158544147050685",
+      "tweet_id": "2079158544147050685"
+    },
+    {
       "id": "tweet_qinbafrank_2079033967274348562",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -138,15 +148,6 @@
       "content": "2名美军阵亡，美军昨晚承认伊朗对约旦美军基地的导弹袭击，已造成两名美军士兵阵亡，一人失踪，另外四人受伤，这是自三月底以来伊朗开火导致的首例美军阵亡。由此，在与伊朗五个月的冲突中，已至少16名美军士兵战死。 只能说局势进一步升级了，明显两周过去双方还没有任何缓和的迹象。美军出现伤亡、这就更严重了、短期内川普很难退让、势必要继续保持强硬。 如昨天聊到的7号冲突爆发后，开始油价反弹但没有很高，然后本周cpi和ppi数据有很好、短期内市场会忽略美伊冲突的影响。但是如果持续两周后还没看到缓和的迹象、同时油价突破压力位、市场的耐心也就越来越小了。 那么在未来缓和之前，市场有可能先交易冲突持续升级。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
       "url": "https://x.com/qinbafrank/status/2078672470111056017",
       "tweet_id": "2078672470111056017"
-    },
-    {
-      "id": "tweet_qinbafrank_2078653102715289992",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sun, 19 Jul 2026 01:28:13 GMT",
-      "content": "韩股这一波去杠杆是如何发生的？",
-      "url": "https://x.com/qinbafrank/status/2078653102715289992",
-      "tweet_id": "2078653102715289992"
     },
     {
       "id": "tweet_xiaomustock_2079035312031039598",
@@ -176,6 +177,24 @@
       "tweet_id": "2078877540811415949"
     },
     {
+      "id": "tweet_xingpt_2079188064711369212",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 20 Jul 2026 12:53:58 GMT",
+      "content": "WAIC像一场前所未有的大型的AI焦虑传播大会： 前呼后拥来参观的领导们，在一边听讲解，一边思考产业如何落地； 想找路子和机会的创业者，一边交换微信名片，一边在想这东西怎么捞钱，有没有搞头； 有 不少创业者才 18、19 岁，刚高中毕业，现在已经充斥着各大会场推销自己vibe coding的项目； 不少家长领着孩子，有些才 七八岁，突出一个早学早教的逛庙会感； 也有不少美女KOL穿梭其中，游刃有余地维持着社交圈最好的拍照姿态； 你说真能学到什么东西，这种大会肯定是没有。 但是感受行业热度，可以说已经接近泡沫顶部。AI在虹吸一切其他行业。",
+      "url": "https://x.com/xingpt/status/2079188064711369212",
+      "tweet_id": "2079188064711369212"
+    },
+    {
+      "id": "tweet_xingpt_2079183612268953615",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 20 Jul 2026 12:36:17 GMT",
+      "content": "拼多多太可怕了！ 这才20号，还没到月底呢，就给我推了图片里的这个东西！",
+      "url": "https://x.com/xingpt/status/2079183612268953615",
+      "tweet_id": "2079183612268953615"
+    },
+    {
       "id": "tweet_xingpt_2078847180379660478",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -185,22 +204,13 @@
       "tweet_id": "2078847180379660478"
     },
     {
-      "id": "tweet_xingpt_2078814145701646619",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Sun, 19 Jul 2026 12:08:09 GMT",
-      "content": "后面还有DeepSeek V4 和Qwen 3.8 😂，大模型井喷。是不是以后不缺token了，算力也要闲置了？",
-      "url": "https://x.com/xingpt/status/2078814145701646619",
-      "tweet_id": "2078814145701646619"
-    },
-    {
-      "id": "tweet_xingpt_2078813124766191846",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Sun, 19 Jul 2026 12:04:06 GMT",
-      "content": "Kimi K3，GPT5.6 SOL，Claude Fable5，Qwen Code 3.7max；大模型太多用不过来了",
-      "url": "https://x.com/xingpt/status/2078813124766191846",
-      "tweet_id": "2078813124766191846"
+      "id": "tweet_hibtc37_2079173040064373126",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Mon, 20 Jul 2026 11:54:16 GMT",
+      "content": "我有点震惊！ 上市公示文件显示：Circle高管集体卖出 $CRCL，从未增持 信号很清晰了，团队都没有信心",
+      "url": "https://x.com/hibtc37/status/2079173040064373126",
+      "tweet_id": "2079173040064373126"
     },
     {
       "id": "tweet_hibtc37_2079031336388718783",
@@ -220,15 +230,6 @@
       "url": "https://x.com/hibtc37/status/2079022882118889836",
       "tweet_id": "2079022882118889836",
       "translated": "R 至@grok：@grok"
-    },
-    {
-      "id": "tweet_hibtc37_2079013899098284245",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Mon, 20 Jul 2026 01:21:54 GMT",
-      "content": "R to @hibtc37: @grok 请按照这个帖子规则，从评论里，筛选和列出88名粉丝的id",
-      "url": "https://x.com/hibtc37/status/2079013899098284245",
-      "tweet_id": "2079013899098284245"
     }
   ],
   "stats": {
