@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-20T13:09:24.611754+00:00",
+  "fetched_at": "2026-07-20T15:53:35.839411+00:00",
   "total": 24,
   "tweets": [
     {
@@ -50,7 +50,7 @@
       "content": "Had a great convo with Lisa from 天下雜誌. Taiwan is like a second home. Many of my childhood friends were Taiwanese. That's why my Mandarin carries a Taiwanese accent. 😄 We talked about the early Binance days, family, and what I’m focused on now. https://www.cw.com.tw/article/5142079",
       "url": "https://x.com/cz_binance/status/2079162299953123460",
       "tweet_id": "2079162299953123460",
-      "translated": "与天下杂志的丽莎进行了一次精彩的交流。台湾就像第二故乡。我儿时的很多朋友都是台湾人。这就是为什么我的普通话带有台湾口音。 😄 我们谈论了早期的币安时代、家庭以及我现在关注的事情。 https://www.cw.com.tw/article/5142079"
+      "translated": "与《天下杂志》的丽莎进行了一次精彩的交流。台湾就像第二故乡。我儿时的很多朋友都是台湾人。这就是为什么我的普通话带有台湾口音。 😄 我们谈论了早期的币安时代、家庭以及我现在关注的事情。 https://www.cw.com.tw/article/5142079"
     },
     {
       "id": "tweet_cz_binance_2078649815404015990",
@@ -177,6 +177,24 @@
       "tweet_id": "2078877540811415949"
     },
     {
+      "id": "tweet_xingpt_2079230044350939643",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 20 Jul 2026 15:40:47 GMT",
+      "content": "何同学的Youtube叫HTX Studio，我差点以为是某个交易所的官方账号！",
+      "url": "https://x.com/xingpt/status/2079230044350939643",
+      "tweet_id": "2079230044350939643"
+    },
+    {
+      "id": "tweet_xingpt_2079200121246699639",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 20 Jul 2026 13:41:53 GMT",
+      "content": "左侧的仓位开始盈利，右侧的仓位等站稳再加。如果不是特别强势，或者出现新的强势板块，右侧仓位也可以不加。 A股比美股跌的晚，先不急抄底。",
+      "url": "https://x.com/xingpt/status/2079200121246699639",
+      "tweet_id": "2079200121246699639"
+    },
+    {
       "id": "tweet_xingpt_2079188064711369212",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -184,24 +202,6 @@
       "content": "WAIC像一场前所未有的大型的AI焦虑传播大会： 前呼后拥来参观的领导们，在一边听讲解，一边思考产业如何落地； 想找路子和机会的创业者，一边交换微信名片，一边在想这东西怎么捞钱，有没有搞头； 有 不少创业者才 18、19 岁，刚高中毕业，现在已经充斥着各大会场推销自己vibe coding的项目； 不少家长领着孩子，有些才 七八岁，突出一个早学早教的逛庙会感； 也有不少美女KOL穿梭其中，游刃有余地维持着社交圈最好的拍照姿态； 你说真能学到什么东西，这种大会肯定是没有。 但是感受行业热度，可以说已经接近泡沫顶部。AI在虹吸一切其他行业。",
       "url": "https://x.com/xingpt/status/2079188064711369212",
       "tweet_id": "2079188064711369212"
-    },
-    {
-      "id": "tweet_xingpt_2079183612268953615",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Mon, 20 Jul 2026 12:36:17 GMT",
-      "content": "拼多多太可怕了！ 这才20号，还没到月底呢，就给我推了图片里的这个东西！",
-      "url": "https://x.com/xingpt/status/2079183612268953615",
-      "tweet_id": "2079183612268953615"
-    },
-    {
-      "id": "tweet_xingpt_2078847180379660478",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Sun, 19 Jul 2026 14:19:25 GMT",
-      "content": "Kimi K3 是不是吹过了？用了一下实测不如Claude Fable5 和Codex GPT 5.6 啊",
-      "url": "https://x.com/xingpt/status/2078847180379660478",
-      "tweet_id": "2078847180379660478"
     },
     {
       "id": "tweet_hibtc37_2079173040064373126",
