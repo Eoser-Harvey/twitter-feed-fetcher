@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-21T17:23:18.261141+00:00",
+  "fetched_at": "2026-07-21T19:27:02.110656+00:00",
   "total": 21,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2079610838143623371",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 21 Jul 2026 16:53:55 GMT",
+      "content": "RT by @elonmusk: One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness. Sometimes I declare it up top, something like \"switching to speech recognition sorry for any typos...\". Sometimes I turn it into a small interview of a few turns. But I find that the LLMs are somehow very good at reconstructing long incoherent rambles and often their echo of your own tangle of thoughts comes out quite a bit cleaner than what you started with. The result is that you improve the mind meld and have to correct things less from that point on.",
+      "url": "https://x.com/elonmusk/status/2079610838143623371",
+      "tweet_id": "2079610838143623371",
+      "translated": "RT by @elonmusk：我发现对法学硕士的工作很有用的一个模式是一个很好的长时间漫步会话。有时，法学硕士需要更多的信息来理解您想要实现的目标，但您却懒得输入它们。在这些情况下，我喜欢向后靠，切换到 /voice，然后闲逛 10 分钟左右，一团糟，什么都可以，意识流十足。有时我会在顶部声明它，例如“切换到语音识别，对于任何拼写错误表示抱歉......”。有时我会把它变成几个回合的小采访。但我发现法学硕士在某种程度上非常擅长重建冗长的不连贯的漫无目的的内容，而且他们对你自己混乱的思想的回声往往比你开始的时候要清晰得多。结果是你改善了心灵融合，从那时起就需要更少地纠正事情。"
+    },
+    {
+      "id": "tweet_elonmusk_2079208495094677511",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 20 Jul 2026 14:15:09 GMT",
+      "content": "RT by @elonmusk: Backpropagation by hand ✍️ ~ 11 steps walkthrough below Backpropagation is the algorithm that actually trains a neural network, and it is where most people stop following along. It is not calculus you cannot do. It is matrix multiplication, working backward, one layer at a time. So I drew and calculated one entirely by hand. Goal: push the loss gradient back through a 3-layer network and land on a new value for every weight and bias. = 1. Given = A 3-layer perceptron, an input X, predictions Ypred = [0.5, 0.5, 0], and the truth Ytarget = [0, 1, 0]. = 2. Backprop gradient cells = Let us draw empty cells for every gradient we are about to compute. The shape of the answer comes first. = 3. Layer 3 softmax = We get dL/dz3 straight from Ypred minus Ytarget = [0.5, -0.5, 0]. No chain rule needed, and that shortcut is the whole reason softmax and cross-entropy are paired. = 4. Layer 3 weights and biases = Let us multiply dL/dz3 by [a2 | 1]. One multiplication gives the gradient for W3 and b3 together. = 5. Layer 2 activations = We multiply dL/dz3 by W3 to get dL/da2. The gradient moves back across a layer the same way the signal moved forward. = 6. Layer 2 ReLU = Let us pass it through the gate: keep the gradient where the activation was positive, zero it everywhere else. = 7. Layer 2 weights and biases = We multiply dL/dz2 by [a1 | 1]. The same figure as step 4, one layer up. = 8. Layer 1 activations = Let us multiply dL/dz2 by W2. = 9. Layer 1 ReLU = We apply the same gate again, now on a1. = 10. Layer 1 weights and biases = Let us multiply dL/dz1 by [x | 1], and every weight in the network now has a gradient. = 11. Update = We subtract, and the network has learned. In practice a learning rate scales this step. The gradients: dL/dz3 = [0.5, -0.5, 0] dL/da1 = [1, -2, 2, -1] dL/dz1 = [0, -2, 2, -1] The takeaway: matrix multiplication is all you need. Just like the forward pass, backpropagation is matrix multiplications end to end. You can do every one by hand, slowly and imperfectly, which is exactly why a GPU's ability to do them fast mattered so much to deep learning. 💾 Save this post!",
+      "url": "https://x.com/elonmusk/status/2079208495094677511",
+      "tweet_id": "2079208495094677511",
+      "translated": "RT @elonmusk：手动反向传播 ✍️ ~ 下面的 11 个步骤演练 反向传播是实际训练神经网络的算法，也是大多数人停止关注的地方。这不是你做不到的微积分。它是矩阵乘法，向后运算，一次一层。所以我完全用手画了一个并计算了一个。目标：通过 3 层网络将损失梯度推回，并为每个权重和偏差提供一个新值。 = 1. 给定 = 一个 3 层感知器，一个输入 X，预测 Ypred = [0.5, 0.5, 0]，真实值 Ytarget = [0, 1, 0]。 = 2. 反向传播梯度单元 = 让我们为要计算的每个梯度绘制空单元。答案的形状是第一位的。 = 3. 第 3 层 softmax = 我们直接从 Ypred 减去 Ytarget = [0.5, -0.5, 0] 得到 dL/dz3。不需要链式法则，这个捷径就是 softmax 和交叉熵配对的全部原因。 = 4. 第 3 层权重和偏差 = 让我们将 dL/dz3 乘以 [a2 | 1]。一次乘法即可得出 W3 和 b3 的梯度。 = 5. 第 2 层激活 = 我们将 dL/dz3 乘以 W3 得到 dL/da2。梯度沿层向后移动的方式与信号向前移动的方式相同。 = 6. 第 2 层 ReLU = 让我们将其通过门：保持激活为正的梯度，将其他地方的梯度归零。 = 7. 第 2 层权重和偏差 = 我们将 dL/dz2 乘以 [a1 | 1]。与步骤 4 相同的图，向上一层。 = 8. 第 1 层激活 = 让我们将 dL/dz2 乘以 W2。 = 9. 第 1 层 ReLU = 我们再次应用相同的门，现在在 a1 上。 = 10. 第 1 层权重和偏差 = 让我们将 dL/dz1 乘以 [x | 1]，网络中的每个权重现在都有一个梯度。 = 11. 更新 = 我们减去，网络已经学会了。在实践中，学习率会缩放这一步。梯度： dL/dz3 = [0.5, -0.5, 0] dL/da1 = [1, -2, 2, -1] dL/dz1 = [0, -2, 2, -1] 结论：矩阵乘法就是你所需要的。就像前向传播一样，反向传播是端到端的矩阵乘法。你可以手工完成每一项任务，缓慢且不完美，这正是 GPU 快速完成这些任务的能力对深度学习如此重要的原因。 💾 保存这篇文章！"
+    },
+    {
+      "id": "tweet_elonmusk_2079476290394984934",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 21 Jul 2026 07:59:17 GMT",
+      "content": "RT by @elonmusk: Someone tipped me off to a website where it compiles all the real ratings for movies on Rotten Tomatoes and compares it to the fake push ratings they try to portray as real ratings. Really eye opening. Will link the website in first reply but it's called PopcornGap.",
+      "url": "https://x.com/elonmusk/status/2079476290394984934",
+      "tweet_id": "2079476290394984934",
+      "translated": "RT @elonmusk：有人向我透露了一个网站，该网站汇总了烂番茄上电影的所有真实评分，并将其与他们试图描绘为真实评分的虚假推送评分进行比较。真是大开眼界。将在第一个回复中链接该网站，但它的名称为 PopcornGap。"
+    },
     {
       "id": "tweet_cz_binance_2079524086691033556",
       "username": "cz_binance",
@@ -63,6 +93,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2079622706572804368",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 21 Jul 2026 17:41:05 GMT",
+      "content": "Wow, a historic single day recovery. $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI +11.1% $TSEM +10.39% $LITE +9.25% $INTC +8.22% $AMD +8.11% $MRVL +7.27%",
+      "url": "https://x.com/aleabitoreddit/status/2079622706572804368",
+      "tweet_id": "2079622706572804368",
+      "translated": "哇，历史性的单日恢复。 $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI +11.1% $TSEM +10.39% $LITE +9.25% $INTC +8.22% $AMD +8.11% $MRVL +7.27%"
+    },
+    {
       "id": "tweet_aleabitoreddit_2079495178793201678",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -81,16 +121,6 @@
       "url": "https://x.com/aleabitoreddit/status/2079479755481776221",
       "tweet_id": "2079479755481776221",
       "translated": "Kioxia 的内存品牌涨幅高达 17.18%。三星上涨+6.15%。 $SIVE、$LITE 和 $AAOI 的光网络显示出复苏迹象，均上涨 4% 以上。从 $NBIS 到 $IREN 的 Neocloud 盘前均上涨 4% 以上。 $INTC 至 $AMD 至 $MRVL 均上涨 4% 以上。克莱默效应对整个人工智能行业有效吗？"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2079319999915925938",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 20 Jul 2026 21:38:14 GMT",
-      "content": "If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings. Not exactly too new since it dates back to Nvidia’s existing share position of 1.19M shares + $2B prefunded warrant of ~21M shares. But great for sentiment having Nvidia be a large shareholder of the Neocloud leader.",
-      "url": "https://x.com/aleabitoreddit/status/2079319999915925938",
-      "tweet_id": "2079319999915925938",
-      "translated": "如果您好奇为什么 $NBIS 会在下班后上涨。 $NVDA 通过 SEC 文件披露其拥有 Nebius 9.3% 的实益所有权。这并不是什么新鲜事，因为它可以追溯到 Nvidia 现有的 119 万股股票头寸 + 约 2100 万股的 20 亿美元预融资认股权证。但让 Nvidia 成为 Neocloud 领导者的大股东，这对市场情绪来说是件好事。"
     },
     {
       "id": "tweet_qinbafrank_2079580882864930846",
@@ -147,33 +177,6 @@
       "tweet_id": "2079554587095339447"
     },
     {
-      "id": "tweet_xingpt_2079611480174154212",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Tue, 21 Jul 2026 16:56:28 GMT",
-      "content": "早点知道这个，我会少亏很多钱，这期视频分析了动量股的见顶特征，看完你下次就知道怎么逃顶了。 http://youtube.com/watch?v=OnHVbHWV1hU&feature=youtu.be",
-      "url": "https://x.com/xingpt/status/2079611480174154212",
-      "tweet_id": "2079611480174154212"
-    },
-    {
-      "id": "tweet_xingpt_2079593320465195025",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Tue, 21 Jul 2026 15:44:19 GMT",
-      "content": "R to @xingpt: 币股也在接近完成筑底，Circle和MSTR都上穿了20 日线",
-      "url": "https://x.com/xingpt/status/2079593320465195025",
-      "tweet_id": "2079593320465195025"
-    },
-    {
-      "id": "tweet_xingpt_2079593314723270867",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Tue, 21 Jul 2026 15:44:17 GMT",
-      "content": "原生家庭最近表现都不错，可以考虑逐步吸入了。",
-      "url": "https://x.com/xingpt/status/2079593314723270867",
-      "tweet_id": "2079593314723270867"
-    },
-    {
       "id": "tweet_hibtc37_2079569349191626802",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -204,6 +207,6 @@
   "stats": {
     "users_success": 7,
     "users_failed": 1,
-    "nitter_healthy": 8
+    "nitter_healthy": 9
   }
 }
