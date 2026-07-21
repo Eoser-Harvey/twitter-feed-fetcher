@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-21T15:47:07.100908+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-21T17:23:18.261141+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2079360764213874980",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 21 Jul 2026 00:20:13 GMT",
-      "content": "RT by @elonmusk: 𝕏Money with friends is fun <3 Congrats to all those that got access today!",
-      "url": "https://x.com/elonmusk/status/2079360764213874980",
-      "tweet_id": "2079360764213874980",
-      "translated": "RT by @elonmusk：𝕏和朋友一起赚钱很有趣<3 恭喜所有今天获得访问权限的人！"
-    },
-    {
-      "id": "tweet_elonmusk_2079448786745631005",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 21 Jul 2026 06:09:59 GMT",
-      "content": "It’s been this way for years",
-      "url": "https://x.com/elonmusk/status/2079448786745631005",
-      "tweet_id": "2079448786745631005",
-      "translated": "多年来一直如此"
-    },
-    {
-      "id": "tweet_elonmusk_2079411063603245287",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 21 Jul 2026 03:40:05 GMT",
-      "content": "RT by @elonmusk: Grok Imagine ❣️",
-      "url": "https://x.com/elonmusk/status/2079411063603245287",
-      "tweet_id": "2079411063603245287",
-      "translated": "RT @elonmusk：Grok Imagine ❣️"
-    },
     {
       "id": "tweet_cz_binance_2079524086691033556",
       "username": "cz_binance",
@@ -177,31 +147,31 @@
       "tweet_id": "2079554587095339447"
     },
     {
-      "id": "tweet_xingpt_2079550842261365086",
+      "id": "tweet_xingpt_2079611480174154212",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Tue, 21 Jul 2026 12:55:31 GMT",
-      "content": "okx这个键鼠很靓！ 感谢@mia_okx 老板！",
-      "url": "https://x.com/xingpt/status/2079550842261365086",
-      "tweet_id": "2079550842261365086"
+      "published_at": "Tue, 21 Jul 2026 16:56:28 GMT",
+      "content": "早点知道这个，我会少亏很多钱，这期视频分析了动量股的见顶特征，看完你下次就知道怎么逃顶了。 http://youtube.com/watch?v=OnHVbHWV1hU&feature=youtu.be",
+      "url": "https://x.com/xingpt/status/2079611480174154212",
+      "tweet_id": "2079611480174154212"
     },
     {
-      "id": "tweet_xingpt_2079512548756554209",
+      "id": "tweet_xingpt_2079593320465195025",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Tue, 21 Jul 2026 10:23:21 GMT",
-      "content": "做男人，最幸福的就是遇到自己爱的人，爱就要无怨无悔，无论你成就多高 王石，邹市明，如果没有妻子的鞭策，不就彻底躺平成为废人了？ 怎么会继续创业和努力？",
-      "url": "https://x.com/xingpt/status/2079512548756554209",
-      "tweet_id": "2079512548756554209"
+      "published_at": "Tue, 21 Jul 2026 15:44:19 GMT",
+      "content": "R to @xingpt: 币股也在接近完成筑底，Circle和MSTR都上穿了20 日线",
+      "url": "https://x.com/xingpt/status/2079593320465195025",
+      "tweet_id": "2079593320465195025"
     },
     {
-      "id": "tweet_xingpt_2079478200502218906",
+      "id": "tweet_xingpt_2079593314723270867",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Tue, 21 Jul 2026 08:06:52 GMT",
-      "content": "网友太有才了，峰哥恐慌指数，比K线更管用",
-      "url": "https://x.com/xingpt/status/2079478200502218906",
-      "tweet_id": "2079478200502218906"
+      "published_at": "Tue, 21 Jul 2026 15:44:17 GMT",
+      "content": "原生家庭最近表现都不错，可以考虑逐步吸入了。",
+      "url": "https://x.com/xingpt/status/2079593314723270867",
+      "tweet_id": "2079593314723270867"
     },
     {
       "id": "tweet_hibtc37_2079569349191626802",
@@ -232,8 +202,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 9
+    "users_success": 7,
+    "users_failed": 1,
+    "nitter_healthy": 8
   }
 }
