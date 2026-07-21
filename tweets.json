@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-21T21:13:16.823246+00:00",
+  "fetched_at": "2026-07-21T23:00:06.972042+00:00",
   "total": 24,
   "tweets": [
     {
@@ -33,14 +33,14 @@
       "translated": "孩子是未来"
     },
     {
-      "id": "tweet_cz_binance_2079524086691033556",
+      "id": "tweet_cz_binance_2079524066503860629",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
-      "published_at": "Tue, 21 Jul 2026 11:09:12 GMT",
-      "content": "R to @cz_binance: Well, that was how the World's NO. 1 Exchange was made. Substance over formality.",
-      "url": "https://x.com/cz_binance/status/2079524086691033556",
-      "tweet_id": "2079524086691033556",
-      "translated": "R 致@cz_binance：嗯，世界第一就是这样。进行了 1 次交流。实质重于形式。"
+      "published_at": "Tue, 21 Jul 2026 11:09:07 GMT",
+      "content": "Sharing a few old photos that didn't quite make it into the Freedom of Money book. All original photos. No AI. 2017 Oct/Nov-ish. The Binance team arriving in Tokyo, all glued to their phones. At immigration (left), on the street (right). 1/N",
+      "url": "https://x.com/cz_binance/status/2079524066503860629",
+      "tweet_id": "2079524066503860629",
+      "translated": "分享一些没有完全进入《金钱自由》书中的旧照片。所有原始照片。没有人工智能。 2017 年 10 月/11 月左右。抵达东京的币安团队全都盯着手机。在入境处（左），在街上（右）。 1/N"
     },
     {
       "id": "tweet_cz_binance_2079524084233150889",
@@ -53,14 +53,14 @@
       "translated": "R 致@cz_binance：“会议室”"
     },
     {
-      "id": "tweet_cz_binance_2079524080798032067",
+      "id": "tweet_cz_binance_2079524086691033556",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
-      "published_at": "Tue, 21 Jul 2026 11:09:11 GMT",
-      "content": "R to @cz_binance: Upgrading furnitures, the standing desk.",
-      "url": "https://x.com/cz_binance/status/2079524080798032067",
-      "tweet_id": "2079524080798032067",
-      "translated": "R 回复@cz_binance：升级家具，站立式办公桌。"
+      "published_at": "Tue, 21 Jul 2026 11:09:12 GMT",
+      "content": "R to @cz_binance: Well, that was how the World's NO. 1 Exchange was made. Substance over formality.",
+      "url": "https://x.com/cz_binance/status/2079524086691033556",
+      "tweet_id": "2079524086691033556",
+      "translated": "R 致@cz_binance：嗯，世界第一就是这样。进行了 1 次交流。实质重于形式。"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -186,15 +186,6 @@
       "tweet_id": "2079611480174154212"
     },
     {
-      "id": "tweet_xingpt_2079593314723270867",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Tue, 21 Jul 2026 15:44:17 GMT",
-      "content": "原生家庭最近表现都不错，可以考虑逐步吸入了。",
-      "url": "https://x.com/xingpt/status/2079593314723270867",
-      "tweet_id": "2079593314723270867"
-    },
-    {
       "id": "tweet_xingpt_2079593320465195025",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -202,6 +193,15 @@
       "content": "R to @xingpt: 币股也在接近完成筑底，Circle和MSTR都上穿了20 日线",
       "url": "https://x.com/xingpt/status/2079593320465195025",
       "tweet_id": "2079593320465195025"
+    },
+    {
+      "id": "tweet_xingpt_2079593314723270867",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Tue, 21 Jul 2026 15:44:17 GMT",
+      "content": "原生家庭最近表现都不错，可以考虑逐步吸入了。",
+      "url": "https://x.com/xingpt/status/2079593314723270867",
+      "tweet_id": "2079593314723270867"
     },
     {
       "id": "tweet_hibtc37_2079569349191626802",
@@ -234,6 +234,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 8
   }
 }
