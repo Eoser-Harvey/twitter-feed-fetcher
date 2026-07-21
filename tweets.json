@@ -1,7 +1,46 @@
 {
-  "fetched_at": "2026-07-21T03:31:52.328945+00:00",
+  "fetched_at": "2026-07-21T06:31:13.054207+00:00",
   "total": 21,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2079360764213874980",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 21 Jul 2026 00:20:13 GMT",
+      "content": "RT by @elonmusk: 𝕏Money with friends is fun <3 Congrats to all those that got access today!",
+      "url": "https://x.com/elonmusk/status/2079360764213874980",
+      "tweet_id": "2079360764213874980",
+      "translated": "RT by @elonmusk：𝕏和朋友一起赚钱很有趣<3 恭喜所有今天获得访问权限的人！"
+    },
+    {
+      "id": "tweet_elonmusk_2079448786745631005",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 21 Jul 2026 06:09:59 GMT",
+      "content": "It’s been this way for years",
+      "url": "https://x.com/elonmusk/status/2079448786745631005",
+      "tweet_id": "2079448786745631005",
+      "translated": "多年来一直如此"
+    },
+    {
+      "id": "tweet_elonmusk_2079411063603245287",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 21 Jul 2026 03:40:05 GMT",
+      "content": "RT by @elonmusk: Grok Imagine ❣️",
+      "url": "https://x.com/elonmusk/status/2079411063603245287",
+      "tweet_id": "2079411063603245287",
+      "translated": "RT @elonmusk：Grok Imagine ❣️"
+    },
+    {
+      "id": "tweet_cz_binance_2079410198536729053",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Tue, 21 Jul 2026 03:36:39 GMT",
+      "content": "RT by @cz_binance: 刚刚，币安 VIP 3 持仓门槛降至100万美元（原300万）。 这将使更多用户加入币安VIP计划，有更低费率、更高限额、优先支持、深度洞察、专属礼盒及活动邀约等权益。",
+      "url": "https://x.com/cz_binance/status/2079410198536729053",
+      "tweet_id": "2079410198536729053"
+    },
     {
       "id": "tweet_cz_binance_2079162814321602586",
       "username": "cz_binance",
@@ -21,46 +60,6 @@
       "url": "https://x.com/cz_binance/status/2079162299953123460",
       "tweet_id": "2079162299953123460",
       "translated": "与《天下杂志》的丽莎进行了一次精彩的交流。台湾就像第二故乡。我儿时的很多朋友都是台湾人。这就是为什么我的普通话带有台湾口音。 😄 我们谈论了早期的币安时代、家庭以及我现在关注的事情。 https://www.cw.com.tw/article/5142079"
-    },
-    {
-      "id": "tweet_cz_binance_2078649815404015990",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 19 Jul 2026 01:15:10 GMT",
-      "content": "RT by @cz_binance: Meet Mai 🌟 Giggle Academy's new companion who's always ready to play, chat, and learn with your little ones 🐾 She changes forms, keeps kids engaged, and makes every session feel like an adventure — just hop on and say hi to Mai 👋 #GiggleAcademy #MeetMai",
-      "url": "https://x.com/cz_binance/status/2078649815404015990",
-      "tweet_id": "2078649815404015990",
-      "translated": "RT by @cz_binance：来认识一下 Mai 🌟 Giggle Academy 的新伙伴，她随时准备与您的孩子一起玩耍、聊天和学习。"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432",
-      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2068370500334637542",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
-      "content": "RT by @realDonaldTrump: POLL…",
-      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
-      "tweet_id": "2068370500334637542",
-      "translated": "RT @realDonaldTrump：投票……"
     },
     {
       "id": "tweet_aleabitoreddit_2079319999915925938",
@@ -120,31 +119,31 @@
       "tweet_id": "2079257365703225401"
     },
     {
-      "id": "tweet_xiaomustock_2079035312031039598",
+      "id": "tweet_xiaomustock_2079451551576584311",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Mon, 20 Jul 2026 02:46:59 GMT",
-      "content": "均价52.3海力士2x我又来了 梭完了，生死有命富贵在天，买定离手了。",
-      "url": "https://x.com/xiaomustock/status/2079035312031039598",
-      "tweet_id": "2079035312031039598"
+      "published_at": "Tue, 21 Jul 2026 06:20:58 GMT",
+      "content": "祖传u扫货了谷歌 $GOOGL 和 $GGLL 成本356和111.9 云厂说不定是AI最终赢家，不管哪个模型今天牛逼，AI猛增云厂都爆赚。",
+      "url": "https://x.com/xiaomustock/status/2079451551576584311",
+      "tweet_id": "2079451551576584311"
     },
     {
-      "id": "tweet_xiaomustock_2078970263484686514",
+      "id": "tweet_xiaomustock_2079437217060327818",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Sun, 19 Jul 2026 22:28:30 GMT",
-      "content": "完犊子，归零",
-      "url": "https://x.com/xiaomustock/status/2078970263484686514",
-      "tweet_id": "2078970263484686514"
+      "published_at": "Tue, 21 Jul 2026 05:24:01 GMT",
+      "content": "去他娘的都不想要了。snxx，muu，7709全卖了， 留了韩股正股。",
+      "url": "https://x.com/xiaomustock/status/2079437217060327818",
+      "tweet_id": "2079437217060327818"
     },
     {
-      "id": "tweet_xiaomustock_2078877540811415949",
+      "id": "tweet_xiaomustock_2079427422731288973",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Sun, 19 Jul 2026 16:20:04 GMT",
-      "content": "买了5万刀阿根廷赢，最后一场了想把前面买球输的赚回来。 之前阿根廷那一场对手埃及还是谁进球了，被因为很早之前的踩脚吹掉了， 轮到阿根廷进球踩脚啥事没有。 后面阿根廷打的几局都莫名其妙，对手跟封印了一样只防守不进攻， 感觉是一种无形大手黑幕必须要让阿根廷保送。 巨大的阴谋。 再不赌球了他娘的买啥亏啥，我老是想反买一小博大被爆干，干服了正买又被爆干。🌚 赌球真几把脸黑呐。",
-      "url": "https://x.com/xiaomustock/status/2078877540811415949",
-      "tweet_id": "2078877540811415949"
+      "published_at": "Tue, 21 Jul 2026 04:45:06 GMT",
+      "content": "卸载同花顺就暴力v， 他这个被量化可能抓取成操作指标了。",
+      "url": "https://x.com/xiaomustock/status/2079427422731288973",
+      "tweet_id": "2079427422731288973"
     },
     {
       "id": "tweet_xingpt_2079249046934544397",
@@ -174,6 +173,15 @@
       "tweet_id": "2079200121246699639"
     },
     {
+      "id": "tweet_hibtc37_2079426024337784950",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Tue, 21 Jul 2026 04:39:32 GMT",
+      "content": "美股装逼的博主确实更多，而且大多都是没见过钱，也没被吊打过，前段时间还批量取关一批。 美股这么多年，还是太舒服了，连装逼这么多年都没人锤，不像加密炼狱多年，大家习惯性质疑，你只要稍微装逼不实盘，就会被吊打，尤其是这个jin，面相不好，大概率是个骗子，言行不一致，X上早有锤他的装逼帖子 在AI时代，最稀缺就是实单，装逼不实单迟早完蛋，实单是最大的真诚，实单胜千言",
+      "url": "https://x.com/hibtc37/status/2079426024337784950",
+      "tweet_id": "2079426024337784950"
+    },
+    {
       "id": "tweet_hibtc37_2079397841123057809",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -190,15 +198,6 @@
       "content": "如果6月25高点建仓MU并且做备兑卖call，你的持有成本是950，如果你持续滚动卖成本会进一步降低，降低到900以内，不是问题，当然这个是理想情况 前段时间我还做了领口策略，发现可以无成本做套保，这波动率，有点惊呆 有懂美股期权的吗？一起交流下",
       "url": "https://x.com/hibtc37/status/2079390391045070915",
       "tweet_id": "2079390391045070915"
-    },
-    {
-      "id": "tweet_hibtc37_2079388303649026475",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Tue, 21 Jul 2026 02:09:39 GMT",
-      "content": "B300卖到中国，比卖白粉还赚，黑道的兄弟们，转行吧，还不用刑",
-      "url": "https://x.com/hibtc37/status/2079388303649026475",
-      "tweet_id": "2079388303649026475"
     }
   ],
   "stats": {
