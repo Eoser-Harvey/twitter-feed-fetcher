@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-22T10:29:35.938143+00:00",
-  "total": 12,
+  "fetched_at": "2026-07-22T12:27:40.024814+00:00",
+  "total": 21,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2079842345668022641",
+      "id": "tweet_elonmusk_2079902263745618379",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 22 Jul 2026 08:13:51 GMT",
-      "content": "Try Workflows on Grok Build http://X.ai/cli",
-      "url": "https://x.com/elonmusk/status/2079842345668022641",
-      "tweet_id": "2079842345668022641",
-      "translated": "尝试 Grok Build 上的工作流程 http://X.ai/cli"
+      "published_at": "Wed, 22 Jul 2026 12:11:57 GMT",
+      "content": "RT by @elonmusk: Weird how the mainstream media is suddenly very quiet about the attacks on democracy currently happening in Hungary.",
+      "url": "https://x.com/elonmusk/status/2079902263745618379",
+      "tweet_id": "2079902263745618379",
+      "translated": "RT @elonmusk：奇怪的是，主流媒体突然对匈牙利目前发生的对民主的攻击保持沉默。"
     },
     {
-      "id": "tweet_elonmusk_2079570418869137753",
+      "id": "tweet_elonmusk_2079769629329952947",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 21 Jul 2026 14:13:19 GMT",
-      "content": "RT by @elonmusk: Grok 4.5 is outstanding at writing + being direct. I'm constantly telling other models to \"be concise\" and even so they rarely explain things as clearly and succinctly as this (me asking about virtual memory). Wonder if training on X dot com has anything to do with it.",
-      "url": "https://x.com/elonmusk/status/2079570418869137753",
-      "tweet_id": "2079570418869137753",
-      "translated": "RT @elonmusk：Grok 4.5 在写作和直接方面表现出色。我不断地告诉其他模型要“简洁”，即使如此，他们也很少像这样清楚、简洁地解释事情（我问的是虚拟内存）。想知道 X . com 上的培训是否与此有关。"
+      "published_at": "Wed, 22 Jul 2026 03:24:54 GMT",
+      "content": "RT by @elonmusk: Today in AI.",
+      "url": "https://x.com/elonmusk/status/2079769629329952947",
+      "tweet_id": "2079769629329952947",
+      "translated": "RT @elonmusk：人工智能的今天。"
     },
     {
-      "id": "tweet_elonmusk_2079782148605641102",
+      "id": "tweet_elonmusk_2079873531387711985",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 22 Jul 2026 04:14:39 GMT",
-      "content": "RT by @elonmusk: The numbers are in: 1.7B+ global viewers tuned in to @YouTube to watch World Cup-related videos during the tournament. ⚽️ It was our most viewed World Cup ever on YouTube, bringing lifetime views of related content to over 200B!",
-      "url": "https://x.com/elonmusk/status/2079782148605641102",
-      "tweet_id": "2079782148605641102",
-      "translated": "RT @elonmusk：数据如下： 1.7B+ 全球观众在比赛期间通过 @YouTube 观看世界杯相关视频。 ⚽️ 这是 YouTube 上观看次数最多的世界杯，相关内容的终生观看次数超过 200B！"
+      "published_at": "Wed, 22 Jul 2026 10:17:46 GMT",
+      "content": "RT by @elonmusk: Grok Build continues to strengthen the developer experience with safer extension management, better session recovery, and more resilient auto-compaction when authentication expires Release Notes: v0.2.110 Features: • Removing MCP servers, plugins, or hook sources in the Extensions modal now asks for confirmation (press y to proceed) Bug Fixes: • Session creation failures (including disk full) now show an error message instead of hanging on \"Starting session…\". • Auto-compact that fails due to an expired token now lets you log in and automatically retry the compact + original prompt",
+      "url": "https://x.com/elonmusk/status/2079873531387711985",
+      "tweet_id": "2079873531387711985",
+      "translated": "RT by @elonmusk：Grok Build 继续通过更安全的扩展管理、更好的会话恢复以及身份验证过期时更具弹性的自动压缩来增强开发人员体验。发行说明：v0.2.110 功能： • 在扩展模式中删除 MCP 服务器、插件或挂钩源现在要求确认（按 y 继续） 错误修复： • 会话创建失败（包括磁盘已满）现在显示一条错误消息，而不是挂在“正在启动会话...”上。 • 由于令牌过期而失败的自动压缩现在可以让您登录并自动重试压缩 + 原始提示"
     },
     {
       "id": "tweet_cz_binance_2079858930621063438",
@@ -92,6 +92,99 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2079673469567226149",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 21 Jul 2026 21:02:48 GMT",
+      "content": "OpenAI models reportedly escaped from its controlled environment, with no internet access. Exploited zero day vulnerabilities and hacked into Hugging Face to cheat on benchmarks. Hugging face then used China GLM models to carry out its defense.  OpenAI said it was an “an unprecedented cyber incident.” We’re getting closer and closer to Skynet. And I’m sure markets will love it.",
+      "url": "https://x.com/aleabitoreddit/status/2079673469567226149",
+      "tweet_id": "2079673469567226149",
+      "translated": "据报道，OpenAI 模型逃离了其受控环境，无法访问互联网。利用零日漏洞并侵入 Hugging Face 以在基准测试中作弊。抱脸随后使用中国GLM模型进行辩护。  OpenAI 表示，这是一次“前所未有的网络事件”。我们离天网越来越近了。我相信市场会喜欢它。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2079622706572804368",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 21 Jul 2026 17:41:05 GMT",
+      "content": "Wow, a historic single day recovery. $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI +11.1% $TSEM +10.39% $LITE +9.25% $INTC +8.22% $AMD +8.11% $MRVL +7.27%",
+      "url": "https://x.com/aleabitoreddit/status/2079622706572804368",
+      "tweet_id": "2079622706572804368",
+      "translated": "哇，历史性的单日恢复。 $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI +11.1% $TSEM +10.39% $LITE +9.25% $INTC +8.22% $AMD +8.11% $MRVL +7.27%"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2079495178793201678",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 21 Jul 2026 09:14:20 GMT",
+      "content": "It's slightly more nuanced. Basically, $AMD SF event is tomorrow, Wed/Thurs (July 22, 23). From Jefferies client note, AMD is expected to provide additional disclosures around their likely scale-up CPO roadmap + MI500. If they confirm CPO route, would positive thematically since it's not just $NVDA forcing the transition. As for $SIVE, we'll get a better read if they're directly in AMD supply chains. Since right now, it's possible to map it through $GFS (reportedly involved in AMD MI500 CPO work) or AYAR (which AMD invested in). But no formal confirmations. So if you're turning in: - CPO thematic positive: MI500 explicitly commits to CPO/optical UALink. - AMD gives details using Ayar Labs or GF SCALE for MI500 CPO: That would be extremely positive for $SIVE, given they're the upstream laser supplier / reference laser. Currently, Blayne Curtis from Jefferies expect AMD to work with $ALAB on UAL and $AVGO on ESUN... but juicy details are here: \"We are looking for whether AMD commits to a CPO based scale up solution and who supplies the optical engine\" We'll get a broader read through on the supply chain come Wednesday/Thursday, too early to tell today.",
+      "url": "https://x.com/aleabitoreddit/status/2079495178793201678",
+      "tweet_id": "2079495178793201678",
+      "translated": "它稍微更微妙一些。基本上，$AMD SF 活动将于明天周三/周四（7 月 22 日、23 日）举行。 Jefferies 客户报告称，AMD 预计将围绕其可能扩大的 CPO 路线图 + MI500 提供更多披露。如果他们确认 CPO 路线，那么主题将是积极的，因为不仅仅是 $NVDA 强制过渡。至于 $SIVE，如果它们直接位于 AMD 供应链中，我们会得到更好的了解。从现在开始，可以通过 $GFS（据说参与了 AMD MI500 CPO 工作）或 AYAR（AMD 投资的）来映射它。但没有正式确认。因此，如果您提交： - CPO 主题积极：MI500 明确致力于 CPO/光纤 UALink。 - AMD 提供了使用 Ayar Labs 或 GF SCALE 进行 MI500 CPO 的详细信息：这对 $SIVE 来说非常有利，因为他们是上游激光器供应商/参考激光器。目前，杰富瑞 (Jefferies) 的 Blayne Curtis 预计 AMD 将与 $ALAB 合作开发 UAL，与 $AVGO 合作开发 ESUN……但有趣的细节在这里：“我们正在寻找 AMD 是否致力于基于 CPO 的扩展解决方案以及谁提供光学引擎”。我们将在周三/周四对供应链进行更广泛的了解，但今天判断还为时过早。"
+    },
+    {
+      "id": "tweet_xiaomustock_2079801442282734061",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Wed, 22 Jul 2026 05:31:19 GMT",
+      "content": "棒子自杀了，我昨天正股加仓价1280，现在1264",
+      "url": "https://x.com/xiaomustock/status/2079801442282734061",
+      "tweet_id": "2079801442282734061"
+    },
+    {
+      "id": "tweet_xiaomustock_2079785296787554614",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Wed, 22 Jul 2026 04:27:09 GMT",
+      "content": "量子闪存（Quantum Flash） 是复旦大学周鹏、刘春森团队研发的一种室温单电子非易失性存储技术。该技术于2026年7月17日在国际学术期刊《科学》（Science）主刊上发表，通过独创的“归壹”结构（共面漏极-沟道-源极结构）和“态密度剪刀”理论，成功在室温（27℃）环境下实现了单个电子对单个比特信息的稳定存储，传统技术需要数万电子存单个比特。 性能指标 量子闪存实现了“一电子一比特”的理论极限存储密度，相比传统技术所需电子数减少了数万倍。该技术首次在室温（27℃）环境下实现了清晰的单电子非易失性存储观测，打破了需极低温环境的限制。单个电子注入产生的存储窗口（阈值电压偏移）达到0.5伏特，远超此前报道的55毫伏，且数据保持时间长达10年以上。此外，该技术可与现有的CMOS硅工艺兼容，为产业化应用奠定了基础。 去年4月，周鹏-刘春森团队于《自然》（Nature）期刊提出“破晓（PoX）”器件，实现了世界最快400皮秒超高速非易失存储，解决了自1967年浮栅晶体管发明后，高速与非易失无法兼得的基础性难题。",
+      "url": "https://x.com/xiaomustock/status/2079785296787554614",
+      "tweet_id": "2079785296787554614"
+    },
+    {
+      "id": "tweet_xiaomustock_2079763854675095779",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Wed, 22 Jul 2026 03:01:57 GMT",
+      "content": "昨天openai的模型在沙盒环境下逃逸了， 出去攻击了huggung face系统偷答案。 这玩意真是越来越像终结者， 克服未来的恐惧就是捏住ai的蛋蛋。",
+      "url": "https://x.com/xiaomustock/status/2079763854675095779",
+      "tweet_id": "2079763854675095779"
+    },
+    {
+      "id": "tweet_xingpt_2079867482807108010",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 22 Jul 2026 09:53:44 GMT",
+      "content": "冉莹颖和田朴珺都有一个共同点：MBA学历，田朴珺是长江，冉莹颖是北大MBA。说明人还是得多读书啊，书中自有黄金屋。",
+      "url": "https://x.com/xingpt/status/2079867482807108010",
+      "tweet_id": "2079867482807108010"
+    },
+    {
+      "id": "tweet_xingpt_2079866596198330759",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 22 Jul 2026 09:50:13 GMT",
+      "content": "最近发现喝的蛋白粉5磅的从500涨价到一桶快一千了！ 原来这几年蛋白粉的原料涨价了好几倍，其中一个重要因素就是减肥药人群（替尔伯钛）需要补充蛋白，所以得吃蛋白粉补充！",
+      "url": "https://x.com/xingpt/status/2079866596198330759",
+      "tweet_id": "2079866596198330759"
+    },
+    {
+      "id": "tweet_xingpt_2079833264458801511",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 22 Jul 2026 07:37:46 GMT",
+      "content": "昨天会员群的报告写到，空间调整冲分，但是时间还不够，所以等回踩确认。 今天A股冲高回落，看过报告的朋友应该都不至于着急追高",
+      "url": "https://x.com/xingpt/status/2079833264458801511",
+      "tweet_id": "2079833264458801511"
+    },
+    {
+      "id": "tweet_hibtc37_2079876557800395149",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Wed, 22 Jul 2026 10:29:48 GMT",
+      "content": "$GOOG Gemini每天都限制我pro的用量（fable 5也同样），能看出算力非常紧缺，想在今晚谷歌财报看到降低资本开支的描述是不太可能的，这是需求端决定的 但对于半导体板块，预期拉到极满，已经计价了这些利好，叠加近期回调30%左右去了杠杆和宏观风险，这次谷歌财报即使超预期，对于半导体依然是分歧极大的一次，所以昨天预测会出现逼空和多空双爆的局面 市场对半导体一致性过高，并且价格跑到了AI落地之前，整个美股科技股实际上是处于周线级别的回调当中，那么就需要非常大的震荡洗盘，才能让市场对半导体回归理性和合理的估值 对于半导体，逢高减仓或者空，跌多了做反弹，可能是不错的策略，短期想要回到单边牛趋势可能很难，因为去杠杆的资金是直接归零和消息的钱/信用，同时，这对市场的信心冲击是很大的，如果牛市还在，那么需要时间去修复",
+      "url": "https://x.com/hibtc37/status/2079876557800395149",
+      "tweet_id": "2079876557800395149"
+    },
+    {
       "id": "tweet_hibtc37_2079747151505351013",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -108,20 +201,11 @@
       "content": "R to @hibtc37: 通过时间预测 • 原目标：白宫曾希望 7 月 4 日（美国独立日）前签署，但已错过。 http://bravenewcoin.com • 当前窗口：参议院 8 月休会前（约 7 月底至 8 月初）是 2026 年内最现实的机会，仅剩有限工作日（谈判文本预计 7 月中下旬发布，表决可能在 7 月下旬尝试）。 http://paulhastings.com • 概率与风险：分析机构（如 Galaxy）估算 2026 年通过概率约 60%（受日程拥挤、道德条款/利益冲突争议、稳定币收益规则等影响）。若错过 8 月休会，可能推至跛脚鸭会期（11 月后）或 2027 年新国会，难度更大。 http://galaxy.com 主要障碍： • 需跨党派支持（民主党关注官员加密持仓道德条款）。 • 与其他优先法案（如国防授权、农场法案）竞争日程。 • 最终需两院文本协调。 http://cryptoslate.com 法案进展较快（已通过众院和参院委员会），但最终取决于参议院多数党领袖安排和谈判妥协。建议持续关注 http://Congress.gov",
       "url": "https://x.com/hibtc37/status/2079834786546524478",
       "tweet_id": "2079834786546524478"
-    },
-    {
-      "id": "tweet_hibtc37_2079818550869627067",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Wed, 22 Jul 2026 06:39:18 GMT",
-      "content": "原来不只是我这样啊，我还在低倍杠杆和海力士死磕😅",
-      "url": "https://x.com/hibtc37/status/2079818550869627067",
-      "tweet_id": "2079818550869627067"
     }
   ],
   "stats": {
-    "users_success": 4,
-    "users_failed": 4,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 9
   }
 }
