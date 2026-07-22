@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-22T17:22:51.226405+00:00",
+  "fetched_at": "2026-07-22T19:24:13.817462+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2079984441179684961",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 22 Jul 2026 17:38:29 GMT",
+      "content": "Zero stories is a low number …",
+      "url": "https://x.com/elonmusk/status/2079984441179684961",
+      "tweet_id": "2079984441179684961",
+      "translated": "零故事是一个很低的数字……"
+    },
     {
       "id": "tweet_elonmusk_2079958827404034384",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2079329000787468594",
       "tweet_id": "2079329000787468594",
       "translated": "RT @elonmusk：任何针对我生命的暴力威胁都不会阻止我推动拯救美国法案。"
-    },
-    {
-      "id": "tweet_elonmusk_2079772638273319365",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 22 Jul 2026 03:36:51 GMT",
-      "content": "RT by @elonmusk: I think there is now overwhelming evidence to say: DO NOT TRUST OPEN AI",
-      "url": "https://x.com/elonmusk/status/2079772638273319365",
-      "tweet_id": "2079772638273319365",
-      "translated": "RT by @elonmusk：我认为现在有压倒性的证据表明：不要信任开放人工智能"
     },
     {
       "id": "tweet_cz_binance_2079858930621063438",
