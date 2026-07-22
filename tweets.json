@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-22T19:24:13.817462+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-22T21:11:42.750671+00:00",
+  "total": 21,
   "tweets": [
     {
       "id": "tweet_elonmusk_2079984441179684961",
@@ -92,34 +92,34 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
-      "id": "tweet_aleabitoreddit_2079947242455335379",
+      "id": "tweet_aleabitoreddit_2080035769062916479",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 22 Jul 2026 15:10:40 GMT",
-      "content": "$AMD to invest $5B in Anthropic. Anthropic in turn will sign a 2 GW deal to buy AMD’s latest chips, worth tens of billions of dollars. Looks like they’re copying the $NVDA playbook with Anthropic last year.",
-      "url": "https://x.com/aleabitoreddit/status/2079947242455335379",
-      "tweet_id": "2079947242455335379",
-      "translated": "$AMD 将向 Anthropic 投资 5B 美元。 Anthropic 反过来将签署一份 2GW 的协议，购买 AMD 的最新芯片，价值数百亿美元。看起来他们正在复制去年与 Anthropic 的 $NVDA 剧本。"
+      "published_at": "Wed, 22 Jul 2026 21:02:27 GMT",
+      "content": "$GOOGL updates FY 2026 capex guidance: To $195B-$205B. Up from $180B-$190B. Google is also expected to significantly increase capex in 2027. This is perhaps the most bullish read through on upstream semis from a hyperscaler.",
+      "url": "https://x.com/aleabitoreddit/status/2080035769062916479",
+      "tweet_id": "2080035769062916479",
+      "translated": "$GOOGL 更新 2026 财年资本支出指导：至 $195B-$205B。从 $180B-$190B 上涨。预计谷歌将在 2027 年大幅增加资本支出。这可能是超大规模企业对上游半成品最乐观的解读。"
     },
     {
-      "id": "tweet_aleabitoreddit_2079673469567226149",
+      "id": "tweet_aleabitoreddit_2080031508656746874",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 21 Jul 2026 21:02:48 GMT",
-      "content": "OpenAI models reportedly escaped from its controlled environment, with no internet access. Exploited zero day vulnerabilities and hacked into Hugging Face to cheat on benchmarks. Hugging face then used China GLM models to carry out its defense.  OpenAI said it was an “an unprecedented cyber incident.” We’re getting closer and closer to Skynet. And I’m sure markets will love it.",
-      "url": "https://x.com/aleabitoreddit/status/2079673469567226149",
-      "tweet_id": "2079673469567226149",
-      "translated": "据报道，OpenAI 模型逃离了其受控环境，无法访问互联网。利用零日漏洞并侵入 Hugging Face 以在基准测试中作弊。抱脸随后使用中国GLM模型进行辩护。  OpenAI 表示，这是一次“前所未有的网络事件”。我们离天网越来越近了。我相信市场会喜欢它。"
+      "published_at": "Wed, 22 Jul 2026 20:45:31 GMT",
+      "content": "$GOOGL now has 950M monthly Gemini users and processes 22B API tokens/min. Compared to 750M back in February. Absurd growth adding 200 million more users in a few months. Kinda explains why they ran out of compute, then cut allocations to $META and others. Very unlikely AI capex will slow down given.",
+      "url": "https://x.com/aleabitoreddit/status/2080031508656746874",
+      "tweet_id": "2080031508656746874",
+      "translated": "$GOOGL 现在每月有 9.5 亿 Gemini 用户，每分钟处理 22B API 代币。与 2 月份的 750M 相比。几个月内用户数量增长惊人，增加了 2 亿。有点解释了为什么他们耗尽了计算资源，然后削减了对 $META 和其他资源的分配。鉴于人工智能资本支出不太可能放缓。"
     },
     {
-      "id": "tweet_aleabitoreddit_2079622706572804368",
+      "id": "tweet_aleabitoreddit_2080027058063958323",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 21 Jul 2026 17:41:05 GMT",
-      "content": "Wow, a historic single day recovery. $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI +11.1% $TSEM +10.39% $LITE +9.25% $INTC +8.22% $AMD +8.11% $MRVL +7.27%",
-      "url": "https://x.com/aleabitoreddit/status/2079622706572804368",
-      "tweet_id": "2079622706572804368",
-      "translated": "哇，历史性的单日恢复。 $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI +11.1% $TSEM +10.39% $LITE +9.25% $INTC +8.22% $AMD +8.11% $MRVL +7.27%"
+      "published_at": "Wed, 22 Jul 2026 20:27:50 GMT",
+      "content": "$GOOGL reported earnings today: EPS: $9.11 actual vs $2.91 expected - retail reactions to EPS blowout is kinda just accounting noise, since $SPCX, Anthropic, and others were likely large contributors. Revenue: $119.7B actual vs. $116.98B expected Google Cloud Revenue: $24.77B +82% Y/Y, vs. 63-65% expected ($22.2-$22.6B) - this is a very large beat and most material part so far. Cloud Operating Income: ~$8.81B, implying 35.6% margin vs. 32.9% Q1. Capex: $44.92B vs ~$44.15B (basically in line). So initial read through is Google Cloud accelerating growth with expanding margins is genuinely bullish for AI demand. Their former $180-$190B capex guidance is already extremely large, and as long as we get around these numbers in the earnings call + forward projections... Should be good to go for $LITE and the other optics/networking trade. (eg. last earnings, they said DC and networking would be ~40% of capex spend). Hyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade. And that should be in 3 minutes.",
+      "url": "https://x.com/aleabitoreddit/status/2080027058063958323",
+      "tweet_id": "2080027058063958323",
+      "translated": "$GOOGL 今天公布收益：每股收益：实际 9.11 美元，预期 2.91 美元 - 散户对每股收益井喷的反应有点只是会计噪音，因为 $SPCX、Anthropic 和其他公司可能是主要贡献者。收入：$119.7B 实际 vs. $116.98B 预期 Google Cloud 收入：$24.77B +82% Y/Y，vs. 63-65% 预期 ($22.2-$22.6B) - 这是迄今为止一个非常大的节拍和最重要的部分。云运营收入：~$8.81B，意味着利润率为 35.6%，而第一季度为 32.9%。资本支出：$44.92B vs ~$44.15B（基本一致）。因此，初步了解谷歌云加速增长并扩大利润率确实有利于人工智能需求。他们之前的 $180-$190B 资本支出指导已经非常大，只要我们在财报电话会议 + 前瞻性预测中绕过这些数字......对于 $LITE 和其他光学/网络行业来说应该是件好事。 （例如，在上一份财报中，他们表示 DC 和网络将占资本支出的 40% 左右）。超大规模企业的盈利记录可能是人工智能资本支出交易中最值得关注的事情。应该会在 3 分钟内完成。"
     },
     {
       "id": "tweet_qinbafrank_2079881198659391690",
@@ -147,33 +147,6 @@
       "content": "AI至关重要，但美国需要远不止AI——必须结合制造业、供应链重建与人力资本。贝森特近期MikeRowe访谈里给出了政府的明确答案：AI的方向是模型能力、是算力、是网络安全，也是国家战略级别的竞争，美国在这场竞争中既有优势，也会获得最终的胜利。实质上是把AI进一步提升到国家军备竞赛最核心和最关键的位置上。聊聊贝森特的讲话要点： 1、算力份额与AI竞赛 1）当前与未来算力份额：美国过去/目前占据全球约50%至60%的算力份额，预计“很快”将升至80%。贝森特原话：“We probably used to have 50 or 60% of the compute power in the world. We'll probably soon be at 80%.” 2）战略定性 这场算力竞赛是美国“绝不能输”的国家级战略博弈。若对手取得领先，其获得的战略杠杆将是“不可接受的”。 AI领域领先优势：美国目前在AI领域领先竞争对手（主要指中国等）约一年。 3）三大支柱定位： 将AI与半导体、量子计算并列为美国国家经济实力与安全的三大支柱之一。维持算力与模型能力领先是核心国家战略，政府将不惜一切代价支持。 2、更广泛的政策框架：四大支柱与工业复兴愿景 贝森特将访谈置于美国工业政策复兴的大背景下，提出四大支柱： 1）算力/AI，上面第一部分讲到的内容 2）金融包容性 核心是Trump Accounts计划： 特朗普任期内出生的每位婴儿可获$1,000指数基金账户。获Susan和Michael Dell等大额捐赠支持（例如62.5亿美元级别），旨在覆盖约38%无股票资产的美国家庭，推动财富普及。 3）供应链安全 指出当前严重依赖中国——95%稀土磁铁、90%药物前体化学品来自中国。推动国内加工能力建设，并与西方盟友形成联盟减少依赖。强调供应链韧性对国防与经济安全至关重要。 4）制造业： 100%工厂资本支出费用化已立法实施5年，支持制造业回流。建设就业是回流领先指标。强调重建“工业commons”（工业生态系统），包括工程师、焊工、工具模具制造等技能贸易和供应商网络。 贝森特认为过去40年“效率至上”导致外包、库存极简、工业能力空心化，牺牲了韧性与主权。制造业不仅是资产负债表上的产出，更是实用能力储备（问题解决能力、快速适应能力）。 贝森特举例：美国2023年造船仅7艘，中国972艘；稀土等关键材料依赖中国“简直疯狂”，威胁国防安全。 总体目标重建美国工业能力、供应链韧性与金融包容 看贝森特的表态：对美国而言，算力、AI模型能力与网络安全，已经成为了国家战略级别的竞争，美国不会允许其他国家，在这些领域上超越自己，也代表国家在为AI的长期投资，在做背书。 在中美博弈进入“系统性对抗”阶段的当下，AI不再是科技公司的“技术玩具”，而是国家战略资源。其实各国都已经意识到了单靠市场已无法赢得AI战争，必须动用“国家机器”。再看上周在上海举行世界人工智能大会上中国的表态实质也是如此，AI竞争是一场不能输的战争。 去年还在这里https://x.com/qinbafrank/status/1992490737573724577?s=46&t=k6rimWsEbo2D2tXolYcM-A有聊到：当下AI军备竞赛并不是英伟达造就的，而是中美以及世界主要国家已经把AI做为未来国力竞争的重中之重，各大巨头已经看到了AI未来的趋势，都在奋力抢夺未来产业里的地位和话语权。 贝森特访谈原文：https://mikerowe.com/2026/07/we-need-more-than-ai-scott-bessent-ep-494/",
       "url": "https://x.com/qinbafrank/status/2079826218959126770",
       "tweet_id": "2079826218959126770"
-    },
-    {
-      "id": "tweet_xiaomustock_2079801442282734061",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Wed, 22 Jul 2026 05:31:19 GMT",
-      "content": "棒子自杀了，我昨天正股加仓价1280，现在1264",
-      "url": "https://x.com/xiaomustock/status/2079801442282734061",
-      "tweet_id": "2079801442282734061"
-    },
-    {
-      "id": "tweet_xiaomustock_2079785296787554614",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Wed, 22 Jul 2026 04:27:09 GMT",
-      "content": "量子闪存（Quantum Flash） 是复旦大学周鹏、刘春森团队研发的一种室温单电子非易失性存储技术。该技术于2026年7月17日在国际学术期刊《科学》（Science）主刊上发表，通过独创的“归壹”结构（共面漏极-沟道-源极结构）和“态密度剪刀”理论，成功在室温（27℃）环境下实现了单个电子对单个比特信息的稳定存储，传统技术需要数万电子存单个比特。 性能指标 量子闪存实现了“一电子一比特”的理论极限存储密度，相比传统技术所需电子数减少了数万倍。该技术首次在室温（27℃）环境下实现了清晰的单电子非易失性存储观测，打破了需极低温环境的限制。单个电子注入产生的存储窗口（阈值电压偏移）达到0.5伏特，远超此前报道的55毫伏，且数据保持时间长达10年以上。此外，该技术可与现有的CMOS硅工艺兼容，为产业化应用奠定了基础。 去年4月，周鹏-刘春森团队于《自然》（Nature）期刊提出“破晓（PoX）”器件，实现了世界最快400皮秒超高速非易失存储，解决了自1967年浮栅晶体管发明后，高速与非易失无法兼得的基础性难题。",
-      "url": "https://x.com/xiaomustock/status/2079785296787554614",
-      "tweet_id": "2079785296787554614"
-    },
-    {
-      "id": "tweet_xiaomustock_2079763854675095779",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Wed, 22 Jul 2026 03:01:57 GMT",
-      "content": "昨天openai的模型在沙盒环境下逃逸了， 出去攻击了huggung face系统偷答案。 这玩意真是越来越像终结者， 克服未来的恐惧就是捏住ai的蛋蛋。",
-      "url": "https://x.com/xiaomustock/status/2079763854675095779",
-      "tweet_id": "2079763854675095779"
     },
     {
       "id": "tweet_xingpt_2079955053172183245",
@@ -231,8 +204,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 9
   }
 }
