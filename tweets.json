@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-23T02:54:10.338155+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-23T05:58:09.395739+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2080165738464280725",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 23 Jul 2026 05:38:54 GMT",
+      "content": "Grok 4.5 just solved a graph theory conjecture that has been open for ~30 years",
+      "url": "https://x.com/elonmusk/status/2080165738464280725",
+      "tweet_id": "2080165738464280725",
+      "translated": "Grok 4.5 刚刚解决了一个已经开放了约 30 年的图论猜想"
+    },
     {
       "id": "tweet_elonmusk_2080073361343054247",
       "username": "elonmusk",
@@ -20,17 +30,7 @@
       "content": "RT by @elonmusk: Three fundamental integrals stand out for their elegant closed forms despite spanning infinite domains. - The Gaussian ∫_{-∞}^{∞} e^{-x²} dx equals √π. - The Lorentzian ∫_{-∞}^{∞} 1/(x² + 1) dx totals π. - The sinc function ∫_{-∞}^{∞} sin(x)/x dx also equals π. These identities, established through techniques such as contour integration, link analysis across mathematics. Engineers apply the sinc integral within the sampling theorem to perfectly reconstruct continuous-time signals from discrete samples in digital communications systems.",
       "url": "https://x.com/elonmusk/status/2079875839605473621",
       "tweet_id": "2079875839605473621",
-      "translated": "RT by @elonmusk：尽管跨越了无限的域，但三个基本积分因其优雅的封闭形式而脱颖而出。 - 高斯 ∫_{-∞}^{∞} e^{-x²} dx 等于 √π。 - 洛伦兹 ∫_{-∞}^{∞} 1/(x² + 1) dx 总计 π。 - sinc 函数 ∫_{-∞}^{∞} sin(x)/x dx 也等于 π。这些恒等式是通过轮廓积分等技术建立的，将数学分析联系起来。工程师应用采样定理中的 sinc 积分，从数字通信系统中的离散样本完美地重建连续时间信号。"
-    },
-    {
-      "id": "tweet_elonmusk_2079906440463151129",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 22 Jul 2026 12:28:32 GMT",
-      "content": "RT by @elonmusk: Grok Build just got another powerful plugin: Exa The new Exa plugin brings semantic web search, content extraction and multi-step research directly into Grok Build With Exa, you can: • Search the web semantically instead of relying only on keywords • Filter results across companies, people, news, research papers and financial reports • Extract webpages as clean Markdown • Run structured, multi-step research workflows with deduplicated, cited results Setup is simple: install the plugin, sign in to your Exa account through the browser and start using it No API key is required, and new accounts receive free credits at signup The Grok Build plugin ecosystem keeps expanding Instead of constantly switching between research tools and your development environment, you can bring high-quality web search and content extraction directly into the same AI workflow",
-      "url": "https://x.com/elonmusk/status/2079906440463151129",
-      "tweet_id": "2079906440463151129",
-      "translated": "RT by @elonmusk：Grok Build 刚刚获得了另一个强大的插件：Exa 新的 Exa 插件将语义网络搜索、内容提取和多步骤研究直接带入 Grok Build 中 使用 Exa，您可以： • 以语义方式搜索网络，而不仅仅是依赖关键字 • 过滤公司、人员、新闻、研究论文和财务报告的结果 • 将网页提取为干净的 Markdown • 运行结构化、多步骤的研究工作流程，并删除重复的引用结果 设置很简单：安装插件，登录您的 Exa 帐户通过浏览器并开始使用 不需要 API 密钥，新帐户在注册时即可获得免费积分 Grok Build 插件生态系统不断扩展 您无需不断地在研究工具和开发环境之间切换，您可以将高质量的 Web 搜索和内容提取直接引入同一个 AI 工作流程中"
+      "translated": "RT by @elonmusk：尽管跨越了无限的域，但三个基本积分因其优雅的封闭形式而脱颖而出。 - 高斯 ∫_{-∞}^{∞} e^{-x²} dx 等于 √π。 - 洛伦兹 ∫_{-∞}^{∞} 1/(x² + 1) dx 总计 π。 - sinc 函数 ∫_{-∞}^{∞} sin(x)/x dx 也等于 π。这些恒等式是通过轮廓积分等技术建立的，将数学分析联系起来。工程师应用采样定理中的 sinc 积分，从数字通信系统中的离散样本中完美地重建连续时间信号。"
     },
     {
       "id": "tweet_cz_binance_2079858930621063438",
@@ -62,6 +62,56 @@
       "translated": "分享一些没有完全进入《金钱自由》书中的旧照片。所有原始照片。没有人工智能。 2017 年 10 月/11 月左右。抵达东京的币安团队全都盯着手机。在入境处（左），在街上（右）。 1/N"
     },
     {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432",
+      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2068370500334637542",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
+      "content": "RT by @realDonaldTrump: POLL…",
+      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
+      "tweet_id": "2068370500334637542",
+      "translated": "RT @realDonaldTrump：投票……"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2080153334888182065",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 23 Jul 2026 04:49:37 GMT",
+      "content": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). - Prices of some CPU products have risen more than 40% in China since the start of the year from sources. - Month-on-month increases topping 10% for some products CPUs were already a bottleneck, following CPU ratios due to AI inference... But the broader trend of LTAs seems to be appearing from: - Memory, with $MU, Samsung, $SNDK, and SK Hynix signing DRAM/NAND LTAs. - Photonics, with $LITE, $COHR signing EML LTAs. And recent Trendforce reports that $AMD and hyperscalers are now pursuing CW LTAs. And I'm sure there's many more from MLCCs to all the way to substrates. +1 for the bottleneck investors... hard to be a \"bubble that pops\" if you have take or pay demand spanning multiple years.",
+      "url": "https://x.com/aleabitoreddit/status/2080153334888182065",
+      "tweet_id": "2080153334888182065",
+      "translated": "$INTC 和 $AMD 将与中国客户签署 AI DC 的 CPU 长期协议（路透社）。 - 从消息来源来看，今年以来中国部分CPU产品价格上涨超过40%。 - 某些产品的环比增长超过 10% CPU 已经成为瓶颈，因为 AI 推理导致 CPU 比率下降……但 LTA 的更广泛趋势似乎出现在： - 内存，$MU、三星、$SNDK 和 SK Hynix 签署了 DRAM/NAND LTA。 - 光子学，与 $LITE、$COHR 签署 EML 长期协议。最近的 Trendforce 报告称，AMD 和超大规模厂商正在寻求 CW LTA。我确信从 MLCC 到基板，还有更多的产品。对于瓶颈投资者+1...如果你有跨越多年的接受或支付需求，那么很难成为“泡沫”。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2080149813065396454",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 23 Jul 2026 04:35:37 GMT",
+      "content": "Just some notes from $TSLA transcripts: Elon Musk: \"I think Optimus will be the biggest product ever\" from Q2 earnings transcripts. Even from Q1, Elon Stated: \"I think Optimus will be our biggest product. Not just Tesla's biggest product ever, but probably the biggest product ever. And I remain convinced of that conclusion\". It's very rare to see such high conviction reiterated from Elon regarding humanoids both directionally and TAM-wise. In terms of upstream suppliers opportunities, Karn Budhiraj, VP of $TSLA supply chains stated: \"We’re seeing the same level of investment going to memory and also new specific items like metal injection molded parts, flexible printed circuits, and all sorts of nonlinear technologies...\" And that they had to build new supply chains from scratch. So would be interesting to look at for new supply chain supplier opportunities apart from the known ones. Just pulled older slides and it looks like capacity targets for Fremont are 1M and Giga Texas was 10M, so at scale, $TSLA seems to be the clear US leader. If you're looking at that S-Curve opportunity ramp. On a side note, Elon also gave a shoutout to $MU with likely reasonably priced LTAs, given his statement: \"We really appreciate Micron making room for Tesla in the years to come and giving us actually a very significant allocation on reasonable terms given the pretty insane pricing of memory these days.\" (Just for structural memory demand). Elon also gave a shoutout to Panasonic which had invested many billions in increasing battery cell production (will need to do deeper DD into Panasonic after this), then Samsung and $TSM. Just takeaways from Tesla earnings TLDR: Elon tends to be directionally correct on where the future is heading, such as with EV or Space. He seems extremely bullish on humanoids.",
+      "url": "https://x.com/aleabitoreddit/status/2080149813065396454",
+      "tweet_id": "2080149813065396454",
+      "translated": "只是来自 TSLA 成绩单的一些注释：埃隆·马斯克（Elon Musk）：从第二季度收益成绩单来看，“我认为 Optimus 将成为有史以来最大的产品”。即使从第一季度开始，埃隆就表示：“我认为 Optimus 将是我们最大的产品。不仅是特斯拉有史以来最大的产品，而且可能是有史以来最大的产品。我仍然相信这个结论”。很少看到 Elon 在方向性和 TAM 方面重申对人形机器人如此坚定的信念。在上游供应商机会方面，TSLA供应链副总裁Karn Budhiraj表示：“我们看到同样水平的投资流向存储器以及新的特定项目，如金属注塑零件、柔性印刷电路和各种非线性技术......”并且他们必须从头开始建立新的供应链。因此，除了已知的供应链供应商机会之外，寻找新的供应链供应商机会将会很有趣。刚刚拉出旧幻灯片，看起来弗里蒙特的产能目标是 100 万，德克萨斯州的产能目标是 1000 万，因此从规模来看，TSLA 似乎是美国明显的领先者。如果你正在寻找 S 曲线机会斜坡。另一方面，Elon 还对价格可能合理的长期协议表示赞赏，他表示：“我们非常感谢美光科技在未来几年为特斯拉腾出空间，并以合理的条件为我们提供了非常重要的分配，因为现在内存的定价相当疯狂。” （仅针对结构性内存需求）。 Elon 还赞扬了松下，该公司已投资数十亿美元来增加电池产量（此后需要对松下进行更深入的 DD），然后是三星和 $TSM。特斯拉财报的要点 TLDR：埃隆对于未来的发展方向往往是正确的，例如电动汽车或太空领域。他似乎非常看好类人生物。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2080035769062916479",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -70,26 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2080035769062916479",
       "tweet_id": "2080035769062916479",
       "translated": "$GOOGL 更新 2026 财年资本支出指导：至 $195B-$205B。从 $180B-$190B 上涨。预计谷歌将在 2027 年大幅增加资本支出。这可能是超大规模企业对上游半成品最乐观的解读。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2080031508656746874",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 22 Jul 2026 20:45:31 GMT",
-      "content": "$GOOGL now has 950M monthly Gemini users and processes 22B API tokens/min. Compared to 750M back in February. Absurd growth adding 200 million more users in a few months. Kinda explains why they ran out of compute, then cut allocations to $META and others. Very unlikely AI capex will slow down given.",
-      "url": "https://x.com/aleabitoreddit/status/2080031508656746874",
-      "tweet_id": "2080031508656746874",
-      "translated": "$GOOGL 现在每月有 9.5 亿 Gemini 用户，每分钟处理 22B API 代币。与 2 月份的 750M 相比。几个月内用户数量增长惊人，增加了 2 亿。有点解释了为什么他们耗尽了计算资源，然后削减了对 $META 和其他资源的分配。鉴于人工智能资本支出不太可能放缓。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2080027058063958323",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 22 Jul 2026 20:27:50 GMT",
-      "content": "$GOOGL reported earnings today: EPS: $9.11 actual vs $2.91 expected - retail reactions to EPS blowout is kinda just accounting noise, since $SPCX, Anthropic, and others were likely large contributors. Revenue: $119.7B actual vs. $116.98B expected Google Cloud Revenue: $24.77B +82% Y/Y, vs. 63-65% expected ($22.2-$22.6B) - this is a very large beat and most material part so far. Cloud Operating Income: ~$8.81B, implying 35.6% margin vs. 32.9% Q1. Capex: $44.92B vs ~$44.15B (basically in line). So initial read through is Google Cloud accelerating growth with expanding margins is genuinely bullish for AI demand. Their former $180-$190B capex guidance is already extremely large, and as long as we get around these numbers in the earnings call + forward projections... Should be good to go for $LITE and the other optics/networking trade. (eg. last earnings, they said DC and networking would be ~40% of capex spend). Hyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade. And that should be in 3 minutes.",
-      "url": "https://x.com/aleabitoreddit/status/2080027058063958323",
-      "tweet_id": "2080027058063958323",
-      "translated": "$GOOGL 今天公布收益：每股收益：实际 9.11 美元，预期 2.91 美元 - 散户对每股收益井喷的反应有点只是会计噪音，因为 $SPCX、Anthropic 和其他公司可能是主要贡献者。收入：$119.7B 实际 vs. $116.98B 预期 Google Cloud 收入：$24.77B +82% Y/Y，vs. 63-65% 预期 ($22.2-$22.6B) - 这是迄今为止一个非常大的节拍和最重要的部分。云运营收入：~$8.81B，意味着利润率为 35.6%，而第一季度为 32.9%。资本支出：$44.92B vs ~$44.15B（基本一致）。因此，初步了解谷歌云加速增长并扩大利润率确实有利于人工智能需求。他们之前的 $180-$190B 资本支出指导已经非常大，只要我们在财报电话会议 + 前瞻性预测中绕过这些数字......对于 $LITE 和其他光学/网络行业来说应该是件好事。 （例如，在上一份财报中，他们表示 DC 和网络将占资本支出的 40% 左右）。超大规模企业的盈利记录可能是人工智能资本支出交易中最值得关注的事情。应该会在 3 分钟内完成。"
     },
     {
       "id": "tweet_qinbafrank_2080086114988421616",
@@ -174,36 +204,36 @@
       "tweet_id": "2079866596198330759"
     },
     {
-      "id": "tweet_hibtc37_2080104491177951303",
+      "id": "tweet_hibtc37_2080141630913605918",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 23 Jul 2026 01:35:31 GMT",
-      "content": "$TSLA 财报超预期，股价跌，顶不住了 TSLA我从2013年开始买的，一直赚钱，聊下他昨晚财报吧 估计很多人顶不住了，要投降了。投资人顶着1.4万亿市值，346倍市盈率，错过大半年，不是为了看卖车的数据多么漂亮的，造车长远看肯定会被中国制造吊打，FSD短期是优势，但随着AI发展，也会被中国追平/缩小差距 储能业务是个容易摘的桃子，但机器人落地，还是遥遥无期，Robotaxi还是非常早期，资本开支增大，现金流恶化，加上今年也是SPCX探底年，今年对于TSLA投资人很不友好，之前捧马斯克的，也会踩 所以，TSLA投资人肯定要投降一波了，那也意味着未来半年到一年会出现建仓机会",
-      "url": "https://x.com/hibtc37/status/2080104491177951303",
-      "tweet_id": "2080104491177951303"
+      "published_at": "Thu, 23 Jul 2026 04:03:06 GMT",
+      "content": "硬件股东：先🫶后🥶再🤬再😘",
+      "url": "https://x.com/hibtc37/status/2080141630913605918",
+      "tweet_id": "2080141630913605918"
     },
     {
-      "id": "tweet_hibtc37_2080098358996398252",
+      "id": "tweet_hibtc37_2080128549353308477",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 23 Jul 2026 01:11:09 GMT",
-      "content": "$GOOG 财报全方面完美，就是股价给我跌！ 谷歌资本开支继续提升，我之前一直讲AI是军备竞赛，明年整个赛道美国大科技开支会破2万亿，算力非常缺，而且这是需求端旺盛导致 谷歌云爆发式增长，营收超预期，走ASIC路线是正确的，这也是未来趋势 AI日活9.5亿，这已经是非常庞大的数据了 老业务广告依然增长牛逼 但是！股价跌2-3%，市场还是非常短视和愚蠢的，随着加息预期不断加强，谷歌未来会迎来非常好建仓时机 我更关心的是半导体，对谷歌这份财报的反应。之前 $ASML $TSM 等多份财报都证明了AI基本面没有问题，财报出半导体都是跪，但我看存储板块昨晚也就涨了3-4%，如果美光今晚连1000都不破或者没法稳住，赶紧提桶跑路啊。 那么未来1-3个月，逢高空，跌深抓反弹，就是存储板块最佳策略。存储价格已经吃到2028年了，这需要大震荡探底，才有可能在明年创出新高，否则今年的高点就是顶了，当前是非常明显机构派发出货，而机构一旦派发，这不是一个月就能完成的事情 存储板块这两年涨幅逆天，去杠杆就跌40%，如果真探底找支撑，获利盘出逃，会跌到妈都不认识，从赔率上看，真不如跌了50%多的加密板块 谷歌真是AI时代的王者级别玩家，如果是大资金，看好AI，这是最稳的策略",
-      "url": "https://x.com/hibtc37/status/2080098358996398252",
-      "tweet_id": "2080098358996398252"
+      "published_at": "Thu, 23 Jul 2026 03:11:07 GMT",
+      "content": "啊，有点震惊！这还是算上房产的，所以，只需要100万美元现金，就至少排在前20万了，新加坡前2%人群，甚至1%，1%更合理，也请@grok 核实下数据",
+      "url": "https://x.com/hibtc37/status/2080128549353308477",
+      "tweet_id": "2080128549353308477"
     },
     {
-      "id": "tweet_hibtc37_2080082689953329618",
+      "id": "tweet_hibtc37_2080126735761445023",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 23 Jul 2026 00:08:54 GMT",
-      "content": "$CBRS 期权24%，合约17%，期权试水成功，收益还是吊打3倍做空合约啊！ 不过风险程度不一样，现在IV和Theta都太高，我今晚就要平掉PUT，合约我可以拿到新低，最后收益还是合约高，而且是几乎0费率做空。期权的择时开仓和平仓是关键，合约只需要方向对就行。 平掉的 $SPCX昨天又跌了6%，真是泥沙俱下啊 #海力士 做空还在浮亏，死磕中，费率太高，受不了，设定了小赚就跑的止盈单，以后取关，变态的费率可能要到7月29日后才恢复正常，撸费率的人爽死，如果你买了韩国海力士，直接合约开空，套费率，这是当前最牛的无风险套利（除了汇率），吊打99.99%量化公司",
-      "url": "https://x.com/hibtc37/status/2080082689953329618",
-      "tweet_id": "2080082689953329618"
+      "published_at": "Thu, 23 Jul 2026 03:03:55 GMT",
+      "content": "目标哥总体竟然还是亏损？有点诧异，我以为是赚了至少5000万级别，不过整体亏损比例小，亏损控制的很好",
+      "url": "https://x.com/hibtc37/status/2080126735761445023",
+      "tweet_id": "2080126735761445023"
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 9
   }
 }
