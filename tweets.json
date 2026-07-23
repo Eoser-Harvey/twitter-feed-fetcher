@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-23T14:05:50.474400+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-23T16:29:30.929529+00:00",
+  "total": 21,
   "tweets": [
     {
       "id": "tweet_elonmusk_2080056695477129649",
@@ -150,31 +150,13 @@
       "tweet_id": "2080253708320006429"
     },
     {
-      "id": "tweet_xiaomustock_2080285184080118126",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Thu, 23 Jul 2026 13:33:32 GMT",
-      "content": "最近亏的也不想说话了， 早晨看完梁文锋的这个总结觉得有意思的点划了一下。做个记录。",
-      "url": "https://x.com/xiaomustock/status/2080285184080118126",
-      "tweet_id": "2080285184080118126"
-    },
-    {
-      "id": "tweet_xiaomustock_2079801442282734061",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Wed, 22 Jul 2026 05:31:19 GMT",
-      "content": "棒子自杀了，我昨天正股加仓价1280，现在1264",
-      "url": "https://x.com/xiaomustock/status/2079801442282734061",
-      "tweet_id": "2079801442282734061"
-    },
-    {
-      "id": "tweet_xiaomustock_2079785296787554614",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Wed, 22 Jul 2026 04:27:09 GMT",
-      "content": "量子闪存（Quantum Flash） 是复旦大学周鹏、刘春森团队研发的一种室温单电子非易失性存储技术。该技术于2026年7月17日在国际学术期刊《科学》（Science）主刊上发表，通过独创的“归壹”结构（共面漏极-沟道-源极结构）和“态密度剪刀”理论，成功在室温（27℃）环境下实现了单个电子对单个比特信息的稳定存储，传统技术需要数万电子存单个比特。 性能指标 量子闪存实现了“一电子一比特”的理论极限存储密度，相比传统技术所需电子数减少了数万倍。该技术首次在室温（27℃）环境下实现了清晰的单电子非易失性存储观测，打破了需极低温环境的限制。单个电子注入产生的存储窗口（阈值电压偏移）达到0.5伏特，远超此前报道的55毫伏，且数据保持时间长达10年以上。此外，该技术可与现有的CMOS硅工艺兼容，为产业化应用奠定了基础。 去年4月，周鹏-刘春森团队于《自然》（Nature）期刊提出“破晓（PoX）”器件，实现了世界最快400皮秒超高速非易失存储，解决了自1967年浮栅晶体管发明后，高速与非易失无法兼得的基础性难题。",
-      "url": "https://x.com/xiaomustock/status/2079785296787554614",
-      "tweet_id": "2079785296787554614"
+      "id": "tweet_xingpt_2080292890329395434",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Thu, 23 Jul 2026 14:04:09 GMT",
+      "content": "王虹牛逼",
+      "url": "https://x.com/xingpt/status/2080292890329395434",
+      "tweet_id": "2080292890329395434"
     },
     {
       "id": "tweet_xingpt_2080291192676503663",
@@ -195,46 +177,36 @@
       "tweet_id": "2080286998036967663"
     },
     {
-      "id": "tweet_xingpt_2080284508629410225",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 23 Jul 2026 13:30:51 GMT",
-      "content": "Image",
-      "url": "https://x.com/xingpt/status/2080284508629410225",
-      "tweet_id": "2080284508629410225",
-      "translated": "图像"
-    },
-    {
-      "id": "tweet_hibtc37_2080290854737261035",
+      "id": "tweet_hibtc37_2080318894900936925",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 23 Jul 2026 13:56:04 GMT",
-      "content": "卧槽！昨晚买的，今天38%，美股期权还是好做，期权果然不卷！最近三次期权操作，都很舒服，比合约猛太多了🤣，波动率都到131%…我今晚就跑路",
-      "url": "https://x.com/hibtc37/status/2080290854737261035",
-      "tweet_id": "2080290854737261035"
+      "published_at": "Thu, 23 Jul 2026 15:47:29 GMT",
+      "content": "被海力士搞到掉到22名了",
+      "url": "https://x.com/hibtc37/status/2080318894900936925",
+      "tweet_id": "2080318894900936925"
     },
     {
-      "id": "tweet_hibtc37_2080290024814415944",
+      "id": "tweet_hibtc37_2080317835587604950",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 23 Jul 2026 13:52:46 GMT",
-      "content": "$MU 1000都这么墨迹，这是要跪的节奏啊，看看今晚能不能稳住1000",
-      "url": "https://x.com/hibtc37/status/2080290024814415944",
-      "tweet_id": "2080290024814415944"
+      "published_at": "Thu, 23 Jul 2026 15:43:17 GMT",
+      "content": "Fable5又满杯…",
+      "url": "https://x.com/hibtc37/status/2080317835587604950",
+      "tweet_id": "2080317835587604950"
     },
     {
-      "id": "tweet_hibtc37_2080286883750551758",
+      "id": "tweet_hibtc37_2080307976783737098",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 23 Jul 2026 13:40:17 GMT",
-      "content": "白天有想空特斯拉，但犹豫了，看他白天跌5%这么多情况下，没想到开盘直接干跌11%！！！",
-      "url": "https://x.com/hibtc37/status/2080286883750551758",
-      "tweet_id": "2080286883750551758"
+      "published_at": "Thu, 23 Jul 2026 15:04:06 GMT",
+      "content": "卧槽，害怕！目标哥和我开了相反的单子，同样的价格！这就好玩了😆",
+      "url": "https://x.com/hibtc37/status/2080307976783737098",
+      "tweet_id": "2080307976783737098"
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 9
   }
 }
