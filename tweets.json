@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-23T16:29:30.929529+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-23T18:15:40.533243+00:00",
+  "total": 18,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2080056695477129649",
+      "id": "tweet_elonmusk_2080351573675544984",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 22 Jul 2026 22:25:36 GMT",
-      "content": "RT by @elonmusk: I can't believe I'm still using Grok 4.5 (medium) as my daily. It's such a good default",
-      "url": "https://x.com/elonmusk/status/2080056695477129649",
-      "tweet_id": "2080056695477129649",
-      "translated": "RT @elonmusk：我不敢相信我还在使用 Grok 4.5（中）作为我的日常工具。这是一个很好的默认值"
+      "published_at": "Thu, 23 Jul 2026 17:57:20 GMT",
+      "content": "Grok 4.5 now on all platforms",
+      "url": "https://x.com/elonmusk/status/2080351573675544984",
+      "tweet_id": "2080351573675544984",
+      "translated": "Grok 4.5 现已在所有平台上推出"
     },
     {
-      "id": "tweet_elonmusk_2079868339002687524",
+      "id": "tweet_elonmusk_2080351324580004343",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 22 Jul 2026 09:57:08 GMT",
-      "content": "RT by @elonmusk: SpaceXAI has added New pages to Grok Build docs: Permissions, Plan Mode, Sandbox, Subagents",
-      "url": "https://x.com/elonmusk/status/2079868339002687524",
-      "tweet_id": "2079868339002687524",
-      "translated": "RT by @elonmusk：SpaceXAI 已向 Grok Build 文档添加了新页面：权限、计划模式、沙盒、子代理"
+      "published_at": "Thu, 23 Jul 2026 17:56:21 GMT",
+      "content": "True",
+      "url": "https://x.com/elonmusk/status/2080351324580004343",
+      "tweet_id": "2080351324580004343",
+      "translated": "真的"
     },
     {
-      "id": "tweet_elonmusk_2080149830467547297",
+      "id": "tweet_elonmusk_2080350615658749956",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 23 Jul 2026 04:35:41 GMT",
-      "content": "RT by @elonmusk: Using FSD is far safer than driving manually, as measured over 12 billion miles of its use. Safer by a margin of 2x the miles between collisions! It can do so, because, FSD is trained on corner cases extracted from more than a 1000 lifetimes of driving. It has learnt to accurately predict the probability of collision even for crazy cases such others running red lights, swerving into us, kids running into roads and such. Do watch the full video for some highlights. A no-brainer way to significantly improve your and your family's safety is to get a Tesla with FSD. It also completely takes the stress out of driving. Not saying this just because I work at Tesla, rather that it's genuinely a great product already and is continuing to get even better.",
-      "url": "https://x.com/elonmusk/status/2080149830467547297",
-      "tweet_id": "2080149830467547297",
-      "translated": "RT @elonmusk：使用 FSD 比手动驾驶安全得多，根据超过 120 亿英里的使用里程测得。安全性提高了 2 倍碰撞间隔里程！它之所以能做到这一点，是因为 FSD 是根据从 1000 多次驾驶生命周期中提取的极端情况进行训练的。它已经学会了准确预测碰撞的可能性，即使是在疯狂的情况下，比如其他人闯红灯、突然转向我们、孩子跑到马路上等等。请观看完整视频以了解一些亮点。显着提高您和家人安全的一个简单方法就是购买配备 FSD 的特斯拉。它还完全消除了驾驶的压力。这么说并不是因为我在特斯拉工作，而是因为它确实已经是一款很棒的产品，并且还在不断变得更好。"
+      "published_at": "Thu, 23 Jul 2026 17:53:32 GMT",
+      "content": "Yeah",
+      "url": "https://x.com/elonmusk/status/2080350615658749956",
+      "tweet_id": "2080350615658749956",
+      "translated": "是的"
     },
     {
       "id": "tweet_cz_binance_2080279259701002381",
@@ -93,6 +93,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2080334612807758136",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 23 Jul 2026 16:49:57 GMT",
+      "content": "I have this feeling that Lisa from $AMD likes AI. It’s cool getting to meet some of you at the event!",
+      "url": "https://x.com/aleabitoreddit/status/2080334612807758136",
+      "tweet_id": "2080334612807758136",
+      "translated": "我有这种感觉，来自 $AMD 的 Lisa 喜欢人工智能。很高兴在活动中见到你们中的一些人！"
+    },
+    {
       "id": "tweet_aleabitoreddit_2080153334888182065",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -111,43 +121,6 @@
       "url": "https://x.com/aleabitoreddit/status/2080149813065396454",
       "tweet_id": "2080149813065396454",
       "translated": "只是来自 TSLA 成绩单的一些注释：埃隆·马斯克（Elon Musk）：从第二季度收益成绩单来看，“我认为 Optimus 将成为有史以来最大的产品”。即使从第一季度开始，埃隆就表示：“我认为 Optimus 将是我们最大的产品。不仅是特斯拉有史以来最大的产品，而且可能是有史以来最大的产品。我仍然相信这个结论”。很少看到 Elon 在方向性和 TAM 方面重申对人形机器人如此坚定的信念。在上游供应商机会方面，TSLA供应链副总裁Karn Budhiraj表示：“我们看到同样水平的投资流向存储器以及新的特定项目，如金属注塑零件、柔性印刷电路和各种非线性技术......”并且他们必须从头开始建立新的供应链。因此，除了已知的供应链供应商机会之外，寻找新的供应链供应商机会将会很有趣。刚刚拉出旧幻灯片，看起来弗里蒙特的产能目标是 100 万，德克萨斯州的产能目标是 1000 万，因此从规模来看，TSLA 似乎是美国明显的领先者。如果你正在寻找 S 曲线机会斜坡。另一方面，Elon 还对价格可能合理的长期协议表示赞赏，他表示：“我们非常感谢美光科技在未来几年为特斯拉腾出空间，并以合理的条件为我们提供了非常重要的分配，因为现在内存的定价相当疯狂。” （仅针对结构性内存需求）。 Elon 还赞扬了松下，该公司已投资数十亿美元来增加电池产量（此后需要对松下进行更深入的 DD），然后是三星和 $TSM。特斯拉财报的要点 TLDR：埃隆对于未来的发展方向往往是正确的，例如电动汽车或太空领域。他似乎非常看好类人生物。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2080035769062916479",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 22 Jul 2026 21:02:27 GMT",
-      "content": "$GOOGL updates FY 2026 capex guidance: To $195B-$205B. Up from $180B-$190B. Google is also expected to significantly increase capex in 2027. This is perhaps the most bullish read through on upstream semis from a hyperscaler.",
-      "url": "https://x.com/aleabitoreddit/status/2080035769062916479",
-      "tweet_id": "2080035769062916479",
-      "translated": "$GOOGL 更新 2026 财年资本支出指导：至 $195B-$205B。从 $180B-$190B 上涨。预计谷歌将在 2027 年大幅增加资本支出。这可能是超大规模企业对上游半成品最乐观的解读。"
-    },
-    {
-      "id": "tweet_qinbafrank_2080282133600620724",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Thu, 23 Jul 2026 13:21:25 GMT",
-      "content": "晚上布油快摸到100，十年美债收益率突破4.7%，美元指数再度站上101。如7月21号晚上聊到的“短期内几个资产各按各的逻辑走其实没问题，但中期这样一定会出问题”。 风险资产上，韩股去杠杆接有可喜进展如今天https://x.com/qinbafrank/status/2080253708320006429?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到。 谷歌的财报确认AI需求继续飙升，同时资本开支提升、自由现金流转负还是会让市场短期有所担心https://x.com/qinbafrank/status/2080086114988421616?s=46&t=k6rimWsEbo2D2tXolYcM-A。 但是宏观环境的恶化，会让市场在短期内同时面对三种压力： 1）油价上涨，推高通胀预期； 2）美债收益率上行，压低股票估值； 3）美元走强，抽紧全球流动性。 说实话，个人角度近期市场不容乐观，相当于风险资产的去杠杆还没完全出清，但是宏观层面的压制迎面而来。 如果布油突破100美油站稳90、10年期美债收益率站稳4.7%、美元继续在101上方，纳指所代表的大科技会成为压力最大的地方，黄金也会被迫继续承压。 还是之前聊到的这里的核心关键还是油价，油价不回落宏观风险压制很难解除。 但是霍尔木兹海峡开辟新航线的失利、美军士兵的死亡，短期川普很难说立马转向。可能他需要感受到市场的极度悲观和压力才能退让。 就像之前这里https://x.com/qinbafrank/status/2076185072613597214?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到的： “川普可能还没接受一个残酷的现实：已经无法将霍尔木兹海峡恢复战前的状态，还要时不时展现强硬，安抚国内的反对声音和情绪，为支持率和大选。” “美国拥有绝对空中和远程打击优势，但伊朗依然保留了足以制造全球能源冲击的非对称能力。对川普来说，要么变相买回海峡的国际航权（给伊朗支付巨额资金让伊朗放弃控制权），要么彻底摧毁伊朗政权和军事实力（现在看起来川普也无意到这一步）。” 会是哪一种，彻底退让认清现实？还是变相买断？抑或更强硬出手进一步升级以期军事解决？",
-      "url": "https://x.com/qinbafrank/status/2080282133600620724",
-      "tweet_id": "2080282133600620724"
-    },
-    {
-      "id": "tweet_qinbafrank_2080268970482127226",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Thu, 23 Jul 2026 12:29:06 GMT",
-      "content": "老段真的很喜欢用期权来减仓和建仓。今天老段在雪球上透露苹果的持仓被call走了一些，同时近期已经卖了美光的put，然后又准备卖SpaceX、特斯拉、PLTR的Put。",
-      "url": "https://x.com/qinbafrank/status/2080268970482127226",
-      "tweet_id": "2080268970482127226"
-    },
-    {
-      "id": "tweet_qinbafrank_2080253708320006429",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Thu, 23 Jul 2026 11:28:27 GMT",
-      "content": "7月23日韩股：外资连续四天净买入、散户继续投降，去杠杆出现实质进展。今天韩股相比昨天就好很多了， 1、显性融资债务继续实质下降 信用融资余额从前一日的约33.5583万亿韩元降至 33.0420万亿韩元，单日减少约5,163亿韩元，降幅约1.54%，并降至4月10日以来最低水平。显性信用融资已经去掉约5.59万亿韩元，相当于峰值的14.47%。 这是真实资产负债表去杠杆，而不只是股票价格下跌、ETF净值缩水或市值下降。相比7月21日融资余额一度回升，7月22日重新出现5,000亿韩元级别的下降，是一个明确的正面信号。 2、债务下降了，R2略升 信用融资下降约1.54%、投资者存管金却下降约2.64%，现金分母收缩得比债务分子更快。因此最新R2并没有下降，而是上升约 0.36个百分点。 这里需要双向理解。 一方面，个人投资者卖出股票后将资金提离证券账户，说明居民风险偏好正在下降，未来重新融资抄底的潜在弹药减少。这本身也是一种风险退出。 另一方面，对仍持有融资仓位的账户而言，系统内现金缓冲下降意味着可用于补保证金的即时现金减少；市场一旦再次下跌，更容易被迫卖出证券筹资； 可以说绝对债务在改善，但相对现金杠杆尚未改善。真正健康的出清应当是融资下降快于存管金，最终使R2连续回落，而不是只看到两个数字同时下降。 3、今天的资金结构，比此前多次反弹更健康 今天KOSPI市场： 外资净买入 2.1486万亿韩元； 机构净买入 986亿韩元； 个人净卖出 2.2089万亿韩元。 KOSDAQ市场： 外资净买入 1,335亿韩元； 机构净买入 604亿韩元； 个人净卖出 1,982亿韩元。 这和6月底至7月中旬常见的结构正好相反。此前是： 外资和机构卖出 → 散户用现金、融资和杠杆ETF承接 → 风险向居民资产负债表集中。 7月23日则是： 散户卖出 → 外资和机构承接 → 一部分风险从短期、脆弱资金转移给资产负债表更稳健的投资者。 个人投资者已经连续三个交易日在KOSPI净卖出，外资则连续四个交易日净买入。这一结构如果能够连续维持，比指数本身上涨4.4%更有利于形成稳定底部。 看过外资的具体的买入标的： 外资净买入SK海力士约1.3159万亿韩元； 净买入三星电子约0.3504万亿韩元； 两者合计占外资KOSPI净买入约77.6%，外资同时在KOSPI 200期货净卖出约6,570亿韩元。 这说明外资主要是在选择性承接芯片龙头，同时保留了一定指数对冲 4、强平和波动率同时缓和，支持“vol下降式磨底”开始形成 最新未结算交易对应的强制平仓金额，从595亿韩元下降至 149亿韩元，强平占未收款比例从5.7%降至 1.4%。这说明最近一轮超短期信用账户的被迫卖出压力明显缓和。 5、监管去杠杆仍处于第一阶段 目前韩国监管已经生效的措施主要是： 暂停新的单股杠杆、反向和相关产品上市； 禁止券商及资管机构开展广告和活动式营销。 真正约束新增资金的规则尚未生效： 约8月5日起，最低基础存款由1,000万韩元提高到3,000万韩元； 约8月19日起，只认可现金，不再认可股票、债券等替代证券； 11月计划将交易单位由1份提高到20份。 因此截至7月23日观察到的融资下降和个人净卖出，主要仍是市场自身的价格、亏损和风险偏好变化造成的，而不是3,000万韩元现金门槛已经全面发挥作用。 7月23日单股杠杆产品成交占比仍达到40.41%，也说明暂停新产品和禁止营销还不足以立即压低现有产品的交易热度。真正限制反弹中重新加杠杆的政策效果，预计要到8月份才会更清晰。 总之看下来，今天同时出现： 强平金额大幅下降； VKOSPI连续回落； 散户净卖出现货； 外资和机构承接； 上涨市场广度明显改善。 这些是“被迫卖方正在减少”的典型信号，显性融资继续去化，最近一轮强平缓和，弱手开始把现货风险转移给外资和机构，波动率也开始下降。 最后出清更可能以“偶尔急跌测试＋随后vol逐步下降”完成，而不是一定要再出现一次单日大跌的终极崩盘，可以逐步通过融资下降和vol回落完成剩余出清。 看看明天的数据： 如果今天韩股上涨4.4%之后信用融资没有重新增加，甚至继续下降，那么这次反弹的质量会明显高于此前几轮机械性反弹； 反之，若融资余额和杠杆ETF申购迅速回升，则说明市场又在借反弹重新加杠杆。 整体来看，今天真正看到前几天这条推文https://x.com/qinbafrank/status/2079158544147050685?s=20最后的说的，算是本周内出现了企稳的信号。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2080253708320006429",
-      "tweet_id": "2080253708320006429"
     },
     {
       "id": "tweet_xingpt_2080292890329395434",
@@ -205,8 +178,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 6,
+    "users_failed": 2,
     "nitter_healthy": 9
   }
 }
