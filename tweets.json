@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-07-23T20:15:13.529323+00:00",
+  "fetched_at": "2026-07-23T22:06:59.421960+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2080390728228970729",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 23 Jul 2026 20:32:56 GMT",
+      "content": "Just common sense!",
+      "url": "https://x.com/elonmusk/status/2080390728228970729",
+      "tweet_id": "2080390728228970729",
+      "translated": "只是常识！"
+    },
+    {
+      "id": "tweet_elonmusk_2080389505438396555",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 23 Jul 2026 20:28:04 GMT",
+      "content": "Grok 4.5 making progress",
+      "url": "https://x.com/elonmusk/status/2080389505438396555",
+      "tweet_id": "2080389505438396555",
+      "translated": "Grok 4.5 取得进展"
+    },
     {
       "id": "tweet_elonmusk_2080376998367813926",
       "username": "elonmusk",
@@ -13,24 +33,13 @@
       "translated": "真相比小说更离奇"
     },
     {
-      "id": "tweet_elonmusk_2080289014876078537",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 23 Jul 2026 13:48:45 GMT",
-      "content": "RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore found him dead by suicide in his bedroom after constant bullying for being white by \"Asian\" bullies in Birmingham. His family say that Aaron was threatened with a plastic knife by one \"asian\" pupil - who warned him: \"Next time it will be a real one,\" Whites are a minority in Birmingham, England's second largest city. This is the future for all if not reversed.",
-      "url": "https://x.com/elonmusk/status/2080289014876078537",
-      "tweet_id": "2080289014876078537",
-      "translated": "RT @elonmusk：那是 13 年前的事了。 9岁的亚伦·杜格莫尔(Aaron Dugmore)的父母发现他在自己的卧室里自杀身亡，原因是他因自己是白人而在伯明翰经常受到“亚洲”恶霸的欺凌。他的家人说，一名“亚洲”学生用塑料刀威胁亚伦，并警告他：“下次将是真正的”，白人是英格兰第二大城市伯明翰的少数民族。如果不扭转的话，这就是所有人的未来。"
-    },
-    {
-      "id": "tweet_elonmusk_2080361977164304618",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 23 Jul 2026 18:38:41 GMT",
-      "content": "Yes",
-      "url": "https://x.com/elonmusk/status/2080361977164304618",
-      "tweet_id": "2080361977164304618",
-      "translated": "是的"
+      "id": "tweet_cz_binance_2080394519489421372",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 23 Jul 2026 20:47:59 GMT",
+      "content": "👏😁",
+      "url": "https://x.com/cz_binance/status/2080394519489421372",
+      "tweet_id": "2080394519489421372"
     },
     {
       "id": "tweet_cz_binance_2080279259701002381",
@@ -51,16 +60,6 @@
       "url": "https://x.com/cz_binance/status/2080200470321053842",
       "tweet_id": "2080200470321053842",
       "translated": "保持安全！"
-    },
-    {
-      "id": "tweet_cz_binance_2080187109827310034",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 23 Jul 2026 07:03:49 GMT",
-      "content": "RT by @cz_binance: .@Binance is becoming the liquidity hub beyond crypto. Not just for BTC or ETH, but for tokenized real-world assets, TradFi perps, stocks, gold, and 24/7 global market access. The latest DefiLlama research shows why this matters: 📊 Binance’s BTC perp liquidity within 1% of mid-price reached $536M in 2025 🌍 Tokenized RWAs grew from around $5.5B in early 2025 to $25B by mid-2026 🔥 RWA perp volume jumped from $0.23B to $347B, with CEXs holding roughly 80% of activity ⚡ Binance held 55.7% of CEX RWA perp volume and led TradFi perps with 35.9% market share The same rails that made crypto liquid are now being used to bring traditional assets into a 24/7 trading environment. This is how crypto infrastructure starts reshaping global market access.",
-      "url": "https://x.com/cz_binance/status/2080187109827310034",
-      "tweet_id": "2080187109827310034",
-      "translated": "@cz_binance 转发：@Binance 正在成为超越加密货币的流动性中心。不仅适用于 BTC 或 ETH，还适用于代币化的现实世界资产、TradFi Perps、股票、黄金和 24/7 全球市场准入。最新的 DefiLlama 研究表明了这一点的重要性：📊 币安 2025 年中间价 1% 以内的 BTC 永续流动性达到 5.36 亿美元🌍 代币化 RWA 从 2025 年初的约 $5.5B 增长到 2026 年中期的 $25B 🔥 RWA 永续交易量从 $0.23B 跃升至 $347B，中心化交易所持有约 80% ⚡ 币安持有 CEX RWA Perp 交易量的 55.7%，并以 35.9% 的市场份额领先 TradFi Perp。 使加密货币具有流动性的相同轨道现在被用来将传统资产带入 24/7 交易环境。这就是加密基础设施开始重塑全球市场准入的方式。"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -93,6 +92,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2080394259535221222",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 23 Jul 2026 20:46:57 GMT",
+      "content": "From $AMD Advancing AI, channel checks: Helios networking partners told me they expect AMD to pursue CPO for future generations of Helios scale up networking. And expects other hyperscalers + industry to go down the CPO route. One AI infra executive at a company involved in a hyperscaler CPO programs said they had seen no indication of CPO scale up supply chain delays. Pushing back on recent 3rd party delay reports. This was informal commentary, not official AMD or partner guidance.",
+      "url": "https://x.com/aleabitoreddit/status/2080394259535221222",
+      "tweet_id": "2080394259535221222",
+      "translated": "来自 $AMD Advancing AI，渠道检查：Helios 网络合作伙伴告诉我，他们希望 AMD 为未来几代 Helios 扩展网络寻求 CPO。并预计其他超大规模企业+行业将走 CPO 路线。一家参与超大规模 CPO 项目的公司的一位人工智能基础设施高管表示，他们没有看到 CPO 扩大供应链延迟的迹象。反驳最近的第三方延迟报告。这是非正式评论，并非 AMD 或合作伙伴的官方指导。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2080379612736221325",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -111,16 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2080334612807758136",
       "tweet_id": "2080334612807758136",
       "translated": "我有这种感觉，来自 $AMD 的 Lisa 喜欢人工智能。很高兴在活动中见到你们中的一些人！"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2080153334888182065",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 23 Jul 2026 04:49:37 GMT",
-      "content": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). - Prices of some CPU products have risen more than 40% in China since the start of the year from sources. - Month-on-month increases topping 10% for some products CPUs were already a bottleneck, following CPU ratios due to AI inference... But the broader trend of LTAs seems to be appearing from: - Memory, with $MU, Samsung, $SNDK, and SK Hynix signing DRAM/NAND LTAs. - Photonics, with $LITE, $COHR signing EML LTAs. And recent Trendforce reports that $AMD and hyperscalers are now pursuing CW LTAs. And I'm sure there's many more from MLCCs to all the way to substrates. +1 for the bottleneck investors... hard to be a \"bubble that pops\" if you have take or pay demand spanning multiple years.",
-      "url": "https://x.com/aleabitoreddit/status/2080153334888182065",
-      "tweet_id": "2080153334888182065",
-      "translated": "$INTC 和 $AMD 将与中国客户签署 AI DC 的 CPU 长期协议（路透社）。 - 从消息来源来看，今年以来中国部分CPU产品价格上涨超过40%。 - 某些产品的环比增长超过 10% CPU 已经成为瓶颈，因为 AI 推理导致 CPU 比率下降……但 LTA 的更广泛趋势似乎出现在： - 内存，$MU、三星、$SNDK 和 SK Hynix 签署了 DRAM/NAND LTA。 - 光子学，与 $LITE、$COHR 签署 EML 长期协议。最近的 Trendforce 报告称，AMD 和超大规模厂商正在寻求 CW LTA。我确信从 MLCC 到基板，还有更多的产品。对于瓶颈投资者+1...如果你有跨越多年的接受或支付需求，那么很难成为“泡沫”。"
     },
     {
       "id": "tweet_qinbafrank_2080282133600620724",
