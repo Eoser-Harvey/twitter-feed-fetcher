@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-22T23:07:22.452171+00:00",
+  "fetched_at": "2026-07-23T02:54:10.338155+00:00",
   "total": 21,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2080073361343054247",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 22 Jul 2026 23:31:49 GMT",
+      "content": "Easy to make video games with Grok!",
+      "url": "https://x.com/elonmusk/status/2080073361343054247",
+      "tweet_id": "2080073361343054247",
+      "translated": "使用 Grok 轻松制作视频游戏！"
+    },
+    {
+      "id": "tweet_elonmusk_2079875839605473621",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 22 Jul 2026 10:26:57 GMT",
+      "content": "RT by @elonmusk: Three fundamental integrals stand out for their elegant closed forms despite spanning infinite domains. - The Gaussian ∫_{-∞}^{∞} e^{-x²} dx equals √π. - The Lorentzian ∫_{-∞}^{∞} 1/(x² + 1) dx totals π. - The sinc function ∫_{-∞}^{∞} sin(x)/x dx also equals π. These identities, established through techniques such as contour integration, link analysis across mathematics. Engineers apply the sinc integral within the sampling theorem to perfectly reconstruct continuous-time signals from discrete samples in digital communications systems.",
+      "url": "https://x.com/elonmusk/status/2079875839605473621",
+      "tweet_id": "2079875839605473621",
+      "translated": "RT by @elonmusk：尽管跨越了无限的域，但三个基本积分因其优雅的封闭形式而脱颖而出。 - 高斯 ∫_{-∞}^{∞} e^{-x²} dx 等于 √π。 - 洛伦兹 ∫_{-∞}^{∞} 1/(x² + 1) dx 总计 π。 - sinc 函数 ∫_{-∞}^{∞} sin(x)/x dx 也等于 π。这些恒等式是通过轮廓积分等技术建立的，将数学分析联系起来。工程师应用采样定理中的 sinc 积分，从数字通信系统中的离散样本完美地重建连续时间信号。"
+    },
+    {
+      "id": "tweet_elonmusk_2079906440463151129",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 22 Jul 2026 12:28:32 GMT",
+      "content": "RT by @elonmusk: Grok Build just got another powerful plugin: Exa The new Exa plugin brings semantic web search, content extraction and multi-step research directly into Grok Build With Exa, you can: • Search the web semantically instead of relying only on keywords • Filter results across companies, people, news, research papers and financial reports • Extract webpages as clean Markdown • Run structured, multi-step research workflows with deduplicated, cited results Setup is simple: install the plugin, sign in to your Exa account through the browser and start using it No API key is required, and new accounts receive free credits at signup The Grok Build plugin ecosystem keeps expanding Instead of constantly switching between research tools and your development environment, you can bring high-quality web search and content extraction directly into the same AI workflow",
+      "url": "https://x.com/elonmusk/status/2079906440463151129",
+      "tweet_id": "2079906440463151129",
+      "translated": "RT by @elonmusk：Grok Build 刚刚获得了另一个强大的插件：Exa 新的 Exa 插件将语义网络搜索、内容提取和多步骤研究直接带入 Grok Build 中 使用 Exa，您可以： • 以语义方式搜索网络，而不仅仅是依赖关键字 • 过滤公司、人员、新闻、研究论文和财务报告的结果 • 将网页提取为干净的 Markdown • 运行结构化、多步骤的研究工作流程，并删除重复的引用结果 设置很简单：安装插件，登录您的 Exa 帐户通过浏览器并开始使用 不需要 API 密钥，新帐户在注册时即可获得免费积分 Grok Build 插件生态系统不断扩展 您无需不断地在研究工具和开发环境之间切换，您可以将高质量的 Web 搜索和内容提取直接引入同一个 AI 工作流程中"
+    },
     {
       "id": "tweet_cz_binance_2079858930621063438",
       "username": "cz_binance",
@@ -30,36 +60,6 @@
       "url": "https://x.com/cz_binance/status/2079524066503860629",
       "tweet_id": "2079524066503860629",
       "translated": "分享一些没有完全进入《金钱自由》书中的旧照片。所有原始照片。没有人工智能。 2017 年 10 月/11 月左右。抵达东京的币安团队全都盯着手机。在入境处（左），在街上（右）。 1/N"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432",
-      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2068370500334637542",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
-      "content": "RT by @realDonaldTrump: POLL…",
-      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
-      "tweet_id": "2068370500334637542",
-      "translated": "RT @realDonaldTrump：投票……"
     },
     {
       "id": "tweet_aleabitoreddit_2080035769062916479",
@@ -92,6 +92,24 @@
       "translated": "$GOOGL 今天公布收益：每股收益：实际 9.11 美元，预期 2.91 美元 - 散户对每股收益井喷的反应有点只是会计噪音，因为 $SPCX、Anthropic 和其他公司可能是主要贡献者。收入：$119.7B 实际 vs. $116.98B 预期 Google Cloud 收入：$24.77B +82% Y/Y，vs. 63-65% 预期 ($22.2-$22.6B) - 这是迄今为止一个非常大的节拍和最重要的部分。云运营收入：~$8.81B，意味着利润率为 35.6%，而第一季度为 32.9%。资本支出：$44.92B vs ~$44.15B（基本一致）。因此，初步了解谷歌云加速增长并扩大利润率确实有利于人工智能需求。他们之前的 $180-$190B 资本支出指导已经非常大，只要我们在财报电话会议 + 前瞻性预测中绕过这些数字......对于 $LITE 和其他光学/网络行业来说应该是件好事。 （例如，在上一份财报中，他们表示 DC 和网络将占资本支出的 40% 左右）。超大规模企业的盈利记录可能是人工智能资本支出交易中最值得关注的事情。应该会在 3 分钟内完成。"
     },
     {
+      "id": "tweet_qinbafrank_2080086114988421616",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Thu, 23 Jul 2026 00:22:30 GMT",
+      "content": "关于谷歌二季度财报说几个更深入的点：1、官方这一次没有披露谷歌云收入TPU详细占比，但是明确说了“Cloud generates product revenues primarily from the sale of TPU systems”，意味着TPU已经占GCP收入的大多数，而不是 英伟达的GPU，谷歌云妥妥的“英伟达+云算力”的综合体了， 2、谷歌云营收增长82%，营业利润增长212%，营业利润率提高近15个百分点，增量营业利润率超过50%。云业务利润增速远超营收增速，说明营收的增长不是单纯“买设备—低价出租—换收入” 。业绩的质量很高，是当前巨额投资可能获得良好回报的初步证据。 Cloud backlog达到5140亿美元，管理层表示模型和Cloud需求仍然超过可用供给。这说明目前更接近“有需求但容量不足”。 收入加速增长 + backlog继续增长 + 营业利润率扩张。这意味着新增合同大概率仍快于现有合同的收入确认速度。 3、怎么看资本支出的回报周期 谷歌披露，数据中心项目通常是多年建设项目，许多资产从购买到投入使用可能需要数月甚至数年。2026年二季度的449亿美元Capex，大量可能尚未产生二季度收入；二季度82%的Cloud增长，主要是过去几年资本投入逐渐投产的结果。 2024—2027年累计AI投资，对2026—2030年新增税后经营利润和现金流的贡献，才是一个完整的资本回报周期。 4、资本开支不会降 财报前就说到资本开支不会降，核心逻辑这是一场军备竞赛，谁降谁落后。 特别是看到需求快速增长之后，更不会降，还要加码，利好算力产业链。 当然也是市场担心的来源： 1）当下经营现金流增长速度，远远赶不上资本开支增长速度； 2）现金不仅不能用于回购，还可能需要发行新股融资，这会同时影响企业价值和每股价值。 3）负FCF以及Capex远高于折旧，意味着未来多年折旧和利润率逆风仍在形成，折旧压力还没有完全进入利润表 5、商业模式的改变 Alphabet正在从近乎资产轻型的搜索广告平台，转向资本更重、回收周期更长的AI平台与hyperscaler。可以说是 “高毛利广告平台＋垂直一体化AI hyperscaler＋部分AI公用事业属性” 它既不是过去那种近乎纯资产轻的软件广告公司，也不是没有差异化的IDC机房运营商 这其实是商业模式的改变，早在年初https://x.com/qinbafrank/status/2073977737182912631?s=46&t=k6rimWsEbo2D2tXolYcM-A就有聊过这一点，商业模式变化自然估值模式也要变化。但这里的关键是AI和Cloud的增量ROIC未来是低于还是高于历史Search业务？ 如果谷歌的AI和云的增量ROIC低于历史Search业务、并且现金转化率长期下降，那么相对于纯Search时代，估值合理倍数应该压缩。但二季度Cloud 35.6%的利润率和约54%的增量营业利润率说明，资本回报可能仍然很高，只是这个势头刚刚开始、市场也没有完全确认。 所以如果谷歌的AI和云的增量ROIC确认高于历史Search业务、并且现金转化率还能保持甚至提升，那么相对于纯Search时代，估值倍数还能保持。 未来的估值框架： 从过去的“搜索广告增长多少、利润率多少”，转向“AI增长需要投入多少资本、这些资本能产生多少税后现金回报”。 6、还有Gemini Gemini/agentic coding缺乏进展，这也市场最关心的一点，谷歌相比微软、亚马逊等其他超大csp的估值高的很重要的一点是谷歌也是前沿大模型的领军者，也是支撑估值的一个很重要因素。现在Gemini最新一代推迟，自然会有担心。 但整体来说，谷歌二季度已经看到明显的业务拐点，而不仅仅是“增速数字好看”。",
+      "url": "https://x.com/qinbafrank/status/2080086114988421616",
+      "tweet_id": "2080086114988421616"
+    },
+    {
+      "id": "tweet_qinbafrank_2080095442055172505",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Thu, 23 Jul 2026 00:59:34 GMT",
+      "content": "R to @qinbafrank: 关于第一点修正下：谷歌云的营收里，把收入分成两大类： 1. Services revenues（服务收入） 主要来自客户“租用”云服务的费用，比如按量付费使用 GCP 计算、存储、网络，或者订阅 Workspace 等。这是谷歌云一直以来的主要收入来源。 2. Product revenues（产品收入） 主要来自直接销售 TPU 系统（硬件）。 也就是说，谷歌把完整的 TPU 服务器/系统卖给客户，让客户安装到自己的数据中心里使用，而不是只在谷歌的云上租用。 谷歌云产品收入绝大部分来自tpu、不过产品收入占26年整体营收还在少数，27年会放量，现在大头还是云服务收入。多谢@tig88411109 老师的提示，我理解有误。",
+      "url": "https://x.com/qinbafrank/status/2080095442055172505",
+      "tweet_id": "2080095442055172505"
+    },
+    {
       "id": "tweet_qinbafrank_2080048847603302621",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -100,24 +118,6 @@
       "url": "https://x.com/qinbafrank/status/2080048847603302621",
       "tweet_id": "2080048847603302621",
       "translated": "谷歌二季度财报，先说最受关注的： 1）谷歌云248亿美金，同比增速82%，比我之前最乐观73%的增速还高了9个点，36%的利润率； 2）季度自由现金流 - 58.55 亿美元，由正转负，短期大量投入压制现金回报。 3）上调2026全年资本开支指引至1950亿~2050亿美元，之前是1800亿~1900亿美元。预计2027年的资本支出将显着增加； 4）现金储备+有价证券合计2424.74 亿美元，资金储备充足； 5）营收1198亿美元，同比增长24%；稀释后EPS9.11美元（有股权收益的扰动）。 Google 搜索及其他业务增长 17%，Google 订阅、平台和设备业务增长 15%，略低于预期。 怎么看这份财报？ 1）最核心还是谷歌云业务，Cloud没有因为一季度63%的高基数而减速，反而继续加速至82%。已经在快速成为决定公司整体增长和估值框架的核心业务。 这是明显的业务拐点，而不仅仅是“增速数字好看”。 2）资本开支继续提升，就像周二晚上这里https://x.com/qinbafrank/status/2079580882864930846?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到的：在当下AI军备竞赛大背景下，capex是不会降的，谁降谁落后 3）当然capex的提升，带来的自由现金流转负，二季度fcf已经是-59亿美金。如果说市场担心当然是担心这里，26年上调、27年也要上调，基本上之后两个季度fcf也不容乐观，市场的担心也是源于此、盘后📉也是跌的这部分。 4）capex上修，半导体产业链那还是受益的。 这其实是一个时间差：企业要为未来的战略投资布局，钱得先往外花，花钱速度还在加速，虽然还没回本但赚钱效应和速度已经明显起来了还在加速。"
-    },
-    {
-      "id": "tweet_qinbafrank_2079881198659391690",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 22 Jul 2026 10:48:14 GMT",
-      "content": "7月22日韩股，高开低走的背后：外资继续买入、散户继续投降，但安全垫下降。昨天推文的最后说“韩股去杠杆出现了可喜的进展，但是情绪和产品化杠杆尚未完成出清可能会有些反复”。今天反复就来了，早上高开上午反弹下午全线泄掉，这种“强开弱收”说明反弹过程中仍有很重的获利了结、风险控制和仓位减持压力。 1、显性信用融资累计去掉13.1%，但最7月21数据出现反弹。最重要的恶化是存管金一天减少5.83万亿，R2重新升至31.45%。 债务略增，现金大降，剩余融资头寸相对于可动用账户现金重新变重。 2、7月21日，未结算交易对应的强制平仓金额达到596亿韩元，高于7月20日的528亿韩元，连续两个交易日保持在500亿韩元以上，也是7月10日816亿韩元以来的最高水平。 更重要的是，强平金额占未结算款的比例从： 7月16日：1.1% 7月20日：4.6% 7月21日：5.7% 呈现持续上升 虽然还未出现全面踩踏式爆仓，但从1.1%上升到5.7%，说明超短期信用交易的被动处理压力正在快速增加。 意味着高压强平仍在进行，但尚未形成一次性终极出清。 3、散户继续投降，外资继续买入 1）7月22日韩国个人投资者： 净卖出SK海力士多头杠杆ETF约334亿韩元； 净卖出三星电子多头杠杆ETF约587亿韩元； 两者合计净卖出约921亿韩元； 同时净买入SK海力士反向两倍ETF约357亿韩元。 而且三星电子和SK海力士多头杠杆ETF已经连续两个交易日被个人投资者净卖出。 多头杠杆开始实质性降温，但还不是产品杠杆全面出清，而是从单边做多逐渐转向多空高频博弈。 2) 7月22日KOSPI外资净买入2.6311万亿韩元 SK海力士净买入约1.2563万亿韩元； 三星电子净买入约0.5834万亿韩元； 两者合计约1.8397万亿韩元； 占外资全部KOSPI净买入约 69.9%。 因此外资并不是无差别买入韩国全市场，而是高度集中承接两只半导体龙头。 整体来看 外资选择性抄底半导体龙头，国内机构继续降低风险，散户从KOSPI现货和多头杠杆ETF撤出一部分资金， 个人卖出、外资买入，意味着部分风险从居民部门转移给全球机构，通常比“外资和机构共同卖、散户单独抄底”的结构更健康。 可以给一个结论是： 韩股处于第四阶段中后部的高波动反复去杠杆，而不是最终出清阶段。 当然今天亚洲股市整体走弱也与宏观环境有一定关系 https://x.com/qinbafrank/status/2079832563527684189?s=20：债油汇还在往上拉升产生的压力，这里核心还是油价。当然也有谷歌财报前的避险 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2079881198659391690",
-      "tweet_id": "2079881198659391690"
-    },
-    {
-      "id": "tweet_qinbafrank_2079832563527684189",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 22 Jul 2026 07:34:59 GMT",
-      "content": "亚洲股市下午都泄了，看起来昨晚说的后三点债油汇还在往上拉升产生的压力，这里核心还是油价。当然也要谷歌财报前的避险",
-      "url": "https://x.com/qinbafrank/status/2079832563527684189",
-      "tweet_id": "2079832563527684189"
     },
     {
       "id": "tweet_xiaomustock_2079801442282734061",
@@ -174,31 +174,31 @@
       "tweet_id": "2079866596198330759"
     },
     {
-      "id": "tweet_hibtc37_2079936211498721697",
+      "id": "tweet_hibtc37_2080104491177951303",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Wed, 22 Jul 2026 14:26:50 GMT",
-      "content": "$CBRS 盯他很久了，今晚爆拉轧空，那我还不空他，就等着他这招了，火速平了SPCX，但手速还是来不及，只吃到一点，试水买个put，目前IV太高，流动性不好，29张成交有11张是我的… 小额试试吧，主要看看能不能开辟新交易方式",
-      "url": "https://x.com/hibtc37/status/2079936211498721697",
-      "tweet_id": "2079936211498721697"
+      "published_at": "Thu, 23 Jul 2026 01:35:31 GMT",
+      "content": "$TSLA 财报超预期，股价跌，顶不住了 TSLA我从2013年开始买的，一直赚钱，聊下他昨晚财报吧 估计很多人顶不住了，要投降了。投资人顶着1.4万亿市值，346倍市盈率，错过大半年，不是为了看卖车的数据多么漂亮的，造车长远看肯定会被中国制造吊打，FSD短期是优势，但随着AI发展，也会被中国追平/缩小差距 储能业务是个容易摘的桃子，但机器人落地，还是遥遥无期，Robotaxi还是非常早期，资本开支增大，现金流恶化，加上今年也是SPCX探底年，今年对于TSLA投资人很不友好，之前捧马斯克的，也会踩 所以，TSLA投资人肯定要投降一波了，那也意味着未来半年到一年会出现建仓机会",
+      "url": "https://x.com/hibtc37/status/2080104491177951303",
+      "tweet_id": "2080104491177951303"
     },
     {
-      "id": "tweet_hibtc37_2079876557800395149",
+      "id": "tweet_hibtc37_2080098358996398252",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Wed, 22 Jul 2026 10:29:48 GMT",
-      "content": "$GOOG Gemini每天都限制我pro的用量（fable 5也同样），能看出算力非常紧缺，想在今晚谷歌财报看到降低资本开支的描述是不太可能的，这是需求端决定的 但对于半导体板块，预期拉到极满，已经计价了这些利好，叠加近期回调30%左右去了杠杆和宏观风险，这次谷歌财报即使超预期，对于半导体依然是分歧极大的一次，所以昨天预测会出现逼空和多空双爆的局面 市场对半导体一致性过高，并且价格跑到了AI落地之前，整个美股科技股实际上是处于周线级别的回调当中，那么就需要非常大的震荡洗盘，才能让市场对半导体回归理性和合理的估值 对于半导体，逢高减仓或者空，跌多了做反弹，可能是不错的策略，短期想要回到单边牛趋势可能很难，因为去杠杆的资金是直接归零和消息的钱/信用，同时，这对市场的信心冲击是很大的，如果牛市还在，那么需要时间去修复",
-      "url": "https://x.com/hibtc37/status/2079876557800395149",
-      "tweet_id": "2079876557800395149"
+      "published_at": "Thu, 23 Jul 2026 01:11:09 GMT",
+      "content": "$GOOG 财报全方面完美，就是股价给我跌！ 谷歌资本开支继续提升，我之前一直讲AI是军备竞赛，明年整个赛道美国大科技开支会破2万亿，算力非常缺，而且这是需求端旺盛导致 谷歌云爆发式增长，营收超预期，走ASIC路线是正确的，这也是未来趋势 AI日活9.5亿，这已经是非常庞大的数据了 老业务广告依然增长牛逼 但是！股价跌2-3%，市场还是非常短视和愚蠢的，随着加息预期不断加强，谷歌未来会迎来非常好建仓时机 我更关心的是半导体，对谷歌这份财报的反应。之前 $ASML $TSM 等多份财报都证明了AI基本面没有问题，财报出半导体都是跪，但我看存储板块昨晚也就涨了3-4%，如果美光今晚连1000都不破或者没法稳住，赶紧提桶跑路啊。 那么未来1-3个月，逢高空，跌深抓反弹，就是存储板块最佳策略。存储价格已经吃到2028年了，这需要大震荡探底，才有可能在明年创出新高，否则今年的高点就是顶了，当前是非常明显机构派发出货，而机构一旦派发，这不是一个月就能完成的事情 存储板块这两年涨幅逆天，去杠杆就跌40%，如果真探底找支撑，获利盘出逃，会跌到妈都不认识，从赔率上看，真不如跌了50%多的加密板块 谷歌真是AI时代的王者级别玩家，如果是大资金，看好AI，这是最稳的策略",
+      "url": "https://x.com/hibtc37/status/2080098358996398252",
+      "tweet_id": "2080098358996398252"
     },
     {
-      "id": "tweet_hibtc37_2079747151505351013",
+      "id": "tweet_hibtc37_2080082689953329618",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Wed, 22 Jul 2026 01:55:35 GMT",
-      "content": "bitcoin:native 大饼和姨太这走势，应该是清晰法案的预期/内幕炒作，最终大概率结果： 1、通过，浇给 2、没通过，浇给 这是一次非常好的逼空机会，也是熊市里，为数不多可以洗筹的好机会，包括加密概念CRCL COIN等同理 如果，这是牛回，打脸，我就反手，但概率很低很低😆",
-      "url": "https://x.com/hibtc37/status/2079747151505351013",
-      "tweet_id": "2079747151505351013"
+      "published_at": "Thu, 23 Jul 2026 00:08:54 GMT",
+      "content": "$CBRS 期权24%，合约17%，期权试水成功，收益还是吊打3倍做空合约啊！ 不过风险程度不一样，现在IV和Theta都太高，我今晚就要平掉PUT，合约我可以拿到新低，最后收益还是合约高，而且是几乎0费率做空。期权的择时开仓和平仓是关键，合约只需要方向对就行。 平掉的 $SPCX昨天又跌了6%，真是泥沙俱下啊 #海力士 做空还在浮亏，死磕中，费率太高，受不了，设定了小赚就跑的止盈单，以后取关，变态的费率可能要到7月29日后才恢复正常，撸费率的人爽死，如果你买了韩国海力士，直接合约开空，套费率，这是当前最牛的无风险套利（除了汇率），吊打99.99%量化公司",
+      "url": "https://x.com/hibtc37/status/2080082689953329618",
+      "tweet_id": "2080082689953329618"
     }
   ],
   "stats": {
