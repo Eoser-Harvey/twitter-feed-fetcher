@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-24T18:21:18.975991+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-24T20:22:47.833062+00:00",
+  "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2080707591127134689",
+      "id": "tweet_elonmusk_2080547884726919201",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 24 Jul 2026 17:32:02 GMT",
-      "content": "Madness",
-      "url": "https://x.com/elonmusk/status/2080707591127134689",
-      "tweet_id": "2080707591127134689",
-      "translated": "疯狂"
+      "published_at": "Fri, 24 Jul 2026 06:57:25 GMT",
+      "content": "RT by @elonmusk: The Economist Elon Musk July 23rd 2026",
+      "url": "https://x.com/elonmusk/status/2080547884726919201",
+      "tweet_id": "2080547884726919201",
+      "translated": "RT @elonmusk：《经济学人》埃隆·马斯克 2026 年 7 月 23 日"
     },
     {
-      "id": "tweet_elonmusk_2080707240391020766",
+      "id": "tweet_elonmusk_2080711105349906786",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 24 Jul 2026 17:30:38 GMT",
-      "content": "Yup 😑",
-      "url": "https://x.com/elonmusk/status/2080707240391020766",
-      "tweet_id": "2080707240391020766",
-      "translated": "是的😑"
+      "published_at": "Fri, 24 Jul 2026 17:45:59 GMT",
+      "content": "RT by @elonmusk: New Pareto Frontier: Grok 4.5, SWE-1.7 and Opus 5. Intelligence per $ will be the only metric that matters over time. K3 probably joins the frontier once available on the inference clouds.",
+      "url": "https://x.com/elonmusk/status/2080711105349906786",
+      "tweet_id": "2080711105349906786",
+      "translated": "RT @elonmusk：新帕累托前沿：Grok 4.5、SWE-1.7 和 Opus 5。随着时间的推移，每美元的智能将是唯一重要的指标。一旦在推理云上可用，K3 可能会跻身前沿。"
     },
     {
-      "id": "tweet_elonmusk_2080706813662482472",
+      "id": "tweet_elonmusk_2080686579400765517",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 24 Jul 2026 17:28:56 GMT",
-      "content": "That’s what he said",
-      "url": "https://x.com/elonmusk/status/2080706813662482472",
-      "tweet_id": "2080706813662482472",
-      "translated": "他是这么说的"
+      "published_at": "Fri, 24 Jul 2026 16:08:32 GMT",
+      "content": "RT by @elonmusk: Welcome @jensenhuang 💚 The future of AI leadership needs both frontier closed models and frontier open models.",
+      "url": "https://x.com/elonmusk/status/2080686579400765517",
+      "tweet_id": "2080686579400765517",
+      "translated": "RT @elonmusk：欢迎@jensen Huang 💚 人工智能领导力的未来既需要前沿封闭模型，也需要前沿开放模型。"
     },
     {
       "id": "tweet_cz_binance_2080560984930877858",
@@ -108,7 +108,7 @@
       "content": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). There's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\". Most interesting take was: \"Pluggables will be around for the next 10 years\". There's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay. And that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). As for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. From the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. So it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light. But TLDR: Lot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
       "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
       "tweet_id": "2080445777395298454",
-      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM 大麻化的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模较大（这对于 $JBL + 其他玩家来说是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
+      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM cannablization 的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模更大（对于 $JBL + 其他玩家来说这是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
     },
     {
       "id": "tweet_aleabitoreddit_2080394309845860668",
@@ -175,6 +175,33 @@
       "tweet_id": "2080303930479972472"
     },
     {
+      "id": "tweet_xingpt_2080661956483277221",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Fri, 24 Jul 2026 14:30:41 GMT",
+      "content": "新时代四大名著",
+      "url": "https://x.com/xingpt/status/2080661956483277221",
+      "tweet_id": "2080661956483277221"
+    },
+    {
+      "id": "tweet_xingpt_2080585169388683471",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Fri, 24 Jul 2026 09:25:34 GMT",
+      "content": "如何证明自己的孩子有没有数学天赋？有人回答：当你问出这个问题的时候，就说明没有。",
+      "url": "https://x.com/xingpt/status/2080585169388683471",
+      "tweet_id": "2080585169388683471"
+    },
+    {
+      "id": "tweet_xingpt_2080495800485085461",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Fri, 24 Jul 2026 03:30:27 GMT",
+      "content": "就连菲尔茨奖大神上网都会被喷不懂数学",
+      "url": "https://x.com/xingpt/status/2080495800485085461",
+      "tweet_id": "2080495800485085461"
+    },
+    {
       "id": "tweet_hibtc37_2080668575371772346",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -203,8 +230,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 9
   }
 }
