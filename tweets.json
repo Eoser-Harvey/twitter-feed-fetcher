@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-24T10:21:34.779421+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-24T12:21:37.857072+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2080342038113890604",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 23 Jul 2026 17:19:27 GMT",
-      "content": "RT by @elonmusk: CAISI’s latest report shows that Kimi K3 remains behind America’s leading frontier AI models. The United States continues to lead in frontier AI because we’re home to the greatest innovators and technologists the world has ever seen.",
-      "url": "https://x.com/elonmusk/status/2080342038113890604",
-      "tweet_id": "2080342038113890604",
-      "translated": "RT @elonmusk：CAISI 最新报告显示 Kimi K3 仍然落后于美国领先的前沿人工智能模型。美国继续在前沿人工智能领域处于领先地位，因为我们拥有世界上最伟大的创新者和技术专家。"
-    },
-    {
-      "id": "tweet_elonmusk_2080507561447743915",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 24 Jul 2026 04:17:11 GMT",
-      "content": "RT by @elonmusk: A guy followed a mother around with his camera while she tried to get away from him and told her to say “nigger” over and over, and when she finally does it that’s apparently a crime. Completely absurd and unacceptable. She must appeal and we must fund it. No magic word crimes.",
-      "url": "https://x.com/elonmusk/status/2080507561447743915",
-      "tweet_id": "2080507561447743915",
-      "translated": "RT @elonmusk：一名男子拿着相机跟着一位母亲，而她试图摆脱他，并让她一遍又一遍地说“黑鬼”，当她最终这样做时，这显然是一种犯罪。完全荒谬且不可接受。她必须上诉，我们必须提供资金。没有魔法词犯罪。"
-    },
-    {
-      "id": "tweet_elonmusk_2080568307678085122",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 24 Jul 2026 08:18:34 GMT",
-      "content": "Soon, this will happen to your town",
-      "url": "https://x.com/elonmusk/status/2080568307678085122",
-      "tweet_id": "2080568307678085122",
-      "translated": "很快，这将发生在你的城镇"
-    },
     {
       "id": "tweet_cz_binance_2080560984930877858",
       "username": "cz_binance",
@@ -98,7 +68,7 @@
       "content": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). There's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\". Most interesting take was: \"Pluggables will be around for the next 10 years\". There's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay. And that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). As for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. From the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. So it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light. But TLDR: Lot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
       "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
       "tweet_id": "2080445777395298454",
-      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM 大麻化的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模较大（这对于 $JBL + 其他玩家来说是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
+      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM cannablization 的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模更大（对于 $JBL + 其他玩家来说这是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
     },
     {
       "id": "tweet_aleabitoreddit_2080394309845860668",
@@ -231,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 9
   }
 }
