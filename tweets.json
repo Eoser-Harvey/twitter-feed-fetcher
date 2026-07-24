@@ -1,7 +1,56 @@
 {
-  "fetched_at": "2026-07-24T07:34:12.797238+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-24T10:21:34.779421+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2080342038113890604",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 23 Jul 2026 17:19:27 GMT",
+      "content": "RT by @elonmusk: CAISI’s latest report shows that Kimi K3 remains behind America’s leading frontier AI models. The United States continues to lead in frontier AI because we’re home to the greatest innovators and technologists the world has ever seen.",
+      "url": "https://x.com/elonmusk/status/2080342038113890604",
+      "tweet_id": "2080342038113890604",
+      "translated": "RT @elonmusk：CAISI 最新报告显示 Kimi K3 仍然落后于美国领先的前沿人工智能模型。美国继续在前沿人工智能领域处于领先地位，因为我们拥有世界上最伟大的创新者和技术专家。"
+    },
+    {
+      "id": "tweet_elonmusk_2080507561447743915",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 24 Jul 2026 04:17:11 GMT",
+      "content": "RT by @elonmusk: A guy followed a mother around with his camera while she tried to get away from him and told her to say “nigger” over and over, and when she finally does it that’s apparently a crime. Completely absurd and unacceptable. She must appeal and we must fund it. No magic word crimes.",
+      "url": "https://x.com/elonmusk/status/2080507561447743915",
+      "tweet_id": "2080507561447743915",
+      "translated": "RT @elonmusk：一名男子拿着相机跟着一位母亲，而她试图摆脱他，并让她一遍又一遍地说“黑鬼”，当她最终这样做时，这显然是一种犯罪。完全荒谬且不可接受。她必须上诉，我们必须提供资金。没有魔法词犯罪。"
+    },
+    {
+      "id": "tweet_elonmusk_2080568307678085122",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 24 Jul 2026 08:18:34 GMT",
+      "content": "Soon, this will happen to your town",
+      "url": "https://x.com/elonmusk/status/2080568307678085122",
+      "tweet_id": "2080568307678085122",
+      "translated": "很快，这将发生在你的城镇"
+    },
+    {
+      "id": "tweet_cz_binance_2080560984930877858",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Fri, 24 Jul 2026 07:49:28 GMT",
+      "content": "For long term holding, when is the best entry point? during the bull or bear market?",
+      "url": "https://x.com/cz_binance/status/2080560984930877858",
+      "tweet_id": "2080560984930877858",
+      "translated": "对于长期持有，什么时候是最佳切入点？在牛市还是熊市期间？"
+    },
+    {
+      "id": "tweet_cz_binance_2080557894173336012",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Fri, 24 Jul 2026 07:37:11 GMT",
+      "content": "《经济日报》 摘: 法官:\"我看了你每一封支持信,因为我想真正了解你这个人。我很少,或者说从未见到,这么多正面的信件……也说你帮助他人,做了很多包括币安慈善在内的慈善行为,帮助了全球数百万人……你勇于承担责任,生活简朴,关心家人和世界。这些都对判决有正面影响。\" https://money.udn.com/money/story/122332/9631982-",
+      "url": "https://x.com/cz_binance/status/2080557894173336012",
+      "tweet_id": "2080557894173336012"
+    },
     {
       "id": "tweet_cz_binance_2080394519489421372",
       "username": "cz_binance",
@@ -10,26 +59,6 @@
       "content": "👏😁",
       "url": "https://x.com/cz_binance/status/2080394519489421372",
       "tweet_id": "2080394519489421372"
-    },
-    {
-      "id": "tweet_cz_binance_2080279259701002381",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 23 Jul 2026 13:09:59 GMT",
-      "content": "Sad to see BitMex go. Some thoughts: BitMex pioneered 100x perps in crypto back in 2014. Delivery futures existed before then, making Fridays hectic. BTC deposits only, one chain only, withdrawals only once per day, through a multi-sig wallet. The constraints that seemed inconvenient kept them unhacked. All four founders pled guilty to BSA violations a month before trial, after 18 months of fighting it. $10m fine each, home confinement. No one went to prison. However, their business didn’t survive the “war on crypto” from the Biden admin. Lastly, wind down appears orderly, users can withdrawals their assets. Respect to @CryptoHayes 🫡",
-      "url": "https://x.com/cz_binance/status/2080279259701002381",
-      "tweet_id": "2080279259701002381",
-      "translated": "很遗憾看到 BitMex 消失。一些想法：BitMex 早在 2014 年就在加密领域率先推出了 100 倍的永续收益。在此之前就存在交割期货，这使得周五变得忙碌。仅限 BTC 存款，仅限一条链，每天只能通过多重签名钱包提款一次。看似不便的限制使他们无法受到攻击。经过 18 个月的抗争后，四位创始人在审判前一个月承认违反 BSA 行为。每人罚款 1000 万美元，居家隔离。没有人入狱。然而，他们的业务并没有在拜登政府的“加密货币战争”中幸存下来。最后，清算有序进行，用户可以提取资产。尊重@CryptoHayes 🫡"
-    },
-    {
-      "id": "tweet_cz_binance_2080200470321053842",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 23 Jul 2026 07:56:55 GMT",
-      "content": "Stay SAFU!",
-      "url": "https://x.com/cz_binance/status/2080200470321053842",
-      "tweet_id": "2080200470321053842",
-      "translated": "保持安全！"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -69,7 +98,7 @@
       "content": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). There's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\". Most interesting take was: \"Pluggables will be around for the next 10 years\". There's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay. And that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). As for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. From the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. So it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light. But TLDR: Lot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
       "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
       "tweet_id": "2080445777395298454",
-      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM cannablization 的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模更大（对于 $JBL + 其他玩家来说这是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
+      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM 大麻化的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模较大（这对于 $JBL + 其他玩家来说是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
     },
     {
       "id": "tweet_aleabitoreddit_2080394309845860668",
@@ -92,6 +121,15 @@
       "translated": "来自 $AMD Advancing AI，渠道检查：Helios 网络合作伙伴告诉我，他们希望 AMD 为未来几代 Helios 扩展网络寻求 CPO。并预计其他超大规模企业+行业将走 CPO 路线。一家参与超大规模 CPO 项目的公司的一位人工智能基础设施高管表示，他们没有看到 CPO 扩大供应链延迟的迹象。反驳最近的第三方延迟报告。这是非正式评论，并非 AMD 或合作伙伴的官方指导。"
     },
     {
+      "id": "tweet_qinbafrank_2080596296017322482",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Fri, 24 Jul 2026 10:09:47 GMT",
+      "content": "Bitwise首席投资官说“下一个加密货币牛市将由稳定币、代币化、24/7 交易、即时结算以及机构DeFi规模化至万亿美元级别驱动。”非常认可！去年底当时币市群体里传播的都是虚无化的言论，当时就聊过，很期待： “现实资产上链后带来的defi大爆发； 链上优质资产更多后衍生化玩法； AI与crypto结合的真正改变，智能体经济时代的到来； 稳定币能真正成为全球支付结算层的角色。” 其实到现在大家已经感受这个趋势正在快速发展：代币化、RWA、资产融合会比我们想象的更快速度快速发展，当然最终也只是一部分在这个方向上的资产会受益。 代币化RWA趋势下的受益资产、在我的视野里是这些： $coin $hood $crcl $eth $bnb $sol $okb $hype $aave $sky 大家以为如何?",
+      "url": "https://x.com/qinbafrank/status/2080596296017322482",
+      "tweet_id": "2080596296017322482"
+    },
+    {
       "id": "tweet_qinbafrank_2080540272245502111",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -108,15 +146,6 @@
       "content": "6月18号议息会议沃什首秀当时言论很鹰，很多人说因为沃什放鹰、又不给前瞻指引、美国发债多，利率一定要上行。这两天长债收益率确实起来了，然后就说你看我说对了吧。但问题是最近几个月收益率最直接的相关的还是油价：油价跌收益率下行，油价涨收益率上行。如果之前认为利率要上行的分析里没有提到任何油价的因素，那是不是也说明推演分析的逻辑框架其实略有问题🤔",
       "url": "https://x.com/qinbafrank/status/2080455283319660801",
       "tweet_id": "2080455283319660801"
-    },
-    {
-      "id": "tweet_qinbafrank_2080282133600620724",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Thu, 23 Jul 2026 13:21:25 GMT",
-      "content": "晚上布油快摸到100，十年美债收益率突破4.7%，美元指数再度站上101。如7月21号晚上聊到的“短期内几个资产各按各的逻辑走其实没问题，但中期这样一定会出问题”。 风险资产上，韩股去杠杆接有可喜进展如今天https://x.com/qinbafrank/status/2080253708320006429?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到。 谷歌的财报确认AI需求继续飙升，同时资本开支提升、自由现金流转负还是会让市场短期有所担心https://x.com/qinbafrank/status/2080086114988421616?s=46&t=k6rimWsEbo2D2tXolYcM-A。 但是宏观环境的恶化，会让市场在短期内同时面对三种压力： 1）油价上涨，推高通胀预期； 2）美债收益率上行，压低股票估值； 3）美元走强，抽紧全球流动性。 说实话，个人角度近期市场不容乐观，相当于风险资产的去杠杆还没完全出清，但是宏观层面的压制迎面而来。 如果布油突破100美油站稳90、10年期美债收益率站稳4.7%、美元继续在101上方，纳指所代表的大科技会成为压力最大的地方，黄金也会被迫继续承压。 还是之前聊到的这里的核心关键还是油价，油价不回落宏观风险压制很难解除。 但是霍尔木兹海峡开辟新航线的失利、美军士兵的死亡，短期川普很难说立马转向。可能他需要感受到市场的极度悲观和压力才能退让。 就像之前这里https://x.com/qinbafrank/status/2076185072613597214?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到的： “川普可能还没接受一个残酷的现实：已经无法将霍尔木兹海峡恢复战前的状态，还要时不时展现强硬，安抚国内的反对声音和情绪，为支持率和大选。” “美国拥有绝对空中和远程打击优势，但伊朗依然保留了足以制造全球能源冲击的非对称能力。对川普来说，要么变相买回海峡的国际航权（给伊朗支付巨额资金让伊朗放弃控制权），要么彻底摧毁伊朗政权和军事实力（现在看起来川普也无意到这一步）。” 会是哪一种，彻底退让认清现实？还是变相买断？抑或更强硬出手进一步升级以期军事解决？",
-      "url": "https://x.com/qinbafrank/status/2080282133600620724",
-      "tweet_id": "2080282133600620724"
     },
     {
       "id": "tweet_xiaomustock_2080505226398994837",
@@ -146,6 +175,15 @@
       "tweet_id": "2080303930479972472"
     },
     {
+      "id": "tweet_xingpt_2080585169388683471",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Fri, 24 Jul 2026 09:25:34 GMT",
+      "content": "如何证明自己的孩子有没有数学天赋？有人回答：当你问出这个问题的时候，就说明没有。",
+      "url": "https://x.com/xingpt/status/2080585169388683471",
+      "tweet_id": "2080585169388683471"
+    },
+    {
       "id": "tweet_xingpt_2080495800485085461",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -165,45 +203,36 @@
       "translated": "图像"
     },
     {
-      "id": "tweet_xingpt_2080292890329395434",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 23 Jul 2026 14:04:09 GMT",
-      "content": "王虹牛逼",
-      "url": "https://x.com/xingpt/status/2080292890329395434",
-      "tweet_id": "2080292890329395434"
-    },
-    {
-      "id": "tweet_hibtc37_2080508196058476973",
+      "id": "tweet_hibtc37_2080583121708453903",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Fri, 24 Jul 2026 04:19:42 GMT",
-      "content": "MU短期还是要跪",
-      "url": "https://x.com/hibtc37/status/2080508196058476973",
-      "tweet_id": "2080508196058476973"
+      "published_at": "Fri, 24 Jul 2026 09:17:26 GMT",
+      "content": "英伟达财报完美，股价跌，到最近的阿斯麦、台积电、三星、谷歌、特斯拉、英特尔...复制了同样走法，财报炸裂，股价炸跌，足以见到获利盘是多么丰厚，资金打的多满，后面的超威和海力士财报，已经不用看了 AI的未来很革命，半导体的股价很要命！ 从周线上看，很多半导体要进入熊市迹象，明显的高位派发，否则这需要一段时间震荡和出清，才有可能情绪回复和资金恢复 结合这次谷歌财报对半导体算是史诗级利好，MU没有站上1000，海力士还是被杠杆折磨的死去活来，很显然是机构提桶跑路了，这样搞法，抛物线上涨，很容易抛物线下跌，这波真被Dram搞亏麻了 未来逢高空，一直到探底，再反手，可能是个好方向，看看能不能回点血。如果长期看好的标的就卖put，在跌了30-40%的幅度后是个不错策略 当前的投资主线AI价格拉满，科技公司财报完美大跌，大科技也和山寨币一样猛猛跌，那种闭眼买指数和大科技，躺着就能赚钱的日子，过去了，在沃什时代，这是一个新的研究命题",
+      "url": "https://x.com/hibtc37/status/2080583121708453903",
+      "tweet_id": "2080583121708453903"
     },
     {
-      "id": "tweet_hibtc37_2080506718514299006",
+      "id": "tweet_hibtc37_2080563209065693520",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Fri, 24 Jul 2026 04:13:50 GMT",
-      "content": "特斯拉这现金流情况，很快就要砸比特币了！@grok 查一下他的BTC持有成本",
-      "url": "https://x.com/hibtc37/status/2080506718514299006",
-      "tweet_id": "2080506718514299006"
+      "published_at": "Fri, 24 Jul 2026 07:58:18 GMT",
+      "content": "BN公开的，但今天目标哥隐藏了一些信息",
+      "url": "https://x.com/hibtc37/status/2080563209065693520",
+      "tweet_id": "2080563209065693520"
     },
     {
-      "id": "tweet_hibtc37_2080504669831577719",
+      "id": "tweet_hibtc37_2080563334777299271",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Fri, 24 Jul 2026 04:05:41 GMT",
-      "content": "海力士熬出头了！波动极大，像野马，一直反复赚和亏，只能低杠杆驯服，这次低杠杆死磕回来，韩国身处地缘政治核心，还这么高杠杆，真大资金会接力吗，打个号？$SKHYNIX",
-      "url": "https://x.com/hibtc37/status/2080504669831577719",
-      "tweet_id": "2080504669831577719"
+      "published_at": "Fri, 24 Jul 2026 07:58:48 GMT",
+      "content": "R to @hibtc37: 其他的",
+      "url": "https://x.com/hibtc37/status/2080563334777299271",
+      "tweet_id": "2080563334777299271"
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 9
   }
 }
