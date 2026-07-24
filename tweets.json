@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-24T04:17:41.541456+00:00",
-  "total": 18,
+  "fetched_at": "2026-07-24T07:34:12.797238+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2080503470499717429",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 24 Jul 2026 04:00:55 GMT",
-      "content": "Grok is worth trusting",
-      "url": "https://x.com/elonmusk/status/2080503470499717429",
-      "tweet_id": "2080503470499717429",
-      "translated": "格罗克值得信赖"
-    },
-    {
-      "id": "tweet_elonmusk_2080017824547053794",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 22 Jul 2026 19:51:08 GMT",
-      "content": "RT by @elonmusk: This is how the durable medical equipment (DME) fraud scam works: - Operate around adult daycares - Provide “equipment” for ghost clients (wheelchairs, knee braces, etc) - Easier to open than a bank account - Bill Medicare for millions EXPOSE IT ALL.",
-      "url": "https://x.com/elonmusk/status/2080017824547053794",
-      "tweet_id": "2080017824547053794",
-      "translated": "RT by @elonmusk：这就是耐用医疗设备 (DME) 欺诈骗局的运作方式： - 围绕成人日托中心运作 - 为幽灵客户提供“设备”（轮椅、护膝等） - 比银行账户更容易开立 - 为数百万人提供医疗保险账单 揭露一切。"
-    },
-    {
-      "id": "tweet_elonmusk_2080419367838159066",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 23 Jul 2026 22:26:44 GMT",
-      "content": "RT by @elonmusk: Across the country, our government has identified hundreds of thousands of ineligible voters—so far. With at least hundreds of non-citizens voting there, New Jersey is no exception! The @CivilRights Division @TheJusticeDept is investigating.",
-      "url": "https://x.com/elonmusk/status/2080419367838159066",
-      "tweet_id": "2080419367838159066",
-      "translated": "RT @elonmusk：到目前为止，我们的政府在全国范围内已经确定了数十万不符合资格的选民。新泽西州也不例外，至少有数百名非公民在那里投票！ @CivilRights Division @TheJusticeDept 正在调查。"
-    },
     {
       "id": "tweet_cz_binance_2080394519489421372",
       "username": "cz_binance",
@@ -92,6 +62,45 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2080445777395298454",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 24 Jul 2026 00:11:40 GMT",
+      "content": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). There's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\". Most interesting take was: \"Pluggables will be around for the next 10 years\". There's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay. And that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). As for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. From the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. So it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light. But TLDR: Lot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
+      "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
+      "tweet_id": "2080445777395298454",
+      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM cannablization 的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模更大（对于 $JBL + 其他玩家来说这是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2080394309845860668",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 23 Jul 2026 20:47:09 GMT",
+      "content": "RT by @aleabitoreddit: The feeling’s mutual. 🤝",
+      "url": "https://x.com/aleabitoreddit/status/2080394309845860668",
+      "tweet_id": "2080394309845860668",
+      "translated": "RT @aleabitoreddit：这种感觉是相互的。 🤝"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2080394259535221222",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 23 Jul 2026 20:46:57 GMT",
+      "content": "From $AMD Advancing AI, channel checks: Helios networking partners told me they expect AMD to pursue CPO for future generations of Helios scale up networking. And expects other hyperscalers + industry to go down the CPO route. One AI infra executive at a company involved in a hyperscaler CPO programs said they had seen no indication of CPO scale up supply chain delays. Pushing back on recent 3rd party delay reports. This was informal commentary, not official AMD or partner guidance.",
+      "url": "https://x.com/aleabitoreddit/status/2080394259535221222",
+      "tweet_id": "2080394259535221222",
+      "translated": "来自 $AMD Advancing AI，渠道检查：Helios 网络合作伙伴告诉我，他们希望 AMD 为未来几代 Helios 扩展网络寻求 CPO。并预计其他超大规模企业+行业将走 CPO 路线。一家参与超大规模 CPO 项目的公司的一位人工智能基础设施高管表示，他们没有看到 CPO 扩大供应链延迟的迹象。反驳最近的第三方延迟报告。这是非正式评论，并非 AMD 或合作伙伴的官方指导。"
+    },
+    {
+      "id": "tweet_qinbafrank_2080540272245502111",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Fri, 24 Jul 2026 06:27:10 GMT",
+      "content": "昨晚美股的三条逻辑线及对之后的几点思考： 1）中东冲突推动布油突破100美元，十年美债收益率突破4.7%升至25年初以来最高点，美元指数走强。也是之前聊到毫无疑问风资产都要承压； 2）谷歌和特斯拉的财报暴露资本开支、自由现金流问题，市场重新定价AI投资回报率； 3）基于上面两点，资金转向拥有订单、积压订单、供给瓶颈和近期现金流的供应方。算力产业链上游环节，国防军工等， 几个思考： 1、短期内市场还是会面临宏观层面的风险压制，今天韩股跌主要因素也是宏观风险压制，而去杠杆可能都变成了第二权重； 2、而近期宏观因素的核心还是油价，早上这里https://x.com/qinbafrank/status/2080455283319660801?s=20也有聊过，油价走高长债收益率走高相关性很明显。看到不少人说的沃什放弃前瞻指引、私营公司发债多、国债发行等因素，应该并不是近期US10Y走高的主要因素，这几个因素是长期影响市场的，但明显短期并不是，需要区分清楚。 3、既然油价是核心因素，最终还是看美伊冲突博弈的走向。个人角度还是当下双方更加强硬，短期可能还要升级，但最终还是会走向和谈和停火。这里的核心逻辑： 美国掌握“升级权”，伊朗掌握“拒止权”； 美国能摧毁目标，伊朗能持续抬高航运、能源、驻军和盟友的成本。 明显不断升级对川普来说成本和代价是巨大的，最终会在某个时候停下来继续谈。但是这中间的路径现在看还是不清晰的。 未来市场看到要停下来的时候，也就可能是市场的拐点。但这之前市场也比较难受 4、昨天谷歌财报说明了一点，AI需求是没问题的，其增速远超大家的预期的。现在的问题就是为了应对快速飙升的需求，大云厂商大力度资本开支，但是建设是有周期的，今年投入明年才有产出。两周前在这里https://x.com/qinbafrank/status/2076839550119444702后半部分有有聊到“对超大CSP也带来新的挑战：时间差” 市场可能先看到 Capex和人力投入（未来企业采用AI需要更多的FDE）上升 → 然后才能看到POC和合同 → 再看到生产工作负载 → 最后才看到自由现金流和ROIC。 简单说就是“钱先花出去，赚回来需要点时间（大概率是赚回来）”，现在看这个时间差是不是就是当前AI投资争议的核心？ 4、资本开支还要继续加大投入，需求飙升，谁降谁落后。 1）资金还是就需要往算力产业链上游各个环节流，需求和订单是确定的。 2）但也有新变化，以谷歌为例，25年资本开支900亿，26年增长120%到2000亿美金，27年还能120%的增长么，应该不行。即使27年谷歌资本开支3000多亿美金， capex增速也就降到了百分之大几十。 3）其实就是进入新阶段： 今年可能是capex增速最快的一年，再往后capex的绝对值还会继续往上涨，但是增速可能要回落。这其实意味着半导体投资进入新阶段 简单说市场都认识到了AI算力产链条的瓶颈和卡脖子，那么投资就要更进一步：不是只站在瓶颈上，不是只处于卡脖子环节就可以了，你还要看这家企业这个在这个瓶颈和卡脖子的节点上是不是独特的、不可替代的、技术路线正确的、不仅订单一大把交付还能持续超预期。同时还要这技术演进和落地的节奏到底是如何的？ 算力产业链最舒服的投资阶段过去了，对标的选择的要求更高了。 4）大科技资本开支，晶圆厂资本开支，越往上游还是会越受益。订单的确定性没问题，而且兑现速度会更快。 存储还有不小的空间，但也得承认过去一年涨幅最暴力的阶段也过去了； 光互联看兑现的节奏，如果落地兑现节奏快，空间也很好。 设备、材料、封装测试等环节是可以，大厂和晶圆厂的钱都要流到更上的环节流。 这些都得等到上面聊到宏观好转风险压制解除，才能真正兑现。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2080540272245502111",
+      "tweet_id": "2080540272245502111"
+    },
+    {
       "id": "tweet_qinbafrank_2080455283319660801",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -110,13 +119,13 @@
       "tweet_id": "2080282133600620724"
     },
     {
-      "id": "tweet_qinbafrank_2080268970482127226",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Thu, 23 Jul 2026 12:29:06 GMT",
-      "content": "老段真的很喜欢用期权来减仓和建仓。今天老段在雪球上透露苹果的持仓被call走了一些，同时近期已经卖了美光的put，然后又准备卖SpaceX、特斯拉、PLTR的Put。",
-      "url": "https://x.com/qinbafrank/status/2080268970482127226",
-      "tweet_id": "2080268970482127226"
+      "id": "tweet_xiaomustock_2080505226398994837",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Fri, 24 Jul 2026 04:07:54 GMT",
+      "content": "如果爆亏了， 交易也是全球最大的知识付费市场， 就问你获没获得知识， 花没花钱。",
+      "url": "https://x.com/xiaomustock/status/2080505226398994837",
+      "tweet_id": "2080505226398994837"
     },
     {
       "id": "tweet_xiaomustock_2080334809445118410",
@@ -135,15 +144,6 @@
       "content": "抄谷歌赌财报结果跌成麻瓜，按照梁总的卡10个月回本周期，谷歌的定价更贵云厂投入回本不成问题。存储反弹起来的时候把其他的清了留了韩股sk结果最垃圾。其他的存储天天涨。美光和sndk卖掉的钱买的谷歌🌚 太几把脸黑了我日呐",
       "url": "https://x.com/xiaomustock/status/2080303930479972472",
       "tweet_id": "2080303930479972472"
-    },
-    {
-      "id": "tweet_xiaomustock_2080285184080118126",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Thu, 23 Jul 2026 13:33:32 GMT",
-      "content": "最近亏的也不想说话了， 早晨看完梁文锋的这个总结觉得有意思的点划了一下。做个记录。",
-      "url": "https://x.com/xiaomustock/status/2080285184080118126",
-      "tweet_id": "2080285184080118126"
     },
     {
       "id": "tweet_xingpt_2080495800485085461",
@@ -172,11 +172,38 @@
       "content": "王虹牛逼",
       "url": "https://x.com/xingpt/status/2080292890329395434",
       "tweet_id": "2080292890329395434"
+    },
+    {
+      "id": "tweet_hibtc37_2080508196058476973",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Fri, 24 Jul 2026 04:19:42 GMT",
+      "content": "MU短期还是要跪",
+      "url": "https://x.com/hibtc37/status/2080508196058476973",
+      "tweet_id": "2080508196058476973"
+    },
+    {
+      "id": "tweet_hibtc37_2080506718514299006",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Fri, 24 Jul 2026 04:13:50 GMT",
+      "content": "特斯拉这现金流情况，很快就要砸比特币了！@grok 查一下他的BTC持有成本",
+      "url": "https://x.com/hibtc37/status/2080506718514299006",
+      "tweet_id": "2080506718514299006"
+    },
+    {
+      "id": "tweet_hibtc37_2080504669831577719",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Fri, 24 Jul 2026 04:05:41 GMT",
+      "content": "海力士熬出头了！波动极大，像野马，一直反复赚和亏，只能低杠杆驯服，这次低杠杆死磕回来，韩国身处地缘政治核心，还这么高杠杆，真大资金会接力吗，打个号？$SKHYNIX",
+      "url": "https://x.com/hibtc37/status/2080504669831577719",
+      "tweet_id": "2080504669831577719"
     }
   ],
   "stats": {
-    "users_success": 6,
-    "users_failed": 2,
-    "nitter_healthy": 8
+    "users_success": 7,
+    "users_failed": 1,
+    "nitter_healthy": 9
   }
 }
