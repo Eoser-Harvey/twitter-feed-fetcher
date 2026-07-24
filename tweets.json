@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-24T20:22:47.833062+00:00",
+  "fetched_at": "2026-07-24T22:07:10.666561+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2080547884726919201",
+      "id": "tweet_elonmusk_2080765392855707884",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 24 Jul 2026 06:57:25 GMT",
-      "content": "RT by @elonmusk: The Economist Elon Musk July 23rd 2026",
-      "url": "https://x.com/elonmusk/status/2080547884726919201",
-      "tweet_id": "2080547884726919201",
-      "translated": "RT @elonmusk：《经济学人》埃隆·马斯克 2026 年 7 月 23 日"
+      "published_at": "Fri, 24 Jul 2026 21:21:43 GMT",
+      "content": "Wow",
+      "url": "https://x.com/elonmusk/status/2080765392855707884",
+      "tweet_id": "2080765392855707884",
+      "translated": "哇"
     },
     {
-      "id": "tweet_elonmusk_2080711105349906786",
+      "id": "tweet_elonmusk_2080732812131664187",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 24 Jul 2026 17:45:59 GMT",
-      "content": "RT by @elonmusk: New Pareto Frontier: Grok 4.5, SWE-1.7 and Opus 5. Intelligence per $ will be the only metric that matters over time. K3 probably joins the frontier once available on the inference clouds.",
-      "url": "https://x.com/elonmusk/status/2080711105349906786",
-      "tweet_id": "2080711105349906786",
-      "translated": "RT @elonmusk：新帕累托前沿：Grok 4.5、SWE-1.7 和 Opus 5。随着时间的推移，每美元的智能将是唯一重要的指标。一旦在推理云上可用，K3 可能会跻身前沿。"
+      "published_at": "Fri, 24 Jul 2026 19:12:15 GMT",
+      "content": "RT by @elonmusk: Grok is now available directly inside Google Workspace One add-on brings Grok into Google Sheets, Slides and Docs, where it works beside the file you already have open In Sheets, Grok can: • Read selected ranges and explain the data • Cite the exact cells behind its answers • Write and fill real spreadsheet formulas • Update values and rebuild financial scenarios In Slides, it can: • Generate a complete presentation from an outline • Add new slides that match the existing theme • Restructure entire sections • Rewrite titles so every slide communicates a clear takeaway In Docs, it can: • Draft directly inside the document • Turn rough notes into formatted sections • Correct grammar and rewrite content • Apply consistent headings and styles across the file Everything happens through a side panel, without constantly copying information between tabs or rebuilding the output manually One installation works across all three apps, and organizations can deploy it across their entire workforce Grok is rapidly becoming a native intelligence layer for the tools people already use every day",
+      "url": "https://x.com/elonmusk/status/2080732812131664187",
+      "tweet_id": "2080732812131664187",
+      "translated": "RT by @elonmusk：Grok 现在可直接在 Google Workspace 中使用 一个附加组件将 Grok 引入 Google Sheets、Slides 和 Docs，它与您已打开的文件一起工作 在 Sheets 中，Grok 可以： • 读取所选范围并解释数据 • 引用其答案背后的确切单元格 • 编写和填写真实的电子表格公式 • 更新值并重建财务场景 在 Slides 中，它可以： • 从大纲生成完整的演示文稿 • 添加与现有主题匹配的新幻灯片 • 重构整个幻灯片重写标题，使每张幻灯片传达清晰的要点 在 Docs 中，它可以： • 直接在文档中起草 • 将粗略的注释转换为格式化的部分 • 纠正语法并重写内容 • 在整个文件中应用一致的标题和样式 一切都通过侧面板进行，无需不断地在选项卡之间复制信息或手动重建输出 一个安装适用于所有三个应用程序，组织可以在整个员工队伍中部署 Grok 正在迅速成为人们每天使用的工具的本机智能层"
     },
     {
-      "id": "tweet_elonmusk_2080686579400765517",
+      "id": "tweet_elonmusk_2080759547753361804",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 24 Jul 2026 16:08:32 GMT",
-      "content": "RT by @elonmusk: Welcome @jensenhuang 💚 The future of AI leadership needs both frontier closed models and frontier open models.",
-      "url": "https://x.com/elonmusk/status/2080686579400765517",
-      "tweet_id": "2080686579400765517",
-      "translated": "RT @elonmusk：欢迎@jensen Huang 💚 人工智能领导力的未来既需要前沿封闭模型，也需要前沿开放模型。"
+      "published_at": "Fri, 24 Jul 2026 20:58:29 GMT",
+      "content": "Grok 4.5 is excellent for real-world work",
+      "url": "https://x.com/elonmusk/status/2080759547753361804",
+      "tweet_id": "2080759547753361804",
+      "translated": "Grok 4.5 非常适合现实世界的工作"
     },
     {
       "id": "tweet_cz_binance_2080560984930877858",
@@ -91,6 +91,16 @@
       "translated": "RT @realDonaldTrump：投票……"
     },
     {
+      "id": "tweet_aleabitoreddit_2080750537121874206",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 24 Jul 2026 20:22:41 GMT",
+      "content": "There you have it, $GOOGL Waymo to explore split with $UBER per FT. My view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that Google needed as they scale up. And that $NBIS Avride, other neutral players, or vertical integration would be the optimal path forward. Now their own partner Waymo looks to be the strongest disruptor to Uber.",
+      "url": "https://x.com/aleabitoreddit/status/2080750537121874206",
+      "tweet_id": "2080750537121874206",
+      "translated": "好了，$GOOGL Waymo 可以探索每 FT 与 UBER 的拆分。我去年的观点是，Uber 与 Waymo 合作是一个糟糕的选择……因为 Uber 只是充当谷歌扩大规模时所需要的分销渠道。 $NBIS Avride、其他中立参与者或垂直整合将是最佳的前进道路。现在，他们自己的合作伙伴 Waymo 似乎成为 Uber 最强大的颠覆者。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2080689966045348047",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -108,17 +118,7 @@
       "content": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). There's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\". Most interesting take was: \"Pluggables will be around for the next 10 years\". There's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay. And that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). As for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. From the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. So it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light. But TLDR: Lot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
       "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
       "tweet_id": "2080445777395298454",
-      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM cannablization 的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模更大（对于 $JBL + 其他玩家来说这是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2080394309845860668",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 23 Jul 2026 20:47:09 GMT",
-      "content": "RT by @aleabitoreddit: The feeling’s mutual. 🤝",
-      "url": "https://x.com/aleabitoreddit/status/2080394309845860668",
-      "tweet_id": "2080394309845860668",
-      "translated": "RT @aleabitoreddit：这种感觉是相互的。 🤝"
+      "translated": "不完全是针对 $AAOI（他们也在研究 CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM 大麻化的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模较大（这对于 $JBL + 其他玩家来说是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
     },
     {
       "id": "tweet_qinbafrank_2080686195697438860",
@@ -232,6 +232,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 8
   }
 }
