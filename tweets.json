@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-25T20:12:58.977110+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-25T21:59:43.720091+00:00",
+  "total": 18,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2081116761085100213",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 25 Jul 2026 20:37:55 GMT",
+      "content": "The most powerful moving object ever created by humans",
+      "url": "https://x.com/elonmusk/status/2081116761085100213",
+      "tweet_id": "2081116761085100213",
+      "translated": "人类创造的最强大的移动物体"
+    },
     {
       "id": "tweet_elonmusk_2081098739104571671",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2081097702624952714",
       "tweet_id": "2081097702624952714",
       "translated": "星链卫星拍摄的星舰真实照片"
-    },
-    {
-      "id": "tweet_elonmusk_2081096946953945509",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 25 Jul 2026 19:19:11 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2081096946953945509",
-      "tweet_id": "2081096946953945509",
-      "translated": "视频"
     },
     {
       "id": "tweet_cz_binance_2080803099443429672",
@@ -63,36 +63,6 @@
       "translated": "预富人的新定义。 😂"
     },
     {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432",
-      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2068370500334637542",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
-      "content": "RT by @realDonaldTrump: POLL…",
-      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
-      "tweet_id": "2068370500334637542",
-      "translated": "RT @realDonaldTrump：投票……"
-    },
-    {
       "id": "tweet_aleabitoreddit_2080750537121874206",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -120,34 +90,7 @@
       "content": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). There's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\". Most interesting take was: \"Pluggables will be around for the next 10 years\". There's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay. And that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). As for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. From the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. So it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light. But TLDR: Lot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
       "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
       "tweet_id": "2080445777395298454",
-      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM cannablization 的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模更大（对于 $JBL + 其他玩家来说这是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
-    },
-    {
-      "id": "tweet_qinbafrank_2080823741815382302",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sat, 25 Jul 2026 01:13:34 GMT",
-      "content": "为什么美国科技公司要为开源模型（中国开源模型占了绝大多数）争取发展空间？昨晚最大的新闻无疑就是老黄@JensenHuang 首开X账号，第一条推文就是一份由a16z发起、英伟达、微软联合PLTR、PerplexityAI、Ollama等多家科技公司共同签署的公开信，明确主张\"前沿开源模型与前沿闭源模型应并存发展\"。看到都在聊公开信本身，但是对背后的动机和意图聊的不多。个人角度，核心原因就是之前下面这张图和引用的之前长文里聊到的内容： 1、美国企业使用的中国开源模型每周token占比正逼近60%，开源模型在美国企业token消耗里占比这么大，一旦被禁或者限制、那么企业的成本剧增。 2、7月中的这篇长文里（引用的长文就是）聊到：企业AI采用进入工程化时代，AI在企业级市场的采用越来越变成分场景应用模型阶段： 1）高价值场景使用继续使用闭源前沿大模型的高价值Token； 2）高频、低复杂度、高体积的任务场景下，企业越来越偏向高性比价比Token（基本上来自开源模型）。 3、这个趋势不可避免： 对于芯片厂商来说、用谁的模型都要训练和推理； 对于云厂商来说，给企业客户模型选择越多，毛利越高； 对于部署层（如pltr）或者应用型公司来说，更是天然有选择高性价比token的动力。 这份公开信的联名企业基本上就是这三大类，所以公开信背后其实有着极强的商业诉求和巨大的商业价值。 4、Authropic在国会呼吁限制或者禁止中国开源模型的发展，实质上是明显感受到了这股势头的威胁和影响。kimi k3只是一个催化剂，在k3之前中国开源在Token消耗量的份额占比已经在快速飙升了，即使没有k3，Authropic也有动力这么做。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2080823741815382302",
-      "tweet_id": "2080823741815382302"
-    },
-    {
-      "id": "tweet_qinbafrank_2080686195697438860",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 24 Jul 2026 16:07:00 GMT",
-      "content": "看阿曼这条新闻的时间点，也是纳指今晚盘中到现在的最低点。只要有缓和的可能，对市场情绪都是提振",
-      "url": "https://x.com/qinbafrank/status/2080686195697438860",
-      "tweet_id": "2080686195697438860"
-    },
-    {
-      "id": "tweet_qinbafrank_2080666498247594101",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 24 Jul 2026 14:48:44 GMT",
-      "content": "最近Stripe正是动作频频：月初推出OUSD稳定币联盟，月中传出很PE机构联手收购Paypal，下旬就穿出要收购OpenRouter。Stripe处理大量互联网交易流量，OpenRouter处理的是AI的“token 流量”。收购后，Stripe可直接切入AI消费的计量、路由和实时结算，把“AI 支出”纳入自己的生态，这算是在构建支付到AI基础设施闭环。 也不得不感叹OpenRouter创始人AlexAtallah对于退出把握的干脆果断： 作为OpenSea的联创兼CTO，22年底离开OpenSea； 2023年初正式创立OpenRouter、现在又要把OpenRouter卖掉。",
-      "url": "https://x.com/qinbafrank/status/2080666498247594101",
-      "tweet_id": "2080666498247594101"
+      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM 大麻化的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模较大（这对于 $JBL + 其他玩家来说是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
     },
     {
       "id": "tweet_xiaomustock_2080505226398994837",
@@ -232,8 +175,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 6,
+    "users_failed": 2,
     "nitter_healthy": 9
   }
 }
