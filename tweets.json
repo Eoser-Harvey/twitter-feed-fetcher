@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-25T11:13:56.363305+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-25T13:38:47.293156+00:00",
+  "total": 24,
   "tweets": [
     {
       "id": "tweet_elonmusk_2080909204664275268",
@@ -10,7 +10,7 @@
       "content": "RT by @elonmusk: Elon Musk on early days of SpaceX: \"When I started SpaceX, one of my friends got a compilation of rocket failures & made me watch the whole thing. I knew the probability of SpaceX failing was high\"",
       "url": "https://x.com/elonmusk/status/2080909204664275268",
       "tweet_id": "2080909204664275268",
-      "translated": "RT @elonmusk：埃隆·马斯克 (Elon Musk) 谈 SpaceX 的早期发展：“当我创办 SpaceX 时，我的一个朋友得到了一份火箭失败的汇编，并让我观看了整个事情。我知道 SpaceX 失败的可能性很高”"
+      "translated": "RT by @elonmusk：埃隆·马斯克 (Elon Musk) 谈 SpaceX 的早期发展：“当我创办 SpaceX 时，我的一个朋友得到了一份火箭失败的汇编，并让我观看了整个过程。我知道 SpaceX 失败的可能性很高。”"
     },
     {
       "id": "tweet_elonmusk_2080399553594024298",
@@ -120,7 +120,7 @@
       "content": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). There's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\". Most interesting take was: \"Pluggables will be around for the next 10 years\". There's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay. And that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). As for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. From the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. So it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light. But TLDR: Lot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
       "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
       "tweet_id": "2080445777395298454",
-      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM cannablization 的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模更大（对于 $JBL + 其他玩家来说这是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
+      "translated": "不完全是针对 $AAOI（他们也在研究 CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM 大麻化的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模较大（这对于 $JBL + 其他玩家来说是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
     },
     {
       "id": "tweet_qinbafrank_2080823741815382302",
@@ -150,6 +150,33 @@
       "tweet_id": "2080666498247594101"
     },
     {
+      "id": "tweet_xiaomustock_2080505226398994837",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Fri, 24 Jul 2026 04:07:54 GMT",
+      "content": "如果爆亏了， 交易也是全球最大的知识付费市场， 就问你获没获得知识， 花没花钱。",
+      "url": "https://x.com/xiaomustock/status/2080505226398994837",
+      "tweet_id": "2080505226398994837"
+    },
+    {
+      "id": "tweet_xiaomustock_2080334809445118410",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Thu, 23 Jul 2026 16:50:43 GMT",
+      "content": "交易是最好玩的对手最多的全球竞技游戏",
+      "url": "https://x.com/xiaomustock/status/2080334809445118410",
+      "tweet_id": "2080334809445118410"
+    },
+    {
+      "id": "tweet_xiaomustock_2080303930479972472",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Thu, 23 Jul 2026 14:48:01 GMT",
+      "content": "抄谷歌赌财报结果跌成麻瓜，按照梁总的卡10个月回本周期，谷歌的定价更贵云厂投入回本不成问题。存储反弹起来的时候把其他的清了留了韩股sk结果最垃圾。其他的存储天天涨。美光和sndk卖掉的钱买的谷歌🌚 太几把脸黑了我日呐",
+      "url": "https://x.com/xiaomustock/status/2080303930479972472",
+      "tweet_id": "2080303930479972472"
+    },
+    {
       "id": "tweet_xingpt_2080661956483277221",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -177,6 +204,24 @@
       "tweet_id": "2080495800485085461"
     },
     {
+      "id": "tweet_hibtc37_2080996390776504628",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Sat, 25 Jul 2026 12:39:37 GMT",
+      "content": "倒卖B300的骗子真多！ 人人都说：有货，要几台？ 要成交了就说：刚卖掉了！ 这行业需要黑社会来整顿下，一点江湖道义都没有，他娘的",
+      "url": "https://x.com/hibtc37/status/2080996390776504628",
+      "tweet_id": "2080996390776504628"
+    },
+    {
+      "id": "tweet_hibtc37_2080988116064796856",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Sat, 25 Jul 2026 12:06:44 GMT",
+      "content": "$BTC 这是主力最想要的，形成\"6万美元很难跌破”或者“5万8很难破”的共识，这样才会在58k的下方形成更加肥妹易鸡的流动性，这时候，只需要借助一些风险事件，就顺流而下了",
+      "url": "https://x.com/hibtc37/status/2080988116064796856",
+      "tweet_id": "2080988116064796856"
+    },
+    {
       "id": "tweet_hibtc37_2080955970650620158",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -184,30 +229,11 @@
       "content": "现在看到博主发的AI长文就头疼，不标注是AI写的，一般我就直接取关了",
       "url": "https://x.com/hibtc37/status/2080955970650620158",
       "tweet_id": "2080955970650620158"
-    },
-    {
-      "id": "tweet_hibtc37_2080946992201830642",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Sat, 25 Jul 2026 09:23:19 GMT",
-      "content": "想你的风吹到了海力士",
-      "url": "https://x.com/hibtc37/status/2080946992201830642",
-      "tweet_id": "2080946992201830642"
-    },
-    {
-      "id": "tweet_hibtc37_2080946306512818531",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Sat, 25 Jul 2026 09:20:36 GMT",
-      "content": "He will have to stop loss again! 100%🤣",
-      "url": "https://x.com/hibtc37/status/2080946306512818531",
-      "tweet_id": "2080946306512818531",
-      "translated": "他又得止损了！ 100%🤣"
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 9
   }
 }
