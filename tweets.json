@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-25T13:38:47.293156+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-25T15:06:00.950849+00:00",
+  "total": 21,
   "tweets": [
     {
       "id": "tweet_elonmusk_2080909204664275268",
@@ -10,7 +10,7 @@
       "content": "RT by @elonmusk: Elon Musk on early days of SpaceX: \"When I started SpaceX, one of my friends got a compilation of rocket failures & made me watch the whole thing. I knew the probability of SpaceX failing was high\"",
       "url": "https://x.com/elonmusk/status/2080909204664275268",
       "tweet_id": "2080909204664275268",
-      "translated": "RT by @elonmusk：埃隆·马斯克 (Elon Musk) 谈 SpaceX 的早期发展：“当我创办 SpaceX 时，我的一个朋友得到了一份火箭失败的汇编，并让我观看了整个过程。我知道 SpaceX 失败的可能性很高。”"
+      "translated": "RT @elonmusk：埃隆·马斯克 (Elon Musk) 谈 SpaceX 的早期发展：“当我创办 SpaceX 时，我的一个朋友得到了一份火箭失败的汇编，并让我观看了整个事情。我知道 SpaceX 失败的可能性很高”"
     },
     {
       "id": "tweet_elonmusk_2080399553594024298",
@@ -63,36 +63,6 @@
       "translated": "预富人的新定义。 😂"
     },
     {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432",
-      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2068370500334637542",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
-      "content": "RT by @realDonaldTrump: POLL…",
-      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
-      "tweet_id": "2068370500334637542",
-      "translated": "RT @realDonaldTrump：投票……"
-    },
-    {
       "id": "tweet_aleabitoreddit_2080750537121874206",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -120,7 +90,7 @@
       "content": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). There's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\". Most interesting take was: \"Pluggables will be around for the next 10 years\". There's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay. And that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). As for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. From the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. So it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light. But TLDR: Lot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
       "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
       "tweet_id": "2080445777395298454",
-      "translated": "不完全是针对 $AAOI（他们也在研究 CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM 大麻化的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模较大（这对于 $JBL + 其他玩家来说是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
+      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM cannablization 的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模更大（对于 $JBL + 其他玩家来说这是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
     },
     {
       "id": "tweet_qinbafrank_2080823741815382302",
@@ -232,8 +202,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 9
   }
 }
