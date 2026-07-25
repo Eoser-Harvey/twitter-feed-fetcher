@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-25T18:04:33.828658+00:00",
+  "fetched_at": "2026-07-25T20:12:58.977110+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2081026997367579033",
+      "id": "tweet_elonmusk_2081098739104571671",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 25 Jul 2026 14:41:14 GMT",
-      "content": "RT by @elonmusk: Unlimited tolerance is how open societies commit suicide. Elon Musk just warned that societies holding incompatible values eventually hit a reckoning. Karl Popper made the exact same point in 1945 while watching fascists and communists use open societies’ own tolerance against them. Popper wrote that unlimited tolerance must lead to the disappearance of tolerance. If a society keeps extending tolerance to people who openly want to destroy it and refuses to defend itself, the intolerant win and tolerance dies with them. He never demanded censorship first. Argue with intolerant ideas. Suppress them only when they stop arguing and start using force. 80 years later Musk is asking the same question: how much can a tolerant society tolerate before it stops being one?",
-      "url": "https://x.com/elonmusk/status/2081026997367579033",
-      "tweet_id": "2081026997367579033",
-      "translated": "RT @elonmusk：无限的宽容是开放社会的自杀方式。埃隆·马斯克刚刚警告说，持有不相容价值观的社会最终会受到清算。 1945 年，卡尔·波普尔（Karl Popper）在观察法西斯主义者和共产主义者利用开放社会自身的宽容来对付他们时，也提出了完全相同的观点。波普尔写道，无限的宽容必然导致宽容的消失。如果一个社会继续对那些公开想要摧毁它并拒绝保卫自己的人给予宽容，那么不宽容的胜利和宽容就会随之消亡。他从来没有首先要求审查制度。与不宽容的想法争论。只有当他们停止争论并开始使用武力时才镇压他们。 80 年后，马斯克提出了同样的问题：一个宽容的社会在不再是一个宽容的社会之前能够容忍多少？"
+      "published_at": "Sat, 25 Jul 2026 19:26:19 GMT",
+      "content": "beautiful engineering",
+      "url": "https://x.com/elonmusk/status/2081098739104571671",
+      "tweet_id": "2081098739104571671",
+      "translated": "美丽的工程"
     },
     {
-      "id": "tweet_elonmusk_2080941231425904673",
+      "id": "tweet_elonmusk_2081097702624952714",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 25 Jul 2026 09:00:26 GMT",
-      "content": "RT by @elonmusk: Geoffrey Hinton says a big language model runs on about 1% of your brain's connections and still ends up knowing more than you: \"So in your brain, you have a hundred trillion connections, roughly speaking. Okay. That's a lot. And you only live for about two billion seconds. That's not much.\" \"If you compare how many seconds you live for, with how many connections you've got, you have a whole lot more connections than experiences.\" \"Now with these neural nets, it's sort of the other way round. They only have of the order of a trillion connections. So like 1% of your connections, even in a big language model, many of them fewer, but they get thousands of times more experience than you.\" \"So the big language models are solving the problem with not many connections, only a trillion. How do I make use of a huge amount of experience?\" \"And back propagation is really, really good at packing huge amounts of knowledge into not many connections.\" \"But that's not the problem we're solving. We've got huge numbers of connections, not much experience. We need to sort of extract the most we can from each experience.\" Two to three billion seconds is the whole budget. Everything you know, you learned inside it. So evolution built you to squeeze a lot out of very little. Hinton's point is that a language model has the opposite problem and the opposite fix, and backprop turned out to be extremely good at that fix. Worth noticing what this predicts about failure. A system running on 1% of your wiring and thousands of times your experience is not going to fail the way you do. You fail from having seen too few examples. It fails from compressing too many into too little, and the compression is where the errors get made. That is a strange thing to be deploying into hospitals and courts with no way to inspect it. We test these systems by asking them questions, which tells you what came out. Nobody can yet look at a trillion connections and say what got packed in. - Geoffrey Hinton, Nobel laureate and Turing Award winner, on StarTalk (@StarTalkRadio) with Neil deGrasse Tyson.",
-      "url": "https://x.com/elonmusk/status/2080941231425904673",
-      "tweet_id": "2080941231425904673",
-      "translated": "RT by @elonmusk：Geoffrey Hinton 说，一个大语言模型运行在你大脑中大约 1% 的连接上，但最终仍然比你知道更多：“所以在你的大脑中，粗略地说，你有一百万亿个连接。好吧。这很多。而你的寿命只有大约 20 亿秒。这并不多。” “如果你将你的寿命与你拥有的联系数量进行比较，你会发现你拥有的联系远多于经验。” “现在有了这些神经网络，情况正好相反。它们只有一万亿个连接。所以就像你的连接的 1% 一样，即使在一个大的语言模型中，其中很多都更少，但它们获得的经验比你多数千倍。” “所以大语言模型解决的问题不是很多连接，只有万亿。我如何利用大量的经验？” “反向传播确实非常擅长将大量知识打包到不多的连接中。” “但这不是我们要解决的问题。我们拥有大量的联系，但经验不多。我们需要从每次经验中提取尽可能多的东西。”整个预算是二三十亿秒。你所知道的一切，都是你在里面学到的。所以进化让你能够从很少的东西中榨取很多东西。 Hinton 的观点是，语言模型有相反的问题和相反的解决方案，而反向传播被证明非常擅长解决这个问题。值得注意的是这对失败的预测。一个仅用您 1% 的布线和数千次您的经验来运行的系统不会像您那样失败。你之所以失败，是因为你看到的例子太少了。它因将太多内容压缩成太少内容而失败，而压缩正是产生错误的地方。部署到医院和法院却无法检查，这是一件奇怪的事情。我们通过询问这些系统来测试这些系统，这些问题会告诉您结果是什么。还没有人能够看到一万亿个连接并说出其中包含的内容。 - 诺贝尔奖获得者和图灵奖获得者杰弗里·辛顿 (Geoffrey Hinton) 与尼尔·德格拉斯·泰森 (Neil deGrasse Tyson) 在 StarTalk (@StarTalkRadio) 上的对话。"
+      "published_at": "Sat, 25 Jul 2026 19:22:11 GMT",
+      "content": "Real photo of Starship taken by Starlink satellites",
+      "url": "https://x.com/elonmusk/status/2081097702624952714",
+      "tweet_id": "2081097702624952714",
+      "translated": "星链卫星拍摄的星舰真实照片"
     },
     {
-      "id": "tweet_elonmusk_2080909204664275268",
+      "id": "tweet_elonmusk_2081096946953945509",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 25 Jul 2026 06:53:10 GMT",
-      "content": "RT by @elonmusk: Elon Musk on early days of SpaceX: \"When I started SpaceX, one of my friends got a compilation of rocket failures & made me watch the whole thing. I knew the probability of SpaceX failing was high\"",
-      "url": "https://x.com/elonmusk/status/2080909204664275268",
-      "tweet_id": "2080909204664275268",
-      "translated": "RT by @elonmusk：埃隆·马斯克 (Elon Musk) 谈 SpaceX 的早期发展：“当我创办 SpaceX 时，我的一个朋友得到了一份火箭失败的汇编，并让我观看了整个过程。我知道 SpaceX 失败的可能性很高。”"
+      "published_at": "Sat, 25 Jul 2026 19:19:11 GMT",
+      "content": "Video",
+      "url": "https://x.com/elonmusk/status/2081096946953945509",
+      "tweet_id": "2081096946953945509",
+      "translated": "视频"
     },
     {
       "id": "tweet_cz_binance_2080803099443429672",
@@ -120,7 +120,7 @@
       "content": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). There's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\". Most interesting take was: \"Pluggables will be around for the next 10 years\". There's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay. And that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). As for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. From the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. So it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light. But TLDR: Lot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
       "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
       "tweet_id": "2080445777395298454",
-      "translated": "不完全是针对 $AAOI（他们也在研究 CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM 大麻化的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模较大（这对于 $JBL + 其他玩家来说是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
+      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM cannablization 的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模更大（对于 $JBL + 其他玩家来说这是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
     },
     {
       "id": "tweet_qinbafrank_2080823741815382302",
@@ -234,6 +234,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 8
+    "nitter_healthy": 9
   }
 }
