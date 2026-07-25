@@ -1,64 +1,66 @@
 {
-  "fetched_at": "2026-07-24T22:07:10.666561+00:00",
+  "fetched_at": "2026-07-25T00:06:28.126432+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2080765392855707884",
+      "id": "tweet_elonmusk_2080797733611286686",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 24 Jul 2026 21:21:43 GMT",
-      "content": "Wow",
-      "url": "https://x.com/elonmusk/status/2080765392855707884",
-      "tweet_id": "2080765392855707884",
-      "translated": "哇"
+      "published_at": "Fri, 24 Jul 2026 23:30:13 GMT",
+      "content": "Starlink V3 satellites deployed to test how they operate in space",
+      "url": "https://x.com/elonmusk/status/2080797733611286686",
+      "tweet_id": "2080797733611286686",
+      "translated": "部署 Starlink V3 卫星以测试它们在太空中的运行方式"
     },
     {
-      "id": "tweet_elonmusk_2080732812131664187",
+      "id": "tweet_elonmusk_2080788786863095890",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 24 Jul 2026 19:12:15 GMT",
-      "content": "RT by @elonmusk: Grok is now available directly inside Google Workspace One add-on brings Grok into Google Sheets, Slides and Docs, where it works beside the file you already have open In Sheets, Grok can: • Read selected ranges and explain the data • Cite the exact cells behind its answers • Write and fill real spreadsheet formulas • Update values and rebuild financial scenarios In Slides, it can: • Generate a complete presentation from an outline • Add new slides that match the existing theme • Restructure entire sections • Rewrite titles so every slide communicates a clear takeaway In Docs, it can: • Draft directly inside the document • Turn rough notes into formatted sections • Correct grammar and rewrite content • Apply consistent headings and styles across the file Everything happens through a side panel, without constantly copying information between tabs or rebuilding the output manually One installation works across all three apps, and organizations can deploy it across their entire workforce Grok is rapidly becoming a native intelligence layer for the tools people already use every day",
-      "url": "https://x.com/elonmusk/status/2080732812131664187",
-      "tweet_id": "2080732812131664187",
-      "translated": "RT by @elonmusk：Grok 现在可直接在 Google Workspace 中使用 一个附加组件将 Grok 引入 Google Sheets、Slides 和 Docs，它与您已打开的文件一起工作 在 Sheets 中，Grok 可以： • 读取所选范围并解释数据 • 引用其答案背后的确切单元格 • 编写和填写真实的电子表格公式 • 更新值并重建财务场景 在 Slides 中，它可以： • 从大纲生成完整的演示文稿 • 添加与现有主题匹配的新幻灯片 • 重构整个幻灯片重写标题，使每张幻灯片传达清晰的要点 在 Docs 中，它可以： • 直接在文档中起草 • 将粗略的注释转换为格式化的部分 • 纠正语法并重写内容 • 在整个文件中应用一致的标题和样式 一切都通过侧面板进行，无需不断地在选项卡之间复制信息或手动重建输出 一个安装适用于所有三个应用程序，组织可以在整个员工队伍中部署 Grok 正在迅速成为人们每天使用的工具的本机智能层"
+      "published_at": "Fri, 24 Jul 2026 22:54:40 GMT",
+      "content": "RT by @elonmusk: Starship’s Raptor engines ignite during hot-staging separation. Super Heavy is boosting back towards its splashdown site in the Gulf of America",
+      "url": "https://x.com/elonmusk/status/2080788786863095890",
+      "tweet_id": "2080788786863095890",
+      "translated": "RT @elonmusk：星际飞船的猛禽发动机在热分级分离过程中点火。超级重型火箭正在返回其位于美洲湾的溅落地点"
     },
     {
-      "id": "tweet_elonmusk_2080759547753361804",
+      "id": "tweet_elonmusk_2080791337712955648",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 24 Jul 2026 20:58:29 GMT",
-      "content": "Grok 4.5 is excellent for real-world work",
-      "url": "https://x.com/elonmusk/status/2080759547753361804",
-      "tweet_id": "2080759547753361804",
-      "translated": "Grok 4.5 非常适合现实世界的工作"
+      "published_at": "Fri, 24 Jul 2026 23:04:48 GMT",
+      "content": "RT by @elonmusk: Live views brought to you by @Starlink",
+      "url": "https://x.com/elonmusk/status/2080791337712955648",
+      "tweet_id": "2080791337712955648",
+      "translated": "RT by @elonmusk：@Starlink 为您带来的实时视图"
     },
     {
-      "id": "tweet_cz_binance_2080560984930877858",
+      "id": "tweet_cz_binance_2080803099443429672",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
-      "published_at": "Fri, 24 Jul 2026 07:49:28 GMT",
-      "content": "For long term holding, when is the best entry point? during the bull or bear market?",
-      "url": "https://x.com/cz_binance/status/2080560984930877858",
-      "tweet_id": "2080560984930877858",
-      "translated": "对于长期持有，什么时候是最佳切入点？在牛市还是熊市期间？"
+      "published_at": "Fri, 24 Jul 2026 23:51:33 GMT",
+      "content": "Bro has no idea how much time he will waste here. 😂 But keeping in touch X community is worth it.",
+      "url": "https://x.com/cz_binance/status/2080803099443429672",
+      "tweet_id": "2080803099443429672",
+      "translated": "哥不知道自己要在这里浪费多少时间。 😂但是保持X社区的联系是值得的。"
     },
     {
-      "id": "tweet_cz_binance_2080557894173336012",
+      "id": "tweet_cz_binance_2080801722667270264",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
-      "published_at": "Fri, 24 Jul 2026 07:37:11 GMT",
-      "content": "《经济日报》 摘: 法官:\"我看了你每一封支持信,因为我想真正了解你这个人。我很少,或者说从未见到,这么多正面的信件……也说你帮助他人,做了很多包括币安慈善在内的慈善行为,帮助了全球数百万人……你勇于承担责任,生活简朴,关心家人和世界。这些都对判决有正面影响。\" https://money.udn.com/money/story/122332/9631982-",
-      "url": "https://x.com/cz_binance/status/2080557894173336012",
-      "tweet_id": "2080557894173336012"
+      "published_at": "Fri, 24 Jul 2026 23:46:04 GMT",
+      "content": "Need a lot more of these cleanings.",
+      "url": "https://x.com/cz_binance/status/2080801722667270264",
+      "tweet_id": "2080801722667270264",
+      "translated": "需要更多这样的清洁工作。"
     },
     {
-      "id": "tweet_cz_binance_2080394519489421372",
+      "id": "tweet_cz_binance_2080801333909835970",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 23 Jul 2026 20:47:59 GMT",
-      "content": "👏😁",
-      "url": "https://x.com/cz_binance/status/2080394519489421372",
-      "tweet_id": "2080394519489421372"
+      "published_at": "Fri, 24 Jul 2026 23:44:32 GMT",
+      "content": "New definition of pre-rich. 😂",
+      "url": "https://x.com/cz_binance/status/2080801333909835970",
+      "tweet_id": "2080801333909835970",
+      "translated": "预富人的新定义。 😂"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -118,7 +120,7 @@
       "content": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). There's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\". Most interesting take was: \"Pluggables will be around for the next 10 years\". There's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay. And that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). As for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. From the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. So it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light. But TLDR: Lot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
       "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
       "tweet_id": "2080445777395298454",
-      "translated": "不完全是针对 $AAOI（他们也在研究 CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM 大麻化的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模较大（这对于 $JBL + 其他玩家来说是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
+      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM 大麻化的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模较大（这对于 $JBL + 其他玩家来说是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
     },
     {
       "id": "tweet_qinbafrank_2080686195697438860",
@@ -232,6 +234,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 8
+    "nitter_healthy": 9
   }
 }
