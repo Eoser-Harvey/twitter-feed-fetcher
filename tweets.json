@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-25T09:50:33.269221+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-25T11:13:56.363305+00:00",
+  "total": 21,
   "tweets": [
     {
       "id": "tweet_elonmusk_2080909204664275268",
@@ -150,33 +150,6 @@
       "tweet_id": "2080666498247594101"
     },
     {
-      "id": "tweet_xiaomustock_2080505226398994837",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Fri, 24 Jul 2026 04:07:54 GMT",
-      "content": "如果爆亏了， 交易也是全球最大的知识付费市场， 就问你获没获得知识， 花没花钱。",
-      "url": "https://x.com/xiaomustock/status/2080505226398994837",
-      "tweet_id": "2080505226398994837"
-    },
-    {
-      "id": "tweet_xiaomustock_2080334809445118410",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Thu, 23 Jul 2026 16:50:43 GMT",
-      "content": "交易是最好玩的对手最多的全球竞技游戏",
-      "url": "https://x.com/xiaomustock/status/2080334809445118410",
-      "tweet_id": "2080334809445118410"
-    },
-    {
-      "id": "tweet_xiaomustock_2080303930479972472",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Thu, 23 Jul 2026 14:48:01 GMT",
-      "content": "抄谷歌赌财报结果跌成麻瓜，按照梁总的卡10个月回本周期，谷歌的定价更贵云厂投入回本不成问题。存储反弹起来的时候把其他的清了留了韩股sk结果最垃圾。其他的存储天天涨。美光和sndk卖掉的钱买的谷歌🌚 太几把脸黑了我日呐",
-      "url": "https://x.com/xiaomustock/status/2080303930479972472",
-      "tweet_id": "2080303930479972472"
-    },
-    {
       "id": "tweet_xingpt_2080661956483277221",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -204,6 +177,15 @@
       "tweet_id": "2080495800485085461"
     },
     {
+      "id": "tweet_hibtc37_2080955970650620158",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Sat, 25 Jul 2026 09:59:00 GMT",
+      "content": "现在看到博主发的AI长文就头疼，不标注是AI写的，一般我就直接取关了",
+      "url": "https://x.com/hibtc37/status/2080955970650620158",
+      "tweet_id": "2080955970650620158"
+    },
+    {
       "id": "tweet_hibtc37_2080946992201830642",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -221,20 +203,11 @@
       "url": "https://x.com/hibtc37/status/2080946306512818531",
       "tweet_id": "2080946306512818531",
       "translated": "他又得止损了！ 100%🤣"
-    },
-    {
-      "id": "tweet_hibtc37_2080932181107679606",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Sat, 25 Jul 2026 08:24:28 GMT",
-      "content": "两个空单先跑，在更高位置等你🙃",
-      "url": "https://x.com/hibtc37/status/2080932181107679606",
-      "tweet_id": "2080932181107679606"
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 9
   }
 }
