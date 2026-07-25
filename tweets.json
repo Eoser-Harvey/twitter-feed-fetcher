@@ -1,36 +1,66 @@
 {
-  "fetched_at": "2026-07-25T04:13:50.152056+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-25T07:20:11.664352+00:00",
+  "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2080716690862510303",
+      "id": "tweet_elonmusk_2080909204664275268",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 24 Jul 2026 18:08:11 GMT",
-      "content": "RT by @elonmusk: The Senate can get it done if we GET TO WORK and put in the hours. No recess if we don’t PASS the SAVE AMERICA ACT!!",
-      "url": "https://x.com/elonmusk/status/2080716690862510303",
-      "tweet_id": "2080716690862510303",
-      "translated": "RT @elonmusk：如果我们开始工作并投入时间，参议院就能完成它。如果我们不通过《拯救美国法案》，就不能休会！！"
+      "published_at": "Sat, 25 Jul 2026 06:53:10 GMT",
+      "content": "RT by @elonmusk: Elon Musk on early days of SpaceX: \"When I started SpaceX, one of my friends got a compilation of rocket failures & made me watch the whole thing. I knew the probability of SpaceX failing was high\"",
+      "url": "https://x.com/elonmusk/status/2080909204664275268",
+      "tweet_id": "2080909204664275268",
+      "translated": "RT @elonmusk：埃隆·马斯克 (Elon Musk) 谈 SpaceX 的早期发展：“当我创办 SpaceX 时，我的一个朋友得到了一份火箭失败的汇编，并让我观看了整个事情。我知道 SpaceX 失败的可能性很高”"
     },
     {
-      "id": "tweet_elonmusk_2080841494756233632",
+      "id": "tweet_elonmusk_2080399553594024298",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 25 Jul 2026 02:24:07 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2080841494756233632",
-      "tweet_id": "2080841494756233632",
-      "translated": "视频"
+      "published_at": "Thu, 23 Jul 2026 21:08:00 GMT",
+      "content": "RT by @elonmusk: JUST IN: Grok 4.5 overtakes GPT-5.6 Sol & Fable 5 in OpenRouter token volume, cracking the top 10 closed models.",
+      "url": "https://x.com/elonmusk/status/2080399553594024298",
+      "tweet_id": "2080399553594024298",
+      "translated": "RT @elonmusk：刚刚发布：Grok 4.5 在 OpenRouter 代币数量上超越了 GPT-5.6 Sol 和 Fable 5，突破了前 10 个封闭模型。"
     },
     {
-      "id": "tweet_elonmusk_2080794963596726670",
+      "id": "tweet_elonmusk_2080740194798416266",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 24 Jul 2026 23:19:13 GMT",
-      "content": "RT by @elonmusk: Pretty clear from this shot that @SpaceX knows where we are going! Congrats on getting Flight 13 underway. Excited for what will be learned from this mission. When Starship comes online, its capabilities will be game-changing, not least of which will be ensuring we never give up the Moon again!",
-      "url": "https://x.com/elonmusk/status/2080794963596726670",
-      "tweet_id": "2080794963596726670",
-      "translated": "RT by @elonmusk：从这张照片中可以清楚地看出，@SpaceX 知道我们要去哪里！恭喜 13 号航班起飞。对从这次任务中学到的东西感到兴奋。当 Starship 上线时，它的功能将改变游戏规则，其中最重要的是确保我们永远不会再放弃月球！"
+      "published_at": "Fri, 24 Jul 2026 19:41:35 GMT",
+      "content": "RT by @elonmusk: Driving the chair with my mind was such an exhilarating feeling. The most hope I have felt since my ALS diagnosis. I am honored to be developing this technology that will change the world and improve the lives of millions of people.",
+      "url": "https://x.com/elonmusk/status/2080740194798416266",
+      "tweet_id": "2080740194798416266",
+      "translated": "RT @elonmusk：用我的意念驾驶椅子真是一种令人兴奋的感觉。这是自 ALS 诊断以来我感受到的最大希望。我很荣幸能够开发这项技术，它将改变世界并改善数百万人的生活。"
+    },
+    {
+      "id": "tweet_cz_binance_2080803099443429672",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Fri, 24 Jul 2026 23:51:33 GMT",
+      "content": "Bro has no idea how much time he will waste here. 😂 But keeping in touch X community is worth it.",
+      "url": "https://x.com/cz_binance/status/2080803099443429672",
+      "tweet_id": "2080803099443429672",
+      "translated": "哥不知道自己要在这里浪费多少时间。 😂但是保持X社区的联系是值得的。"
+    },
+    {
+      "id": "tweet_cz_binance_2080801722667270264",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Fri, 24 Jul 2026 23:46:04 GMT",
+      "content": "Need a lot more of these cleanings.",
+      "url": "https://x.com/cz_binance/status/2080801722667270264",
+      "tweet_id": "2080801722667270264",
+      "translated": "需要更多这样的清洁工作。"
+    },
+    {
+      "id": "tweet_cz_binance_2080801333909835970",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Fri, 24 Jul 2026 23:44:32 GMT",
+      "content": "New definition of pre-rich. 😂",
+      "url": "https://x.com/cz_binance/status/2080801333909835970",
+      "tweet_id": "2080801333909835970",
+      "translated": "预富人的新定义。 😂"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -90,7 +120,7 @@
       "content": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). There's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\". Most interesting take was: \"Pluggables will be around for the next 10 years\". There's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay. And that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). As for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. From the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. So it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light. But TLDR: Lot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
       "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
       "tweet_id": "2080445777395298454",
-      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM 大麻化的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模较大（这对于 $JBL + 其他玩家来说是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
+      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM cannablization 的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模更大（对于 $JBL + 其他玩家来说这是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
     },
     {
       "id": "tweet_qinbafrank_2080823741815382302",
@@ -174,6 +204,24 @@
       "tweet_id": "2080495800485085461"
     },
     {
+      "id": "tweet_hibtc37_2080886320243880011",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Sat, 25 Jul 2026 05:22:14 GMT",
+      "content": "刚算了下，十亿哥的65k的多单，止损就损60个BTC，真是太壕横了！",
+      "url": "https://x.com/hibtc37/status/2080886320243880011",
+      "tweet_id": "2080886320243880011"
+    },
+    {
+      "id": "tweet_hibtc37_2080881536413659626",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Sat, 25 Jul 2026 05:03:13 GMT",
+      "content": "还以为是我用太多，老限额，体验太差了……AI发展还是太早期，token什么时候像水电煤流量宽带那样，就会迎来应用爆发，这意味着目前行业红利还巨大",
+      "url": "https://x.com/hibtc37/status/2080881536413659626",
+      "tweet_id": "2080881536413659626"
+    },
+    {
       "id": "tweet_hibtc37_2080866261563781209",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -181,29 +229,11 @@
       "content": "$BTC 7/24 Bitcoin ETF Total Net Flow: $-240.06m 昨晚，再度大额流出，我的650空单，要进入很舒服的阶段了。昨天贝莱德结束了一周无转出记录，开始往coinbase打币，我的650空单胜算就瞬间提高了。可能这段连续净流入的ETF这道门也要关闭一段时间了",
       "url": "https://x.com/hibtc37/status/2080866261563781209",
       "tweet_id": "2080866261563781209"
-    },
-    {
-      "id": "tweet_hibtc37_2080807257068208458",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Sat, 25 Jul 2026 00:08:04 GMT",
-      "content": "和目标哥成为对手的交易复盘 恰巧和目标哥Jason老师同价反向开单，昨天目标哥止损了，我的菜鸡虾米单子还在 这一次和目标哥成为对手盘，让我对对手更加具象了，之前只是觉得点点屏幕，玩玩游戏的感觉，自从看到和他单子刚好反向后，我马上重新复盘了这次开单逻辑，因为你的对手是资金量远超你巨鲸、我是虾米 那么各自都会有自己的开单逻辑，我也复盘了目标Jason老师的逻辑，我关注他这么久，第一次看他写这么长的分享，看得出他这次非常谨慎，认真反复读了几次，关注了他BN的实盘，翻看了他的历史数据，并且用两个顶级大模型分析了一通他的实盘数据（下面文章） 我同样这次开单也是很谨慎，自从上次止损8万刀，我重新复盘和调整交易操作，因为新增了带单这个变量，现在我对带单的理解也是游刃有余了，为了开这个单子，我给自己足够耐心，这单等了15天，我一直在等待最佳击球时机。按照之前，我会在区间里上下撸，撸多了，胜率高，很容易过度自信和忘记看大方向，容易抓小放大，赚小亏大，尤其是行情反转时。人在容易赚钱时候，很容易把钱不当钱。 我在一个月赚了25万左右，就有这感觉，但这不是常态，容易自己放松警惕，上大仓位高杠杆，于是我留下不到5万利润继续玩，彻底回避掉这个风险，也同时不断打磨自己交易技术，如果这5w踏踏实实，通过自己认知做到50万，我认为自己才算毕业，毕竟我从5月5日才开始研究做交易的，之前只会囤币死多，有认知，但交易操作有很大提升空间 目标哥纪律性做了止损、明确的开单和关单逻和乐于风向、操作果断坚定和魄力等特质，值得我学习 这一次以后，我今后每次开单，我会构建一个画面，我的对手是目标哥，这个单，我要开吗？我的最大亏损控制在哪里？",
-      "url": "https://x.com/hibtc37/status/2080807257068208458",
-      "tweet_id": "2080807257068208458"
-    },
-    {
-      "id": "tweet_hibtc37_2080865605758984562",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Sat, 25 Jul 2026 03:59:55 GMT",
-      "content": "R to @hibtc37: 补充说下我的开单思考，我是主要看主力给的流动性信号，并且结合一些k线分析，文字表达有限，估计能表达出50%的意思吧 我开单的背景是，在这种战争这种突发情况下，导致宏观急剧恶化，本来主力是要吃677和684的流动性，700是非常厚的Gamma墙，所以我说677之后会越来越难上去，越来越极限了（配图1），我是想在这个阶段介入我的空单的，但这种宏观条件下，主力肯定也无力了，669之后尝试了几次也没上攻，这在过去两月我多次遇到这种，逼空力竭的走势，轻车熟路了，这是为啥这次我直接右侧65k，追空的原因，而跌破65k刚好是负gamma区，我看他跌破又抽回来，果断开空，而且都快涨1个月了，这是熊市，还能涨到哪里去啊，清晰法案没法通过，下周四又还有美联储讲话 那么主力肯定想在这之前套越多的人越好，用尽吃奶的力也要往上走下，所以，担心他会最后一次诱多，去吃657（配图2），我挂了加仓单子在65690，并且止损放在661，实际上也如我所料，我加仓单成交了，开仓均价也抬高了一点，吃完657，已经是主力用尽浑身力气了，然后开始跌。盈亏比也是可以的，看我配图2讲过 这时候黑子会喷，你说个价格迟早会到的，你说的没错，但是当一个价格被触及后，他掉头了，这就不一样了，这不是盲猜，这是预判了画门 为什么我设置661止损呢，因为再上一个区间是609，我判断主力很难到600了，为了避免主力不讲武德，极端扫止损后，立马掉头，避免我踏空这次下跌行情，我设置了66150，特意多加50刀，也就是，我为这个单子设置了3道防线，控制我的最大亏损且不错过机会。之前我打止损亏8万刀，就是因为我过度自信，下单不带止损，但后面尝试下单带止损，又总是被扫止损，很苦恼，之后研究出这套打法，解决了这些问题 现在这套流动性打法又升级了，这是在极具胜率地方和对手要做出受迫性决策地方开单，结合传统的技术流派的k线分析，同时开单后设置3道防线控制止损和防止主力扫损，剩下就看盈利多少吧，这个跟主力走就行。 这是我新摸索出来的方案，分享给大家，希望大家赚麻",
-      "url": "https://x.com/hibtc37/status/2080865605758984562",
-      "tweet_id": "2080865605758984562"
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 9
   }
 }
