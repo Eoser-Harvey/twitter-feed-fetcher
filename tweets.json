@@ -1,66 +1,36 @@
 {
-  "fetched_at": "2026-07-25T00:06:28.126432+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-25T04:13:50.152056+00:00",
+  "total": 21,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2080797733611286686",
+      "id": "tweet_elonmusk_2080716690862510303",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 24 Jul 2026 23:30:13 GMT",
-      "content": "Starlink V3 satellites deployed to test how they operate in space",
-      "url": "https://x.com/elonmusk/status/2080797733611286686",
-      "tweet_id": "2080797733611286686",
-      "translated": "部署 Starlink V3 卫星以测试它们在太空中的运行方式"
+      "published_at": "Fri, 24 Jul 2026 18:08:11 GMT",
+      "content": "RT by @elonmusk: The Senate can get it done if we GET TO WORK and put in the hours. No recess if we don’t PASS the SAVE AMERICA ACT!!",
+      "url": "https://x.com/elonmusk/status/2080716690862510303",
+      "tweet_id": "2080716690862510303",
+      "translated": "RT @elonmusk：如果我们开始工作并投入时间，参议院就能完成它。如果我们不通过《拯救美国法案》，就不能休会！！"
     },
     {
-      "id": "tweet_elonmusk_2080788786863095890",
+      "id": "tweet_elonmusk_2080841494756233632",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 24 Jul 2026 22:54:40 GMT",
-      "content": "RT by @elonmusk: Starship’s Raptor engines ignite during hot-staging separation. Super Heavy is boosting back towards its splashdown site in the Gulf of America",
-      "url": "https://x.com/elonmusk/status/2080788786863095890",
-      "tweet_id": "2080788786863095890",
-      "translated": "RT @elonmusk：星际飞船的猛禽发动机在热分级分离过程中点火。超级重型火箭正在返回其位于美洲湾的溅落地点"
+      "published_at": "Sat, 25 Jul 2026 02:24:07 GMT",
+      "content": "Video",
+      "url": "https://x.com/elonmusk/status/2080841494756233632",
+      "tweet_id": "2080841494756233632",
+      "translated": "视频"
     },
     {
-      "id": "tweet_elonmusk_2080791337712955648",
+      "id": "tweet_elonmusk_2080794963596726670",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 24 Jul 2026 23:04:48 GMT",
-      "content": "RT by @elonmusk: Live views brought to you by @Starlink",
-      "url": "https://x.com/elonmusk/status/2080791337712955648",
-      "tweet_id": "2080791337712955648",
-      "translated": "RT by @elonmusk：@Starlink 为您带来的实时视图"
-    },
-    {
-      "id": "tweet_cz_binance_2080803099443429672",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Fri, 24 Jul 2026 23:51:33 GMT",
-      "content": "Bro has no idea how much time he will waste here. 😂 But keeping in touch X community is worth it.",
-      "url": "https://x.com/cz_binance/status/2080803099443429672",
-      "tweet_id": "2080803099443429672",
-      "translated": "哥不知道自己要在这里浪费多少时间。 😂但是保持X社区的联系是值得的。"
-    },
-    {
-      "id": "tweet_cz_binance_2080801722667270264",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Fri, 24 Jul 2026 23:46:04 GMT",
-      "content": "Need a lot more of these cleanings.",
-      "url": "https://x.com/cz_binance/status/2080801722667270264",
-      "tweet_id": "2080801722667270264",
-      "translated": "需要更多这样的清洁工作。"
-    },
-    {
-      "id": "tweet_cz_binance_2080801333909835970",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Fri, 24 Jul 2026 23:44:32 GMT",
-      "content": "New definition of pre-rich. 😂",
-      "url": "https://x.com/cz_binance/status/2080801333909835970",
-      "tweet_id": "2080801333909835970",
-      "translated": "预富人的新定义。 😂"
+      "published_at": "Fri, 24 Jul 2026 23:19:13 GMT",
+      "content": "RT by @elonmusk: Pretty clear from this shot that @SpaceX knows where we are going! Congrats on getting Flight 13 underway. Excited for what will be learned from this mission. When Starship comes online, its capabilities will be game-changing, not least of which will be ensuring we never give up the Moon again!",
+      "url": "https://x.com/elonmusk/status/2080794963596726670",
+      "tweet_id": "2080794963596726670",
+      "translated": "RT by @elonmusk：从这张照片中可以清楚地看出，@SpaceX 知道我们要去哪里！恭喜 13 号航班起飞。对从这次任务中学到的东西感到兴奋。当 Starship 上线时，它的功能将改变游戏规则，其中最重要的是确保我们永远不会再放弃月球！"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -123,6 +93,15 @@
       "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM 大麻化的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模较大（这对于 $JBL + 其他玩家来说是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
     },
     {
+      "id": "tweet_qinbafrank_2080823741815382302",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sat, 25 Jul 2026 01:13:34 GMT",
+      "content": "为什么美国科技公司要为开源模型（中国开源模型占了绝大多数）争取发展空间？昨晚最大的新闻无疑就是老黄@JensenHuang 首开X账号，第一条推文就是一份由a16z发起、英伟达、微软联合PLTR、PerplexityAI、Ollama等多家科技公司共同签署的公开信，明确主张\"前沿开源模型与前沿闭源模型应并存发展\"。看到都在聊公开信本身，但是对背后的动机和意图聊的不多。个人角度，核心原因就是之前下面这张图和引用的之前长文里聊到的内容： 1、美国企业使用的中国开源模型每周token占比正逼近60%，开源模型在美国企业token消耗里占比这么大，一旦被禁或者限制、那么企业的成本剧增。 2、7月中的这篇长文里（引用的长文就是）聊到：企业AI采用进入工程化时代，AI在企业级市场的采用越来越变成分场景应用模型阶段： 1）高价值场景使用继续使用闭源前沿大模型的高价值Token； 2）高频、低复杂度、高体积的任务场景下，企业越来越偏向高性比价比Token（基本上来自开源模型）。 3、这个趋势不可避免： 对于芯片厂商来说、用谁的模型都要训练和推理； 对于云厂商来说，给企业客户模型选择越多，毛利越高； 对于部署层（如pltr）或者应用型公司来说，更是天然有选择高性价比token的动力。 这份公开信的联名企业基本上就是这三大类，所以公开信背后其实有着极强的商业诉求和巨大的商业价值。 4、Authropic在国会呼吁限制或者禁止中国开源模型的发展，实质上是明显感受到了这股势头的威胁和影响。kimi k3只是一个催化剂，在k3之前中国开源在Token消耗量的份额占比已经在快速飙升了，即使没有k3，Authropic也有动力这么做。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2080823741815382302",
+      "tweet_id": "2080823741815382302"
+    },
+    {
       "id": "tweet_qinbafrank_2080686195697438860",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -139,15 +118,6 @@
       "content": "最近Stripe正是动作频频：月初推出OUSD稳定币联盟，月中传出很PE机构联手收购Paypal，下旬就穿出要收购OpenRouter。Stripe处理大量互联网交易流量，OpenRouter处理的是AI的“token 流量”。收购后，Stripe可直接切入AI消费的计量、路由和实时结算，把“AI 支出”纳入自己的生态，这算是在构建支付到AI基础设施闭环。 也不得不感叹OpenRouter创始人AlexAtallah对于退出把握的干脆果断： 作为OpenSea的联创兼CTO，22年底离开OpenSea； 2023年初正式创立OpenRouter、现在又要把OpenRouter卖掉。",
       "url": "https://x.com/qinbafrank/status/2080666498247594101",
       "tweet_id": "2080666498247594101"
-    },
-    {
-      "id": "tweet_qinbafrank_2080662961220366392",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 24 Jul 2026 14:34:41 GMT",
-      "content": "关于这两天市场📉，核心还是昨晚美股盘前这里https://x.com/qinbafrank/status/2080282133600620724?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到：市场面临三重宏观压力，近期开始进入宏观主导的阶段，已经不仅仅资本开支和投资回报率的问题了。当然三重宏观压力核心主因还是油价 宏观风险最终解除要看美伊啥时走向缓和和谈判，下午的推文有对之后的一个思考。晚上的一个思考：美国有升级权、伊朗有拒止权，这一次伊朗的主动权其实比之前更大一些、不仅是穿欧退让、伊朗也要被打疼，taco才有效。",
-      "url": "https://x.com/qinbafrank/status/2080662961220366392",
-      "tweet_id": "2080662961220366392"
     },
     {
       "id": "tweet_xiaomustock_2080505226398994837",
@@ -204,36 +174,36 @@
       "tweet_id": "2080495800485085461"
     },
     {
-      "id": "tweet_hibtc37_2080668575371772346",
+      "id": "tweet_hibtc37_2080866261563781209",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Fri, 24 Jul 2026 14:56:59 GMT",
-      "content": "投个票吧：这一单，37度和目标哥，你认为谁赢了？ 背景信息：目标哥65k开多，37度65k开空",
-      "url": "https://x.com/hibtc37/status/2080668575371772346",
-      "tweet_id": "2080668575371772346"
+      "published_at": "Sat, 25 Jul 2026 04:02:32 GMT",
+      "content": "$BTC 7/24 Bitcoin ETF Total Net Flow: $-240.06m 昨晚，再度大额流出，我的650空单，要进入很舒服的阶段了。昨天贝莱德结束了一周无转出记录，开始往coinbase打币，我的650空单胜算就瞬间提高了。可能这段连续净流入的ETF这道门也要关闭一段时间了",
+      "url": "https://x.com/hibtc37/status/2080866261563781209",
+      "tweet_id": "2080866261563781209"
     },
     {
-      "id": "tweet_hibtc37_2080665697114550371",
+      "id": "tweet_hibtc37_2080807257068208458",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Fri, 24 Jul 2026 14:45:33 GMT",
-      "content": "$MU 清了股票，平了卖call，反手开了MU的空单，合约账号额度有限，就开一个，代表知行合一，说MU跪，不只是嘴上分析",
-      "url": "https://x.com/hibtc37/status/2080665697114550371",
-      "tweet_id": "2080665697114550371"
+      "published_at": "Sat, 25 Jul 2026 00:08:04 GMT",
+      "content": "和目标哥成为对手的交易复盘 恰巧和目标哥Jason老师同价反向开单，昨天目标哥止损了，我的菜鸡虾米单子还在 这一次和目标哥成为对手盘，让我对对手更加具象了，之前只是觉得点点屏幕，玩玩游戏的感觉，自从看到和他单子刚好反向后，我马上重新复盘了这次开单逻辑，因为你的对手是资金量远超你巨鲸、我是虾米 那么各自都会有自己的开单逻辑，我也复盘了目标Jason老师的逻辑，我关注他这么久，第一次看他写这么长的分享，看得出他这次非常谨慎，认真反复读了几次，关注了他BN的实盘，翻看了他的历史数据，并且用两个顶级大模型分析了一通他的实盘数据（下面文章） 我同样这次开单也是很谨慎，自从上次止损8万刀，我重新复盘和调整交易操作，因为新增了带单这个变量，现在我对带单的理解也是游刃有余了，为了开这个单子，我给自己足够耐心，这单等了15天，我一直在等待最佳击球时机。按照之前，我会在区间里上下撸，撸多了，胜率高，很容易过度自信和忘记看大方向，容易抓小放大，赚小亏大，尤其是行情反转时。人在容易赚钱时候，很容易把钱不当钱。 我在一个月赚了25万左右，就有这感觉，但这不是常态，容易自己放松警惕，上大仓位高杠杆，于是我留下不到5万利润继续玩，彻底回避掉这个风险，也同时不断打磨自己交易技术，如果这5w踏踏实实，通过自己认知做到50万，我认为自己才算毕业，毕竟我从5月5日才开始研究做交易的，之前只会囤币死多，有认知，但交易操作有很大提升空间 目标哥纪律性做了止损、明确的开单和关单逻和乐于风向、操作果断坚定和魄力等特质，值得我学习 这一次以后，我今后每次开单，我会构建一个画面，我的对手是目标哥，这个单，我要开吗？我的最大亏损控制在哪里？",
+      "url": "https://x.com/hibtc37/status/2080807257068208458",
+      "tweet_id": "2080807257068208458"
     },
     {
-      "id": "tweet_hibtc37_2080652438974153088",
+      "id": "tweet_hibtc37_2080865605758984562",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Fri, 24 Jul 2026 13:52:52 GMT",
-      "content": "$MU 果然开始跪，平掉了卖CALL，10卖出，0.7买入，正股也提桶跑路了，还是要回避他做右肩的风险，这两个月忙下来，MU结果是不赚不亏，都是泪😭",
-      "url": "https://x.com/hibtc37/status/2080652438974153088",
-      "tweet_id": "2080652438974153088"
+      "published_at": "Sat, 25 Jul 2026 03:59:55 GMT",
+      "content": "R to @hibtc37: 补充说下我的开单思考，我是主要看主力给的流动性信号，并且结合一些k线分析，文字表达有限，估计能表达出50%的意思吧 我开单的背景是，在这种战争这种突发情况下，导致宏观急剧恶化，本来主力是要吃677和684的流动性，700是非常厚的Gamma墙，所以我说677之后会越来越难上去，越来越极限了（配图1），我是想在这个阶段介入我的空单的，但这种宏观条件下，主力肯定也无力了，669之后尝试了几次也没上攻，这在过去两月我多次遇到这种，逼空力竭的走势，轻车熟路了，这是为啥这次我直接右侧65k，追空的原因，而跌破65k刚好是负gamma区，我看他跌破又抽回来，果断开空，而且都快涨1个月了，这是熊市，还能涨到哪里去啊，清晰法案没法通过，下周四又还有美联储讲话 那么主力肯定想在这之前套越多的人越好，用尽吃奶的力也要往上走下，所以，担心他会最后一次诱多，去吃657（配图2），我挂了加仓单子在65690，并且止损放在661，实际上也如我所料，我加仓单成交了，开仓均价也抬高了一点，吃完657，已经是主力用尽浑身力气了，然后开始跌。盈亏比也是可以的，看我配图2讲过 这时候黑子会喷，你说个价格迟早会到的，你说的没错，但是当一个价格被触及后，他掉头了，这就不一样了，这不是盲猜，这是预判了画门 为什么我设置661止损呢，因为再上一个区间是609，我判断主力很难到600了，为了避免主力不讲武德，极端扫止损后，立马掉头，避免我踏空这次下跌行情，我设置了66150，特意多加50刀，也就是，我为这个单子设置了3道防线，控制我的最大亏损且不错过机会。之前我打止损亏8万刀，就是因为我过度自信，下单不带止损，但后面尝试下单带止损，又总是被扫止损，很苦恼，之后研究出这套打法，解决了这些问题 现在这套流动性打法又升级了，这是在极具胜率地方和对手要做出受迫性决策地方开单，结合传统的技术流派的k线分析，同时开单后设置3道防线控制止损和防止主力扫损，剩下就看盈利多少吧，这个跟主力走就行。 这是我新摸索出来的方案，分享给大家，希望大家赚麻",
+      "url": "https://x.com/hibtc37/status/2080865605758984562",
+      "tweet_id": "2080865605758984562"
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 9
   }
 }
