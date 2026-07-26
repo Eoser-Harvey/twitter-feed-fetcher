@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-26T13:27:22.526301+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-26T15:07:46.800706+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2081242421447344449",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 26 Jul 2026 04:57:15 GMT",
+      "content": "RT by @elonmusk: Elon’s not wrong, much of the mainstream media is hated. Also, the left has ran so far left that they now call normal things far right.",
+      "url": "https://x.com/elonmusk/status/2081242421447344449",
+      "tweet_id": "2081242421447344449",
+      "translated": "RT by @elonmusk：Elon 没有错，很多主流媒体都被讨厌。而且，左派已经走得太远了，以至于他们现在把正常的事情称为“极右”。"
+    },
     {
       "id": "tweet_elonmusk_2080925877919949097",
       "username": "elonmusk",
@@ -23,14 +33,24 @@
       "translated": "格洛克想象"
     },
     {
-      "id": "tweet_elonmusk_2081218380321714381",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 26 Jul 2026 03:21:43 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2081218380321714381",
-      "tweet_id": "2081218380321714381",
-      "translated": "视频"
+      "id": "tweet_cz_binance_2081376093882421426",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sun, 26 Jul 2026 13:48:25 GMT",
+      "content": "Brutal... Hope this marks the bottom. Stay SAFU!",
+      "url": "https://x.com/cz_binance/status/2081376093882421426",
+      "tweet_id": "2081376093882421426",
+      "translated": "残酷……希望这标志着底部。保持安全！"
+    },
+    {
+      "id": "tweet_cz_binance_2081372001965625749",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sun, 26 Jul 2026 13:32:09 GMT",
+      "content": "Slowly but surely...",
+      "url": "https://x.com/cz_binance/status/2081372001965625749",
+      "tweet_id": "2081372001965625749",
+      "translated": "缓慢但肯定地..."
     },
     {
       "id": "tweet_cz_binance_2081316675383910587",
@@ -41,26 +61,6 @@
       "url": "https://x.com/cz_binance/status/2081316675383910587",
       "tweet_id": "2081316675383910587",
       "translated": "艰难时期（再次）！至少，这似乎是一个有序的结束，用户可以提取他们的资产。专业提示：如果您知道如何保证助记词的安全，请自行保管 (@trustwallet) 或使用具有持久力的最大交易所 (@binance)。"
-    },
-    {
-      "id": "tweet_cz_binance_2081163952348938261",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sat, 25 Jul 2026 23:45:27 GMT",
-      "content": "DCA (If you don't know the term, better google it. You can't get rich without knowing some basic financial terms.)",
-      "url": "https://x.com/cz_binance/status/2081163952348938261",
-      "tweet_id": "2081163952348938261",
-      "translated": "DCA（如果您不知道这个术语，最好用谷歌搜索一下。如果不了解一些基本的财务术语，您就无法致富。）"
-    },
-    {
-      "id": "tweet_cz_binance_2080803099443429672",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Fri, 24 Jul 2026 23:51:33 GMT",
-      "content": "Bro has no idea how much time he will waste here. 😂 But keeping in touch X community is worth it.",
-      "url": "https://x.com/cz_binance/status/2080803099443429672",
-      "tweet_id": "2080803099443429672",
-      "translated": "哥不知道自己要在这里浪费多少时间。 😂但是保持X社区的联系是值得的。"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -91,6 +91,36 @@
       "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
       "tweet_id": "2068370500334637542",
       "translated": "RT @realDonaldTrump：投票……"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2080750537121874206",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 24 Jul 2026 20:22:41 GMT",
+      "content": "There you have it, $GOOGL Waymo to explore split with $UBER per FT. My view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that Google needed as they scale up. And that $NBIS Avride, other neutral players, or vertical integration would be the optimal path forward. Now their own partner Waymo looks to be the strongest disruptor to Uber.",
+      "url": "https://x.com/aleabitoreddit/status/2080750537121874206",
+      "tweet_id": "2080750537121874206",
+      "translated": "好了，$GOOGL Waymo 可以探索每 FT 与 UBER 的拆分。我去年的观点是，Uber 与 Waymo 合作是一个糟糕的选择……因为 Uber 只是充当谷歌扩大规模时所需要的分销渠道。 $NBIS Avride、其他中立参与者或垂直整合将是最佳的前进道路。现在，他们自己的合作伙伴 Waymo 似乎成为 Uber 最强大的颠覆者。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2080689966045348047",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 24 Jul 2026 16:21:59 GMT",
+      "content": "Jensen from $NVDA has joined X for the first time to share his letter on open models.",
+      "url": "https://x.com/aleabitoreddit/status/2080689966045348047",
+      "tweet_id": "2080689966045348047",
+      "translated": "来自 $NVDA 的 Jensen 首次加入 X，分享他关于开放模型的信。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2080445777395298454",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 24 Jul 2026 00:11:40 GMT",
+      "content": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). There's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\". Most interesting take was: \"Pluggables will be around for the next 10 years\". There's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay. And that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). As for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. From the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. So it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light. But TLDR: Lot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
+      "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
+      "tweet_id": "2080445777395298454",
+      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM 大麻化的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模较大（这对于 $JBL + 其他玩家来说是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
     },
     {
       "id": "tweet_qinbafrank_2081284749126156509",
@@ -174,6 +204,15 @@
       "tweet_id": "2080495800485085461"
     },
     {
+      "id": "tweet_hibtc37_2081386881951072505",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Sun, 26 Jul 2026 14:31:17 GMT",
+      "content": "$BTC 647到了 第93次命中✅ 如我预判，最终插针到647吃到了，后面会画门，老剧本了，我的650空单又胜率提升了一点点 这个空单，全靠沃什了",
+      "url": "https://x.com/hibtc37/status/2081386881951072505",
+      "tweet_id": "2081386881951072505"
+    },
+    {
       "id": "tweet_hibtc37_2081364048059494705",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -190,20 +229,11 @@
       "content": "不是，老铁粉很多这是2013年幸存下来的，经过多年的加密炼狱还在行业，很多骨灰级活化石，想伤他们，就想多了",
       "url": "https://x.com/hibtc37/status/2081305190272225383",
       "tweet_id": "2081305190272225383"
-    },
-    {
-      "id": "tweet_hibtc37_2081254087501435039",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Sun, 26 Jul 2026 05:43:36 GMT",
-      "content": "微博老铁粉的情绪价值给的真高，不过我还是很需要喷子的，要不然容易过度自信，所以，我经常挑喷子，也不拉黑黑粉，需要时一些不同的反馈和反对意见，形成决策的闭环回路，即使有很多反对是噪音",
-      "url": "https://x.com/hibtc37/status/2081254087501435039",
-      "tweet_id": "2081254087501435039"
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 9
   }
 }
