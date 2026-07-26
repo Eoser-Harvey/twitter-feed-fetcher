@@ -1,46 +1,36 @@
 {
-  "fetched_at": "2026-07-26T15:07:46.800706+00:00",
+  "fetched_at": "2026-07-26T17:04:14.166204+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2081242421447344449",
+      "id": "tweet_elonmusk_2081234523971555829",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 26 Jul 2026 04:57:15 GMT",
-      "content": "RT by @elonmusk: Elon’s not wrong, much of the mainstream media is hated. Also, the left has ran so far left that they now call normal things far right.",
-      "url": "https://x.com/elonmusk/status/2081242421447344449",
-      "tweet_id": "2081242421447344449",
-      "translated": "RT by @elonmusk：Elon 没有错，很多主流媒体都被讨厌。而且，左派已经走得太远了，以至于他们现在把正常的事情称为“极右”。"
+      "published_at": "Sun, 26 Jul 2026 04:25:52 GMT",
+      "content": "RT by @elonmusk: Blade Runner 2026",
+      "url": "https://x.com/elonmusk/status/2081234523971555829",
+      "tweet_id": "2081234523971555829",
+      "translated": "RT @elonmusk：《银翼杀手 2026》"
     },
     {
-      "id": "tweet_elonmusk_2080925877919949097",
+      "id": "tweet_elonmusk_2081345128732541137",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 25 Jul 2026 07:59:25 GMT",
-      "content": "RT by @elonmusk: Grok Build Web UI is live. I built a local-first dashboard for Grok sessions. Open a fresh Grok CLI and it shows up live, then inspect activity, Git changes, session history, and control agents from one place. npx --yes grok-ui https://github.com/joeynyc/Grok-UI",
-      "url": "https://x.com/elonmusk/status/2080925877919949097",
-      "tweet_id": "2080925877919949097",
-      "translated": "RT @elonmusk：Grok Build Web UI 已上线。我为 Grok 会话构建了一个本地优先的仪表板。打开一个新的 Grok CLI，它会实时显示，然后从一个地方检查活动、Git 更改、会话历史记录和控制代理。 npx --yes grok-ui https://github.com/joeynyc/Grok-UI"
+      "published_at": "Sun, 26 Jul 2026 11:45:22 GMT",
+      "content": "RT by @elonmusk: It’s unreal. We are committing Civilizational Seppuku.",
+      "url": "https://x.com/elonmusk/status/2081345128732541137",
+      "tweet_id": "2081345128732541137",
+      "translated": "RT @elonmusk：这是不真实的。我们正在进行文明切腹。"
     },
     {
-      "id": "tweet_elonmusk_2081219220415652110",
+      "id": "tweet_elonmusk_2081231945904873876",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 26 Jul 2026 03:25:03 GMT",
-      "content": "Grok Imagine",
-      "url": "https://x.com/elonmusk/status/2081219220415652110",
-      "tweet_id": "2081219220415652110",
-      "translated": "格洛克想象"
-    },
-    {
-      "id": "tweet_cz_binance_2081376093882421426",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 26 Jul 2026 13:48:25 GMT",
-      "content": "Brutal... Hope this marks the bottom. Stay SAFU!",
-      "url": "https://x.com/cz_binance/status/2081376093882421426",
-      "tweet_id": "2081376093882421426",
-      "translated": "残酷……希望这标志着底部。保持安全！"
+      "published_at": "Sun, 26 Jul 2026 04:15:37 GMT",
+      "content": "RT by @elonmusk: Many engineers in my teams find the power of /voice in Grok Build. They keep brain-dumping their ideas. Combining it with /dream, /recap and /create-workflow after a long session makes it very powerful. You don’t need to remember those slash commands (I don’t either); just talk through it.",
+      "url": "https://x.com/elonmusk/status/2081231945904873876",
+      "tweet_id": "2081231945904873876",
+      "translated": "RT @elonmusk：我团队中的许多工程师都在 Grok Build 中发现了 /voice 的强大功能。他们不断地倾诉他们的想法。在长时间会话后将其与 /dream、/recap 和 /create-workflow 结合起来，使其非常强大。你不需要记住那些斜杠命令（我也不需要）；只是谈谈它。"
     },
     {
       "id": "tweet_cz_binance_2081372001965625749",
@@ -61,6 +51,16 @@
       "url": "https://x.com/cz_binance/status/2081316675383910587",
       "tweet_id": "2081316675383910587",
       "translated": "艰难时期（再次）！至少，这似乎是一个有序的结束，用户可以提取他们的资产。专业提示：如果您知道如何保证助记词的安全，请自行保管 (@trustwallet) 或使用具有持久力的最大交易所 (@binance)。"
+    },
+    {
+      "id": "tweet_cz_binance_2081163952348938261",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sat, 25 Jul 2026 23:45:27 GMT",
+      "content": "DCA (If you don't know the term, better google it. You can't get rich without knowing some basic financial terms.)",
+      "url": "https://x.com/cz_binance/status/2081163952348938261",
+      "tweet_id": "2081163952348938261",
+      "translated": "DCA（如果您不知道这个术语，最好用谷歌搜索一下。如果不了解一些基本的财务术语，您就无法致富。）"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
