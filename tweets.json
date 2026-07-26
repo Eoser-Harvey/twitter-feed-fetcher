@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-07-26T21:00:24.965574+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-26T22:08:51.574692+00:00",
+  "total": 21,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2081485024872796427",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 26 Jul 2026 21:01:16 GMT",
+      "content": "Grok 4.5 is a solid workhorse",
+      "url": "https://x.com/elonmusk/status/2081485024872796427",
+      "tweet_id": "2081485024872796427",
+      "translated": "Grok 4.5 是一款可靠的主力"
+    },
     {
       "id": "tweet_elonmusk_2081449658363134075",
       "username": "elonmusk",
@@ -20,17 +30,7 @@
       "content": "RT by @elonmusk: The Matrix took its name from a 1984 novel written on a manual typewriter by a man who didn't own a computer. 42 years later, that novel finally gets its own screen. William Gibson typed Neuromancer on a 1927 Hermes portable. He coined \"cyberspace\" before he'd ever logged onto anything. The book swept the Hugo, the Nebula, and the Philip K. Dick award in the same year, the only novel ever to take all three. Then Hollywood spent four decades strip-mining it while calling it unfilmable. The Wachowskis lifted the matrix, the jacked-in hackers, the AI pulling strings behind a corporate veil. Every razor-girl assassin in sci-fi traces back to Molly. Johnny Mnemonic, an actual Gibson adaptation, flopped so hard in 1995 that studios treated his work as radioactive for a generation. At least five directors attached and detached over the years. Chris Cunningham in 2000. Vincenzo Natali in 2010. Tim Miller at Fox in 2017. Each attempt died the same death. By the time the technology existed to film Neuromancer, audiences had watched its ideas in a dozen movies that borrowed them first. The original became unfilmable because it looked like a copy of its own copies. Now the timing loops back on itself. A story about a rogue AI maneuvering to escape its corporate constraints, written before the web existed, lands in January 2027 as the least speculative thing on television. And one detail makes the whole arc perfect. When Neuromancer royalties came in, Gibson bought his first computer, an Apple IIc. Four decades later, Apple is the company putting his book on screen.",
       "url": "https://x.com/elonmusk/status/2081225245286154631",
       "tweet_id": "2081225245286154631",
-      "translated": "RT @elonmusk：《黑客帝国》得名于 1984 年的一本小说，作者是一个没有电脑的人，用手动打字机写成。 42年后，这部小说终于登上了银幕。威廉·吉布森 (William Gibson) 在 1927 年的 Hermes 便携式电脑上输入了《神经漫游者》(Neuromancer)。在他登录任何东西之前就创造了“网络空间”。该书同年横扫雨果奖、星云奖和菲利普·K·迪克奖，是迄今为止唯一包揽三项大奖的小说。然后好莱坞花了四十年的时间对其进行露天开采，同时称其无法拍摄。沃卓斯基姐妹解除了矩阵，黑客介入，人工智能在公司面纱后面幕后操纵。科幻小说中的每一个剃刀女孩刺客都可以追溯到莫莉。吉布森改编的《约翰尼·姆尼莫尼克》在 1995 年遭遇惨败，以至于电影公司认为他的作品对一代人来说具有放射性。多年来至少有五名董事离职或离职。 2000 年的克里斯·坎宁安 (Chris Cunningham)、2010 年的文森佐·纳塔利 (Vincenzo Natali)、2017 年福克斯的蒂姆·米勒 (Tim Miller)。每次尝试都以同样的方式结束。当电影《神经漫游者》的技术出现时，观众已经在十几部电影中看到了它的想法，这些电影首先借用了这些想法。原作变得无法拍摄，因为它看起来就像是它自己的副本的副本。现在时间又自动循环了。一个关于流氓人工智能如何摆脱公司限制的故事，写于网络出现之前，于 2027 年 1 月作为最不具有投机性的电视节目播出。而一个细节让整个弧线变得完美。当《神经漫游者》的版税到来时，吉布森买了他的第一台电脑，Apple IIc。四十年后，苹果公司将他的书搬上了荧幕。"
-    },
-    {
-      "id": "tweet_elonmusk_2081433297846935762",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 26 Jul 2026 17:35:44 GMT",
-      "content": "Jensen is awesome",
-      "url": "https://x.com/elonmusk/status/2081433297846935762",
-      "tweet_id": "2081433297846935762",
-      "translated": "詹森太棒了"
+      "translated": "RT @elonmusk：《黑客帝国》得名于 1984 年的一本小说，作者是一个没有电脑的人，用手动打字机写成。 42年后，这部小说终于登上了银幕。威廉·吉布森 (William Gibson) 在 1927 年的 Hermes 便携式电脑上输入了《神经漫游者》(Neuromancer)。在他登录任何东西之前，他创造了“网络空间”。该书同年横扫雨果奖、星云奖和菲利普·K·迪克奖，是迄今为止唯一包揽三项大奖的小说。然后好莱坞花了四十年的时间对其进行露天开采，同时称其无法拍摄。沃卓斯基姐妹解除了矩阵，黑客介入，人工智能在公司面纱后面幕后操纵。科幻小说中的每一个剃刀女孩刺客都可以追溯到莫莉。约翰尼·姆尼莫尼克 (Johnny Mnemonic) 是吉布森 (Gibson) 的真实改编作品，但在 1995 年遭遇惨败，以至于制片厂认为他的作品对一代人来说具有放射性。多年来至少有五名董事离职或离职。 2000 年的克里斯·坎宁安 (Chris Cunningham)、2010 年的文森佐·纳塔利 (Vincenzo Natali)、2017 年福克斯的蒂姆·米勒 (Tim Miller)。每次尝试都以同样的方式结束。当电影《神经漫游者》的技术出现时，观众已经在十几部电影中看到了它的想法，这些电影首先借用了这些想法。原作变得无法拍摄，因为它看起来就像是它自己的副本的副本。现在时间又自动循环了。一个关于流氓人工智能如何摆脱公司限制的故事，写于网络出现之前，于 2027 年 1 月作为电视上最不具有投机性的内容出现。而一个细节让整个弧线变得完美。当《神经漫游者》的版税到来时，吉布森买了他的第一台电脑，Apple IIc。四十年后，苹果公司将他的书搬上了荧幕。"
     },
     {
       "id": "tweet_cz_binance_2081372001965625749",
@@ -40,7 +40,7 @@
       "content": "Slowly but surely...",
       "url": "https://x.com/cz_binance/status/2081372001965625749",
       "tweet_id": "2081372001965625749",
-      "translated": "缓慢但肯定..."
+      "translated": "缓慢但肯定地..."
     },
     {
       "id": "tweet_cz_binance_2081316675383910587",
@@ -100,7 +100,7 @@
       "content": "Just some TLDR news: - $CXMT IPO tomorrow if you like Chinese memory. - Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantees, Samsung Electro-Mechanics sought prepayments. - Samsung + $AVGO sign memory + foundry AI framework through 2030, expected to exceed $200b - $SOI expects FY2027 silicon photonics revenue to double compared to the previous year, surpassing Morgan Stanley's 60% growth projection. Photonics thesis go brrr. - SK Group + $NVDA sign $500B+ partnership to build out AI DCs and HBM4 memory. - SKC Absolics glass core delay to 2027 from reports. Targeting final reliability testing EOY, mass production next year. So if you're curious, this does push back some ramps from $LPK and others (hence drop on ER). - $QCOM price hikes by double digits for smartphone processors, due to upstream supplier hike pricing. - $META expected to issue $12B in project-level/SPV financing for El Paso, Texas AI DC expansion - Naver announced a $10 billion investment from $NVDA and Brookfield to construct a 1GW-scale AI Factory. Near term plan is 200MW by 2028. (Nvidia $1B investment, Brookfield nonbinding $9B) - 64GB DDR5 server modules rises 146% versus end-June contract pricing - $INTC brought forward 14A process mass production by a year, risk production H2 2027 and volume production in 2028, vs. 2029 HVM expectations. - Samsung Electro-Mechanics wins $200m MLCC order (existing bottleneck). - $AMD (the Bandana bottleneck), announces Helios is in full production with shipments Q3 2026. Including an up to 2GW MI455X GPU deployment with Anthropic and a 6GW infrastructure rollout with OpenAI. Gave new >50% CAGR TAM to $220B by 2030 from $26b in 2025 for CPU market. Rolls out optical interconnects for Mi500 in 2027. From channel checks, AMD is heading down to the CPO route (seems likely to use Ayar). - $ORCL wins $7B Department of War enterprise software contract - JX metal doubles semi target capacity at its KR subsidary with a 4B yen investment, with operations to begin H2 2027, amid surging demand from major customers Samsung Electronics and SK Hynix - Tungsten hexafluoride spot prices surged 2.1-2.5x Y/Y following Japan's Kanto Denka and Chuo Gas announcing permanent production halts. Fluorinated liquid supply faces a vacuum as 3M plans to exit PFAS production. - From the four optical chipmaker earnings, Yuanjie/Eoptolink/TFC Optical/Dongshan Precision: no major order cuts, 1.6T shipments expected to accelerate into 2027. Optical chip suppliers expected to capture outsized margins from shortages. - Unitree Robotics Targets 30,000 Humanoid Robot Production Capacity by 2026. Read through on humanoid TAM scaling like $CCXI and others. - Energy storage lithium batteries orders increase first half orders by 2,900% apparently in China. Not as familiar with EVE Energy and other battery makers.",
       "url": "https://x.com/aleabitoreddit/status/2081472671129501729",
       "tweet_id": "2081472671129501729",
-      "translated": "只是一些 TLDR 新闻： - 如果您喜欢中国内存，明天 CXMT IPO 美元将会增加。 - 据报道，三星电子正在努力确保大型 FC-BGA 基板的安全。据报道，Ibiden（4062）要求 LTA 担保，三星电机寻求预付款。 - 三星+$AVGO标志存储器+代工AI框架到2030年，预计将超过200b美元 - $SOI预计2027财年硅光子收入将比上一年翻一番，超过摩根士丹利60%的增长预测。光子学论文进展顺利。 - SK Group + $NVDA 签署价值 500B+ 的合作伙伴关系，以构建 AI DC 和 HBM4 内存。 - 据报道，SKC Absolics 玻璃芯推迟到 2027 年。目标是最终可靠性测试EOY，明年量产。所以如果你好奇的话，这确实会推迟 $LPK 和其他人的一些斜坡（因此 ER 下降）。 - 由于上游供应商提高定价，QCOM 智能手机处理器的价格上涨了两位数。 - $META 预计将为德克萨斯州埃尔帕索 AI DC 扩张提供 12B 美元的项目级/SPV 融资 - Naver 宣布从 $NVDA 和 Brookfield 投资 100 亿美元，用于建设一座 1GW 规模的 AI 工厂。近期计划是到 2028 年达到 200MW。（Nvidia 投资 1B 美元，Brookfield 非约束性投资 9B 美元） - 64GB DDR5 服务器模块较 6 月底合同价格上涨 146% - $INTC 将 14A 工艺量产提前一年，2027 年下半年风险生产和 2028 年量产，与 2029 年 HVM 预期相比。 - 三星电机赢得 2 亿美元的 MLCC 订单（现有瓶颈）。 - $AMD（Bandana 瓶颈）宣布 Helios 已全面投产，并于 2026 年第三季度发货。包括与 Anthropic 一起部署高达 2GW 的 MI455X GPU，以及与 OpenAI 一起部署的 6GW 基础设施。 CPU 市场的复合年增长率 >50%，到 2030 年，TAM 将从 2025 年的 260 亿美元增至 2200 亿美元。 2027年推出Mi500的光互连。从渠道检查来看，AMD正在走CPO路线（似乎可能使用Ayar）。 - $ORCL 赢得价值 70 亿美元的战争部企业软件合同 - JX Metal 通过 4B 日元投资，将其韩国子公司的半目标产能翻了一番，由于主要客户三星电子和 SK Hynix 的需求激增，JX Metal 将于 2027 年下半年开始运营 - 在日本关东电化 (Kanto Denka) 和中央燃气 (Chuo Gas) 宣布永久停产后，六氟化钨现货价格同比飙升 2.1-2.5 倍。由于 3M 计划退出 PFAS 生产，氟化液体供应面临真空。 - 从四家光芯片厂商财报来看，元杰/新易盛/天富光/东山精密：无大订单削减，1.6T出货预计加速至2027年。光芯片供应商有望从短缺中获取巨额利润。 - Unitree Robotics 的目标是到 2026 年实现 30,000 个人形机器人产能。仔细阅读 $CCXI 等人形机器人 TAM 扩展。 - 中国储能锂电池订单上半年订单增幅明显达2,900%。对 EVE Energy 和其他电池制造商不太熟悉。"
+      "translated": "只是一些 TLDR 新闻： - 如果您喜欢中国内存，明天 CXMT IPO 美元将会增加。 - 据报道，三星电子正在努力确保大型 FC-BGA 基板的安全。据报道，Ibiden（4062）要求 LTA 担保，三星电机寻求预付款。 - 三星+$AVGO标志存储器+代工AI框架到2030年，预计将超过200b美元 - $SOI预计2027财年硅光子收入将比上一年翻一番，超过摩根士丹利60%的增长预测。光子学论文进展顺利。 - SK Group + $NVDA 签署价值 500B+ 的合作伙伴关系，以构建 AI DC 和 HBM4 内存。 - 据报道，SKC Absolics 玻璃芯推迟到 2027 年。目标是最终可靠性测试EOY，明年量产。所以如果你好奇的话，这确实会推迟 $LPK 和其他人的一些斜坡（因此 ER 下降）。 - 由于上游供应商提高定价，QCOM 智能手机处理器的价格上涨了两位数。 - $META 预计将为德克萨斯州埃尔帕索 AI DC 扩张提供 12B 美元的项目级/SPV 融资 - Naver 宣布从 $NVDA 和 Brookfield 投资 100 亿美元，用于建设一座 1GW 规模的 AI 工厂。近期计划是到 2028 年达到 200MW。（Nvidia 投资 1B 美元，Brookfield 非约束性投资 9B 美元） - 64GB DDR5 服务器模块较 6 月底合同价格上涨 146% - $INTC 将 14A 工艺量产提前一年，2027 年下半年风险生产和 2028 年量产，与 2029 年 HVM 预期相比。 - 三星电机赢得 2 亿美元的 MLCC 订单（现有瓶颈）。 - $AMD（Bandana 瓶颈）宣布 Helios 已全面投产，并于 2026 年第三季度发货。包括与 Anthropic 一起部署高达 2GW 的 MI455X GPU，以及与 OpenAI 一起部署的 6GW 基础设施。 CPU 市场的复合年增长率 >50%，到 2030 年，TAM 将从 2025 年的 260 亿美元增至 2200 亿美元。 2027年推出Mi500的光互连。从渠道检查来看，AMD正在走CPO路线（似乎可能使用Ayar）。 - $ORCL 赢得价值 70 亿美元的战争部企业软件合同 - JX Metal 通过 4B 日元投资，将其韩国子公司的半目标产能翻了一番，由于主要客户三星电子和 SK 海力士的需求激增，JX Metal 将于 2027 年下半年开始运营 - 在日本关东电化和中央燃气宣布永久停产后，六氟化钨现货价格同比飙升 2.1-2.5 倍。由于 3M 计划退出 PFAS 生产，氟化液体供应面临真空。 - 从四家光芯片厂商财报来看，元杰/新易盛/天富光/东山精密：无大订单削减，1.6T出货预计加速至2027年。光芯片供应商有望从短缺中获取巨额利润。 - Unitree Robotics 的目标是到 2026 年实现 30,000 个人形机器人产能。仔细阅读 $CCXI 等人形机器人 TAM 扩展。 - 中国储能锂电池订单上半年订单增幅明显达2,900%。对 EVE Energy 和其他电池制造商不太熟悉。"
     },
     {
       "id": "tweet_aleabitoreddit_2080750537121874206",
@@ -148,33 +148,6 @@
       "content": "詹姆斯：“兄弟，抱歉，今年才看到这条信息” 12年前呼吁得到了回应 不得不说恩比德终于心想事成 詹姆斯在职业生涯的第四支球队能不能再拿个总冠军？🤔",
       "url": "https://x.com/qinbafrank/status/2081244944103301241",
       "tweet_id": "2081244944103301241"
-    },
-    {
-      "id": "tweet_xiaomustock_2081203163928109207",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Sun, 26 Jul 2026 02:21:15 GMT",
-      "content": "市场还有一个非常严重的误区， 大陆ai投1000亿人民币，美区投1万亿美金，看起来美国佬投这么多钱搞出来的大模型实力水平都差不多， 但是投出去的钱大都买的是算力卡存储卡cpu卡，这些大陆买不仅不会更便宜反而更贵，都是能转化成收入的印钞机。 马斯克已经因为买卡赚死了。 而我们大陆，只能买3倍价格的卡， 美国佬投1万亿美金就是拿到了可以转化成1万亿美金收入的ai基建印钞机。 其他成本占比如人力成本和电力成本占比都很低， ai研究本身是人才密度极高的行业，员工数都极其少。 电力成本是平民化的东西也非常低，而且电力建设一直都是养老的印钞机也不可能亏损。",
-      "url": "https://x.com/xiaomustock/status/2081203163928109207",
-      "tweet_id": "2081203163928109207"
-    },
-    {
-      "id": "tweet_xiaomustock_2081183424342270321",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Sun, 26 Jul 2026 01:02:49 GMT",
-      "content": "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。ds拿着低效的华为烂卡用低价策略的回报速度都只有10个月， 谷歌这些云厂和claude他们投资回报的转化速度可以更快。",
-      "url": "https://x.com/xiaomustock/status/2081183424342270321",
-      "tweet_id": "2081183424342270321"
-    },
-    {
-      "id": "tweet_xiaomustock_2080505226398994837",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Fri, 24 Jul 2026 04:07:54 GMT",
-      "content": "如果爆亏了， 交易也是全球最大的知识付费市场， 就问你获没获得知识， 花没花钱。",
-      "url": "https://x.com/xiaomustock/status/2080505226398994837",
-      "tweet_id": "2080505226398994837"
     },
     {
       "id": "tweet_xingpt_2080661956483277221",
@@ -232,8 +205,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 8
+    "users_success": 7,
+    "users_failed": 1,
+    "nitter_healthy": 9
   }
 }
