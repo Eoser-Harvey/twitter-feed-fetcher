@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-26T02:56:30.162891+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-26T06:09:08.953554+00:00",
+  "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2081204422281949372",
+      "id": "tweet_elonmusk_2080925877919949097",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 26 Jul 2026 02:26:15 GMT",
-      "content": "Great video of Starship launching",
-      "url": "https://x.com/elonmusk/status/2081204422281949372",
-      "tweet_id": "2081204422281949372",
-      "translated": "星舰发射的精彩视频"
+      "published_at": "Sat, 25 Jul 2026 07:59:25 GMT",
+      "content": "RT by @elonmusk: Grok Build Web UI is live. I built a local-first dashboard for Grok sessions. Open a fresh Grok CLI and it shows up live, then inspect activity, Git changes, session history, and control agents from one place. npx --yes grok-ui https://github.com/joeynyc/Grok-UI",
+      "url": "https://x.com/elonmusk/status/2080925877919949097",
+      "tweet_id": "2080925877919949097",
+      "translated": "RT @elonmusk：Grok Build Web UI 已上线。我为 Grok 会话构建了一个本地优先的仪表板。打开一个新的 Grok CLI，它会实时显示，然后从一个地方检查活动、Git 更改、会话历史记录和控制代理。 npx --yes grok-ui https://github.com/joeynyc/Grok-UI"
     },
     {
-      "id": "tweet_elonmusk_2081202568282169661",
+      "id": "tweet_elonmusk_2081219220415652110",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 26 Jul 2026 02:18:53 GMT",
-      "content": "You can just talk to Grok Build",
-      "url": "https://x.com/elonmusk/status/2081202568282169661",
-      "tweet_id": "2081202568282169661",
-      "translated": "你可以直接与 Grok Build 交谈"
+      "published_at": "Sun, 26 Jul 2026 03:25:03 GMT",
+      "content": "Grok Imagine",
+      "url": "https://x.com/elonmusk/status/2081219220415652110",
+      "tweet_id": "2081219220415652110",
+      "translated": "格洛克想象"
     },
     {
-      "id": "tweet_elonmusk_2081162179282391307",
+      "id": "tweet_elonmusk_2081218380321714381",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 25 Jul 2026 23:38:24 GMT",
-      "content": "RT by @elonmusk: It’s counter intuitive, but birth rate falls when a civilization grows wealthy This is disastrous and has ended great civilizations We are not immune from this fate",
-      "url": "https://x.com/elonmusk/status/2081162179282391307",
-      "tweet_id": "2081162179282391307",
-      "translated": "RT by @elonmusk：这是违反直觉的，但是当一个文明变得富裕时，出生率就会下降，这是灾难性的，已经结束了伟大的文明，我们也不能幸免于这种命运"
+      "published_at": "Sun, 26 Jul 2026 03:21:43 GMT",
+      "content": "Video",
+      "url": "https://x.com/elonmusk/status/2081218380321714381",
+      "tweet_id": "2081218380321714381",
+      "translated": "视频"
     },
     {
       "id": "tweet_cz_binance_2081163952348938261",
@@ -63,6 +63,36 @@
       "translated": "需要更多这样的清洁工作。"
     },
     {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432",
+      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2068370500334637542",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
+      "content": "RT by @realDonaldTrump: POLL…",
+      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
+      "tweet_id": "2068370500334637542",
+      "translated": "RT @realDonaldTrump：投票……"
+    },
+    {
       "id": "tweet_aleabitoreddit_2080750537121874206",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -90,7 +120,25 @@
       "content": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). There's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\". Most interesting take was: \"Pluggables will be around for the next 10 years\". There's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay. And that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). As for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. From the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. So it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light. But TLDR: Lot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
       "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
       "tweet_id": "2080445777395298454",
-      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM 大麻化的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模更大（对于 $JBL + 其他玩家来说这是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
+      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM 大麻化的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模更大（这对于 $JBL + 其他玩家来说是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
+    },
+    {
+      "id": "tweet_qinbafrank_2081244944103301241",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sun, 26 Jul 2026 05:07:16 GMT",
+      "content": "詹姆斯：“兄弟，抱歉，今年才看到这条信息” 12年前呼吁得到了回应 不得不说恩比德终于心想事成 詹姆斯在职业生涯的第四支球队能不能再拿个总冠军？🤔",
+      "url": "https://x.com/qinbafrank/status/2081244944103301241",
+      "tweet_id": "2081244944103301241"
+    },
+    {
+      "id": "tweet_qinbafrank_2081226811514753045",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sun, 26 Jul 2026 03:55:13 GMT",
+      "content": "现在关于AI的投资核心问题：时间差，也可以这么说“时间差”是当前理解AI资本开支周期最重要的框架之一。为何这么说？看谷歌的财报，甚至下周微软、亚马逊、Meta的财报可能都呈现了一种：“现金先支付（资本开支钱先花出去）、产能后上线、订单再转收入、利润与自由现金流最后兑现”的模式，先花钱再看赚钱的效率和速度，这就是时间差的本质要义。 1、我们再看下谷歌的财报，谷歌2026年第二季度是非常典型的案例。当季： 总收入1198亿美元，同比增长24%； 经营现金流391亿美元； 资本开支449亿美元； 自由现金流约负59亿美元； Google Cloud收入248亿美元，同比增长82%； 云业务经营利润88亿美元，经营利润率达到35.6%； 云业务积压订单5140亿美元，单季又增加约500亿美元； 超过一半积压订单预计在未来24个月确认。 从表面看，公司自由现金流转负，似乎意味着AI投资回报恶化。但云业务的数据却在同时加速： 云收入增长82%+云利润率35.6%+Backlog继续增加 这说明资本开支并不是在没有需求的情况下盲目建设，而是在已有需求超过供给的情况下扩容。 管理层还把2026年资本开支指引从1800亿—1900亿美元提高到1950亿—2050亿美元，也是因为设备和数据中心产能交付速度加快 2、这里的时间差分成了四步： 第一步：先支付服务器和数据中心费用 Alphabet本季度资本开支中，大约60%用于服务器，约40%用于数据中心和网络。服务器付款、土地建设、电力接入和网络设备都发生在收入确认之前。谷歌自己披露资本开支建设周期数月到数年。 也就是说今年二季度谷歌云的新增营收里基本上是去年资本开支带来的，今年资本开支产生的营收要到明年才能开始逐步兑现。 第二步：产能部署和验收 芯片买回来不等于立刻可以计费，还需要安装、联网、调试、软件适配和客户部署。 第三步：订单开始转成收入 即使客户已经签订多年合同，收入也不会在签约时一次性确认，而是在客户持续使用云服务、算力或硬件交付后逐期确认。谷歌披露，当前部分TPU系统销售在2026年只会确认较少收入，绝大部分相关收入要到2027年才会确认。 第四步：收入转成自由现金流 即便收入开始确认，短期仍可能受到以下因素压制： 新资产折旧增加； 电力和网络费用增加； 新数据中心初期利用率尚未达到成熟水平； 为缓解算力不足而租用第三方容量，成本高于自建； 客户迁移和部署需要时间。 Alphabet已经提示，使用第三方容量作为过渡方案将给短期利润率带来压力。因此，Alphabet目前不是“没有回报”，而是： 已经看到了收入、订单和利润率回报，但新增资本开支增长得更快，导致公司层面的自由现金流暂时落后。 3、关于时间差需要重点关注的几个点 1）不能用资本开支增长率直接和当期收入增长率比较 资本开支购买的是可以使用多年的资产，而收入是一个季度或一年的流量。例如，一座数据中心可能今年一次性投入100亿美元，但未来十年每年产生收入。把今年100亿美元资本开支直接和今年新增收入比较，会天然低估项目回报。 正确做法是把每一批资产单独建模： 项目累计收入−项目累计运营成本−维护资本开支−税费−融资成本。 然后计算项目IRR和ROIC。 最好的模型自然是用资本批次、投产滞后和全生命周期现金流来分析。 2）Backlog高增长是好事，更要看backlgo到实际营收转化的节奏和质量 订单积压只能证明需求意愿，不能自动证明最终利润。 要进一步判断： 未来12个月、24个月分别确认多少； 合同能否取消； 是否需要以容量交付为前提； 客户是否预付款； 合同价格是否固定； 成本上涨能否转嫁； 客户最低使用承诺是否刚性。 3）高质量的时间差 高质量的时间差应该每个季度看到转化 订单→在建产能→上线容量→收入→分部利润→经营现金流→自由现金流 如果长期只看到： 资本开支上升+Backlog上升 却看不到容量上线、收入确认和利润改善，那么时间差就可能已经从正常建设周期，变成建设延期或资本效率恶化。 谷歌二季度财报让我们看到高质量时间差的信号 总结 可以把当前AI投资周期的确可以概括为： 资本开支已经进入爆发阶段，收入、订单和利润也在加速，但大多数新建产能还没有完全上线，因此自由现金流的兑现落后于资本投入。 我们要关注的每一美元新增资本开支对应的未来合同毛利润、产能利用率和现金回收速度正在提高，而且回收期短于资产淘汰期和融资期限。 只有同时满足以下关系，时间差才值得等待： 需求确定性上升+订单转化加速+产能利用率提高+增量ROIC>WACC+资产负债表能够承受 反过来，一旦出现： 资本开支继续提高+产能不再紧缺+Backlog增速下降+确认周期延长+分部利润率下滑+融资成本上升 那么市场会迅速把“正常的时间差”重新定价为“AI过度建设”。 简单说 时间差是分析AI资本开支最重要的起点； 真正决定投资回报的终点，则是资本批次的ROIC、回收期和资产负债表安全性。",
+      "url": "https://x.com/qinbafrank/status/2081226811514753045",
+      "tweet_id": "2081226811514753045"
     },
     {
       "id": "tweet_qinbafrank_2080823741815382302",
@@ -100,24 +148,6 @@
       "content": "为什么美国科技公司要为开源模型（中国开源模型占了绝大多数）争取发展空间？昨晚最大的新闻无疑就是老黄@JensenHuang 首开X账号，第一条推文就是一份由a16z发起、英伟达、微软联合PLTR、PerplexityAI、Ollama等多家科技公司共同签署的公开信，明确主张\"前沿开源模型与前沿闭源模型应并存发展\"。看到都在聊公开信本身，但是对背后的动机和意图聊的不多。个人角度，核心原因就是之前下面这张图和引用的之前长文里聊到的内容： 1、美国企业使用的中国开源模型每周token占比正逼近60%，开源模型在美国企业token消耗里占比这么大，一旦被禁或者限制、那么企业的成本剧增。 2、7月中的这篇长文里（引用的长文就是）聊到：企业AI采用进入工程化时代，AI在企业级市场的采用越来越变成分场景应用模型阶段： 1）高价值场景使用继续使用闭源前沿大模型的高价值Token； 2）高频、低复杂度、高体积的任务场景下，企业越来越偏向高性比价比Token（基本上来自开源模型）。 3、这个趋势不可避免： 对于芯片厂商来说、用谁的模型都要训练和推理； 对于云厂商来说，给企业客户模型选择越多，毛利越高； 对于部署层（如pltr）或者应用型公司来说，更是天然有选择高性价比token的动力。 这份公开信的联名企业基本上就是这三大类，所以公开信背后其实有着极强的商业诉求和巨大的商业价值。 4、Authropic在国会呼吁限制或者禁止中国开源模型的发展，实质上是明显感受到了这股势头的威胁和影响。kimi k3只是一个催化剂，在k3之前中国开源在Token消耗量的份额占比已经在快速飙升了，即使没有k3，Authropic也有动力这么做。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
       "url": "https://x.com/qinbafrank/status/2080823741815382302",
       "tweet_id": "2080823741815382302"
-    },
-    {
-      "id": "tweet_qinbafrank_2080686195697438860",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 24 Jul 2026 16:07:00 GMT",
-      "content": "看阿曼这条新闻的时间点，也是纳指今晚盘中到现在的最低点。只要有缓和的可能，对市场情绪都是提振",
-      "url": "https://x.com/qinbafrank/status/2080686195697438860",
-      "tweet_id": "2080686195697438860"
-    },
-    {
-      "id": "tweet_qinbafrank_2080666498247594101",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 24 Jul 2026 14:48:44 GMT",
-      "content": "最近Stripe正是动作频频：月初推出OUSD稳定币联盟，月中传出很PE机构联手收购Paypal，下旬就穿出要收购OpenRouter。Stripe处理大量互联网交易流量，OpenRouter处理的是AI的“token 流量”。收购后，Stripe可直接切入AI消费的计量、路由和实时结算，把“AI 支出”纳入自己的生态，这算是在构建支付到AI基础设施闭环。 也不得不感叹OpenRouter创始人AlexAtallah对于退出把握的干脆果断： 作为OpenSea的联创兼CTO，22年底离开OpenSea； 2023年初正式创立OpenRouter、现在又要把OpenRouter卖掉。",
-      "url": "https://x.com/qinbafrank/status/2080666498247594101",
-      "tweet_id": "2080666498247594101"
     },
     {
       "id": "tweet_xiaomustock_2081203163928109207",
@@ -174,36 +204,36 @@
       "tweet_id": "2080495800485085461"
     },
     {
-      "id": "tweet_hibtc37_2081203285412008419",
+      "id": "tweet_hibtc37_2081254087501435039",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Sun, 26 Jul 2026 02:21:44 GMT",
-      "content": "十亿哥又要开多了，的新止损价格，刚好就是我现在650空单，第一止盈价格635，这次我们可能不再是对手盘了 周末的流动性不好，研究了最新区间： 650（难） 647（易） 644市价 633（肥妹） 预计会先吃647，650如果是周中的流动性有点难，但周末流动性太薄了，容易不讲武德，不好说，所以我设置了649的止损单，意味着我的650空单就不可能亏钱了 这个周末可能大概率是平静过，因为都在等下周4凌晨沃什讲话，谁都不敢大乱动，顶多小幅度上下插针，波动率在压缩，市场在屏住呼吸 如果沃什讲话利空BTC，将又可能是大崩，现在的杠杆已经高到经受不了太大的打击了，大崩40%概率，中崩55%，不崩5%，小崩0% 如果沃什讲话利好BTC，我649自动平空单退出，赚100个点平出，踏空十亿哥说的这波一根大阳线行情，但几率很低很低 下周就能验证我的判断，好玩",
-      "url": "https://x.com/hibtc37/status/2081203285412008419",
-      "tweet_id": "2081203285412008419"
+      "published_at": "Sun, 26 Jul 2026 05:43:36 GMT",
+      "content": "微博老铁粉的情绪价值给的真高，不过我还是很需要喷子的，要不然容易过度自信，所以，我经常挑喷子，也不拉黑黑粉，需要时一些不同的反馈和反对意见，形成决策的闭环回路，即使有很多反对是噪音",
+      "url": "https://x.com/hibtc37/status/2081254087501435039",
+      "tweet_id": "2081254087501435039"
     },
     {
-      "id": "tweet_hibtc37_2081194495421595805",
+      "id": "tweet_hibtc37_2081233689414082746",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Sun, 26 Jul 2026 01:46:49 GMT",
-      "content": "特朗普果然是“虚晃一枪，缓兵之计”，竟然在中期选举之前就干伊朗，走这条路，应该中期选举可能不利了。 不过，这次干是玩真的了。只有打仗才能捞钱，趁能捞尽捞！毕竟中期选举以后，就不一定能捞了。打的好，可能还有利于中期",
-      "url": "https://x.com/hibtc37/status/2081194495421595805",
-      "tweet_id": "2081194495421595805"
+      "published_at": "Sun, 26 Jul 2026 04:22:33 GMT",
+      "content": "华尔街大撤退，行业失血，又一家交易所倒下，这才是熊市该有的样子，希望客户的钱都能安全提出。",
+      "url": "https://x.com/hibtc37/status/2081233689414082746",
+      "tweet_id": "2081233689414082746"
     },
     {
-      "id": "tweet_hibtc37_2081190650725425593",
+      "id": "tweet_hibtc37_2081223328707363280",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Sun, 26 Jul 2026 01:31:32 GMT",
-      "content": "$MU #海力士 如期反弹，空单跑的刚好，下周存储高处见，我继续空 对于存储板块，下周可能是这轮周线级别调整(至少)的最后逃命机会😆 君子不立危墙之下，BTC版本华尔街大撤正在发生在存储 存储的位置相当于110KBTC，可上可下 利益声明：我960清仓了MU和所有存储（亏损出局），并且反手开空和已平空",
-      "url": "https://x.com/hibtc37/status/2081190650725425593",
-      "tweet_id": "2081190650725425593"
+      "published_at": "Sun, 26 Jul 2026 03:41:23 GMT",
+      "content": "流动性交易实验，第11周总结： 背景介绍：这是我的一个研究和测试新交易方法的账号，已经提现本金和利润31万，现在剩下5万，目标是这个账号从5万起，再做到50万 ，做到50万，我去造几个娃，为全球生育率萎缩，做出自己的一份贡献！ 初始资产：20万 最新结余：7.2万 累计提现：31万 累计资产：38.2万 累计利润：18.2万 累计收益率：91% 运行时间：运行11周，5月5日2026年开始 到这周，这个账号，终于上7万了，稳打稳扎上来的，从5到6到7，速度比较慢，做好每单的亏损上限，控制好杠杆，在胜率最大地方开单，及时止盈。 不追求每单利润最大化，打造一个正期望的操作系统，这是关键 以此，循环往复，慢慢的，在正确的逻辑和执行下，一定会到50万！ 还有这周进步比较大，克服了对海力士亏损的恐惧，找到了野马打法，也赚回来了 谢谢粉丝们支持，希望这过程，你们也赚麻！请三连件走起，鼓励我持续分享，帮助我200k和造娃！",
+      "url": "https://x.com/hibtc37/status/2081223328707363280",
+      "tweet_id": "2081223328707363280"
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
-    "nitter_healthy": 8
+    "users_success": 8,
+    "users_failed": 0,
+    "nitter_healthy": 9
   }
 }
