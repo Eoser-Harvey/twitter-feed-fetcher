@@ -1,36 +1,46 @@
 {
-  "fetched_at": "2026-07-25T23:03:48.728323+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-26T02:56:30.162891+00:00",
+  "total": 21,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2081145977243856918",
+      "id": "tweet_elonmusk_2081204422281949372",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 25 Jul 2026 22:34:01 GMT",
-      "content": "RT by @elonmusk: ELON MUSK: “One of the things that is overlooked by probably most historians is the role of low birth rate in the decline of civilizations. Around 50 BC, Rome passed a bill to give a bonus to any Roman citizen that would have a third child. So a birth rate was a problem in Rome in 50 BC. The Romans weren’t making Romans. The same is true of ancient Greece. The birth rate far exceeded the death rate, which is why you had Greek cities popping up all over the Mediterranean. But then it seems to be that prosperity destroys the birth rate. When a civilization feels like it has no meaningful external threat and is very prosperous, that is what causes the birth rate to plummet.”",
-      "url": "https://x.com/elonmusk/status/2081145977243856918",
-      "tweet_id": "2081145977243856918",
-      "translated": "RT @elonmusk：埃隆·马斯克：“可能大多数历史学家都忽视了低出生率在文明衰落中所扮演的角色。公元前 50 年左右，罗马通过了一项法案，向任何想要生第三个孩子的罗马公民提供奖金。因此，出生率在公元前 50 年的罗马是一个问题。罗马人并没有创造罗马人。古希腊也是如此。出生率远远超过死亡率，这就是为什么你有希腊城市在地中海各地涌现，但当一个文明感觉自己没有任何有意义的外部威胁并且非常繁荣时，繁荣似乎就会破坏出生率。”"
+      "published_at": "Sun, 26 Jul 2026 02:26:15 GMT",
+      "content": "Great video of Starship launching",
+      "url": "https://x.com/elonmusk/status/2081204422281949372",
+      "tweet_id": "2081204422281949372",
+      "translated": "星舰发射的精彩视频"
     },
     {
-      "id": "tweet_elonmusk_2081146893048959338",
+      "id": "tweet_elonmusk_2081202568282169661",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 25 Jul 2026 22:37:39 GMT",
-      "content": "Exactly. Incentives explain outcomes.",
-      "url": "https://x.com/elonmusk/status/2081146893048959338",
-      "tweet_id": "2081146893048959338",
-      "translated": "确切地。激励解释结果。"
+      "published_at": "Sun, 26 Jul 2026 02:18:53 GMT",
+      "content": "You can just talk to Grok Build",
+      "url": "https://x.com/elonmusk/status/2081202568282169661",
+      "tweet_id": "2081202568282169661",
+      "translated": "你可以直接与 Grok Build 交谈"
     },
     {
-      "id": "tweet_elonmusk_2081143591615742236",
+      "id": "tweet_elonmusk_2081162179282391307",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 25 Jul 2026 22:24:32 GMT",
-      "content": "Asimov’s Foundation series was a major influence on me. That and the fall of Rome, from which Foundation takes inspiration, is what convinced me that we need to extend consciousness beyond Earth to avoid a potentially infinite dark age.",
-      "url": "https://x.com/elonmusk/status/2081143591615742236",
-      "tweet_id": "2081143591615742236",
-      "translated": "阿西莫夫的《基地》系列对我影响很大。基金会从中汲取灵感的罗马的陷落，使我确信我们需要将意识扩展到地球之外，以避免潜在的无限黑暗时代。"
+      "published_at": "Sat, 25 Jul 2026 23:38:24 GMT",
+      "content": "RT by @elonmusk: It’s counter intuitive, but birth rate falls when a civilization grows wealthy This is disastrous and has ended great civilizations We are not immune from this fate",
+      "url": "https://x.com/elonmusk/status/2081162179282391307",
+      "tweet_id": "2081162179282391307",
+      "translated": "RT by @elonmusk：这是违反直觉的，但是当一个文明变得富裕时，出生率就会下降，这是灾难性的，已经结束了伟大的文明，我们也不能幸免于这种命运"
+    },
+    {
+      "id": "tweet_cz_binance_2081163952348938261",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sat, 25 Jul 2026 23:45:27 GMT",
+      "content": "DCA (If you don't know the term, better google it. You can't get rich without knowing some basic financial terms.)",
+      "url": "https://x.com/cz_binance/status/2081163952348938261",
+      "tweet_id": "2081163952348938261",
+      "translated": "DCA（如果您不知道这个术语，最好用谷歌搜索一下。如果不了解一些基本的财务术语，您就无法致富。）"
     },
     {
       "id": "tweet_cz_binance_2080803099443429672",
@@ -51,46 +61,6 @@
       "url": "https://x.com/cz_binance/status/2080801722667270264",
       "tweet_id": "2080801722667270264",
       "translated": "需要更多这样的清洁工作。"
-    },
-    {
-      "id": "tweet_cz_binance_2080801333909835970",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Fri, 24 Jul 2026 23:44:32 GMT",
-      "content": "New definition of pre-rich. 😂",
-      "url": "https://x.com/cz_binance/status/2080801333909835970",
-      "tweet_id": "2080801333909835970",
-      "translated": "预富人的新定义。 😂"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "Pinned: x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432",
-      "translated": "固定：x.com/i/broadcasts/1yxBeeAql…"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2068370500334637542",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sat, 20 Jun 2026 16:28:50 GMT",
-      "content": "RT by @realDonaldTrump: POLL…",
-      "url": "https://x.com/realDonaldTrump/status/2068370500334637542",
-      "tweet_id": "2068370500334637542",
-      "translated": "RT @realDonaldTrump：投票……"
     },
     {
       "id": "tweet_aleabitoreddit_2080750537121874206",
@@ -120,7 +90,7 @@
       "content": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). There's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\". Most interesting take was: \"Pluggables will be around for the next 10 years\". There's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay. And that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). As for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. From the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. So it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light. But TLDR: Lot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.",
       "url": "https://x.com/aleabitoreddit/status/2080445777395298454",
       "tweet_id": "2080445777395298454",
-      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM 大麻化的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模较大（这对于 $JBL + 其他玩家来说是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
+      "translated": "不完全是$AAOI（他们也在研究CPO，只是在商业化方面落后了一点）。 $SIVE 首席执行官最近推出了一个名为“市场洞察：光子学与人工智能”的播客。最有趣的观点是：“Pluggables 将在未来 10 年出现”。最近有很多关于可插拔的 CPO + RNG/MRC 优化 TAM 大麻化的争论，但看起来它会继续存在。未来将会有多种架构路径（CEO 也是 NPO 与 CPO 一起作为未来 5 年的主要机会）。至于挑战：Vickram 表示，制造能力+原材料供应是主要瓶颈。可能参考了上游 CW 激光斜坡的现有瓶颈。从播客来看，由于近期 TAM 规模更大（对于 $JBL + 其他玩家来说这是可以理解的），可插拔市场似乎受到了很大的关注，其中 CPO 是北极星。因此，如果 $SIVE 的并购目标是获得更多可插拔光收发器 IP，就像 $LITE 对 Cloud Light 所做的那样，那可能会很有趣。但总而言之：有很多不同的道路在前进，可以插入其中，CPO 似乎是行业发展方向的北极星。感觉每个合格的激光供应商都有空间，因为行业需求的增长速度超过了他们的总生产能力。"
     },
     {
       "id": "tweet_qinbafrank_2080823741815382302",
@@ -150,6 +120,24 @@
       "tweet_id": "2080666498247594101"
     },
     {
+      "id": "tweet_xiaomustock_2081203163928109207",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Sun, 26 Jul 2026 02:21:15 GMT",
+      "content": "市场还有一个非常严重的误区， 大陆ai投1000亿人民币，美区投1万亿美金，看起来美国佬投这么多钱搞出来的大模型实力水平都差不多， 但是投出去的钱大都买的是算力卡存储卡cpu卡，这些大陆买不仅不会更便宜反而更贵，都是能转化成收入的印钞机。 马斯克已经因为买卡赚死了。 而我们大陆，只能买3倍价格的卡， 美国佬投1万亿美金就是拿到了可以转化成1万亿美金收入的ai基建印钞机。 其他成本占比如人力成本和电力成本占比都很低， ai研究本身是人才密度极高的行业，员工数都极其少。 电力成本是平民化的东西也非常低，而且电力建设一直都是养老的印钞机也不可能亏损。",
+      "url": "https://x.com/xiaomustock/status/2081203163928109207",
+      "tweet_id": "2081203163928109207"
+    },
+    {
+      "id": "tweet_xiaomustock_2081183424342270321",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Sun, 26 Jul 2026 01:02:49 GMT",
+      "content": "只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。ds拿着低效的华为烂卡用低价策略的回报速度都只有10个月， 谷歌这些云厂和claude他们投资回报的转化速度可以更快。",
+      "url": "https://x.com/xiaomustock/status/2081183424342270321",
+      "tweet_id": "2081183424342270321"
+    },
+    {
       "id": "tweet_xiaomustock_2080505226398994837",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -157,24 +145,6 @@
       "content": "如果爆亏了， 交易也是全球最大的知识付费市场， 就问你获没获得知识， 花没花钱。",
       "url": "https://x.com/xiaomustock/status/2080505226398994837",
       "tweet_id": "2080505226398994837"
-    },
-    {
-      "id": "tweet_xiaomustock_2080334809445118410",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Thu, 23 Jul 2026 16:50:43 GMT",
-      "content": "交易是最好玩的对手最多的全球竞技游戏",
-      "url": "https://x.com/xiaomustock/status/2080334809445118410",
-      "tweet_id": "2080334809445118410"
-    },
-    {
-      "id": "tweet_xiaomustock_2080303930479972472",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Thu, 23 Jul 2026 14:48:01 GMT",
-      "content": "抄谷歌赌财报结果跌成麻瓜，按照梁总的卡10个月回本周期，谷歌的定价更贵云厂投入回本不成问题。存储反弹起来的时候把其他的清了留了韩股sk结果最垃圾。其他的存储天天涨。美光和sndk卖掉的钱买的谷歌🌚 太几把脸黑了我日呐",
-      "url": "https://x.com/xiaomustock/status/2080303930479972472",
-      "tweet_id": "2080303930479972472"
     },
     {
       "id": "tweet_xingpt_2080661956483277221",
@@ -204,36 +174,36 @@
       "tweet_id": "2080495800485085461"
     },
     {
-      "id": "tweet_hibtc37_2081147436194730283",
+      "id": "tweet_hibtc37_2081203285412008419",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Sat, 25 Jul 2026 22:39:49 GMT",
-      "content": "华为云的国际服务崩了，显示账号被冻结，所有跑在这上面公司的网站APP，直接消失，上两周亚马逊云，发生同样的事情，对开发者来说伤筋动骨，差点丢小命，真他娘的太受伤了！还追不到任何赔偿🤬🤬🤬🤬🤬 我估计是有什么脏资金进入了这个巨大领域的亚洲区，成片感染了供应商，牵连到一大批公司，因此亚马逊和华为云的财务账号被紧急冻结，然后云服务商紧急一刀切冻结开发者账号 这时候体现去中心化支付和分布式云服务的价值了",
-      "url": "https://x.com/hibtc37/status/2081147436194730283",
-      "tweet_id": "2081147436194730283"
+      "published_at": "Sun, 26 Jul 2026 02:21:44 GMT",
+      "content": "十亿哥又要开多了，的新止损价格，刚好就是我现在650空单，第一止盈价格635，这次我们可能不再是对手盘了 周末的流动性不好，研究了最新区间： 650（难） 647（易） 644市价 633（肥妹） 预计会先吃647，650如果是周中的流动性有点难，但周末流动性太薄了，容易不讲武德，不好说，所以我设置了649的止损单，意味着我的650空单就不可能亏钱了 这个周末可能大概率是平静过，因为都在等下周4凌晨沃什讲话，谁都不敢大乱动，顶多小幅度上下插针，波动率在压缩，市场在屏住呼吸 如果沃什讲话利空BTC，将又可能是大崩，现在的杠杆已经高到经受不了太大的打击了，大崩40%概率，中崩55%，不崩5%，小崩0% 如果沃什讲话利好BTC，我649自动平空单退出，赚100个点平出，踏空十亿哥说的这波一根大阳线行情，但几率很低很低 下周就能验证我的判断，好玩",
+      "url": "https://x.com/hibtc37/status/2081203285412008419",
+      "tweet_id": "2081203285412008419"
     },
     {
-      "id": "tweet_hibtc37_2080996390776504628",
+      "id": "tweet_hibtc37_2081194495421595805",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Sat, 25 Jul 2026 12:39:37 GMT",
-      "content": "倒卖B300的骗子真多！ 人人都说：有货，要几台？ 要成交了就说：刚卖掉了！ 这行业需要黑社会来整顿下，一点江湖道义都没有，他娘的",
-      "url": "https://x.com/hibtc37/status/2080996390776504628",
-      "tweet_id": "2080996390776504628"
+      "published_at": "Sun, 26 Jul 2026 01:46:49 GMT",
+      "content": "特朗普果然是“虚晃一枪，缓兵之计”，竟然在中期选举之前就干伊朗，走这条路，应该中期选举可能不利了。 不过，这次干是玩真的了。只有打仗才能捞钱，趁能捞尽捞！毕竟中期选举以后，就不一定能捞了。打的好，可能还有利于中期",
+      "url": "https://x.com/hibtc37/status/2081194495421595805",
+      "tweet_id": "2081194495421595805"
     },
     {
-      "id": "tweet_hibtc37_2080988116064796856",
+      "id": "tweet_hibtc37_2081190650725425593",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Sat, 25 Jul 2026 12:06:44 GMT",
-      "content": "$BTC 这是主力最想要的，形成\"6万美元很难跌破”或者“5万8很难破”的共识，这样才会在58k的下方形成更加肥妹易鸡的流动性，这时候，只需要借助一些风险事件，就顺流而下了",
-      "url": "https://x.com/hibtc37/status/2080988116064796856",
-      "tweet_id": "2080988116064796856"
+      "published_at": "Sun, 26 Jul 2026 01:31:32 GMT",
+      "content": "$MU #海力士 如期反弹，空单跑的刚好，下周存储高处见，我继续空 对于存储板块，下周可能是这轮周线级别调整(至少)的最后逃命机会😆 君子不立危墙之下，BTC版本华尔街大撤正在发生在存储 存储的位置相当于110KBTC，可上可下 利益声明：我960清仓了MU和所有存储（亏损出局），并且反手开空和已平空",
+      "url": "https://x.com/hibtc37/status/2081190650725425593",
+      "tweet_id": "2081190650725425593"
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 9
+    "users_success": 7,
+    "users_failed": 1,
+    "nitter_healthy": 8
   }
 }
