@@ -1,66 +1,36 @@
 {
-  "fetched_at": "2026-07-27T17:45:35.666811+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-27T19:37:25.733592+00:00",
+  "total": 21,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2081782292591104077",
+      "id": "tweet_elonmusk_2081803897883046220",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Mon, 27 Jul 2026 16:42:30 GMT",
-      "content": "True",
-      "url": "https://x.com/elonmusk/status/2081782292591104077",
-      "tweet_id": "2081782292591104077",
-      "translated": "真的"
+      "published_at": "Mon, 27 Jul 2026 18:08:21 GMT",
+      "content": "The best way to communicate with the world is directly in your own words, not through the reality distortion nightmare mirror that is the legacy mainstream press",
+      "url": "https://x.com/elonmusk/status/2081803897883046220",
+      "tweet_id": "2081803897883046220",
+      "translated": "与世界沟通的最佳方式是直接用自己的话，而不是通过传统主流媒体扭曲现实的噩梦镜子"
     },
     {
-      "id": "tweet_elonmusk_2081777064152019100",
+      "id": "tweet_elonmusk_2081718431393402884",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Mon, 27 Jul 2026 16:21:44 GMT",
-      "content": "RT by @elonmusk: BREAKING: President Javier Milei announced Starlink will connect 6,000 rural schools across Argentina. 🇦🇷 \"Thanks to Starlink, 6,000 rural schools that until today had poor internet connection or no connectivity at all will be added. That is a huge amount. Thank you, Elon\"",
-      "url": "https://x.com/elonmusk/status/2081777064152019100",
-      "tweet_id": "2081777064152019100",
-      "translated": "RT @elonmusk：突发新闻：总统哈维尔·米雷 (Javier Milei) 宣布 Starlink 将连接阿根廷各地 6,000 所农村学校。 🇦🇷“感谢 Starlink，将增加 6,000 所迄今为止互联网连接较差或根本没有连接的农村学校。这是一个巨大的数字。谢谢你，Elon”"
+      "published_at": "Mon, 27 Jul 2026 12:28:45 GMT",
+      "content": "RT by @elonmusk: Proud to join @nvidia as a founding member of the Open Secure AI Alliance. Defenders need open tools, collaboration, and transparency to secure AI agents and systems. And customers want the ability to choose the best open or closed models.",
+      "url": "https://x.com/elonmusk/status/2081718431393402884",
+      "tweet_id": "2081718431393402884",
+      "translated": "RT @elonmusk：很荣幸能够加入 @nvidia，成为开放安全 AI 联盟的创始成员。防御者需要开放的工具、协作和透明度来保护人工智能代理和系统。客户希望能够选择最佳的开放式或封闭式模型。"
     },
     {
-      "id": "tweet_elonmusk_2081706238153261278",
+      "id": "tweet_elonmusk_2081801843022111055",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Mon, 27 Jul 2026 11:40:18 GMT",
-      "content": "RT by @elonmusk: Worth a read. Bernard Arnault responds to the press. @X has shifted the balance of power away from the media and back to the people. Thank you @elonmusk!",
-      "url": "https://x.com/elonmusk/status/2081706238153261278",
-      "tweet_id": "2081706238153261278",
-      "translated": "RT @elonmusk：值得一读。伯纳德·阿尔诺回应媒体。 @X 将权力的平衡从媒体转移回人民手中。谢谢@elonmusk！"
-    },
-    {
-      "id": "tweet_cz_binance_2081522037885972549",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 26 Jul 2026 23:28:21 GMT",
-      "content": "See you all tmr, in Manila 🇵🇭",
-      "url": "https://x.com/cz_binance/status/2081522037885972549",
-      "tweet_id": "2081522037885972549",
-      "translated": "TMr，马尼拉见🇵🇭"
-    },
-    {
-      "id": "tweet_cz_binance_2081372001965625749",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 26 Jul 2026 13:32:09 GMT",
-      "content": "Slowly but surely...",
-      "url": "https://x.com/cz_binance/status/2081372001965625749",
-      "tweet_id": "2081372001965625749",
-      "translated": "缓慢但肯定地..."
-    },
-    {
-      "id": "tweet_cz_binance_2081316675383910587",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 26 Jul 2026 09:52:19 GMT",
-      "content": "Tough times (again)! At least, it appears to be an orderly wind down where users can withdraw their assets. Pro tip: Self custody if you know how to keep your seedphrase safe (@trustwallet) Or use the largest exchange (@binance) with staying power.",
-      "url": "https://x.com/cz_binance/status/2081316675383910587",
-      "tweet_id": "2081316675383910587",
-      "translated": "艰难时期（再次）！至少，这似乎是一个有序的结束，用户可以提取他们的资产。专业提示：如果您知道如何保证助记词的安全，请自行保管 (@trustwallet) 或使用具有持久力的最大交易所 (@binance)。"
+      "published_at": "Mon, 27 Jul 2026 18:00:12 GMT",
+      "content": "Actual footage 😂",
+      "url": "https://x.com/elonmusk/status/2081801843022111055",
+      "tweet_id": "2081801843022111055",
+      "translated": "实景拍摄😂"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -232,8 +202,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
