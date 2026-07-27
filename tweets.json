@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-27T12:26:40.039494+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-27T15:45:07.339209+00:00",
+  "total": 18,
   "tweets": [
     {
       "id": "tweet_elonmusk_2081627240777895998",
@@ -31,36 +31,6 @@
       "url": "https://x.com/elonmusk/status/2081493665738887290",
       "tweet_id": "2081493665738887290",
       "translated": "RT by @elonmusk：憎恨白人异性恋男性以外的任何群体都是种族主义、性别歧视、恐同症、跨性别者恐惧症等。但是憎恨白人异性恋男性呢？嗯，这显然是社会正义。"
-    },
-    {
-      "id": "tweet_cz_binance_2081522037885972549",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 26 Jul 2026 23:28:21 GMT",
-      "content": "See you all tmr, in Manila 🇵🇭",
-      "url": "https://x.com/cz_binance/status/2081522037885972549",
-      "tweet_id": "2081522037885972549",
-      "translated": "TMr，马尼拉见🇵🇭"
-    },
-    {
-      "id": "tweet_cz_binance_2081372001965625749",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 26 Jul 2026 13:32:09 GMT",
-      "content": "Slowly but surely...",
-      "url": "https://x.com/cz_binance/status/2081372001965625749",
-      "tweet_id": "2081372001965625749",
-      "translated": "缓慢但肯定地..."
-    },
-    {
-      "id": "tweet_cz_binance_2081316675383910587",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 26 Jul 2026 09:52:19 GMT",
-      "content": "Tough times (again)! At least, it appears to be an orderly wind down where users can withdraw their assets. Pro tip: Self custody if you know how to keep your seedphrase safe (@trustwallet) Or use the largest exchange (@binance) with staying power.",
-      "url": "https://x.com/cz_binance/status/2081316675383910587",
-      "tweet_id": "2081316675383910587",
-      "translated": "艰难时期（再次）！至少，这似乎是一个有序的结束，用户可以提取他们的资产。专业提示：如果您知道如何保证助记词的安全，请自行保管 (@trustwallet) 或使用具有持久力的最大交易所 (@binance)。"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -120,7 +90,16 @@
       "content": "Just some TLDR news: - $CXMT IPO tomorrow if you like Chinese memory. - Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantees, Samsung Electro-Mechanics sought prepayments. - Samsung + $AVGO sign memory + foundry AI framework through 2030, expected to exceed $200b - $SOI expects FY2027 silicon photonics revenue to double compared to the previous year, surpassing Morgan Stanley's 60% growth projection. Photonics thesis go brrr. - SK Group + $NVDA sign $500B+ partnership to build out AI DCs and HBM4 memory. - SKC Absolics glass core delay to 2027 from reports. Targeting final reliability testing EOY, mass production next year. So if you're curious, this does push back some ramps from $LPK and others (hence drop on ER). - $QCOM price hikes by double digits for smartphone processors, due to upstream supplier hike pricing. - $META expected to issue $12B in project-level/SPV financing for El Paso, Texas AI DC expansion - Naver announced a $10 billion investment from $NVDA and Brookfield to construct a 1GW-scale AI Factory. Near term plan is 200MW by 2028. (Nvidia $1B investment, Brookfield nonbinding $9B) - 64GB DDR5 server modules rises 146% versus end-June contract pricing - $INTC brought forward 14A process mass production by a year, risk production H2 2027 and volume production in 2028, vs. 2029 HVM expectations. - Samsung Electro-Mechanics wins $200m MLCC order (existing bottleneck). - $AMD (the Bandana bottleneck), announces Helios is in full production with shipments Q3 2026. Including an up to 2GW MI455X GPU deployment with Anthropic and a 6GW infrastructure rollout with OpenAI. Gave new >50% CAGR TAM to $220B by 2030 from $26b in 2025 for CPU market. Rolls out optical interconnects for Mi500 in 2027. From channel checks, AMD is heading down to the CPO route (seems likely to use Ayar). - $ORCL wins $7B Department of War enterprise software contract - JX metal doubles semi target capacity at its KR subsidary with a 4B yen investment, with operations to begin H2 2027, amid surging demand from major customers Samsung Electronics and SK Hynix - Tungsten hexafluoride spot prices surged 2.1-2.5x Y/Y following Japan's Kanto Denka and Chuo Gas announcing permanent production halts. Fluorinated liquid supply faces a vacuum as 3M plans to exit PFAS production. - From the four optical chipmaker earnings, Yuanjie/Eoptolink/TFC Optical/Dongshan Precision: no major order cuts, 1.6T shipments expected to accelerate into 2027. Optical chip suppliers expected to capture outsized margins from shortages. - Unitree Robotics Targets 30,000 Humanoid Robot Production Capacity by 2026. Read through on humanoid TAM scaling like $CCXI and others. - Energy storage lithium batteries orders increase first half orders by 2,900% apparently in China. Not as familiar with EVE Energy and other battery makers.",
       "url": "https://x.com/aleabitoreddit/status/2081472671129501729",
       "tweet_id": "2081472671129501729",
-      "translated": "只是一些 TLDR 新闻： - 如果您喜欢中国内存，明天 CXMT IPO 美元将会增加。 - 据报道，三星电子正在努力确保大型 FC-BGA 基板的安全。据报道，Ibiden（4062）要求 LTA 担保，三星电机寻求预付款。 - 三星+$AVGO标志存储器+代工AI框架到2030年，预计将超过200b美元 - $SOI预计2027财年硅光子收入将比上一年翻一番，超过摩根士丹利60%的增长预测。光子学论文进展顺利。 - SK Group + $NVDA 签署价值 500B+ 的合作伙伴关系，以构建 AI DC 和 HBM4 内存。 - 据报道，SKC Absolics 玻璃芯推迟到 2027 年。目标是最终可靠性测试EOY，明年量产。所以如果你好奇的话，这确实会推迟 $LPK 和其他人的一些斜坡（因此 ER 下降）。 - 由于上游供应商提高定价，QCOM 智能手机处理器的价格上涨了两位数。 - $META 预计将为德克萨斯州埃尔帕索 AI DC 扩张提供 12B 美元的项目级/SPV 融资 - Naver 宣布从 $NVDA 和 Brookfield 投资 100 亿美元，用于建设一座 1GW 规模的 AI 工厂。近期计划是到 2028 年达到 200MW。（Nvidia 投资 1B 美元，Brookfield 非约束性投资 9B 美元） - 64GB DDR5 服务器模块较 6 月底合同价格上涨 146% - $INTC 将 14A 工艺量产提前一年，2027 年下半年风险生产和 2028 年量产，与 2029 年 HVM 预期相比。 - 三星电机赢得 2 亿美元的 MLCC 订单（现有瓶颈）。 - $AMD（Bandana 瓶颈）宣布 Helios 已全面投产，并于 2026 年第三季度发货。包括与 Anthropic 一起部署高达 2GW 的 MI455X GPU，以及与 OpenAI 一起部署的 6GW 基础设施。 CPU 市场的复合年增长率 >50%，到 2030 年，TAM 将从 2025 年的 260 亿美元增至 2200 亿美元。 2027年推出Mi500的光互连。从渠道检查来看，AMD正在走CPO路线（似乎可能使用Ayar）。 - $ORCL 赢得价值 70 亿美元的战争部企业软件合同 - JX Metal 通过 4B 日元投资，将其韩国子公司的半目标产能翻了一番，由于主要客户三星电子和 SK 海力士的需求激增，JX Metal 将于 2027 年下半年开始运营 - 在日本关东电化和中央燃气宣布永久停产后，六氟化钨现货价格同比飙升 2.1-2.5 倍。由于 3M 计划退出 PFAS 生产，氟化液体供应面临真空。 - 从四家光芯片厂商财报来看，元杰/新易盛/天富光/东山精密：无大订单削减，1.6T出货预计加速至2027年。光芯片供应商有望从短缺中获取巨额利润。 - Unitree Robotics 的目标是到 2026 年实现 30,000 个人形机器人产能。仔细阅读 $CCXI 等人形机器人 TAM 扩展。 - 中国储能锂电池订单上半年订单增幅明显达2,900%。对 EVE Energy 和其他电池制造商不太熟悉。"
+      "translated": "只是一些 TLDR 新闻： - 如果您喜欢中国内存，明天 CXMT IPO 美元将会增加。 - 据报道，三星电子正在努力确保大型 FC-BGA 基板的安全。据报道，Ibiden（4062）要求 LTA 担保，三星电机寻求预付款。 - 三星+$AVGO标志存储器+代工AI框架到2030年，预计将超过200b美元 - $SOI预计2027财年硅光子收入将比上一年翻一番，超过摩根士丹利60%的增长预测。光子学论文进展顺利。 - SK Group + $NVDA 签署价值 500B+ 的合作伙伴关系，以构建 AI DC 和 HBM4 内存。 - 据报道，SKC Absolics 玻璃芯推迟到 2027 年。目标是最终可靠性测试EOY，明年量产。所以如果你好奇的话，这确实会推迟 $LPK 和其他人的一些斜坡（因此 ER 下降）。 - 由于上游供应商提高定价，QCOM 智能手机处理器的价格上涨了两位数。 - $META 预计将为德克萨斯州埃尔帕索 AI DC 扩张提供 12B 美元的项目级/SPV 融资 - Naver 宣布从 $NVDA 和 Brookfield 投资 100 亿美元，用于建设一座 1GW 规模的 AI 工厂。近期计划是到 2028 年达到 200MW。（Nvidia 投资 1B 美元，Brookfield 非约束性投资 9B 美元） - 64GB DDR5 服务器模块较 6 月底合同价格上涨 146% - $INTC 将 14A 工艺量产提前一年，2027 年下半年风险生产和 2028 年量产，与 2029 年 HVM 预期相比。 - 三星电机赢得 2 亿美元的 MLCC 订单（现有瓶颈）。 - $AMD（Bandana 瓶颈）宣布 Helios 已全面投产，并于 2026 年第三季度发货。包括与 Anthropic 一起部署高达 2GW 的 MI455X GPU，以及与 OpenAI 一起部署的 6GW 基础设施。 CPU 市场的复合年增长率 >50%，到 2030 年，TAM 将从 2025 年的 260 亿美元增至 2200 亿美元。 2027年推出Mi500的光互连。从渠道检查来看，AMD正在走CPO路线（似乎可能使用Ayar）。 - $ORCL 赢得价值 70 亿美元的战争部企业软件合同 - JX Metal 通过 4B 日元投资，将其韩国子公司的半目标产能翻了一番，由于主要客户三星电子和 SK Hynix 的需求激增，JX Metal 将于 2027 年下半年开始运营 - 在日本关东电化 (Kanto Denka) 和中央燃气 (Chuo Gas) 宣布永久停产后，六氟化钨现货价格同比飙升 2.1-2.5 倍。由于 3M 计划退出 PFAS 生产，氟化液体供应面临真空。 - 从四家光芯片厂商财报来看，元杰/新易盛/天富光/东山精密：无大订单削减，1.6T出货预计加速至2027年。光芯片供应商有望从短缺中获取巨额利润。 - Unitree Robotics 的目标是到 2026 年实现 30,000 个人形机器人产能。仔细阅读 $CCXI 等人形机器人 TAM 扩展。 - 中国储能锂电池订单上半年订单增幅明显达2,900%。对 EVE Energy 和其他电池制造商不太熟悉。"
+    },
+    {
+      "id": "tweet_qinbafrank_2081762637990474003",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Mon, 27 Jul 2026 15:24:24 GMT",
+      "content": "国产光刻机真实情况如何？晚上的美股被中国光刻机的消息吓到了，TheInformation报道称中国一家未具名的国资背景上海公司已开始国产浸没式DUV光刻机的有限生产，目标今年约5台、2027年约20台，首批计划交付中芯国际（SMIC）、华虹（Hua Hong）和长鑫（CXMT）。大家只看到了新闻标题、其实更值得关注报道里对于国产光刻机的相关信息： 1）机器主要使用中国组件，国产化率高，但关键光学、光源、精密部件等仍有日本等进口依赖，完全自主尚需时间。美国等可能进一步限制零部件/维护。 2）性能和制造质量落后于ASML，落后ASML（类似2008年前后机型水平，吞吐、套刻精度、稳定性不足），需长时间客户验证才能上量产线。光刻机从原型到稳定量产通常需数年迭代。 3）产能5台→20台对比ASML年出货百台以上，差距巨大。中国晶圆厂扩产（中芯等计划大幅提升产能）仍主要靠存量ASML DUV。 4）应用天花板：DUV+多重图案化可支撑当前中国AI芯片等（如华为相关），但成本高、良率低、复杂度大，无法替代EUV在更先进节点（3nm及以下）的效率。国产EUV（如新凯来“珠峰”项目等）仍早期原型，距离可用芯片生产还有数年。 对中國而言，这是在出口管制下实现“从实验室到产线”的实质一步，有助于成熟制程扩产、降低断供风险，并为后续迭代积累数据与供应链经验，但距离全面自主和追赶顶尖水平仍远。 如果细看这些信息能清晰对ASML并不会即时产生严重威胁，但市场反应还是很大、其实能说明市场信心还是不足、稍有风吹草动就先跑为上。 就像今天上午的新闻英伟达要给openai担保建设10gw数据中心一样，在信心弱势的情况下，市场先看的不是10gW算力，而是更关注信用风险增加、潜在被触发担保的敞口。",
+      "url": "https://x.com/qinbafrank/status/2081762637990474003",
+      "tweet_id": "2081762637990474003"
     },
     {
       "id": "tweet_qinbafrank_2081699036445462783",
@@ -141,13 +120,13 @@
       "tweet_id": "2081579152336142737"
     },
     {
-      "id": "tweet_qinbafrank_2081563262571954207",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Mon, 27 Jul 2026 02:12:10 GMT",
-      "content": "我们要看到美国AI热潮中最雄心勃勃的金融交易么？看华尔街日报报道Nvidia正与OpenAI商谈提供约2500亿美元的背书担保，支持俄亥俄州南部一个10GW超大型数据中心项目（SoftBank Energy开发）。项目总造价（含芯片）可能超5000亿美元，是目前宣布的最大数据中心项目，交易尚未敲定，可能告吹。OpenAI近期将2030年前算力支出预期上调至约7500亿美元。 1、项目相关信息 10GW数据中心园区（约可供应数百万户家庭电力），位于南部俄亥俄州已退役的铀浓缩厂址（哥伦布以南约50英里），使用联邦土地，以减少许可和本地反对阻力。首期约800兆瓦预计2028年完工，整体需多年建设。开发商为软银旗下SoftBan Energy（孙正义相关） 电力由美国政府控制，日本根据近期贸易协议单独投资约330亿美元建设天然气发电项目。美国向运营方支付费用，日本收回投资前与美方分享售电收入，之后美国拿90%。商务部长Howard Lutnick参与分配哪些公司获得电力接入。OpenAI谈判最积极，Anthropic、微软、谷歌也表达过兴趣。 英伟达角色 提供约2500亿美元“背书”，覆盖OpenAI的数据中心租赁和建设债务，不覆盖内部Nvidia芯片。另有单独讨论为芯片采购融资，可能达3500亿美元。 2、这其实属于“信用包装”安排。 OpenAI作为未盈利的私人公司，无投资级信用评级，直接融资成本高、难度大。英伟达凭借自身强大资产负债表（市值约5万亿美元级别、投资级信用）提供担保，相当于把违约风险转移到自己身上。 这让开发商更容易以更优惠条件向银行/债市融资，降低租赁和建设资金成本。本质是供应商（芯片卖家）用信用为客户（算力买家）背书，锁定长期GPU需求。 3、意义及影响 如果敲定成行，这应该美国AI热潮中最雄心勃勃的金融交易之一。 1）加速AI基础设施军备竞赛 直接缓解算力和电力瓶颈。10GW规模属于“AI工厂”级别，有助于OpenAI训练下一代模型并可能向云服务扩展。政府-私人合作（联邦土地+日美贸易电力安排）显示美国正用政策工具加速关键产业，与中国竞争意味浓厚。 2）英伟达角色深化： 真正升级为“基础设施银行/中央银行”。它不仅供应芯片，还深度介入融资和需求锁定，进一步巩固CUDA生态和市场份额。类似backstop可能扩散到更多neocloud和项目，推动整体资本支出 3）产业模式转变 AI公司从纯租云转向长期租赁/自建超大规模园区，降低对超大规模云厂商的依赖，但也加剧电力、冷却、铜材、变压器等上游需求。 4）竞争格局 10GW如果建成绝对是重塑了AI算力贷竞争格局，很大程度上能缓解当前的电力紧张。 整体科技/AI板块可能因“大单落地”情绪升温。 4、风险是什么？ 循环融资特征明显：Nvidia投资OpenAI → OpenAI租用/购买Nvidia驱动的基础设施 → Nvidia通过担保确保项目落地并持续卖芯片。若项目推进，OpenAI可从主要依赖云厂商（微软、亚马逊、甲骨文等）转向更大程度自控基础设施。 但市场会更关注信用风险增加、潜在被触发担保的敞口，以及是否稀释近端现金流。估值和支出高度互锁，市场愈发不能承担一丝不及预期的风险。 芯片商直接用资产负债表为超大规模算力工厂担保。一方面加速美国AI能力建设，另一方面也包含了高度循环、高杠杆的脆弱性。 当然交易还在谈判中，也要看最终条款、落地进度和实际触发概率将决定真实影响。",
-      "url": "https://x.com/qinbafrank/status/2081563262571954207",
-      "tweet_id": "2081563262571954207"
+      "id": "tweet_xiaomustock_2081751480021946522",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Mon, 27 Jul 2026 14:40:04 GMT",
+      "content": "我买到了美股百年大顶",
+      "url": "https://x.com/xiaomustock/status/2081751480021946522",
+      "tweet_id": "2081751480021946522"
     },
     {
       "id": "tweet_xiaomustock_2081688609078538487",
@@ -168,13 +147,22 @@
       "tweet_id": "2081583233792413948"
     },
     {
-      "id": "tweet_xiaomustock_2081203163928109207",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Sun, 26 Jul 2026 02:21:15 GMT",
-      "content": "市场还有一个非常严重的误区， 大陆ai投1000亿人民币，美区投1万亿美金，看起来美国佬投这么多钱搞出来的大模型实力水平都差不多， 但是投出去的钱大都买的是算力卡存储卡cpu卡，这些大陆买不仅不会更便宜反而更贵，都是能转化成收入的印钞机。 马斯克已经因为买卡赚死了。 而我们大陆，只能买3倍价格的卡， 美国佬投1万亿美金就是拿到了可以转化成1万亿美金收入的ai基建印钞机。 其他成本占比如人力成本和电力成本占比都很低， ai研究本身是人才密度极高的行业，员工数都极其少。 电力成本是平民化的东西也非常低，而且电力建设一直都是养老的印钞机也不可能亏损。",
-      "url": "https://x.com/xiaomustock/status/2081203163928109207",
-      "tweet_id": "2081203163928109207"
+      "id": "tweet_xingpt_2081764320908886150",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 27 Jul 2026 15:31:06 GMT",
+      "content": "美股今天半导体板块全体歇菜，大盘整体平稳，资金在向Mags、消费、软件等板块流动，拥挤度在从半导体逐步下降，资金覆盖广度在提升。 短期确实看不到什么好的方向，美股目前还是建议观望。 唯一比较难把握的点是A股半导体最近有企稳迹象，不知道明天会不会跟跌。 如果不跟跌：说明市场认可国产替代的逻辑，大于外围市场下跌的压力； 如果跟跌则反之，国内市场收到美股下跌带动。 后者出现的话，A股的仓位我会保守减仓。 （群里有兄弟说，费城半导体指数下跌都怪老詹去了费城，我竟无力反驳hhh）",
+      "url": "https://x.com/xingpt/status/2081764320908886150",
+      "tweet_id": "2081764320908886150"
+    },
+    {
+      "id": "tweet_xingpt_2081760089145577916",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 27 Jul 2026 15:14:17 GMT",
+      "content": "Moonshot K3 开源了：https://huggingface.co/moonshotai/Kimi-K3",
+      "url": "https://x.com/xingpt/status/2081760089145577916",
+      "tweet_id": "2081760089145577916"
     },
     {
       "id": "tweet_xingpt_2081579132794949959",
@@ -184,56 +172,11 @@
       "content": "网友问，为什么王虹在国内读博士绝对出不了成果？ 有网友举例，自己在国内读博天天给导师搞卫生带孩子；还有网友说王虹回来的话，论文都不一定能署自己的名。",
       "url": "https://x.com/xingpt/status/2081579132794949959",
       "tweet_id": "2081579132794949959"
-    },
-    {
-      "id": "tweet_xingpt_2081573498057801875",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Mon, 27 Jul 2026 02:52:50 GMT",
-      "content": "长鑫估值开的很满，观望了。",
-      "url": "https://x.com/xingpt/status/2081573498057801875",
-      "tweet_id": "2081573498057801875"
-    },
-    {
-      "id": "tweet_xingpt_2080661956483277221",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Fri, 24 Jul 2026 14:30:41 GMT",
-      "content": "新时代四大名著",
-      "url": "https://x.com/xingpt/status/2080661956483277221",
-      "tweet_id": "2080661956483277221"
-    },
-    {
-      "id": "tweet_hibtc37_2081694097899921740",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Mon, 27 Jul 2026 10:52:03 GMT",
-      "content": "空救！距离打止损一步之遥了，家人们，有的救吗",
-      "url": "https://x.com/hibtc37/status/2081694097899921740",
-      "tweet_id": "2081694097899921740"
-    },
-    {
-      "id": "tweet_hibtc37_2081670963733975512",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Mon, 27 Jul 2026 09:20:07 GMT",
-      "content": "兄弟们，海力士这收盘价不妙啊！ 我周末说“9500亿短期利好，长期完犊子”，差点被存王粉喷哭了，但我的判断正确概率在提升，和存王粉对骂了整整一个周末，大家用钱投票，这周出结果😀 有没有海力士大力神，给我讲讲下一步，要不要空他？",
-      "url": "https://x.com/hibtc37/status/2081670963733975512",
-      "tweet_id": "2081670963733975512"
-    },
-    {
-      "id": "tweet_hibtc37_2081663947674149175",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Mon, 27 Jul 2026 08:52:15 GMT",
-      "content": "A股做空不了，导致这个费率很难下来，只有等价格下来或者逼空结束，可能稍微好些，但估计那时费率、价格、时机都不一定好，如果有期权，能做个熊市Call差，会很舒服 没玩过A股，认知有限，有懂A股的股神想到套利的招吗",
-      "url": "https://x.com/hibtc37/status/2081663947674149175",
-      "tweet_id": "2081663947674149175"
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 10
+    "users_success": 6,
+    "users_failed": 2,
+    "nitter_healthy": 9
   }
 }
