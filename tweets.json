@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-27T19:37:25.733592+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-27T21:13:29.559533+00:00",
+  "total": 24,
   "tweets": [
     {
       "id": "tweet_elonmusk_2081803897883046220",
@@ -31,6 +31,36 @@
       "url": "https://x.com/elonmusk/status/2081801843022111055",
       "tweet_id": "2081801843022111055",
       "translated": "实景拍摄😂"
+    },
+    {
+      "id": "tweet_cz_binance_2081522037885972549",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sun, 26 Jul 2026 23:28:21 GMT",
+      "content": "See you all tmr, in Manila 🇵🇭",
+      "url": "https://x.com/cz_binance/status/2081522037885972549",
+      "tweet_id": "2081522037885972549",
+      "translated": "TMr，马尼拉见🇵🇭"
+    },
+    {
+      "id": "tweet_cz_binance_2081372001965625749",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sun, 26 Jul 2026 13:32:09 GMT",
+      "content": "Slowly but surely...",
+      "url": "https://x.com/cz_binance/status/2081372001965625749",
+      "tweet_id": "2081372001965625749",
+      "translated": "缓慢但肯定地..."
+    },
+    {
+      "id": "tweet_cz_binance_2081316675383910587",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sun, 26 Jul 2026 09:52:19 GMT",
+      "content": "Tough times (again)! At least, it appears to be an orderly wind down where users can withdraw their assets. Pro tip: Self custody if you know how to keep your seedphrase safe (@trustwallet) Or use the largest exchange (@binance) with staying power.",
+      "url": "https://x.com/cz_binance/status/2081316675383910587",
+      "tweet_id": "2081316675383910587",
+      "translated": "艰难时期（再次）！至少，这似乎是一个有序的结束，用户可以提取他们的资产。专业提示：如果您知道如何保证助记词的安全，请自行保管 (@trustwallet) 或使用具有持久力的最大交易所 (@binance)。"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -90,7 +120,7 @@
       "content": "Just some TLDR news: - $CXMT IPO tomorrow if you like Chinese memory. - Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantees, Samsung Electro-Mechanics sought prepayments. - Samsung + $AVGO sign memory + foundry AI framework through 2030, expected to exceed $200b - $SOI expects FY2027 silicon photonics revenue to double compared to the previous year, surpassing Morgan Stanley's 60% growth projection. Photonics thesis go brrr. - SK Group + $NVDA sign $500B+ partnership to build out AI DCs and HBM4 memory. - SKC Absolics glass core delay to 2027 from reports. Targeting final reliability testing EOY, mass production next year. So if you're curious, this does push back some ramps from $LPK and others (hence drop on ER). - $QCOM price hikes by double digits for smartphone processors, due to upstream supplier hike pricing. - $META expected to issue $12B in project-level/SPV financing for El Paso, Texas AI DC expansion - Naver announced a $10 billion investment from $NVDA and Brookfield to construct a 1GW-scale AI Factory. Near term plan is 200MW by 2028. (Nvidia $1B investment, Brookfield nonbinding $9B) - 64GB DDR5 server modules rises 146% versus end-June contract pricing - $INTC brought forward 14A process mass production by a year, risk production H2 2027 and volume production in 2028, vs. 2029 HVM expectations. - Samsung Electro-Mechanics wins $200m MLCC order (existing bottleneck). - $AMD (the Bandana bottleneck), announces Helios is in full production with shipments Q3 2026. Including an up to 2GW MI455X GPU deployment with Anthropic and a 6GW infrastructure rollout with OpenAI. Gave new >50% CAGR TAM to $220B by 2030 from $26b in 2025 for CPU market. Rolls out optical interconnects for Mi500 in 2027. From channel checks, AMD is heading down to the CPO route (seems likely to use Ayar). - $ORCL wins $7B Department of War enterprise software contract - JX metal doubles semi target capacity at its KR subsidary with a 4B yen investment, with operations to begin H2 2027, amid surging demand from major customers Samsung Electronics and SK Hynix - Tungsten hexafluoride spot prices surged 2.1-2.5x Y/Y following Japan's Kanto Denka and Chuo Gas announcing permanent production halts. Fluorinated liquid supply faces a vacuum as 3M plans to exit PFAS production. - From the four optical chipmaker earnings, Yuanjie/Eoptolink/TFC Optical/Dongshan Precision: no major order cuts, 1.6T shipments expected to accelerate into 2027. Optical chip suppliers expected to capture outsized margins from shortages. - Unitree Robotics Targets 30,000 Humanoid Robot Production Capacity by 2026. Read through on humanoid TAM scaling like $CCXI and others. - Energy storage lithium batteries orders increase first half orders by 2,900% apparently in China. Not as familiar with EVE Energy and other battery makers.",
       "url": "https://x.com/aleabitoreddit/status/2081472671129501729",
       "tweet_id": "2081472671129501729",
-      "translated": "只是一些 TLDR 新闻： - 如果您喜欢中国内存，明天 CXMT IPO 美元将会增加。 - 据报道，三星电子正在努力确保大型 FC-BGA 基板的安全。据报道，Ibiden（4062）要求 LTA 担保，三星电机寻求预付款。 - 三星+$AVGO标志存储器+代工AI框架到2030年，预计将超过200b美元 - $SOI预计2027财年硅光子收入将比上一年翻一番，超过摩根士丹利60%的增长预测。光子学论文进展顺利。 - SK Group + $NVDA 签署价值 500B+ 的合作伙伴关系，以构建 AI DC 和 HBM4 内存。 - 据报道，SKC Absolics 玻璃芯推迟到 2027 年。目标是最终可靠性测试EOY，明年量产。所以如果你好奇的话，这确实会推迟 $LPK 和其他人的一些斜坡（因此 ER 下降）。 - 由于上游供应商提高定价，QCOM 智能手机处理器的价格上涨了两位数。 - $META 预计将为德克萨斯州埃尔帕索 AI DC 扩张提供 12B 美元的项目级/SPV 融资 - Naver 宣布从 $NVDA 和 Brookfield 投资 100 亿美元，用于建设一座 1GW 规模的 AI 工厂。近期计划是到 2028 年达到 200MW。（Nvidia 投资 1B 美元，Brookfield 非约束性投资 9B 美元） - 64GB DDR5 服务器模块较 6 月底合同价格上涨 146% - $INTC 将 14A 工艺量产提前一年，2027 年下半年风险生产和 2028 年量产，与 2029 年 HVM 预期相比。 - 三星电机赢得 2 亿美元的 MLCC 订单（现有瓶颈）。 - $AMD（Bandana 瓶颈）宣布 Helios 已全面投产，并于 2026 年第三季度发货。包括与 Anthropic 一起部署高达 2GW 的 MI455X GPU，以及与 OpenAI 一起部署的 6GW 基础设施。 CPU 市场的复合年增长率 >50%，到 2030 年，TAM 将从 2025 年的 260 亿美元增至 2200 亿美元。 2027年推出Mi500的光互连。从渠道检查来看，AMD正在走CPO路线（似乎可能使用Ayar）。 - $ORCL 赢得价值 70 亿美元的战争部企业软件合同 - JX Metal 通过 4B 日元投资，将其韩国子公司的半目标产能翻了一番，由于主要客户三星电子和 SK 海力士的需求激增，JX Metal 将于 2027 年下半年开始运营 - 在日本关东电化和中央燃气宣布永久停产后，六氟化钨现货价格同比飙升 2.1-2.5 倍。由于 3M 计划退出 PFAS 生产，氟化液体供应面临真空。 - 从四家光芯片厂商财报来看，元杰/新易盛/天富光/东山精密：无大订单削减，1.6T出货预计加速至2027年。光芯片供应商有望从短缺中获取巨额利润。 - Unitree Robotics 的目标是到 2026 年实现 30,000 个人形机器人产能。仔细阅读 $CCXI 等人形机器人 TAM 扩展。 - 中国储能锂电池订单上半年订单增幅明显达2,900%。对 EVE Energy 和其他电池制造商不太熟悉。"
+      "translated": "只是一些 TLDR 新闻： - 如果您喜欢中国内存，明天 CXMT IPO 美元将会增加。 - 据报道，三星电子正在努力确保大型 FC-BGA 基板的安全。据报道，Ibiden（4062）要求 LTA 担保，三星电机寻求预付款。 - 三星+$AVGO标志内存+代工AI框架到2030年，预计将超过200b美元 - $SOI预计2027财年硅光子收入将比上一年翻一番，超过摩根士丹利60%的增长预测。光子学论文进展顺利。 - SK Group + $NVDA 签署价值 500B+ 的合作伙伴关系，以构建 AI DC 和 HBM4 内存。 - 据报道，SKC Absolics 玻璃芯推迟到 2027 年。目标是最终可靠性测试EOY，明年量产。所以如果你好奇的话，这确实会推迟 $LPK 和其他人的一些斜坡（因此 ER 下降）。 - 由于上游供应商提高定价，QCOM 智能手机处理器的价格上涨了两位数。 - $META 预计将为德克萨斯州埃尔帕索 AI DC 扩张提供 12B 美元的项目级/SPV 融资 - Naver 宣布从 $NVDA 和 Brookfield 投资 100 亿美元，用于建设一座 1GW 规模的 AI 工厂。近期计划是到 2028 年达到 200MW。（Nvidia 投资 1B 美元，Brookfield 非约束性投资 9B 美元） - 64GB DDR5 服务器模块较 6 月底合同价格上涨 146% - $INTC 将 14A 工艺量产提前一年，2027 年下半年风险生产和 2028 年量产，与 2029 年 HVM 预期相比。 - 三星电机赢得 2 亿美元的 MLCC 订单（现有瓶颈）。 - $AMD（Bandana 瓶颈）宣布 Helios 已全面投产，并于 2026 年第三季度发货。包括与 Anthropic 一起部署高达 2GW 的 MI455X GPU，以及与 OpenAI 一起部署的 6GW 基础设施。 CPU 市场的复合年增长率 >50%，到 2030 年，TAM 将从 2025 年的 260 亿美元增至 2200 亿美元。 2027年推出Mi500的光互连。从渠道检查来看，AMD正在走CPO路线（似乎可能使用Ayar）。 - $ORCL 赢得价值 70 亿美元的战争部企业软件合同 - JX Metal 通过 4B 日元投资，将其韩国子公司的半目标产能翻了一番，由于主要客户三星电子和 SK 海力士的需求激增，JX Metal 将于 2027 年下半年开始运营 - 在日本关东电化和中央燃气宣布永久停产后，六氟化钨现货价格同比飙升 2.1-2.5 倍。由于 3M 计划退出 PFAS 生产，氟化液体供应面临真空。 - 从四家光芯片厂商财报来看，元杰/新易盛/天富光/东山精密：无大订单削减，1.6T出货预计加速至2027年。光芯片供应商有望从短缺中获得巨额利润。 - Unitree Robotics 的目标是到 2026 年实现 30,000 个人形机器人产能。仔细阅读 $CCXI 等人形机器人 TAM 扩展。 - 中国储能锂电池订单上半年订单增幅明显达2,900%。对 EVE Energy 和其他电池制造商不太熟悉。"
     },
     {
       "id": "tweet_qinbafrank_2081785987324387508",
@@ -202,8 +232,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
-    "nitter_healthy": 10
+    "users_success": 8,
+    "users_failed": 0,
+    "nitter_healthy": 9
   }
 }
