@@ -1,36 +1,66 @@
 {
-  "fetched_at": "2026-07-27T15:45:07.339209+00:00",
-  "total": 18,
+  "fetched_at": "2026-07-27T17:45:35.666811+00:00",
+  "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2081627240777895998",
+      "id": "tweet_elonmusk_2081782292591104077",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Mon, 27 Jul 2026 06:26:23 GMT",
-      "content": "I will not forget about Mars",
-      "url": "https://x.com/elonmusk/status/2081627240777895998",
-      "tweet_id": "2081627240777895998",
-      "translated": "我不会忘记火星"
+      "published_at": "Mon, 27 Jul 2026 16:42:30 GMT",
+      "content": "True",
+      "url": "https://x.com/elonmusk/status/2081782292591104077",
+      "tweet_id": "2081782292591104077",
+      "translated": "真的"
     },
     {
-      "id": "tweet_elonmusk_2081608857256657382",
+      "id": "tweet_elonmusk_2081777064152019100",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Mon, 27 Jul 2026 05:13:20 GMT",
-      "content": "RT by @elonmusk: 🚨BREAKING: Germany's Anti-Immigration party the AfD have topped a poll in liberal/left leaning BERLIN for the FIRST TIME EVER This is unprecedented Remigration is inevitable",
-      "url": "https://x.com/elonmusk/status/2081608857256657382",
-      "tweet_id": "2081608857256657382",
-      "translated": "RT @elonmusk：🚨突发新闻：德国反移民党 AfD 首次在自由/左倾柏林的民意调查中名列前茅，这是史无前例的，移民是不可避免的"
+      "published_at": "Mon, 27 Jul 2026 16:21:44 GMT",
+      "content": "RT by @elonmusk: BREAKING: President Javier Milei announced Starlink will connect 6,000 rural schools across Argentina. 🇦🇷 \"Thanks to Starlink, 6,000 rural schools that until today had poor internet connection or no connectivity at all will be added. That is a huge amount. Thank you, Elon\"",
+      "url": "https://x.com/elonmusk/status/2081777064152019100",
+      "tweet_id": "2081777064152019100",
+      "translated": "RT @elonmusk：突发新闻：总统哈维尔·米雷 (Javier Milei) 宣布 Starlink 将连接阿根廷各地 6,000 所农村学校。 🇦🇷“感谢 Starlink，将增加 6,000 所迄今为止互联网连接较差或根本没有连接的农村学校。这是一个巨大的数字。谢谢你，Elon”"
     },
     {
-      "id": "tweet_elonmusk_2081493665738887290",
+      "id": "tweet_elonmusk_2081706238153261278",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sun, 26 Jul 2026 21:35:36 GMT",
-      "content": "RT by @elonmusk: Hating any group besides straight white men is racism, sexism, homophobia, transphobia, etc. But hating straight white men? Well, that's social justice, obviously.",
-      "url": "https://x.com/elonmusk/status/2081493665738887290",
-      "tweet_id": "2081493665738887290",
-      "translated": "RT by @elonmusk：憎恨白人异性恋男性以外的任何群体都是种族主义、性别歧视、恐同症、跨性别者恐惧症等。但是憎恨白人异性恋男性呢？嗯，这显然是社会正义。"
+      "published_at": "Mon, 27 Jul 2026 11:40:18 GMT",
+      "content": "RT by @elonmusk: Worth a read. Bernard Arnault responds to the press. @X has shifted the balance of power away from the media and back to the people. Thank you @elonmusk!",
+      "url": "https://x.com/elonmusk/status/2081706238153261278",
+      "tweet_id": "2081706238153261278",
+      "translated": "RT @elonmusk：值得一读。伯纳德·阿尔诺回应媒体。 @X 将权力的平衡从媒体转移回人民手中。谢谢@elonmusk！"
+    },
+    {
+      "id": "tweet_cz_binance_2081522037885972549",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sun, 26 Jul 2026 23:28:21 GMT",
+      "content": "See you all tmr, in Manila 🇵🇭",
+      "url": "https://x.com/cz_binance/status/2081522037885972549",
+      "tweet_id": "2081522037885972549",
+      "translated": "TMr，马尼拉见🇵🇭"
+    },
+    {
+      "id": "tweet_cz_binance_2081372001965625749",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sun, 26 Jul 2026 13:32:09 GMT",
+      "content": "Slowly but surely...",
+      "url": "https://x.com/cz_binance/status/2081372001965625749",
+      "tweet_id": "2081372001965625749",
+      "translated": "缓慢但肯定地..."
+    },
+    {
+      "id": "tweet_cz_binance_2081316675383910587",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sun, 26 Jul 2026 09:52:19 GMT",
+      "content": "Tough times (again)! At least, it appears to be an orderly wind down where users can withdraw their assets. Pro tip: Self custody if you know how to keep your seedphrase safe (@trustwallet) Or use the largest exchange (@binance) with staying power.",
+      "url": "https://x.com/cz_binance/status/2081316675383910587",
+      "tweet_id": "2081316675383910587",
+      "translated": "艰难时期（再次）！至少，这似乎是一个有序的结束，用户可以提取他们的资产。专业提示：如果您知道如何保证助记词的安全，请自行保管 (@trustwallet) 或使用具有持久力的最大交易所 (@binance)。"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -90,7 +120,16 @@
       "content": "Just some TLDR news: - $CXMT IPO tomorrow if you like Chinese memory. - Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantees, Samsung Electro-Mechanics sought prepayments. - Samsung + $AVGO sign memory + foundry AI framework through 2030, expected to exceed $200b - $SOI expects FY2027 silicon photonics revenue to double compared to the previous year, surpassing Morgan Stanley's 60% growth projection. Photonics thesis go brrr. - SK Group + $NVDA sign $500B+ partnership to build out AI DCs and HBM4 memory. - SKC Absolics glass core delay to 2027 from reports. Targeting final reliability testing EOY, mass production next year. So if you're curious, this does push back some ramps from $LPK and others (hence drop on ER). - $QCOM price hikes by double digits for smartphone processors, due to upstream supplier hike pricing. - $META expected to issue $12B in project-level/SPV financing for El Paso, Texas AI DC expansion - Naver announced a $10 billion investment from $NVDA and Brookfield to construct a 1GW-scale AI Factory. Near term plan is 200MW by 2028. (Nvidia $1B investment, Brookfield nonbinding $9B) - 64GB DDR5 server modules rises 146% versus end-June contract pricing - $INTC brought forward 14A process mass production by a year, risk production H2 2027 and volume production in 2028, vs. 2029 HVM expectations. - Samsung Electro-Mechanics wins $200m MLCC order (existing bottleneck). - $AMD (the Bandana bottleneck), announces Helios is in full production with shipments Q3 2026. Including an up to 2GW MI455X GPU deployment with Anthropic and a 6GW infrastructure rollout with OpenAI. Gave new >50% CAGR TAM to $220B by 2030 from $26b in 2025 for CPU market. Rolls out optical interconnects for Mi500 in 2027. From channel checks, AMD is heading down to the CPO route (seems likely to use Ayar). - $ORCL wins $7B Department of War enterprise software contract - JX metal doubles semi target capacity at its KR subsidary with a 4B yen investment, with operations to begin H2 2027, amid surging demand from major customers Samsung Electronics and SK Hynix - Tungsten hexafluoride spot prices surged 2.1-2.5x Y/Y following Japan's Kanto Denka and Chuo Gas announcing permanent production halts. Fluorinated liquid supply faces a vacuum as 3M plans to exit PFAS production. - From the four optical chipmaker earnings, Yuanjie/Eoptolink/TFC Optical/Dongshan Precision: no major order cuts, 1.6T shipments expected to accelerate into 2027. Optical chip suppliers expected to capture outsized margins from shortages. - Unitree Robotics Targets 30,000 Humanoid Robot Production Capacity by 2026. Read through on humanoid TAM scaling like $CCXI and others. - Energy storage lithium batteries orders increase first half orders by 2,900% apparently in China. Not as familiar with EVE Energy and other battery makers.",
       "url": "https://x.com/aleabitoreddit/status/2081472671129501729",
       "tweet_id": "2081472671129501729",
-      "translated": "只是一些 TLDR 新闻： - 如果您喜欢中国内存，明天 CXMT IPO 美元将会增加。 - 据报道，三星电子正在努力确保大型 FC-BGA 基板的安全。据报道，Ibiden（4062）要求 LTA 担保，三星电机寻求预付款。 - 三星+$AVGO标志存储器+代工AI框架到2030年，预计将超过200b美元 - $SOI预计2027财年硅光子收入将比上一年翻一番，超过摩根士丹利60%的增长预测。光子学论文进展顺利。 - SK Group + $NVDA 签署价值 500B+ 的合作伙伴关系，以构建 AI DC 和 HBM4 内存。 - 据报道，SKC Absolics 玻璃芯推迟到 2027 年。目标是最终可靠性测试EOY，明年量产。所以如果你好奇的话，这确实会推迟 $LPK 和其他人的一些斜坡（因此 ER 下降）。 - 由于上游供应商提高定价，QCOM 智能手机处理器的价格上涨了两位数。 - $META 预计将为德克萨斯州埃尔帕索 AI DC 扩张提供 12B 美元的项目级/SPV 融资 - Naver 宣布从 $NVDA 和 Brookfield 投资 100 亿美元，用于建设一座 1GW 规模的 AI 工厂。近期计划是到 2028 年达到 200MW。（Nvidia 投资 1B 美元，Brookfield 非约束性投资 9B 美元） - 64GB DDR5 服务器模块较 6 月底合同价格上涨 146% - $INTC 将 14A 工艺量产提前一年，2027 年下半年风险生产和 2028 年量产，与 2029 年 HVM 预期相比。 - 三星电机赢得 2 亿美元的 MLCC 订单（现有瓶颈）。 - $AMD（Bandana 瓶颈）宣布 Helios 已全面投产，并于 2026 年第三季度发货。包括与 Anthropic 一起部署高达 2GW 的 MI455X GPU，以及与 OpenAI 一起部署的 6GW 基础设施。 CPU 市场的复合年增长率 >50%，到 2030 年，TAM 将从 2025 年的 260 亿美元增至 2200 亿美元。 2027年推出Mi500的光互连。从渠道检查来看，AMD正在走CPO路线（似乎可能使用Ayar）。 - $ORCL 赢得价值 70 亿美元的战争部企业软件合同 - JX Metal 通过 4B 日元投资，将其韩国子公司的半目标产能翻了一番，由于主要客户三星电子和 SK Hynix 的需求激增，JX Metal 将于 2027 年下半年开始运营 - 在日本关东电化 (Kanto Denka) 和中央燃气 (Chuo Gas) 宣布永久停产后，六氟化钨现货价格同比飙升 2.1-2.5 倍。由于 3M 计划退出 PFAS 生产，氟化液体供应面临真空。 - 从四家光芯片厂商财报来看，元杰/新易盛/天富光/东山精密：无大订单削减，1.6T出货预计加速至2027年。光芯片供应商有望从短缺中获取巨额利润。 - Unitree Robotics 的目标是到 2026 年实现 30,000 个人形机器人产能。仔细阅读 $CCXI 等人形机器人 TAM 扩展。 - 中国储能锂电池订单上半年订单增幅明显达2,900%。对 EVE Energy 和其他电池制造商不太熟悉。"
+      "translated": "只是一些 TLDR 新闻： - 如果您喜欢中国内存，明天 CXMT IPO 美元将会增加。 - 据报道，三星电子正在努力确保大型 FC-BGA 基板的安全。据报道，Ibiden（4062）要求 LTA 担保，三星电机寻求预付款。 - 三星+$AVGO标志存储器+代工AI框架到2030年，预计将超过200b美元 - $SOI预计2027财年硅光子收入将比上一年翻一番，超过摩根士丹利60%的增长预测。光子学论文进展顺利。 - SK Group + $NVDA 签署价值 500B+ 的合作伙伴关系，以构建 AI DC 和 HBM4 内存。 - 据报道，SKC Absolics 玻璃芯推迟到 2027 年。目标是最终可靠性测试EOY，明年量产。所以如果你好奇的话，这确实会推迟 $LPK 和其他人的一些斜坡（因此 ER 下降）。 - 由于上游供应商提高定价，QCOM 智能手机处理器的价格上涨了两位数。 - $META 预计将为德克萨斯州埃尔帕索 AI DC 扩张提供 12B 美元的项目级/SPV 融资 - Naver 宣布从 $NVDA 和 Brookfield 投资 100 亿美元，用于建设一座 1GW 规模的 AI 工厂。近期计划是到 2028 年达到 200MW。（Nvidia 投资 1B 美元，Brookfield 非约束性投资 9B 美元） - 64GB DDR5 服务器模块较 6 月底合同价格上涨 146% - $INTC 将 14A 工艺量产提前一年，2027 年下半年风险生产和 2028 年量产，与 2029 年 HVM 预期相比。 - 三星电机赢得 2 亿美元的 MLCC 订单（现有瓶颈）。 - $AMD（Bandana 瓶颈）宣布 Helios 已全面投产，并于 2026 年第三季度发货。包括与 Anthropic 一起部署高达 2GW 的 MI455X GPU，以及与 OpenAI 一起部署的 6GW 基础设施。 CPU 市场的复合年增长率 >50%，到 2030 年，TAM 将从 2025 年的 260 亿美元增至 2200 亿美元。 2027年推出Mi500的光互连。从渠道检查来看，AMD正在走CPO路线（似乎可能使用Ayar）。 - $ORCL 赢得价值 70 亿美元的战争部企业软件合同 - JX Metal 通过 4B 日元投资，将其韩国子公司的半目标产能翻了一番，由于主要客户三星电子和 SK 海力士的需求激增，JX Metal 将于 2027 年下半年开始运营 - 在日本关东电化和中央燃气宣布永久停产后，六氟化钨现货价格同比飙升 2.1-2.5 倍。由于 3M 计划退出 PFAS 生产，氟化液体供应面临真空。 - 从四家光芯片厂商财报来看，元杰/新易盛/天富光/东山精密：无大订单削减，1.6T出货预计加速至2027年。光芯片供应商有望从短缺中获取巨额利润。 - Unitree Robotics 的目标是到 2026 年实现 30,000 个人形机器人产能。仔细阅读 $CCXI 等人形机器人 TAM 扩展。 - 中国储能锂电池订单上半年订单增幅明显达2,900%。对 EVE Energy 和其他电池制造商不太熟悉。"
+    },
+    {
+      "id": "tweet_qinbafrank_2081785987324387508",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Mon, 27 Jul 2026 16:57:11 GMT",
+      "content": "川普称正与伊朗进行“良好谈判”暗示会发生一些事情，这是算不算是市场跌的川普开始疼了。",
+      "url": "https://x.com/qinbafrank/status/2081785987324387508",
+      "tweet_id": "2081785987324387508"
     },
     {
       "id": "tweet_qinbafrank_2081762637990474003",
@@ -109,15 +148,6 @@
       "content": "收完上周周线，大饼形成了一个明显的周线底背离形态，其实以太上周就形成周线底背离，也能解释上周波动以太更稳的原因。个人角度，虽然底背离已经形成但离零轴还比较远，那么往上也不会一帆风顺、中间波动反复应该不少。看上周银行准备金相比之前一周略有回落但回落幅度不是很大，但稳定币发行量还没完全跟上来、需要进一步观察。形态很好、也需要流动性能支持才能走得远。",
       "url": "https://x.com/qinbafrank/status/2081699036445462783",
       "tweet_id": "2081699036445462783"
-    },
-    {
-      "id": "tweet_qinbafrank_2081579152336142737",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Mon, 27 Jul 2026 03:15:18 GMT",
-      "content": "“币市新常态”的最直观体现：近期不仅币市交易所迎来一波关闭潮，币市项目近期也有一波停运潮： 1）6月1日，跨链贷协议Radiant（RDNT）宣布DAO进入有序退出/维护模式； 2）6月25日zkSync系L2链Sophon（SOPH）宣布停运自有L2链； 3）6月28日，早期Layer2项目Loopring（LRC）宣布立即停止DEX、AMM交易服务及relayer； 4）6月下旬，RWA/去中心化信贷协议 Goldfinch（GFI）社区投票通过（GIP-87），进入维护模式，关闭Goldfinch Prime产品； 5）7月15日，公链Movement（MOVE） 原核心开发公司MVMT Labs向特拉华法院申请Chapter 11破产保护； 6）今天存储项目Storj申请Chapter 11破产重整。 不禁要问为什么？ 1）表面上是熊市市场低迷，项目无法融资也无法从市场拿钱（砸盘套现），资金压力巨大，不得不止血止损； 2）深层次则是项目没有自我造血能力，资金要么依赖融资要么依赖卖币、熊市这两天资金来源渠道都断了。 3）更深层次则是没有价值创造不能自力，没有真正创新资本市场不买单了。 不仅感慨道： 一年前聊币市山寨会面临美股代币的疯狂挤压； 两年前聊币市进入“新常态”：马太效应愈发明显，好的更好差得更差。少数兼具成长性和确定性的标的吸引资金和关注度，大部分沦为默默无闻。 现在看是不是都验证了。 更可怕的是不是项目关停，而是已经无人注意了。 关于山寨币为什么会如此惨淡，24年这里系列推文https://x.com/qinbafrank/status/1816383628235989447?s=46&t=k6rimWsEbo2D2tXolYcM-A有详细聊过，",
-      "url": "https://x.com/qinbafrank/status/2081579152336142737",
-      "tweet_id": "2081579152336142737"
     },
     {
       "id": "tweet_xiaomustock_2081751480021946522",
@@ -147,6 +177,24 @@
       "tweet_id": "2081583233792413948"
     },
     {
+      "id": "tweet_xingpt_2081788533468287043",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 27 Jul 2026 17:07:18 GMT",
+      "content": "大A科技调整到位了吗？长鑫打新资金回流是否能让半导体企稳？海外的下跌和国产替代，一个利空一个利好，究竟哪个站上风？ 详细分析请看会员频道报告：https://www.patreon.com/xingpt/posts/2026-07-21-agu-164986387?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
+      "url": "https://x.com/xingpt/status/2081788533468287043",
+      "tweet_id": "2081788533468287043"
+    },
+    {
+      "id": "tweet_xingpt_2081773367636693198",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 27 Jul 2026 16:07:02 GMT",
+      "content": "今天美股也是鬼故事频出，先是SK海力士和三星扩产进度超预期，时间比预期快，产能比之前大； 然后是达子的CDS价格大涨，意味着市场担忧债务风险； 最后就是中国造出来了DUV光刻机，阿斯麦直接暴跌。 还是那句话：你看到的新闻和消息都不是决定涨跌的理由，而是涨跌的借口。 真正决定涨跌的是你看不到的insider info和insights，比如有小道消息说csp的长协价格低于预期。 更重要的是市场需要调整，市场的资金还需要分散到其他行业，半导体集中度在进一步被打压",
+      "url": "https://x.com/xingpt/status/2081773367636693198",
+      "tweet_id": "2081773367636693198"
+    },
+    {
       "id": "tweet_xingpt_2081764320908886150",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -156,27 +204,36 @@
       "tweet_id": "2081764320908886150"
     },
     {
-      "id": "tweet_xingpt_2081760089145577916",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Mon, 27 Jul 2026 15:14:17 GMT",
-      "content": "Moonshot K3 开源了：https://huggingface.co/moonshotai/Kimi-K3",
-      "url": "https://x.com/xingpt/status/2081760089145577916",
-      "tweet_id": "2081760089145577916"
+      "id": "tweet_hibtc37_2081764005836919252",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Mon, 27 Jul 2026 15:29:50 GMT",
+      "content": "$SPCX 112.1触及止损自动平仓，只撸到一点…移动止损和止盈看来还要提升下技术 不过感觉，已经跌的不那么顺畅了，可能可以考虑做个反弹",
+      "url": "https://x.com/hibtc37/status/2081764005836919252",
+      "tweet_id": "2081764005836919252"
     },
     {
-      "id": "tweet_xingpt_2081579132794949959",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Mon, 27 Jul 2026 03:15:13 GMT",
-      "content": "网友问，为什么王虹在国内读博士绝对出不了成果？ 有网友举例，自己在国内读博天天给导师搞卫生带孩子；还有网友说王虹回来的话，论文都不一定能署自己的名。",
-      "url": "https://x.com/xingpt/status/2081579132794949959",
-      "tweet_id": "2081579132794949959"
+      "id": "tweet_hibtc37_2081751920692371891",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Mon, 27 Jul 2026 14:41:49 GMT",
+      "content": "我没钱做空大饼了，都在做空马斯克spcx和半导体",
+      "url": "https://x.com/hibtc37/status/2081751920692371891",
+      "tweet_id": "2081751920692371891"
+    },
+    {
+      "id": "tweet_hibtc37_2081750442372210757",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Mon, 27 Jul 2026 14:35:57 GMT",
+      "content": "$MU 存储完犊子，反弹一下就立马跌了，比我预期弱太多了！ 和存王粉对线了一个周末，成年人，直接用钱投票，口嗨没用",
+      "url": "https://x.com/hibtc37/status/2081750442372210757",
+      "tweet_id": "2081750442372210757"
     }
   ],
   "stats": {
-    "users_success": 6,
-    "users_failed": 2,
-    "nitter_healthy": 9
+    "users_success": 8,
+    "users_failed": 0,
+    "nitter_healthy": 10
   }
 }
