@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-28T20:18:16.822094+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-28T22:06:54.356159+00:00",
+  "total": 24,
   "tweets": [
     {
       "id": "tweet_elonmusk_2082086874735059330",
@@ -61,6 +61,35 @@
       "url": "https://x.com/cz_binance/status/2081316675383910587",
       "tweet_id": "2081316675383910587",
       "translated": "艰难时期（再次）！至少，这似乎是一个有序的结束，用户可以提取他们的资产。专业提示：如果您知道如何保证助记词的安全，请自行保管 (@trustwallet) 或使用具有持久力的最大交易所 (@binance)。"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2082159711852298494",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
+      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
+      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
+      "tweet_id": "2082159711852298494",
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2082175588555702410",
@@ -203,8 +232,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
