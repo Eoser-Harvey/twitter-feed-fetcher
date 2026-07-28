@@ -1,35 +1,36 @@
 {
-  "fetched_at": "2026-07-28T02:40:14.967109+00:00",
+  "fetched_at": "2026-07-28T05:49:32.626861+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2081921143397572945",
+      "id": "tweet_elonmusk_2081757742268867022",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 28 Jul 2026 01:54:15 GMT",
-      "content": "Unfiltered reality",
-      "url": "https://x.com/elonmusk/status/2081921143397572945",
-      "tweet_id": "2081921143397572945",
-      "translated": "未经过滤的现实"
+      "published_at": "Mon, 27 Jul 2026 15:04:57 GMT",
+      "content": "RT by @elonmusk: A throwback to Elon Musk walking through the engineering behind Falcon 9’s payload fairing Explaining the massive carbon-composite structure… large enough to fit a full-size city bus inside Early SpaceX energy hits different From factory-floor tours to making rocket reuse routine and launching at a cadence the rest of the industry can only dream of Insane how far SpaceX has come",
+      "url": "https://x.com/elonmusk/status/2081757742268867022",
+      "tweet_id": "2081757742268867022",
+      "translated": "@elonmusk 的 RT：回顾埃隆·马斯克 (Elon Musk) 讲解 Falcon 9 有效载荷整流罩背后的工程技术，解释巨大的碳复合材料结构……大到足以容纳一辆全尺寸的城市公交车。 早期 SpaceX 的能源打击不同从工厂车间参观到火箭重复利用例行程序和按节奏发射，业界其他人只能疯狂地梦想 SpaceX 已经走了多远"
     },
     {
-      "id": "tweet_elonmusk_2081920546355241321",
+      "id": "tweet_elonmusk_2081973255296934043",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 28 Jul 2026 01:51:53 GMT",
-      "content": "❤️🇺🇸",
-      "url": "https://x.com/elonmusk/status/2081920546355241321",
-      "tweet_id": "2081920546355241321"
+      "published_at": "Tue, 28 Jul 2026 05:21:19 GMT",
+      "content": "Common sense",
+      "url": "https://x.com/elonmusk/status/2081973255296934043",
+      "tweet_id": "2081973255296934043",
+      "translated": "常识"
     },
     {
-      "id": "tweet_elonmusk_2081916459647660205",
+      "id": "tweet_elonmusk_2081942019283255449",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 28 Jul 2026 01:35:38 GMT",
-      "content": "This is money",
-      "url": "https://x.com/elonmusk/status/2081916459647660205",
-      "tweet_id": "2081916459647660205",
-      "translated": "这是钱"
+      "published_at": "Tue, 28 Jul 2026 03:17:12 GMT",
+      "content": "RT @WR4NYGov: 2002-2004: Software guy thinks he can build rockets and cars 2016: Car guy thinks he can do brain surgery 2018: American gu…",
+      "url": "https://x.com/elonmusk/status/2081942019283255449",
+      "tweet_id": "2081942019283255449",
+      "translated": "RT @WR4NYGov：2002-2004：软件人认为他可以制造火箭和汽车 2016 年：汽车人认为他可以做脑部手术 2018 年：美国古…"
     },
     {
       "id": "tweet_cz_binance_2081522037885972549",
@@ -122,6 +123,24 @@
       "translated": "只是一些 TLDR 新闻： - 如果您喜欢中国内存，明天 CXMT IPO 美元将会增加。 - 据报道，三星电子正在努力确保大型 FC-BGA 基板的安全。据报道，Ibiden（4062）要求 LTA 担保，三星电机寻求预付款。 - 三星+$AVGO标志存储器+代工AI框架到2030年，预计将超过200b美元 - $SOI预计2027财年硅光子收入将比上一年翻一番，超过摩根士丹利60%的增长预测。光子学论文进展顺利。 - SK Group + $NVDA 签署价值 500B+ 的合作伙伴关系，以构建 AI DC 和 HBM4 内存。 - 据报道，SKC Absolics 玻璃芯推迟到 2027 年。目标是最终可靠性测试EOY，明年量产。所以如果你好奇的话，这确实会推迟 $LPK 和其他人的一些斜坡（因此 ER 下降）。 - 由于上游供应商提高定价，QCOM 智能手机处理器的价格上涨了两位数。 - $META 预计将为德克萨斯州埃尔帕索 AI DC 扩张提供 12B 美元的项目级/SPV 融资 - Naver 宣布从 $NVDA 和 Brookfield 投资 100 亿美元，用于建设一座 1GW 规模的 AI 工厂。近期计划是到 2028 年达到 200MW。（Nvidia 投资 1B 美元，Brookfield 非约束性投资 9B 美元） - 64GB DDR5 服务器模块较 6 月底合同价格上涨 146% - $INTC 将 14A 工艺量产提前一年，2027 年下半年风险生产和 2028 年量产，与 2029 年 HVM 预期相比。 - 三星电机赢得 2 亿美元的 MLCC 订单（现有瓶颈）。 - $AMD（Bandana 瓶颈）宣布 Helios 已全面投产，并于 2026 年第三季度发货。包括与 Anthropic 一起部署高达 2GW 的 MI455X GPU，以及与 OpenAI 一起部署的 6GW 基础设施。 CPU 市场的复合年增长率 >50%，到 2030 年，TAM 将从 2025 年的 260 亿美元增至 2200 亿美元。 2027年推出Mi500的光互连。从渠道检查来看，AMD正在走CPO路线（似乎可能使用Ayar）。 - $ORCL 赢得价值 70 亿美元的战争部企业软件合同 - JX Metal 通过 4B 日元投资，将其韩国子公司的半目标产能翻了一番，由于主要客户三星电子和 SK 海力士的需求激增，JX Metal 将于 2027 年下半年开始运营 - 在日本关东电化和中央燃气宣布永久停产后，六氟化钨现货价格同比飙升 2.1-2.5 倍。由于 3M 计划退出 PFAS 生产，氟化液体供应面临真空。 - 从四家光芯片厂商财报来看，元杰/新易盛/天富光/东山精密：无大订单削减，1.6T出货预计加速至2027年。光芯片供应商有望从短缺中获取巨额利润。 - Unitree Robotics 的目标是到 2026 年实现 30,000 个人形机器人产能。仔细阅读 $CCXI 等人形机器人 TAM 扩展。 - 中国储能锂电池订单上半年订单增幅明显达2,900%。对 EVE Energy 和其他电池制造商不太熟悉。"
     },
     {
+      "id": "tweet_qinbafrank_2081978153569075543",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Tue, 28 Jul 2026 05:40:47 GMT",
+      "content": "所以这又是回旋镖了？",
+      "url": "https://x.com/qinbafrank/status/2081978153569075543",
+      "tweet_id": "2081978153569075543"
+    },
+    {
+      "id": "tweet_qinbafrank_2081932910735810691",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Tue, 28 Jul 2026 02:41:01 GMT",
+      "content": "昨晚市场正好是本周三条主线叠加影响的真实体现：油价、基本面（财报）、议息会议。月初https://x.com/qinbafrank/status/2075067198570475727?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到市场在去杠杆，上周四美股盘前聊到宏观成了压制市场的主要因素，正好聊聊本周的三条主线。 1、油价跌了宏观风险并没完全解除 油价跌是因为川普暂停了对伊朗的攻击、伊朗同步停止。上周这里https://x.com/qinbafrank/status/2080662961220366392?s=46&t=k6rimWsEbo2D2tXolYcM-A有聊到：美国有升级权、伊朗有拒止权。这次伊朗的主动权其实更大一些。不仅要川普疼、还要伊朗也疼、TACO才作数。 昨晚看到了川普疼、但伊朗还没松口，所以宏观风险并没有完全解除。 2、本周密集财报最重要的自然是微软、meta、亚马逊三家，但大概率跟上周谷歌财报类似：就是营收业绩大超预期、但是资本开支还会继续上调、同时承受自由现金流大幅下降的压力。 而昨天一方面是中国光刻机小作文的影响、另一方面更是英伟达要担保10GW数据中心的担忧。基本面没有特别明朗的情况下，市场天然对利空敏感，先跑为上。 3、对后续影响更大的还是本周议息会议的定调 现在市场对沃什会不会加息的争论很大，认为要加息的理由： 沃什要独立性、效仿格林斯潘的97年象征性加息、重视通胀表达抗击通胀的决心且通胀距离2%还有距离。 认为此次不会加息按兵不动的理由： 6月cpi有回落还不确定近期油价是扰动还是趋势、劳动力市场弱、川普的喊话。 个人角度这次议息会议大概率依然按兵不动（看看会不会被打脸），核心是无法判断油价反弹是短期的还是长期的，沃什的五个政策研究组没出结论前大概率按兵不动。但是如果美伊冲突八月份不回归平静、9月就确实不好说了、就是之前这里https://x.com/qinbafrank/status/2070338483395432492?s=46&t=k6rimWsEbo2D2tXolYcM-A最后部分聊到最坏剧本：AI基建带动经济火热，通胀不是下行不够快反倒还有再度向上的势头。沃什9月可能性就很大了 总的来说： 1）看美伊冲突、伊朗在谈判上是不是松口（个人倾向也会松口），核心是川普得接受霍尔木兹海峡回不到战前的状了。现在仍然认为之前这里https://x.com/qinbafrank/status/2076870354212175872?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到阿曼提到的这种方案可能是未来的能被双方接受的。 2）需求在快速增长、商业化也在加速。等到市场把自由现金流的问题计价到位； 3）看沃什的反应 调整到现在这个地步，宏观还不是很明确那就看基本面。个人角度很多基本面依然很强、但是股价已经跌了百分三四十甚至腰斩的标的都开始进入了高性价比区间了。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2081932910735810691",
+      "tweet_id": "2081932910735810691"
+    },
+    {
       "id": "tweet_qinbafrank_2081785987324387508",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -131,49 +150,31 @@
       "tweet_id": "2081785987324387508"
     },
     {
-      "id": "tweet_qinbafrank_2081762637990474003",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Mon, 27 Jul 2026 15:24:24 GMT",
-      "content": "国产光刻机真实情况如何？晚上的美股被中国光刻机的消息吓到了，TheInformation报道称中国一家未具名的国资背景上海公司已开始国产浸没式DUV光刻机的有限生产，目标今年约5台、2027年约20台，首批计划交付中芯国际（SMIC）、华虹（Hua Hong）和长鑫（CXMT）。大家只看到了新闻标题、其实更值得关注报道里对于国产光刻机的相关信息： 1）机器主要使用中国组件，国产化率高，但关键光学、光源、精密部件等仍有日本等进口依赖，完全自主尚需时间。美国等可能进一步限制零部件/维护。 2）性能和制造质量落后于ASML，落后ASML（类似2008年前后机型水平，吞吐、套刻精度、稳定性不足），需长时间客户验证才能上量产线。光刻机从原型到稳定量产通常需数年迭代。 3）产能5台→20台对比ASML年出货百台以上，差距巨大。中国晶圆厂扩产（中芯等计划大幅提升产能）仍主要靠存量ASML DUV。 4）应用天花板：DUV+多重图案化可支撑当前中国AI芯片等（如华为相关），但成本高、良率低、复杂度大，无法替代EUV在更先进节点（3nm及以下）的效率。国产EUV（如新凯来“珠峰”项目等）仍早期原型，距离可用芯片生产还有数年。 对中國而言，这是在出口管制下实现“从实验室到产线”的实质一步，有助于成熟制程扩产、降低断供风险，并为后续迭代积累数据与供应链经验，但距离全面自主和追赶顶尖水平仍远。 如果细看这些信息能清晰对ASML并不会即时产生严重威胁，但市场反应还是很大、其实能说明市场信心还是不足、稍有风吹草动就先跑为上。 就像今天上午的新闻英伟达要给openai担保建设10gw数据中心一样，在信心弱势的情况下，市场先看的不是10gW算力，而是更关注信用风险增加、潜在被触发担保的敞口。",
-      "url": "https://x.com/qinbafrank/status/2081762637990474003",
-      "tweet_id": "2081762637990474003"
-    },
-    {
-      "id": "tweet_qinbafrank_2081699036445462783",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Mon, 27 Jul 2026 11:11:41 GMT",
-      "content": "收完上周周线，大饼形成了一个明显的周线底背离形态，其实以太上周就形成周线底背离，也能解释上周波动以太更稳的原因。个人角度，虽然底背离已经形成但离零轴还比较远，那么往上也不会一帆风顺、中间波动反复应该不少。看上周银行准备金相比之前一周略有回落但回落幅度不是很大，但稳定币发行量还没完全跟上来、需要进一步观察。形态很好、也需要流动性能支持才能走得远。",
-      "url": "https://x.com/qinbafrank/status/2081699036445462783",
-      "tweet_id": "2081699036445462783"
-    },
-    {
-      "id": "tweet_xiaomustock_2081751480021946522",
+      "id": "tweet_xiaomustock_2081969190198706642",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Mon, 27 Jul 2026 14:40:04 GMT",
-      "content": "我买到了美股百年大顶",
-      "url": "https://x.com/xiaomustock/status/2081751480021946522",
-      "tweet_id": "2081751480021946522"
+      "published_at": "Tue, 28 Jul 2026 05:05:10 GMT",
+      "content": "释怀了，听泉也炒股， 因为劝爸妈拿养老金炒股， 被爹妈都拉黑掉😂",
+      "url": "https://x.com/xiaomustock/status/2081969190198706642",
+      "tweet_id": "2081969190198706642"
     },
     {
-      "id": "tweet_xiaomustock_2081688609078538487",
+      "id": "tweet_xiaomustock_2081954751147876406",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Mon, 27 Jul 2026 10:30:14 GMT",
-      "content": "gate这一路的操作真是离谱， 催受害人报警立案， 真立案了又刁难推诿踢皮球就是不配合调查。",
-      "url": "https://x.com/xiaomustock/status/2081688609078538487",
-      "tweet_id": "2081688609078538487"
+      "published_at": "Tue, 28 Jul 2026 04:07:48 GMT",
+      "content": "现在亏的呼吸都是痛的， 上个月要是那天清仓真不玩了， 真的他妈的天麻，现在是血亏，骨髓都亏出来了。",
+      "url": "https://x.com/xiaomustock/status/2081954751147876406",
+      "tweet_id": "2081954751147876406"
     },
     {
-      "id": "tweet_xiaomustock_2081583233792413948",
+      "id": "tweet_xiaomustock_2081933731833794688",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Mon, 27 Jul 2026 03:31:31 GMT",
-      "content": "49.9和51.3抄了25万股南海2x，赌个反弹，相比于长鑫太夸张的便宜。 199成本抄了5万股minimax，赌个八月初港股通。 6.9和7.3hype上买了俩笔10万股长鑫，合计20万股 赌一个下午因为t+1换手率枯竭，买盘远大于枯竭的卖盘，收盘清仓。",
-      "url": "https://x.com/xiaomustock/status/2081583233792413948",
-      "tweet_id": "2081583233792413948"
+      "published_at": "Tue, 28 Jul 2026 02:44:16 GMT",
+      "content": "亏钱亏的超出认知了， 真他娘的最美的故事套最多的家人。 反弹给个机会再不玩了",
+      "url": "https://x.com/xiaomustock/status/2081933731833794688",
+      "tweet_id": "2081933731833794688"
     },
     {
       "id": "tweet_xingpt_2081788533468287043",
@@ -203,6 +204,24 @@
       "tweet_id": "2081764320908886150"
     },
     {
+      "id": "tweet_hibtc37_2081976376631115958",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Tue, 28 Jul 2026 05:33:44 GMT",
+      "content": "存储完犊子，存王粉有福了 MU960跑路后，我提醒逃命，对我破口骂娘 9500亿史诗利好，我提醒存储完犊子，360度疯狂攻击我 永远缺存储，我提醒是伪命题，你说我行外人不懂存储没常识根本不知道AI数据多么庞大 你说我行外不懂存储，我当年有6万多张显卡，你连显存、硬盘都区分不了就和我对线，一味无脑喊永远缺存储。你说存算一体没商用，我说存算一体早已落地， 以太坊矿卡P卡和ASIC矿机都是存算一体，这也是现在推理算力卡的mini前身；你说我行外，现在AI只是放大版本的加密挖矿，产业原理和逻辑是一样的，我还在搞AI机房的事情，说行外我还勉强接受…… 今天把喷我的都点赞了一遍，这有点损，但很好玩🤣，有些教训是值钱的，看有没有人回来给我道歉和感谢 整个半导体板块已经做出标准的头肩顶，反抛物线/直线上涨，获利盘巨大，向上空间有限，向下阻力最小，涨多凶跌就会多绝望，涨跌都会超越群体认知，超级周期也是周期，不要迷恋叙事，最大的叙事套最多的人，关注自己的本金，要不然和你们口中那些炒鞋、炒币的有什么区别呢？股价已经把未来三年卖白粉的预期透支了，但半导体很快就不能卖白粉，扩产能的资本支出投入和产出都是巨大利空 半导体最好结果是周线调整继续牛，最差是进入熊市迹象了，光周线调整就够吃一壶了 $MU 跌7% $SNDK 跌16% #海力士跌 跌13% 后面比较好策略： 1、做空半导体做空存储 2、120和200日线等抓短线反弹 3、实在看多的，卖PUT比直接买入好 我有些怀疑AI行业左手倒右手，粉饰财报，但我没证据，具体操作： 大科技投资大模型公司-拉升模型公司估值-模型公司采购大科技云算力 钱从大科技手中出来，又回到大科技，结果是模型公司持续亏损，模型估值提升利好大科技财报，大科技财报漂亮 这个只有模型公司真盈利或者上市公布财报，可能才知道答案，所以，我们散户玩的基本是黑盒子游戏 走一步看一步吧，不要有执念，市场翻书的时候，我要做的是，翻的更快 关注我，等跌到位置，我做反弹，去救你们😆",
+      "url": "https://x.com/hibtc37/status/2081976376631115958",
+      "tweet_id": "2081976376631115958"
+    },
+    {
+      "id": "tweet_hibtc37_2081967339709342138",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Tue, 28 Jul 2026 04:57:49 GMT",
+      "content": "633到 第96次命中✅ 657和633如期都被吃了，633还被击穿了，证明空头还是非常强势，昨天我说做多拥挤，杀多是阻力最小方向，都验证了。 十亿哥说坚定看多，640开多，我估计他又止损了，我没有自己的观点，主力说他看空我就空 新区间： 638 632市价 625 613 如果主力连638不吃，直接往下走，那么空头很容易把上面的区间也击穿，如果沃什出利空，会直接到604，击穿600，有待验证 这波我看准了，但没开单，没吃到这波下跌，账号额度有限，还是放到波动更大的标的上，比如半导体和SPCX",
+      "url": "https://x.com/hibtc37/status/2081967339709342138",
+      "tweet_id": "2081967339709342138"
+    },
+    {
       "id": "tweet_hibtc37_2081764005836919252",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -210,24 +229,6 @@
       "content": "$SPCX 112.1触及止损自动平仓，只撸到一点…移动止损和止盈看来还要提升下技术 不过感觉，已经跌的不那么顺畅了，可能可以考虑做个反弹",
       "url": "https://x.com/hibtc37/status/2081764005836919252",
       "tweet_id": "2081764005836919252"
-    },
-    {
-      "id": "tweet_hibtc37_2081751920692371891",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Mon, 27 Jul 2026 14:41:49 GMT",
-      "content": "我没钱做空大饼了，都在做空马斯克spcx和半导体",
-      "url": "https://x.com/hibtc37/status/2081751920692371891",
-      "tweet_id": "2081751920692371891"
-    },
-    {
-      "id": "tweet_hibtc37_2081750442372210757",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Mon, 27 Jul 2026 14:35:57 GMT",
-      "content": "$MU 存储完犊子，反弹一下就立马跌了，比我预期弱太多了！ 和存王粉对线了一个周末，成年人，直接用钱投票，口嗨没用",
-      "url": "https://x.com/hibtc37/status/2081750442372210757",
-      "tweet_id": "2081750442372210757"
     }
   ],
   "stats": {
