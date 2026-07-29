@@ -1,35 +1,36 @@
 {
-  "fetched_at": "2026-07-29T19:20:34.175002+00:00",
+  "fetched_at": "2026-07-29T20:59:26.138098+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2082478679498822118",
+      "id": "tweet_elonmusk_2082469637216727234",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 29 Jul 2026 14:49:42 GMT",
-      "content": "😂",
-      "url": "https://x.com/elonmusk/status/2082478679498822118",
-      "tweet_id": "2082478679498822118"
+      "published_at": "Wed, 29 Jul 2026 14:13:46 GMT",
+      "content": "RT by @elonmusk: The Economist uploaded their full Elon interview to YouTube and left the comments on 🔥 😂",
+      "url": "https://x.com/elonmusk/status/2082469637216727234",
+      "tweet_id": "2082469637216727234",
+      "translated": "RT by @elonmusk：《经济学人》将完整的埃隆采访上传到 YouTube，并在 🔥 😂 上留下了评论"
     },
     {
-      "id": "tweet_elonmusk_2082472135910473976",
+      "id": "tweet_elonmusk_2082559894264430870",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 29 Jul 2026 14:23:42 GMT",
-      "content": "RT by @elonmusk: BREAKING: Grok 4.5 ranked #1 on LaurenBench with a score of 56.9%, ahead of Claude Sonnet 5, GLM 5.2, Claude Opus 5, Kimi K3 and GPT-5.6. The benchmark tests real-world AI agents across conversation, tool use, memory and safety.",
-      "url": "https://x.com/elonmusk/status/2082472135910473976",
-      "tweet_id": "2082472135910473976",
-      "translated": "RT @elonmusk：突发：Grok 4.5 在 LaurenBench 上以 56.9% 的分数排名第一，领先于 Claude Sonnet 5、GLM 5.2、Claude Opus 5、Kimi K3 和 GPT-5.6。该基准测试真实世界的人工智能代理的对话、工具使用、内存和安全性。"
+      "published_at": "Wed, 29 Jul 2026 20:12:25 GMT",
+      "content": "Grok Voice is now #1 in agentic performance",
+      "url": "https://x.com/elonmusk/status/2082559894264430870",
+      "tweet_id": "2082559894264430870",
+      "translated": "Grok Voice 现在在代理性能方面排名第一"
     },
     {
-      "id": "tweet_elonmusk_2082063705269772586",
+      "id": "tweet_elonmusk_2082451125601436106",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 28 Jul 2026 11:20:44 GMT",
-      "content": "RT by @elonmusk: “If I died knowing that I did what was right or did my best to do what was right and even If in the history books they said I did wrong, I would still feel okay about that, I care about the reality of goodness and not the perception of it” -Elon Musk",
-      "url": "https://x.com/elonmusk/status/2082063705269772586",
-      "tweet_id": "2082063705269772586",
-      "translated": "RT by @elonmusk：“如果我死时知道自己做了正确的事，或者尽了最大努力做了正确的事，即使在历史书中他们说我做错了，我仍然会对此感觉良好，我关心善良的现实，而不是对它的看法”——埃隆·马斯克"
+      "published_at": "Wed, 29 Jul 2026 13:00:13 GMT",
+      "content": "RT by @elonmusk: A joint statement from the WFA and X Corp. Today the World Federation of Advertisers (WFA) and X Corp. are putting the litigation involving the Global Alliance for Responsible Media (GARM) behind them. This resets the relationship between the two organizations. WFA reiterates its commitment to freedom of speech, a principle first included in WFA’s founding constitution back in 1953, and a principle it shares with X. On August 9, 2024, WFA discontinued GARM. WFA will not form or restart GARM or a similar initiative. WFA and X are fully aligned in the view that brands, platforms and consumers will all benefit from brand-safety innovation.",
+      "url": "https://x.com/elonmusk/status/2082451125601436106",
+      "tweet_id": "2082451125601436106",
+      "translated": "RT @elonmusk：WFA 和 X Corp. 的联合声明。今天，世界广告商联合会 (WFA) 和 X Corp. 正在将涉及全球责任媒体联盟 (GARM) 的诉讼置于身后。这重置了两个组织之间的关系。 WFA 重申其对言论自由的承诺，这一原则早在 1953 年就首次纳入了 WFA 的创始章程，也是其与 X 共享的原则。2024 年 8 月 9 日，WFA 终止了 GARM。 WFA 不会组建或重启 GARM 或类似计划。 WFA 和 X 的观点完全一致，即品牌、平台和消费者都将从品牌安全创新中受益。"
     },
     {
       "id": "tweet_cz_binance_2082077484837933223",
@@ -91,6 +92,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2082557648298516918",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 29 Jul 2026 20:03:30 GMT",
+      "content": "To show solidarity with the $IREN holders: I now own 1 share of IREN.",
+      "url": "https://x.com/aleabitoreddit/status/2082557648298516918",
+      "tweet_id": "2082557648298516918",
+      "translated": "为了表达对 $IREN 持有者的声援：我现在拥有 1 股 IREN。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2082529316655763703",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -109,16 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2082513405219631384",
       "tweet_id": "2082513405219631384",
       "translated": "美国政府将持有 $GFS 1% 的股份，并奖励他们 3 亿美元用于《美国芯片法案》。这实际上是对 $SIVE / $LITE 的深入阅读，因为该 CHIPS ACT 专门旨在推进 CPO + 硅光子学。 （仅供参考，Sivers 和 Lumentum 是 GFS 演示幻灯片中仅有的两家公共激光器供应商。Sivers 激光器阵列最近被命名为 Globalfoundries SCALE 中 CPO 的参考设计）。根据美国政府公告：“格罗方德将获得高达 3 亿美元的资金，以将国内 CPO 研发加速两到三年”（NIST）从未想过我们会看到美国政府/$INTC 代工手册针对 CPO 的具体..."
-    },
-    {
-      "id": "tweet_aleabitoreddit_2082230983487803755",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 28 Jul 2026 22:25:27 GMT",
-      "content": "I personally see it as extreme short term deleveraging that overshot many individual names. - $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth + expanding margins + raised 2026 guidance... Teradyne reported 104% Y/Y revenue growth with 300%+ EPS growth. Your leading optical players over in China reported amazing preliminary earnings + extremely strong read through for the Western photonics sector. Think earnings season tend to remind markets about continued AI acceleration. I'm expecting $LITE, $SNDK / SK Hynix, and sector leader ERs to continue that trend. But it does feel like markets are rewarding existing acceleration more rather than future growth a year out over near-term revisions as seen with $AMKR. But as a TLDR, looks very positive for the themes I'm tracking. - Then you have $GOOGL capex raised to $195-$205B, which is typically the biggest AI demand signal from hyperscalers. - 77% 0bps change est. next FOMC decision from prediction markets. Trump administration on Monday called for the Fed to lower interest rates. So your 3x rate hikes fears this year seem kinda overblown. - Chinese fears from DUV to $CXMT overflooding are extremely overblown as well. We see this with every sector from time to time until people remember that lasers or HBM bottlenecks for a reason. As for personal thoughts, it was unhealthy seeing everything rise up or down together, especially with these themes. But I'm personally not worried since I have full conviction in my names, especially optical interconnects like $SIVE or $AAOI. $META compute and $GOOGL GCP margins/growth shows increasing demand for $NBIS and similar neocloud business models. $META + other hyperscaler notes around LTAs with $SNDK and Samsung/SK Hynix, $MU point to structural memory demand. Can go on and on... But when you have Jim Cramer telling every margined DC trader to \"sell everything\" at market open and news saying there's an AI bubble. I do hate it when others say \"it's dropping so sell\". My belief is that the important thing to look is accelerating revenue/EPS growth. And if that thesis stays in-tact with revenue acceleration in line with hyperscaler capex. TLDR: I see signs of AI demand / revenue acceleration, hyperscaler capex is one of the most important things to track. And my guess is that we'll see the theme recover broadly. But I can't predict what hour, day, or week that happens.",
-      "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
-      "tweet_id": "2082230983487803755",
-      "translated": "我个人认为这是极端的短期去杠杆化，超出了许多个人的预期。 - $BE 至 $TER 报告井喷业绩，Bloom 报告同比收入增长 166% + 利润率不断扩大 + 上调 2026 年指导...Teradyne 报告收入同比增长 104%，每股收益增长 300% 以上。中国领先的光学厂商报告了令人惊叹的初步收益+对西方光子学领域极其强劲的解读。财报季往往会提醒市场人工智能持续加速发展。我预计 $LITE、$SNDK / SK Hynix 和行业领导者 ER 将继续这一趋势。但确实感觉市场对现有加速的奖励更多，而不是对近期修正的未来一年增长的奖励，正如 $AMKR 所示。但作为一个 TLDR，对于我正在跟踪的主题来说，看起来非常积极。 - 那么 $GOOGL 资本支出提高到 $195-$205B，这通常是来自超大规模企业的最大 AI 需求信号。 - 77% 0bps 改变了预测市场的下一个 FOMC 决定。特朗普政府周一呼吁美联储降低利率。因此，您对今年加息 3 倍的担忧似乎有些言过其实。 - 中国对 DUV 到 $CXMT 泛滥的担忧也被过度夸大了。我们时不时地在各个领域看到这种情况，直到人们记住激光器或 HBM 出现瓶颈是有原因的。至于个人想法，看到一切一起上升或下降是不健康的，尤其是这些主题。但我个人并不担心，因为我对自己的名字充满信心，尤其是像 $SIVE 或 $AAOI 这样的光学互连。 $META 计算和 $GOOGL GCP 利润/增长表明对 $NBIS 和类似 neocloud 商业模式的需求不断增加。 $META + 其他超大规模厂商与 $SNDK 和三星/SK Hynix 的长期协议注释，$MU 指向结构性内存需求。可以继续下去……但是当吉姆·克莱默告诉每个保证金 DC 交易员在市场开盘时“卖出所有东西”并且有消息称存在人工智能泡沫时。我确实讨厌别人说“价格下跌，所以卖出”。我的信念是，重要的是要加快收入/每股收益的增长。如果这一论点保持不变，收入加速与超大规模资本支出一致。 TLDR：我看到人工智能需求/收入加速的迹象，超大规模资本支出是需要跟踪的最重要的事情之一。我的猜测是，我们将看到这个主题广泛复苏。但我无法预测那会发生在什么小时、哪一天或哪一周。"
     },
     {
       "id": "tweet_qinbafrank_2082530284520841471",
