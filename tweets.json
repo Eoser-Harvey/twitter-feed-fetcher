@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-29T17:18:53.739441+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-29T19:20:34.175002+00:00",
+  "total": 24,
   "tweets": [
     {
       "id": "tweet_elonmusk_2082478679498822118",
@@ -91,6 +91,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2082529316655763703",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 29 Jul 2026 18:10:55 GMT",
+      "content": "Federal Reserve leaves rates unchanged at unchanged at 3.50% - 3.75%. So far so good, since markets would have sold off on an immediate rate hike (seem to have largely frontran hike expectations off already). Think everyone is waiting for the Fed Chair commentary now.",
+      "url": "https://x.com/aleabitoreddit/status/2082529316655763703",
+      "tweet_id": "2082529316655763703",
+      "translated": "美联储将利率维持在 3.50% - 3.75% 不变。到目前为止一切顺利，因为市场会因立即加息而抛售（似乎已经在很大程度上提前了加息预期）。想必大家现在都在等待美联储主席的评论。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2082513405219631384",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -111,14 +121,13 @@
       "translated": "我个人认为这是极端的短期去杠杆化，超出了许多个人的预期。 - $BE 至 $TER 报告井喷业绩，Bloom 报告同比收入增长 166% + 利润率不断扩大 + 上调 2026 年指导...Teradyne 报告收入同比增长 104%，每股收益增长 300% 以上。中国领先的光学厂商报告了令人惊叹的初步收益+对西方光子学领域极其强劲的解读。财报季往往会提醒市场人工智能持续加速发展。我预计 $LITE、$SNDK / SK Hynix 和行业领导者 ER 将继续这一趋势。但确实感觉市场对现有加速的奖励更多，而不是对近期修正的未来一年增长的奖励，正如 $AMKR 所示。但作为一个 TLDR，对于我正在跟踪的主题来说，看起来非常积极。 - 那么 $GOOGL 资本支出提高到 $195-$205B，这通常是来自超大规模企业的最大 AI 需求信号。 - 77% 0bps 改变了预测市场的下一个 FOMC 决定。特朗普政府周一呼吁美联储降低利率。因此，您对今年加息 3 倍的担忧似乎有些言过其实。 - 中国对 DUV 到 $CXMT 泛滥的担忧也被过度夸大了。我们时不时地在各个领域看到这种情况，直到人们记住激光器或 HBM 出现瓶颈是有原因的。至于个人想法，看到一切一起上升或下降是不健康的，尤其是这些主题。但我个人并不担心，因为我对自己的名字充满信心，尤其是像 $SIVE 或 $AAOI 这样的光学互连。 $META 计算和 $GOOGL GCP 利润/增长表明对 $NBIS 和类似 neocloud 商业模式的需求不断增加。 $META + 其他超大规模厂商与 $SNDK 和三星/SK Hynix 的长期协议注释，$MU 指向结构性内存需求。可以继续下去……但是当吉姆·克莱默告诉每个保证金 DC 交易员在市场开盘时“卖出所有东西”并且有消息称存在人工智能泡沫时。我确实讨厌别人说“价格下跌，所以卖出”。我的信念是，重要的是要加快收入/每股收益的增长。如果这一论点保持不变，收入加速与超大规模资本支出一致。 TLDR：我看到人工智能需求/收入加速的迹象，超大规模资本支出是需要跟踪的最重要的事情之一。我的猜测是，我们将看到这个主题广泛复苏。但我无法预测那会发生在什么小时、哪一天或哪一周。"
     },
     {
-      "id": "tweet_aleabitoreddit_2082175588555702410",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 28 Jul 2026 18:45:19 GMT",
-      "content": "FCC set to ban Chinese imports of humanoid and quadruped robots per Reuters. To protect American Humanoid/Robotics programs. Agility Robotics ( $CCXI ) and other US humanoid players should be happy to hear this.",
-      "url": "https://x.com/aleabitoreddit/status/2082175588555702410",
-      "tweet_id": "2082175588555702410",
-      "translated": "据路透社报道，美国联邦通信委员会将禁止中国进口人形和四足机器人。保护美国人形/机器人项目。 Agility Robotics ($CCXI) 和其他美国人形机器人玩家应该很高兴听到这个消息。"
+      "id": "tweet_qinbafrank_2082530284520841471",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 29 Jul 2026 18:14:46 GMT",
+      "content": "联储按兵不动，还好这次没被打脸（周二认为这次大概率继续按兵不动）。7月FOMC以9票赞成、3票反对决定维持利率不变，三位地区联储主席投下反对票，主张加息25个基点。这是自2016年以来，美联储首次在同一次政策决议中出现三张方向一致的反对票。 看利率决议声明： 1）继续强调将实现物价稳定。 2）将继续实施维持银行体系充足准备金的政策。 3）在适当情况下，通过购买国债（及必要时剩余期限为3年或以下的其他国债）增加系统公开市场账户的证券持有量，以维持充足的准备金水平。就是年初以来一直在做的RMP储备管理购买 当然更重要的还是看沃什记者会能传递多少信息出来 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2082530284520841471",
+      "tweet_id": "2082530284520841471"
     },
     {
       "id": "tweet_qinbafrank_2082473872901992707",
@@ -137,15 +146,6 @@
       "content": "美国国家资本主义在继续出手，美国商务部今天公告，通过《芯片与科学法案》签署了与7家公司的投资意向书，总额最高8.74亿美金。这些资金由CHIPS研发办公室提供，主要用于加速计算供应链相关的半导体研发，包括集成光子学、计算架构、先进封装、基板、材料和内存等技术，以提升高性能计算和AI能力、保障国内供应链并强化美国在相关领域的领导地位。最终金额仍需进一步尽职调查和批准，且商务部将在每家公司中持有少数非控制性股权。具体公司和拟议投资金额及用途如下： 1）GlobalFoundries（全球晶圆代工厂）：最高3亿美元，加速共封装光学（co-packaged optics）国内研发2-3年，将光子学直接集成到AI处理器旁，实现超高速、节能计算，强化美国在AI基础设施领域的领先地位。40 2）Kepler：最高2.45亿美元，在美国研发基于创新3D和铁电技术的新型高性能AI内存技术。40 3）Multibeam Corporation：最高1.4亿美元，开发先进封装技术，用于组装和堆叠多个芯片并用数千根导线连接，支持AI及其他先进计算应用所需的更复杂系统。40 4）Extropic：最高7500万美元，开发热力学采样单元（TSUs），利用自然热波动以远低于传统计算的能耗解决模拟、优化和AI等复杂问题。40 5）Thintronics：最高5000万美元，开发超低损耗层间电介质，用于下一代半导体互连和先进封装，服务于高性能计算、AI和网络基础设施。40 6）OBSIDIA Semiconductors：最高3400万美元，研发非侵入式假冒和恶意组件识别系统，确保AI和先进电子产品安全供应链的溯源与可追溯性。40 7）Aeluma：最高3000万美元，开发大直径、无磷化铟（indium-phosphide-free）基板技术，用于制造AI光子互连中的光电探测器和激光器。",
       "url": "https://x.com/qinbafrank/status/2082444260373311958",
       "tweet_id": "2082444260373311958"
-    },
-    {
-      "id": "tweet_qinbafrank_2082400963655340196",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 29 Jul 2026 09:40:53 GMT",
-      "content": "有没有经历过这种憋屈：明明方向对了，仓位也浮盈，结果资金费率一天天往上叠，像个没上限的吸血鬼，硬生生把你从交易里“劝退”。本来是按周甚至按月来想这笔单，平台却逼你每几小时就得重新算一遍账。 再或者——两笔交易之间，账户里趴着一笔钱，干看着，什么都不干，就等着下一次机会。 这两件事其实是同一件事：钱，要么被持仓成本慢慢吃掉，要么在空档期彻底闲着。 Grvt 这次要把两个问题一起解决： 1）Stable Funding Perps 直接把资金费率这件事重新设计了一遍。入场前你就知道最坏情况是多少——费率有上限，提前公示，每天只结一次。市场均衡的时候从 0% 起跳，只有拥挤的那一边才需要付钱。股息还会回流给你。价格、盈亏、保证金、强平全跟着真实市场（NYSE、Nasdaq、CME）走。为那些你真正想拿住的仓位而生，而不是为了日内刷单。 2）同一笔钱，闲下来也别浪费。 Grvt Earn 升级版给了三个档位：Savings、Balanced、Opportunistic。 1 美元起，无锁定期，随时赎回。机构级收益来源已经替你筛过，你只选风险偏好就行。最关键的是——你的 Earn 余额一边在生息，一边还能 100% 当交易抵押品用。不用再在“赚钱”和“随时能上”之间二选一。 同一个余额，既能稳住持仓成本，又能让闲钱动起来。 把 earn、trade、借贷、RWA 真正闭环起来，Grvt这次让我们看到了链上金融从「投机乐园」向「成熟财富基础设施」的进化。",
-      "url": "https://x.com/qinbafrank/status/2082400963655340196",
-      "tweet_id": "2082400963655340196"
     },
     {
       "id": "tweet_xiaomustock_2082092997622280410",
@@ -173,6 +173,33 @@
       "content": "现在亏的呼吸都是痛的， 上个月要是那天清仓真不玩了， 真的他妈的天麻，现在是血亏，骨髓都亏出来了。",
       "url": "https://x.com/xiaomustock/status/2081954751147876406",
       "tweet_id": "2081954751147876406"
+    },
+    {
+      "id": "tweet_xingpt_2082499866413126004",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 29 Jul 2026 16:13:53 GMT",
+      "content": "币圈炒美股的人眼睛里的美股只有存储板块，因为锚定效应，在存储上的车，亏的钱，就想在存储上赚回来。 炒币思维就很简单，盯着比特币以太几个主流币高抛低吸就行，叠加一些情绪波动和技术指标。 所以问题不在于这个点位该不该抄底，而是为什么就非盯着存储一个板块",
+      "url": "https://x.com/xingpt/status/2082499866413126004",
+      "tweet_id": "2082499866413126004"
+    },
+    {
+      "id": "tweet_xingpt_2082468660640436679",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 29 Jul 2026 14:09:53 GMT",
+      "content": "KIS把海力士的目标价抬升了 24% 到 470 万韩元；现价 141 万韩元。 之前 7 月中KIS唱空了海力士业绩，不过预测的业绩挺准的，基本和财报吻合。这次唱多的目标价我建议忽略，重点看他唱多的逻辑是什么",
+      "url": "https://x.com/xingpt/status/2082468660640436679",
+      "tweet_id": "2082468660640436679"
+    },
+    {
+      "id": "tweet_xingpt_2082416434442088513",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 29 Jul 2026 10:42:22 GMT",
+      "content": "2025年7月：苹果AI战略遭遇信任危机：投资者要求库克改变传统打法，大规模收购追赶人工智能浪潮，分析师警告，缺少明确AI路线可能危及iPhone生态 2026年7月: 苹果市值首破5万亿美元重夺全球第一：不烧钱的AI策略，正成为最稀缺的避险属性",
+      "url": "https://x.com/xingpt/status/2082416434442088513",
+      "tweet_id": "2082416434442088513"
     },
     {
       "id": "tweet_hibtc37_2082485811917074451",
@@ -203,8 +230,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
