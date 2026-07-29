@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-29T15:10:54.589205+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-29T17:18:53.739441+00:00",
+  "total": 21,
   "tweets": [
     {
       "id": "tweet_elonmusk_2082478679498822118",
@@ -91,6 +91,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2082513405219631384",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 29 Jul 2026 17:07:41 GMT",
+      "content": "US Gov to take 1% stake in $GFS, and award them $300m for the US CHIPS ACT. This is actually a strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed at advancing CPO + Silicon Photonics. (For reference, Sivers and Lumentum were the only two public laser suppliers named in GFS presentation slides. Sivers laser arrays was named recently as a reference design in Globalfoundries SCALE for CPO). Per US Gov announcement: \"GlobalFoundries will receive up to $300 million to accelerate domestic CPO R&D by two to three years\" (NIST) Never thought we'd see the US Gov / $INTC foundry playbook for CPO in specific...",
+      "url": "https://x.com/aleabitoreddit/status/2082513405219631384",
+      "tweet_id": "2082513405219631384",
+      "translated": "美国政府将持有 $GFS 1% 的股份，并奖励他们 3 亿美元用于《美国芯片法案》。这实际上是对 $SIVE / $LITE 的深入阅读，因为该 CHIPS ACT 专门旨在推进 CPO + 硅光子学。 （仅供参考，Sivers 和 Lumentum 是 GFS 演示幻灯片中仅有的两家公共激光器供应商。Sivers 激光器阵列最近被命名为 Globalfoundries SCALE 中 CPO 的参考设计）。根据美国政府公告：“格罗方德将获得高达 3 亿美元的资金，以将国内 CPO 研发加速两到三年”（NIST）从未想过我们会看到美国政府/$INTC 代工手册针对 CPO 的具体..."
+    },
+    {
       "id": "tweet_aleabitoreddit_2082230983487803755",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -109,16 +119,6 @@
       "url": "https://x.com/aleabitoreddit/status/2082175588555702410",
       "tweet_id": "2082175588555702410",
       "translated": "据路透社报道，美国联邦通信委员会将禁止中国进口人形和四足机器人。保护美国人形/机器人项目。 Agility Robotics ($CCXI) 和其他美国人形机器人玩家应该很高兴听到这个消息。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2081579593815978273",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 27 Jul 2026 03:17:03 GMT",
-      "content": "Wow, $CMXT is up a very normal +469.98% after going public today. Now valuing it at ~$487.31 billion, up from $85.5 billion. Did any of my Chinese followers buy into the IPO?",
-      "url": "https://x.com/aleabitoreddit/status/2081579593815978273",
-      "tweet_id": "2081579593815978273",
-      "translated": "哇，今天上市后，$CMXT 上涨了 469.98%，这是非常正常的。目前估值约为 4,873.1 亿美元，高于 855 亿美元。我的中国追随者是否购买了IPO？"
     },
     {
       "id": "tweet_qinbafrank_2082473872901992707",
@@ -175,31 +175,13 @@
       "tweet_id": "2081954751147876406"
     },
     {
-      "id": "tweet_xingpt_2082468660640436679",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 29 Jul 2026 14:09:53 GMT",
-      "content": "KIS把海力士的目标价抬升了 24% 到 470 万韩元；现价 141 万韩元。 之前 7 月中KIS唱空了海力士业绩，不过预测的业绩挺准的，基本和财报吻合。这次唱多的目标价我建议忽略，重点看他唱多的逻辑是什么",
-      "url": "https://x.com/xingpt/status/2082468660640436679",
-      "tweet_id": "2082468660640436679"
-    },
-    {
-      "id": "tweet_xingpt_2082416434442088513",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 29 Jul 2026 10:42:22 GMT",
-      "content": "2025年7月：苹果AI战略遭遇信任危机：投资者要求库克改变传统打法，大规模收购追赶人工智能浪潮，分析师警告，缺少明确AI路线可能危及iPhone生态 2026年7月: 苹果市值首破5万亿美元重夺全球第一：不烧钱的AI策略，正成为最稀缺的避险属性",
-      "url": "https://x.com/xingpt/status/2082416434442088513",
-      "tweet_id": "2082416434442088513"
-    },
-    {
-      "id": "tweet_xingpt_2082320210766582135",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 29 Jul 2026 04:20:00 GMT",
-      "content": "给大家说一下行情，昨天海力士财报其实结果没那么重要了，最好最完美和超预期的美光，发完财报之后市场不也是崩吗？ 毛利率高，利润高，说你吸血半导体产业链，跌！ 毛利率，盈利，收入，指引，有一个不大超预期，跌！ 海力士2026年二季度实现营收79.32万亿韩元、营业利润60.54万亿韩元，同比分别增长257%和557%，营业利润率达到历史最高的76%。 （此前韩国投资证券 KIS 发布的财报前瞻几乎精确命中） DRAM平均售价环比上涨约30%，NAND上涨约50%至55%；企业级SSD销售额环比翻倍。HBM4已于二季度开始批量出货，下半年进入全面爬坡，当前良率和质量接近成熟阶段的HBM3E。HBM4E已经送样，目标2027年量产。 公司正在与主要客户谈判2027年HBM价格，并已与约10家客户完成长期供货协议，合同通常以五年为基础，部分包含保证金机制。市场的主要分歧在于，长期协议提高了需求和利润的稳定性，也限制了短期价格上涨弹性。海力士HBM占比较高，二季度未能充分受益于传统DRAM的暴涨。 同时，公司将2026年资本开支提高至40万亿韩元后段，却暂未公布明确的回购或分红方案，引发市场担忧。整体看，AI内存需求、HBM4量产和服务器存储逻辑仍然强劲，但短期盈利预期需要下调。 和7月13日已经下调过的KIS预测相比，结果高度一致，营业利润甚至略好。这说明真正的信息冲击在7月13日已经释放了一部分，所以财报后其实市场是先跌后涨，V了 10% 以上。 但亚洲时区开盘还是情绪面悲观，在大的情绪面前，技术和基本面分析基本上是失效的，只能等这种资金抛压见底之后再择机选择基本面好的股票/错杀的股票买入。 行业这些不说了。 对了姐，我是 128 号。咱唱完再摸。",
-      "url": "https://x.com/xingpt/status/2082320210766582135",
-      "tweet_id": "2082320210766582135"
+      "id": "tweet_hibtc37_2082485811917074451",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Wed, 29 Jul 2026 15:18:02 GMT",
+      "content": "韩国政府还是决心“强力去杠杆”，铁了心要去泡沫了，和中国政府的楼市的三道红线一模一样，这么推导的话，即使沃什放鸽，也不能拯救去杠杆的海力士和存储啊。 各位股神，我的推断，合理吗？",
+      "url": "https://x.com/hibtc37/status/2082485811917074451",
+      "tweet_id": "2082485811917074451"
     },
     {
       "id": "tweet_hibtc37_2082473611882074137",
@@ -218,20 +200,11 @@
       "content": "全部跑完了，该打止损的止损，睡个好觉，测试账户重回6字头了",
       "url": "https://x.com/hibtc37/status/2082472822518218894",
       "tweet_id": "2082472822518218894"
-    },
-    {
-      "id": "tweet_hibtc37_2082470461418742229",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Wed, 29 Jul 2026 14:17:03 GMT",
-      "content": "SNDK反弹无力，老师申请退款，不玩短线了🥹",
-      "url": "https://x.com/hibtc37/status/2082470461418742229",
-      "tweet_id": "2082470461418742229"
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
