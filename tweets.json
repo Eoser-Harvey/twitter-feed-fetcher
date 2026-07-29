@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-29T00:00:14.104200+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-29T03:30:38.218998+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2082244164197183805",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 28 Jul 2026 23:17:49 GMT",
-      "content": "We’re sending a ship out to recover Starship",
-      "url": "https://x.com/elonmusk/status/2082244164197183805",
-      "tweet_id": "2082244164197183805",
-      "translated": "我们将派出一艘船去回收星舰"
-    },
-    {
-      "id": "tweet_elonmusk_2082244044261064874",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 28 Jul 2026 23:17:21 GMT",
-      "content": "Landing videos of Starship",
-      "url": "https://x.com/elonmusk/status/2082244044261064874",
-      "tweet_id": "2082244044261064874",
-      "translated": "星舰着陆视频"
-    },
-    {
-      "id": "tweet_elonmusk_2082243900719460745",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 28 Jul 2026 23:16:46 GMT",
-      "content": "Stayin’ Alive",
-      "url": "https://x.com/elonmusk/status/2082243900719460745",
-      "tweet_id": "2082243900719460745",
-      "translated": "保持活力"
-    },
     {
       "id": "tweet_cz_binance_2081522037885972549",
       "username": "cz_binance",
@@ -122,6 +92,15 @@
       "translated": "哇，今天上市后，$CMXT 上涨了 469.98%，这是非常正常的。目前估值约为 4,873.1 亿美元，高于 855 亿美元。我的中国追随者中有人购买了IPO吗？"
     },
     {
+      "id": "tweet_qinbafrank_2082292067150200980",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 29 Jul 2026 02:28:10 GMT",
+      "content": "Jason老板这里做了一个模型，随着租赁费率的提升和提供OSS模型，neo和hyper的asp和利润率应该有相当可观的上涨空间： 毛利从75%提升到88%； EBITDA从50%提升到75%。 跟之前https://x.com/qinbafrank/status/2082110467628236895?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到的CSP部署开源模型带动毛利率大幅度提升是一致的。",
+      "url": "https://x.com/qinbafrank/status/2082292067150200980",
+      "tweet_id": "2082292067150200980"
+    },
+    {
       "id": "tweet_qinbafrank_2082147612120285191",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -138,15 +117,6 @@
       "content": "看到不少讨论聊到超大CSP卖开源模型token毛利很高，其实这跟梁文锋在之前内部交流说的是一致的：“DeepSeek的API定价逻辑是到市场上买一批设备回来，十个月收回成本，这大致对应六倍利润”。 月初在这里也详细聊过： CSP（云服务商）部署性价比高的开源模型并转售Token的意义：https://x.com/qinbafrank/status/2074309065849884813?s=20 未来超大CSP的业绩表现将会衡量AI商业化更重要的指标和价值重塑：https://x.com/qinbafrank/status/2074754779755295164?s=20 最后总的思考汇总在下面的长文里 超大CSP卖开源token，比转卖前沿模型的token少了很大一部分分成支出（大头都被前沿模型厂商拿走了）。 也比单纯出租gpu还是更有溢价，这里的溢价在于：除了自研自研ASIC计算；托管推理服务；数据库和向量检索；对象存储；网络和数据传输；Agent运行时；安全和身份；评估、日志和监控；企业支持服务。 CSP 部署性价比高的开源模型并转售 Token，是当前提升AI业务利润率的最有效路径之一。它本质上是把“模型层”商品化后，CSP 把价值更多地转移到基础设施 + 平台服务层（托管、优化、路由、治理、安全）。 自然毛利会大幅度提升 当然6月中下超大CSP才开始大规模部署开源模型，数据还没那么充分。如果之后市场能确认超大CSP部署开源模型毛利更好，回本周期更快。 这很可能是下一波行情的主驱动逻辑。",
       "url": "https://x.com/qinbafrank/status/2082110467628236895",
       "tweet_id": "2082110467628236895"
-    },
-    {
-      "id": "tweet_qinbafrank_2082047000489730249",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Tue, 28 Jul 2026 10:14:22 GMT",
-      "content": "你以为的中型模型，也有媲美前沿闭源旗舰大模型的安全性，微软越来越全栈了。之前https://x.com/qinbafrank/status/2074705237135298660?s=46&t=k6rimWsEbo2D2tXolYcM-A聊过微软推出自研模型MAI，看昨天纳德拉发文推荐微软的首个网络安全模型MAI-Cyber-1-Flash，旨在发现复杂代码库中最具挑战性的漏洞。与MDASH 结合使用时，以领先模型50% 的成本提供一流的性能，性能领先成本只有一半。要把MAI放在超大CSP商业价值重构的框架来看待。 超大CSP其实在积极重溯其商业模式： 1）AI推理是微软云业务的主要成本项之一，部署开源模型直接改善毛利率，自研模型进一步优化成本结构； 2）战略独立，减少对OpenAI（深度合作伙伴）和Anthropic的依赖，增强供应链韧性； 3）自研模型 +Maia芯片 + Microsoft 365深度集成，微软也越来越全栈了。形成独特优势，打造生态闭环； 4）干净数据 + 合规 + 低成本 + 可微调，对大企业极具吸引力。 现在MAI-Cyber-1-Flash证明微软已具备从头构建竞争性中大型模型的能力，训练循环和后训练优化有效。验证了“高效中型模型 + 规模部署”在生产环境的价值，而非一味追求参数军备竞赛。 未来趋势很明确： 闭源前沿模型继续走高端溢价路线而 开源模型 + CSP 托管 将成为中低端和高频场景的主力。 能把开源模型 或者自研模型serving 做到极致低成本 + 高可靠的 CSP，将在 AI 时代获得显著的利润率优势。",
-      "url": "https://x.com/qinbafrank/status/2082047000489730249",
-      "tweet_id": "2082047000489730249"
     },
     {
       "id": "tweet_xiaomustock_2082092997622280410",
@@ -204,36 +174,36 @@
       "tweet_id": "2082080269771894966"
     },
     {
-      "id": "tweet_hibtc37_2082139912288321622",
+      "id": "tweet_hibtc37_2082300588868723148",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Tue, 28 Jul 2026 16:23:34 GMT",
-      "content": "625 638到了 第98次命中✅ 如我预判，马前炮选手，新的区间还没时间研究，太晚了，美股接飞刀中，还没时间研究",
-      "url": "https://x.com/hibtc37/status/2082139912288321622",
-      "tweet_id": "2082139912288321622"
+      "published_at": "Wed, 29 Jul 2026 03:02:02 GMT",
+      "content": "为什么？反转我就做多啊！吃钱不好吗？你死多，不反转你吃亏啊",
+      "url": "https://x.com/hibtc37/status/2082300588868723148",
+      "tweet_id": "2082300588868723148"
     },
     {
-      "id": "tweet_hibtc37_2082137510298415425",
+      "id": "tweet_hibtc37_2082290864928575708",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Tue, 28 Jul 2026 16:14:01 GMT",
-      "content": "计划在红框地方接飞刀，做一波火箭的反弹😀",
-      "url": "https://x.com/hibtc37/status/2082137510298415425",
-      "tweet_id": "2082137510298415425"
+      "published_at": "Wed, 29 Jul 2026 02:23:23 GMT",
+      "content": "海力士开单即止损，又本月新低，狂野！还好是个小单，看来还是因为杠杆太高，财报利空，继续去杠杆。存储完犊子，我收回做空海力士谨慎的判断，如果收盘还是很弱，还是要看今晚美股能不能带动反弹一波了，SNDK打止损还是吃肉，未来2天决定",
+      "url": "https://x.com/hibtc37/status/2082290864928575708",
+      "tweet_id": "2082290864928575708"
     },
     {
-      "id": "tweet_hibtc37_2082123799311642896",
+      "id": "tweet_hibtc37_2082288321250959508",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Tue, 28 Jul 2026 15:19:32 GMT",
-      "content": "$SPCX 有止跌迹象了，我打算在8月4日前，100多接点飞刀，坐等逼空一把，然后止盈，至少20%反弹，到125-135刀问题不大，跌破100止损",
-      "url": "https://x.com/hibtc37/status/2082123799311642896",
-      "tweet_id": "2082123799311642896"
+      "published_at": "Wed, 29 Jul 2026 02:13:17 GMT",
+      "content": "流动性猎杀业务扩产能了，开始试水新业务线SPCX 和 SNDK，新标的先试跑一周，看看准不准吧，准就继续，大家也帮我验证下 新区间： $BTC 646 636市价 625 $SPCX 120 116市价 108 $SNDK 1325 1072市价 1025 BTC，这个是短期区间，我之前引文提到的价格的流动性，依然在，吃不吃，看主力，都在等今晚沃什讲话，讲话前应该是在这个小区间了里震荡，2100刀的空间，沃什讲话利好，估计就要去吃677，讲话利空就604/600。说明下，我不计划开单，只是粉丝追着喊要区间，免费分享下 SPCX 短期向下破108的话，基本没啥可以吃的了，向上的流动性肥妹易鸡，第一波逼空可能已经进行了，到120是逼空第一目标，卖put会非常舒服，期权贵的离谱，目前SPCX做多散户非常巨大，迟早是要被干的。准备做短多，我可能要调整我的接货挂单价格了 SNDK 是强庄控股，1025以下短期没啥流动性了，理论上没有动力去吃，但可能会发生情绪砸盘，因为太恐慌了，第一逼空目标是1325，我在这里会止盈。这个标的，做多的散户也巨多，迟早也是被干的，我在短多，害怕 不要只白嫖，如果对你有帮助，请你三连键走起，鼓励我分享和创作，谢谢！",
+      "url": "https://x.com/hibtc37/status/2082288321250959508",
+      "tweet_id": "2082288321250959508"
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
