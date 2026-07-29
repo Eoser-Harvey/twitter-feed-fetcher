@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-29T06:34:27.204497+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-29T09:39:55.981200+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2082346176922407060",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 29 Jul 2026 06:03:11 GMT",
+      "content": "RT by @elonmusk: BREAKING: Grok 4.5 just claimed the top spot on the new HighWalk Benchmark. The independent test measures how well AI models update real technical specifications from 46 Laravel commits — heavy on code analysis, abstraction, and precise writing. Results: • Grok 4.5 (high) → overall #1 (best quality + efficiency combo) • Claude Opus 5 (high) → highest raw quality, zero hard failures • GLM 5.2 → strongest open-weight model Higher reasoning effort didn’t always help. Full results just dropped.",
+      "url": "https://x.com/elonmusk/status/2082346176922407060",
+      "tweet_id": "2082346176922407060",
+      "translated": "RT @elonmusk：突发事件：Grok 4.5 刚刚在新的 HighWalk 基准测试中夺得了榜首。这项独立测试衡量 AI 模型更新 46 个 Laravel 提交的真实技术规范的情况 - 重点是代码分析、抽象和精确编写。结果： • Grok 4.5（高）→ 整体排名第一（最佳质量+效率组合） • Claude Opus 5（高）→ 最高原始质量，零硬故障 • GLM 5.2 → 最强的开放权重模型 更高的推理努力并不总是有帮助。完整结果刚刚下降。"
+    },
+    {
+      "id": "tweet_elonmusk_2081977918000140362",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 28 Jul 2026 05:39:51 GMT",
+      "content": "RT by @elonmusk: This is a fantastic article about @Tesla's FSD by The Detroit News: \"Determined to maintain their individual transportation independence, they are using Tesla’s hands-free FSD system as a driver assist. Though by no means exclusive to seniors in its ability to add another set of eyes to the road, FSD helps elderly drivers maintain a cocoon around their car as their confidence in reflexes and eyesight naturally deteriorate. 92-year-old Leonard Kraus uses Tesla FSD (Supervised) for 87% of his miles. He recommended Tesla FSD to his 95-year-old brother-in-law. “I don't think I would be driving without it.” “It's as good a driver as I am,” said Dick Amacher, 78, a retired General Motors engineer from Rochester Hills who drives his Model Y and Model 3 on FSD 98% of the time. “Here's the thing, it will not go through a red light. It will not go through a stop sign. Every once in a while, I've driven through neighborhoods where stop signs were partially obscured by low hanging branches, for example. . . and (the Tesla) sees them before I do.” Driving into Detroit, FSD exited the expressway near Wayne State. “All of a sudden the Tesla pulls over to the curb. I'm like: ‘what is going on?’” said the 78-year old. “Turns out there was an emergency vehicle coming from behind. FSD saw that it was an emergency vehicle before I did. It has vision in every direction simultaneously. A human being cannot replicate that.” Full article: https://www.detroitnews.com/story/business/autos/2026/07/28/i-wouldnt-be-driving-without-it-seniors-adopt-self-driving-teslas/91059037007/",
+      "url": "https://x.com/elonmusk/status/2081977918000140362",
+      "tweet_id": "2081977918000140362",
+      "translated": "RT @elonmusk：这是《底特律新闻》一篇关于 @Tesla 的 FSD 的精彩文章：“为了保持个人交通的独立性，他们使用特斯拉的免提 FSD 系统作为驾驶员辅助。虽然 FSD 并不是老年人独有的功能，因为它能够为道路添加另一双眼睛，但 FSD 可以帮助老年驾驶员在他们的汽车周围保持一个茧，因为他们对反应能力和视力的信心自然会下降。92 岁的 Leonard Kraus 使用87% 的里程都使用 Tesla FSD（受监督）。他向 95 岁的姐夫推荐 Tesla FSD，“如果没有它，我就不会开车。” “它和我一样优秀，”78 岁的迪克·阿马赫 (Dick Amacher) 说道，他是罗切斯特山 (Rochester Hills) 的退休通用汽车工程师，他 98% 的时间都使用 FSD 驾驶他的 Model Y 和 Model 3。 “事情是这样的，它不会闯红灯。它不会通过停车标志。例如，我偶尔会开车经过一些街区，那里的停车标志被低垂的树枝部分遮挡。 。 。 （特斯拉）比我先看到它们。” FSD 驶入底特律，从韦恩州立大学附近的高速公路驶出。 “突然，特斯拉把车停到了路边。我就想：‘这是怎么回事？’”78 岁的老人说道，“原来有一辆急救车从后面驶来。 FSD 在我之前看到那是一辆紧急车辆。它同时拥有各个方向的视野。人类无法复制这一点。”完整文章：https://www.detroitnews.com/story/business/autos/2026/07/28/i-wouldnt-be-driven-without-it-seniors-adopt-self-driven-teslas/91059037007/"
+    },
+    {
+      "id": "tweet_elonmusk_2082126570852843529",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 28 Jul 2026 15:30:33 GMT",
+      "content": "RT by @elonmusk: This has been my experience as well. I \"drive\" almost exclusively on FSD now, without incident, and it feels remarkable. I've told my soon-to-be 80-year-old father that his next car must have this technology for driving and navigation.",
+      "url": "https://x.com/elonmusk/status/2082126570852843529",
+      "tweet_id": "2082126570852843529",
+      "translated": "RT @elonmusk：这也是我的经历。我现在几乎只用 FSD 来“驾驶”，没有发生任何事故，这感觉很了不起。我告诉我即将 80 岁的父亲，他的下一辆车必须配备这种驾驶和导航技术。"
+    },
     {
       "id": "tweet_cz_binance_2081522037885972549",
       "username": "cz_binance",
@@ -40,7 +70,7 @@
       "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
       "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
       "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带入白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -89,7 +119,25 @@
       "content": "Wow, $CMXT is up a very normal +469.98% after going public today. Now valuing it at ~$487.31 billion, up from $85.5 billion. Did any of my Chinese followers buy into the IPO?",
       "url": "https://x.com/aleabitoreddit/status/2081579593815978273",
       "tweet_id": "2081579593815978273",
-      "translated": "哇，今天上市后，$CMXT 上涨了 469.98%，这是非常正常的。目前估值约为 4,873.1 亿美元，高于 855 亿美元。我的中国追随者中有人购买了IPO吗？"
+      "translated": "哇，今天上市后，$CMXT 上涨了 469.98%，这是非常正常的。目前估值约为 4,873.1 亿美元，高于 855 亿美元。我的中国追随者是否购买了IPO？"
+    },
+    {
+      "id": "tweet_qinbafrank_2082388647161311677",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 29 Jul 2026 08:51:57 GMT",
+      "content": "最近美股📉很多人都开始说历史少有，如果熟悉美股过去二十年调整的规律就不会这么说了。这次调整幅度无论大盘还是个股其实远低于去年关税战，当时连英伟达都腰斩了，更不用说22年、20年3月了。去年2月底有梳理过过去二十年美股调整的规律，再加上过去一年内四次调整，25年11月、26年2月到4月初、26年6月前两周、以及最近7月那就全齐了。可以去看看这篇做个参考。",
+      "url": "https://x.com/qinbafrank/status/2082388647161311677",
+      "tweet_id": "2082388647161311677"
+    },
+    {
+      "id": "tweet_qinbafrank_2082374908143878225",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 29 Jul 2026 07:57:21 GMT",
+      "content": "看到@JonahLupton也说到了我月初提到的观点：更多开源模型将降低AI的总体成本，这意味着更多使用和更多计算需求。简单说就是单个企业和个体成本支出降低了，但使用的企业和人是会越来越多。市场会越来越意识到这一点，这将是下一波的核心驱动力。",
+      "url": "https://x.com/qinbafrank/status/2082374908143878225",
+      "tweet_id": "2082374908143878225"
     },
     {
       "id": "tweet_qinbafrank_2082322855698792638",
@@ -99,24 +147,6 @@
       "content": "不容易韩国监管层终于想起来救市了，最近一段时间韩国监管都是在层层加码，很多人没注意就在昨天韩国金融委员会委员长李亿元还表态：先观察7月31日落地实施一次性政策效果，若需求未充分降温，将推进包括20%总量管理在内的追加措施，意思是还要加码。",
       "url": "https://x.com/qinbafrank/status/2082322855698792638",
       "tweet_id": "2082322855698792638"
-    },
-    {
-      "id": "tweet_qinbafrank_2082316157416321504",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 29 Jul 2026 04:03:54 GMT",
-      "content": "川普这次会彻底承认伊朗对霍尔木兹海峡的控制权么？伊朗拒绝了阿曼的关于海峡的方案，认为霍尔木兹海峡入海方向应该完全受伊朗控制，出海航道部分受伊朗控制，完全不接受霍尔木兹海峡的南部航道。这其实也说明了7月冲突再起的原因就是之前这里https://x.com/qinbafrank/status/2076185072613597214?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到的：美国鼓动商船（不然商船也不敢行动）寻求开辟出不受伊朗人控制的南侧航道，被伊朗发现，而伊朗人头铁地寻求用武力事实上控制海峡，然后美国反击。 上周也聊到这次伊朗的主动权会更强一些，不是只看川普TACO就行，这一次川普其实得要真正接受霍尔木兹海峡回不到战前的状态、局势才是缓和。 看兔主席提到美国精神病学家库伯勒-罗斯在1969年提出了一个分析框架，用于描述各种重大变故（亲人去世、离婚、失业、重大疾病等）后的情绪反应。这个分析框架涉及当事人心理变化的五个阶段：  1）否认（Denial） 2）愤怒（Anger） 3）讨价还价（Bargaining） 4）抑郁（Depression） 5）接受（Acceptance） 再来看7月初以来川普在伊朗问题上的行为动作确实很深刻印迹： 7月初完全不承认伊朗对霍尔木兹海峡控制权的否认阶段； 伊朗袭击商船后美军果断发起打击，连续十几天的攻击伊朗明显是在愤怒阶段； 上周后半周开始主动停止攻击、则是进入桃花还价的阶段； 这两天巴基斯坦、阿曼分别出面、伊朗死好不让，川普应该开始抑郁了。 为什么会抑郁？ 1）军事上没进展 光轰炸其实没有效果，三四月份已经证明了这一点。地面进攻更可能是泥潭，根本不敢轻易冒险； 2）经济上风险更大 相比三月当下全球石油库存量很低、缓冲余地更小、更经不起长时间供给短缺的冲击； 3）政治上时间也等不起 中期选举的选战就要开始了，马上就要进入8月，越往前，川普越无法无视伊朗战争的政治影响。 这种情况下、他大概率还是要万般不情愿但又无可奈何地接受伊朗对霍尔木兹海峡的事实控制，只是说会以什么样的赢学说辞来粉饰。只是时间节奏还不完全清晰 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2082316157416321504",
-      "tweet_id": "2082316157416321504"
-    },
-    {
-      "id": "tweet_qinbafrank_2082292067150200980",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 29 Jul 2026 02:28:10 GMT",
-      "content": "Jason老板这里做了一个模型，随着租赁费率的提升和提供OSS模型，neo和hyper的asp和利润率应该有相当可观的上涨空间： 毛利从75%提升到88%； EBITDA从50%提升到75%。 跟之前https://x.com/qinbafrank/status/2082110467628236895?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到的CSP部署开源模型带动毛利率大幅度提升是一致的。",
-      "url": "https://x.com/qinbafrank/status/2082292067150200980",
-      "tweet_id": "2082292067150200980"
     },
     {
       "id": "tweet_xiaomustock_2082092997622280410",
@@ -174,37 +204,36 @@
       "translated": "R 至@xingpt：clsa.com/special/FSI/2026/cn…"
     },
     {
-      "id": "tweet_hibtc37_2082334491985723623",
+      "id": "tweet_hibtc37_2082367215903633575",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Wed, 29 Jul 2026 05:16:45 GMT",
-      "content": "海力士收回200日线，明显止跌迹象，这波抗住的七粉，要吃肉了！！！",
-      "url": "https://x.com/hibtc37/status/2082334491985723623",
-      "tweet_id": "2082334491985723623"
+      "published_at": "Wed, 29 Jul 2026 07:26:47 GMT",
+      "content": "应该是要触底反弹了",
+      "url": "https://x.com/hibtc37/status/2082367215903633575",
+      "tweet_id": "2082367215903633575"
     },
     {
-      "id": "tweet_hibtc37_2082326692404867391",
+      "id": "tweet_hibtc37_2082364013409882487",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Wed, 29 Jul 2026 04:45:45 GMT",
-      "content": "散户多空比： $SNDK 6.8 solana:XsnhgGRQwhExfS2bmWzR6EYddKGPRGDEjeJsatkmKqU 6 $MU 3.5 事到如今，你们别做多了行不行😭",
-      "url": "https://x.com/hibtc37/status/2082326692404867391",
-      "tweet_id": "2082326692404867391"
+      "published_at": "Wed, 29 Jul 2026 07:14:03 GMT",
+      "content": "$SNDK 单子当时只差3刀就被打止损了！ 当时看了SNDK流动性，发现998必破，再往下真没有流动性不多，立马调了990，心想如果这也损了，那肯定是散户多头不断送人头，我在低位接多得了，不跟你们抢，所以，我喊别做多了 这波海力士去杠杆，带崩存储，真的太刺激了，美股的情绪价值真的高😆 咱们1330-1450见吧，希望沃什别意外真整加息，今晚睡觉前，上调止损位置才行，防范极端风险，控制损失 老师，我申请撤回退款了🥹",
+      "url": "https://x.com/hibtc37/status/2082364013409882487",
+      "tweet_id": "2082364013409882487"
     },
     {
-      "id": "tweet_hibtc37_2082324204217856264",
+      "id": "tweet_hibtc37_2082358722270216412",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Wed, 29 Jul 2026 04:35:52 GMT",
-      "content": "原来这也是我的夏天，去杠杆的夏天 그러면 이 여름이 가장 아름다운 여름이라고 네가 말했잖아?",
-      "url": "https://x.com/hibtc37/status/2082324204217856264",
-      "tweet_id": "2082324204217856264",
-      "translated": "那你说这个夏天是最美的夏天吧？"
+      "published_at": "Wed, 29 Jul 2026 06:53:02 GMT",
+      "content": "原来也是海力士友，😭这波亏260万￥，全是因为海力士猛烈去杠杆",
+      "url": "https://x.com/hibtc37/status/2082358722270216412",
+      "tweet_id": "2082358722270216412"
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
-    "nitter_healthy": 9
+    "users_success": 8,
+    "users_failed": 0,
+    "nitter_healthy": 10
   }
 }
