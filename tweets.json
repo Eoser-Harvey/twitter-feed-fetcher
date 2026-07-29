@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-29T20:59:26.138098+00:00",
+  "fetched_at": "2026-07-29T22:07:46.726293+00:00",
   "total": 24,
   "tweets": [
     {
@@ -70,7 +70,7 @@
       "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
       "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
       "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+      "translated": "我们将把这位英雄的年轻人和他的家人带入白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -92,6 +92,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2082578803189268855",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 29 Jul 2026 21:27:33 GMT",
+      "content": "$AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agreed to pay a deposit of $43.5M as a reservation for capacity.",
+      "url": "https://x.com/aleabitoreddit/status/2082578803189268855",
+      "tweet_id": "2082578803189268855",
+      "translated": "$AXTI 与 $LITE 就 InP 衬底达成长期协议。 Lumentum 已同意支付 4350 万美元的押金作为容量预留。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2082557648298516918",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,16 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2082529316655763703",
       "tweet_id": "2082529316655763703",
       "translated": "美联储将利率维持在 3.50% - 3.75% 不变。到目前为止一切顺利，因为市场会因立即加息而抛售（似乎已经在很大程度上提前了加息预期）。想必大家现在都在等待美联储主席的评论。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2082513405219631384",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 29 Jul 2026 17:07:41 GMT",
-      "content": "US Gov to take 1% stake in $GFS, and award them $300m for the US CHIPS ACT. This is actually a strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed at advancing CPO + Silicon Photonics. (For reference, Sivers and Lumentum were the only two public laser suppliers named in GFS presentation slides. Sivers laser arrays was named recently as a reference design in Globalfoundries SCALE for CPO). Per US Gov announcement: \"GlobalFoundries will receive up to $300 million to accelerate domestic CPO R&D by two to three years\" (NIST) Never thought we'd see the US Gov / $INTC foundry playbook for CPO in specific...",
-      "url": "https://x.com/aleabitoreddit/status/2082513405219631384",
-      "tweet_id": "2082513405219631384",
-      "translated": "美国政府将持有 $GFS 1% 的股份，并奖励他们 3 亿美元用于《美国芯片法案》。这实际上是对 $SIVE / $LITE 的深入阅读，因为该 CHIPS ACT 专门旨在推进 CPO + 硅光子学。 （仅供参考，Sivers 和 Lumentum 是 GFS 演示幻灯片中仅有的两家公共激光器供应商。Sivers 激光器阵列最近被命名为 Globalfoundries SCALE 中 CPO 的参考设计）。根据美国政府公告：“格罗方德将获得高达 3 亿美元的资金，以将国内 CPO 研发加速两到三年”（NIST）从未想过我们会看到美国政府/$INTC 代工手册针对 CPO 的具体..."
     },
     {
       "id": "tweet_qinbafrank_2082530284520841471",
