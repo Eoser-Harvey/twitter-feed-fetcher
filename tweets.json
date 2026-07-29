@@ -1,36 +1,35 @@
 {
-  "fetched_at": "2026-07-29T12:03:54.126148+00:00",
+  "fetched_at": "2026-07-29T15:10:54.589205+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2082346176922407060",
+      "id": "tweet_elonmusk_2082478679498822118",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 29 Jul 2026 06:03:11 GMT",
-      "content": "RT by @elonmusk: BREAKING: Grok 4.5 just claimed the top spot on the new HighWalk Benchmark. The independent test measures how well AI models update real technical specifications from 46 Laravel commits — heavy on code analysis, abstraction, and precise writing. Results: • Grok 4.5 (high) → overall #1 (best quality + efficiency combo) • Claude Opus 5 (high) → highest raw quality, zero hard failures • GLM 5.2 → strongest open-weight model Higher reasoning effort didn’t always help. Full results just dropped.",
-      "url": "https://x.com/elonmusk/status/2082346176922407060",
-      "tweet_id": "2082346176922407060",
-      "translated": "RT @elonmusk：突发事件：Grok 4.5 刚刚在新的 HighWalk 基准测试中夺得了榜首。这项独立测试衡量 AI 模型更新 46 个 Laravel 提交的真实技术规范的情况 - 重点是代码分析、抽象和精确编写。结果： • Grok 4.5（高）→ 整体排名第一（最佳质量+效率组合） • Claude Opus 5（高）→ 最高原始质量，零硬故障 • GLM 5.2 → 最强的开放权重模型 更高的推理努力并不总是有帮助。完整结果刚刚下降。"
+      "published_at": "Wed, 29 Jul 2026 14:49:42 GMT",
+      "content": "😂",
+      "url": "https://x.com/elonmusk/status/2082478679498822118",
+      "tweet_id": "2082478679498822118"
     },
     {
-      "id": "tweet_elonmusk_2081977918000140362",
+      "id": "tweet_elonmusk_2082472135910473976",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 28 Jul 2026 05:39:51 GMT",
-      "content": "RT by @elonmusk: This is a fantastic article about @Tesla's FSD by The Detroit News: \"Determined to maintain their individual transportation independence, they are using Tesla’s hands-free FSD system as a driver assist. Though by no means exclusive to seniors in its ability to add another set of eyes to the road, FSD helps elderly drivers maintain a cocoon around their car as their confidence in reflexes and eyesight naturally deteriorate. 92-year-old Leonard Kraus uses Tesla FSD (Supervised) for 87% of his miles. He recommended Tesla FSD to his 95-year-old brother-in-law. “I don't think I would be driving without it.” “It's as good a driver as I am,” said Dick Amacher, 78, a retired General Motors engineer from Rochester Hills who drives his Model Y and Model 3 on FSD 98% of the time. “Here's the thing, it will not go through a red light. It will not go through a stop sign. Every once in a while, I've driven through neighborhoods where stop signs were partially obscured by low hanging branches, for example. . . and (the Tesla) sees them before I do.” Driving into Detroit, FSD exited the expressway near Wayne State. “All of a sudden the Tesla pulls over to the curb. I'm like: ‘what is going on?’” said the 78-year old. “Turns out there was an emergency vehicle coming from behind. FSD saw that it was an emergency vehicle before I did. It has vision in every direction simultaneously. A human being cannot replicate that.” Full article: https://www.detroitnews.com/story/business/autos/2026/07/28/i-wouldnt-be-driving-without-it-seniors-adopt-self-driving-teslas/91059037007/",
-      "url": "https://x.com/elonmusk/status/2081977918000140362",
-      "tweet_id": "2081977918000140362",
-      "translated": "RT @elonmusk：这是《底特律新闻》一篇关于 @Tesla 的 FSD 的精彩文章：“为了保持个人交通的独立性，他们使用特斯拉的免提 FSD 系统作为驾驶员辅助。虽然 FSD 并不是老年人独有的功能，因为它能够为道路添加另一双眼睛，但 FSD 可以帮助老年驾驶员在他们的汽车周围保持一个茧，因为他们对反应能力和视力的信心自然会下降。92 岁的 Leonard Kraus 使用87% 的里程都使用 Tesla FSD（受监督）。他向 95 岁的姐夫推荐 Tesla FSD，“如果没有它，我就不会开车。” “它和我一样优秀，”78 岁的迪克·阿马赫 (Dick Amacher) 说道，他是罗切斯特山 (Rochester Hills) 的退休通用汽车工程师，他 98% 的时间都使用 FSD 驾驶他的 Model Y 和 Model 3。 “事情是这样的，它不会闯红灯。它不会通过停车标志。例如，我偶尔会开车经过一些街区，那里的停车标志被低垂的树枝部分遮挡。 。 。 （特斯拉）比我先看到它们。” FSD 驶入底特律，从韦恩州立大学附近的高速公路驶出。 “突然，特斯拉把车停到了路边。我就想：‘这是怎么回事？’”78 岁的老人说道，“原来有一辆急救车从后面驶来。 FSD 在我之前看到那是一辆紧急车辆。它同时拥有各个方向的视野。人类无法复制这一点。”完整文章：https://www.detroitnews.com/story/business/autos/2026/07/28/i-wouldnt-be-driven-without-it-seniors-adopt-self-driven-teslas/91059037007/"
+      "published_at": "Wed, 29 Jul 2026 14:23:42 GMT",
+      "content": "RT by @elonmusk: BREAKING: Grok 4.5 ranked #1 on LaurenBench with a score of 56.9%, ahead of Claude Sonnet 5, GLM 5.2, Claude Opus 5, Kimi K3 and GPT-5.6. The benchmark tests real-world AI agents across conversation, tool use, memory and safety.",
+      "url": "https://x.com/elonmusk/status/2082472135910473976",
+      "tweet_id": "2082472135910473976",
+      "translated": "RT @elonmusk：突发：Grok 4.5 在 LaurenBench 上以 56.9% 的分数排名第一，领先于 Claude Sonnet 5、GLM 5.2、Claude Opus 5、Kimi K3 和 GPT-5.6。该基准测试真实世界的人工智能代理的对话、工具使用、内存和安全性。"
     },
     {
-      "id": "tweet_elonmusk_2082126570852843529",
+      "id": "tweet_elonmusk_2082063705269772586",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 28 Jul 2026 15:30:33 GMT",
-      "content": "RT by @elonmusk: This has been my experience as well. I \"drive\" almost exclusively on FSD now, without incident, and it feels remarkable. I've told my soon-to-be 80-year-old father that his next car must have this technology for driving and navigation.",
-      "url": "https://x.com/elonmusk/status/2082126570852843529",
-      "tweet_id": "2082126570852843529",
-      "translated": "RT @elonmusk：这也是我的经历。我现在几乎只用 FSD 来“驾驶”，没有发生任何事故，这感觉很了不起。我告诉我即将 80 岁的父亲，他的下一辆车必须配备这种驾驶和导航技术。"
+      "published_at": "Tue, 28 Jul 2026 11:20:44 GMT",
+      "content": "RT by @elonmusk: “If I died knowing that I did what was right or did my best to do what was right and even If in the history books they said I did wrong, I would still feel okay about that, I care about the reality of goodness and not the perception of it” -Elon Musk",
+      "url": "https://x.com/elonmusk/status/2082063705269772586",
+      "tweet_id": "2082063705269772586",
+      "translated": "RT by @elonmusk：“如果我死时知道自己做了正确的事，或者尽了最大努力做了正确的事，即使在历史书中他们说我做错了，我仍然会对此感觉良好，我关心善良的现实，而不是对它的看法”——埃隆·马斯克"
     },
     {
       "id": "tweet_cz_binance_2082077484837933223",
@@ -122,6 +121,24 @@
       "translated": "哇，今天上市后，$CMXT 上涨了 469.98%，这是非常正常的。目前估值约为 4,873.1 亿美元，高于 855 亿美元。我的中国追随者是否购买了IPO？"
     },
     {
+      "id": "tweet_qinbafrank_2082473872901992707",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 29 Jul 2026 14:30:36 GMT",
+      "content": "今天召开紧急会议后，韩国财政部表示，韩国承诺采取更多措施以稳定股市，将采取措施限制杠杆ETF交易。韩国将维持24小时股票市场监测系统，并为紧急情况下实施市场稳定措施建立法律依据。同时韩国将加强对杠杆ETF交易的监管，限制散户投资者对杠杆ETF的投资敞口，立即推出针对单只股票杠杆ETF的额外监管措施，并提高相关交易成本，以遏制ETF投机行为。还是在稳秩序，并不是救价格、现在韩国监管层还是要让市场自己出清。 有几点让韩国监管层有底气不直接救指数？ 1）汇率并没有同步失控 韩元今天反而升值，说明尚未出现股市、外汇和美元流动性同时恶化的系统性危机。政策部门更有空间先处理杠杆和市场机制，而不是立即动用国家资金托住股票价格。 2）市场仍存在承接力量 韩国机构今天净买入约3.15万亿韩元，外资同时买入KOSPI 200期货和KOSDAQ现货，说明市场流动性虽然严重受损，但并未完全失灵。 3）监管部门目前把主要问题归因于杠杆产品 金融委员会此前公布的政策路径集中于保证金、投资者门槛、再平衡时点、流动性提供和个人投资总额限制。会议的公开议程也主要是追加杠杆产品补充措施，而不是直接讨论买入股票。 所以立即救价格会产生严重道德风险 接下来韩股要稳住也得看本周五7月31号韩股监管新规生效后的情况 1）新规切断新增抄底资金 新规则不会强制现有投资者平仓，但会显著提高追加买入门槛。因此，直接影响不是“强制卖出”，而是： 散户无法再轻易卖出普通股票后，当天立刻买入2倍杠杆产品； 无法用股票、债券或ETF作为替代保证金； 不能通过卖出款抵押贷款满足保证金要求； 单一股票杠杆产品的新增资金流入会明显下降。 2）明天7月30日可能出现异常的“最后交易窗口” 由于新规7月31日生效，7月30日市场可能同时存在两股相反力量：部分散户可能抢在新规前最后追加杠杆产品； 7月28日暴跌带来的融资强平和未结算应收款压力开始释放。 3）中期偏利好：削弱“越跌越卖”的反馈循环 保证金提高、当日资金循环受限、再平衡时间分散和净值偏离管理加强，会逐步降低之前负循环的强度： 本股下跌 → 杠杆ETF净值下降 → 产品被迫减仓 → 本股进一步下跌 → 散户融资账户触发强平 对中期市场稳定性是利好。 真正救市动作是平准基金入场、央行提供流动性、韩国机构及养老金加大购买力度，还有两年前干过的完全禁止卖空。不过现在还没看到 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2082473872901992707",
+      "tweet_id": "2082473872901992707"
+    },
+    {
+      "id": "tweet_qinbafrank_2082444260373311958",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 29 Jul 2026 12:32:56 GMT",
+      "content": "美国国家资本主义在继续出手，美国商务部今天公告，通过《芯片与科学法案》签署了与7家公司的投资意向书，总额最高8.74亿美金。这些资金由CHIPS研发办公室提供，主要用于加速计算供应链相关的半导体研发，包括集成光子学、计算架构、先进封装、基板、材料和内存等技术，以提升高性能计算和AI能力、保障国内供应链并强化美国在相关领域的领导地位。最终金额仍需进一步尽职调查和批准，且商务部将在每家公司中持有少数非控制性股权。具体公司和拟议投资金额及用途如下： 1）GlobalFoundries（全球晶圆代工厂）：最高3亿美元，加速共封装光学（co-packaged optics）国内研发2-3年，将光子学直接集成到AI处理器旁，实现超高速、节能计算，强化美国在AI基础设施领域的领先地位。40 2）Kepler：最高2.45亿美元，在美国研发基于创新3D和铁电技术的新型高性能AI内存技术。40 3）Multibeam Corporation：最高1.4亿美元，开发先进封装技术，用于组装和堆叠多个芯片并用数千根导线连接，支持AI及其他先进计算应用所需的更复杂系统。40 4）Extropic：最高7500万美元，开发热力学采样单元（TSUs），利用自然热波动以远低于传统计算的能耗解决模拟、优化和AI等复杂问题。40 5）Thintronics：最高5000万美元，开发超低损耗层间电介质，用于下一代半导体互连和先进封装，服务于高性能计算、AI和网络基础设施。40 6）OBSIDIA Semiconductors：最高3400万美元，研发非侵入式假冒和恶意组件识别系统，确保AI和先进电子产品安全供应链的溯源与可追溯性。40 7）Aeluma：最高3000万美元，开发大直径、无磷化铟（indium-phosphide-free）基板技术，用于制造AI光子互连中的光电探测器和激光器。",
+      "url": "https://x.com/qinbafrank/status/2082444260373311958",
+      "tweet_id": "2082444260373311958"
+    },
+    {
       "id": "tweet_qinbafrank_2082400963655340196",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -129,24 +146,6 @@
       "content": "有没有经历过这种憋屈：明明方向对了，仓位也浮盈，结果资金费率一天天往上叠，像个没上限的吸血鬼，硬生生把你从交易里“劝退”。本来是按周甚至按月来想这笔单，平台却逼你每几小时就得重新算一遍账。 再或者——两笔交易之间，账户里趴着一笔钱，干看着，什么都不干，就等着下一次机会。 这两件事其实是同一件事：钱，要么被持仓成本慢慢吃掉，要么在空档期彻底闲着。 Grvt 这次要把两个问题一起解决： 1）Stable Funding Perps 直接把资金费率这件事重新设计了一遍。入场前你就知道最坏情况是多少——费率有上限，提前公示，每天只结一次。市场均衡的时候从 0% 起跳，只有拥挤的那一边才需要付钱。股息还会回流给你。价格、盈亏、保证金、强平全跟着真实市场（NYSE、Nasdaq、CME）走。为那些你真正想拿住的仓位而生，而不是为了日内刷单。 2）同一笔钱，闲下来也别浪费。 Grvt Earn 升级版给了三个档位：Savings、Balanced、Opportunistic。 1 美元起，无锁定期，随时赎回。机构级收益来源已经替你筛过，你只选风险偏好就行。最关键的是——你的 Earn 余额一边在生息，一边还能 100% 当交易抵押品用。不用再在“赚钱”和“随时能上”之间二选一。 同一个余额，既能稳住持仓成本，又能让闲钱动起来。 把 earn、trade、借贷、RWA 真正闭环起来，Grvt这次让我们看到了链上金融从「投机乐园」向「成熟财富基础设施」的进化。",
       "url": "https://x.com/qinbafrank/status/2082400963655340196",
       "tweet_id": "2082400963655340196"
-    },
-    {
-      "id": "tweet_qinbafrank_2082388647161311677",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 29 Jul 2026 08:51:57 GMT",
-      "content": "最近美股📉很多人都开始说历史少有，如果熟悉美股过去二十年调整的规律就不会这么说了。这次调整幅度无论大盘还是个股其实远低于去年关税战，当时连英伟达都腰斩了，更不用说22年、20年3月了。去年2月底有梳理过过去二十年美股调整的规律，再加上过去一年内四次调整，25年11月、26年2月到4月初、26年6月前两周、以及最近7月那就全齐了。可以去看看这篇做个参考。",
-      "url": "https://x.com/qinbafrank/status/2082388647161311677",
-      "tweet_id": "2082388647161311677"
-    },
-    {
-      "id": "tweet_qinbafrank_2082374908143878225",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 29 Jul 2026 07:57:21 GMT",
-      "content": "看到@JonahLupton也说到了我月初提到的观点：更多开源模型将降低AI的总体成本，这意味着更多使用和更多计算需求。简单说就是单个企业和个体成本支出降低了，但使用的企业和人是会越来越多。市场会越来越意识到这一点，这将是下一波的核心驱动力。",
-      "url": "https://x.com/qinbafrank/status/2082374908143878225",
-      "tweet_id": "2082374908143878225"
     },
     {
       "id": "tweet_xiaomustock_2082092997622280410",
@@ -176,6 +175,15 @@
       "tweet_id": "2081954751147876406"
     },
     {
+      "id": "tweet_xingpt_2082468660640436679",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 29 Jul 2026 14:09:53 GMT",
+      "content": "KIS把海力士的目标价抬升了 24% 到 470 万韩元；现价 141 万韩元。 之前 7 月中KIS唱空了海力士业绩，不过预测的业绩挺准的，基本和财报吻合。这次唱多的目标价我建议忽略，重点看他唱多的逻辑是什么",
+      "url": "https://x.com/xingpt/status/2082468660640436679",
+      "tweet_id": "2082468660640436679"
+    },
+    {
       "id": "tweet_xingpt_2082416434442088513",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -194,40 +202,31 @@
       "tweet_id": "2082320210766582135"
     },
     {
-      "id": "tweet_xingpt_2082092547745444209",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Tue, 28 Jul 2026 13:15:21 GMT",
-      "content": "中信里昂的风水指数，今年说半导体准的吓人 ！说是 6 月高点，7 月暴跌回吐涨幅都对了！所以 8 月份该反弹了吧？ 还有一个行业指数更可怕，说科技板块“除夏季外，全年前景向好”，重点是“除夏季外”！ 地址我放在评论区了自己看：",
-      "url": "https://x.com/xingpt/status/2082092547745444209",
-      "tweet_id": "2082092547745444209"
-    },
-    {
-      "id": "tweet_hibtc37_2082421129537565012",
+      "id": "tweet_hibtc37_2082473611882074137",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Wed, 29 Jul 2026 11:01:01 GMT",
-      "content": "你没发现，他大多情况是都是画门和插针，然后快速抽回吗？当然也经常有连续击穿的，那代表一方很强。 区间是一个当前条件的价格边界参考。我只是圈了考试范围，帮你降低难度，答案还是靠自己啊，你们用自己最擅长的方法，结合区间操作就行，拿到你想要的结果。我就是用这样方法，在ok最高时成为前9交易员，现在还排名20名 有赚到钱的粉丝，评论分享下经验吗？",
-      "url": "https://x.com/hibtc37/status/2082421129537565012",
-      "tweet_id": "2082421129537565012"
+      "published_at": "Wed, 29 Jul 2026 14:29:34 GMT",
+      "content": "反弹上去很快下来了，大家都在规避沃什风险，存储要面对估值重估和韩股的高杠杆问题，还是以反弹做空为主，还是最稳策略",
+      "url": "https://x.com/hibtc37/status/2082473611882074137",
+      "tweet_id": "2082473611882074137"
     },
     {
-      "id": "tweet_hibtc37_2082367215903633575",
+      "id": "tweet_hibtc37_2082472822518218894",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Wed, 29 Jul 2026 07:26:47 GMT",
-      "content": "应该是要触底反弹了",
-      "url": "https://x.com/hibtc37/status/2082367215903633575",
-      "tweet_id": "2082367215903633575"
+      "published_at": "Wed, 29 Jul 2026 14:26:26 GMT",
+      "content": "全部跑完了，该打止损的止损，睡个好觉，测试账户重回6字头了",
+      "url": "https://x.com/hibtc37/status/2082472822518218894",
+      "tweet_id": "2082472822518218894"
     },
     {
-      "id": "tweet_hibtc37_2082364013409882487",
+      "id": "tweet_hibtc37_2082470461418742229",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Wed, 29 Jul 2026 07:14:03 GMT",
-      "content": "$SNDK 单子当时只差3刀就被打止损了！ 当时看了SNDK流动性，发现998必破，再往下真没有流动性不多，立马调了990，心想如果这也损了，那肯定是散户多头不断送人头，我在低位接多得了，不跟你们抢，所以，我喊别做多了 这波海力士去杠杆，带崩存储，真的太刺激了，美股的情绪价值真的高😆 咱们1330-1450见吧，希望沃什别意外真整加息，今晚睡觉前，上调止损位置才行，防范极端风险，控制损失 老师，我申请撤回退款了🥹",
-      "url": "https://x.com/hibtc37/status/2082364013409882487",
-      "tweet_id": "2082364013409882487"
+      "published_at": "Wed, 29 Jul 2026 14:17:03 GMT",
+      "content": "SNDK反弹无力，老师申请退款，不玩短线了🥹",
+      "url": "https://x.com/hibtc37/status/2082470461418742229",
+      "tweet_id": "2082470461418742229"
     }
   ],
   "stats": {
