@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-29T22:07:46.726293+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-30T00:03:39.758053+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2082469637216727234",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 29 Jul 2026 14:13:46 GMT",
-      "content": "RT by @elonmusk: The Economist uploaded their full Elon interview to YouTube and left the comments on 🔥 😂",
-      "url": "https://x.com/elonmusk/status/2082469637216727234",
-      "tweet_id": "2082469637216727234",
-      "translated": "RT by @elonmusk：《经济学人》将完整的埃隆采访上传到 YouTube，并在 🔥 😂 上留下了评论"
-    },
-    {
-      "id": "tweet_elonmusk_2082559894264430870",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 29 Jul 2026 20:12:25 GMT",
-      "content": "Grok Voice is now #1 in agentic performance",
-      "url": "https://x.com/elonmusk/status/2082559894264430870",
-      "tweet_id": "2082559894264430870",
-      "translated": "Grok Voice 现在在代理性能方面排名第一"
-    },
-    {
-      "id": "tweet_elonmusk_2082451125601436106",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 29 Jul 2026 13:00:13 GMT",
-      "content": "RT by @elonmusk: A joint statement from the WFA and X Corp. Today the World Federation of Advertisers (WFA) and X Corp. are putting the litigation involving the Global Alliance for Responsible Media (GARM) behind them. This resets the relationship between the two organizations. WFA reiterates its commitment to freedom of speech, a principle first included in WFA’s founding constitution back in 1953, and a principle it shares with X. On August 9, 2024, WFA discontinued GARM. WFA will not form or restart GARM or a similar initiative. WFA and X are fully aligned in the view that brands, platforms and consumers will all benefit from brand-safety innovation.",
-      "url": "https://x.com/elonmusk/status/2082451125601436106",
-      "tweet_id": "2082451125601436106",
-      "translated": "RT @elonmusk：WFA 和 X Corp. 的联合声明。今天，世界广告商联合会 (WFA) 和 X Corp. 正在将涉及全球责任媒体联盟 (GARM) 的诉讼置于身后。这重置了两个组织之间的关系。 WFA 重申其对言论自由的承诺，这一原则早在 1953 年就首次纳入了 WFA 的创始章程，也是其与 X 共享的原则。2024 年 8 月 9 日，WFA 终止了 GARM。 WFA 不会组建或重启 GARM 或类似计划。 WFA 和 X 的观点完全一致，即品牌、平台和消费者都将从品牌安全创新中受益。"
-    },
     {
       "id": "tweet_cz_binance_2082077484837933223",
       "username": "cz_binance",
@@ -92,6 +62,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2082605568699871284",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 29 Jul 2026 23:13:55 GMT",
+      "content": "Just some takeaways from $META | $MSFT earnings calls: Microsoft: - Expected to be FCF positive in 2027, despite the increase in capex (extremely positive for AI buildout that it's funded by operating income) - \"Free cash flow was $19.6 billion, reflecting higher capital expenditures\" - Quartely capex was $41B, roughly 2/3rds were \"short lived assets, primarily CPUs and GPUs\" - Expects capex spend will be over $50 billion for next quarter - Capex Guidance at ~$175 billion and 2027 capex roughly the same. Spending plans unchanged and in line. - \"Extending the estimated useful life of our data centers from 15 to 25 years\" - \"We will be among the first cloud providers to deploy next generation rack-scale AI infrastructure based on $AMD Helios and $NVDA Vera Rubin\" - \"Customer demand continues to exceed available capacity\" Meta: - Capex $130-$145 billion (narrowed range), from $125B-$145B. - Meta is receiving offers at a \"significant premium\" to what they paid for it (compute scarcity, positive for neoclouds like $IREN / $NBIS ) - Expects significant portion of compute (like the 1 GW DC in El Paso) to develop internal models. - Meta has multiple ROI-positive uses for additional compute across its core business (internally, not Meta Compute) - \"Finally, we believe that overall industry capacity is going to remain tight for the foreseeable future\" - \"The industry has under-built historically for the wave of AI adoption, making existing capacity, including our own, extremely valuable\" - Susan Li TLDR: - $MSFT and $GOOGL largely sustaining AI capex buildout while remaining FCF positive or through operating incomes. - $META flags available compute materially below demand at least through 2027. And $MSFT also flags compute demand far exceeds supply. - All three hyperscaler capex largely in line with Google hiking capex figures. AI selloff seems extremely overblown now, hyperscalers continuing capex in line (with Microsoft being FCF positive) or even hiked with $GOOGL. Compute scarcity is visible throughout every single hyperscaler ER.",
+      "url": "https://x.com/aleabitoreddit/status/2082605568699871284",
+      "tweet_id": "2082605568699871284",
+      "translated": "只是 $META | 的一些要点$MSFT 财报电话会议：微软： - 尽管资本支出有所增加，但预计 2027 年自由现金流为正（对于由营业收入资助的人工智能建设极为有利） - “自由现金流为 196 亿美元，反映出资本支出增加” - 季度资本支出为 41B 美元，大约 2/3 是“短期资产，主要是 CPU 和 GPU” - 预计下季度资本支出将超过 500 亿美元- 资本支出指引约为 1,750 亿美元，与 2027 年资本支出大致相同。支出计划保持不变且符合预期。 - “将我们数据中心的预计使用寿命从 15 年延长至 25 年” - “我们将成为首批部署基于 $AMD Helios 和 $NVDA Vera Rubin 的下一代机架级 AI 基础设施的云提供商之一” - “客户需求持续超过可用容量” 元： - 资本支出 130-1450 亿美元（缩小范围），从 $125B-$145B。 - Meta 收到的报价比他们所支付的价格“高得多”（计算稀缺性，对 $IREN / $NBIS 等新云有利） - 预计计算的很大一部分（例如埃尔帕索的 1 GW DC）将开发内部模型。 - Meta 在其核心业务（内部，而不是 Meta Compute）中对额外计算有多种投资回报率正向的用途 - “最后，我们相信，在可预见的未来，整个行业产能将保持紧张” - “该行业在历史上对于人工智能采用浪潮而言建设不足，使得现有产能（包括我们自己的产能）极其有价值” - Susan Li TLDR： - $MSFT 和 $GOOGL 在很大程度上维持 AI 资本支出建设，同时保持自由现金流为正或通过运营收入。 - $META 标记可用计算至少在 2027 年之前大大低于需求。$MSFT 还标记计算需求远远超过供应。 - 所有三个超大规模企业的资本支出都与谷歌提高资本支出的数字基本一致。现在，人工智能的抛售似乎被过度夸大了，超大规模企业继续保持资本支出（微软的 FCF 为正），甚至与 $GOOGL 一起增加。在每个超大规模 ER 中都可以看到计算稀缺性。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2082578803189268855",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,16 +90,6 @@
       "url": "https://x.com/aleabitoreddit/status/2082557648298516918",
       "tweet_id": "2082557648298516918",
       "translated": "为了表达对 $IREN 持有者的声援：我现在拥有 1 股 IREN。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2082529316655763703",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 29 Jul 2026 18:10:55 GMT",
-      "content": "Federal Reserve leaves rates unchanged at unchanged at 3.50% - 3.75%. So far so good, since markets would have sold off on an immediate rate hike (seem to have largely frontran hike expectations off already). Think everyone is waiting for the Fed Chair commentary now.",
-      "url": "https://x.com/aleabitoreddit/status/2082529316655763703",
-      "tweet_id": "2082529316655763703",
-      "translated": "美联储将利率维持在 3.50% - 3.75% 不变。到目前为止一切顺利，因为市场会因立即加息而抛售（似乎已经在很大程度上提前了加息预期）。想必大家现在都在等待美联储主席的评论。"
     },
     {
       "id": "tweet_qinbafrank_2082530284520841471",
@@ -231,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
