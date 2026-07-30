@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-30T11:54:02.605244+00:00",
+  "fetched_at": "2026-07-30T14:07:59.858696+00:00",
   "total": 24,
   "tweets": [
     {
@@ -69,7 +69,7 @@
       "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
       "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
       "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+      "translated": "我们将把这位英雄的年轻人和他的家人带入白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -98,7 +98,7 @@
       "content": "There's a lot of stupid commentary around Leopold raising funds. After names like $BE, $SNDK, $SHAZ, and others all had very sharp drawdowns in July. Just remember... here's a man in finance that's 1. 6'5 2. Blue Eyes 3. Hedge Fund Probably better looking than you, and was up 439% through June YTD. Regarding the drawdown, Aschenbrenner acknowledged that the fund had \"not been immune\" to the market turmoil, particularly in Asia. FT separately reported that leverage amplified both its extraordinary gains and recent losses. He described the sell-off as potentially the best buying opportunity since early 2025 I'd agree with him and hope he succeeds with the raise. Since a lot of the current selloff looks like it overshot its mark through forced deleveraging.",
       "url": "https://x.com/aleabitoreddit/status/2082740477795745942",
       "tweet_id": "2082740477795745942",
-      "translated": "关于利奥波德筹集资金有很多愚蠢的评论。在 $BE、$SNDK、$SHAZ 等名字之后，7 月份都出现了非常急剧的回撤。请记住...这里有一位金融界人士，身高 1. 6 英尺 5 英寸 2. 蓝眼睛 3. 对冲基金 可能比你好看，截至今年 6 月股价上涨了 439%。关于撤资，阿申布伦纳承认，该基金“未能幸免”于市场动荡，特别是在亚洲。英国《金融时报》单独报道称，杠杆放大了其非凡的收益和近期的损失。他将这次抛售描述为自 2025 年初以来可能是最好的买入机会，我同意他的观点，并希望他能够成功加息。因为当前的很多抛售看起来都是通过强制去杠杆化而超出了预期。"
+      "translated": "关于利奥波德筹集资金有很多愚蠢的评论。继 $BE、$SNDK、$SHAZ 等名字之后，7 月份都出现了非常急剧的回撤。请记住...这里有一位金融界人士，身高 1. 6 英尺 5 英寸 2. 蓝眼睛 3. 对冲基金 可能比你好看，截至今年 6 月股价上涨了 439%。关于撤资，阿申布伦纳承认，该基金“未能幸免”于市场动荡，特别是在亚洲。英国《金融时报》单独报道称，杠杆放大了其非凡的收益和近期的损失。他将此次抛售描述为自 2025 年初以来可能是最好的买入机会，我同意他的观点，并希望他能够成功加息。因为当前的很多抛售看起来都是通过强制去杠杆化而超出了预期。"
     },
     {
       "id": "tweet_aleabitoreddit_2082720873908494456",
@@ -148,6 +148,15 @@
       "tweet_id": "2082691659809321169"
     },
     {
+      "id": "tweet_xiaomustock_2082821127613927926",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Thu, 30 Jul 2026 13:30:28 GMT",
+      "content": "能拉盘了吧，跌了一个多月。 【2026-07-30 21:28:59】 白宫国家经济委员会主任哈塞特：我并不认为市场由于AI方面的进展处于泡沫状态。 (金十数据APP)",
+      "url": "https://x.com/xiaomustock/status/2082821127613927926",
+      "tweet_id": "2082821127613927926"
+    },
+    {
       "id": "tweet_xiaomustock_2082092997622280410",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -166,13 +175,13 @@
       "tweet_id": "2081969190198706642"
     },
     {
-      "id": "tweet_xiaomustock_2081954751147876406",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Tue, 28 Jul 2026 04:07:48 GMT",
-      "content": "现在亏的呼吸都是痛的， 上个月要是那天清仓真不玩了， 真的他妈的天麻，现在是血亏，骨髓都亏出来了。",
-      "url": "https://x.com/xiaomustock/status/2081954751147876406",
-      "tweet_id": "2081954751147876406"
+      "id": "tweet_xingpt_2082825283711971346",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Thu, 30 Jul 2026 13:46:59 GMT",
+      "content": "大多数标的在MA200处得到了支撑，今天反弹还是反转不能一概而论了，看趋势和业绩好的会接一点",
+      "url": "https://x.com/xingpt/status/2082825283711971346",
+      "tweet_id": "2082825283711971346"
     },
     {
       "id": "tweet_xingpt_2082499866413126004",
@@ -193,45 +202,36 @@
       "tweet_id": "2082468660640436679"
     },
     {
-      "id": "tweet_xingpt_2082416434442088513",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 29 Jul 2026 10:42:22 GMT",
-      "content": "2025年7月：苹果AI战略遭遇信任危机：投资者要求库克改变传统打法，大规模收购追赶人工智能浪潮，分析师警告，缺少明确AI路线可能危及iPhone生态 2026年7月: 苹果市值首破5万亿美元重夺全球第一：不烧钱的AI策略，正成为最稀缺的避险属性",
-      "url": "https://x.com/xingpt/status/2082416434442088513",
-      "tweet_id": "2082416434442088513"
-    },
-    {
-      "id": "tweet_hibtc37_2082729354468213136",
+      "id": "tweet_hibtc37_2082827932100403590",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 30 Jul 2026 07:25:48 GMT",
-      "content": "有没有关注我的蓝V，但我没关注你的，麻烦点赞或者评论，我关注回你🫶",
-      "url": "https://x.com/hibtc37/status/2082729354468213136",
-      "tweet_id": "2082729354468213136"
+      "published_at": "Thu, 30 Jul 2026 13:57:30 GMT",
+      "content": "存储和半导体反弹猛烈，200日线建的多单，没拿住，是认知问题，确实不该赚这个钱，这次反弹可能是不错的逃命机会，空头回补行情，继续出货",
+      "url": "https://x.com/hibtc37/status/2082827932100403590",
+      "tweet_id": "2082827932100403590"
     },
     {
-      "id": "tweet_hibtc37_2082730475928633476",
+      "id": "tweet_hibtc37_2082804630774489142",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 30 Jul 2026 07:30:15 GMT",
-      "content": "R to @hibtc37: 都关注了",
-      "url": "https://x.com/hibtc37/status/2082730475928633476",
-      "tweet_id": "2082730475928633476"
+      "published_at": "Thu, 30 Jul 2026 12:24:55 GMT",
+      "content": "最近在BTC花的精力少了，是要回归下了，谁能告诉我十亿哥，最近开单了吗？我下载不了bcoin，怕下载到病毒app",
+      "url": "https://x.com/hibtc37/status/2082804630774489142",
+      "tweet_id": "2082804630774489142"
     },
     {
-      "id": "tweet_hibtc37_2082731721162977707",
+      "id": "tweet_hibtc37_2082802595354357917",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 30 Jul 2026 07:35:12 GMT",
-      "content": "R to @hibtc37: 一下子关注太多，这么快系统限额了，我会每天分批关注回大家，请放心！🫶",
-      "url": "https://x.com/hibtc37/status/2082731721162977707",
-      "tweet_id": "2082731721162977707"
+      "published_at": "Thu, 30 Jul 2026 12:16:49 GMT",
+      "content": "永远缺白银、永远缺存储、永远缺韭菜",
+      "url": "https://x.com/hibtc37/status/2082802595354357917",
+      "tweet_id": "2082802595354357917"
     }
   ],
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
