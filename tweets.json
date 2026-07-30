@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-07-30T20:17:24.074222+00:00",
+  "fetched_at": "2026-07-30T22:09:03.983648+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2082837239185203484",
+      "id": "tweet_elonmusk_2082762131125023044",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 30 Jul 2026 14:34:29 GMT",
-      "content": "RT by @elonmusk: It is baffling how treasonous Western politicians are. Castrated, weak, lobotomized ideologues.",
-      "url": "https://x.com/elonmusk/status/2082837239185203484",
-      "tweet_id": "2082837239185203484",
-      "translated": "RT @elonmusk：西方政客的叛逆程度令人费解。被阉割的、软弱的、脑叶白质切除的思想家。"
+      "published_at": "Thu, 30 Jul 2026 09:36:02 GMT",
+      "content": "RT by @elonmusk: 🇪🇸 Residents in Barcelona are installing barbed wire along their balconies to protect their homes from burglaries and squatters.",
+      "url": "https://x.com/elonmusk/status/2082762131125023044",
+      "tweet_id": "2082762131125023044",
+      "translated": "RT @elonmusk：🇪🇸 巴塞罗那的居民正在阳台上安装铁丝网，以保护他们的房屋免受入室盗窃和擅自占地者的侵害。"
     },
     {
-      "id": "tweet_elonmusk_2082849031483470066",
+      "id": "tweet_elonmusk_2082934814756282751",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 30 Jul 2026 15:21:21 GMT",
-      "content": "Given that AI from 2 years ago feels so old that it should be in a museum, then obviously AI 2 years from now will be mind-blowing",
-      "url": "https://x.com/elonmusk/status/2082849031483470066",
-      "tweet_id": "2082849031483470066",
-      "translated": "考虑到两年前的人工智能已经太老了，应该放在博物馆里，那么显然两年后的人工智能将是令人兴奋的"
+      "published_at": "Thu, 30 Jul 2026 21:02:13 GMT",
+      "content": "Wake up, before it is too late",
+      "url": "https://x.com/elonmusk/status/2082934814756282751",
+      "tweet_id": "2082934814756282751",
+      "translated": "醒来吧，在为时已晚之前"
     },
     {
-      "id": "tweet_elonmusk_2082847730653610409",
+      "id": "tweet_elonmusk_2082927356893683771",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 30 Jul 2026 15:16:11 GMT",
-      "content": "Big difference",
-      "url": "https://x.com/elonmusk/status/2082847730653610409",
-      "tweet_id": "2082847730653610409",
-      "translated": "差别很大"
+      "published_at": "Thu, 30 Jul 2026 20:32:35 GMT",
+      "content": "Spain’s entire budget will be destroyed by illegal migrants. It’s basic math: if Spain offers free stuff to migrants that is above 90% of the living standard of Earth, they create a forcing function for 90% of Earth to move to Spain, which is around 7 billion people!",
+      "url": "https://x.com/elonmusk/status/2082927356893683771",
+      "tweet_id": "2082927356893683771",
+      "translated": "西班牙的全部预算将被非法移民摧毁。这是基本的数学：如果西班牙向移民提供超过地球生活水平 90% 的免费物品，他们就会创造一个迫使地球 90% 的人移居西班牙的函数，西班牙约有 70 亿人口！"
     },
     {
       "id": "tweet_cz_binance_2082894497583706539",
@@ -233,6 +233,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
