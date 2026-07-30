@@ -1,36 +1,45 @@
 {
-  "fetched_at": "2026-07-30T06:37:38.633827+00:00",
+  "fetched_at": "2026-07-30T09:33:37.946946+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2082712206169256279",
+      "id": "tweet_elonmusk_2082494156987871642",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 30 Jul 2026 06:17:39 GMT",
-      "content": "Pinned: Congratulations to the Tesla Team! 10 million vehicles manufactured is an incredible amount of work.",
-      "url": "https://x.com/elonmusk/status/2082712206169256279",
-      "tweet_id": "2082712206169256279",
-      "translated": "已置顶：祝贺 Tesla 团队！制造 1000 万辆汽车是一项令人难以置信的工作量。"
+      "published_at": "Wed, 29 Jul 2026 15:51:12 GMT",
+      "content": "RT by @elonmusk: Gates-ism perfectly epitomized.",
+      "url": "https://x.com/elonmusk/status/2082494156987871642",
+      "tweet_id": "2082494156987871642",
+      "translated": "RT @elonmusk：盖茨主义的完美缩影。"
     },
     {
-      "id": "tweet_elonmusk_2082707547203518569",
+      "id": "tweet_elonmusk_2082546312608719207",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 30 Jul 2026 05:59:08 GMT",
-      "content": "And Grok 4.6 comes out in a week",
-      "url": "https://x.com/elonmusk/status/2082707547203518569",
-      "tweet_id": "2082707547203518569",
-      "translated": "Grok 4.6 一周后发布"
+      "published_at": "Wed, 29 Jul 2026 19:18:27 GMT",
+      "content": "RT by @elonmusk: Grok Build now has a way to enable/disable MCP grok mcp enable <name> grok mcp disable <name>",
+      "url": "https://x.com/elonmusk/status/2082546312608719207",
+      "tweet_id": "2082546312608719207",
+      "translated": "RT by @elonmusk：Grok Build 现在有一种启用/禁用 MCP 的方法 grok mcp enable <name> grok mcp disable <name>"
     },
     {
-      "id": "tweet_elonmusk_2082705390358212687",
+      "id": "tweet_elonmusk_2082722674732626193",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 30 Jul 2026 05:50:34 GMT",
-      "content": "Grok Build update",
-      "url": "https://x.com/elonmusk/status/2082705390358212687",
-      "tweet_id": "2082705390358212687",
-      "translated": "Grok 构建更新"
+      "published_at": "Thu, 30 Jul 2026 06:59:15 GMT",
+      "content": "RT by @elonmusk: Watch Falcon 9 launch the @NRO_gov and @USSF_SSC’s NROL-95 mission from pad 40 in Florida https://x.com/i/broadcasts/1DxLddLoqayxm",
+      "url": "https://x.com/elonmusk/status/2082722674732626193",
+      "tweet_id": "2082722674732626193",
+      "translated": "RT by @elonmusk：观看 Falcon 9 从佛罗里达州的 40 号发射台发射 @NRO_gov 和 @USSF_SSC 的 NROL-95 任务 https://x.com/i/broadcasts/1DxLddLoqayxm"
+    },
+    {
+      "id": "tweet_cz_binance_2082720990799294594",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 30 Jul 2026 06:52:33 GMT",
+      "content": ".@TrustWallet",
+      "url": "https://x.com/cz_binance/status/2082720990799294594",
+      "tweet_id": "2082720990799294594"
     },
     {
       "id": "tweet_cz_binance_2082077484837933223",
@@ -51,16 +60,6 @@
       "url": "https://x.com/cz_binance/status/2082400468798713921",
       "tweet_id": "2082400468798713921",
       "translated": "昨天在东盟科技峰会上的演讲很愉快！币安在菲律宾拥有非常特殊的沙盒许可证🇵🇭。网站在国内已解锁。我听说菲亚特频道即将推出。今天会见了另一个亚洲国家的总理。一直忙于推动加密货币。"
-    },
-    {
-      "id": "tweet_cz_binance_2081522037885972549",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 26 Jul 2026 23:28:21 GMT",
-      "content": "See you all tmr, in Manila 🇵🇭",
-      "url": "https://x.com/cz_binance/status/2081522037885972549",
-      "tweet_id": "2081522037885972549",
-      "translated": "TMr，马尼拉见🇵🇭"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
@@ -92,6 +91,26 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2082740477795745942",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 30 Jul 2026 08:10:00 GMT",
+      "content": "There's a lot of stupid commentary around Leopold raising funds. After names like $BE, $SNDK, $SHAZ, and others all had very sharp drawdowns in July. Just remember... here's a man in finance that's 1. 6'5 2. Blue Eyes 3. Hedge Fund Probably better looking than you, and was up 439% through June YTD. Regarding the drawdown, Aschenbrenner acknowledged that the fund had \"not been immune\" to the market turmoil, particularly in Asia. FT separately reported that leverage amplified both its extraordinary gains and recent losses. He described the sell-off as potentially the best buying opportunity since early 2025 I'd agree with him and hope he succeeds with the raise. Since a lot of the current selloff looks like it overshot its mark through forced deleveraging.",
+      "url": "https://x.com/aleabitoreddit/status/2082740477795745942",
+      "tweet_id": "2082740477795745942",
+      "translated": "关于利奥波德筹集资金有很多愚蠢的评论。在 $BE、$SNDK、$SHAZ 等名字之后，7 月份都出现了非常急剧的回撤。请记住...这里有一位金融界人士，身高 1. 6 英尺 5 英寸 2. 蓝眼睛 3. 对冲基金 可能比你好看，截至今年 6 月股价上涨了 439%。关于撤资，阿申布伦纳承认，该基金“未能幸免”于市场动荡，特别是在亚洲。英国《金融时报》单独报道称，杠杆放大了其非凡的收益和近期的损失。他将这次抛售描述为自 2025 年初以来可能是最好的买入机会，我同意他的观点，并希望他能够成功加息。因为当前的很多抛售看起来都是通过强制去杠杆化而超出了预期。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2082720873908494456",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 30 Jul 2026 06:52:06 GMT",
+      "content": "Just some interesting takeaways from $FORM earnings call on CPO: Since they attributed systems revenue nearly doubled due to: \"accelerating growth in co-packaged optics or CPO\". Q1 2026: \"we now expect 2026 CPO revenues to come in at the high end of the $10 million to $20 million range\" Q2 2026 (now): \"expect to exceed that range by the end of the third quarter, and to significantly exceed the $20 million level for the year overall.\" Management stated \"We’re seeing some significant acceleration in this [CPO] business\". Q: CPO adoption outlook. Are we perhaps expecting the timeline to accelerate a little bit? A: \"What I would say is there’s acceleration here in the very short term.\" But management stated there's not a significant pull-in on timelines. Citing production infrastructure (not just R&D) for: - The growing volumes of CPO chips planned for later this year + test insertion for scale-up and scale-out switches. - Seems like that CPO piece flows through $TSM COUPE [ likely maps to $NVDA CPO products] - \"The CPO piece does flow through that 10% customer\" So now, test is ramping given management cited growing volumes of CPO chips. \"The rapid recent growth of our CPO business is an exciting development, which we believe represents the very early stages of widespread adoption of silicon photonics in the broader semiconductor industry\" TLDR: Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now (equipment/test players usually appear up first before optical engines / laser volumes ramp). Personally once all the deleveraging stops, I think markets will start to care more.",
+      "url": "https://x.com/aleabitoreddit/status/2082720873908494456",
+      "tweet_id": "2082720873908494456",
+      "translated": "$FORM 对 CPO 的财报电话会议仅得出一些有趣的结论：由于他们将系统收入归因于“共同封装光学器件或 CPO 的加速增长”，系统收入几乎翻了一番。 2026 年第一季度：“我们现在预计 2026 年原棕油收入将在 1000 万美元至 2000 万美元范围的高端” 2026 年第二季度（现在）：“预计到第三季度末将超过该范围，并大幅超过全年 2000 万美元的水平。”管理层表示“我们看到 [CPO] 业务出现了一些显着的加速”。问：CPO 采用前景。我们是否期望时间线能加快一点？答：“我想说的是，短期内会出现加速。”但管理层表示，时间表上并没有显着的延迟。引用生产基础设施（不仅仅是研发）： - 计划在今年晚些时候增加 CPO 芯片数量 + 纵向扩展和横向扩展交换机的测试插入。 - 看起来 CPO 部分流经 $TSM COUPE [ 可能映射到 $NVDA CPO 产品] - “CPO 部分确实流经那 10% 的客户” 因此，现在，鉴于管理层提到 CPO 芯片数量不断增长，测试正在加大。 “我们 CPO 业务最近的快速增长是一个令人兴奋的发展，我们认为这代表了硅光子在更广泛的半导体行业中广泛采用的早期阶段” TLDR：从根本上说，CPO 作为一个主题还很早，而且应该很快就会开始出现，因为它现在开始出现在收益中（设备/测试参与者通常在光学引擎/激光器产量增加之前首先出现）。就我个人而言，一旦所有去杠杆化停止，我认为市场将开始更加关心。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2082605568699871284",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -102,24 +121,13 @@
       "translated": "只是 $META | 的一些要点$MSFT 财报电话会议：微软： - 尽管资本支出有所增加，但预计 2027 年自由现金流为正（对于由营业收入资助的人工智能建设极为有利） - “自由现金流为 196 亿美元，反映出资本支出增加” - 季度资本支出为 41B 美元，大约 2/3 是“短期资产，主要是 CPU 和 GPU” - 预计下季度资本支出将超过 500 亿美元- 资本支出指引约为 1,750 亿美元，与 2027 年资本支出大致相同。支出计划保持不变且符合预期。 - “将我们数据中心的预计使用寿命从 15 年延长至 25 年” - “我们将成为首批部署基于 $AMD Helios 和 $NVDA Vera Rubin 的下一代机架级 AI 基础设施的云提供商之一” - “客户需求持续超过可用容量” 元： - 资本支出 130-1450 亿美元（缩小范围），从 $125B-$145B。 - Meta 收到的报价比他们所支付的价格“高得多”（计算稀缺性，对 $IREN / $NBIS 等新云有利） - 预计计算的很大一部分（例如埃尔帕索的 1 GW DC）将开发内部模型。 - Meta 在其核心业务（内部，而不是 Meta Compute）中对额外计算有多种投资回报率正向的用途 - “最后，我们相信，在可预见的未来，整个行业产能将保持紧张” - “该行业在历史上对于人工智能采用浪潮而言建设不足，使得现有产能（包括我们自己的产能）极其有价值” - Susan Li TLDR： - $MSFT 和 $GOOGL 在很大程度上维持 AI 资本支出建设，同时保持自由现金流为正或通过运营收入。 - $META 标记可用计算至少在 2027 年之前大大低于需求。$MSFT 还标记计算需求远远超过供应。 - 所有三个超大规模企业的资本支出都与谷歌提高资本支出的数字基本一致。现在，人工智能的抛售似乎被过度夸大了，超大规模企业继续保持资本支出（微软的 FCF 为正），甚至与 $GOOGL 一起增加。在每个超大规模 ER 中都可以看到计算稀缺性。"
     },
     {
-      "id": "tweet_aleabitoreddit_2082578803189268855",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 29 Jul 2026 21:27:33 GMT",
-      "content": "$AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agreed to pay a deposit of $43.5M as a reservation for capacity.",
-      "url": "https://x.com/aleabitoreddit/status/2082578803189268855",
-      "tweet_id": "2082578803189268855",
-      "translated": "$AXTI 与 $LITE 就 InP 衬底达成长期协议。 Lumentum 已同意支付 4350 万美元的押金作为容量预留。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2082557648298516918",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 29 Jul 2026 20:03:30 GMT",
-      "content": "To show solidarity with the $IREN holders: I now own 1 share of IREN.",
-      "url": "https://x.com/aleabitoreddit/status/2082557648298516918",
-      "tweet_id": "2082557648298516918",
-      "translated": "为了表达对 $IREN 持有者的声援：我现在拥有 1 股 IREN。"
+      "id": "tweet_qinbafrank_2082719962096128378",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Thu, 30 Jul 2026 06:48:28 GMT",
+      "content": "微软减少Capex支出了么？其实并不是。今天的财报里微软把26年资本开支的指引从1900亿美金降到了1750亿、看起来资本开支更可控了，这其实是一种会计处理方式的变化。微软将数据中心和办公楼的预计使用年限从15年延长至25年（从2027财年开始生效）。使用年限拉长后，更多新签数据中心租赁不再满足“租赁期占资产剩余经济寿命主要部分”的标准，从而从融资租赁转为经营租赁。融资租赁计入微软定义的CapEx，经营租赁不计入。 因此，在实际投资规模不变的前提下，报告的CapEx指引从原先约1900亿美元（日历年2026）调整至约1750亿美元。下季度指引仍超500亿美元（已包含重分类影响）。实际投入仍在高速增长，未执行的数据中心租赁承诺也大幅增加 。现金流出、真实承诺和资产负债表负债本质上变化不大，只是呈现方式改变。 经营租赁的付款全部进入经营活动现金流（OCF），自由现金流（FCF）定义为OCF减去CapEx，经营租赁会通过压低OCF影响FCF，而融资租赁的本金部分不影响OCF（只影响融资现金流）。微软也提到过经营租赁付款增加对现金流的影响。 之前已经有hyperscaler做类似实践：亚马逊、谷歌、Meta、甲骨文等都大量使用数据中心租赁，并调整过服务器等资产的使用年限。若它们的租赁期相对经济寿命的比例接近临界点，延长建筑年限同样可能触发更多经营租赁分类。 这是合规的会计估计变更带来的分类效应，不是凭空“把支出变没”。它让报告CapEx更贴近“现金+真正类似购买的融资”，但真实AI基础设施扩张节奏并未因此放缓。",
+      "url": "https://x.com/qinbafrank/status/2082719962096128378",
+      "tweet_id": "2082719962096128378"
     },
     {
       "id": "tweet_qinbafrank_2082691659809321169",
@@ -138,15 +146,6 @@
       "content": "OpenAI的ARR正在大幅度缩小与Authropic的差距，这应该是今天最值得关注的新闻。看CNBC的报道OpenAI首席财务官SarahFriar在周三Openai内部员工会上明确表示，7月的年化经常性收入（ARR）已超过整个第二季度（Q2）的总额。应该怎么理解？ 1、看TickerTrenda的数据，整个二季度OpenAI的ARR：4月底是288亿美金、5月底是330亿美、6月底是373亿美金。 整个二季度arr的增量114亿美金。 对应到单月营收（按arr/12来计算） 4月是24亿美金、5月是27.5亿美金，6月是31亿美金。四五六三个月累计是82.5亿美金。 2、OpenAI CFO说7月净新增 ARR 收入规模，超过整个二季度的新增总和（同口径对比，都是净增额）。那就有两种解释： 1）第一种理解：7月净新增 ARR 收入规模，超过整个二季度的新增总和（同口径对比，都是净增额）。 OpenAI 二季度ARR合计新增约 114亿，openAi在7月的arr已经大幅调涨到500多亿美金，正在快速追赶Authropic。 2）第二种理解： 7月单月营收超过二季度三个月营收之和，上面算过二季度四五六三个月单月营收之和是82.5亿美金，那就意味着7月单月营收超过了82.5亿美金、年化ARR已经超过1000亿美金，这有点不敢想了。 保守点按第一种来算，那也意味着正在大幅度缩小与authropic的营收差距。 3、快速增长的原因则来自于 1）GPT-5.6系列模型发布。 2）新企业代理产品ChatGPT Work。 3）AI编码工具Codex的采用持续增长。之前这里https://x.com/thsottiaux/status/2079609157934886975?s=46&t=k6rimWsEbo2D2tXolYcM-A也披露了codex和work的用户在7月大幅度表飙升。",
       "url": "https://x.com/qinbafrank/status/2082669379762950405",
       "tweet_id": "2082669379762950405"
-    },
-    {
-      "id": "tweet_qinbafrank_2082657327799488557",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Thu, 30 Jul 2026 02:39:35 GMT",
-      "content": "关于微软本季最强财报聊深入的几点： 1、微软本季度同时出现了五个关键正面信号：1）Azure增长43%，明显高于市场约40%的预期； 2）下一季度Azure指引进一步加速至约45%； 3）商业RPO升至6780亿美元，而且本季度环比新增订单全部来自领先模型公司之外的客户； 4）Microsoft 365 Copilot付费席位从约2000万跃升至超过3000万； 5）单季度经营现金流554亿美元，仍高于约410亿美元总资本开支。 可以说微软已经初步证明AI投资的最终ROIC还是相当可以的。 2、最重要的是Azure增长不仅没有减速，反而准备继续加速。电话会给出的原因包括：新容量比预期更快上线、CPU和GPU集群效率提升、从GPU到可使用状态的部署时间接近减半； 容量一旦投产，很快就被客户消化； AI与非AI工作负载需求均强劲； 需求仍高于可用供给，容量约束预计至少持续到2026年末。 3、订单质量很高 商业剩余履约义务RPO达到6780亿美元，同比增长84%，比上一季度增加约510亿美元。更重要的是管理层表示： 1）本季度RPO全部环比增长来自领先前沿模型公司之外的客户； 2）接近90%的FY2026云收入来自模型厂商之外的客户 约30%的RPO预计在未来12个月确认；这意味着未来一年现在RPO转化到营收就有超过2000亿美金。 4、最关键的Copilot正在加速放量 1）M365 Copilot付费席位从上一季度约2000万增至超过3000万，单季度增长超过50%，而市场预期约2690万。 电话会还披露： 本季度新增付费席位超过上一季度两倍； 拥有超过5万个Copilot席位的客户数量同比约增长7倍； 在组织内进行大多数席位部署的客户数量环比增长约75%； 客户从部署到高强度使用所需时间，正从过去数月缩短到数天。 这意味着Copilot正在从“小规模试点和部门采购”转向“企业级批量部署和高频生产使用” 2）GitHub Copilot用户达到约5000万；在加入使用量计费后，Copilot相关收入环比增长约60%。微软还开始在M365和Dynamics中推动“席位费＋消费费”模式。 这对ROIC非常关键，固定席位费只能捕获用户数量增长，消费计费则可以捕获：token使用量；Agent执行次数； 工作流调用；数据和安全服务； 模型推理强度。 因此同一批AI基础设施的收入上限会被抬高 5、Capex“下降”主要是会计分类变化 微软表示，未来将把数据中心和办公建筑的估计使用寿命从15年延长至25年。由于会计上评估融资租赁和经营租赁时，会比较租期与资产经济寿命，这一变化将使更多新数据中心租赁被归类为经营租赁，而不是融资租赁。 所以日历年2026年报告Capex从此前约1900亿美元降至约1750亿美元，不能理解为“微软削减了150亿美元AI投资”。 更准确的理解是： “同一部分数据中心经济投入，从“当期融资租赁Capex”变成了“未来经营租赁费用和现金支付”。 微软也是玩起来会计游戏 总结下来，微软真正牛的地方在于它可以用同一批AI容量在四个层级变现： 1）IaaS层：GPU、CPU、存储和网络； 2）PaaS层：数据库、Fabric、Foundry、安全和Agent平台； 3）应用层：**Microsoft 365、GitHub、Dynamics、Power Platform； 4）内部层：Bing、Windows、Teams及微软自有研发和业务流程。 上周谷歌财报证明了AI基础设施能够产生极强收入和分部利润；微软则初步证明了同一批AI基础设施不仅能拉动Azure，还能通过Microsoft 365、GitHub、Dynamics、安全产品和OpenAI商业安排，在应用层继续二次、三次变现，并且经营现金流目前仍能覆盖资本投入。",
-      "url": "https://x.com/qinbafrank/status/2082657327799488557",
-      "tweet_id": "2082657327799488557"
     },
     {
       "id": "tweet_xiaomustock_2082092997622280410",
@@ -203,31 +202,31 @@
       "tweet_id": "2082416434442088513"
     },
     {
-      "id": "tweet_hibtc37_2082710665970814986",
+      "id": "tweet_hibtc37_2082729354468213136",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 30 Jul 2026 06:11:32 GMT",
-      "content": "昨天跑完正股，平掉多单 现在看，非常正确，躲过一劫。 交易市场真太凶险了，判断错方向就是挨打亏钱，MU直接跌到706，前段时间MU跌幅少，大家以为稳，这不补跌就来了吗？都是存储板块，该挨的刀子，一刀不少。 从财报看，已经印证，存储100%确定是周期股了，超级周期也是周期！ 如果还被“永远缺存储”洗脑，那么存王粉就有福了，标准工业品，是不可能缺的，以后都是机器人给你批量生产，现在也是了，24小时都在生产，你说AI数据很庞大，存储装不下，这都是智商问题了，互联网泡沫时候，不炒作数据庞大吗？ 存储扩产能的速度一定超过所有人认知，因为你的认知都是来自于媒体给你灌输的很慢，你不是一线从业者，否则为什么需要长协呢，就是因为扩的太快了，产能一定会过剩，所以才需要长协，但存王粉看到长协就兴奋升天了。长协是可以取消的，无非是成本问题，当存储价格暴跌，当时保证金更划算，那么这就是最佳选择，而且长协是可以造假和有泡沫的，互联网泡沫破裂的时代就是伪造订单 技术面上看，存储板块还有非常大的下跌空间，周线级别的调整周期是很长的，波动震荡幅度很大，而且一定会再探底，1-3个月会很难熬，先反弹，还是先探底，还是先反弹再探底，反正是探底，现在获利盘依然非常厚，抄底做反弹可以，但千万别格局，反弹做空也可以，尤其是中低端存储板块，迟早被中国干麻！不要听那些什么美国不用中国存储，扯淡，没人可以拒绝中国制造，都是资本家，现在就已经有多少产品的生产线在中国？中国制造，所向披靡，存储的估值要重估，这是最大风险，甚至连有技术门槛的HBM，违规被攻破，不要相信媒体文章，你只需要相信，哪里有暴利，中国制造就会去打掉暴利，中国人多，竞争大，要吃饭，这种明牌机会不会放过的，时间问题 新能源当年多牛逼，特斯拉现在直接被干成低价促销卖车公司，这是为啥他股价暴跌，估值要重估；可回收火箭，也直接干掉，发射成本很快做到一流水平；光刻机和芯片，落后但追赶速度比我们想的快，不要相信那些什么落后几十年媒体文，都不是一线从业者写出来的，中国在半导体已经几乎是全产业链条在发展了，这种集群和生态发展会很快，如果不快的话，美国不会故意遏制你技术发展，如果你根本做不到，美国反而不鸟你 总之，投资不要听信任何新闻和消息，都是主力释放洗脑的 迷信存储，和炒鞋有什么不一样呢？ 如果你看好AI，我认为买英伟达、英特尔、台积电、亚马逊、微软和谷歌等，长期看是最好选择，至少套住能回来，周期股套住20年起😆",
-      "url": "https://x.com/hibtc37/status/2082710665970814986",
-      "tweet_id": "2082710665970814986"
+      "published_at": "Thu, 30 Jul 2026 07:25:48 GMT",
+      "content": "有没有关注我的蓝V，但我没关注你的，麻烦点赞或者评论，我关注回你🫶",
+      "url": "https://x.com/hibtc37/status/2082729354468213136",
+      "tweet_id": "2082729354468213136"
     },
     {
-      "id": "tweet_hibtc37_2082701408760168602",
+      "id": "tweet_hibtc37_2082730475928633476",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 30 Jul 2026 05:34:45 GMT",
-      "content": "开盘之后，重新博弈出了新的墙，原来的就变成更大阻力位了，还有当日的期权到期行权后墙也消失了",
-      "url": "https://x.com/hibtc37/status/2082701408760168602",
-      "tweet_id": "2082701408760168602"
+      "published_at": "Thu, 30 Jul 2026 07:30:15 GMT",
+      "content": "R to @hibtc37: 都关注了",
+      "url": "https://x.com/hibtc37/status/2082730475928633476",
+      "tweet_id": "2082730475928633476"
     },
     {
-      "id": "tweet_hibtc37_2082668084645830756",
+      "id": "tweet_hibtc37_2082731721162977707",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 30 Jul 2026 03:22:20 GMT",
-      "content": "错了就认输，及时打止损 持续两次打止损，就继续等待更高胜率入场机会，减少交易 合约的核心是小亏大赚，持续用小的亏损去测试自己的判断，错了立马提桶跑路，对了，拿住，不要对仓位和标的有任何感情 这是我从5月开始学合约的感悟，控制亏损是最容易的，拿住最难，但如果这两个你做反了，就一直小赚大亏，长期一定是亏 合约的容错率很低，最不能关注一城一池得失 5万到5万，挑战好大，但很好玩 不是什么头部，我在ok交易员，已经是二线了",
-      "url": "https://x.com/hibtc37/status/2082668084645830756",
-      "tweet_id": "2082668084645830756"
+      "published_at": "Thu, 30 Jul 2026 07:35:12 GMT",
+      "content": "R to @hibtc37: 一下子关注太多，这么快系统限额了，我会每天分批关注回大家，请放心！🫶",
+      "url": "https://x.com/hibtc37/status/2082731721162977707",
+      "tweet_id": "2082731721162977707"
     }
   ],
   "stats": {
