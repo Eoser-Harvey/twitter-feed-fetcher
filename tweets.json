@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-07-31T15:25:30.697289+00:00",
-  "total": 24,
+  "fetched_at": "2026-07-31T17:41:12.890623+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2083079293354095039",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 31 Jul 2026 06:36:19 GMT",
-      "content": "Yes",
-      "url": "https://x.com/elonmusk/status/2083079293354095039",
-      "tweet_id": "2083079293354095039",
-      "translated": "是的"
-    },
-    {
-      "id": "tweet_elonmusk_2083073907163041981",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 31 Jul 2026 06:14:55 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2083073907163041981",
-      "tweet_id": "2083073907163041981",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_elonmusk_2083068786731553123",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 31 Jul 2026 05:54:34 GMT",
-      "content": "Imagine upgrade",
-      "url": "https://x.com/elonmusk/status/2083068786731553123",
-      "tweet_id": "2083068786731553123",
-      "translated": "想象一下升级"
-    },
     {
       "id": "tweet_cz_binance_2083186083827732549",
       "username": "cz_binance",
@@ -92,6 +62,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2083225872207937687",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 31 Jul 2026 16:18:47 GMT",
+      "content": "$RDDT ER in a nutshell: Revenue: $804.9M vs. $730.4M (expected). EPS: $1.25 vs. ~$0.95. Net income: $252.8M vs. $196.5M Q3 guidance: Revenue: $860–870M vs. 829.1M Adjusted EBITDA: $385-395M vs. $369M Blowout financials, market always like to explain the drop 22.6% off some new BS narrative. Last quarter: \"AI will disrupt Reddit causing revenue loss!\" This quarter: \"See, DAU fell .6%!\" (proceeds to ignore any revenue/profitability growth)",
+      "url": "https://x.com/aleabitoreddit/status/2083225872207937687",
+      "tweet_id": "2083225872207937687",
+      "translated": "$RDDT ER 简而言之：收入：8.049 亿美元 vs. 7.304 亿美元（预期）。每股收益：1.25 美元 vs. 0.95 美元。净利润：2.528 亿美元 vs. 1.965 亿美元 第三季度指导：收入：860-87000 万美元 vs. 8.291 亿美元 调整后 EBITDA：385-3950 万美元 vs. 3.69 亿美元 财务井喷，市场总是喜欢用一些新的 BS 叙述来解释下降 22.6%。上个季度：“人工智能将扰乱 Reddit，导致收入损失！”本季度：“看，DAU 下降了 0.6%！” （收益忽略任何收入/盈利增长）"
+    },
+    {
       "id": "tweet_aleabitoreddit_2083133191112843575",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,16 +90,6 @@
       "url": "https://x.com/aleabitoreddit/status/2083114743729107236",
       "tweet_id": "2083114743729107236",
       "translated": "现在我想得更多了，$POET 光学中介层实际上比我想象的 $SIVE 的材料要多一些。最初的措辞是“为 2026 年 EOY 做好准备”。但 $POET 升级了这一措辞，指出 Sivers 激光器预计在 2026 年 EOY 进行“生产”。因此，从 $JBL 到 $POET 的批量订单应该会在 2027 年上半年达到。这有一定道理，因为 Sivers 确实为未来的大规模生产筹集了一轮机构超额认购。顺便说一句，不敢相信已经是 8 月了，距离 2027 年还剩 5 个月……这是我的玻璃基板、CPO、800v 和新架​​构的拐点窗口。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2083106805949878330",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 31 Jul 2026 08:25:39 GMT",
-      "content": "For $XFAB ER transcript: Just to recap, my idea on $XFAB foundry growth opportunities stemmed from SiC for 800v and photonixfab/MTP for CPO applicability. - $XFAB: \"We are making progress in co-packaged optics\". - \"The transition to 800v... is expected to support demand for both SiC and GaN... for XFAB\" So those analysts/people that were confidently bearposting about $XFAB that they had \"0 exposure to 800V, photonics, CPO\" just turned out plainly wrong. At the time I shared my idea, industry materials showed ASE and others cited photonixfab + XFAB as an upcoming CPO player in EU. And filings showed they had exposure names like $NVTS / $POWI in general. So glad $XFAB went out to explicitly clear things up to state they were developing in CPO/800v. Okay back to the ER: - \"We continue to expect photonics volume production to start in 2028\". Company currently has three silicon photonics projects in development with key partners. I thought it would ramp sometime in H2 2027, but was probably early by a few months. - Several new data center design wins, eg. 3 new SiC design wins (consistent with general 2027 ramp as 800v deployment takes off). So once those ramp in 2027-2028, (markets tend to price things ahead of time), I'd expect $XFAB to be rerated based on growth opportunities. TLDR: - Current revenue numbers not as impressive. - $XFAB confirmed direct exposure to CPO and 800V shifts (biggest win for thesis) - 800V exposure opportunities for SiC (should be 2027) - Timeline is 2028 ramp for photonics volume production Happy exposure thesis to CPO/800V was confirmed from this ER. Might be a bit of waiting for revenue ramp.",
-      "url": "https://x.com/aleabitoreddit/status/2083106805949878330",
-      "tweet_id": "2083106805949878330",
-      "translated": "对于 $XFAB ER 成绩单：回顾一下，我对 $XFAB 代工厂增长机会的想法源于 800v 的 SiC 和 CPO 适用性的 photonixfab/MTP。 - $XFAB：“我们在共同封装光学器件方面取得了进展”。 - “向 800v 的过渡……预计将支持 XFAB 对 SiC 和 GaN 的需求……”因此，那些自信地对 $XFAB 发表评论称他们“0 接触 800V、光子学、CPO”的分析师/人士结果显然是错误的。当我分享我的想法时，行业材料显示 ASE 和其他公司将 photonixfab + XFAB 作为即将在欧盟推出的 CPO 参与者。文件显示，他们的曝光名称一般为 $NVTS / $POWI。很高兴 $XFAB 明确澄清了他们正在 CPO/800v 中开发的事情。好吧，回到 ER：-“我们仍然预计光子学批量生产将于 2028 年开始”。公司目前与主要合作伙伴正在开发三个硅光子项目。我原以为它会在 2027 年下半年的某个时候加速，但可能早了几个月。 - 多个新的数据中心设计获胜，例如。 3 个新的 SiC 设计获胜（与 2027 年 800v 部署起飞时的总体增长一致）。因此，一旦这些在 2027 年至 2028 年期间增加（市场倾向于提前定价），我预计 $XFAB 将根据增长机会重新评级。 TLDR： - 目前的收入数字并不那么令人印象深刻。 - $XFAB 确认直接暴露于 CPO 和 800V 转变（论文的最大胜利） - SiC 的 800V 暴露机会（应该是 2027 年） - 时间表是 2028 年光子量产斜坡 在此 ER 中确认了 CPO/800V 的愉快暴露论文。可能需要等待收入增长。"
     },
     {
       "id": "tweet_qinbafrank_2083185986616357116",
@@ -203,6 +173,15 @@
       "tweet_id": "2082499866413126004"
     },
     {
+      "id": "tweet_hibtc37_2083220887193670015",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Fri, 31 Jul 2026 15:58:58 GMT",
+      "content": "都毁灭吧！韩国杠杆又回到历史高位，散户迟早又被轮奸！ 韩国的资金消灭一部分，中国的资金不让买入只卖出，中东的资金该买入都买了，日本的资金因为汇率上升正在大量撤出……而且中国的技术在各行业疯狂追赶美国，这样会导致很多行业的估值重估，特斯拉就最近的一个了 结合纳指技术面，周线级别调整，可能真的才刚开始，这半年指数光靠AI的投资驱动撑着了吧 大饼还差一个黑天鹅暴跌，这轮黑天鹅会不会是美股整体崩一波呢？或者日本加息和汇率带来新的流动性危机？ 你认为后面半年，可能有哪些黑天鹅呢？",
+      "url": "https://x.com/hibtc37/status/2083220887193670015",
+      "tweet_id": "2083220887193670015"
+    },
+    {
       "id": "tweet_hibtc37_2083201072311758863",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -219,20 +198,11 @@
       "content": "我现在玩合约都不焦虑，设定止损，该干嘛干嘛，无痛开单，那我就不是投机了？但这实际就是一种赌的策略和投机策略。不管投资还是投机，EV正是核心，把一件不确定性的事情，做成确定性，就不会焦虑",
       "url": "https://x.com/hibtc37/status/2083130059691593893",
       "tweet_id": "2083130059691593893"
-    },
-    {
-      "id": "tweet_hibtc37_2083125519936303387",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Fri, 31 Jul 2026 09:40:01 GMT",
-      "content": "关注了",
-      "url": "https://x.com/hibtc37/status/2083125519936303387",
-      "tweet_id": "2083125519936303387"
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 9
   }
 }
