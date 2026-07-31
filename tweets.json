@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-31T17:41:12.890623+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-31T19:29:21.737084+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2083270285344616656",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 31 Jul 2026 19:15:15 GMT",
+      "content": "You will be alerted via 𝕏 messaging if there is something you interacted with and perhaps thought was true later turned out to be untrue or incompletely true",
+      "url": "https://x.com/elonmusk/status/2083270285344616656",
+      "tweet_id": "2083270285344616656",
+      "translated": "如果您与之互动过的某些内容可能是真实的，但后来被证明是不真实或不完全真实的，您将通过𝕏消息收到提醒"
+    },
+    {
+      "id": "tweet_elonmusk_2083267937977217414",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 31 Jul 2026 19:05:56 GMT",
+      "content": "Yeah, the incentives need to change",
+      "url": "https://x.com/elonmusk/status/2083267937977217414",
+      "tweet_id": "2083267937977217414",
+      "translated": "是的，激励措施需要改变"
+    },
+    {
+      "id": "tweet_elonmusk_2083267800227815725",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 31 Jul 2026 19:05:23 GMT",
+      "content": "Talk to @Grok. You can leave Grok voice on and just tap mute when you’re talking to someone else.",
+      "url": "https://x.com/elonmusk/status/2083267800227815725",
+      "tweet_id": "2083267800227815725",
+      "translated": "与@Grok 交谈。您可以让 Grok 语音保持打开状态，然后在与其他人交谈时点击静音。"
+    },
     {
       "id": "tweet_cz_binance_2083186083827732549",
       "username": "cz_binance",
@@ -62,6 +92,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2083270545320386734",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 31 Jul 2026 19:16:17 GMT",
+      "content": "As a earnings recap: $AMZN, $META, $GOOGL, and $MSFT guided a 2026 combined capex forecast to ~$720-$745 Billion. Up from $695-$725B Billion previously. Amazon: $220B Google: $195B-$205B Meta: $130B-$145B Microsoft: $175B We've already seen significant deleveraging and retail/institutional margin liquidations (maybe it continues for more time, who knows). But medium-long term, I'm not quite sure how anyone can be bearish the upstream semis or neoclouds. Given each hyperscaler has flagged either compute shortages, rising cloud demand + pricing power, or increased spending for chips/networking. My \"bottleneck\" thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory (which were both treated as cheap commodities) or even energy. Lot of these current AI names that were treated as useless before in telecom cycles or even toilet sellers. Gets rerated when their inflection period hits and capex flows into their balance sheets. As seen with $NVDA GPUs past few years, memory this year, CPUs/MLCCs next few years, CPO in 2027, Glass Substrates in 2027, 800V in 2027, and so on.",
+      "url": "https://x.com/aleabitoreddit/status/2083270545320386734",
+      "tweet_id": "2083270545320386734",
+      "translated": "作为收益回顾：$AMZN、$META、$GOOGL 和 $MSFT 指导 2026 年合并资本支出预测约为 720-7450 亿美元。高于之前的 695-7250 亿美元。亚马逊：$220B 谷歌：$195B-$205B 元：$130B-$145B 微软：$175B 我们已经看到了重大的去杠杆化和零售/机构保证金清算（也许这种情况会持续更长时间，谁知道呢）。但从中长期来看，我不太确定怎么会有人看跌上游半成品或新云。鉴于每个超大规模企业都指出了计算短缺、云需求和定价能力不断上升，或者芯片/网络支出增加的情况。我对许多上游半供应链的“瓶颈”论点是，当数万亿资本从 InP 衬底或内存（两者都被视为廉价商品）甚至能源流入事物时。许多当前的人工智能名称以前在电信行业甚至厕所销售商中被视为无用。当他们的拐点到来并且资本支出流入他们的资产负债表时，就会被重新评级。正如过去几年的 NVDA GPU、今年的内存、未来几年的 CPU/MLCC、2027 年的 CPO、2027 年的玻璃基板、2027 年的 800V 等等。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2083225872207937687",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -69,7 +109,7 @@
       "content": "$RDDT ER in a nutshell: Revenue: $804.9M vs. $730.4M (expected). EPS: $1.25 vs. ~$0.95. Net income: $252.8M vs. $196.5M Q3 guidance: Revenue: $860–870M vs. 829.1M Adjusted EBITDA: $385-395M vs. $369M Blowout financials, market always like to explain the drop 22.6% off some new BS narrative. Last quarter: \"AI will disrupt Reddit causing revenue loss!\" This quarter: \"See, DAU fell .6%!\" (proceeds to ignore any revenue/profitability growth)",
       "url": "https://x.com/aleabitoreddit/status/2083225872207937687",
       "tweet_id": "2083225872207937687",
-      "translated": "$RDDT ER 简而言之：收入：8.049 亿美元 vs. 7.304 亿美元（预期）。每股收益：1.25 美元 vs. 0.95 美元。净利润：2.528 亿美元 vs. 1.965 亿美元 第三季度指导：收入：860-87000 万美元 vs. 8.291 亿美元 调整后 EBITDA：385-3950 万美元 vs. 3.69 亿美元 财务井喷，市场总是喜欢用一些新的 BS 叙述来解释下降 22.6%。上个季度：“人工智能将扰乱 Reddit，导致收入损失！”本季度：“看，DAU 下降了 0.6%！” （收益忽略任何收入/盈利增长）"
+      "translated": "$RDDT ER 简而言之：收入：8.049 亿美元 vs. 7.304 亿美元（预期）。每股收益：1.25 美元 vs. 0.95 美元。净利润：2.528 亿美元 vs. 1.965 亿美元 第三季度指导：收入：860-87000 万美元 vs. 8.291 亿美元 调整后 EBITDA：385-3.95 亿美元 vs. 3.69 亿美元 财务状况井喷，市场总是喜欢用一些新的 BS 叙述来解释下降 22.6%。上个季度：“人工智能将扰乱 Reddit，导致收入损失！”本季度：“看，DAU 下降了 0.6%！” （收益忽略任何收入/盈利增长）"
     },
     {
       "id": "tweet_aleabitoreddit_2083133191112843575",
@@ -80,16 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2083133191112843575",
       "tweet_id": "2083133191112843575",
       "translated": "本周的长篇大论：媒体：超大规模企业过度建设并正在出售多余的计算。 -> $GOOGL、$MSFT、$META 和 $AMZN：计算需求远远超过容量。资本支出继续增长。机构：紧急加息或者加息3倍，就完了。 -> Kevin Warsh：不加息。零售/媒体：人工智能正在崩溃，因为它是一个泡沫。 -> Citadel 希望购买 AI 杠杆对冲基金头寸：👀 Jim Cramer：出售所有杠杆 DC 股票。 ->韩国人：SK海力士+30%，三星+26.81%"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2083114743729107236",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 31 Jul 2026 08:57:11 GMT",
-      "content": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE. Originally the wording was \"readiness\" for EOY 2026. But $POET upgraded that wording, by stating \"production\" with Sivers lasers projected EOY 2026. So a volume orders from across $JBL to $POET, should hit in H1 2027. Which makes a bit of sense, since Sivers did raise an institutional oversubscribed round for future mass production. On a side note, can't believe it's already August and 5 months left until 2027... Which was my inflection window for glass substrates, CPO, 800v, and new architectures to ramp.",
-      "url": "https://x.com/aleabitoreddit/status/2083114743729107236",
-      "tweet_id": "2083114743729107236",
-      "translated": "现在我想得更多了，$POET 光学中介层实际上比我想象的 $SIVE 的材料要多一些。最初的措辞是“为 2026 年 EOY 做好准备”。但 $POET 升级了这一措辞，指出 Sivers 激光器预计在 2026 年 EOY 进行“生产”。因此，从 $JBL 到 $POET 的批量订单应该会在 2027 年上半年达到。这有一定道理，因为 Sivers 确实为未来的大规模生产筹集了一轮机构超额认购。顺便说一句，不敢相信已经是 8 月了，距离 2027 年还剩 5 个月……这是我的玻璃基板、CPO、800v 和新架​​构的拐点窗口。"
     },
     {
       "id": "tweet_qinbafrank_2083185986616357116",
@@ -201,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
-    "nitter_healthy": 9
+    "users_success": 8,
+    "users_failed": 0,
+    "nitter_healthy": 10
   }
 }
