@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T07:53:03.207173+00:00",
+  "fetched_at": "2026-07-31T10:42:26.284688+00:00",
   "total": 24,
   "tweets": [
     {
@@ -33,6 +33,26 @@
       "translated": "想象一下升级"
     },
     {
+      "id": "tweet_cz_binance_2083130561141645618",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Fri, 31 Jul 2026 10:00:03 GMT",
+      "content": "Free passport for swimmers. 😁",
+      "url": "https://x.com/cz_binance/status/2083130561141645618",
+      "tweet_id": "2083130561141645618",
+      "translated": "游泳者免费护照。 😁"
+    },
+    {
+      "id": "tweet_cz_binance_2082672446227071454",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 30 Jul 2026 03:39:40 GMT",
+      "content": "RT by @cz_binance: Can stablecoins cut remittance costs? At the ASEAN Tech Summit Manila 2026, Binance founder @cz_binance says yes but financial literacy remains the biggest challenge. I enjoyed our engaging fireside discussion.",
+      "url": "https://x.com/cz_binance/status/2082672446227071454",
+      "tweet_id": "2082672446227071454",
+      "translated": "RT by @cz_binance：稳定币可以降低汇款成本吗？在 2026 年马尼拉东盟科技峰会上，币安创始人 @cz_binance 表示同意，但金融知识仍然是最大的挑战。我很享受我们引人入胜的炉边讨论。"
+    },
+    {
       "id": "tweet_cz_binance_2082895751730856320",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
@@ -41,26 +61,6 @@
       "url": "https://x.com/cz_binance/status/2082895751730856320",
       "tweet_id": "2082895751730856320",
       "translated": "@cz_binance 转发：没有币安 VIP 群。没有币安信号池。没有币安机会池。有一个骗子冒用我们的名字。小心。 🚨"
-    },
-    {
-      "id": "tweet_cz_binance_2082957028633244079",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 30 Jul 2026 22:30:29 GMT",
-      "content": "RT by @cz_binance: ⚡️ DID YOU KNOW? Crypto tax rates range from 0% in the UAE and Singapore to as high as 55% in Japan.",
-      "url": "https://x.com/cz_binance/status/2082957028633244079",
-      "tweet_id": "2082957028633244079",
-      "translated": "RT @cz_binance：⚡️ 你知道吗？加密货币税率从阿联酋和新加坡的 0% 到日本的高达 55%。"
-    },
-    {
-      "id": "tweet_cz_binance_2082953134016700632",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 30 Jul 2026 22:15:01 GMT",
-      "content": "RT by @cz_binance: I agree with Spigg here. A few more points: 1. @GiggleAcademy is not a crypto team. They make a free education app. It is not (and will not be) their expertise to manage crypto (or your supply). 2. Giggle cannot determine: how much (what % or what $ amount) will impact price? how much to sell/keep each month? etc. To keep it simple, it will sell most tokens (of value) each month. 3. Crypto projects should not donate a \"price-impacting-amount\" to charity, or anyone else. And expect that person to manage it \"properly\" somehow. You should manage your own tokenomics/supply. I have given BNB to Giggle repeatedly, and they have sold/converted to fiat to pay for expenses. BNB devs/holders have no issues with that. In fact, we are proud for it to happen. 4. A monthly (or repeated) donations would be very much appreciated. But no promises of any actions in return, including a \"thank you\" note from Giggle or me. If you expect that, don't donate. You are just farming for interactions for your coin. A donation should be you supporting the mission of @GiggleAcademy, which is to provide more free education to kids all around the world.",
-      "url": "https://x.com/cz_binance/status/2082953134016700632",
-      "tweet_id": "2082953134016700632",
-      "translated": "RT @cz_binance：我同意 Spigg 的观点。还有几点： 1. @GiggleAcademy 不是一个加密团队。他们制作了免费的教育应用程序。他们不是（也不会）管理加密货币（或您的供应）的专业知识。 2. Giggle 无法确定：对价格的影响有多大（多少百分比或多少美元）？每月出售/保留多少？等等。为了简单起见，它将每月出售大部分（有价值的）代币。 3. 加密货币项目不应向慈善机构或其他任何人捐赠“影响价格的金额”。并期望那个人以某种方式“正确”地管理它。您应该管理自己的代币经济/供应。我曾多次将 BNB 给 Giggle，他们已将 BNB 出售/转换为法定货币以支付费用。 BNB 开发者/持有者对此没有任何问题。事实上，我们为它的发生感到自豪。 4. 每月（或重复）捐款将不胜感激。但没有承诺采取任何行动作为回报，包括吉格尔或我的“感谢”信。如果您希望如此，请不要捐赠。你只是为了你的硬币而进行互动。捐款应该是您支持@GiggleAcademy 的使命，即为世界各地的孩子提供更多免费教育。"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
@@ -92,34 +92,52 @@
       "translated": "视频"
     },
     {
-      "id": "tweet_aleabitoreddit_2083088870942642391",
+      "id": "tweet_aleabitoreddit_2083133191112843575",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 31 Jul 2026 07:14:23 GMT",
-      "content": "Few earnings TLDRs with my favorite $AXTI and $AMZN: Amazon: - Raised 2026 capex to $220B vs. prior $200B (partly due to higher memory costs, which is bullish on $MU to Samsung) - Even at $220B, Amazon will not have enough capacity to meet all 2026 demand; Jassy expects the same in 2027. - Most incoming 2027 capacity is already reserved, with substantial 2028 capacity also reserved. Mostly read through on upstream semis. $GOOGL, $META, $AMZN, and $MSFT all identified compute shortage. All the narratives a few weeks earlier was \"excess compute\" from Meta and others + hyperscalers cutting back on spend... All BS. Amazon earnings was very bullish on AI semi trade. AXTI: - AXT to double InP capacity during 2026. Then double again in 2027. This is expected to make AXT \"by far the largest indium phosphide producer in the world.\" - LFG - Q2 rev was $47.6M, the highest quarterly revenue in AXT history (InP revenue reached a record $30.7M, from DC applications.) - Revenue increased 77% sequentially and 164% year over year. - InP revenue-capacity targets: $60M per quarter exiting 2026. - $130M per quarter exiting 2027 That $130m target could be hiked too since management stated they find \"whatever ways to increase that capacity expansion\" - Management said the reported backlog remains well above $100M, but that number no longer reflects all available demand. \"Customer demand continues to outpace supply, no matter how fast we add capacity.\" 800G/1.6T is driving the current cycle, while NPO/CPO extends it beyond 2027. Also they're targeting 50%-plus gross margin: \"We should definitely be targeting a number that begins with a five.\" China demand more than doubled, and their agreements with Casela, $COHR and $LITE did not materially drive Q2. This is not even considering my projected massive ASP hikes yet as InP substrates get more bottlenecked. TLDR: - Amazon too much compute demands, needs capex to fufill it, so upstream semis go brrr. - AXT world largest InP substrate supplier, high gross margins, expansion, and supply can't keep up with demand. Bullish on demand side from Amazon + capex. Bullish on upstream optical supply chains from too much demand.",
-      "url": "https://x.com/aleabitoreddit/status/2083088870942642391",
-      "tweet_id": "2083088870942642391",
-      "translated": "我最喜欢的 $AXTI 和 $AMZN 的盈利 TLDR 很少： 亚马逊： - 将 2026 年资本支出提高到 $220B，与之前的 $200B 相比（部分原因是更高的内存成本，这对三星的 $MU 有利） - 即使是 $220B，亚马逊也没有足够的容量来满足 2026 年的所有需求； Jassy 预计 2027 年也会出现同样的情况。 - 大多数 2027 年产能已被预留，2028 年大量产能也已预留。主要通读上游半决赛。 $GOOGL、$META、$AMZN 和 $MSFT 都发现了计算短缺。几周前的所有叙述都是来自 Meta 和其他人的“过度计算”+超大规模企业削减支出……全是胡说八道。亚马逊的收益非常看好人工智能半贸易。 AXTI：- AXT 将在 2026 年将 InP 产能翻一番。然后在 2027 年再翻一番。这预计将使 AXT 成为“迄今为止世界上最大的磷化铟生产商”。 - LFG - 第二季度收益为 4760 万美元，这是 AXT 历史上最高的季度收入（来自 DC 应用的 InP 收入达到创纪录的 3070 万美元。） - 收入环比增长 77%，同比增长 164%。 - InP 收入-产能目标：2026 年退出时每季度 6000 万美元。 - 2027 年退出时每季度 1.3 亿美元 1.3 亿美元的目标也可能会提高，因为管理层表示他们找到“任何方法来增加产能扩张”。 - 管理层表示，报告的积压订单仍远高于 1 亿美元，但该数字不再反映所有可用需求。 “无论我们增加产能的速度有多快，客户需求仍然超过供应。” 800G/1.6T 正在推动当前周期，而 NPO/CPO 则将其延伸至 2027 年之后。此外，他们的目标是 50% 以上的毛利率：“我们的目标绝对应该是一个以 5 开头的数字。”中国的需求增长了一倍多，他们与 Casela、$COHR 和 $LITE 的协议并没有对第二季度产生实质性推动。这甚至还没有考虑到我预计的平均售价大幅上涨，因为 InP 衬底变得更加瓶颈。 TLDR： - 亚马逊的计算需求太多，需要资本支出来满足它，所以上游半成品会继续发展。 - AXT全球最大的InP衬底供应商，毛利率高，扩张快，供应跟不上需求。看好亚马逊的需求面+资本支出。需求旺盛看好上游光学供应链。"
+      "published_at": "Fri, 31 Jul 2026 10:10:30 GMT",
+      "content": "Just a TLDR of this week: Media: Hyperscalers overbuilt and are selling excess compute. -> $GOOGL, $MSFT, $META, and $AMZN: Demand for compute far exceeds capacity. Capex go brrr. Institutions: Emergency rate hike or 3x rate hikes, it's all over. -> Kevin Warsh: No rate Hike. Retail/Media: AI is crashing because it's a bubble. -> Citadel looking to buy AI leveraged hedge funds positions: 👀 Jim Cramer: Sell all your leveraged DC stocks. -> Koreans: SK Hynix +30%, Samsung +26.81%",
+      "url": "https://x.com/aleabitoreddit/status/2083133191112843575",
+      "tweet_id": "2083133191112843575",
+      "translated": "本周的长篇大论：媒体：超大规模企业过度建设并正在出售多余的计算。 -> $GOOGL、$MSFT、$META 和 $AMZN：计算需求远远超过容量。资本支出继续增长。机构：紧急加息或者加息3倍，就完了。 -> Kevin Warsh：不加息。零售/媒体：人工智能正在崩溃，因为它是一个泡沫。 -> Citadel 希望购买 AI 杠杆对冲基金头寸：👀 Jim Cramer：出售所有杠杆 DC 股票。 ->韩国人：SK海力士+30%，三星+26.81%"
     },
     {
-      "id": "tweet_aleabitoreddit_2082896789880119590",
+      "id": "tweet_aleabitoreddit_2083114743729107236",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 30 Jul 2026 18:31:07 GMT",
-      "content": "Did Citadel really just liquidate Situational Awareness… Then brought up entire markets the next day? $NBIS +26.25% $IREN +25.96% $SHAZ +22.82% $SNDK + 23.98% $BE +23.67% $SKHY +16.98% $INTC +12.16% Amid many others. This has gotta be one of the wildest liquidations I’ve seen.",
-      "url": "https://x.com/aleabitoreddit/status/2082896789880119590",
-      "tweet_id": "2082896789880119590",
-      "translated": "Citadel 真的只是清算了态势感知……然后第二天就调出了整个市场吗？ $NBIS +26.25% $IREN +25.96% $SHAZ +22.82% $SNDK + 23.98% $BE +23.67% $SKHY +16.98% $INTC +12.16% 还有许多其他。这一定是我见过的最疯狂的清算之一。"
+      "published_at": "Fri, 31 Jul 2026 08:57:11 GMT",
+      "content": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE. Originally the wording was \"readiness\" for EOY 2026. But $POET upgraded that wording, by stating \"production\" with Sivers lasers projected EOY 2026. So a volume orders from across $JBL to $POET, should hit in H1 2027. Which makes a bit of sense, since Sivers did raise an institutional oversubscribed round for future mass production. On a side note, can't believe it's already August and 5 months left until 2027... Which was my inflection window for glass substrates, CPO, 800v, and new architectures to ramp.",
+      "url": "https://x.com/aleabitoreddit/status/2083114743729107236",
+      "tweet_id": "2083114743729107236",
+      "translated": "现在我想得更多了，$POET 光学中介层实际上比我想象的 $SIVE 的材料要多一些。最初的措辞是“为 2026 年 EOY 做好准备”。但 $POET 升级了这一措辞，指出 Sivers 激光器预计在 2026 年 EOY 进行“生产”。因此，从 $JBL 到 $POET 的批量订单应该会在 2027 年上半年达到。这有一定道理，因为 Sivers 确实为未来的大规模生产筹集了一轮机构超额认购。顺便说一句，不敢相信已经是 8 月了，距离 2027 年还剩 5 个月……这是我的玻璃基板、CPO、800v 和新架​​构的拐点窗口。"
     },
     {
-      "id": "tweet_aleabitoreddit_2082740477795745942",
+      "id": "tweet_aleabitoreddit_2083106805949878330",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 30 Jul 2026 08:10:00 GMT",
-      "content": "There's a lot of stupid commentary around Leopold raising funds. After names like $BE, $SNDK, $SHAZ, and others all had very sharp drawdowns in July. Just remember... here's a man in finance that's 1. 6'5 2. Blue Eyes 3. Hedge Fund Probably better looking than you, and was up 439% through June YTD. Regarding the drawdown, Aschenbrenner acknowledged that the fund had \"not been immune\" to the market turmoil, particularly in Asia. FT separately reported that leverage amplified both its extraordinary gains and recent losses. He described the sell-off as potentially the best buying opportunity since early 2025 I'd agree with him and hope he succeeds with the raise. Since a lot of the current selloff looks like it overshot its mark through forced deleveraging.",
-      "url": "https://x.com/aleabitoreddit/status/2082740477795745942",
-      "tweet_id": "2082740477795745942",
-      "translated": "关于利奥波德筹集资金有很多愚蠢的评论。继 $BE、$SNDK、$SHAZ 等名字之后，7 月份都出现了非常急剧的回撤。请记住...这里有一位金融界人士，身高 1. 6 英尺 5 英寸 2. 蓝眼睛 3. 对冲基金 可能比你好看，截至今年 6 月股价上涨了 439%。关于撤资，阿申布伦纳承认，该基金“未能幸免”于市场动荡，特别是在亚洲。英国《金融时报》单独报道称，杠杆放大了其非凡的收益和近期的损失。他将此次抛售描述为自 2025 年初以来可能是最好的买入机会，我同意他的观点，并希望他能够成功加息。因为当前的很多抛售看起来都是通过强制去杠杆化而超出了预期。"
+      "published_at": "Fri, 31 Jul 2026 08:25:39 GMT",
+      "content": "For $XFAB ER transcript: Just to recap, my idea on $XFAB foundry growth opportunities stemmed from SiC for 800v and photonixfab/MTP for CPO applicability. - $XFAB: \"We are making progress in co-packaged optics\". - \"The transition to 800v... is expected to support demand for both SiC and GaN... for XFAB\" So those analysts/people that were confidently bearposting about $XFAB that they had \"0 exposure to 800V, photonics, CPO\" just turned out plainly wrong. At the time I shared my idea, industry materials showed ASE and others cited photonixfab + XFAB as an upcoming CPO player in EU. And filings showed they had exposure names like $NVTS / $POWI in general. So glad $XFAB went out to explicitly clear things up to state they were developing in CPO/800v. Okay back to the ER: - \"We continue to expect photonics volume production to start in 2028\". Company currently has three silicon photonics projects in development with key partners. I thought it would ramp sometime in H2 2027, but was probably early by a few months. - Several new data center design wins, eg. 3 new SiC design wins (consistent with general 2027 ramp as 800v deployment takes off). So once those ramp in 2027-2028, (markets tend to price things ahead of time), I'd expect $XFAB to be rerated based on growth opportunities. TLDR: - Current revenue numbers not as impressive. - $XFAB confirmed direct exposure to CPO and 800V shifts (biggest win for thesis) - 800V exposure opportunities for SiC (should be 2027) - Timeline is 2028 ramp for photonics volume production Happy exposure thesis to CPO/800V was confirmed from this ER. Might be a bit of waiting for revenue ramp.",
+      "url": "https://x.com/aleabitoreddit/status/2083106805949878330",
+      "tweet_id": "2083106805949878330",
+      "translated": "对于 $XFAB ER 成绩单：回顾一下，我对 $XFAB 代工厂增长机会的想法源于 800v 的 SiC 和 CPO 适用性的 photonixfab/MTP。 - $XFAB：“我们在共同封装光学器件方面取得了进展”。 - “向 800v 的过渡……预计将支持 XFAB 对 SiC 和 GaN 的需求……”因此，那些自信地对 $XFAB 发表评论称他们“0 接触 800V、光子学、CPO”的分析师/人士结果显然是错误的。当我分享我的想法时，行业材料显示 ASE 和其他公司将 photonixfab + XFAB 作为即将在欧盟推出的 CPO 参与者。文件显示，他们的曝光名称一般为 $NVTS / $POWI。很高兴 $XFAB 明确澄清了他们正在 CPO/800v 中开发的事情。好吧，回到 ER：-“我们仍然预计光子学批量生产将于 2028 年开始”。公司目前与主要合作伙伴正在开发三个硅光子项目。我原以为它会在 2027 年下半年的某个时候加速，但可能早了几个月。 - 多个新的数据中心设计获胜，例如。 3 个新的 SiC 设计获胜（与 2027 年 800v 部署起飞时的总体增长一致）。因此，一旦这些在 2027 年至 2028 年期间增加（市场倾向于提前定价），我预计 $XFAB 将根据增长机会重新评级。 TLDR： - 目前的收入数字并不那么令人印象深刻。 - $XFAB 确认直接暴露于 CPO 和 800V 转变（论文的最大胜利） - SiC 的 800V 暴露机会（应该是 2027 年） - 时间表是 2028 年光子量产斜坡 在此 ER 中确认了 CPO/800V 的愉快暴露论文。可能需要等待收入增长。"
+    },
+    {
+      "id": "tweet_qinbafrank_2083105797551292539",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Fri, 31 Jul 2026 08:21:39 GMT",
+      "content": "从亚马逊CEO在财报电话会讲话来理解“时间差“框架，今天亚马逊CEO安迪·贾西在财报电话会最值得关注的并不是他说aws未来会到万亿美金营收，这个也很重要但并不是最关键，最关键的他终于给出了关于资本开支投资回报的一个时间表，这是谷歌电话会上完全没有。从贾西的讲话就能很好的理解之前聊到的“时间差”框架。 安迪.贾西认为资本开支投资主要有两个部分：数据中心，以及放入其中的服务器和网络设备。 它们有不同的资本周期： 1）数据中心建设周期一般为一到两年、一旦数据中心开放并插入服务器，就会立即开始产生可观的收入。数据中心的使用寿命差不多30年，意味着之后长达30多年的时间里继续利用这些数据中心创收，而无需再次投入那笔启动资本。 2）服务器和网络设备的周期较短。 通常在数据中心投入使用前几个月购买这些设备，因此在触发支出之前，要对客户需求有很强的可见性。如果没有需求，亚马逊就不会支出这笔资本。 对于服务器和网络设备，平均这项投资需要不到三年时间就能实现收支平衡。服务器的使用寿命目前至少为五到六年，而亚马逊目前大部分的AI容量合同期限至少为五年。 这意味着在实现收支平衡后的两到三年内，亚马逊将在服务器和网络设备上产生可观的自由现金流。而且AWS在缩短服务器设备收支平衡周期方面有着良好的记录，我们已经在不影响客户体验的情况下，取得了有意义的进展，并找到了延长这些设备使用寿命的方法。 3）对于使用寿命超过30年的数据中心，AWS至少应该获得五到六代像之前解释的服务器经济效益，而第一代之后的后续几代因为无需重复前期数据中心投资，整体经济效益甚至更好。 当需求迫使如此多的数据中心在开始货币化之前同时建设时，短期内将花费大量资本支出，并面临自由现金流逆风，直到这些数据中心上线并可以货币化，以及这些服务器被利用几年之后。随着几年过去，收入增长超过资本支出的增量增长（这将在某个时间点发生），由此产生的收入、自由现金流和投资资本回报率将非常可观。 aws在云计算的第一时代就曾经历过这种情况，只是时间跨度更长，因为当时需求的积累比AI时代更渐进。但现在看到AI领域的利润率和回报率与在核心业务同一发展阶段所看到的一致，实际上还略微领先。 上面第二段开始到一直到这里基本上是安迪.贾西的原话。 按照安迪.贾西说到的称服务器和网络设备平均不到三年实现投资回收，而服务器使用寿命至少五至六年，多数AI容量合同至少为五年。 如果这一表述能够按照真实现金流兑现，那么一个服务器批次的生命周期大致是： 第0年：采购服务器和网络设备 第1—3年：累计收回初始投资 第4—5/6年：进入明显正自由现金流阶段 随后更新服务器，但继续使用原有数据中心、电力和土地。 这个模型理论上确实可以产生高于资本成本的ROIC。 这其实就是之前聊的时间差核心要义 “现金先支付（资本开支钱先花出去）、产能后上线、订单再转收入、利润与自由现金流最后兑现”的模式，先花钱再看赚钱的效率和速度。”",
+      "url": "https://x.com/qinbafrank/status/2083105797551292539",
+      "tweet_id": "2083105797551292539"
+    },
+    {
+      "id": "tweet_qinbafrank_2083097990038991313",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Fri, 31 Jul 2026 07:50:37 GMT",
+      "content": "Leopold的对冲基金是如何被围猎的？前对冲基金经理、金融评论员MartinShkreli在播客里深度拆解了这次爆仓事件的内幕、华尔街做空围猎的“达尔文法则”、大体量头寸平仓的底层机制： 1、4倍杠杆引发剧烈爆仓：SALP基金资产规模达450 亿美元（含 100 亿 Anthropic 股权），通过主券商加了4 倍杠杆，总持仓市值（GMV）高达1200 亿美元。在公开市场股票下跌 25% 的打击下，其净股权迅速缩水乃至面临负数风险，被迫触发主券商强平。 2、华尔街的达尔文主义围猎 当市场得知基金被迫清算时，多家对冲基金采取“对着基金打枪（Shooting against a fund）”策略——提前卖出同类持仓并大力做空，加速了其破产进程。真的是“趁你病，要你命”了 3、Citadel 与巨头的血腥抢购：Citadel、Millennium 及 Jane Street 参与了对 SALP 残余资产的闭门竞标。Citadel 等买家以 20%-50% 的巨额折价接盘其股票簿，获得数十亿美元的即时账面浮盈。 也是感慨尽管 OpenAI、Anthropic 及科技巨头业绩强劲，但决定股价短期走势的是那 5% 加了杠杆的边际买卖者，当最脆弱的资金恐慌出逃时，任何微小的负面声音都会引发暴跌。",
+      "url": "https://x.com/qinbafrank/status/2083097990038991313",
+      "tweet_id": "2083097990038991313"
     },
     {
       "id": "tweet_qinbafrank_2083025192016806058",
@@ -129,24 +147,6 @@
       "content": "Web3版的Codex+腾讯Workbuddy，@dappOS_com这个项目迭代进化速度非常快。最早这里https://x.com/qinbafrank/status/2065263100467773762聊过它的买方级别股权研究SOP，输入一个ticker，吐出来的报告直接对标机构内部深度研报，产业链、竞争格局、10-K原文溯源、SOTP三情景估值等各个方面翔实深度。后面这里https://x.com/qinbafrank/status/2071872648401842456它迭代到通过xBubble直接走到SOP-to-Business：一张图+一个商业目标，几小时内搭出完整在线商城，商品目录、购物车、USDT支付、Cloudflare部署、后台订单全齐，不是demo，是能直接收钱的店。都是切实的真实应用场景。 用户不用去调模型、拼工具、写复杂prompt，dappOS的xBubble会把常见业务场景的执行流程提前组织好，形成可复用的SOP，其核心三件套： 1）Bubble Engine会根据真实案例不断生成和优化这些流程，生成并迭代特定任务的SOP（标准操作流程）； 2）Bubble Pilot再根据用户的目标去调用，把用户请求精准匹配到对应SOP； 3）Bubble Code：直接把SOP落到软件和业务搭建。 最后就是宣传片、商城、虚拟人、行情分析、套利策略等一键批量出成品；服务器、域名、API这些底层全由生态第三方服务商对接。平台不碰数据，稳定币直接结算，匿名地址登录，商业数据和客户资产都留在用户自己手里。对那些有想法、有货源、有客户，但没有IT团队的人来说，门槛被压到几乎为零。用户真正要做的，就是把生意想清楚：卖什么、卖给谁、怎么收钱。 它真正瞄准的，是那些懂市场、懂用户，但技术不是核心能力的普通经营者。现实中大量存在的“一人带货、一人做服务、一人做内容”的小生意，可以说xBubble是OPC模式（一人创业公司）的有力工具 从这个角度来看，DAPPOS定位很明确：做低门槛的Web3 AI操作系统，旗舰就是xBubble。 所以说它就是Web3版的Codex+腾讯Workbuddy也不为过。 DAPPOS的背后是YZi Labs（原币安Labs）、红杉中国、IDG Capital、OKX Ventures、Polychain、HashKey、蓝驰、NGC、Amber等机构相继投资，累计超过2000万美元，估值超过3亿美金，这些机构都是业内顶级。自4月上线到现在，xBubble已经帮超过1万个OPC启动业务，累计订阅收入680万美元。可以说是币市少有既有业务创新又能真正价值创造的项目。 看到DAPPOS刚把$DOS的代币经济学完整甩出来了，$DOS总量10亿枚，初始流通20%。分配很干净： 1）团队20%：12个月cliff，之后48个月线性 2）投资人22.5%：同样12个月cliff+48个月线性 3）生态20%：TGE释放5%，后续按月+线性 4）国库20%：TGE释放9%，后续按月+线性 5）市场11.5%：TGE释放3%，剩余cliff后线性 6）空投6%：TGE先放3%，剩余3个月月度释放 TGE当天团队和投资人一枚都不解，全部20%初始流通来自生态、国库、市场和空投。团队和投资人要等满60个月才能全部解锁。这个设计可以说把早期抛压基本控死了，资源优先给生态启动。 $DOS的实际作用也很实在——解锁高级AI服务、支付intent执行手续费（有折扣）、服务商和验证者质押抵押、协议治理。持币可以委托，还能拿额外AI额度。 简单说DappOS这个项目，产品已经有真付费用户和真收入，融资方是顶级机构，代币释放把内部人锁得死死的。OPC经济正在从概念变成真实增量市场，xBubble踩在这个点上，门槛够低，场景够落地，发展空间可期！",
       "url": "https://x.com/qinbafrank/status/2083025192016806058",
       "tweet_id": "2083025192016806058"
-    },
-    {
-      "id": "tweet_qinbafrank_2083010242691158485",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 31 Jul 2026 02:01:56 GMT",
-      "content": "聊了快一个月的超大CSP价值重塑到今天完全被微软、亚马逊的财报给支撑住，也验证了之前“超大CSP业绩表现将是衡量AI行业化更重要的指标”的说法。看微软的纳德拉和亚马逊的贾西在电话会上的表态都确认了之前聊到的一个趋势：“企业不会把全部业务交给一个通用大模型，而是围绕不同业务场景，组合前沿模型、低成本小模型、开源模型和企业自有模型，再由统一的上下文、记忆、身份、权限、Agent运行时和治理平台进行调度”。这就是最近一个月一直聊到的分场景、多模型的框架。",
-      "url": "https://x.com/qinbafrank/status/2083010242691158485",
-      "tweet_id": "2083010242691158485"
-    },
-    {
-      "id": "tweet_qinbafrank_2082997200918077672",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 31 Jul 2026 01:10:07 GMT",
-      "content": "为什么资本支出提升但股价在涨？因为亚马逊证明了上一轮资本批次投入回报很好。详细聊聊 1、AWS大象在跳舞：1）对一个年化收入已经达到1,690亿美元的业务来说，增速从28%继续升至36.7%，其含金量远高于一个小规模业务从50%升至60% 2）AWS利润率39.4%、这比37%收入增速更重要 3）AWS backlog已经达到4,960亿美元，同比增长超过100%。相对于AWS目前1,690亿美元的年化收入运行率，backlog约为当前年化收入的2.9倍。管理层表示，2027年新增的大部分容量已经被预订，2028年也已经有相当一部分容量被预订 4）AWS增长不是只有AI实验室，而是AI与传统云同时加速。管理层明确表示，本季度AWS收入增长同时来自AI服务和传统核心云服务。AI并不是一个完全独立的算力孤岛：模型后训练、强化学习、Agent工具调用会增加CPU需求，生产环境又会进一步拉动存储、数据库、网络、安全和可观测性消费。 5）AWS本季度贡献了亚马逊约21%的收入，却贡献了约61%的营业利润。更重要的是：亚马逊总营业利润同比增加约82.9亿美元； AWS营业利润同比增加约64.6亿美元； AWS贡献了全公司约78%的增量营业利润。 这说明亚马逊正在进一步从“零售公司附带云业务”，转变为“以AWS和广告为利润中心、零售供应链为流量和数据基础设施”的平台型公司。 2、不到三年回本” 管理层称服务器和网络设备平均不到三年实现投资回收，而服务器使用寿命至少五至六年，多数AI容量合同至少为五年。 如果这一表述能够按照真实现金流兑现，那么一个服务器批次的生命周期大致是： 第0年：采购服务器和网络设备 第1—3年：累计收回初始投资 第4—5/6年：进入明显正自由现金流阶段 随后更新服务器，但继续使用原有数据中心、电力和土地。 这个模型理论上确实可以产生高于资本成本的ROIC。 3、主营业务 1）零售业务增长很好，收入、订单量和履约效率表现健康。成本结构仍然不错：全公司营收增长约20%，而履约费用增长约14%，销售和营销费用只增长约2.5%，管理费用同比下降约6%；只有技术与基础设施支出增长约22%，反映AI投入加速。 2）广告业务：被AWS遮住的第二利润中心，广告收入达到198亿美元，同比增长26%，增速从前几个季度约22%再次加快。其季度收入已经相当于AWS收入的约47% 4、为什么亚马逊提高Capex，股价反而上涨？ 亚马逊将2026年现金Capex由2,000亿美元提高至2,200亿美元，但股价盘后上涨超过9%。这与Alphabet披露高Capex后股价承压形成鲜明对比。 市场不是简单惩罚资本开支，而是在判断资本开支有没有形成可验证的收入和回报。亚马逊这次给出了四层证据： AWS增速从28%加速至36.7%； 正常化AWS利润率约38%； backlog达到4,960亿美元； 2027年大部分新增容量和部分2028年容量已经被预订。 更关键的是，Amazon解释了： 数据中心提前约两年投入； 服务器只提前几个月采购； 服务器平均不到三年回本； 使用寿命五至六年； 多数AI容量合同至少五年。 因此，市场接受的是“Capex增加、但需求和回报证据同步增强”，而不是单纯接受2,200亿美元支出。 总结来说 AWS已经进入上一轮资本批次的收获期，但Amazon同时启动了规模更大的下一轮资本批次。当前收入和利润证明第一轮投资回报很好；未来估值上行空间，则取决于第二轮投资能否在2027—2028年复制同样的高利用率、高利润率和三年内回本。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2082997200918077672",
-      "tweet_id": "2082997200918077672"
     },
     {
       "id": "tweet_xiaomustock_2082821127613927926",
@@ -203,31 +203,31 @@
       "tweet_id": "2082499866413126004"
     },
     {
-      "id": "tweet_hibtc37_2083094746671845678",
+      "id": "tweet_hibtc37_2083130059691593893",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Fri, 31 Jul 2026 07:37:44 GMT",
-      "content": "看来我一开始玩2-3倍杠杆是对的，尤其是震荡市场，降低杠杆把，尤其是总仓位杠杆",
-      "url": "https://x.com/hibtc37/status/2083094746671845678",
-      "tweet_id": "2083094746671845678"
+      "published_at": "Fri, 31 Jul 2026 09:58:03 GMT",
+      "content": "我现在玩合约都不焦虑，设定止损，该干嘛干嘛，无痛开单，那我就不是投机了？但这实际就是一种赌的策略和投机策略。不管投资还是投机，EV正是核心，把一件不确定性的事情，做成确定性，就不会焦虑",
+      "url": "https://x.com/hibtc37/status/2083130059691593893",
+      "tweet_id": "2083130059691593893"
     },
     {
-      "id": "tweet_hibtc37_2083065323591450956",
+      "id": "tweet_hibtc37_2083125519936303387",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Fri, 31 Jul 2026 05:40:49 GMT",
-      "content": "比特币硬件冷钱包被AI攻破，我开始以为是扯淡，后来有说被盗1000BTC，才重视起来。 核心问题是Coldcard有个老版本硬件，生成私钥时随机数不足，这样AI可以直接暴力破解。真没想到啊，AI可以攻击比特币冷钱包，开始我以为只有以太坊遍地BUG…… 新版本硬件没问题，老版本硬件基本都是OG的币了，真是冤大头…… 654这根长上影线可能和这个有关，时间也对的上 还是用one key吧",
-      "url": "https://x.com/hibtc37/status/2083065323591450956",
-      "tweet_id": "2083065323591450956"
+      "published_at": "Fri, 31 Jul 2026 09:40:01 GMT",
+      "content": "关注了",
+      "url": "https://x.com/hibtc37/status/2083125519936303387",
+      "tweet_id": "2083125519936303387"
     },
     {
-      "id": "tweet_hibtc37_2083035910132875419",
+      "id": "tweet_hibtc37_2083105996218794420",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Fri, 31 Jul 2026 03:43:56 GMT",
-      "content": "这反弹太猛烈了！！！恭喜存王粉，跑还是不跑呢？",
-      "url": "https://x.com/hibtc37/status/2083035910132875419",
-      "tweet_id": "2083035910132875419"
+      "published_at": "Fri, 31 Jul 2026 08:22:26 GMT",
+      "content": "十亿哥这波及时止盈，还是打止损了，谁帮看看？",
+      "url": "https://x.com/hibtc37/status/2083105996218794420",
+      "tweet_id": "2083105996218794420"
     }
   ],
   "stats": {
