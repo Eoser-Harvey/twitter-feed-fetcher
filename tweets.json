@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-31T00:05:20.234838+00:00",
-  "total": 21,
+  "fetched_at": "2026-07-31T04:25:17.856074+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2083034836097192096",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 31 Jul 2026 03:39:40 GMT",
+      "content": "Wow, the situation in Spain looks crazy!",
+      "url": "https://x.com/elonmusk/status/2083034836097192096",
+      "tweet_id": "2083034836097192096",
+      "translated": "哇，西班牙的情况看起来很疯狂！"
+    },
+    {
+      "id": "tweet_elonmusk_2083038830089687353",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 31 Jul 2026 03:55:32 GMT",
+      "content": "R to @elonmusk: Just kidding, this is the actual footage …",
+      "url": "https://x.com/elonmusk/status/2083038830089687353",
+      "tweet_id": "2083038830089687353",
+      "translated": "R 对@elonmusk：开玩笑，这是真实的镜头……"
+    },
+    {
+      "id": "tweet_elonmusk_2083039060554072471",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 31 Jul 2026 03:56:27 GMT",
+      "content": "R to @elonmusk: And this was the US under Biden:",
+      "url": "https://x.com/elonmusk/status/2083039060554072471",
+      "tweet_id": "2083039060554072471",
+      "translated": "R 致@elonmusk：这是拜登领导下的美国："
+    },
     {
       "id": "tweet_cz_binance_2082895751730856320",
       "username": "cz_binance",
@@ -10,7 +40,7 @@
       "content": "RT by @cz_binance: Não existe grupo VIP da Binance. Não existe grupo de sinais da Binance. Não existe grupo de oportunidades da Binance. Existe golpista usando nosso nome. Cuidado. 🚨",
       "url": "https://x.com/cz_binance/status/2082895751730856320",
       "tweet_id": "2082895751730856320",
-      "translated": "@cz_binance 转发：没有币安 VIP 群。没有币安信号池。没有币安机会池。有一个骗子冒用我们的名字。小心。 🚨"
+      "translated": "@cz_binance 转发：没有币安 VIP 群。没有币安信号组。没有币安机会池。有一个骗子冒用我们的名字。小心。 🚨"
     },
     {
       "id": "tweet_cz_binance_2082957028633244079",
@@ -30,7 +60,7 @@
       "content": "RT by @cz_binance: I agree with Spigg here. A few more points: 1. @GiggleAcademy is not a crypto team. They make a free education app. It is not (and will not be) their expertise to manage crypto (or your supply). 2. Giggle cannot determine: how much (what % or what $ amount) will impact price? how much to sell/keep each month? etc. To keep it simple, it will sell most tokens (of value) each month. 3. Crypto projects should not donate a \"price-impacting-amount\" to charity, or anyone else. And expect that person to manage it \"properly\" somehow. You should manage your own tokenomics/supply. I have given BNB to Giggle repeatedly, and they have sold/converted to fiat to pay for expenses. BNB devs/holders have no issues with that. In fact, we are proud for it to happen. 4. A monthly (or repeated) donations would be very much appreciated. But no promises of any actions in return, including a \"thank you\" note from Giggle or me. If you expect that, don't donate. You are just farming for interactions for your coin. A donation should be you supporting the mission of @GiggleAcademy, which is to provide more free education to kids all around the world.",
       "url": "https://x.com/cz_binance/status/2082953134016700632",
       "tweet_id": "2082953134016700632",
-      "translated": "RT @cz_binance：我同意 Spigg 的观点。还有几点： 1. @GiggleAcademy 不是一个加密团队。他们制作了免费的教育应用程序。他们不是（也不会）管理加密货币（或您的供应）的专业知识。 2. Giggle 无法确定：对价格的影响有多大（多少百分比或多少美元）？每月出售/保留多少？等等。为了简单起见，它将每月出售大部分（有价值的）代币。 3. 加密货币项目不应向慈善机构或其他任何人捐赠“影响价格的金额”。并期望那个人以某种方式“正确”地管理它。您应该管理自己的代币经济/供应。我曾多次将 BNB 给 Giggle，他们已将 BNB 出售/转换为法定货币以支付费用。 BNB 开发者/持有者对此没有任何问题。事实上，我们为它的发生感到自豪。 4. 每月（或重复）捐款将不胜感激。但没有承诺采取任何行动作为回报，包括吉格尔或我的“感谢”信。如果您希望如此，请不要捐赠。你只是为了你的硬币而进行互动。捐款应该是您支持@GiggleAcademy 的使命，即为世界各地的孩子提供更多免费教育。"
+      "translated": "RT @cz_binance：我同意 Spigg 的观点。还有几点： 1. @GiggleAcademy 不是一个加密团队。他们制作了免费的教育应用程序。他们不是（也不会）管理加密货币（或您的供应）的专业知识。 2. Giggle 无法确定：对价格的影响有多大（多少百分比或多少美元）？每月出售/保留多少？等等。为了简单起见，它将每月出售大部分（有价值的）代币。 3. 加密项目不应向慈善机构或其他任何人捐赠“影响价格的金额”。并期望那个人以某种方式“正确”地管理它。您应该管理自己的代币经济/供应。我曾多次将 BNB 给 Giggle，他们已将 BNB 出售/转换为法定货币以支付费用。 BNB 开发者/持有者对此没有任何问题。事实上，我们为它的发生感到自豪。 4. 每月（或重复）捐款将不胜感激。但没有承诺采取任何行动作为回报，包括吉格尔或我的“感谢”信。如果您希望如此，请不要捐赠。你只是为了你的硬币而进行互动。捐款应该是您支持@GiggleAcademy 的使命，即为世界各地的孩子提供更多免费教育。"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
@@ -79,7 +109,7 @@
       "content": "There's a lot of stupid commentary around Leopold raising funds. After names like $BE, $SNDK, $SHAZ, and others all had very sharp drawdowns in July. Just remember... here's a man in finance that's 1. 6'5 2. Blue Eyes 3. Hedge Fund Probably better looking than you, and was up 439% through June YTD. Regarding the drawdown, Aschenbrenner acknowledged that the fund had \"not been immune\" to the market turmoil, particularly in Asia. FT separately reported that leverage amplified both its extraordinary gains and recent losses. He described the sell-off as potentially the best buying opportunity since early 2025 I'd agree with him and hope he succeeds with the raise. Since a lot of the current selloff looks like it overshot its mark through forced deleveraging.",
       "url": "https://x.com/aleabitoreddit/status/2082740477795745942",
       "tweet_id": "2082740477795745942",
-      "translated": "关于利奥波德筹集资金有很多愚蠢的评论。继 $BE、$SNDK、$SHAZ 等名字之后，7 月份都出现了非常急剧的回撤。请记住...这里有一位金融界人士，身高 1. 6 英尺 5 英寸 2. 蓝眼睛 3. 对冲基金 可能比你好看，截至今年 6 月股价上涨了 439%。关于撤资，阿申布伦纳承认，该基金“未能幸免”于市场动荡，特别是在亚洲。英国《金融时报》单独报道称，杠杆放大了其非凡的收益和近期的损失。他将此次抛售描述为自 2025 年初以来可能是最好的买入机会，我同意他的观点，并希望他能够成功加息。因为当前的很多抛售看起来都是通过强制去杠杆化而超出了预期。"
+      "translated": "关于利奥波德筹集资金有很多愚蠢的评论。在 $BE、$SNDK、$SHAZ 等名字之后，7 月份都出现了非常急剧的回撤。请记住...这里有一位金融界人士，身高 1. 6 英尺 5 英寸 2. 蓝眼睛 3. 对冲基金 可能比你好看，截至今年 6 月股价上涨了 439%。关于撤资，阿申布伦纳承认，该基金“未能幸免”于市场动荡，特别是在亚洲。英国《金融时报》单独报道称，杠杆放大了其非凡的收益和近期的损失。他将这次抛售描述为自 2025 年初以来可能是最好的买入机会，我同意他的观点，并希望他能够成功加息。因为当前的很多抛售看起来都是通过强制去杠杆化而超出了预期。"
     },
     {
       "id": "tweet_aleabitoreddit_2082720873908494456",
@@ -92,31 +122,31 @@
       "translated": "$FORM 对 CPO 的财报电话会议仅得出一些有趣的结论：由于他们将系统收入归因于“共同封装光学器件或 CPO 的加速增长”，系统收入几乎翻了一番。 2026 年第一季度：“我们现在预计 2026 年原棕油收入将在 1000 万美元至 2000 万美元范围的高端” 2026 年第二季度（现在）：“预计到第三季度末将超过该范围，并大幅超过全年 2000 万美元的水平。”管理层表示“我们看到 [CPO] 业务出现了一些显着的加速”。问：CPO 采用前景。我们是否期望时间线能加快一点？答：“我想说的是，短期内会出现加速。”但管理层表示，时间表上并没有显着的延迟。引用生产基础设施（不仅仅是研发）： - 计划在今年晚些时候增加 CPO 芯片数量 + 纵向扩展和横向扩展交换机的测试插入。 - 看起来 CPO 部分流经 $TSM COUPE [ 可能映射到 $NVDA CPO 产品] - “CPO 部分确实流经那 10% 的客户” 因此，现在，鉴于管理层提到 CPO 芯片数量不断增长，测试正在加大。 “我们 CPO 业务最近的快速增长是一个令人兴奋的发展，我们认为这代表了硅光子在更广泛的半导体行业中广泛采用的早期阶段” TLDR：从根本上说，CPO 作为一个主题还很早，而且应该很快就会开始出现，因为它现在开始出现在收益中（设备/测试参与者通常在光学引擎/激光器产量增加之前首先出现）。就我个人而言，一旦所有去杠杆化停止，我认为市场将开始更加关心。"
     },
     {
-      "id": "tweet_qinbafrank_2082857101672787991",
+      "id": "tweet_qinbafrank_2083025192016806058",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
-      "published_at": "Thu, 30 Jul 2026 15:53:25 GMT",
-      "content": "今天币安VIP私享会听@HAOHONG_CFA 分享对宏观、产业的看法，对半导体表示谨慎、看好黄金和大饼，印象最深还是老师的拖鞋很酷。 币安新产品更新迭代很多、这个BPAY支持同名银行账户出金估计会是大家的强需求。 辛苦@moonkimbinance @pear_bnb @yayabinance @sisibinance 几位邀请。",
-      "url": "https://x.com/qinbafrank/status/2082857101672787991",
-      "tweet_id": "2082857101672787991"
+      "published_at": "Fri, 31 Jul 2026 03:01:21 GMT",
+      "content": "Web3版的Codex+腾讯Workbuddy，@dappOS_com这个项目迭代进化速度非常快。最早这里https://x.com/qinbafrank/status/2065263100467773762聊过它的买方级别股权研究SOP，输入一个ticker，吐出来的报告直接对标机构内部深度研报，产业链、竞争格局、10-K原文溯源、SOTP三情景估值等各个方面翔实深度。后面这里https://x.com/qinbafrank/status/2071872648401842456它迭代到通过xBubble直接走到SOP-to-Business：一张图+一个商业目标，几小时内搭出完整在线商城，商品目录、购物车、USDT支付、Cloudflare部署、后台订单全齐，不是demo，是能直接收钱的店。都是切实的真实应用场景。 用户不用去调模型、拼工具、写复杂prompt，dappOS的xBubble会把常见业务场景的执行流程提前组织好，形成可复用的SOP，其核心三件套： 1）Bubble Engine会根据真实案例不断生成和优化这些流程，生成并迭代特定任务的SOP（标准操作流程）； 2）Bubble Pilot再根据用户的目标去调用，把用户请求精准匹配到对应SOP； 3）Bubble Code：直接把SOP落到软件和业务搭建。 最后就是宣传片、商城、虚拟人、行情分析、套利策略等一键批量出成品；服务器、域名、API这些底层全由生态第三方服务商对接。平台不碰数据，稳定币直接结算，匿名地址登录，商业数据和客户资产都留在用户自己手里。对那些有想法、有货源、有客户，但没有IT团队的人来说，门槛被压到几乎为零。用户真正要做的，就是把生意想清楚：卖什么、卖给谁、怎么收钱。 它真正瞄准的，是那些懂市场、懂用户，但技术不是核心能力的普通经营者。现实中大量存在的“一人带货、一人做服务、一人做内容”的小生意，可以说xBubble是OPC模式（一人创业公司）的有力工具 从这个角度来看，DAPPOS定位很明确：做低门槛的Web3 AI操作系统，旗舰就是xBubble。 所以说它就是Web3版的Codex+腾讯Workbuddy也不为过。 DAPPOS的背后是YZi Labs（原币安Labs）、红杉中国、IDG Capital、OKX Ventures、Polychain、HashKey、蓝驰、NGC、Amber等机构相继投资，累计超过2000万美元，估值超过3亿美金，这些机构都是业内顶级。自4月上线到现在，xBubble已经帮超过1万个OPC启动业务，累计订阅收入680万美元。可以说是币市少有既有业务创新又能真正价值创造的项目。 看到DAPPOS刚把$DOS的代币经济学完整甩出来了，$DOS总量10亿枚，初始流通20%。分配很干净： 1）团队20%：12个月cliff，之后48个月线性 2）投资人22.5%：同样12个月cliff+48个月线性 3）生态20%：TGE释放5%，后续按月+线性 4）国库20%：TGE释放9%，后续按月+线性 5）市场11.5%：TGE释放3%，剩余cliff后线性 6）空投6%：TGE先放3%，剩余3个月月度释放 TGE当天团队和投资人一枚都不解，全部20%初始流通来自生态、国库、市场和空投。团队和投资人要等满60个月才能全部解锁。这个设计可以说把早期抛压基本控死了，资源优先给生态启动。 $DOS的实际作用也很实在——解锁高级AI服务、支付intent执行手续费（有折扣）、服务商和验证者质押抵押、协议治理。持币可以委托，还能拿额外AI额度。 简单说DappOS这个项目，产品已经有真付费用户和真收入，融资方是顶级机构，代币释放把内部人锁得死死的。OPC经济正在从概念变成真实增量市场，xBubble踩在这个点上，门槛够低，场景够落地，发展空间可期！",
+      "url": "https://x.com/qinbafrank/status/2083025192016806058",
+      "tweet_id": "2083025192016806058"
     },
     {
-      "id": "tweet_qinbafrank_2082832183551827983",
+      "id": "tweet_qinbafrank_2083010242691158485",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
-      "published_at": "Thu, 30 Jul 2026 14:14:24 GMT",
-      "content": "CNBC报道据知情人士透露Leopold的对冲基金已经出售了其所有持有的公共股票，管理规模超过200亿美金的对冲基金倒在了黎明前，会不会是在这次去杠杆大清算的拐点性事件？",
-      "url": "https://x.com/qinbafrank/status/2082832183551827983",
-      "tweet_id": "2082832183551827983"
+      "published_at": "Fri, 31 Jul 2026 02:01:56 GMT",
+      "content": "聊了快一个月的超大CSP价值重塑到今天完全被微软、亚马逊的财报给支撑住，也验证了之前“超大CSP业绩表现将是衡量AI行业化更重要的指标”的说法。看微软的纳德拉和亚马逊的贾西在电话会上的表态都确认了之前聊到的一个趋势：“企业不会把全部业务交给一个通用大模型，而是围绕不同业务场景，组合前沿模型、低成本小模型、开源模型和企业自有模型，再由统一的上下文、记忆、身份、权限、Agent运行时和治理平台进行调度”。这就是最近一个月一直聊到的分场景、多模型的框架。",
+      "url": "https://x.com/qinbafrank/status/2083010242691158485",
+      "tweet_id": "2083010242691158485"
     },
     {
-      "id": "tweet_qinbafrank_2082763372538323450",
+      "id": "tweet_qinbafrank_2082997200918077672",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
-      "published_at": "Thu, 30 Jul 2026 09:40:58 GMT",
-      "content": "韩股会再度禁止卖空么？看韩联社报道韩国交易所（KRX）于7月29日下午内部检查了临时禁止卖空交易和缩小价格限制幅度（当前±30%）​的技术可行性及系统所需时间，作为应对近期股市剧烈波动的应急手段排查。知情人士明确称“仅确认了技术上可行”，并非以实施为前提。交易所官方回应称未收到政府相关请求，也未正式讨论卖空禁令（卖空禁令并非交易所可自行决定的事项）。 之前国会政务委员会上有议员呼吁临时禁止卖空并重启证券市场稳定基金；国民同意请愿两天内超1万人签名支持暂停卖空。但全面禁止卖空与韩国推进MSCI发达市场指数纳入目标冲突——此前2023年11月至2025年3月约17个月的禁令曾导致MSCI下调韩国市场准入评级，禁令解除后才恢复。 1、禁止卖空可行么？ 韩股临时禁止卖空交易，技术上高度可行，且有丰富先例。 韩国历史上多次实施过全面或局部卖空禁令（2008年金融危机、2011年欧债危机、2020年疫情、2023年11月–2025年3月等）。交易系统本身已具备拒绝“卖空标记订单”的功能。历史上禁令可在数日内甚至更快落地（监管决策后系统配置通常很快）。 卖空禁令的决定权在金融委员会（FSC）等监管机构，而非交易所单独行动。交易所只能执行。此外，禁令会冲击流动性、价格发现功能，并可能再次触发MSCI等国际指数评级风险，因此即使技术可行，政策门槛很高。 2. 缩小价格限制幅度（从当前±30%收窄） 技术上同样可行，属于系统参数调整。 韩国股票每日价格限制（上/下限）由KRX交易系统根据基准价（通常为前收盘价）计算并实时执行：订单超出限制直接被拒绝。 收窄限制可抑制单日极端跌幅，但会延迟价格发现、增加“触板”后的次日跳空风险，并可能加剧流动性枯竭。杠杆ETF等产品的价格限制通常按倍数放大（如2倍杠杆ETF为±60%），收窄基础限制时也需同步处理。 简单说禁止卖空和价格限制调整技术上完全可行： 卖空禁令是“开关式”操作，历史验证充分； 价格限制调整是参数变更，2015年扩限经验可参考（反向操作更轻量）。 但实施门槛远高于技术：一方面要看监管层的意愿有多大。另一方面还要看考虑国际声誉（特别是上一次韩股禁止卖空时就被MSCI下调评级了） 昨晚推文还聊到真正的救市动作是平准基金入场、央行提供流动性、韩国机构及养老金加大购买力度，还有两年前干过的完全禁止卖空。 就看韩国监管层的意愿了 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2082763372538323450",
-      "tweet_id": "2082763372538323450"
+      "published_at": "Fri, 31 Jul 2026 01:10:07 GMT",
+      "content": "为什么资本支出提升但股价在涨？因为亚马逊证明了上一轮资本批次投入回报很好。详细聊聊 1、AWS大象在跳舞：1）对一个年化收入已经达到1,690亿美元的业务来说，增速从28%继续升至36.7%，其含金量远高于一个小规模业务从50%升至60% 2）AWS利润率39.4%、这比37%收入增速更重要 3）AWS backlog已经达到4,960亿美元，同比增长超过100%。相对于AWS目前1,690亿美元的年化收入运行率，backlog约为当前年化收入的2.9倍。管理层表示，2027年新增的大部分容量已经被预订，2028年也已经有相当一部分容量被预订 4）AWS增长不是只有AI实验室，而是AI与传统云同时加速。管理层明确表示，本季度AWS收入增长同时来自AI服务和传统核心云服务。AI并不是一个完全独立的算力孤岛：模型后训练、强化学习、Agent工具调用会增加CPU需求，生产环境又会进一步拉动存储、数据库、网络、安全和可观测性消费。 5）AWS本季度贡献了亚马逊约21%的收入，却贡献了约61%的营业利润。更重要的是：亚马逊总营业利润同比增加约82.9亿美元； AWS营业利润同比增加约64.6亿美元； AWS贡献了全公司约78%的增量营业利润。 这说明亚马逊正在进一步从“零售公司附带云业务”，转变为“以AWS和广告为利润中心、零售供应链为流量和数据基础设施”的平台型公司。 2、不到三年回本” 管理层称服务器和网络设备平均不到三年实现投资回收，而服务器使用寿命至少五至六年，多数AI容量合同至少为五年。 如果这一表述能够按照真实现金流兑现，那么一个服务器批次的生命周期大致是： 第0年：采购服务器和网络设备 第1—3年：累计收回初始投资 第4—5/6年：进入明显正自由现金流阶段 随后更新服务器，但继续使用原有数据中心、电力和土地。 这个模型理论上确实可以产生高于资本成本的ROIC。 3、主营业务 1）零售业务增长很好，收入、订单量和履约效率表现健康。成本结构仍然不错：全公司营收增长约20%，而履约费用增长约14%，销售和营销费用只增长约2.5%，管理费用同比下降约6%；只有技术与基础设施支出增长约22%，反映AI投入加速。 2）广告业务：被AWS遮住的第二利润中心，广告收入达到198亿美元，同比增长26%，增速从前几个季度约22%再次加快。其季度收入已经相当于AWS收入的约47% 4、为什么亚马逊提高Capex，股价反而上涨？ 亚马逊将2026年现金Capex由2,000亿美元提高至2,200亿美元，但股价盘后上涨超过9%。这与Alphabet披露高Capex后股价承压形成鲜明对比。 市场不是简单惩罚资本开支，而是在判断资本开支有没有形成可验证的收入和回报。亚马逊这次给出了四层证据： AWS增速从28%加速至36.7%； 正常化AWS利润率约38%； backlog达到4,960亿美元； 2027年大部分新增容量和部分2028年容量已经被预订。 更关键的是，Amazon解释了： 数据中心提前约两年投入； 服务器只提前几个月采购； 服务器平均不到三年回本； 使用寿命五至六年； 多数AI容量合同至少五年。 因此，市场接受的是“Capex增加、但需求和回报证据同步增强”，而不是单纯接受2,200亿美元支出。 总结来说 AWS已经进入上一轮资本批次的收获期，但Amazon同时启动了规模更大的下一轮资本批次。当前收入和利润证明第一轮投资回报很好；未来估值上行空间，则取决于第二轮投资能否在2027—2028年复制同样的高利用率、高利润率和三年内回本。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2082997200918077672",
+      "tweet_id": "2082997200918077672"
     },
     {
       "id": "tweet_xiaomustock_2082821127613927926",
@@ -173,36 +203,36 @@
       "tweet_id": "2082499866413126004"
     },
     {
-      "id": "tweet_hibtc37_2082847944936763611",
+      "id": "tweet_hibtc37_2083035910132875419",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 30 Jul 2026 15:17:02 GMT",
-      "content": "这样的轧空行情真让人兴奋，后面谁能在好的位置空下去，谁能拿住就发财了，后面会直接杀破200日线，再探底一波，加速下行，就可以100%宣布进入熊市了，趋势空会很舒服，但摸空很难受，右侧追空稳些 如果这波变成反转，放量突破所有关键k线，那就牛回，但去掉的杠杆，是真金白银，不会回来了，这个牛概率很低很低。如果真是牛市继续，也没必要去抬轿子，真的价格也在珠峰的7000米海拔了，在几个大模型公司上市前就要跑，这也是我原来的持正股思路 轧空后才介入多单，挨打的位置，向上赔率低，向下空间非常大，如果是抓反弹的，差不多止盈了，别格局，这是我这波200日线建多单的止盈思路，不过已经震下车了 $MU没过50日线 $SNDK压在120日线 $NVDA 120日线都没碰到，这是风向标 还有很多半导体股票都没破120日线，少有能破50日线的 这次轧空这是精准计算的结果，最慢下周，很快又能看到韩国救市和海力士老板回购股票又要被骂了，资金出货行情，一旦下杀，又是恐慌踩踏抢跑的游戏 只需要2-3个交易日就看到结果，能印证上面观点，一起验证",
-      "url": "https://x.com/hibtc37/status/2082847944936763611",
-      "tweet_id": "2082847944936763611"
+      "published_at": "Fri, 31 Jul 2026 03:43:56 GMT",
+      "content": "这反弹太猛烈了！！！恭喜存王粉，跑还是不跑呢？",
+      "url": "https://x.com/hibtc37/status/2083035910132875419",
+      "tweet_id": "2083035910132875419"
     },
     {
-      "id": "tweet_hibtc37_2082834506978144487",
+      "id": "tweet_hibtc37_2083028797495132332",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 30 Jul 2026 14:23:38 GMT",
-      "content": "股神又倒下，这样反而真有可能触底，看看这波反弹力度，是逃命还是牛市继续？",
-      "url": "https://x.com/hibtc37/status/2082834506978144487",
-      "tweet_id": "2082834506978144487"
+      "published_at": "Fri, 31 Jul 2026 03:15:40 GMT",
+      "content": "这两天私事太多，要打🎾友谊赛，没心思搞交易🤣",
+      "url": "https://x.com/hibtc37/status/2083028797495132332",
+      "tweet_id": "2083028797495132332"
     },
     {
-      "id": "tweet_hibtc37_2082830950053065074",
+      "id": "tweet_hibtc37_2083028496910278748",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 30 Jul 2026 14:09:30 GMT",
-      "content": "连微软也走出山寨币走法……这是机器人精准推出来的价格",
-      "url": "https://x.com/hibtc37/status/2082830950053065074",
-      "tweet_id": "2082830950053065074"
+      "published_at": "Fri, 31 Jul 2026 03:14:29 GMT",
+      "content": "Tony真是牛批！佩服！ 看到了我和他在交易的差距，真的巨大，如果我用大仓位和这样的玩家在市场里成为对手盘，我会死的很惨！所以，我小仓位利润玩，潇洒的很 不过Tony只晒盈利，不晒亏损和止损，其实有点误导粉丝（当然他也没有这个义务），这会让大家误以为，合约我也可以！但我观察到，Tony的SNDK在1200多开的多单，后面是一波20%急跌破200日线，最大浮亏接近200%，肯定是打了很重的止损，他并没有告诉大家，以及，他在多次试仓也会发生多次打止损，大家没有看到，这会让新手容易降低警惕和风险意识，但这是真实存在的交易成本和风险。不过我还是个交易菜鸟，我这两个多月合约坑，可能在他身上不会再发生",
+      "url": "https://x.com/hibtc37/status/2083028496910278748",
+      "tweet_id": "2083028496910278748"
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
