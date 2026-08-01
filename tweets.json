@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-01T18:03:37.618800+00:00",
+  "fetched_at": "2026-08-01T20:12:40.648705+00:00",
   "total": 24,
   "tweets": [
     {
@@ -33,34 +33,33 @@
       "translated": "RT @elonmusk：我的一个朋友说我们应该欢迎非法移民，只要他们不住在她附近。她现在是以前的朋友了。我妈妈常说，你不能与愚蠢或疯狂的人争论。她的引言出现在我的新书中。我仍在尝试，但没有成功。"
     },
     {
-      "id": "tweet_cz_binance_2083519877227413734",
+      "id": "tweet_cz_binance_2083621786005152101",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
-      "published_at": "Sat, 01 Aug 2026 11:47:03 GMT",
-      "content": "We might be in a bear market, but there is a lot of money looking for things to invest in. 🤷‍♂️",
-      "url": "https://x.com/cz_binance/status/2083519877227413734",
-      "tweet_id": "2083519877227413734",
-      "translated": "我们可能正处于熊市，但有很多钱在寻找投资对象。🤷‍♂️"
+      "published_at": "Sat, 01 Aug 2026 18:32:00 GMT",
+      "content": "The thing is, with self custody, devs patching the bug won't fix previously generated wallets. And devs have no way to reach users on air-gapped devices. Your wallet stays open to hackers until you act. I'm a believer in self custody, but it puts the burden on you.",
+      "url": "https://x.com/cz_binance/status/2083621786005152101",
+      "tweet_id": "2083621786005152101",
+      "translated": "问题是，通过自我托管，开发人员修补错误不会修复以前生成的钱包。而且开发人员无法接触到气隙设备上的用户。在您采取行动之前，您的钱包将一直向黑客敞开。我相信自我监护，但这会给你带来负担。"
     },
     {
-      "id": "tweet_cz_binance_2083516855160045624",
+      "id": "tweet_cz_binance_2083211190843699314",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
-      "published_at": "Sat, 01 Aug 2026 11:35:02 GMT",
-      "content": "The guy is basically a scammer. Stay SAFU!",
-      "url": "https://x.com/cz_binance/status/2083516855160045624",
-      "tweet_id": "2083516855160045624",
-      "translated": "这家伙基本上就是个骗子。保持安全！"
+      "published_at": "Fri, 31 Jul 2026 15:20:26 GMT",
+      "content": "RT by @cz_binance: 代币化资产七月链上交易量暴涨288% bStocks直接断崖领先达到94.1亿美元 占比83.3% 可以说是bStocks带来了整个赛道的繁荣发展 大量资金涌入BNB Chain 也会带动生态繁荣发展 @cz_binance @heyibinance @BNBCHAINZH $FOMA",
+      "url": "https://x.com/cz_binance/status/2083211190843699314",
+      "tweet_id": "2083211190843699314"
     },
     {
-      "id": "tweet_cz_binance_2083446448461606930",
+      "id": "tweet_cz_binance_2083618864597025010",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
-      "published_at": "Sat, 01 Aug 2026 06:55:16 GMT",
-      "content": "Even hardware wallets can have bugs. Even old wallets (with long history) can have bugs. How to mitigate? Split your funds in a few wallets maybe? This has a different set of risks. Nothing is 100%. Stay informed. Stay SAFU!",
-      "url": "https://x.com/cz_binance/status/2083446448461606930",
-      "tweet_id": "2083446448461606930",
-      "translated": "即使是硬件钱包也可能存在错误。即使是旧钱包（历史悠久）也可能存在错误。如何缓解？也许可以将您的资金分散到几个钱包中？这有一系列不同的风险。没有什么是 100% 的。随时了解情况。保持安全！"
+      "published_at": "Sat, 01 Aug 2026 18:20:23 GMT",
+      "content": "This is sad! You may or may not know, @TrustWallet faced this exact same bug years ago, a pseudo-random number generator, ie, not truly random, $12m in losses. They covered every user. Software will always have bugs. What matters is who’s behind it.",
+      "url": "https://x.com/cz_binance/status/2083618864597025010",
+      "tweet_id": "2083618864597025010",
+      "translated": "这很悲哀！您可能知道，也可能不知道，@TrustWallet 几年前也遇到过同样的错误，一个伪随机数生成器，即不是真正随机的，损失了 1200 万美元。他们覆盖了每一个用户。软件总会有错误。重要的是背后是谁。"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
