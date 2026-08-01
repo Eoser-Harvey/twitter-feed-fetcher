@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-08-01T20:12:40.648705+00:00",
+  "fetched_at": "2026-08-01T21:59:32.979837+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2083658315582632272",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 01 Aug 2026 20:57:09 GMT",
+      "content": "The Moon base will be even more epic",
+      "url": "https://x.com/elonmusk/status/2083658315582632272",
+      "tweet_id": "2083658315582632272",
+      "translated": "月球基地将更加史诗般"
+    },
     {
       "id": "tweet_elonmusk_2083595725552734528",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2083595079357239628",
       "tweet_id": "2083595079357239628",
       "translated": "确切地"
-    },
-    {
-      "id": "tweet_elonmusk_2083585386022862876",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 01 Aug 2026 16:07:21 GMT",
-      "content": "RT by @elonmusk: A friend of mine said that we should welcome illegal immigrants, so long as they don’t live near her. She’s now a former friend. My mom used to say, you cannot argue with stupid or crazy people. Her quote is in my new book. I still try, but without success.",
-      "url": "https://x.com/elonmusk/status/2083585386022862876",
-      "tweet_id": "2083585386022862876",
-      "translated": "RT @elonmusk：我的一个朋友说我们应该欢迎非法移民，只要他们不住在她附近。她现在是以前的朋友了。我妈妈常说，你不能与愚蠢或疯狂的人争论。她的引言出现在我的新书中。我仍在尝试，但没有成功。"
     },
     {
       "id": "tweet_cz_binance_2083621786005152101",
@@ -232,6 +232,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
