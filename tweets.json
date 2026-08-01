@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-01T10:43:37.892409+00:00",
+  "fetched_at": "2026-08-01T12:04:45.659904+00:00",
   "total": 24,
   "tweets": [
     {
@@ -32,6 +32,26 @@
       "tweet_id": "2083433190941691982"
     },
     {
+      "id": "tweet_cz_binance_2083519877227413734",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sat, 01 Aug 2026 11:47:03 GMT",
+      "content": "We might be in a bear market, but there is a lot of money looking for things to invest in. 🤷‍♂️",
+      "url": "https://x.com/cz_binance/status/2083519877227413734",
+      "tweet_id": "2083519877227413734",
+      "translated": "我们可能正处于熊市，但有很多钱在寻找投资对象。🤷‍♂️"
+    },
+    {
+      "id": "tweet_cz_binance_2083516855160045624",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sat, 01 Aug 2026 11:35:02 GMT",
+      "content": "The guy is basically a scammer. Stay SAFU!",
+      "url": "https://x.com/cz_binance/status/2083516855160045624",
+      "tweet_id": "2083516855160045624",
+      "translated": "这家伙基本上就是个骗子。保持安全！"
+    },
+    {
       "id": "tweet_cz_binance_2083446448461606930",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
@@ -40,26 +60,6 @@
       "url": "https://x.com/cz_binance/status/2083446448461606930",
       "tweet_id": "2083446448461606930",
       "translated": "即使是硬件钱包也可能存在错误。即使是旧钱包（历史悠久）也可能存在错误。如何缓解？也许可以将您的资金分散到几个钱包中？这有一系列不同的风险。没有什么是 100% 的。随时了解情况。保持安全！"
-    },
-    {
-      "id": "tweet_cz_binance_2083186083827732549",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Fri, 31 Jul 2026 13:40:40 GMT",
-      "content": "RT by @cz_binance: This is why I recommend #Binance for beginners and experienced users → Passkeys → 2FA → Withdrawal whitelist → Anti phishing code → Login confirmations → Risk detection For self custody I recommend @TrustWallet Wallet Security is all about layers not just one device",
-      "url": "https://x.com/cz_binance/status/2083186083827732549",
-      "tweet_id": "2083186083827732549",
-      "translated": "RT by @cz_binance：这就是为什么我向初学者和有经验的用户推荐 #Binance → 密钥 → 2FA → 提款白名单 → 反网络钓鱼代码 → 登录确认 → 风险检测 对于自我保管，我建议 @TrustWallet 钱包安全是层层的，而不仅仅是一台设备"
-    },
-    {
-      "id": "tweet_cz_binance_2083130561141645618",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Fri, 31 Jul 2026 10:00:03 GMT",
-      "content": "Free passport for swimmers. 😁",
-      "url": "https://x.com/cz_binance/status/2083130561141645618",
-      "tweet_id": "2083130561141645618",
-      "translated": "游泳者免费护照。 😁"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
