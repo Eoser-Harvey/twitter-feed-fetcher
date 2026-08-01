@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-07-31T23:04:03.302529+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-01T02:56:47.867632+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2083372850505781361",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 01 Aug 2026 02:02:49 GMT",
+      "content": "Grok Build improvements http://X.ai/cli",
+      "url": "https://x.com/elonmusk/status/2083372850505781361",
+      "tweet_id": "2083372850505781361",
+      "translated": "Grok 构建改进 http://X.ai/cli"
+    },
+    {
+      "id": "tweet_elonmusk_2083371052067860671",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 01 Aug 2026 01:55:40 GMT",
+      "content": "Video",
+      "url": "https://x.com/elonmusk/status/2083371052067860671",
+      "tweet_id": "2083371052067860671",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_elonmusk_2083369385616421314",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 01 Aug 2026 01:49:03 GMT",
+      "content": "Try @Grok Build http://X.ai/cli",
+      "url": "https://x.com/elonmusk/status/2083369385616421314",
+      "tweet_id": "2083369385616421314",
+      "translated": "尝试@Grok Build http://X.ai/cli"
+    },
     {
       "id": "tweet_cz_binance_2083186083827732549",
       "username": "cz_binance",
@@ -62,6 +92,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2083324920214536208",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 31 Jul 2026 22:52:21 GMT",
+      "content": "The media framing and X reactions around Leopold are egregious. Framing his successful multi-year thesis from $SNDK to $BE as a \"collapse\" or \"failure\". After July's surprising crash, then personally attacking him on top is just pathetic to witness. It's almost like everyone is cheering for the downfall of others. Yes, July's crash exposed problems with SA’s leverage, liquidity management, and hedging. But his current YTD performance remains +80%, ranking among the best performing hedge funds. And he still has public equities after all this (just removed leverage). I think he's doing something unique while being successful at it. And this draws the envy of others.",
+      "url": "https://x.com/aleabitoreddit/status/2083324920214536208",
+      "tweet_id": "2083324920214536208",
+      "translated": "围绕利奥波德的媒体报道和 X 反应令人震惊。将他从 $SNDK 到 $BE 的成功多年论文视为“崩溃”或“失败”。在七月出人意料的车祸之后，再对他进行人身攻击，这真是可悲的见证。几乎每个人都在为别人的垮台而欢呼。是的，7 月份的崩盘暴露了 SA 的杠杆、流动性管理和对冲方面的问题。但他目前的年初至今业绩仍保持+80%，跻身表现最佳的对冲基金之列。在这一切之后，他仍然拥有公共股票（只是删除了杠杆）。我认为他在成功的同时也在做一些独特的事情。这引起了其他人的羡慕。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2083270545320386734",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -80,16 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2083225872207937687",
       "tweet_id": "2083225872207937687",
       "translated": "$RDDT ER 简而言之：收入：8.049 亿美元 vs. 7.304 亿美元（预期）。每股收益：1.25 美元 vs. 0.95 美元。净利润：2.528 亿美元 vs. 1.965 亿美元 第三季度指导：收入：860-87000 万美元 vs. 8.291 亿美元 调整后 EBITDA：385-3950 万美元 vs. 3.69 亿美元 财务井喷，市场总是喜欢用一些新的 BS 叙述来解释下降 22.6%。上个季度：“人工智能将扰乱 Reddit，导致收入损失！”本季度：“看，DAU 下降了 0.6%！” （收益忽略任何收入/盈利增长）"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2083133191112843575",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 31 Jul 2026 10:10:30 GMT",
-      "content": "Just a TLDR of this week: Media: Hyperscalers overbuilt and are selling excess compute. -> $GOOGL, $MSFT, $META, and $AMZN: Demand for compute far exceeds capacity. Capex go brrr. Institutions: Emergency rate hike or 3x rate hikes, it's all over. -> Kevin Warsh: No rate Hike. Retail/Media: AI is crashing because it's a bubble. -> Citadel looking to buy AI leveraged hedge funds positions: 👀 Jim Cramer: Sell all your leveraged DC stocks. -> Koreans: SK Hynix +30%, Samsung +26.81%",
-      "url": "https://x.com/aleabitoreddit/status/2083133191112843575",
-      "tweet_id": "2083133191112843575",
-      "translated": "本周的长篇大论：媒体：超大规模企业过度建设并正在出售多余的计算。 -> $GOOGL、$MSFT、$META 和 $AMZN：计算需求远远超过容量。资本支出继续增长。机构：紧急加息或者加息3倍，就完了。 -> Kevin Warsh：不加息。零售/媒体：人工智能正在崩溃，因为它是一个泡沫。 -> Citadel 希望购买 AI 杠杆对冲基金头寸：👀 Jim Cramer：出售所有杠杆 DC 股票。 ->韩国人：SK海力士+30%，三星+26.81%"
     },
     {
       "id": "tweet_qinbafrank_2083185986616357116",
@@ -173,36 +203,37 @@
       "tweet_id": "2082499866413126004"
     },
     {
-      "id": "tweet_hibtc37_2083220887193670015",
+      "id": "tweet_hibtc37_2083366326308073557",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Fri, 31 Jul 2026 15:58:58 GMT",
-      "content": "都毁灭吧！韩国杠杆又回到历史高位，散户迟早又被轮奸！ 韩国的资金消灭一部分，中国的资金不让买入只卖出，中东的资金该买入都买了，日本的资金因为汇率上升正在大量撤出……而且中国的技术在各行业疯狂追赶美国，这样会导致很多行业的估值重估，特斯拉就最近的一个了 结合纳指技术面，周线级别调整，可能真的才刚开始，这半年指数光靠AI的投资驱动撑着了吧 大饼还差一个黑天鹅暴跌，这轮黑天鹅会不会是美股整体崩一波呢？或者日本加息和汇率带来新的流动性危机？ 你认为后面半年，可能有哪些黑天鹅呢？",
-      "url": "https://x.com/hibtc37/status/2083220887193670015",
-      "tweet_id": "2083220887193670015"
+      "published_at": "Sat, 01 Aug 2026 01:36:53 GMT",
+      "content": "从华尔街用尽一切办法围猎这位年轻的AI股神，就知道这些机构多么凶残和贪婪了，骗骗韭菜还是他们日常，burry被干爆可能是下一个目标，然后再套一波广大韭菜们20年",
+      "url": "https://x.com/hibtc37/status/2083366326308073557",
+      "tweet_id": "2083366326308073557"
     },
     {
-      "id": "tweet_hibtc37_2083201072311758863",
+      "id": "tweet_hibtc37_2082209249464357213",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Fri, 31 Jul 2026 14:40:14 GMT",
-      "content": "现在币圈流动性极差，十亿哥这体量，已经成为围猎的对象了，这市场很难找的出一个点位上挂超过一亿的流动性了，很多时候我看到主力为了吃3000万的流动性都要扎针和画门，所以，十亿哥中长期看多，在行业流动性恢复之前，和他反着走，胜率高，他这两次止损，至少亏了120BTC了，700多万刀",
-      "url": "https://x.com/hibtc37/status/2083201072311758863",
-      "tweet_id": "2083201072311758863"
+      "published_at": "Tue, 28 Jul 2026 20:59:05 GMT",
+      "content": "RT by @hibtc37: We’re honored to announce that SpiderPool CEO Li HanQiang has been invited by the organizers as an official speaker at Blockchain Life 2026. 📅 Date: December 1–2, 2026 📍 Venue: Festival Arena, Dubai Festival City, Dubai, UAE Join us as Li HanQiang @hibtc37 shares SpiderPool’s latest insights on Bitcoin mining, infrastructure. We look forward to meeting industry leaders, partners, and miners from around the world in Dubai. 🎟️ Secure your ticket and join us: https://blockchain-life.com/?utm_source=speaker&utm_medium=referral&utm_campaign=SpiderPool#tickets-row See you at Blockchain Life 2026! 🔥 #BlockchainLife2026 #SpiderPool #Bitcoin #Mining #Crypto #Web3 #Dubai",
+      "url": "https://x.com/hibtc37/status/2082209249464357213",
+      "tweet_id": "2082209249464357213",
+      "translated": "RT by @hibtc37：我们很荣幸地宣布，SpiderPool 首席执行官李汉强受主办方邀请，担任 Blockchain Life 2026 的官方演讲嘉宾。 📅 日期：2026 年 12 月 1-2 日 📍 地点：阿联酋迪拜迪拜节日城 Festival Arena，与我们一起李汉强 @hibtc37 分享 SpiderPool 关于比特币挖矿、基础设施的最新见解。我们期待在迪拜与来自世界各地的行业领导者、合作伙伴和矿工见面。 🎟️ 获取您的门票并加入我们：https://blockchain-life.com/?utm_source=speaker&utm_medium=referral&utm_campaign=SpiderPool#tickets-row 区块链生活 2026 年见！ 🔥 #BlockchainLife2026 #SpiderPool #Bitcoin #Mining #Crypto #Web3 #Dubai"
     },
     {
-      "id": "tweet_hibtc37_2083130059691593893",
+      "id": "tweet_hibtc37_2083346454333231298",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Fri, 31 Jul 2026 09:58:03 GMT",
-      "content": "我现在玩合约都不焦虑，设定止损，该干嘛干嘛，无痛开单，那我就不是投机了？但这实际就是一种赌的策略和投机策略。不管投资还是投机，EV正是核心，把一件不确定性的事情，做成确定性，就不会焦虑",
-      "url": "https://x.com/hibtc37/status/2083130059691593893",
-      "tweet_id": "2083130059691593893"
+      "published_at": "Sat, 01 Aug 2026 00:17:56 GMT",
+      "content": "美股资金回流大科技，这是一个信号，很明显资金从半导体撤出了 下周是这波半导体反弹的分水岭，如果是牛市，会在一周内创新高或者最低要求是突破所有均线接近历史高点，牛市不会在低价停留太久，一定是快速离开回调的底部。新高很难，光 $MU回到高点要拉54%，SNDK快要翻倍才可以，我认为主力没有动力给大家解套，尤其是 $SNDK 如果是熊市反弹完，会继续下杀，再破200日线，SNDK下杀目标是500-550，MU下杀目标是400，MU迟早会补跌，现在的位置盈亏比非常差 存王粉，注意风险吧，这走势很像白银走势，你们可以看看白银走势，刻舟下，如果被套了，波段一下，把成本做低，做着做着说不定你对仓位没有执念了，一旦熊市也能及时逃命，这一套要20年，先想清楚最坏的情况 最美的故事套最多的人，就提醒到这了",
+      "url": "https://x.com/hibtc37/status/2083346454333231298",
+      "tweet_id": "2083346454333231298"
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
-    "nitter_healthy": 10
+    "users_success": 8,
+    "users_failed": 0,
+    "nitter_healthy": 9
   }
 }
