@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-08-01T16:03:35.681954+00:00",
+  "fetched_at": "2026-08-01T18:03:37.618800+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2083568773294911788",
+      "id": "tweet_elonmusk_2083595725552734528",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 01 Aug 2026 15:01:21 GMT",
-      "content": "Grok 4.5 is Pareto #1 when considering speed & cost",
-      "url": "https://x.com/elonmusk/status/2083568773294911788",
-      "tweet_id": "2083568773294911788",
-      "translated": "考虑到速度和成本时，Grok 4.5 是 Pareto #1"
+      "published_at": "Sat, 01 Aug 2026 16:48:26 GMT",
+      "content": "A special effect like this used to take months of effort by a specialized company",
+      "url": "https://x.com/elonmusk/status/2083595725552734528",
+      "tweet_id": "2083595725552734528",
+      "translated": "以前像这样的特效需要专业公司花费数月的时间才能完成"
     },
     {
-      "id": "tweet_elonmusk_2083435949187367406",
+      "id": "tweet_elonmusk_2083595079357239628",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 01 Aug 2026 06:13:33 GMT",
-      "content": "They are far along the road to extinction",
-      "url": "https://x.com/elonmusk/status/2083435949187367406",
-      "tweet_id": "2083435949187367406",
-      "translated": "他们已经远离了灭亡之路"
+      "published_at": "Sat, 01 Aug 2026 16:45:52 GMT",
+      "content": "Exactly",
+      "url": "https://x.com/elonmusk/status/2083595079357239628",
+      "tweet_id": "2083595079357239628",
+      "translated": "确切地"
     },
     {
-      "id": "tweet_elonmusk_2083433406998663647",
+      "id": "tweet_elonmusk_2083585386022862876",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 01 Aug 2026 06:03:27 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2083433406998663647",
-      "tweet_id": "2083433406998663647",
-      "translated": "视频"
+      "published_at": "Sat, 01 Aug 2026 16:07:21 GMT",
+      "content": "RT by @elonmusk: A friend of mine said that we should welcome illegal immigrants, so long as they don’t live near her. She’s now a former friend. My mom used to say, you cannot argue with stupid or crazy people. Her quote is in my new book. I still try, but without success.",
+      "url": "https://x.com/elonmusk/status/2083585386022862876",
+      "tweet_id": "2083585386022862876",
+      "translated": "RT @elonmusk：我的一个朋友说我们应该欢迎非法移民，只要他们不住在她附近。她现在是以前的朋友了。我妈妈常说，你不能与愚蠢或疯狂的人争论。她的引言出现在我的新书中。我仍在尝试，但没有成功。"
     },
     {
       "id": "tweet_cz_binance_2083519877227413734",
@@ -176,6 +176,15 @@
       "tweet_id": "2083481209561141749"
     },
     {
+      "id": "tweet_xingpt_2083604514968678607",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Sat, 01 Aug 2026 17:23:22 GMT",
+      "content": "感谢okx 邀请参加曼城的活动，包厢看球体验也是高大上了！ 没见到哈兰德，但是见到了福登，马雷斯卡（马嗨），多纳鲁马，格瓦迪奥尔！ OKX在传统领域合规影响越来越大了！ @mia_okx @Mercy_okx @Haiteng_okx",
+      "url": "https://x.com/xingpt/status/2083604514968678607",
+      "tweet_id": "2083604514968678607"
+    },
+    {
       "id": "tweet_xingpt_2082836205796982957",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -192,15 +201,6 @@
       "content": "大多数标的在MA200处得到了支撑，今天反弹还是反转不能一概而论了，看趋势和业绩好的会接一点",
       "url": "https://x.com/xingpt/status/2082825283711971346",
       "tweet_id": "2082825283711971346"
-    },
-    {
-      "id": "tweet_xingpt_2082499866413126004",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 29 Jul 2026 16:13:53 GMT",
-      "content": "币圈炒美股的人眼睛里的美股只有存储板块，因为锚定效应，在存储上的车，亏的钱，就想在存储上赚回来。 炒币思维就很简单，盯着比特币以太几个主流币高抛低吸就行，叠加一些情绪波动和技术指标。 所以问题不在于这个点位该不该抄底，而是为什么就非盯着存储一个板块",
-      "url": "https://x.com/xingpt/status/2082499866413126004",
-      "tweet_id": "2082499866413126004"
     },
     {
       "id": "tweet_hibtc37_2083493748756173303",
