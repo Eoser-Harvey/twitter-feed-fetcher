@@ -1,33 +1,36 @@
 {
-  "fetched_at": "2026-08-01T23:03:36.741644+00:00",
+  "fetched_at": "2026-08-02T02:55:35.415614+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2083658315582632272",
+      "id": "tweet_elonmusk_2083656620576231556",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 01 Aug 2026 20:57:09 GMT",
-      "content": "The Moon base will be even more epic",
-      "url": "https://x.com/elonmusk/status/2083658315582632272",
-      "tweet_id": "2083658315582632272"
+      "published_at": "Sat, 01 Aug 2026 20:50:25 GMT",
+      "content": "RT by @elonmusk: Thank you, @cursor_ai, for providing free credits to several FFmpeg developers. These credits will support their ongoing work on FFmpeg, including development and code review. We greatly appreciate Cursor’s support for FFmpeg and its community.",
+      "url": "https://x.com/elonmusk/status/2083656620576231556",
+      "tweet_id": "2083656620576231556",
+      "translated": "RT @elonmusk：谢谢 @cursor_ai，为几位 FFmpeg 开发人员提供免费积分。这些积分将支持他们正在进行的 FFmpeg 工作，包括开发和代码审查。我们非常感谢 Cursor 对 FFmpeg 及其社区的支持。"
     },
     {
-      "id": "tweet_elonmusk_2083595725552734528",
+      "id": "tweet_elonmusk_2083552831542370314",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 01 Aug 2026 16:48:26 GMT",
-      "content": "A special effect like this used to take months of effort by a specialized company",
-      "url": "https://x.com/elonmusk/status/2083595725552734528",
-      "tweet_id": "2083595725552734528"
+      "published_at": "Sat, 01 Aug 2026 13:58:00 GMT",
+      "content": "RT by @elonmusk: I would like to see a steampunk-style film",
+      "url": "https://x.com/elonmusk/status/2083552831542370314",
+      "tweet_id": "2083552831542370314",
+      "translated": "RT @elonmusk：我想看一部蒸汽朋克风格的电影"
     },
     {
-      "id": "tweet_elonmusk_2083595079357239628",
+      "id": "tweet_elonmusk_2083624518862684644",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Sat, 01 Aug 2026 16:45:52 GMT",
-      "content": "Exactly",
-      "url": "https://x.com/elonmusk/status/2083595079357239628",
-      "tweet_id": "2083595079357239628"
+      "published_at": "Sat, 01 Aug 2026 18:42:51 GMT",
+      "content": "RT by @elonmusk: Starlink enables fast, reliable connectivity where traditional infrastructure does not exist 🛰️🏔️",
+      "url": "https://x.com/elonmusk/status/2083624518862684644",
+      "tweet_id": "2083624518862684644",
+      "translated": "@elonmusk 的 RT：Starlink 在传统基础设施不存在的地方实现快速、可靠的连接🛰️🏔️"
     },
     {
       "id": "tweet_cz_binance_2083621786005152101",
@@ -36,7 +39,8 @@
       "published_at": "Sat, 01 Aug 2026 18:32:00 GMT",
       "content": "The thing is, with self custody, devs patching the bug won't fix previously generated wallets. And devs have no way to reach users on air-gapped devices. Your wallet stays open to hackers until you act. I'm a believer in self custody, but it puts the burden on you.",
       "url": "https://x.com/cz_binance/status/2083621786005152101",
-      "tweet_id": "2083621786005152101"
+      "tweet_id": "2083621786005152101",
+      "translated": "问题是，通过自我托管，开发人员修补错误不会修复以前生成的钱包。而且开发人员无法接触到气隙设备上的用户。在您采取行动之前，您的钱包将一直向黑客敞开。我相信自我监护，但这会给你带来负担。"
     },
     {
       "id": "tweet_cz_binance_2083211190843699314",
@@ -54,7 +58,8 @@
       "published_at": "Sat, 01 Aug 2026 18:20:23 GMT",
       "content": "This is sad! You may or may not know, @TrustWallet faced this exact same bug years ago, a pseudo-random number generator, ie, not truly random, $12m in losses. They covered every user. Software will always have bugs. What matters is who’s behind it.",
       "url": "https://x.com/cz_binance/status/2083618864597025010",
-      "tweet_id": "2083618864597025010"
+      "tweet_id": "2083618864597025010",
+      "translated": "这很悲哀！您可能知道，也可能不知道，@TrustWallet 几年前也遇到过同样的错误，一个伪随机数生成器，即不是真正随机的，损失了 1200 万美元。他们覆盖了每一个用户。软件总会有错误。重要的是背后是谁。"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
@@ -63,7 +68,8 @@
       "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
       "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
       "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
-      "tweet_id": "2082159711852298494"
+      "tweet_id": "2082159711852298494",
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -81,7 +87,8 @@
       "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
       "content": "Video",
       "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832"
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2083438823548293140",
@@ -90,7 +97,8 @@
       "published_at": "Sat, 01 Aug 2026 06:24:58 GMT",
       "content": "$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs: Is facing a more severe supply chain crisis than memory. And with Lumentum's 5 InP fabs, shipments would be more than 30%+ below customer demand. This is especially visible with EMLs today but is already expanding to CW, especially as CPO ramps. I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation.",
       "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
-      "tweet_id": "2083438823548293140"
+      "tweet_id": "2083438823548293140",
+      "translated": "$LITE首席执行官Michael Hurlston在RAISE峰会上警告称，AI DC用InP激光器的供应缺口：正面临比内存更严重的供应链危机。凭借 Lumentum 的 5 座 InP 晶圆厂，出货量将比客户需求低 30% 以上。这在今天的 EML 中尤其明显，但已经扩展到 CW，尤其是随着 CPO 的增加。我一直是 $AAOI、$SIVE、$LITE 和 $COHR 激光阻塞点 + 瓶颈的粉丝。很高兴这篇论文开始得到验证。"
     },
     {
       "id": "tweet_aleabitoreddit_2083324920214536208",
@@ -99,7 +107,8 @@
       "published_at": "Fri, 31 Jul 2026 22:52:21 GMT",
       "content": "The media framing and X reactions around Leopold are egregious. Framing his successful multi-year thesis from $SNDK to $BE as a \"collapse\" or \"failure\". After July's surprising crash, then personally attacking him on top is just pathetic to witness. It's almost like everyone is cheering for the downfall of others. Yes, July's crash exposed problems with SA’s leverage, liquidity management, and hedging. But his current YTD performance remains +80%, ranking among the best performing hedge funds. And he still has public equities after all this (just removed leverage). I think he's doing something unique while being successful at it. And this draws the envy of others.",
       "url": "https://x.com/aleabitoreddit/status/2083324920214536208",
-      "tweet_id": "2083324920214536208"
+      "tweet_id": "2083324920214536208",
+      "translated": "围绕利奥波德的媒体报道和 X 反应令人震惊。将他从 $SNDK 到 $BE 的成功多年论文视为“崩溃”或“失败”。在七月出人意料的车祸之后，再对他进行人身攻击，这真是可悲的见证。几乎每个人都在为别人的垮台而欢呼。是的，7 月份的崩盘暴露了 SA 的杠杆、流动性管理和对冲方面的问题。但他目前的年初至今业绩仍保持+80%，跻身表现最佳的对冲基金之列。在这一切之后，他仍然拥有公共股票（只是删除了杠杆）。我认为他在成功的同时也在做一些独特的事情。这引起了其他人的羡慕。"
     },
     {
       "id": "tweet_aleabitoreddit_2083270545320386734",
@@ -108,7 +117,17 @@
       "published_at": "Fri, 31 Jul 2026 19:16:17 GMT",
       "content": "As a earnings recap: $AMZN, $META, $GOOGL, and $MSFT guided a 2026 combined capex forecast to ~$720-$745 Billion. Up from $695-$725B Billion previously. Amazon: $220B Google: $195B-$205B Meta: $130B-$145B Microsoft: $175B We've already seen significant deleveraging and retail/institutional margin liquidations (maybe it continues for more time, who knows). But medium-long term, I'm not quite sure how anyone can be bearish the upstream semis or neoclouds. Given each hyperscaler has flagged either compute shortages, rising cloud demand + pricing power, or increased spending for chips/networking. My \"bottleneck\" thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory (which were both treated as cheap commodities) or even energy. Lot of these current AI names that were treated as useless before in telecom cycles or even toilet sellers. Gets rerated when their inflection period hits and capex flows into their balance sheets. As seen with $NVDA GPUs past few years, memory this year, CPUs/MLCCs next few years, CPO in 2027, Glass Substrates in 2027, 800V in 2027, and so on.",
       "url": "https://x.com/aleabitoreddit/status/2083270545320386734",
-      "tweet_id": "2083270545320386734"
+      "tweet_id": "2083270545320386734",
+      "translated": "作为收益回顾：$AMZN、$META、$GOOGL 和 $MSFT 指导 2026 年合并资本支出预测约为 720-7450 亿美元。高于之前的 695-7250 亿美元。亚马逊：$220B 谷歌：$195B-$205B 元：$130B-$145B 微软：$175B 我们已经看到了重大的去杠杆化和零售/机构保证金清算（也许这种情况会持续更长时间，谁知道呢）。但从中长期来看，我不太确定怎么会有人看跌上游半成品或新云。鉴于每个超大规模企业都指出了计算短缺、云需求和定价能力不断上升，或者芯片/网络支出增加的情况。我对许多上游半供应链的“瓶颈”论点是，当数万亿资本从 InP 衬底或内存（两者都被视为廉价商品）甚至能源流入事物时。许多当前的人工智能名称以前在电信行业甚至厕所销售商中被视为无用。当他们的拐点到来并且资本支出流入他们的资产负债表时，就会被重新评级。正如过去几年的 NVDA GPU、今年的内存、未来几年的 CPU/MLCC、2027 年的 CPO、2027 年的玻璃基板、2027 年的 800V 等等。"
+    },
+    {
+      "id": "tweet_qinbafrank_2083740064971121009",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sun, 02 Aug 2026 02:22:00 GMT",
+      "content": "正在写美国威胁要在周末对伊朗大规模打击对市场的影响，这想着局势越紧张也可能临近缓和。就看到了川普这条推文“称收到伊朗请求暂缓攻击，同意取消对伊打击以换取协议。” 局势变化已经比我的思绪还快😓，静观后效。",
+      "url": "https://x.com/qinbafrank/status/2083740064971121009",
+      "tweet_id": "2083740064971121009"
     },
     {
       "id": "tweet_qinbafrank_2083570910855090423",
@@ -127,15 +146,6 @@
       "content": "沃什想让美联储少说、少开会、少干预市场；但在早期沟通越少，市场可能会想的越多。看报道沃什在本周向美联储同事们提出沃什正在考虑减少定期召开政策会议的次数。现在美联储每年召开8次会议（大致每六周一次），每次会后都将发布利率决议。如果沃什的这一想法得到落实，将打破近自沃克尔时期半个世纪以来的惯例。 沃什在联储内部讨论的是从目前的8次减少到6次（或其他低于8次的数字），联邦储备法规定的最低是一年4次。26年的日程应该不会有变化。 怎么说呢？这个改变有好有坏 好的方面： 1）自然减少对短期噪音数据的过度反应，更少会议可避免美联储对月度通胀、就业等波动数据过于敏感，促进更长期、更深思熟虑的政策视角； 2）迫使市场把注意力从某一个月的数据，拉回更长周期的通胀与经济趋势。因为会议越多，交易员越容易围绕每一个日期押注降息、加息或暂停。当前美联储每六周召开一次会议，市场会不断审视一个月数据是否会影响“加息或者降息”，不断追问这份CPI会不会改变下次决议？这次非农会不会触发加息？股市下跌是否会迫使美联储转向？美联储越来越像一个“实时客服”，被迫对短期的事件作出回应。 符合沃什希望“市场先说话、美联储再学习”的思路。 其实英格兰银行在沃什2014年审查后将会议从12次减至8次，部分原因是减轻准备负担、减少“货币新闻事件”造成的市场躁动。 坏的方面： 1）首当其冲就是会议次数减少意味着政策声明、纪要（会后3周发布）和相关信号更少，市场和公众获取美联储思路的信息量下降，逆转了过去几十年向更高透明度发展的趋势。这可能推高利率风险溢价、增加不确定性。 2）响应速度降低，会议间隔拉长后，美联储对通胀或劳动力市场快速变化的反应可能变慢。虽然紧急会议仍可用，但历史上这些通常只在危机时启动，日常调整会更依赖既定日程。 但换一个角度会议越少，每次会议的分量越重，市场波动反而越大。市场可能不会停止猜测，反而猜测会更多、预期波动可能也会更大。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
       "url": "https://x.com/qinbafrank/status/2083454430628962628",
       "tweet_id": "2083454430628962628"
-    },
-    {
-      "id": "tweet_qinbafrank_2083430631145656502",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sat, 01 Aug 2026 05:52:25 GMT",
-      "content": "看了Leopold的公开信，主观感受就是他应该会很快东山再起的。虽然他的基金7月净业绩为-67%，但年初到现在净业绩为+80%，意思为经过了大幅回撤后今年年内还赚了80%。主要看到了一种非常可贵的特质：就是足够果断和坚决，当看到公开市场上与他们有关联的股票出现越来越不利的交易走势，就立马采取果断行动。虽然大幅回撤，但他的LP还是都是巨赚（毕竟才半年还有80%的收益、要是更早投资去年收益应该更加客观）。 如果Leopold能做到他公开信里说的，绝不会浪费从这些事件中吸取教训的机会。在其投资公司内部做好变革，在投资组合管理、风险团队、以及警觉性和风险纪律等层面上更进一步的话，以他对行业的洞察力和预见性，之后大概率能进入一个新境界。 经历这么大挫折还能让投资人赚钱，又有远超同行的洞察力，如果汲取这次经验和教训，未来真不可小觑。",
-      "url": "https://x.com/qinbafrank/status/2083430631145656502",
-      "tweet_id": "2083430631145656502"
     },
     {
       "id": "tweet_xiaomustock_2083485858909528143",
@@ -192,6 +202,15 @@
       "tweet_id": "2082825283711971346"
     },
     {
+      "id": "tweet_hibtc37_2083733550281654409",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Sun, 02 Aug 2026 01:56:06 GMT",
+      "content": "分歧很大。我认同长期投资的估值逻辑，这也要建立在长期/长周期的基础下。 但存储周期股的周期是无法忽视的风险，超级周期也是周期，大资本的开支也是周期性的，AI的基建也是阶段性的，投资驱动一个行业也是周期的，新行业新物种也是遵循萌芽-泡沫-泡沫破裂-重生的周期……这些共同点都是周期都非常短。如果你用长期的钱，投资短周期的标的，这是错配的。 如果半导体已经成熟到像水电煤腾讯微信这种基础设施级别，我认为股价会围绕估值长期波动是合逻辑的，并且半导体行业也会诞生这样的公司，但会是存储吗？这种周期股+反抛物线/90度上涨，股价先跑到几年后的估值的价格，再谈按照长期投资估值逻辑来看，我现在还不能说你完全错，但这风险非常高。 而且HBM的扩产能速度，会超过所有媒体的噪音文所宣传的速度，这点是切切实实的风险 PS：这个贴是发给存王粉看的，主要聊存储，并不代表我不看好其他半导体股，也不代表我不看好AI，我非常看好AI，但AI也会经历泡沫破裂的必经步骤，这是行业出清毒瘤和重生的黎明",
+      "url": "https://x.com/hibtc37/status/2083733550281654409",
+      "tweet_id": "2083733550281654409"
+    },
+    {
       "id": "tweet_hibtc37_2083493748756173303",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -208,15 +227,6 @@
       "content": "$BTC 选择方向了 这样就好做了，不像之前在645-651震，上下都可以 新区间： 635 633 630市价 620 615 604 宏观收紧，流动性也收紧，主力在周末先猎杀上方流动性，再往下吃，这是利益最优路径，也是阻力最小路径，如果十亿哥在640位置继续开多，那么又要打止损了。 633是不错的位置，如果做错了，我也敢在这个位置扛单，盈亏比至少是2。我会在633、635、637三个位置分批挂单，吃到多少是多少，下区间可以作为止盈参考点 如果日元持续升值，或者其他大的风险出现，会很大概率一路击穿下区间，甚至破60k，否则大概率还是掉头回去吃我之前说的65-67k的流动性（目前还不是很确定），逼空一把 熊市后期就是杀技术流派，指标会失效，慢慢震和阴跌，一直到无人问津 走一步，看一步，一起验证，请三连键走起！",
       "url": "https://x.com/hibtc37/status/2083442563735007679",
       "tweet_id": "2083442563735007679"
-    },
-    {
-      "id": "tweet_hibtc37_2083402461273018775",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Sat, 01 Aug 2026 04:00:29 GMT",
-      "content": "RT by @hibtc37: 要看华尔街机构想不想干BURRY，这波如果走出： 1、BTC从126-103再到110，就能干他 2、震荡，长时间宽幅震荡，消耗他的时间价值，不死也一身伤 3、不断压缩波动率，这个做市商太擅长了，即使他的股价低于他行权价，他依然赚不了，或者巨亏，你看那个IV不都是历史90%分位，很多98%分位 如果做熊差，可能还稳一点，但顶不住长时间震荡和IV崩啊，如果他已经止盈，那么股价就没动力往上走逼空了，往上走，一定是逼空，有比他更大的空头，而不是给韭菜解控",
-      "url": "https://x.com/hibtc37/status/2083402461273018775",
-      "tweet_id": "2083402461273018775"
     }
   ],
   "stats": {
