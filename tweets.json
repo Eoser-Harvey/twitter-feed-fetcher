@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-08-02T17:02:42.690201+00:00",
+  "fetched_at": "2026-08-02T19:13:46.564048+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2083979613156340154",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 02 Aug 2026 18:13:52 GMT",
+      "content": "Accurate 😂",
+      "url": "https://x.com/elonmusk/status/2083979613156340154",
+      "tweet_id": "2083979613156340154",
+      "translated": "准确😂"
+    },
     {
       "id": "tweet_elonmusk_2083800942927839307",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2083800687561908662",
       "tweet_id": "2083800687561908662",
       "translated": "真的"
-    },
-    {
-      "id": "tweet_elonmusk_2083629332816429240",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 01 Aug 2026 19:01:59 GMT",
-      "content": "RT by @elonmusk: In stark contrast to what Deng did in China, up to a million North Koreans starved to death in the 1990s because their government had already banned private farming and lived off Soviet handouts. The Soviet collapse in 1991 cut the free fuel and fertilizer that had kept the whole system afloat for decades, and energy imports dropped 75% almost overnight. North Korea had fully collectivized its farms since the 1950s, so farmers held almost no private plots and had zero reason to grow more than the state’s quota. When the free inputs vanished the system had no slack left. Floods in 1995 finished off what crops remained, and the Public Distribution System that nearly the entire population relied on for food simply collapsed in large parts of the country. City rations fell from 585 grams of grain a day in 1987 to 30 grams by 1997. The regime called it the “Arduous March”. And even after Kim Il Sung died the year the famine began, his son kept the exact same centrally planned system running for the next 17 years while hundreds of thousands starved. And that is the body count of full collectivization under communism.",
-      "url": "https://x.com/elonmusk/status/2083629332816429240",
-      "tweet_id": "2083629332816429240",
-      "translated": "RT @elonmusk：与邓小平在中国所做的事情形成鲜明对比的是，在 20 世纪 90 年代，有多达 100 万朝鲜人饿死，因为他们的政府已经禁止私人农业并靠苏联的施舍过活。 1991 年苏联解体，导致整个系统维持数十年的免费燃料和化肥减少，能源进口几乎一夜之间下降了 75%。自 20 世纪 50 年代以来，朝鲜已将其农场完全集体化，因此农民几乎没有自留地，也没有理由种植超过国家配额的作物。当免费输入消失时，系统就没有余裕了。 1995 年的洪水耗尽了剩余的农作物，几乎所有人口赖以获取食物的公共分配系统在该国大部分地区崩溃了。城市口粮从1987年的每天585克下降到1997年的每天30克。政权称之为“艰苦的行军”。即使在饥荒开始的那年金日成去世后，他的儿子在接下来的 17 年里仍然保持着完全相同的中央计划系统的运行，而数十万人却在挨饿。这就是共产主义下完全集体化的死亡人数。"
     },
     {
       "id": "tweet_cz_binance_2083621786005152101",
@@ -98,7 +98,7 @@
       "content": "Trump announced that US has cancelled its attack on Iran. And that they’ve agreed to the perimeters of a deal to open the Strait and end the nuclear program. Anyone else feel like they’ve aged a few years in the past 6 months?",
       "url": "https://x.com/aleabitoreddit/status/2083760320062083406",
       "tweet_id": "2083760320062083406",
-      "translated": "特朗普宣布美国取消对伊朗的袭击。他们还同意开放海峡并结束核计划的协议。有没有人觉得自己在过去六个月里老了好几岁？"
+      "translated": "特朗普宣布美国取消对伊朗的袭击。他们还同意开放海峡并结束核计划的协议。有没有人觉得自己在过去的六个月里老了好几岁？"
     },
     {
       "id": "tweet_aleabitoreddit_2083438823548293140",
@@ -175,6 +175,24 @@
       "tweet_id": "2083484767644004434"
     },
     {
+      "id": "tweet_xingpt_2083970523843973588",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Sun, 02 Aug 2026 17:37:45 GMT",
+      "content": "云厂和Neocloud的投资逻辑，更新在了会员频道，除了云板块，我还发现Q2财报里有两个高景气的板块值得关注：https://www.patreon.com/xingpt/posts/zhe-ge-zhou-mo-165567634?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
+      "url": "https://x.com/xingpt/status/2083970523843973588",
+      "tweet_id": "2083970523843973588"
+    },
+    {
+      "id": "tweet_xingpt_2083965870561448081",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Sun, 02 Aug 2026 17:19:16 GMT",
+      "content": "很多按照交易逻辑抄底存储的人，要知道你们买的是超跌，而不是基本面反转。 Semianalysis开始曝光Rubin减配HBM规格，从 288G 12-hi降低到 192G 8-hi，降低了 33% 的规格。 预计这部分价格下降 25%-30%。 存储二阶导放缓是板上钉钉了。 之前说了：半导体投资的黄金时代已经结束https://x.com/xingpt/status/2080256446688825733?s=20",
+      "url": "https://x.com/xingpt/status/2083965870561448081",
+      "tweet_id": "2083965870561448081"
+    },
+    {
       "id": "tweet_xingpt_2083833197264265636",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -182,24 +200,6 @@
       "content": "原来EigenAI 跟Eigen Layer不是一家？",
       "url": "https://x.com/xingpt/status/2083833197264265636",
       "tweet_id": "2083833197264265636"
-    },
-    {
-      "id": "tweet_xingpt_2083604514968678607",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Sat, 01 Aug 2026 17:23:22 GMT",
-      "content": "感谢okx 邀请参加曼城的活动，包厢看球体验也是高大上了！ 没见到哈兰德，但是见到了福登，马雷斯卡（马嗨），多纳鲁马，格瓦迪奥尔！ OKX在传统领域合规影响越来越大了！ @mia_okx @Mercy_okx @Haiteng_okx",
-      "url": "https://x.com/xingpt/status/2083604514968678607",
-      "tweet_id": "2083604514968678607"
-    },
-    {
-      "id": "tweet_xingpt_2082836205796982957",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 30 Jul 2026 14:30:23 GMT",
-      "content": "现在这波反弹多的大部分都是leo哥基金平仓，空头回补，但是能不能持续还是要看业绩，哪些基本面未来的增长动力更足。",
-      "url": "https://x.com/xingpt/status/2082836205796982957",
-      "tweet_id": "2082836205796982957"
     },
     {
       "id": "tweet_hibtc37_2083938788489961916",
