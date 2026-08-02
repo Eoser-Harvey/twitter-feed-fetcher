@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-02T13:26:29.342393+00:00",
+  "fetched_at": "2026-08-02T15:05:16.787674+00:00",
   "total": 21,
   "tweets": [
     {
@@ -91,6 +91,15 @@
       "translated": "围绕利奥波德的媒体报道和 X 反应令人震惊。将他从 $SNDK 到 $BE 的成功多年论文视为“崩溃”或“失败”。在七月出人意料的车祸之后，再对他进行人身攻击，这真是可悲的见证。几乎每个人都在为别人的垮台而欢呼。是的，7 月份的崩盘暴露了 SA 的杠杆、流动性管理和对冲方面的问题。但他目前的年初至今业绩仍保持+80%，跻身表现最佳的对冲基金之列。在这一切之后，他仍然拥有公共股票（只是删除了杠杆）。我认为他在成功的同时也在做一些独特的事情。这引起了其他人的羡慕。"
     },
     {
+      "id": "tweet_qinbafrank_2083917947731578909",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sun, 02 Aug 2026 14:08:50 GMT",
+      "content": "如果按照SemiAnalysis最新报告rubin ultra的HBM降到192G了，在对内存敏感的Agentic推理、长上下文、MoE大模型场景下，192GB会比288GB更受限，那意味着其实际有效性能在部分场景会接近甚至低于vera rubin标准版。 升级版ultra rubin性能还不如标准版vera Rubin，同一模型可能需要调用更多 GPU 才能完成部署，进而增加卡间通信、模型切分与数据搬运开销，降低单卡有效利用率，并推高单位 Token 的生成成本。换句话说，GPU 产量虽然增加了，但如果每项任务需要使用更多 GPU，系统层面的算力成本未必会同步下降。升级版的逻辑也就说不通了。 是不是也就不用推Ultra版了，27年下半年继续卖vera rubin版。等28年直接再下一代Feynman架构得了。🤔",
+      "url": "https://x.com/qinbafrank/status/2083917947731578909",
+      "tweet_id": "2083917947731578909"
+    },
+    {
       "id": "tweet_qinbafrank_2083890594796257652",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -107,15 +116,6 @@
       "content": "多谢kim，今天也是学到知识了，原来香港这么多的冰室还有这样的历史缘由。历史的发展就是如此，以前高不可攀的东西以后就是唾手可得，这也是门槛降低的意义所在。",
       "url": "https://x.com/qinbafrank/status/2083881225278960042",
       "tweet_id": "2083881225278960042"
-    },
-    {
-      "id": "tweet_qinbafrank_2083844726411948297",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sun, 02 Aug 2026 09:17:53 GMT",
-      "content": "最火的ETF卖出部分三星持仓，买入长鑫。美国ETF管理机构Roundhill本周对DRAM主题基金进行重大调仓，减持三星电子，同步买入长鑫存储，这也意味着中国存储龙头首次进入美股主流DRAM投资产品。本周二、周三，Roundhill累计买入6500万股长鑫存储股票，长鑫存储在DRAM ETF中的权重迅速升至2.47%。与此同时，Roundhill周一至周三每日减持约100万股三星电子，三日合计出售300万股。",
-      "url": "https://x.com/qinbafrank/status/2083844726411948297",
-      "tweet_id": "2083844726411948297"
     },
     {
       "id": "tweet_xiaomustock_2083852712744235037",
