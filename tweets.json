@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-08-02T20:58:52.268387+00:00",
+  "fetched_at": "2026-08-02T22:01:45.573992+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2084032763280138546",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 02 Aug 2026 21:45:04 GMT",
+      "content": "The fake alive human fraud is 10 times worse in America & Europe",
+      "url": "https://x.com/elonmusk/status/2084032763280138546",
+      "tweet_id": "2084032763280138546",
+      "translated": "假活人诈骗在美国和欧洲严重十倍"
+    },
+    {
+      "id": "tweet_elonmusk_2083920891314884633",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 02 Aug 2026 14:20:32 GMT",
+      "content": "RT by @elonmusk: Spain, I’ve come to assess the situation. The West must stand strong or fall.",
+      "url": "https://x.com/elonmusk/status/2083920891314884633",
+      "tweet_id": "2083920891314884633",
+      "translated": "RT @elonmusk：西班牙，我是来评估局势的。西方必须坚强，否则就会衰落。"
+    },
     {
       "id": "tweet_elonmusk_2083979613156340154",
       "username": "elonmusk",
@@ -11,26 +31,6 @@
       "url": "https://x.com/elonmusk/status/2083979613156340154",
       "tweet_id": "2083979613156340154",
       "translated": "准确😂"
-    },
-    {
-      "id": "tweet_elonmusk_2083800942927839307",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 02 Aug 2026 06:23:54 GMT",
-      "content": "Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
-      "url": "https://x.com/elonmusk/status/2083800942927839307",
-      "tweet_id": "2083800942927839307",
-      "translated": "Grok 可以分析任何视频 https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b"
-    },
-    {
-      "id": "tweet_elonmusk_2083800687561908662",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 02 Aug 2026 06:22:53 GMT",
-      "content": "True",
-      "url": "https://x.com/elonmusk/status/2083800687561908662",
-      "tweet_id": "2083800687561908662",
-      "translated": "真的"
     },
     {
       "id": "tweet_cz_binance_2084018586541273200",
