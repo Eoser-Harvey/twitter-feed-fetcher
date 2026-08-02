@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-02T11:19:24.162269+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-02T13:26:29.342393+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2083800942927839307",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 02 Aug 2026 06:23:54 GMT",
-      "content": "Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
-      "url": "https://x.com/elonmusk/status/2083800942927839307",
-      "tweet_id": "2083800942927839307",
-      "translated": "Grok 可以分析任何视频 https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b"
-    },
-    {
-      "id": "tweet_elonmusk_2083800687561908662",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 02 Aug 2026 06:22:53 GMT",
-      "content": "True",
-      "url": "https://x.com/elonmusk/status/2083800687561908662",
-      "tweet_id": "2083800687561908662",
-      "translated": "真的"
-    },
-    {
-      "id": "tweet_elonmusk_2083629332816429240",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 01 Aug 2026 19:01:59 GMT",
-      "content": "RT by @elonmusk: In stark contrast to what Deng did in China, up to a million North Koreans starved to death in the 1990s because their government had already banned private farming and lived off Soviet handouts. The Soviet collapse in 1991 cut the free fuel and fertilizer that had kept the whole system afloat for decades, and energy imports dropped 75% almost overnight. North Korea had fully collectivized its farms since the 1950s, so farmers held almost no private plots and had zero reason to grow more than the state’s quota. When the free inputs vanished the system had no slack left. Floods in 1995 finished off what crops remained, and the Public Distribution System that nearly the entire population relied on for food simply collapsed in large parts of the country. City rations fell from 585 grams of grain a day in 1987 to 30 grams by 1997. The regime called it the “Arduous March”. And even after Kim Il Sung died the year the famine began, his son kept the exact same centrally planned system running for the next 17 years while hundreds of thousands starved. And that is the body count of full collectivization under communism.",
-      "url": "https://x.com/elonmusk/status/2083629332816429240",
-      "tweet_id": "2083629332816429240",
-      "translated": "RT @elonmusk：与邓小平在中国所做的事情形成鲜明对比的是，在 20 世纪 90 年代，有多达 100 万朝鲜人饿死，因为他们的政府已经禁止私人农业并靠苏联的施舍过活。 1991 年苏联解体，导致整个系统维持数十年的免费燃料和化肥减少，能源进口几乎一夜之间下降了 75%。自 20 世纪 50 年代以来，朝鲜已将其农场完全集体化，因此农民几乎没有自留地，也没有理由种植超过国家配额的作物。当免费输入消失时，系统就没有余裕了。 1995 年的洪水耗尽了剩余的农作物，几乎所有人口赖以获取食物的公共分配系统在该国大部分地区崩溃了。城市口粮从1987年的每天585克下降到1997年的每天30克。政权称之为“艰苦的行军”。即使在饥荒开始的那年金日成去世后，他的儿子在接下来的 17 年里仍然保持着完全相同的中央计划系统的运行，而数十万人却在挨饿。这就是共产主义下完全集体化的死亡人数。"
-    },
     {
       "id": "tweet_cz_binance_2083621786005152101",
       "username": "cz_binance",
@@ -121,6 +91,24 @@
       "translated": "围绕利奥波德的媒体报道和 X 反应令人震惊。将他从 $SNDK 到 $BE 的成功多年论文视为“崩溃”或“失败”。在七月出人意料的车祸之后，再对他进行人身攻击，这真是可悲的见证。几乎每个人都在为别人的垮台而欢呼。是的，7 月份的崩盘暴露了 SA 的杠杆、流动性管理和对冲方面的问题。但他目前的年初至今业绩仍保持+80%，跻身表现最佳的对冲基金之列。在这一切之后，他仍然拥有公共股票（只是删除了杠杆）。我认为他在成功的同时也在做一些独特的事情。这引起了其他人的羡慕。"
     },
     {
+      "id": "tweet_qinbafrank_2083890594796257652",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sun, 02 Aug 2026 12:20:09 GMT",
+      "content": "看到有说英伟达Rubin上的HBM要减配了，实际情况是什么？应该不是已经开始交付并逐步放量的标准Vera Rubin NVL72减配，而是英伟达计划27年下半年推出的rubin升级版Rubin Ultra版配置规格还没确定下来，多家机构认为相比英伟达之前在GTC上公布的Rubin Ultra激进配置来说，可能最终规格要降低。详细聊聊： 1、标准版Vera Rubin现在的进度 标准Vera Rubin（NVL72）已经开始交付，6月1日前后，Dell率先向CoreWeave交付首批基于Vera Rubin NVL72的系统，CoreWeave完成行业首次完整bring-up和验证。 到7月，已有数十家客户收到测试机架/初期出货，包括CoreWeave、Microsoft、OpenAI、Anthropic、SpaceX AI、Google Cloud、Oracle、Nebius等。部分已在客户数据中心运行。 到秋季会开始更大规模交付，整体进度比Blackwell更顺利，无架组装时间大幅缩短（约5分钟级）。之前老黄和英伟达官方明确否认标准Vera Rubin有重大延期，路线图保持完整。 2、原计划27年下半年推出的Rubin Ultra 版（相当于是标准版的升级）的进展 1）原GTC2026公布的激进配置（目标2027年） （一）计算Die：4个接近光罩极限尺寸（near-reticle-sized）的计算芯粒，集成在单一封装内（相对标准Rubin的2个Die翻倍）。 （二）HBM配置：16个HBM4E堆栈。内存容量：单封装约1 TB HBM4E（业界首款TB级AI加速器）。 （三）采用更先进的封装（CoWoS-L相关），配套新的Kyber机架（垂直托盘、默认液冷），可支持NVL144等高密度配置（单机架最多144个GPU封装），整体算力和带宽目标显著高于标准Vera Rubin。 原来计划配置，单封装性能大幅跃升，强调极致密度和内存容量，用于超大规模模型。 2）6月底 SemiAnalysis等报告称因TSMC CoWoS-L封装基板翘曲（warpage）、光罩尺寸限制、良率/制造执行难题，原四Die + 16 HBM4E设计被取消。TSMC下一代CoPoS（Chip-on-Panel-on-Substrate）量产预计要到2028年底-2029年，赶不上2027节点。 可能的调整是四Die方案取消，转向双Die设计（与标准Rubin相同）+ 8个HBM4E堆栈，单封装计算规模和内存带宽大致减半。 容量示例：约384 GB/GPU（例如8个12-Hi、每堆栈48 GB的HBM4E），仍高于标准Rubin的288 GB HBM4，但远低于原1 TB目标。 带宽方面，HBM4E单堆栈速率更高（可达更高pin rate，如16 Gbps级别），但总堆栈数减半，整体仍不及原计划。 这属于相对原计划的明显缩水，但通过机架级扩展（更多封装）可部分补偿系统级性能。 3）7月底 TrendForce最近报告认为Rubin Ultra的HBM规格仍未最终锁定，因供应紧张、价格上涨，NVIDIA优先保障出货量、I/O速度和整体规模。英伟达可能考虑更低规格选项，包括HBM4E 8hi（8层堆栈，容量更低）等。 TrendForce报告提到有四种可能的HBM配置，核心是容量与供应确定性之间的权衡。最终规格预计在2026年下半年验证后确定。英伟达的目标仍是2027年出货，但更务实地平衡性能、成本和可制造性。 总结 1）标准Vera Rubin已经开始量产交付、计划秋季更大规模交付，节奏和规格应该是保持不变。 2）而原计划27年下半年推出的Rubin Ultra 版其配置规格相比原今年GTC大会上宣布激进版（4 Die + 16 HBM4E ≈ 1 TB）可能要调整至双Die + 8 HBM4E ≈ 384GB左右（标准Rubin的288 GB HBM4），但现在还没最终确定具体规格。",
+      "url": "https://x.com/qinbafrank/status/2083890594796257652",
+      "tweet_id": "2083890594796257652"
+    },
+    {
+      "id": "tweet_qinbafrank_2083881225278960042",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sun, 02 Aug 2026 11:42:55 GMT",
+      "content": "多谢kim，今天也是学到知识了，原来香港这么多的冰室还有这样的历史缘由。历史的发展就是如此，以前高不可攀的东西以后就是唾手可得，这也是门槛降低的意义所在。",
+      "url": "https://x.com/qinbafrank/status/2083881225278960042",
+      "tweet_id": "2083881225278960042"
+    },
+    {
       "id": "tweet_qinbafrank_2083844726411948297",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -128,24 +116,6 @@
       "content": "最火的ETF卖出部分三星持仓，买入长鑫。美国ETF管理机构Roundhill本周对DRAM主题基金进行重大调仓，减持三星电子，同步买入长鑫存储，这也意味着中国存储龙头首次进入美股主流DRAM投资产品。本周二、周三，Roundhill累计买入6500万股长鑫存储股票，长鑫存储在DRAM ETF中的权重迅速升至2.47%。与此同时，Roundhill周一至周三每日减持约100万股三星电子，三日合计出售300万股。",
       "url": "https://x.com/qinbafrank/status/2083844726411948297",
       "tweet_id": "2083844726411948297"
-    },
-    {
-      "id": "tweet_qinbafrank_2083740064971121009",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sun, 02 Aug 2026 02:22:00 GMT",
-      "content": "正在写美国威胁要在周末对伊朗大规模打击对市场的影响，这想着局势越紧张也可能临近缓和。就看到了川普这条推文“称收到伊朗请求暂缓攻击，同意取消对伊打击以换取协议。” 局势变化已经比我的思绪还快😓，静观后效。",
-      "url": "https://x.com/qinbafrank/status/2083740064971121009",
-      "tweet_id": "2083740064971121009"
-    },
-    {
-      "id": "tweet_qinbafrank_2083570910855090423",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sat, 01 Aug 2026 15:09:50 GMT",
-      "content": "现场看曼城VS国米氛围确实很好，只可惜哈兰德没来。多谢OKX",
-      "url": "https://x.com/qinbafrank/status/2083570910855090423",
-      "tweet_id": "2083570910855090423"
     },
     {
       "id": "tweet_xiaomustock_2083852712744235037",
@@ -230,8 +200,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
