@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-08-03T18:53:40.359852+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-03T20:28:52.917268+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2084300392876372395",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 03 Aug 2026 15:28:32 GMT",
+      "content": "RT by @elonmusk: Describe it once. Watch Grok Imagine bring your imaginations to life",
+      "url": "https://x.com/elonmusk/status/2084300392876372395",
+      "tweet_id": "2084300392876372395",
+      "translated": "RT @elonmusk：描述一次。观看 Grok Imagine 将您的想象力变为现实"
+    },
     {
       "id": "tweet_elonmusk_2084298101460701372",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2084304083851034949",
       "tweet_id": "2084304083851034949",
       "translated": "这是完全正确的。源代码即将变得像汇编一样。下一步是完全摆脱“源代码”，直接用人工智能制作一个高效的二进制文件。"
-    },
-    {
-      "id": "tweet_elonmusk_2084303392935936255",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 03 Aug 2026 15:40:28 GMT",
-      "content": "Slavery was ended primarily by Britain",
-      "url": "https://x.com/elonmusk/status/2084303392935936255",
-      "tweet_id": "2084303392935936255",
-      "translated": "奴隶制主要是由英国结束的"
     },
     {
       "id": "tweet_cz_binance_2084326153582706891",
@@ -60,6 +60,35 @@
       "url": "https://x.com/cz_binance/status/2084158729281528292",
       "tweet_id": "2084158729281528292",
       "translated": "这篇文章写于2020年（2025年更新）。讨论备份助记词的不同方式。有点长，但值得花时间阅读。 https://www.binance.com/en/blog/from-our-ceo/421499824684900429"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2082159711852298494",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
+      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
+      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
+      "tweet_id": "2082159711852298494",
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2083760320062083406",
@@ -119,6 +148,15 @@
       "tweet_id": "2084246799037124627"
     },
     {
+      "id": "tweet_xiaomustock_2084371915268050945",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Mon, 03 Aug 2026 20:12:45 GMT",
+      "content": "标记一下这些麻瓜机构， 他们清一色的下调了 $META 的目标价。",
+      "url": "https://x.com/xiaomustock/status/2084371915268050945",
+      "tweet_id": "2084371915268050945"
+    },
+    {
       "id": "tweet_xiaomustock_2084304840700920281",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -135,15 +173,6 @@
       "content": "以后就是永远缺 $META 😂",
       "url": "https://x.com/xiaomustock/status/2084278330908627293",
       "tweet_id": "2084278330908627293"
-    },
-    {
-      "id": "tweet_xiaomustock_2084274135052746772",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Mon, 03 Aug 2026 13:44:12 GMT",
-      "content": "伟大的川沐给韭菜指明了方向， $META 市值翻转开始了， 都高估和恐惧市场波动的时候， 低估资产就成了救命稻草， meta是美版腾讯，全球社交统治者。",
-      "url": "https://x.com/xiaomustock/status/2084274135052746772",
-      "tweet_id": "2084274135052746772"
     },
     {
       "id": "tweet_xingpt_2084290604285276216",
@@ -201,8 +230,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
