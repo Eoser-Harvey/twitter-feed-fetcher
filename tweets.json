@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-03T10:46:15.326608+00:00",
+  "fetched_at": "2026-08-03T13:43:49.776686+00:00",
   "total": 21,
   "tweets": [
     {
@@ -68,7 +68,7 @@
       "content": "Trump announced that US has cancelled its attack on Iran. And that they’ve agreed to the perimeters of a deal to open the Strait and end the nuclear program. Anyone else feel like they’ve aged a few years in the past 6 months?",
       "url": "https://x.com/aleabitoreddit/status/2083760320062083406",
       "tweet_id": "2083760320062083406",
-      "translated": "特朗普宣布美国取消对伊朗的袭击。他们还同意开放海峡并结束核计划的协议。有没有人觉得自己在过去六个月里老了好几岁？"
+      "translated": "特朗普宣布美国取消对伊朗的袭击。他们还同意开放海峡并结束核计划的协议。有没有人觉得自己在过去的六个月里老了好几岁？"
     },
     {
       "id": "tweet_aleabitoreddit_2083438823548293140",
@@ -91,6 +91,24 @@
       "translated": "围绕利奥波德的媒体报道和 X 反应令人震惊。将他从 $SNDK 到 $BE 的成功多年论文视为“崩溃”或“失败”。在七月出人意料的车祸之后，再对他进行人身攻击，这真是可悲的见证。几乎每个人都在为别人的垮台而欢呼。是的，7 月份的崩盘暴露了 SA 的杠杆、流动性管理和对冲方面的问题。但他目前的年初至今业绩仍保持+80%，跻身表现最佳的对冲基金之列。在这一切之后，他仍然拥有公共股票（只是删除了杠杆）。我认为他在成功的同时也在做一些独特的事情。这引起了其他人的羡慕。"
     },
     {
+      "id": "tweet_qinbafrank_2084246799037124627",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Mon, 03 Aug 2026 11:55:34 GMT",
+      "content": "超大CSP重估，Neocloud也会被带起来，不过也有几点去区分： 1、个人看好的CSP价值重估，核心逻辑是在“分场景、多模型”企业AI采用工程化阶段、受益于开源模型的部署成本结构大幅度改变。个人看好的确定性最好的几家CSP七月初这里https://x.com/qinbafrank/status/2074754779755295164?s=46&t=k6rimWsEbo2D2tXolYcM-A有来聊到； https://x.com/qinbafrank/status/2074754779755295164?s=46&t=k6rimWsEbo2D2tXolYcM-A 2、对于Neocloud来说，超大CSP价值重估，Neocloud自然也是被带起来的。下午发的大摩看ROIC框架里单纯算力出租的ROIC也很好。那么新云也受益 3、CSP真正价值是要成为“AI操作系统层”，这涉及：路由、缓存、上下文压缩、权限、审计。涵盖闭源 API、开源模型推理、向量数据库、对象存储、数据仓库、网络、Kubernetes、MLOps、安全、监控、agent runtime、GPU/TPU/ASIC 租用、企业私有化部署。基本上是企业 AI 进入生产环境后的全部云消费。 所以纯出租算力的Neocloud就没有能更进一步的AI操作系统中间层升级的新云厂商想象力大了。 要去看哪些新云厂商kaishiq从“算力出租层”往“AI运营维护的中间层”升级； 4、最后还要密切关注新云厂商的债务问题，毕竟相比超大csp他们的现金流能力更差更弱、价值重估阶段可能弹性大，但是一遇到市场逆风，新云厂商抗跌性也很差，Neocloud更适合做波段。",
+      "url": "https://x.com/qinbafrank/status/2084246799037124627",
+      "tweet_id": "2084246799037124627"
+    },
+    {
+      "id": "tweet_qinbafrank_2084231327222759656",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Mon, 03 Aug 2026 10:54:06 GMT",
+      "content": "大摩眼里的AI投资ROIC和看待看待ROIC的几个框架。上周微软和亚马逊的财报后大摩认为AI投资ROIC的统计框架已经出炉，结果是25-50%之间，盈利兑现已经开始，而且回报率可能远高于市场预期。梳理下大摩最新这份报告： 1、 GPU即服务（GPU IaaS） 代表：Azure，AWS，Google Cloud。 本质上：企业租用GPU算力进行训练和推理。 Morgan Stanley测算：增量EBIT Margin：60%-70%，ROIC：25%-40%。 为什么回报率高？因为：GPU利用率持续提高，单位电力和运维成本被规模摊薄，算力供给仍然相对稀缺。Morgan Stanley甚至提出：未来几年真正稀缺的资产可能不是模型，而是数据中心容量（Data Center Capacity）。也就是说，CSP在AI时代重现云时代的辉煌，基础建设垄断重现重资产为王。 2. 独立模型API 代表：GPT、Gemini、Claude、Meta未来可能开放的模型服务 模式：用户直接购买模型推理能力。 Morgan Stanley认为：这种模式ROIC可以超过40%。 背后逻辑：一旦训练完成：每新增用户边际成本持续下降、收入增长速度快于成本增长速度，属于典型软件经济学（Software Economics）。 3、AI平台+第三方基础设施 即：模型开发商不自己建设数据中心 向外部购买：GPU网络、机房资源。虽然利润率较低，但Morgan Stanley认为：仍然可以实现25%以上ROIC。 需求端回报也非常清晰。 Morgan Stanley给出了一个很有意思的企业ROI测算：企业平均Token支出不到11美元/月，但每位员工创造的劳动节省价值：约55美元。Token成本：仅2至5美元级别。 简单理解：投入1美元AI成本，可能创造10美元以上的生产力收益。因此企业没有动力削减AI预算。这也是Morgan Stanley认为AI需求不会像市场担心那样快速见顶的重要原因。 大摩这份报告第一次比较系统地证明： 只要AI算力达到较高利用率，并且能从训练阶段逐渐转向规模化推理，AI基础设施并非天然的低回报资本黑洞。 7月初就开始聊到CSP价值重估，是真的来了。 AI商业化和货币化也在进一步加速",
+      "url": "https://x.com/qinbafrank/status/2084231327222759656",
+      "tweet_id": "2084231327222759656"
+    },
+    {
       "id": "tweet_qinbafrank_2084156912954909063",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -100,22 +118,22 @@
       "tweet_id": "2084156912954909063"
     },
     {
-      "id": "tweet_qinbafrank_2083917947731578909",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sun, 02 Aug 2026 14:08:50 GMT",
-      "content": "如果按照SemiAnalysis最新报告rubin ultra的HBM降到192G了，在对内存敏感的Agentic推理、长上下文、MoE大模型场景下，192GB会比288GB更受限，那意味着其实际有效性能在部分场景会接近甚至低于vera rubin标准版。 升级版ultra rubin性能还不如标准版vera Rubin，同一模型可能需要调用更多 GPU 才能完成部署，进而增加卡间通信、模型切分与数据搬运开销，降低单卡有效利用率，并推高单位 Token 的生成成本。换句话说，GPU 产量虽然增加了，但如果每项任务需要使用更多 GPU，系统层面的算力成本未必会同步下降。升级版的逻辑也就说不通了。 是不是也就不用推Ultra版了，27年下半年继续卖vera rubin版。等28年直接再下一代Feynman架构得了。🤔",
-      "url": "https://x.com/qinbafrank/status/2083917947731578909",
-      "tweet_id": "2083917947731578909"
+      "id": "tweet_xiaomustock_2084241849322197282",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Mon, 03 Aug 2026 11:35:54 GMT",
+      "content": "伟大的川沐一年前给交易所指明了方向， 现在每个交易所都这样了。",
+      "url": "https://x.com/xiaomustock/status/2084241849322197282",
+      "tweet_id": "2084241849322197282"
     },
     {
-      "id": "tweet_qinbafrank_2083890594796257652",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sun, 02 Aug 2026 12:20:09 GMT",
-      "content": "看到有说英伟达Rubin上的HBM要减配了，实际情况是什么？应该不是已经开始交付并逐步放量的标准Vera Rubin NVL72减配，而是英伟达计划27年下半年推出的rubin升级版Rubin Ultra版配置规格还没确定下来，多家机构认为相比英伟达之前在GTC上公布的Rubin Ultra激进配置来说，可能最终规格要降低。详细聊聊： 1、标准版Vera Rubin现在的进度 标准Vera Rubin（NVL72）已经开始交付，6月1日前后，Dell率先向CoreWeave交付首批基于Vera Rubin NVL72的系统，CoreWeave完成行业首次完整bring-up和验证。 到7月，已有数十家客户收到测试机架/初期出货，包括CoreWeave、Microsoft、OpenAI、Anthropic、SpaceX AI、Google Cloud、Oracle、Nebius等。部分已在客户数据中心运行。 到秋季会开始更大规模交付，整体进度比Blackwell更顺利，无架组装时间大幅缩短（约5分钟级）。之前老黄和英伟达官方明确否认标准Vera Rubin有重大延期，路线图保持完整。 2、原计划27年下半年推出的Rubin Ultra 版（相当于是标准版的升级）的进展 1）原GTC2026公布的激进配置（目标2027年） （一）计算Die：4个接近光罩极限尺寸（near-reticle-sized）的计算芯粒，集成在单一封装内（相对标准Rubin的2个Die翻倍）。 （二）HBM配置：16个HBM4E堆栈。内存容量：单封装约1 TB HBM4E（业界首款TB级AI加速器）。 （三）采用更先进的封装（CoWoS-L相关），配套新的Kyber机架（垂直托盘、默认液冷），可支持NVL144等高密度配置（单机架最多144个GPU封装），整体算力和带宽目标显著高于标准Vera Rubin。 原来计划配置，单封装性能大幅跃升，强调极致密度和内存容量，用于超大规模模型。 2）6月底 SemiAnalysis等报告称因TSMC CoWoS-L封装基板翘曲（warpage）、光罩尺寸限制、良率/制造执行难题，原四Die + 16 HBM4E设计被取消。TSMC下一代CoPoS（Chip-on-Panel-on-Substrate）量产预计要到2028年底-2029年，赶不上2027节点。 可能的调整是四Die方案取消，转向双Die设计（与标准Rubin相同）+ 8个HBM4E堆栈，单封装计算规模和内存带宽大致减半。 容量示例：约384 GB/GPU（例如8个12-Hi、每堆栈48 GB的HBM4E），仍高于标准Rubin的288 GB HBM4，但远低于原1 TB目标。 带宽方面，HBM4E单堆栈速率更高（可达更高pin rate，如16 Gbps级别），但总堆栈数减半，整体仍不及原计划。 这属于相对原计划的明显缩水，但通过机架级扩展（更多封装）可部分补偿系统级性能。 3）7月底 TrendForce最近报告认为Rubin Ultra的HBM规格仍未最终锁定，因供应紧张、价格上涨，NVIDIA优先保障出货量、I/O速度和整体规模。英伟达可能考虑更低规格选项，包括HBM4E 8hi（8层堆栈，容量更低）等。 TrendForce报告提到有四种可能的HBM配置，核心是容量与供应确定性之间的权衡。最终规格预计在2026年下半年验证后确定。英伟达的目标仍是2027年出货，但更务实地平衡性能、成本和可制造性。 总结 1）标准Vera Rubin已经开始量产交付、计划秋季更大规模交付，节奏和规格应该是保持不变。 2）而原计划27年下半年推出的Rubin Ultra 版其配置规格相比原今年GTC大会上宣布激进版（4 Die + 16 HBM4E ≈ 1 TB）可能要调整至双Die + 8 HBM4E ≈ 384GB左右（标准Rubin的288 GB HBM4），但现在还没最终确定具体规格。",
-      "url": "https://x.com/qinbafrank/status/2083890594796257652",
-      "tweet_id": "2083890594796257652"
+      "id": "tweet_xiaomustock_2084243202547359820",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Mon, 03 Aug 2026 11:41:17 GMT",
+      "content": "R to @xiaomustock: 当时这个特斯拉的合约图是我用btc合约给改的😂",
+      "url": "https://x.com/xiaomustock/status/2084243202547359820",
+      "tweet_id": "2084243202547359820"
     },
     {
       "id": "tweet_xiaomustock_2084131012267896966",
@@ -127,49 +145,31 @@
       "tweet_id": "2084131012267896966"
     },
     {
-      "id": "tweet_xiaomustock_2084102919658565889",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Mon, 03 Aug 2026 02:23:51 GMT",
-      "content": "$META 相比于 $APPL 利润实际非常接近甚至如果meta像apple不搞巨额ai投入，meta利润大概率超过苹果。 市值meta只有1万亿，apple4万亿。 长期80%的毛利率，营收一直在增长。 算美股巨头里面最有性价比的了。",
-      "url": "https://x.com/xiaomustock/status/2084102919658565889",
-      "tweet_id": "2084102919658565889"
-    },
-    {
-      "id": "tweet_xiaomustock_2083997560654663931",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Sun, 02 Aug 2026 19:25:11 GMT",
-      "content": "这个gate被盗170万美金现在比较明晰， gate这波公关太抽象。 就是黑客没有掌握用户最新的谷歌验证也没掌握邮箱密码，也不知道手机验证码， 只是一直提交重置申请， 然后gate系统人脸不通过， gate开始给人工手持审核，把假得不能再假的手持给通过了， 黑客借此重置了谷歌验证，重置了邮箱， 添加了白名单地址， 然后最后提笔到从未用过的地址又一次被gate系统拦截， 然后人工审核给依据一份黑客声称的支付宝录屏给通过了， 也就是说gate系统审核中的人脸识别，谷歌验证，邮箱验证全都没通过，gate人工全给黑客的假的不能再假的资料过了。 没立案之前gate嘲讽用户说是用户自己的人脸比对，已经保留了视频和照片。 立案后gate说是他们系统没有保存人脸识别的视频和照片，只给识别结果😂 也就是说全程从头到尾都人脸识别异常，不管是系统还是人工，但最终gate依据支付宝就觉得是本人给过了。 自己的安全项认证全都不信，gate信没有人脸信息的支付宝录屏？ gate是不是提前声明了支付宝能作为你gate账户资产安全项的审核依据？ 那别人币安或者okx或者信用卡被盗是不是录个屏就能顺手盗你gate用户资产？因为看起来币安@binance 和 @okx 确实比gate安全点。就像支付宝在gate认知里比gate安全一样。",
-      "url": "https://x.com/xiaomustock/status/2083997560654663931",
-      "tweet_id": "2083997560654663931"
-    },
-    {
-      "id": "tweet_xingpt_2084209512215609413",
+      "id": "tweet_xingpt_2084268287026933909",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Mon, 03 Aug 2026 09:27:25 GMT",
-      "content": "存储股票未来的走法有两种可能性： 1. 一是像 24 年底的英伟达，回调 40% 之后，财报继续超预期，业绩持续性增强，摆脱周期股命运成为长期的蓝筹； 2. 二是像今年的白银，动量拉升出一个历史最高点，然后震荡反弹反复走低，不断lower high，十年都很难回到顶部。 存储股后面怎么走呢？还是要看扩产纪律和AI半导体的需求端，供给能不能保持紧通缩的状态，不要重蹈此前超额供给的覆辙，长协保下限的同时，上限还有没有空间？",
-      "url": "https://x.com/xingpt/status/2084209512215609413",
-      "tweet_id": "2084209512215609413"
+      "published_at": "Mon, 03 Aug 2026 13:20:58 GMT",
+      "content": "好家伙，大摩直接把Circle的目标价从 106 降级到了 38，理由是对未来USDC的流通量非常不看好，对 USDC 流通量的预测下调了：2027 年预测降低约 33%；2028 年预测降低约 44% 不过搞笑的是同一个分析师，上个月刚把目标价从 80 上调到 106😂",
+      "url": "https://x.com/xingpt/status/2084268287026933909",
+      "tweet_id": "2084268287026933909"
     },
     {
-      "id": "tweet_xingpt_2083970523843973588",
+      "id": "tweet_xingpt_2084246297331249360",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Sun, 02 Aug 2026 17:37:45 GMT",
-      "content": "云厂和Neocloud的投资逻辑，更新在了会员频道，除了云板块，我还发现Q2财报里有两个高景气的板块值得关注：https://www.patreon.com/xingpt/posts/zhe-ge-zhou-mo-165567634?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
-      "url": "https://x.com/xingpt/status/2083970523843973588",
-      "tweet_id": "2083970523843973588"
+      "published_at": "Mon, 03 Aug 2026 11:53:35 GMT",
+      "content": "女主哥大毕业，安永四大事务所工作，之前上过恋综心动的信号，这么看不排除炒作啊",
+      "url": "https://x.com/xingpt/status/2084246297331249360",
+      "tweet_id": "2084246297331249360"
     },
     {
-      "id": "tweet_xingpt_2083965870561448081",
+      "id": "tweet_xingpt_2084245137245569386",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Sun, 02 Aug 2026 17:19:16 GMT",
-      "content": "很多按照交易逻辑抄底存储的人，要知道你们买的是超跌，而不是基本面反转。 Semianalysis开始曝光Rubin减配HBM规格，从 288G 12-hi降低到 192G 8-hi，降低了 33% 的规格。 预计这部分价格下降 25%-30%。 存储二阶导放缓是板上钉钉了。 之前说了：半导体投资的黄金时代已经结束https://x.com/xingpt/status/2080256446688825733?s=20",
-      "url": "https://x.com/xingpt/status/2083965870561448081",
-      "tweet_id": "2083965870561448081"
+      "published_at": "Mon, 03 Aug 2026 11:48:58 GMT",
+      "content": "城堡证券有点狗啊：之前没接盘的时候，说宏观风险大，要加息。 现在接盘了SA小哥的仓位，说未来机会多，市场要反弹。 正反话都让你说了，没仓位就唱空，有仓位就唱多。 华尔街怎么跟KOL一个路数。",
+      "url": "https://x.com/xingpt/status/2084245137245569386",
+      "tweet_id": "2084245137245569386"
     },
     {
       "id": "tweet_hibtc37_2084093126843699207",
