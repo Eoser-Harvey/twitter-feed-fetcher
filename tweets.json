@@ -1,36 +1,15 @@
 {
-  "fetched_at": "2026-08-03T06:27:13.967381+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-03T10:46:15.326608+00:00",
+  "total": 21,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2084070349734326303",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 03 Aug 2026 00:14:26 GMT",
-      "content": "RT by @elonmusk: I was in Madrid when Spain won the World Cup. Almost 2 million people celebrated in the streets. I saw 0 violence. 0 property damage. 0 rioting. Spain’s government later reported a total of 6 arrests, and no serious incidents. Almost 2 million people. Almost entirely peaceful. When a Parisian team won the Champions League in 2026, riots broke out and trashed the city. And it happened before that, in 2025. And there was violence before that, in 2018, when France won the World Cup. Guess when their celebrations were peaceful? In 1998 - before their immigration policy created an entire population of people who didn’t assimilate. Immigration can be great for a country. But not when you do it without being thoughtful who you admit, how many, and for how long. If Spain makes the same mistakes as France, soon their “celebrations” will look like Paris’s. England is already well underway.",
-      "url": "https://x.com/elonmusk/status/2084070349734326303",
-      "tweet_id": "2084070349734326303",
-      "translated": "RT @elonmusk：西班牙赢得世界杯时我在马德里。近200万人走上街头庆祝。我看到了0暴力。 0财产损失。 0骚乱。西班牙政府随后报告称，共有 6 人被捕，没有发生严重事件。近200万人。几乎完全平静。当巴黎球队在 2026 年赢得欧洲冠军联赛时，爆发了骚乱并摧毁了这座城市。事情发生在此之前，即 2025 年。更早之前，即 2018 年法国赢得世界杯时，也曾发生过暴力事件。猜猜他们的庆祝活动什么时候是和平的？ 1998 年——在他们的移民政策导致整个人口无法被同化之前。移民对一个国家来说可能是伟大的。但如果你在没有考虑好你承认的人、人数和持续时间的情况下就不行了。如果西班牙犯了和法国一样的错误，很快他们的“庆祝活动”就会像巴黎一样。英格兰已经在顺利进行。"
-    },
-    {
-      "id": "tweet_elonmusk_2083979013396279393",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 02 Aug 2026 18:11:29 GMT",
-      "content": "RT by @elonmusk: Grok can now analyze any video. From identifying AI-generated content to explaining what's happening frame by frame, Grok's video understanding is taking another big step forward.",
-      "url": "https://x.com/elonmusk/status/2083979013396279393",
-      "tweet_id": "2083979013396279393",
-      "translated": "RT @elonmusk：Grok 现在可以分析任何视频。从识别人工智能生成的内容到逐帧解释正在发生的事情，Grok 的视频理解又向前迈出了一大步。"
-    },
-    {
-      "id": "tweet_elonmusk_2084156097405849727",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 03 Aug 2026 05:55:10 GMT",
-      "content": "Grok Build improvements http://X.ai/cli",
-      "url": "https://x.com/elonmusk/status/2084156097405849727",
-      "tweet_id": "2084156097405849727",
-      "translated": "Grok 构建改进 http://X.ai/cli"
+      "id": "tweet_cz_binance_2084184120046092654",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Mon, 03 Aug 2026 07:46:31 GMT",
+      "content": "何必东奔西走 币安全部都有",
+      "url": "https://x.com/cz_binance/status/2084184120046092654",
+      "tweet_id": "2084184120046092654"
     },
     {
       "id": "tweet_cz_binance_2084158729281528292",
@@ -51,16 +30,6 @@
       "url": "https://x.com/cz_binance/status/2084018586541273200",
       "tweet_id": "2084018586541273200",
       "translated": "保护备份助记词很困难。不能让其他人读到它并说：“哦，这是一个很好的种子短语”。不能让它被火灾、洪水等破坏。不能让黑客访问它。最重要的是，你自己不能失去它。"
-    },
-    {
-      "id": "tweet_cz_binance_2083621786005152101",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sat, 01 Aug 2026 18:32:00 GMT",
-      "content": "The thing is, with self custody, devs patching the bug won't fix previously generated wallets. And devs have no way to reach users on air-gapped devices. Your wallet stays open to hackers until you act. I'm a believer in self custody, but it puts the burden on you.",
-      "url": "https://x.com/cz_binance/status/2083621786005152101",
-      "tweet_id": "2083621786005152101",
-      "translated": "问题是，通过自我托管，开发人员修补错误不会修复以前生成的钱包。而且开发人员无法接触到气隙设备上的用户。在您采取行动之前，您的钱包将一直向黑客敞开。我相信自我监护，但这会给你带来负担。"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
@@ -99,7 +68,7 @@
       "content": "Trump announced that US has cancelled its attack on Iran. And that they’ve agreed to the perimeters of a deal to open the Strait and end the nuclear program. Anyone else feel like they’ve aged a few years in the past 6 months?",
       "url": "https://x.com/aleabitoreddit/status/2083760320062083406",
       "tweet_id": "2083760320062083406",
-      "translated": "特朗普宣布美国取消对伊朗的袭击。他们还同意开放海峡并结束核计划的协议。有没有人觉得自己在过去的六个月里老了好几岁？"
+      "translated": "特朗普宣布美国取消对伊朗的袭击。他们还同意开放海峡并结束核计划的协议。有没有人觉得自己在过去六个月里老了好几岁？"
     },
     {
       "id": "tweet_aleabitoreddit_2083438823548293140",
@@ -176,6 +145,15 @@
       "tweet_id": "2083997560654663931"
     },
     {
+      "id": "tweet_xingpt_2084209512215609413",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 03 Aug 2026 09:27:25 GMT",
+      "content": "存储股票未来的走法有两种可能性： 1. 一是像 24 年底的英伟达，回调 40% 之后，财报继续超预期，业绩持续性增强，摆脱周期股命运成为长期的蓝筹； 2. 二是像今年的白银，动量拉升出一个历史最高点，然后震荡反弹反复走低，不断lower high，十年都很难回到顶部。 存储股后面怎么走呢？还是要看扩产纪律和AI半导体的需求端，供给能不能保持紧通缩的状态，不要重蹈此前超额供给的覆辙，长协保下限的同时，上限还有没有空间？",
+      "url": "https://x.com/xingpt/status/2084209512215609413",
+      "tweet_id": "2084209512215609413"
+    },
+    {
       "id": "tweet_xingpt_2083970523843973588",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -192,15 +170,6 @@
       "content": "很多按照交易逻辑抄底存储的人，要知道你们买的是超跌，而不是基本面反转。 Semianalysis开始曝光Rubin减配HBM规格，从 288G 12-hi降低到 192G 8-hi，降低了 33% 的规格。 预计这部分价格下降 25%-30%。 存储二阶导放缓是板上钉钉了。 之前说了：半导体投资的黄金时代已经结束https://x.com/xingpt/status/2080256446688825733?s=20",
       "url": "https://x.com/xingpt/status/2083965870561448081",
       "tweet_id": "2083965870561448081"
-    },
-    {
-      "id": "tweet_xingpt_2083833197264265636",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Sun, 02 Aug 2026 08:32:04 GMT",
-      "content": "原来EigenAI 跟Eigen Layer不是一家？",
-      "url": "https://x.com/xingpt/status/2083833197264265636",
-      "tweet_id": "2083833197264265636"
     },
     {
       "id": "tweet_hibtc37_2084093126843699207",
@@ -231,8 +200,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
