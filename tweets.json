@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-03T16:28:36.224759+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-03T18:53:40.359852+00:00",
+  "total": 21,
   "tweets": [
     {
       "id": "tweet_elonmusk_2084298101460701372",
@@ -33,6 +33,16 @@
       "translated": "奴隶制主要是由英国结束的"
     },
     {
+      "id": "tweet_cz_binance_2084326153582706891",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Mon, 03 Aug 2026 17:10:54 GMT",
+      "content": "Banks could go ... well ... bankrupt. That's where the term comes from. I still prefer crypto.",
+      "url": "https://x.com/cz_binance/status/2084326153582706891",
+      "tweet_id": "2084326153582706891",
+      "translated": "银行可能……嗯……破产。这就是这个词的由来。我还是更喜欢加密货币。"
+    },
+    {
       "id": "tweet_cz_binance_2084184120046092654",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
@@ -50,45 +60,6 @@
       "url": "https://x.com/cz_binance/status/2084158729281528292",
       "tweet_id": "2084158729281528292",
       "translated": "这篇文章写于2020年（2025年更新）。讨论备份助记词的不同方式。有点长，但值得花时间阅读。 https://www.binance.com/en/blog/from-our-ceo/421499824684900429"
-    },
-    {
-      "id": "tweet_cz_binance_2084018586541273200",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 02 Aug 2026 20:48:44 GMT",
-      "content": "Securing the backup seed phrase is hard. Can't have someone else read it and say, \"oh, that's a nice seed phrase\". Can't have it destroyed by fire, flood, etc. Can't have a hacker gain access to it. And most importantly, can't lose it yourself.",
-      "url": "https://x.com/cz_binance/status/2084018586541273200",
-      "tweet_id": "2084018586541273200",
-      "translated": "保护备份助记词很困难。不能让其他人读到它并说：“哦，这是一个很好的种子短语”。不能让它被火灾、洪水等破坏。不能让黑客访问它。最重要的是，你自己不能失去它。"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2082159711852298494",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
-      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
-      "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2083760320062083406",
@@ -230,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
