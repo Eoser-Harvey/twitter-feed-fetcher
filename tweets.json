@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-08-02T23:04:46.342111+00:00",
+  "fetched_at": "2026-08-03T02:57:30.553511+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2084099749922165199",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 03 Aug 2026 02:11:15 GMT",
+      "content": "Project Hail Mary has sick beats https://m.youtube.com/watch?v=LDU_Txk06tM&ra=m",
+      "url": "https://x.com/elonmusk/status/2084099749922165199",
+      "tweet_id": "2084099749922165199",
+      "translated": "《万福玛丽》项目有病痛 https://m.youtube.com/watch?v=LDU_Txk06tM&ra=m"
+    },
     {
       "id": "tweet_elonmusk_2084032763280138546",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2083920891314884633",
       "tweet_id": "2083920891314884633",
       "translated": "RT @elonmusk：西班牙，我是来评估局势的。西方必须坚强，否则就会衰落。"
-    },
-    {
-      "id": "tweet_elonmusk_2083979613156340154",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 02 Aug 2026 18:13:52 GMT",
-      "content": "Accurate 😂",
-      "url": "https://x.com/elonmusk/status/2083979613156340154",
-      "tweet_id": "2083979613156340154",
-      "translated": "准确😂"
     },
     {
       "id": "tweet_cz_binance_2084018586541273200",
@@ -148,6 +148,15 @@
       "tweet_id": "2083881225278960042"
     },
     {
+      "id": "tweet_xiaomustock_2084102919658565889",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Mon, 03 Aug 2026 02:23:51 GMT",
+      "content": "$META 相比于 $APPL 利润实际非常接近甚至如果meta像apple不搞巨额ai投入，meta利润大概率超过苹果。 市值meta只有1万亿，apple4万亿。 长期80%的毛利率，营收一直在增长。 算美股巨头里面最有性价比的了。",
+      "url": "https://x.com/xiaomustock/status/2084102919658565889",
+      "tweet_id": "2084102919658565889"
+    },
+    {
       "id": "tweet_xiaomustock_2083997560654663931",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -164,15 +173,6 @@
       "content": "现在所有的ai回答又臭又长， 重点核心就几句话写八百行， 沟通没以前高效。",
       "url": "https://x.com/xiaomustock/status/2083852712744235037",
       "tweet_id": "2083852712744235037"
-    },
-    {
-      "id": "tweet_xiaomustock_2083485858909528143",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Sat, 01 Aug 2026 09:31:52 GMT",
-      "content": "gate有放钱的赶紧走吧， 不要跟自己的资金安全过不去。",
-      "url": "https://x.com/xiaomustock/status/2083485858909528143",
-      "tweet_id": "2083485858909528143"
     },
     {
       "id": "tweet_xingpt_2083970523843973588",
@@ -202,6 +202,15 @@
       "tweet_id": "2083833197264265636"
     },
     {
+      "id": "tweet_hibtc37_2084093126843699207",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Mon, 03 Aug 2026 01:44:56 GMT",
+      "content": "川普又卖币，这次会抄作业了吗？ 熊市后期，很多机构和个体顶不住现金流压力，撑不住，没得选，只能再砸一波，你砸，我也砸，连环爆仓，如果叠加黑天鹅，就更完美。不要说“这次不一样”，周期的力量压下来就是一座山，往前推动时，就如一座火箭，逆周期者亡，顺周期者昌，，等一个无人问津和万人唾骂时机，人人都看还有牛市，怕踏空，那就是没到底",
+      "url": "https://x.com/hibtc37/status/2084093126843699207",
+      "tweet_id": "2084093126843699207"
+    },
+    {
       "id": "tweet_hibtc37_2083938788489961916",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -218,15 +227,6 @@
       "content": "分歧很大。我认同长期投资的估值逻辑，这也要建立在长期/长周期的基础下。 但存储周期股的周期是无法忽视的风险，超级周期也是周期，大资本的开支也是周期性的，AI的基建也是阶段性的，投资驱动一个行业也是周期的，新行业新物种也是遵循萌芽-泡沫-泡沫破裂-重生的周期……这些共同点都是周期都非常短。如果你用长期的钱，投资短周期的标的，这是错配的。 如果半导体已经成熟到像水电煤腾讯微信这种基础设施级别，我认为股价会围绕估值长期波动是合逻辑的，并且半导体行业也会诞生这样的公司，但会是存储吗？这种周期股+反抛物线/90度上涨，股价先跑到几年后的估值的价格，再谈按照长期投资估值逻辑来看，我现在还不能说你完全错，但这风险非常高。 而且HBM的扩产能速度，会超过所有媒体的噪音文所宣传的速度，这点是切切实实的风险 PS：这个贴是发给存王粉看的，主要聊存储，并不代表我不看好其他半导体股，也不代表我不看好AI，我非常看好AI，但AI也会经历泡沫破裂的必经步骤，这是行业出清毒瘤和重生的黎明",
       "url": "https://x.com/hibtc37/status/2083733550281654409",
       "tweet_id": "2083733550281654409"
-    },
-    {
-      "id": "tweet_hibtc37_2083493748756173303",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Sat, 01 Aug 2026 10:03:13 GMT",
-      "content": "为了避免误会，新关注的就不要来了，真关注不过来，系统限额太严了……还有很多老粉没来的及关注，关注几个就系统提前关注失败了，还有那种没内容纯刷关注的也不要来……",
-      "url": "https://x.com/hibtc37/status/2083493748756173303",
-      "tweet_id": "2083493748756173303"
     }
   ],
   "stats": {
