@@ -1,36 +1,7 @@
 {
-  "fetched_at": "2026-08-03T22:11:49.100389+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-04T00:12:12.400431+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2084377571429433431",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 03 Aug 2026 20:35:13 GMT",
-      "content": "💯",
-      "url": "https://x.com/elonmusk/status/2084377571429433431",
-      "tweet_id": "2084377571429433431"
-    },
-    {
-      "id": "tweet_elonmusk_2084377228717010984",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 03 Aug 2026 20:33:51 GMT",
-      "content": "Wow",
-      "url": "https://x.com/elonmusk/status/2084377228717010984",
-      "tweet_id": "2084377228717010984",
-      "translated": "哇"
-    },
-    {
-      "id": "tweet_elonmusk_2084300392876372395",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 03 Aug 2026 15:28:32 GMT",
-      "content": "RT by @elonmusk: Describe it once. Watch Grok Imagine bring your imaginations to life",
-      "url": "https://x.com/elonmusk/status/2084300392876372395",
-      "tweet_id": "2084300392876372395",
-      "translated": "RT @elonmusk：描述一次。观看 Grok Imagine 将您的想象力变为现实"
-    },
     {
       "id": "tweet_cz_binance_2084326153582706891",
       "username": "cz_binance",
@@ -90,6 +61,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2084422873423519844",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Mon, 03 Aug 2026 23:35:14 GMT",
+      "content": "Be Citadel: > calls for unexpected rate hike few days ago, causing market panic > reaches out and buys billions of liquidated hedge fund AI assets > no rate hike > “Bull market drivers are fully intact”",
+      "url": "https://x.com/aleabitoreddit/status/2084422873423519844",
+      "tweet_id": "2084422873423519844",
+      "translated": "Be Citadel： > 几天前呼吁意外加息，引发市场恐慌 > 伸手购买数十亿清算的对冲基金人工智能资产 > 不加息 > “牛市驱动力完好无损”"
+    },
+    {
       "id": "tweet_aleabitoreddit_2084388023689679001",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -107,17 +88,7 @@
       "content": "Trump announced that US has cancelled its attack on Iran. And that they’ve agreed to the perimeters of a deal to open the Strait and end the nuclear program. Anyone else feel like they’ve aged a few years in the past 6 months?",
       "url": "https://x.com/aleabitoreddit/status/2083760320062083406",
       "tweet_id": "2083760320062083406",
-      "translated": "特朗普宣布美国取消对伊朗的袭击。他们还同意开放海峡并结束核计划的协议。有没有人觉得自己在过去六个月里老了好几岁？"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2083438823548293140",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sat, 01 Aug 2026 06:24:58 GMT",
-      "content": "$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs: Is facing a more severe supply chain crisis than memory. And with Lumentum's 5 InP fabs, shipments would be more than 30%+ below customer demand. This is especially visible with EMLs today but is already expanding to CW, especially as CPO ramps. I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation.",
-      "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
-      "tweet_id": "2083438823548293140",
-      "translated": "$LITE首席执行官Michael Hurlston在RAISE峰会上警告称，AI DC用InP激光器的供应缺口：正面临比内存更严重的供应链危机。凭借 Lumentum 的 5 座 InP 晶圆厂，出货量将比客户需求低 30% 以上。这在今天的 EML 中尤其明显，但已经扩展到 CW，尤其是随着 CPO 的增加。我一直是 $AAOI、$SIVE、$LITE 和 $COHR 激光阻塞点 + 瓶颈的粉丝。很高兴这篇论文开始得到验证。"
+      "translated": "特朗普宣布美国取消对伊朗的袭击。他们还同意开放海峡并结束核计划的协议。有没有人觉得自己在过去的六个月里老了好几岁？"
     },
     {
       "id": "tweet_qinbafrank_2084278942023004464",
@@ -229,8 +200,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
