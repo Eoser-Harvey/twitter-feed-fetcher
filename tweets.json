@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T07:42:43.370898+00:00",
+  "fetched_at": "2026-08-04T10:42:18.791307+00:00",
   "total": 24,
   "tweets": [
     {
@@ -148,6 +148,15 @@
       "tweet_id": "2084449500744319334"
     },
     {
+      "id": "tweet_xiaomustock_2084543015864119375",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Tue, 04 Aug 2026 07:32:38 GMT",
+      "content": "市场预测的27年存储崩盘，结果暴跌一波又发新闻说2027全年的产能在26年年中就全卖完了。deepseek这个低价策略，搞的其他顶级模型都降价，那么用户1000美元的预算能多用好几倍的token量，存储消耗量暴增。",
+      "url": "https://x.com/xiaomustock/status/2084543015864119375",
+      "tweet_id": "2084543015864119375"
+    },
+    {
       "id": "tweet_xiaomustock_2084541396569215031",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -164,15 +173,6 @@
       "content": "今天选择买有三个原因， 1.adr规则要求下，8.4号刚好是股东回报分红计划可以公布的最早时间点。 2.前几天反弹后大幅回撤回来，刚好今天价格比较理想。 3.大模型公司被ds 百万token 0.02人民币远低于1美分的定价打得集体降价，势必增加更大规模的存储需求。",
       "url": "https://x.com/xiaomustock/status/2084522592044724542",
       "tweet_id": "2084522592044724542"
-    },
-    {
-      "id": "tweet_xiaomustock_2084519583248208175",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Tue, 04 Aug 2026 05:59:31 GMT",
-      "content": "刚接了一波韩股海力士156万韩元成本",
-      "url": "https://x.com/xiaomustock/status/2084519583248208175",
-      "tweet_id": "2084519583248208175"
     },
     {
       "id": "tweet_xingpt_2084290604285276216",
