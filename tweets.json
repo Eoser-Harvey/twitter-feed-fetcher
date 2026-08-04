@@ -1,7 +1,47 @@
 {
-  "fetched_at": "2026-08-04T04:17:11.914157+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-04T07:42:43.370898+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2084197918412587513",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 03 Aug 2026 08:41:20 GMT",
+      "content": "RT by @elonmusk: Elon Musk with his first Tesla Roadster, in 2008.",
+      "url": "https://x.com/elonmusk/status/2084197918412587513",
+      "tweet_id": "2084197918412587513",
+      "translated": "RT @elonmusk：2008 年，埃隆·马斯克 (Elon Musk) 驾驶着他的第一辆 Tesla Roadster。"
+    },
+    {
+      "id": "tweet_elonmusk_2084401142109233470",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 03 Aug 2026 22:08:53 GMT",
+      "content": "RT by @elonmusk: The beauty of Grok, now in 1080p.",
+      "url": "https://x.com/elonmusk/status/2084401142109233470",
+      "tweet_id": "2084401142109233470",
+      "translated": "RT @elonmusk：Grok 的美丽，现在是 1080p。"
+    },
+    {
+      "id": "tweet_elonmusk_2084433668597014727",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 04 Aug 2026 00:18:08 GMT",
+      "content": "RT by @elonmusk: $95 million of the Live Aid concert money in 1985 meant for starving Ethiopians bought guns for the Marxist factions fighting each other. This was the finding of a BBC investigation years after Bob Geldof’s concert raised over $125 million when the world saw the famine that killed over a million people. Ethiopia was never colonized, yet Western guilt and empathy were abused. Still remains a cautionary tale on why every dollar of aid has to be scrutinized hard or it ends up arming the people prolonging the suffering instead of feeding the ones who need it. Because as a result of this mismanagement, lives were lost DUE to millions in aid. Context: a drought hit at the same time the ruling Derg, a Marxist military junta, was collectivizing farms and diverting grain reserves to fight the rebels. The famine still happened because Marxist central planning had wrecked food production and the civil war made the drought catastrophic.",
+      "url": "https://x.com/elonmusk/status/2084433668597014727",
+      "tweet_id": "2084433668597014727",
+      "translated": "RT @elonmusk：1985 年 Live Aid 音乐会的 9500 万美元资金原本是为饥饿的埃塞俄比亚人购买的，为互相争斗的马克思主义派系购买了枪支。这是鲍勃·吉尔多夫 (Bob Geldof) 的音乐会筹集了超过 1.25 亿美元的善款数年后，BBC 进行的一项调查得出的结论，当时世界目睹了造成超过一百万人死亡的饥荒。埃塞俄比亚从未被殖民过，但西方的愧疚感和同情心却被滥用了。这仍然是一个警示故事，说明为什么每一美元的援助都必须经过严格审查，否则最终只会武装人民，延长苦难，而不是养活需要援助的人。因为由于管理不善，数百万人因援助而丧生。背景：一场干旱袭来，与此同时，执政的德格（一个马克思主义军政府）正在将农场集体化，并转移粮食储备来打击叛乱分子。饥荒仍然发生，因为马克思主义的中央计划破坏了粮食生产，而内战又造成了灾难性的干旱。"
+    },
+    {
+      "id": "tweet_cz_binance_2084531849515131231",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Tue, 04 Aug 2026 06:48:16 GMT",
+      "content": "It is statistically safer to store coins on exchanges than to self custody. 👇 A few thoughts: Assuming the data is correct, my impression is Willy has always been a strong supporter for self custody. Hack data is easier to collect on the CEX side, usually major news. It is harder on the self-custody side, where hacks, lost coins, etc are often not reported. On the exchange side, some deceased exchanges drag down the data. Binance (and a few other exchanges) have always covered users for any CEX side hacks. Not saying one is better than another. Different approaches have different risk profiles (and product offerings), and may be better suited for different people. A balanced approach is probably best.",
+      "url": "https://x.com/cz_binance/status/2084531849515131231",
+      "tweet_id": "2084531849515131231",
+      "translated": "从统计数据来看，在交易所存储代币比自行保管更安全。 👇 一些想法：假设数据正确，我的印象是威利一直是自我监护的坚定支持者。黑客数据在 CEX 端更容易收集，通常是重大新闻。自我托管方面的情况比较困难，黑客入侵、丢失代币等通常不会被报告。在交易所方面，一些倒闭的交易所拖累了数据。币安（以及其他一些交易所）始终为用户提供任何 CEX 方面的黑客攻击。并不是说一个比另一个更好。不同的方法有不同的风险状况（和产品），并且可能更适合不同的人。平衡的方法可能是最好的。"
+    },
     {
       "id": "tweet_cz_binance_2084326153582706891",
       "username": "cz_binance",
@@ -20,16 +60,6 @@
       "content": "何必东奔西走 币安全部都有",
       "url": "https://x.com/cz_binance/status/2084184120046092654",
       "tweet_id": "2084184120046092654"
-    },
-    {
-      "id": "tweet_cz_binance_2084158729281528292",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Mon, 03 Aug 2026 06:05:37 GMT",
-      "content": "Wrote this article in 2020 (updated in 2025). Talks about different way you could back up your seed phrase. A bit long, but worth the time to read. https://www.binance.com/en/blog/from-our-ceo/421499824684900429",
-      "url": "https://x.com/cz_binance/status/2084158729281528292",
-      "tweet_id": "2084158729281528292",
-      "translated": "这篇文章写于2020年（2025年更新）。讨论备份助记词的不同方式。有点长，但值得花时间阅读。 https://www.binance.com/en/blog/from-our-ceo/421499824684900429"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
@@ -118,31 +148,31 @@
       "tweet_id": "2084449500744319334"
     },
     {
-      "id": "tweet_xiaomustock_2084371915268050945",
+      "id": "tweet_xiaomustock_2084541396569215031",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Mon, 03 Aug 2026 20:12:45 GMT",
-      "content": "标记一下这些麻瓜机构， 他们清一色的下调了 $META 的目标价。",
-      "url": "https://x.com/xiaomustock/status/2084371915268050945",
-      "tweet_id": "2084371915268050945"
+      "published_at": "Tue, 04 Aug 2026 07:26:12 GMT",
+      "content": "这暴跌了一大波，利好就冒出来了。 存储三巨头的2027年产能售罄。",
+      "url": "https://x.com/xiaomustock/status/2084541396569215031",
+      "tweet_id": "2084541396569215031"
     },
     {
-      "id": "tweet_xiaomustock_2084304840700920281",
+      "id": "tweet_xiaomustock_2084522592044724542",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Mon, 03 Aug 2026 15:46:13 GMT",
-      "content": "我觉得如果韩老板真打算赔， 警方调查到黑客不是受害者本人自导自演，确有黑客在没有受害者邮箱密码，谷歌验证，手机短信和受害者本人人脸的情况下对gate的风控实施了一连串的突破， 那证据十分充足的指向了你们gate的风控人工审核人员的过错导致资产被盗。 就大大方方直接赔偿。 如果等官方定责，那gate保管用户资金属于民事，虚拟币在国内不受理民事案件，没法定责，韩老板你这不就成了啥流氓了么，只开一个空头支票。",
-      "url": "https://x.com/xiaomustock/status/2084304840700920281",
-      "tweet_id": "2084304840700920281"
+      "published_at": "Tue, 04 Aug 2026 06:11:29 GMT",
+      "content": "今天选择买有三个原因， 1.adr规则要求下，8.4号刚好是股东回报分红计划可以公布的最早时间点。 2.前几天反弹后大幅回撤回来，刚好今天价格比较理想。 3.大模型公司被ds 百万token 0.02人民币远低于1美分的定价打得集体降价，势必增加更大规模的存储需求。",
+      "url": "https://x.com/xiaomustock/status/2084522592044724542",
+      "tweet_id": "2084522592044724542"
     },
     {
-      "id": "tweet_xiaomustock_2084278330908627293",
+      "id": "tweet_xiaomustock_2084519583248208175",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Mon, 03 Aug 2026 14:00:52 GMT",
-      "content": "以后就是永远缺 $META 😂",
-      "url": "https://x.com/xiaomustock/status/2084278330908627293",
-      "tweet_id": "2084278330908627293"
+      "published_at": "Tue, 04 Aug 2026 05:59:31 GMT",
+      "content": "刚接了一波韩股海力士156万韩元成本",
+      "url": "https://x.com/xiaomustock/status/2084519583248208175",
+      "tweet_id": "2084519583248208175"
     },
     {
       "id": "tweet_xingpt_2084290604285276216",
@@ -200,8 +230,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
