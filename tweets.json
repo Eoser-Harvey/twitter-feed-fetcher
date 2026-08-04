@@ -1,35 +1,36 @@
 {
-  "fetched_at": "2026-08-04T16:14:21.681366+00:00",
+  "fetched_at": "2026-08-04T18:30:04.568693+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2084669448376480185",
+      "id": "tweet_elonmusk_2084633101230023088",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 04 Aug 2026 15:55:02 GMT",
-      "content": "🚀🚀",
-      "url": "https://x.com/elonmusk/status/2084669448376480185",
-      "tweet_id": "2084669448376480185"
+      "published_at": "Tue, 04 Aug 2026 13:30:36 GMT",
+      "content": "RT by @elonmusk: A very small percentage of my academic colleagues have ever openly supported my efforts to fight against the parasitic rot in academia. Regrettably, most academics are astoundingly cowardly. They prefer to nod quietly that \"men too can menstruate\" rather than standing up and saying \"Are you insane? No, men cannot menstruate.\" If you can get academics to reject the most fundamental markers of biological reality, you know that academia is not populated with intellectual NAVY seals.",
+      "url": "https://x.com/elonmusk/status/2084633101230023088",
+      "tweet_id": "2084633101230023088",
+      "translated": "RT @elonmusk：我的学术同事中只有极少数曾公开支持我对抗学术界寄生腐烂的努力。遗憾的是，大多数学者都胆怯得惊人。她们宁愿默默点头说“男人也可以来月经”，而不是站起来说“你疯了吗？不，男人不能来月经”。如果你能让学术界拒绝生物现实的最基本标记，你就知道学术界并不充满知识分子海军海豹突击队。"
     },
     {
-      "id": "tweet_elonmusk_2084652192024125768",
+      "id": "tweet_elonmusk_2084678514402271486",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 04 Aug 2026 14:46:28 GMT",
-      "content": "Can’t trust OpenAI",
-      "url": "https://x.com/elonmusk/status/2084652192024125768",
-      "tweet_id": "2084652192024125768",
-      "translated": "不能相信 OpenAI"
+      "published_at": "Tue, 04 Aug 2026 16:31:03 GMT",
+      "content": "Indeed",
+      "url": "https://x.com/elonmusk/status/2084678514402271486",
+      "tweet_id": "2084678514402271486",
+      "translated": "的确"
     },
     {
-      "id": "tweet_elonmusk_2084651951774454093",
+      "id": "tweet_elonmusk_2084613682512724255",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 04 Aug 2026 14:45:30 GMT",
-      "content": "Yeah",
-      "url": "https://x.com/elonmusk/status/2084651951774454093",
-      "tweet_id": "2084651951774454093",
-      "translated": "是的"
+      "published_at": "Tue, 04 Aug 2026 12:13:26 GMT",
+      "content": "RT by @elonmusk: Elon Musk in 1995 enjoys the trophy after successfully raiding the refrigerator in the kitchen of his then-girlfriend Jennifer's parents 😂",
+      "url": "https://x.com/elonmusk/status/2084613682512724255",
+      "tweet_id": "2084613682512724255",
+      "translated": "RT by @elonmusk：1995 年，埃隆·马斯克 (Elon Musk) 在成功袭击了他当时女友詹妮弗 (Jennifer) 父母厨房里的冰箱后，享受了这个奖杯 😂"
     },
     {
       "id": "tweet_cz_binance_2084531849515131231",
@@ -231,6 +232,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
