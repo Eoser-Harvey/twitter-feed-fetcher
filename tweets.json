@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-08-05T17:41:29.789986+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-05T19:38:35.534822+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2085074791648948401",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 05 Aug 2026 18:45:43 GMT",
+      "content": "True",
+      "url": "https://x.com/elonmusk/status/2085074791648948401",
+      "tweet_id": "2085074791648948401",
+      "translated": "真的"
+    },
+    {
+      "id": "tweet_elonmusk_2085074733532590531",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 05 Aug 2026 18:45:29 GMT",
+      "content": "Critical feedback for the Grok Build harness, Grok foundation model and Imagine is super appreciated",
+      "url": "https://x.com/elonmusk/status/2085074733532590531",
+      "tweet_id": "2085074733532590531",
+      "translated": "非常感谢对 Grok Build 工具、Grok 基础模型和 Imagine 的批评反馈"
+    },
     {
       "id": "tweet_elonmusk_2085045708844134423",
       "username": "elonmusk",
@@ -11,26 +31,6 @@
       "url": "https://x.com/elonmusk/status/2085045708844134423",
       "tweet_id": "2085045708844134423",
       "translated": "它将然后也去月球"
-    },
-    {
-      "id": "tweet_elonmusk_2085043800301318384",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 05 Aug 2026 16:42:34 GMT",
-      "content": "RT by @elonmusk: New aspect ratio visualizer A small but delightful UI update to Grok Imagine Web.",
-      "url": "https://x.com/elonmusk/status/2085043800301318384",
-      "tweet_id": "2085043800301318384",
-      "translated": "RT by @elonmusk：新的纵横比可视化工具 Grok Imagine Web 的一个小而令人愉快的 UI 更新。"
-    },
-    {
-      "id": "tweet_elonmusk_2085044909351047205",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 05 Aug 2026 16:46:59 GMT",
-      "content": "Exactly",
-      "url": "https://x.com/elonmusk/status/2085044909351047205",
-      "tweet_id": "2085044909351047205",
-      "translated": "确切地"
     },
     {
       "id": "tweet_cz_binance_2084995500286103715",
@@ -61,6 +61,35 @@
       "url": "https://x.com/cz_binance/status/2084990156482679112",
       "tweet_id": "2084990156482679112",
       "translated": "7×24小时、低费用、高效、全球、开放市场。"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2082159711852298494",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
+      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
+      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
+      "tweet_id": "2082159711852298494",
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2084795597417263442",
@@ -202,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
