@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-08-05T04:12:42.159264+00:00",
+  "fetched_at": "2026-08-05T07:42:05.251701+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2084733460690903204",
+      "id": "tweet_elonmusk_2084737280204280212",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 04 Aug 2026 20:09:24 GMT",
-      "content": "RT by @elonmusk: AI compute is going to orbit. 🚀 @SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars. The next chapter of AI infrastructure boldly goes where no AI compute has gone before.",
-      "url": "https://x.com/elonmusk/status/2084733460690903204",
-      "tweet_id": "2084733460690903204",
-      "translated": "RT @elonmusk：人工智能计算即将进入轨道。 🚀 @SpaceX 的 Starmind AI1 卫星计算有效负载由 NVIDIA Vera Rubin NVL72 提供支持，使 AI 工厂计算更接近恒星。人工智能基础设施的下一章大胆地进入了人工智能计算从未涉足的领域。"
+      "published_at": "Tue, 04 Aug 2026 20:24:34 GMT",
+      "content": "RT by @elonmusk: Grok 4.5 just turned Blender into a conversation. Instead of manually importing assets, fixing rigs, placing armies, adjusting cameras, and debugging objects that face the wrong direction, the user simply tells Grok what to change. It builds a medieval battlefield from existing 3D assets, adds horses, knights, a castle, siege machines, trees, animation paths, cameras, and even spatial audio. The impressive part is not that it gets everything right. It absolutely does not. Models spawn upside down, characters face the wrong way, and the scene needs constant correction. But Grok keeps editing the actual Blender project instead of generating another fake 3D image and hoping nobody notices. It is replacing a suspicious amount of the boring work they had to do before the skilled part even started.",
+      "url": "https://x.com/elonmusk/status/2084737280204280212",
+      "tweet_id": "2084737280204280212",
+      "translated": "RT @elonmusk：Grok 4.5 刚刚将 Blender 变成了对话。用户无需手动导入资产、修复装备、放置军队、调整摄像机以及调试面向错误方向的对象，只需告诉 Grok 要更改哪些内容即可。它利用现有 3D 资源构建中世纪战场，添加马匹、骑士、城堡、攻城机器、树木、动画路径、摄像机，甚至空间音频。令人印象深刻的部分并不是它把一切都做好了。绝对不是。模型上下颠倒，角色面朝错误的方向，场景需要不断修正。但 Grok 继续编辑实际的 Blender 项目，而不是生成另一个假的 3D 图像并希望没有人注意到。它正在取代他们在熟练部分开始之前必须做的大量令人怀疑的无聊工作。"
     },
     {
-      "id": "tweet_elonmusk_2084755184748486980",
+      "id": "tweet_elonmusk_2084754523541889448",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 04 Aug 2026 21:35:43 GMT",
-      "content": "RT by @elonmusk: Elon & Jensen with NVIDIA GPUs August 2016",
-      "url": "https://x.com/elonmusk/status/2084755184748486980",
-      "tweet_id": "2084755184748486980",
-      "translated": "RT by @elonmusk：Elon 和 Jensen 使用 NVIDIA GPU 2016 年 8 月"
+      "published_at": "Tue, 04 Aug 2026 21:33:05 GMT",
+      "content": "RT by @elonmusk: Grok Imagine is truly an excellent app. This app inspires me to dream completely different dreams. @elonmusk You absolutely must try Grok Imagine. Thank you, Emperor Kekius Maximus ⚔️💪⚔️",
+      "url": "https://x.com/elonmusk/status/2084754523541889448",
+      "tweet_id": "2084754523541889448",
+      "translated": "RT @elonmusk：Grok Imagine 确实是一款出色的应用程序。这个应用程序激励我梦想完全不同的梦想。 @elonmusk 你绝对必须尝试 Grok Imagine。谢谢您，凯基乌斯·马克西姆斯皇帝⚔️💪⚔️"
     },
     {
-      "id": "tweet_elonmusk_2084656303046332747",
+      "id": "tweet_elonmusk_2084530890093298013",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 04 Aug 2026 15:02:48 GMT",
-      "content": "RT by @elonmusk: Today, we’re launching Alpamayo 2 Super, our frontier open reasoning model for autonomous vehicles. Beyond seeing, Alpamayo understands and reasons through the complex world - thinks before it acts. It’s a powerful backbone for robotaxis, trucks, shuttles, delivery vans, tractors and the long tail of mobile robots—billions of autonomous machines someday. We’re releasing it for commercial use under OpenMDW-1.1 so teams can inspect it, fine-tune it and deploy it—open models advance safety and security. The next wave of AI is robotics—and it starts with autonomous vehicles. Great work, Alpamayo team! https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
-      "url": "https://x.com/elonmusk/status/2084656303046332747",
-      "tweet_id": "2084656303046332747",
-      "translated": "RT @elonmusk：今天，我们推出 Alpamayo 2 Super，这是我们针对自动驾驶汽车的前沿开放推理模型。除了观察之外，Alpamayo 还能理解复杂的世界并进行推理——先思考后行动。它是机器人出租车、卡车、班车、送货车、拖拉机和移动机器人长尾（有一天将有数十亿台自主机器）的强大支柱。我们将在 OpenMDW-1.1 下将其发布用于商业用途，以便团队可以检查、微调和部署它——开放模型可提高安全性。人工智能的下一波浪潮是机器人技术，它始于自动驾驶汽车。干得好，Alpamayo 团队！ https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available"
+      "published_at": "Tue, 04 Aug 2026 06:44:27 GMT",
+      "content": "RT by @elonmusk: Grok Imagine Video 1.5 is now the #2 Image-to-Video AI model. Another huge milestone for xAI as Grok continues to climb the rankings.",
+      "url": "https://x.com/elonmusk/status/2084530890093298013",
+      "tweet_id": "2084530890093298013",
+      "translated": "RT @elonmusk：Grok Imagine Video 1.5 现在是排名第二的图像到视频 AI 模型。随着 Grok 排名不断攀升，xAI 的另一个巨大里程碑。"
     },
     {
       "id": "tweet_cz_binance_2084531849515131231",
@@ -121,6 +121,24 @@
       "translated": "对从 $AAOI、$SIVE / Jabil 到 $LITE 和相干公司的西方供应链来说，一个非常重要的催化剂出现了：特朗普政府正在起草一项针对新的中国光收发器和直流设备的禁令。这可能会影响中国的旭创科技、新易盛和其他中国光互连供应链。 “该机构将禁止所有新收发器型号的进口，然后使许多非中国供应商免受限制”我们可能会看到供应链出现更大的分歧，而西方企业将更加受到重视。"
     },
     {
+      "id": "tweet_qinbafrank_2084887069265178857",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 05 Aug 2026 06:19:47 GMT",
+      "content": "按照FCC政策落地执行的思路来看就是昨晚这里https://x.com/qinbafrank/status/2084630010946523613?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到的，白宫其实有虚空造牌的意味，用对光模块最下游的采购（美国超大csp占据中际旭创、新易盛七成以上的订单）禁令来换取中国进一步放松对最上游磷化烟InP的出口管制。否则短期内两边都很难受，当然中长期科技冷战大背景下供应链分化在所难免。",
+      "url": "https://x.com/qinbafrank/status/2084887069265178857",
+      "tweet_id": "2084887069265178857"
+    },
+    {
+      "id": "tweet_qinbafrank_2084875893533778379",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 05 Aug 2026 05:35:22 GMT",
+      "content": "关于对中国光学收发器和直流设备可能的禁令，未来大概率还是FCC（联邦贸易委员会）同一套路数，不是全新政策：与之前关于无人机/UAS、路由器、人形/四足机器人、电力逆变器的禁令一样，走FCC Covered List（受管制清单）机制，具体流程可能也一致： 1）白宫召集的跨部门国家安全机构先出“国家安全认定”（National Security Determination），判定某类“外国生产”设备对美国国家安全构成“不可接受的风险”； 2）FCC据此把这类设备加入Covered List； 3）新型号无法获得FCC设备授权，因此不能进口、营销或销售到美国。 4）只针对新型号，已获授权的旧型号可以继续卖、继续用。消费者已买的不受影响。 5）留有条件批准口子：厂商可向国防部（DoW）或国土安全部（DHS）申请豁免，通常要提交供应链证明 + 美国本土化生产计划。 从公开信息看，大概率会沿用同一套Covered List + 国家安全认定的路径，而不是另起炉灶搞全新立法或商务部直接出口管制。 FCC近年一直在用这个工具快速扩大管制范围（无人机→路由器→机器人/逆变器→现在光模块），效率高、针对“新设备”，对现有库存冲击小，目标是“从源头阻断嵌入”。 短期对供应链的冲击模式也会类似——新货卡住、旧货还能用、替代要时间、成本上升。",
+      "url": "https://x.com/qinbafrank/status/2084875893533778379",
+      "tweet_id": "2084875893533778379"
+    },
+    {
       "id": "tweet_qinbafrank_2084834326613840376",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -130,23 +148,13 @@
       "tweet_id": "2084834326613840376"
     },
     {
-      "id": "tweet_qinbafrank_2084826952633131152",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 05 Aug 2026 02:20:54 GMT",
-      "content": "看SpaceX最新的财报，几个关注的点 1、先看业务数据： 1）营收78.14亿美金，同比增长92%（上年同期$40.71亿），大幅超过预期（约$69亿）。 2）净亏损5.41亿美金（每股亏损$0.09），较上年同期$10.08亿显著收窄；优于预期（约每股亏损$0.26）。 3）调整后EBITDA：$35亿，同比增长191%（上年同期约$12亿）。 4）资本支出约183.7亿美金，大幅飙升（上年同期约$28.3亿），主要投向AI算力建设（AI相关约$158.3亿）。管理层预计未来几个季度CapEx仍将保持类似高位。 5）现金及等价物+有价证券约1000亿美金（IPO净募资约$857亿大幅增厚）； backlog（未完成订单）$475亿。 6）管理层指引：预期到2026年12月实现1000亿美金年化营收运行率（单月营收超过80亿美金？）AI新资本投入回本期有望低于1年；一年内发射至少1000颗下一代V3 Starlink卫星。 2、先说我认为的几个亮点： 1）starlink用户1200万，一季度末才刚过1000万，环比增速很快了。之前也是认为starlink未来几年看到数亿用户是大概率的、这要是spacex长期的现金牛； 2）AI业务 同比250%的增长，应该其实主要是出租算力带来的增长。个人更关注财报披露的Q2签署了141亿美金合同。 之前SpaceX跟Authropic和谷歌签署的长期算力协议两者合计全额运行后约每月$21.7亿，年化约$260亿。这些是长期多年度协议，在S-1和6月SEC文件中已单独披露，不属于Q2“新签”的$14.1亿范畴。 141亿美金亿具体指什么？ 根据SpaceX财报及电话会说的“Closed multiple industry-leading Cloud Services Agreements resulting in $14.1 billion of contracted sales”。 这些协议在Q2内签署，直接贡献了当季AI基础设施增量营收​$16亿。 然后CFO Bret Johnsen进一步说明：Q3初期又新增了​$67亿云服务合同（覆盖从10月开始的约6个月期间）。 也就是说： 141亿亿美金=Q2新签/确认的多份云算力协议的合同总金额（可能是较短期限、额外容量、新客户如Reflection AI，或现有协议的增量/正式锁定部分）。 Anthropic和Google的收入正在按爬坡进度逐步确认（前期折扣、后期全额），并已计入AI分部整体增长。 三季度到四季度spaceX的AI业务特别云算力出租估计增长会非常快。 3）未来指引非常乐观 预期到2026年12月实现1000亿美金年化营收运行率：意味着12月单月营收超过80亿美金，这估计大部分是AI提供的。 AI新资本投入回本期有望低于1年； 3、但要注意整体当下涨跌跟业务关联度并不高，正如刚上市连涨好几天市值摸到3万亿美金，也跟基本面没有关系，都是刚上市低流通情况下市场的预期、情绪和资金推动 今天财报后大跌、看多不少说法是担忧资本开支，那还不如说担忧8月6号开始20%的限售股解禁。之前这里https://x.com/qinbafrank/status/2061389019414696005?s=46&t=k6rimWsEbo2D2tXolYcM-A梳理过、从2季度财报之后spacex的限售股解禁潮就开始了、一直持续到年底。 6月11号在spacex上市前聊到：越临近解禁需要越谨慎，年底解锁完后应该会迎来中长期配置的好时机。 现在看依然如此",
-      "url": "https://x.com/qinbafrank/status/2084826952633131152",
-      "tweet_id": "2084826952633131152",
-      "translated": "看SpaceX最新的财报，几个关注的点 1、先看业务数据： 1）营收78.14亿美金，同比增长92%（上年同期$40.71亿），大幅超过预期（约$69亿）。 2）净亏损5.41亿美金（每股亏损$0.09），较上年同期$10.08亿显着收窄；优于预期（约每股亏损$0.26）。 3）调整后EBITDA：$35亿，同比增长191%（上年同期约$12亿）。 4）资本支出约183.7亿美金，大幅飙升（上年同期约$28.3亿），主要投向AI算力建设（AI相关约$158.3亿）。管理层预计未来几个季度CapEx仍将保持类似高位。 5）现金及等价物+有价证券约1000亿美金（IPO净募资约$857亿大幅增厚）； backlog（未完成订单）$475亿。 6）管理层指引：预期到2026年12月实现1000亿美金年化营收运行率（单月营收超过80亿美金？）AI新资本投入回本期有望低于1年；一年内发射至少1000颗下一代V3 Starlink卫星。 2、先说我认为的几个亮点： 1）starlink用户1200万，一季度末才刚过1000万，环比增速很快了。之前也是认为starlink未来几年看到数亿用户是大概率的、这要是spacex长期的现金牛； 2）AI业务 同比250%的增长，应该其实主要是出租算力带来的增长。个人更关注财报披露的Q2签署了141亿美金合同。 之前SpaceX跟Authropic和谷歌签署的长期算力协议两者合计全额运行后约每月$21.7亿，年化约$260亿。这些是长期多年度协议，在S-1和6月SEC文件中已单独披露，不属于Q2“新签”的$14.1亿范畴。 141亿美金亿具体指什么？ 根据SpaceX财报及电话会说的“Closed multiple industry-leading Cloud Services Agreements resulting in $14.1 billion of contracted sales”。 这些协议在Q2内签署，直接贡献了当季AI基础设施增量营收​$16亿。 然后CFO Bret Johnsen进一步说明：Q3初期又新增了​$67亿云服务合同（覆盖从10月开始的约6个月期间）。 也就是说： 141亿亿美金=Q2新签/确认的多份云算力协议的合同总金额（可能是较短期限、额外容量、新客户如Reflection AI，或现有协议的增量/正式锁定部分）。 Anthropic和Google的收入正在按爬坡进度逐步确认（前期折扣、后期全额），并已计入AI分部整体增长。 三季度到四季度spaceX的AI业务特别云算力出租估计增长会非常快。 3）未来指引非常乐观 预期到2026年12月实现1000亿美金年化营收运行率：意味着12月单月营收超过80亿美金，这估计大部分是AI提供的。 AI新资本投入回本期有望低于1年； 3、但要注意整体当下涨跌跟业务关联度并不高，正如刚上市连涨好几天市值摸到3万亿美金，也跟基本面没有关系，都是刚上市低流通情况下市场的预期、情绪和资金推动 今天财报后大跌、看多不少说法是担忧资本开支，那还不如说担忧8月6号开始20%的限售股解禁。之前这里https://x.com/qinbafrank/status/2061389019414696005?s=46&t=k6rimWsEbo2D2tXolYcM-A梳理过、从2季度财报之后spacex的限售股解禁潮就开始了、一直持续到年底。 6月11号在spacex上市前聊到：越临近解禁需要越谨慎，年底解锁完后应该会迎来中长期配置的好时机。 现在看依然如此"
-    },
-    {
-      "id": "tweet_qinbafrank_2084630010946523613",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Tue, 04 Aug 2026 13:18:19 GMT",
-      "content": "怎么看川普政府正在起草禁止中国光学收发器和直流设备的禁令？刚才这里https://x.com/qinbafrank/status/2084616646929604611?s=46&t=k6rimWsEbo2D2tXolYcM-A 简单聊了下，再深入聊聊：1、中际旭创是全球光模块（尤其是数据中心高速光收发器）龙头，它和另一家中国厂商新易盛（Eoptolink）合计在800G市场占约三分之二份额，是北美AI数据中心光互连的主力供应商。 如果禁令真的生效短期内欧美产业链很难完全接上，尤其是高速率（800G/1.6T）光模块的大规模量产交付能力，会对北美CSP主导的数据中心（尤其是AI集群）建设节奏和成本产生一定影响。 CSP更换供应商需严格资质认证、可靠性测试、供应链验证，通常需要数月到1年以上。 2、美国厂商有技术，但缺规模：主要替代者是Coherent和Lumentum（美国）。它们在激光器（EML/InP芯片）、硅光等上游有优势，产品有竞争力，但在高速可插拔光模块的大规模组装与交付上，远不如中国厂商。这两家“缺乏完全替代中国供应商的规模”。其他如Broadcom、Molex等也有份额，但整体北美/欧洲在高量产数通模块上远远落后中国厂商、简单说产能远远跟不上。 3、还有关键的磷化铟（InP） InP是光模块激光器（EML等）的命门材料，没有它高速光模块就做不了。现状是中国控制全球约70%的精炼铟产量，2025年2月起就把磷化铟（InP基板等）纳入出口管制，许可审批变严/变慢。 导致6英寸InP晶圆价格暴涨，美国相关出货大降，Coherent、Lumentum等喊短缺，Lumentum订单排到2028年，AXT（主要在中国生产InP）积压严重。 4、现在看起来中国用InP作为反制杠杆，正卡着美国AI数据中心扩容的脖子；美国现在禁中国光模块成品，相当于反过来卡下游。 双方都不是“不要”，而是互相加码卡点，逼对方付出更高代价，同时加速自己国产化（美国扩InP产能在德州等地，中国也在扩本土InP）。 5、所以最好剧本：是超大csp到白宫博弈（影响数据中心建设），中美都退后一步：中国进一步放开磷化烟InP的管制，美国取消禁令（本来就没有这个禁令，有点虚空造牌的意思），这样双方都有喘息 最差就是白宫禁令落地，中国InP管控更紧，影响数据中心建设。等待替代产能 6、但有一点对于美股光互连板块的意义在于，让市场目光重新回到光互连板块。更多的逻辑在上午的推文有详细聊到。 禁令会带来实打实的摩擦成本，但也能看出来未来对于AI产业链，美国会越来越从安全 > 效率的角度出发，宁可数据中心建慢点、贵点，也不想把AI命脉继续交给中国供应链。 这可能就是科技冷战的常态：互相掐脖子，同时各自狂建产能。最终谁能更快实现“可控替代”，谁就更有底气。",
-      "url": "https://x.com/qinbafrank/status/2084630010946523613",
-      "tweet_id": "2084630010946523613"
+      "id": "tweet_xiaomustock_2084875235833348532",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Wed, 05 Aug 2026 05:32:45 GMT",
+      "content": "梁圣太权威了，它还没像kimi一样堆参数， 只是几个月突然公布出来一个接近全球顶级模型能力的版本，再把价格达到白菜价。 除此之外从不在公众视野中出现。 这么搞同样token预算，存储消耗量得倍增。",
+      "url": "https://x.com/xiaomustock/status/2084875235833348532",
+      "tweet_id": "2084875235833348532"
     },
     {
       "id": "tweet_xiaomustock_2084632143427522800",
@@ -165,15 +173,6 @@
       "content": "光猛归猛一个都不敢买，业绩太虚了。",
       "url": "https://x.com/xiaomustock/status/2084598196257603847",
       "tweet_id": "2084598196257603847"
-    },
-    {
-      "id": "tweet_xiaomustock_2084594400685085136",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Tue, 04 Aug 2026 10:56:49 GMT",
-      "content": "这条光收发器的新闻查了一下ai， 利好cohr，lite，avgo，mrvl",
-      "url": "https://x.com/xiaomustock/status/2084594400685085136",
-      "tweet_id": "2084594400685085136"
     },
     {
       "id": "tweet_xingpt_2084835570757591502",
@@ -233,6 +232,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
