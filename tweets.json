@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-05T19:38:35.534822+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-05T21:13:02.111673+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2085074791648948401",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 05 Aug 2026 18:45:43 GMT",
-      "content": "True",
-      "url": "https://x.com/elonmusk/status/2085074791648948401",
-      "tweet_id": "2085074791648948401",
-      "translated": "真的"
-    },
-    {
-      "id": "tweet_elonmusk_2085074733532590531",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 05 Aug 2026 18:45:29 GMT",
-      "content": "Critical feedback for the Grok Build harness, Grok foundation model and Imagine is super appreciated",
-      "url": "https://x.com/elonmusk/status/2085074733532590531",
-      "tweet_id": "2085074733532590531",
-      "translated": "非常感谢对 Grok Build 工具、Grok 基础模型和 Imagine 的批评反馈"
-    },
-    {
-      "id": "tweet_elonmusk_2085045708844134423",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 05 Aug 2026 16:50:09 GMT",
-      "content": "It will and then to the Moon too",
-      "url": "https://x.com/elonmusk/status/2085045708844134423",
-      "tweet_id": "2085045708844134423",
-      "translated": "它将然后也去月球"
-    },
     {
       "id": "tweet_cz_binance_2084995500286103715",
       "username": "cz_binance",
@@ -231,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
