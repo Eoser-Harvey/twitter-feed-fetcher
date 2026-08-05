@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-08-05T15:15:48.528351+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-05T17:41:29.789986+00:00",
+  "total": 21,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2084998906702901758",
+      "id": "tweet_elonmusk_2085045708844134423",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 05 Aug 2026 13:44:11 GMT",
-      "content": "RT by @elonmusk: Perfecting the overnight mode on Grok Build to keep the main agent context clean, dropping compaction from 3 times to 1. Prompt: \"Overnight mode on: <goal>. The role of the orchestrator is to a) make high-level strategy decisions, b) make sure sub-agents deliver useful information and keep going, c) validate sub-agent results (fan out another sub-agent as a validator), and make the next move.\"",
-      "url": "https://x.com/elonmusk/status/2084998906702901758",
-      "tweet_id": "2084998906702901758",
-      "translated": "RT by @elonmusk：完善 Grok Build 上的隔夜模式，以保持主代理上下文干净，将压缩次数从 3 次降低到 1 次。提示：“隔夜模式开启：<目标>。编排器的作用是 a) 做出高级策略决策，b) 确保子代理提供有用的信息并继续前进，c) 验证子代理结果（扇出另一个子代理作为验证器），并采取下一步行动。”"
+      "published_at": "Wed, 05 Aug 2026 16:50:09 GMT",
+      "content": "It will and then to the Moon too",
+      "url": "https://x.com/elonmusk/status/2085045708844134423",
+      "tweet_id": "2085045708844134423",
+      "translated": "它将然后也去月球"
     },
     {
-      "id": "tweet_elonmusk_2084989366590742585",
+      "id": "tweet_elonmusk_2085043800301318384",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 05 Aug 2026 13:06:16 GMT",
-      "content": "Grok Build",
-      "url": "https://x.com/elonmusk/status/2084989366590742585",
-      "tweet_id": "2084989366590742585",
-      "translated": "格罗克构建"
+      "published_at": "Wed, 05 Aug 2026 16:42:34 GMT",
+      "content": "RT by @elonmusk: New aspect ratio visualizer A small but delightful UI update to Grok Imagine Web.",
+      "url": "https://x.com/elonmusk/status/2085043800301318384",
+      "tweet_id": "2085043800301318384",
+      "translated": "RT by @elonmusk：新的纵横比可视化工具 Grok Imagine Web 的一个小而令人愉快的 UI 更新。"
     },
     {
-      "id": "tweet_elonmusk_2084912076502282341",
+      "id": "tweet_elonmusk_2085044909351047205",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 05 Aug 2026 07:59:09 GMT",
-      "content": "RT by @elonmusk: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship",
-      "url": "https://x.com/elonmusk/status/2084912076502282341",
-      "tweet_id": "2084912076502282341",
-      "translated": "RT by @elonmusk：猎鹰 9 号的第一级已降落在 Gravitas 无人机的 A Shortfall 上"
+      "published_at": "Wed, 05 Aug 2026 16:46:59 GMT",
+      "content": "Exactly",
+      "url": "https://x.com/elonmusk/status/2085044909351047205",
+      "tweet_id": "2085044909351047205",
+      "translated": "确切地"
     },
     {
       "id": "tweet_cz_binance_2084995500286103715",
@@ -63,35 +63,6 @@
       "translated": "7×24小时、低费用、高效、全球、开放市场。"
     },
     {
-      "id": "tweet_realDonaldTrump_2082159711852298494",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
-      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
-      "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
-    },
-    {
       "id": "tweet_aleabitoreddit_2084795597417263442",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -122,6 +93,15 @@
       "translated": "对从 $AAOI、$SIVE / Jabil 到 $LITE 和相干公司的西方供应链来说，一个非常重要的催化剂出现了：特朗普政府正在起草一项针对新的中国光收发器和直流设备的禁令。这可能会影响中国的旭创科技、新易盛和其他中国光互连供应链。 “该机构将禁止所有新收发器型号的进口，然后使许多非中国供应商免受限制”我们可能会看到供应链出现更大的分歧，而西方企业将更加受到重视。"
     },
     {
+      "id": "tweet_qinbafrank_2085042615452659821",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 05 Aug 2026 16:37:52 GMT",
+      "content": "谷歌最近出啥问题了？接连损失大将。刚刚杰夫.迪恩宣布从谷歌离职创立Discovery Loop。这位非常不简单，杰夫.迪恩是计算机科学与人工智能领域的传奇人物，被誉为“谷歌的系统架构总设计师”和硅谷“程序员中的程序员”。 1、杰夫离职前担任谷歌首席科学家兼任 Google DeepMind 和 Google Research 的核心技术领袖。是Google Senior Fellow/Level 11，在谷歌数十万员工中，能达到 Level 11 的极度罕见，几乎代表了整个谷歌技术体系的终极权威。 2、Jeff Dean在谷歌工作27年，其职业生涯贯穿了互联网海量数据处理时代与现代人工智能时代，其核心成就可分为三大阶段： 1）奠定现代互联网基础的基础设施（2000年代） 在谷歌成立早期，他主导开发了一系列支撑起整个 Google 生态（乃至全行业大数据架构）的基础系统： MapReduce：划时代的分布式计算框架。它将庞大的数据处理任务拆分到数万台普通服务器上并行运行，是后来的 Hadoop 等大数据技术的直接灵感来源。 Bigtable：高扩展性、高性能的分布式结构化数据存储系统，直接催生了后来的 NoSQL 数据库浪潮（如 HBase）。 Spanner：全球级分布式 SQL 数据库，打破了传统数据库“一致性”与“可用性”难以兼得的困境。 搜索与广告系统架构：主导设计了谷歌早期的五代搜索索引与抓取系统，以及 AdSense 广告投放系统的早期基础设施。 2）推动 AI 革命与深度学习生态（2010年代） 创建 Google Brain（谷歌大脑）：2011 年与吴恩达（Andrew Ng）等人共同创办 Google Brain，将深度学习引入谷歌的核心业务。 TensorFlow：主导打造并开源了全球最著名的深度学习框架之一 TensorFlow，极大地降低了全球研究者和开发者使用 AI 的门槛。 DistBelief & Pathways：先后设计了 DistBelief（早期大规模分布式神经网络训练系统） 和 Pathways 架构（为后续训练 PaLM、Gemini 等超大规模多模态大模型奠定了系统支撑）。 3）整合与领军时代（2020年代） 统领 Google AI 与 DeepMind 融合，杰夫曾长期担任 Google AI（Google Research）负责人。2023 年 Google Brain 与 DeepMind 合并为 Google DeepMind 后，他作为首席科学家，重点统筹下一代超大模型（如 Gemini 系列）的系统架构与前沿 AI 研发。 前段时间谷歌还有两位大拿离开： 1）Google DeepMind 副总裁 John Jumper跳槽至 Anthropic，这位因带领团队打造预测蛋白质结构的革命性 AI 模型 AlphaFold，与 Demis Hassabis 共同获得 2024 年诺贝尔化学奖。 2）谷歌工程副总裁兼旗舰模型 Gemini 联合负责人Noam Shazeer跳槽至 OpenAI。 Noam Shazeer 是Transformer 架构奠基人之一：2017 年奠定现代大模型基础的划时代论文《Attention Is All You Need》的共同作者。 前线厮杀正浓，统兵大将接连离开，对谷歌影响应该不小。",
+      "url": "https://x.com/qinbafrank/status/2085042615452659821",
+      "tweet_id": "2085042615452659821"
+    },
+    {
       "id": "tweet_qinbafrank_2085006976610918449",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -140,13 +120,13 @@
       "tweet_id": "2084991367919624237"
     },
     {
-      "id": "tweet_qinbafrank_2084939116387647801",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 05 Aug 2026 09:46:36 GMT",
-      "content": "过去两个月RKLB股价就像泄洪一样从150干到60，不知道以为小火箭爆炸了要破产了。不过订单倒时拿到手软： 1）6月下旬NASA选择RKLB执行三项Electron专用发射任务，用于PolSIR和TSIS-2科学任务。属于NASA的VADR合同框架； 2）6月底宣布完成收购铱星通信。进入卫星通信、数据服务领域； 3）7月下旬美国太空军授予RKLB约2.66亿美元（$266M）多发射合同， 由Space Systems Command的Rocket Systems Launch Program（RSLP）授予，用于12次亚轨道发射（最多额外6次选项），支持导弹防御能力发展。首次发射预计不早于2026年底，主要从阿拉斯加（Kodiak）新站点执行。这是当时公司最大的发射合同。 4）7月30日，RKLB与日本iQPS签署三枚Electron专用发射多发射协议 每枚任务部署一颗QPS-SAR合成孔径雷达卫星至约575公里低地球轨道，用于扩展iQPS地球成像星座。从新西兰Launch Complex 1发射，计划从2027年末开始。这是双方一年内宣布的第三份多发射协议（累计已预订18次Electron发射）。 5）8月1日，RKLB被选入美国太空军NITE-STAR IDIQ项目，太空军挑选包括Rocket Lab在内的15家公司，进入价值上限约9.81亿美元（$981M）的合同，用于发展空间测试与训练基础设施（卫星、传感器、地面系统等）。这是入选资格，后续可竞争具体任务订单。 6）8月4日今天，美国太空军授予RKLB约3.97亿美元（$397M）合同，服务于天基空中动目标指示项目（SB-AMTI），由天基感知与目标定位（SBST）项目采购执行办公室（PAE）主导。Rocket Lab将开发、在Neutron火箭上发射并运营多颗先进Flatellite（平板卫星设计，配备传感器和低延迟高带宽通信链路），从安全设施提供实时探测与跟踪空中威胁数据。合同包含额外Flatellite选项。 对RKLB而言，算是一揽子非常积极的信号，进一步巩固其从“小型发射商”向“垂直整合国防太空系统供应商”的转型。 尤其是8月4日的3.97亿美元SB-AMTI合同，叠加过去两个月的其他订单，意义显著。 1）大幅提升订单积压（Backlog）与收入可见性，Q1积压已约22亿美元同比增长超100%。近期新增的，那么积压订单量进一步提升，可能已经到30亿美金以上。 2）验证垂直整合模式与Neutron需求 SB-AMTI合同是端到端的：设计/制造先进Flatellite（平板卫星，优化大规模星座）、用即将首飞的Neutron发射、再从安全设施运营并提供实时数据/跟踪信息。 这直接认可了Rocket Lab“发射+航天器+任务运营”的一体化能力，也是Neutron的重大政府客户背书（此前已有商业预订）。Neutron仍目标2026年Q4首飞（此前因罐体测试等问题有所推迟），这类合同有助于降低需求风险、加速产能 3）强化国防/国家安全定位，打开更高价值机会 RKLB已经连续拿下多份美国太空军/SDA相关合同（此前还有SDA Tracking Layer等超8亿美元级别订单）。 从亚轨道HASTE测试、到天基空中动目标指示（SB-AMTI，替代/补充传统空中预警机）、再到测试训练基础设施（NITE-STAR），覆盖范围扩大。  这提升了其作为“可信国防prime”的地位，有利于参与更多Golden Dome等大型项目竞争。 这些业务层面的积极进展，可能会带动RKLB在八九月来一波行情，总不能一直被毒打嘛😅 下半年最关键的就是Neutron能否首飞成功了。",
-      "url": "https://x.com/qinbafrank/status/2084939116387647801",
-      "tweet_id": "2084939116387647801"
+      "id": "tweet_xiaomustock_2085053224386744756",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Wed, 05 Aug 2026 17:20:01 GMT",
+      "content": "刚把snxx，muu，skhynix都减了一半仓位，怕闪迪财报向下波动，等闪迪财报波动结束，准备再把减掉的仓位集中干到muu和snxx上。",
+      "url": "https://x.com/xiaomustock/status/2085053224386744756",
+      "tweet_id": "2085053224386744756"
     },
     {
       "id": "tweet_xiaomustock_2084875235833348532",
@@ -165,15 +145,6 @@
       "content": "存储爆拉吧，openai和anthropic这俩资本圈的硬菜没上，怎么能允许AI熄火。",
       "url": "https://x.com/xiaomustock/status/2084632143427522800",
       "tweet_id": "2084632143427522800"
-    },
-    {
-      "id": "tweet_xiaomustock_2084598196257603847",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Tue, 04 Aug 2026 11:11:54 GMT",
-      "content": "光猛归猛一个都不敢买，业绩太虚了。",
-      "url": "https://x.com/xiaomustock/status/2084598196257603847",
-      "tweet_id": "2084598196257603847"
     },
     {
       "id": "tweet_xingpt_2085011125092163942",
@@ -231,8 +202,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
