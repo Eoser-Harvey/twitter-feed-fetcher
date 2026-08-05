@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-08-05T10:37:57.445364+00:00",
+  "fetched_at": "2026-08-05T12:55:16.897108+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2084856017859317948",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 05 Aug 2026 04:16:24 GMT",
+      "content": "RT by @elonmusk: An extraordinary graphic showing what will happen in Poland if fertility rates simply stay where they are. Most of the developed world is on a trajectory of population collapse similar to this. Nothing matters more than turning around birthrate decline.",
+      "url": "https://x.com/elonmusk/status/2084856017859317948",
+      "tweet_id": "2084856017859317948",
+      "translated": "RT @elonmusk：这张非凡的图表显示了如果生育率保持在现有水平，波兰将会发生什么。大多数发达国家都处于与此类似的人口崩溃轨迹。没有什么比扭转少子化趋势更重要的了。"
+    },
     {
       "id": "tweet_elonmusk_2084737280204280212",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2084754523541889448",
       "tweet_id": "2084754523541889448",
       "translated": "RT @elonmusk：Grok Imagine 确实是一款出色的应用程序。这个应用程序激励我梦想完全不同的梦想。 @elonmusk 你绝对必须尝试 Grok Imagine。谢谢您，凯基乌斯·马克西姆斯皇帝⚔️💪⚔️"
-    },
-    {
-      "id": "tweet_elonmusk_2084530890093298013",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 04 Aug 2026 06:44:27 GMT",
-      "content": "RT by @elonmusk: Grok Imagine Video 1.5 is now the #2 Image-to-Video AI model. Another huge milestone for xAI as Grok continues to climb the rankings.",
-      "url": "https://x.com/elonmusk/status/2084530890093298013",
-      "tweet_id": "2084530890093298013",
-      "translated": "RT @elonmusk：Grok Imagine Video 1.5 现在是排名第二的图像到视频 AI 模型。随着 Grok 排名不断攀升，xAI 的另一个巨大里程碑。"
     },
     {
       "id": "tweet_cz_binance_2084531849515131231",
@@ -232,6 +232,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
