@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-05T07:42:05.251701+00:00",
+  "fetched_at": "2026-08-05T10:37:57.445364+00:00",
   "total": 24,
   "tweets": [
     {
@@ -10,7 +10,7 @@
       "content": "RT by @elonmusk: Grok 4.5 just turned Blender into a conversation. Instead of manually importing assets, fixing rigs, placing armies, adjusting cameras, and debugging objects that face the wrong direction, the user simply tells Grok what to change. It builds a medieval battlefield from existing 3D assets, adds horses, knights, a castle, siege machines, trees, animation paths, cameras, and even spatial audio. The impressive part is not that it gets everything right. It absolutely does not. Models spawn upside down, characters face the wrong way, and the scene needs constant correction. But Grok keeps editing the actual Blender project instead of generating another fake 3D image and hoping nobody notices. It is replacing a suspicious amount of the boring work they had to do before the skilled part even started.",
       "url": "https://x.com/elonmusk/status/2084737280204280212",
       "tweet_id": "2084737280204280212",
-      "translated": "RT @elonmusk：Grok 4.5 刚刚将 Blender 变成了对话。用户无需手动导入资产、修复装备、放置军队、调整摄像机以及调试面向错误方向的对象，只需告诉 Grok 要更改哪些内容即可。它利用现有 3D 资源构建中世纪战场，添加马匹、骑士、城堡、攻城机器、树木、动画路径、摄像机，甚至空间音频。令人印象深刻的部分并不是它把一切都做好了。绝对不是。模型上下颠倒，角色面朝错误的方向，场景需要不断修正。但 Grok 继续编辑实际的 Blender 项目，而不是生成另一个假的 3D 图像并希望没有人注意到。它正在取代他们在熟练部分开始之前必须做的大量令人怀疑的无聊工作。"
+      "translated": "RT @elonmusk：Grok 4.5 刚刚将 Blender 变成了对话。用户无需手动导入资产、修复装备、放置军队、调整摄像机以及调试面向错误方向的对象，只需告诉 Grok 要更改哪些内容即可。它利用现有 3D 资源构建中世纪战场，添加马匹、骑士、城堡、攻城机器、树木、动画路径、摄像机，甚至空间音频。令人印象深刻的部分并不是它把一切都做好了。绝对不是。模型上下颠倒，角色面朝错误的方向，场景需要不断修正。但 Grok 继续编辑实际的 Blender 项目，而不是生成另一个假的 3D 图像并希望没有人注意到。它正在取代他们在熟练部分开始之前必须做的大量无聊工作。"
     },
     {
       "id": "tweet_elonmusk_2084754523541889448",
@@ -121,6 +121,24 @@
       "translated": "对从 $AAOI、$SIVE / Jabil 到 $LITE 和相干公司的西方供应链来说，一个非常重要的催化剂出现了：特朗普政府正在起草一项针对新的中国光收发器和直流设备的禁令。这可能会影响中国的旭创科技、新易盛和其他中国光互连供应链。 “该机构将禁止所有新收发器型号的进口，然后使许多非中国供应商免受限制”我们可能会看到供应链出现更大的分歧，而西方企业将更加受到重视。"
     },
     {
+      "id": "tweet_qinbafrank_2084939116387647801",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 05 Aug 2026 09:46:36 GMT",
+      "content": "过去两个月RKLB股价就像泄洪一样从150干到60，不知道以为小火箭爆炸了要破产了。不过订单倒时拿到手软： 1）6月下旬NASA选择RKLB执行三项Electron专用发射任务，用于PolSIR和TSIS-2科学任务。属于NASA的VADR合同框架； 2）6月底宣布完成收购铱星通信。进入卫星通信、数据服务领域； 3）7月下旬美国太空军授予RKLB约2.66亿美元（$266M）多发射合同， 由Space Systems Command的Rocket Systems Launch Program（RSLP）授予，用于12次亚轨道发射（最多额外6次选项），支持导弹防御能力发展。首次发射预计不早于2026年底，主要从阿拉斯加（Kodiak）新站点执行。这是当时公司最大的发射合同。 4）7月30日，RKLB与日本iQPS签署三枚Electron专用发射多发射协议 每枚任务部署一颗QPS-SAR合成孔径雷达卫星至约575公里低地球轨道，用于扩展iQPS地球成像星座。从新西兰Launch Complex 1发射，计划从2027年末开始。这是双方一年内宣布的第三份多发射协议（累计已预订18次Electron发射）。 5）8月1日，RKLB被选入美国太空军NITE-STAR IDIQ项目，太空军挑选包括Rocket Lab在内的15家公司，进入价值上限约9.81亿美元（$981M）的合同，用于发展空间测试与训练基础设施（卫星、传感器、地面系统等）。这是入选资格，后续可竞争具体任务订单。 6）8月4日今天，美国太空军授予RKLB约3.97亿美元（$397M）合同，服务于天基空中动目标指示项目（SB-AMTI），由天基感知与目标定位（SBST）项目采购执行办公室（PAE）主导。Rocket Lab将开发、在Neutron火箭上发射并运营多颗先进Flatellite（平板卫星设计，配备传感器和低延迟高带宽通信链路），从安全设施提供实时探测与跟踪空中威胁数据。合同包含额外Flatellite选项。 对RKLB而言，算是一揽子非常积极的信号，进一步巩固其从“小型发射商”向“垂直整合国防太空系统供应商”的转型。 尤其是8月4日的3.97亿美元SB-AMTI合同，叠加过去两个月的其他订单，意义显著。 1）大幅提升订单积压（Backlog）与收入可见性，Q1积压已约22亿美元同比增长超100%。近期新增的，那么积压订单量进一步提升，可能已经到30亿美金以上。 2）验证垂直整合模式与Neutron需求 SB-AMTI合同是端到端的：设计/制造先进Flatellite（平板卫星，优化大规模星座）、用即将首飞的Neutron发射、再从安全设施运营并提供实时数据/跟踪信息。 这直接认可了Rocket Lab“发射+航天器+任务运营”的一体化能力，也是Neutron的重大政府客户背书（此前已有商业预订）。Neutron仍目标2026年Q4首飞（此前因罐体测试等问题有所推迟），这类合同有助于降低需求风险、加速产能 3）强化国防/国家安全定位，打开更高价值机会 RKLB已经连续拿下多份美国太空军/SDA相关合同（此前还有SDA Tracking Layer等超8亿美元级别订单）。 从亚轨道HASTE测试、到天基空中动目标指示（SB-AMTI，替代/补充传统空中预警机）、再到测试训练基础设施（NITE-STAR），覆盖范围扩大。  这提升了其作为“可信国防prime”的地位，有利于参与更多Golden Dome等大型项目竞争。 这些业务层面的积极进展，可能会带动RKLB在八九月来一波行情，总不能一直被毒打嘛😅 下半年最关键的就是Neutron能否首飞成功了。",
+      "url": "https://x.com/qinbafrank/status/2084939116387647801",
+      "tweet_id": "2084939116387647801"
+    },
+    {
+      "id": "tweet_qinbafrank_2084922129120899382",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 05 Aug 2026 08:39:06 GMT",
+      "content": "所以八月是最好的夏天么？ 1）7月28号这里https://x.com/qinbafrank/status/2081932910735810691?s=46&t=k6rimWsEbo2D2tXolYcM-A最后部分人聊很多标的又进入了高性价比区间； 2）7月29号这里https://x.com/qinbafrank/status/2082147612120285191?s=46&t=k6rimWsEbo2D2tXolYcM-A聊：已经不宜过分悲观，如果越跌反倒越要看机会。当时聊到联储不加息会带动市场回暖，CSP毛利大爆发，回本周期缩短，是驱动市场下一波行情主要催化剂。现在看是不是确实如此🤔 3）上周四7月30号晚上美股大涨，很多人认为那只是个反弹，7月31号晚上的推文（转发引用的这条就是）里明确聊到30号晚上的上涨不仅仅是反弹、向上走势持续性至少周级别的行情，明确看好八月份的行情； 4）上周这几条推文也明确给了看好的方向：CSP价值重估和软件（CSP和软件看好逻辑从7月初就在聊），认为存储还有空间、看好光互连和封装测试。这些都在陆续被验证 今天又传出来https://x.com/qinbafrank/status/2084834326613840376?s=46&t=k6rimWsEbo2D2tXolYcM-A阿曼和伊朗的谈判有了进展、如果协议达成那意味着油价对市场的影响也会褪去。那么往上走的会更坚实。",
+      "url": "https://x.com/qinbafrank/status/2084922129120899382",
+      "tweet_id": "2084922129120899382"
+    },
+    {
       "id": "tweet_qinbafrank_2084887069265178857",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -128,24 +146,6 @@
       "content": "按照FCC政策落地执行的思路来看就是昨晚这里https://x.com/qinbafrank/status/2084630010946523613?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到的，白宫其实有虚空造牌的意味，用对光模块最下游的采购（美国超大csp占据中际旭创、新易盛七成以上的订单）禁令来换取中国进一步放松对最上游磷化烟InP的出口管制。否则短期内两边都很难受，当然中长期科技冷战大背景下供应链分化在所难免。",
       "url": "https://x.com/qinbafrank/status/2084887069265178857",
       "tweet_id": "2084887069265178857"
-    },
-    {
-      "id": "tweet_qinbafrank_2084875893533778379",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 05 Aug 2026 05:35:22 GMT",
-      "content": "关于对中国光学收发器和直流设备可能的禁令，未来大概率还是FCC（联邦贸易委员会）同一套路数，不是全新政策：与之前关于无人机/UAS、路由器、人形/四足机器人、电力逆变器的禁令一样，走FCC Covered List（受管制清单）机制，具体流程可能也一致： 1）白宫召集的跨部门国家安全机构先出“国家安全认定”（National Security Determination），判定某类“外国生产”设备对美国国家安全构成“不可接受的风险”； 2）FCC据此把这类设备加入Covered List； 3）新型号无法获得FCC设备授权，因此不能进口、营销或销售到美国。 4）只针对新型号，已获授权的旧型号可以继续卖、继续用。消费者已买的不受影响。 5）留有条件批准口子：厂商可向国防部（DoW）或国土安全部（DHS）申请豁免，通常要提交供应链证明 + 美国本土化生产计划。 从公开信息看，大概率会沿用同一套Covered List + 国家安全认定的路径，而不是另起炉灶搞全新立法或商务部直接出口管制。 FCC近年一直在用这个工具快速扩大管制范围（无人机→路由器→机器人/逆变器→现在光模块），效率高、针对“新设备”，对现有库存冲击小，目标是“从源头阻断嵌入”。 短期对供应链的冲击模式也会类似——新货卡住、旧货还能用、替代要时间、成本上升。",
-      "url": "https://x.com/qinbafrank/status/2084875893533778379",
-      "tweet_id": "2084875893533778379"
-    },
-    {
-      "id": "tweet_qinbafrank_2084834326613840376",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 05 Aug 2026 02:50:12 GMT",
-      "content": "关于霍尔木兹海峡的临时协议要达成了？看Axios报道，美国、伊朗与阿曼正接近达成一项重新开放霍尔木兹海峡的临时协议，最早于周三宣布相关安排。 据两名地区消息人士和一名美国官员透露，该协议已持续谈判数周，旨在恢复美伊停火，并推动重启核协议谈判。 报道称，正在讨论中的协议将建立为期 60 天的临时安排，后续可视情况延长。根据方案： 进入波斯湾的船只将通过伊朗水域北侧航道通行； 离开霍尔木兹海峡前往阿拉伯海的船只将通过阿曼水域南侧航道，并与伊朗协调； 临时期间不会收取任何通行费； 各方将在 30 天内清理海峡中央航道的水雷； 清理完成后，中间航道将用于双向通行，并为长期安排谈判奠定基础。 看Axois的这个报道，跟昨晚路透社的报道差别是：离开霍尔木兹海峡前往阿拉伯海的船只可以走靠近阿曼水域南侧航道、不仅是跟伊朗协调。而是阿曼要提前通知伊朗才能放行、这里就有一个实时船只信息通报机制了。 也验证了周一晚上聊到的：阿曼实际上位置更重要，已经不是简单的“传话筒”，而是霍尔木兹海峡方案的共同谈判方。 相当于伊朗没有直接跟美国谈，但是在跟阿曼谈，但阿曼也必然跟美国及时沟通进展和策略。 看起来临时期间的安排是： 船只进入波斯湾只能通过伊朗北侧航道，驶出波斯湾可以通过阿曼南侧航道且阿曼须提前还是伊朗。其实还是间接承认了伊朗对海峡的控制权https://x.com/qinbafrank/status/2082316157416321504?s=46&t=k6rimWsEbo2D2tXolYcM-A 当然如果达成海峡恢复通行，油价再度回落、通胀反弹的担忧降低。对市场自然是好事。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2084834326613840376",
-      "tweet_id": "2084834326613840376"
     },
     {
       "id": "tweet_xiaomustock_2084875235833348532",
@@ -175,6 +175,24 @@
       "tweet_id": "2084598196257603847"
     },
     {
+      "id": "tweet_xingpt_2084936884527223146",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 05 Aug 2026 09:37:44 GMT",
+      "content": "原来美国合规性测试公司不是一类公司，就是一个叫做它是一家位于美国亚利桑那州的电子产品检测与认证机构，主要帮助设备厂商完成 FCC、CE、EMC、射频等测试，让手机、路由器、物联网设备和其他电子产品取得市场准入资格",
+      "url": "https://x.com/xingpt/status/2084936884527223146",
+      "tweet_id": "2084936884527223146"
+    },
+    {
+      "id": "tweet_xingpt_2084908954380099663",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 05 Aug 2026 07:46:45 GMT",
+      "content": "昨天美股的财报其实挺有意思的，AMD交出了不错的答卷，但三季度营收指引仅略高于共识值，远不及部分投资者所期盼的 “超级爆发”，导致其股价盘后一度跌逾 9%。 而同样是业绩突出，Palantir的Q2 业绩弥补了Q1 美国企业增长放缓的短板，盘后直接涨 30%。 对于短期的股价涨跌，预期高低要远高于财报本身的质量，这也是为什么最近回避半导体板块，多关注其他板块机会的原因。半导体公司的预期实在是打的太满了，不是超预期的预期都要跌。",
+      "url": "https://x.com/xingpt/status/2084908954380099663",
+      "tweet_id": "2084908954380099663"
+    },
+    {
       "id": "tweet_xingpt_2084835570757591502",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -182,24 +200,6 @@
       "content": "是向上社交，是拿大结果，是好嫁风，是高敏感，是ADHD，说客体需要，是阶级跃迁，是原生家庭，是东亚小孩，是灰灰男，是奥德赛时期，是你的小某书",
       "url": "https://x.com/xingpt/status/2084835570757591502",
       "tweet_id": "2084835570757591502"
-    },
-    {
-      "id": "tweet_xingpt_2084567103269720120",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Tue, 04 Aug 2026 09:08:21 GMT",
-      "content": "RT by @xingpt: 今天新闻流里最有价值的一条就是 ，SK海力士和闪迪在FMS 2026上发布了全球首个HBF开放技术标准。Google和Tenstorrent也参与技术验证和标准建立。 规格具体如下：存储介质3D NAND Flash，堆叠支持8层和16层两种配置，单颗容量最高512GB，带宽分三个等级覆盖0.4TB/s到3.0TB/s。接xPU的接口选了UCIe，GPU、CPU、各类AI加速器都能接入。联盟成员包括Google和Tenstorrent，Google DeepMind的工程师会在FMS上参加一场关于HBF突破memory wall的panel。 HBF的定位比较清楚，在HBM和SSD之间插入一个新的存储层级。HBM带宽高但容量有限、成本极高。SSD容量大但延迟太高。HBF用NAND的成本结构去逼近HBM的带宽能力，同时容量远超HBM。 为什么这个新闻很重要？因为MoE已经成了frontier model的主流架构，而MoE的参数结构天然适配HBF。 拿Kimi K3举例，2.8T参数，896个专家每次激活16个，单token实际参与计算的参数大概50-104B。剩下占总量95%以上的专家权重，读多写少，稀疏访问，每次推理只用到一小部分。对延迟的容忍度远高于KV cache，但对容量的要求很大。 你今天想跑一个K3，2.8T参数分布在几十张卡上，专家路由的跨卡通信量极大，基本上要上英伟达NVL72这种scale-up系统才能跑。一套NVL72的采购成本是千万美元级别，小团队和一般公司根本不用考虑。 HBF改变的可能还不只是成本，是MoE的部署方式本身。现在跑大MoE模型，专家权重分散在多张卡上，推理时跨卡通信量很大，对NVLink和网络带宽的依赖非常重。HBF通过UCIe直接挂在xPU旁边，每颗最高512GB，相当一部分专家可以变成本地访问，不用走卡间互联。专家并行从大规模跨卡通信问题，部分转化成了本地HBF读取问题。这对部署门槛的影响可能比单纯降成本还大。 存储成本从纯DRAM/HBM变成DRAM+NAND混合，量级差距10倍以上。DRAM只留给KV cache和当前激活的参数，50-100GB可能就够。 MoE的参数量还在膨胀，K2是1T，K3已经2.8T，10T级别的MoE大概率两三年内就会出现。如果推理侧存储还是只能靠DRAM和HBM，成本门槛只会越来越高。HBF提供了让推理成本和参数膨胀脱钩的可能性。 时间线上，SK海力士给的full commercialization目标是2030年前后，但闪迪今年下半年可能已经在日本建pilot line，商用有机会提前到2027年。",
-      "url": "https://x.com/xingpt/status/2084567103269720120",
-      "tweet_id": "2084567103269720120"
-    },
-    {
-      "id": "tweet_xingpt_2084290604285276216",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Mon, 03 Aug 2026 14:49:38 GMT",
-      "content": "润了你就会发现： 1. 亚男华人融不到钱，除非变性或者变性取向； 2. 除非你是OpenAI/Anthropic/Meta之类的AI scientist，不过这一类的人也不会缺钱，已经在当scientist的和正在做Researcher未来会去做AI Scientist的人已经被VC一层一层薅过了。 最后发现：想变性/变性取向 or 回国了",
-      "url": "https://x.com/xingpt/status/2084290604285276216",
-      "tweet_id": "2084290604285276216"
     },
     {
       "id": "tweet_hibtc37_2084093126843699207",
