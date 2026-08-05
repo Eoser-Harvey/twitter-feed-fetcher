@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-08-04T22:15:02.499885+00:00",
+  "fetched_at": "2026-08-05T00:05:47.457124+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2084733460690903204",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 04 Aug 2026 20:09:24 GMT",
+      "content": "RT by @elonmusk: AI compute is going to orbit. 🚀 @SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars. The next chapter of AI infrastructure boldly goes where no AI compute has gone before.",
+      "url": "https://x.com/elonmusk/status/2084733460690903204",
+      "tweet_id": "2084733460690903204",
+      "translated": "RT @elonmusk：人工智能计算即将进入轨道。 🚀 @SpaceX 的 Starmind AI1 卫星计算有效负载由 NVIDIA Vera Rubin NVL72 提供支持，使 AI 工厂计算更接近恒星。人工智能基础设施的下一章大胆地进入了人工智能计算从未涉足的领域。"
+    },
+    {
+      "id": "tweet_elonmusk_2084755184748486980",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 04 Aug 2026 21:35:43 GMT",
+      "content": "RT by @elonmusk: Elon & Jensen with NVIDIA GPUs August 2016",
+      "url": "https://x.com/elonmusk/status/2084755184748486980",
+      "tweet_id": "2084755184748486980",
+      "translated": "RT by @elonmusk：Elon 和 Jensen 使用 NVIDIA GPU 2016 年 8 月"
+    },
     {
       "id": "tweet_elonmusk_2084656303046332747",
       "username": "elonmusk",
@@ -11,26 +31,6 @@
       "url": "https://x.com/elonmusk/status/2084656303046332747",
       "tweet_id": "2084656303046332747",
       "translated": "RT @elonmusk：今天，我们推出 Alpamayo 2 Super，这是我们针对自动驾驶汽车的前沿开放推理模型。除了观察之外，Alpamayo 还能理解复杂的世界并进行推理——先思考后行动。它是机器人出租车、卡车、班车、送货车、拖拉机和移动机器人长尾（有一天将有数十亿台自主机器）的强大支柱。我们将在 OpenMDW-1.1 下将其发布用于商业用途，以便团队可以检查、微调和部署它——开放模型可提高安全性。人工智能的下一波浪潮是机器人技术，它始于自动驾驶汽车。干得好，Alpamayo 团队！ https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available"
-    },
-    {
-      "id": "tweet_elonmusk_2084600591448203559",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 04 Aug 2026 11:21:25 GMT",
-      "content": "RT by @elonmusk: BREAKING: Billionaire Whitey Basson says Elon Musk’s Starlink must launch in South Africa. 🇿🇦 He said that keeping @Starlink out of South Africa is discouraging businesspeople from investing in rural areas where there is no working communications infrastructure.",
-      "url": "https://x.com/elonmusk/status/2084600591448203559",
-      "tweet_id": "2084600591448203559",
-      "translated": "RT @elonmusk：突发新闻：亿万富翁 Whitey Basson 表示埃隆·马斯克的 Starlink 必须在南非推出。 🇿🇦他说，将@Starlink排除在南非之外会阻碍商人在没有可用通信基础设施的农村地区进行投资。"
-    },
-    {
-      "id": "tweet_elonmusk_2084745539187273851",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 04 Aug 2026 20:57:23 GMT",
-      "content": "Pinned: SpaceX earnings call on now",
-      "url": "https://x.com/elonmusk/status/2084745539187273851",
-      "tweet_id": "2084745539187273851",
-      "translated": "固定：SpaceX 财报电话会议现已召开"
     },
     {
       "id": "tweet_cz_binance_2084531849515131231",
@@ -232,6 +232,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
