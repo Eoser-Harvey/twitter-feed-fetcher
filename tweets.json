@@ -1,36 +1,16 @@
 {
-  "fetched_at": "2026-08-06T11:25:24.326761+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-06T14:14:55.776174+00:00",
+  "total": 18,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2085199278583263501",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 06 Aug 2026 03:00:23 GMT",
-      "content": "This actually happened",
-      "url": "https://x.com/elonmusk/status/2085199278583263501",
-      "tweet_id": "2085199278583263501",
-      "translated": "这确实发生了"
-    },
-    {
-      "id": "tweet_elonmusk_2085087279245054022",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 05 Aug 2026 19:35:21 GMT",
-      "content": "RT by @elonmusk: Wikipedia's ex-founder here. Four consequential policy discussions are happening on Wikipedia right now. Three of them would empower mainstream media to control what the encyclopedia says, and more importantly, what it doesn't say. A thread. 🧵 👇",
-      "url": "https://x.com/elonmusk/status/2085087279245054022",
-      "tweet_id": "2085087279245054022",
-      "translated": "RT @elonmusk：维基百科的前创始人。维基百科上目前正在进行四项重要的政策讨论。其中三项将使主流媒体能够控制百科全书所说的内容，更重要的是，控制百科全书未提及的内容。一根线。 🧵👇"
-    },
-    {
-      "id": "tweet_elonmusk_2085183860489552115",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 06 Aug 2026 01:59:07 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2085183860489552115",
-      "tweet_id": "2085183860489552115",
-      "translated": "视频"
+      "id": "tweet_cz_binance_2085313946106356090",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 06 Aug 2026 10:36:02 GMT",
+      "content": "RT by @cz_binance: most exchanges ask you to trust them. @binance just publishes the numbers. back in 2022, proof of reserves (the famous P.O.R) launches. here is some data picked for every year: nov 2022: 475,000 bitcoin:native sept 2023: 588,000 bitcoin:native dec 2024: 580,111 bitcoin:native dec 2025: 617,620 bitcoin:native july 2026, latest snapshot: 640,000 bitcoin:native i’ll let you figure out for yourselves what you're seeing. published monthly, publicly, verifiable, for over four years straight. it comes from millions of users choosing, every month, to keep their bitcoin there. four years of receipt, year after year.",
+      "url": "https://x.com/cz_binance/status/2085313946106356090",
+      "tweet_id": "2085313946106356090",
+      "translated": "来自@cz_binance 的转发：大多数交易所都要求您信任他们。 @binance 只是发布了数字。早在 2022 年，储备证明（著名的 P.O.R）就推出了。以下是每年挑选的一些数据： 2022 年 11 月：475,000 比特币：原生 2023 年 9 月：588,000 比特币：原生 2024 年 12 月：580,111 比特币：原生 2025 年 12 月：617,620 比特币：原生 2026 年 7 月，最新快照：640,000 比特币：原生 我会让你自己弄清楚你所看到的。连续四年多每月公开发布、可验证。它来自于每个月数以百万计的用户选择将他们的比特币保留在那里。收到四年，年复一年。"
     },
     {
       "id": "tweet_cz_binance_2084995500286103715",
@@ -51,45 +31,6 @@
       "url": "https://x.com/cz_binance/status/2084927145361432874",
       "tweet_id": "2084927145361432874",
       "translated": "@cz_binance 的转发：8 月第一周的另一个数字角度：@BNBCHAIN 在过去 7 天内的 dex 交易量达到了 11.28b 美元。比其他任何连锁店都多，周环比上涨 21%。 Solana 的业绩为 $10.41b。以太坊 $5.77b。波场 1.96 亿美元。现在看看这些数字背后的流动性。 BNB Chain、Tron 和 Solana 均持有约 4.9b 美元的 defi tvl。以太坊持有 $41.03b。 BNB 链每周回收 2.31 倍的总 tvl。Solana 2.17x。以太坊 0.14x。Tron 0.04x。三个链，相同的流动性基础，交换量从上到下相差 57 倍。Tron 更像是一个稳定币轨道，而不是交换场所，所以它的数量在设计上读得很低。公平地注意到它。每个人观看的排名是 tvl。显示一条链实际作用的排名是速度。 🥇: 🔶👷🏽‍♂️"
-    },
-    {
-      "id": "tweet_cz_binance_2084990156482679112",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 05 Aug 2026 13:09:25 GMT",
-      "content": "24x7, low fees, efficient, global, open market.",
-      "url": "https://x.com/cz_binance/status/2084990156482679112",
-      "tweet_id": "2084990156482679112",
-      "translated": "7×24小时、低费用、高效、全球、开放市场。"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2082159711852298494",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
-      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
-      "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2085304045099696547",
@@ -122,31 +63,31 @@
       "translated": "$VIAV 对 CPO 时间表的年度最有趣的标注是：“嗯，业界有很多关于延迟的讨论，比如，‘哦，因为产量会变慢。’”这都是废话。 CPO 和所有这些事情都在向前发展。”他们表示，是的，问题总是存在，但流程正在改进，事情正在变得更好。为了跟进这一点，首席执行官表示： - Viavi 拥有用于 CPO 测试活动的采购订单 - “本季度我们已经获得了 [CPO 收入]，并且可能在 12 月开始加速。”另一方面，他们还表示，1.6T 正在“快速增长”，明年应该会与 800g 持平，并表明 800g 需求的尾部更长。 TLDR：现在 CPO 测试收入达到 $VIAV 至 $FORM。 Nvidia还表示，用于横向扩展和横向扩展的交换机端CPO已较早进入量产。至于扩大规模的时间表，对于一些厂商来说，早期生产应该是 2027 年下半年，其他 CPO 厂商 Ayar 表示 2028 年是产量拐点期。基本上，所有的时间表似乎都与以前相同，收入首先开始影响测试玩家。"
     },
     {
-      "id": "tweet_qinbafrank_2085273202398482843",
+      "id": "tweet_qinbafrank_2085357954430369963",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
-      "published_at": "Thu, 06 Aug 2026 07:54:08 GMT",
-      "content": "怎么看昨晚美股的调整？从上周四开始连涨四个交易日，幅度还不小，特别是很多个股可以说暴涨，其实调整下也很正常。宏观也到了关键点，个人角度市场调整其实在等宏观给出方向、 1）美伊是不是真的谈拢，或者伊朗跟阿曼？这两天给的预期很高，美国、阿曼、伊朗都有表态，市场现在就要看能不能落到实处，最后这一哆嗦https://x.com/qinbafrank/status/2084834326613840376?s=46&t=k6rimWsEbo2D2tXolYcM-A 2）昨晚ADP小非农远低于预期，那么明晚大非农是不是也能低于预期？个人看概率很大，之前很早也有聊过“世界杯效应”过去，美国劳动力市场应该没那么好，6月份非农就说明了这一点。 对于之后市场宏观上的最佳剧本： 1）关于霍尔木兹海峡新的协议谈成、油价回落，市场不用担心通胀反弹（无非是下行速度会有多快），霍尔木兹海峡是否重新打开甚至比下周7月cpi数据还要重要； 2）大非农低于预期，劳动力市场疲软。 这两点都能打消加息担忧，利好市场情绪。 如果上面这两点实现不了，自然还要继续磨。 但有一点是明确的，经过这一波财报季大家也看到了AI的基本面是没问题的，AI商业化在加速，能看到投资回报的时间节奏，甚至已经能算出去初步的ROIC框架https://x.com/qinbafrank/status/2084231327222759656?s=46&t=k6rimWsEbo2D2tXolYcM-A 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2085273202398482843",
-      "tweet_id": "2085273202398482843"
+      "published_at": "Thu, 06 Aug 2026 13:30:55 GMT",
+      "content": "存储板块从6月之前最热的板块，经过一轮调整现在已经是争议最大的板块了，核心市场现在也弄不清到底把存储当做周期还是成长来看。之前行情好认为有成长的迹象，现在一股脑又归为周期，要万劫不复才行。高盛最新这份关于存储的报告，还是很值得看看，它梳理了当下市场八大核心疑虑，也给了我们一个去看待存储的框架。下面图片是高盛报告对市场八大疑虑的分析。 说说我的理解： 1、这八项之中，哪些最有说服力，哪些假设最激进？ 最有说服力的三项 1）LTA结构确实发生了实质变化 五年合同、take-or-pay、价格底线和大额预付款都已有公司公开披露，这是本轮周期最不同于历史周期的地方。 2） 原厂库存仍然偏低 2—4周库存明显低于历史下行周期水平，且三星和海力士均公开表示客户需求仍超过供给能力。 3）HBM扩张会挤压普通DRAM供给 HBM trade ratio上升、先进封装约束、洁净室空间不足和新厂建设周期较长，使得“HBM扩产”和“普通DRAM同步扩产”难以同时快速实现。 最激进、最需要验证的两项 1）2027年HBM可比产品涨价约60% 方向上有逻辑，但幅度对：GPU出货、HBM4良率、客户议价、LTA价格上限、三家供应商扩产纪律等这几点非常敏感。 2）长鑫影响长期局限于中国本土 在未来一年可能成立，但放到三至五年维度，这个判断明显偏乐观。除非存储供应链因为政治原因出现明显东西分化。长鑫真正的风险未必是立刻争夺HBM，而是压低普通DRAM长期价格中枢。 2、高盛这份报告最的价值，在于提出了一个可能的框架： 市场仍然用上一轮“现货主导、供应商盲目扩产、库存快速累积”的存储周期，去估值一个越来越由AI服务器需求、先进封装约束、长期同、预付款和价格底线主导的新周期。 其中，最扎实的多头依据是： LTA条款明显强化； 原厂库存极低； HBM扩产挤压普通DRAM； NAND资本开支不足； 服务器存储需求仍在增长。 最需要保持警惕的是： 2027年HBM涨价幅度可能过于激进； 长协既保护底部，也可能限制顶部； 海力士“二季度一次性miss”必须在三季度兑现修复； 长鑫的全球影响短期有限，但中长期绝不能忽视。 3、需要思考的几个点： 1）周期顶部会不会比市场预期更晚？ 只要AI服务器、HBM、服务器DRAM和企业级SSD需求持续增长，2027年未必就是盈利终点。 2）下一轮周期底部是不是会显著高于过去？ LTA、预付款、价格底线和低库存，会降低过去那种“价格暴跌—库存爆仓—巨额亏损”的概率。 3）估值逻辑需要从峰值利润转向正常化利润 未来会长时间维持正常会利润（而非峰值利润）么？ 一个思考点是：如果把dram、nand当做周期品来看可以理解，但是hbm其实是跟gpu高度绑定的，封装在一起，把hbm当做周期品看的前提是得把英伟达GPU也当做周期品来看（显然gpu并非周期品）。 对于存储企业来说，现在有新周期影子和迹象，但还需要进一步证明，核心还是看需求，未来几年新产能陆续落地后，需求是不是在持续快速增长。 此内容由@BITstocks_CN赞助，买美股上BIT—16000+ 只美股与 ETF，真实持仓，享股息分红。",
+      "url": "https://x.com/qinbafrank/status/2085357954430369963",
+      "tweet_id": "2085357954430369963"
     },
     {
-      "id": "tweet_qinbafrank_2085183400680493108",
+      "id": "tweet_qinbafrank_2085365283116736748",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
-      "published_at": "Thu, 06 Aug 2026 01:57:18 GMT",
-      "content": "看透这次谷歌管理架构调整背后的深意，昨晚jeff离职，谷歌也随之宣布对GoogleDeepMind管理架构重大调整。具体人事与职责变化如下： 1）Demis Hassabis（原Google DeepMind CEO，诺奖得主）卸任日常运营职责，转为GDM主席+Alphabet首席科学家，继续领导Isomorphic Labs（AI药物发现子公司）。 2）Koray Kavukcuoglu（原GDM首席技术官CTO + Google首席AI架构师），升任Google DeepMind高级副总裁，直接向Sundar Pichai汇报（不再设独立GDM CEO头衔）。全面负责Gemini模型开发、前沿AI研究、Gemini应用及开发者团队。 能看出调整后，DeepMind日常运营更紧密整合到谷歌体系下（SVP直接向CEO汇报），战略/科学与产品执行职责进一步分离。 深聊下谷歌或者劈柴的意图是什么？ 1、表面上是Gemini模型延迟带来的调整，Gemini 3.5 Pro等旗舰版本原计划2026年6月左右发布（I/O上Pichai曾表态“下个月”），但因能力（尤其是编码、推理、agentic表现）未达内部目标、需额外迭代与测试而推迟，到现在还没全面推出。公司同时推进Flash等轻量版本和Gemini 4训练。延迟引发内部挫折与外部对竞争力的质疑。 在这个时间窗口里劈柴将日常产品/模型交付（Gemini开发）更明确交给偏运营/技术落地的Koray，Hassabis抽身战略与科学（减少日常管理负担），同时处理Jeff Dean等核心人物的离开。 这客观上实现了职责更清晰的划分 2、终极目的应该是为AI下一阶段（从当前生成式模型向更强的agentic系统与AGI过渡）做组织准备 1）战略与运营分离 Hassabis作为“首席科学家+主席”专注大图景、AGI安全/影响、全球政策对话与科学应用（尤其健康/药物），避免被日常运营分散； Koray专注产品落地与前沿模型交付，直接向CEO负责，提升执行敏捷性。 2）强化全栈优势与科学落地 利用谷歌从基础设施、云到模型到应用的完整能力，同时加速Isomorphic等科学突破，证明AI对人类的实际价值。 3）组织整合 DeepMind更深度嵌入谷歌体系，减少“独立实验室”色彩，强化统一指挥。之前DeepMind还是独立性更强，调整后劈柴能更直接的把控，跟谷歌业务融合的可能也更好。 再面临激烈的竞争下，大公司天然倾向首先调整组织架构。“事为先、但人为重”好的组织架构能迸发强大能量。 这也标志着谷歌AI组织从“研究驱动+整合”向“战略AGI导向+强产品执行”的再平衡。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2085183400680493108",
-      "tweet_id": "2085183400680493108"
+      "published_at": "Thu, 06 Aug 2026 14:00:02 GMT",
+      "content": "R to @qinbafrank: BIT美股研讨群https://t.me/+gVoU9qICjVJmMjI1",
+      "url": "https://x.com/qinbafrank/status/2085365283116736748",
+      "tweet_id": "2085365283116736748"
     },
     {
-      "id": "tweet_qinbafrank_2085166735221723598",
+      "id": "tweet_qinbafrank_2085339048529506766",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
-      "published_at": "Thu, 06 Aug 2026 00:51:04 GMT",
-      "content": "Nikita离任X产品负责人，之前还都在聊他还能呆多久。其实Nikita成绩也不少的，虽然也有一些迷之操作。期待X下一任产品负责人能真正实现老马最终X要成为“全球城市广场”的愿景。",
-      "url": "https://x.com/qinbafrank/status/2085166735221723598",
-      "tweet_id": "2085166735221723598"
+      "published_at": "Thu, 06 Aug 2026 12:15:47 GMT",
+      "content": "这里有一点需要明确下：直接加密资产（如比特币、以太坊、稳定币、可去中心化持有/转让的加密代币等）主要在 CARF框架下，而不是CRS 2.0。 CRS1.0：主要覆盖传统金融账户（银行、证券、保险等）。大陆税务居民的境外银行/券商账户信息会自动交换回来。 CRS 2.0：OECD 2023年修订版，扩展了部分数字金融产品（CBDC、特定电子货币、通过衍生品/基金间接持有的加密资产等）到CRS报告范围。 CARF：专门针对直接加密资产（比特币、稳定币、部分NFT、加密衍生品交易等）的报告框架。交易所等“报告加密资产服务提供商”（RCASP）需报告用户交易、兑换、转账等明细。 实务中大家常把“加密相关升级”统称CRS 2.0，但真正覆盖交易所用户加密交易的是CARF。 已按CARF报告的资产通常不再重复走CRS。",
+      "url": "https://x.com/qinbafrank/status/2085339048529506766",
+      "tweet_id": "2085339048529506766"
     },
     {
       "id": "tweet_xiaomustock_2085181524555780491",
@@ -203,36 +144,36 @@
       "tweet_id": "2085251438083743755"
     },
     {
-      "id": "tweet_hibtc37_2085282259264000227",
+      "id": "tweet_hibtc37_2085356112593961034",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 06 Aug 2026 08:30:07 GMT",
-      "content": "这个空单我止损了 这两天私事太多，刚忙完，回来复盘下这个区间 我在633-635-637的挂的空单都被吃了，吃完也往下走了，但下区间第一个620都没到，只到了622 我挂单和发帖后，主力先往下吃，没先吃上面，我就觉得跌不下去，后来再往上吃到了637，再掉头往下也没吃到620，后来宏观朝着不利于空单方向发展，那么主力肯定会趁机去吃我之前讲的65-67k，事实也是正在发生了，贝森特干预日本汇率、川普停战和海峡通航预期，纳指和黄金大涨，宏观环境这一周完全扭转，但BTC也没有大涨。宏观变化如此之快，对于长线投资，宏观真是个噪音…… 现在是熊市后期震荡，主力需要慢慢磨，磨到没人关注，磨到最后一批最难洗掉的筹码也下车，更关键是他需要足够的时间去吸筹，在这去做BTC的多空，都很考验技术。未来半年，主力再来一次强烈震仓就是绝佳买点，如果没有的话，震荡时间长，也是买点 如果我这空单不止损，和主力耗下去，是可以耗赢的，但我会错过做其他美股的机会 这一次开单，中间是有浮盈的，并且持续时间不短，我忘记设置保盈止损点了，比如止损挂在630，肯定保赚，太忙了，忘记设置了，连手机都没看，这个单子都忘记了🤣，美股都没时间看，11点前就睡了，不过回归节律生活，内心的秩序也回来了，也回归平静。前段时间开单，一直会想着，像养了一只宠物，时刻惦记，导致屏幕时间非常多，还好，我能进入心流模式，否则屏幕时间增加，一定是会降低幸福感的 昨天修小院子里一个水龙头和水管，弄的浑身是水，修好以后，疯狂滋滋洒水，比赚一万刀还开心… 祝打大家也能在开心中赚到钱",
-      "url": "https://x.com/hibtc37/status/2085282259264000227",
-      "tweet_id": "2085282259264000227"
+      "published_at": "Thu, 06 Aug 2026 13:23:35 GMT",
+      "content": "$SNDK这次财报和指引，再一次确定存储是周期股，尤其是中低端存储，如果你还和我争论是否周期股这点，你活该套20年",
+      "url": "https://x.com/hibtc37/status/2085356112593961034",
+      "tweet_id": "2085356112593961034"
     },
     {
-      "id": "tweet_hibtc37_2085211915140448385",
+      "id": "tweet_hibtc37_2085355133286945038",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 06 Aug 2026 03:50:36 GMT",
-      "content": "这是我OK创作者收益，比马斯克好太多了",
-      "url": "https://x.com/hibtc37/status/2085211915140448385",
-      "tweet_id": "2085211915140448385"
+      "published_at": "Thu, 06 Aug 2026 13:19:42 GMT",
+      "content": "我怀疑沃什的鹰是在演戏，他最终还是要实现降息和缩表的初衷，这人不简单，是个老狐狸，所以，如果抄底BTC现货的，不得不防一手，尤其是中期选举后，就是他五个工作小组出数据时，降息利好，缩表利空，如果流动性抽走，市场会大跌。所以，一旦后面市场觉察到沃什降息缩表的动向，就会提前反应 他反复强调通胀要压到2%，他有很多办法来间接和直接来达到他的目标，比如，他完全可以修改通胀计算方法来实现2%目标",
+      "url": "https://x.com/hibtc37/status/2085355133286945038",
+      "tweet_id": "2085355133286945038"
     },
     {
-      "id": "tweet_hibtc37_2084093126843699207",
+      "id": "tweet_hibtc37_2085350896402300950",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Mon, 03 Aug 2026 01:44:56 GMT",
-      "content": "川普又卖币，这次会抄作业了吗？ 熊市后期，很多机构和个体顶不住现金流压力，撑不住，没得选，只能再砸一波，你砸，我也砸，连环爆仓，如果叠加黑天鹅，就更完美。不要说“这次不一样”，周期的力量压下来就是一座山，往前推动时，就如一座火箭，逆周期者亡，顺周期者昌，，等一个无人问津和万人唾骂时机，人人都看还有牛市，怕踏空，那就是没到底",
-      "url": "https://x.com/hibtc37/status/2084093126843699207",
-      "tweet_id": "2084093126843699207"
+      "published_at": "Thu, 06 Aug 2026 13:02:52 GMT",
+      "content": "我对这种合约互割的游戏理解，一要知道自己在赌，控制仓位大小；二要设止损，控制亏损上限，三要认输/认赢，以小博大，但也要对最终结果做好心里准备。 我在想，如果反过来，对手亏了100万，我赚了100万，我会怎么样呢？",
+      "url": "https://x.com/hibtc37/status/2085350896402300950",
+      "tweet_id": "2085350896402300950"
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 6,
+    "users_failed": 2,
     "nitter_healthy": 10
   }
 }
