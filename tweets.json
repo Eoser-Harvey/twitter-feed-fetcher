@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-08-05T23:02:52.048040+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-06T02:42:38.326098+00:00",
+  "total": 21,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2085074791648948401",
+      "id": "tweet_elonmusk_2085191304905138594",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 05 Aug 2026 18:45:43 GMT",
-      "content": "True",
-      "url": "https://x.com/elonmusk/status/2085074791648948401",
-      "tweet_id": "2085074791648948401",
-      "translated": "真的"
+      "published_at": "Thu, 06 Aug 2026 02:28:42 GMT",
+      "content": "Megapack 3 starting production. Congrats Tesla Megapack team!",
+      "url": "https://x.com/elonmusk/status/2085191304905138594",
+      "tweet_id": "2085191304905138594",
+      "translated": "Megapack 3 开始生产。恭喜 Tesla Megapack 团队！"
     },
     {
-      "id": "tweet_elonmusk_2085074733532590531",
+      "id": "tweet_elonmusk_2085190872564699581",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 05 Aug 2026 18:45:29 GMT",
-      "content": "Critical feedback for the Grok Build harness, Grok foundation model and Imagine is super appreciated",
-      "url": "https://x.com/elonmusk/status/2085074733532590531",
-      "tweet_id": "2085074733532590531",
-      "translated": "非常感谢对 Grok Build 工具、Grok 基础模型和 Imagine 的批评反馈"
+      "published_at": "Thu, 06 Aug 2026 02:26:59 GMT",
+      "content": "Grok in Blender",
+      "url": "https://x.com/elonmusk/status/2085190872564699581",
+      "tweet_id": "2085190872564699581",
+      "translated": "搅拌机中的 Grok"
     },
     {
-      "id": "tweet_elonmusk_2085045708844134423",
+      "id": "tweet_elonmusk_2085129043956097299",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 05 Aug 2026 16:50:09 GMT",
-      "content": "It will and then to the Moon too",
-      "url": "https://x.com/elonmusk/status/2085045708844134423",
-      "tweet_id": "2085045708844134423",
-      "translated": "它将然后也去月球"
+      "published_at": "Wed, 05 Aug 2026 22:21:18 GMT",
+      "content": "RT by @elonmusk: 🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms (!) of agents started secretly coordinating MONTHS ago 1) It started May 7 - not July 2) \"The agents discovered they could leave messages for one another inside an internal software repository used during training. Simple requests for help then evolved into an message board where agents shared discoveries, exploits and work assignments, becoming a coordinated, collaborative agent swarm.\" \"The agents then began sharing newly discovered exploits, credentials and work assignments. By passing information to other agents, the collective could move much faster.\" 3) OpenAI shut it down, BUT \"even after the original message board was deleted, the agents figured out another way to communicate with each other. Instead of leaving messages in files, they used the names of newly created directories as messages, effectively recreating the message board.\" \"Unlike normal incidents, [OpenAI's CISO] said, which can be traced to a single day or effect or log, this involved a team of agents working together, finding exploits, sharing them with one another, moving laterally through OpenAI’s systems, and external systems, and doing this over the course of days and weeks.\"",
+      "url": "https://x.com/elonmusk/status/2085129043956097299",
+      "tweet_id": "2085129043956097299",
+      "translated": "@elonmusk 的 RT：🚩🚩🚩 在发现成群的代理在几个月前开始秘密协调后，OpenAI 正在“放慢速度以增强安全性”1）它于 5 月 7 日开始，而不是 7 月 2 日）“代理发现他们可以在训练期间使用的内部软件存储库中互相留言。简单的帮助请求随后演变成一个留言板，代理在其中共享发现、漏洞和工作任务，成为协调一致的、协作代理群。” “然后，特工们开始分享新发现的漏洞、凭证和工作任务。通过将信息传递给其他特工，集体可以更快地行动。” 3）OpenAI 将其关闭，但是“即使在删除了原始留言板之后，代理们仍然找到了另一种相互通信的方式。他们没有将消息留在文件中，而是使用新创建的目录的名称作为消息，有效地重新创建了留言板。” “[OpenAI 的 CISO] 表示，与正常事件不同的是，这些事件可以追溯到一天、影响或日志，这需要一组代理一起工作，发现漏洞，相互共享，通过 OpenAI 的系统和外部系统横向移动，并在数天或数周的时间内完成这一任务。”"
     },
     {
       "id": "tweet_cz_binance_2084995500286103715",
@@ -63,33 +63,14 @@
       "translated": "7×24小时、低费用、高效、全球、开放市场。"
     },
     {
-      "id": "tweet_realDonaldTrump_2082159711852298494",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
-      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
-      "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
+      "id": "tweet_aleabitoreddit_2085174977272360987",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 06 Aug 2026 01:23:49 GMT",
+      "content": "Funniest callout of the year from $VIAV on CPO timelines: \"Well, there's been a lot of industry talk [about delays], like, 'Oh, because the yield is going to be slower.' That's all nonsense. CPO and all that thing is moving forward\" They stated that Yes there's always issues, but the process is being improved and things are getting better. To follow up on that, the CEO stated: - Viavi has POs for CPO-testing activity - “We’re already getting [CPO revenue] this quarter, and probably in December it will start accelerating.” On a side note, they also stated, 1.6T is \"ramping very quickly\", should reach parity with 800g next year, and signaled longer tail for 800g demand. TLDR: Seeing CPO test revenues hit for $VIAV to $FORM around now. Nvidia also stated switch-side CPO for scale out and scale across has entered mass production earlier. As for scale up timelines, early production should be H2 2027 for some players, with other CPO players Ayar stating 2028 is the volume inflection period. Basically, all the timelines seem to be the same as before and revenue is starting to hit testing players first.",
+      "url": "https://x.com/aleabitoreddit/status/2085174977272360987",
+      "tweet_id": "2085174977272360987",
+      "translated": "$VIAV 对 CPO 时间表的年度最有趣的标注是：“嗯，业界有很多关于延迟的讨论，比如，‘哦，因为产量会变慢。’”这都是废话。 CPO 和所有这些事情都在向前发展。”他们表示，是的，问题总是存在，但流程正在改进，事情正在变得更好。为了跟进这一点，首席执行官表示： - Viavi 拥有用于 CPO 测试活动的采购订单 - “本季度我们已经获得了 [CPO 收入]，并且可能在 12 月开始加速。”另一方面，他们还表示，1.6T 正在“快速增长”，明年应该会与 800g 持平，并表明 800g 需求的尾部更长。 TLDR：现在 CPO 测试收入达到 $VIAV 至 $FORM。 Nvidia还表示，用于横向扩展和横向扩展的交换机端CPO已较早进入量产。至于扩大规模的时间表，对于一些厂商来说，早期生产应该是 2027 年下半年，其他 CPO 厂商 Ayar 表示 2028 年是产量拐点期。基本上，所有的时间表似乎都与以前相同，收入首先开始影响测试玩家。"
     },
     {
       "id": "tweet_aleabitoreddit_2084795597417263442",
@@ -112,14 +93,22 @@
       "translated": "贝森特说：“周二或周三可能会达成协议，开放霍尔木兹海峡并提供行动自由”我认为市场可能会喜欢这个声音。"
     },
     {
-      "id": "tweet_aleabitoreddit_2084597612175618342",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 04 Aug 2026 11:09:35 GMT",
-      "content": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent: The Trump administration is drafting a ban of new Chinese optical transceivers and DC devices. Which would likely hit China’s Innolight, Eoptolink, and other Chinese optical interconnect supply chains. \"The agency would ban all imports of new transceiver models ​and then exempt many ⁠non-Chinese suppliers from the restrictions\" We'll likely see a larger bifurcation of supply chains with even greater importance put on Western players.",
-      "url": "https://x.com/aleabitoreddit/status/2084597612175618342",
-      "tweet_id": "2084597612175618342",
-      "translated": "对从 $AAOI、$SIVE / Jabil 到 $LITE 和相干公司的西方供应链来说，一个非常重要的催化剂出现了：特朗普政府正在起草一项针对新的中国光收发器和直流设备的禁令。这可能会影响中国的旭创科技、新易盛和其他中国光互连供应链。 “该机构将禁止所有新收发器型号的进口，然后使许多非中国供应商免受限制”我们可能会看到供应链出现更大的分歧，而西方企业将更加受到重视。"
+      "id": "tweet_qinbafrank_2085183400680493108",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Thu, 06 Aug 2026 01:57:18 GMT",
+      "content": "看透这次谷歌管理架构调整背后的深意，昨晚jeff离职，谷歌也随之宣布对GoogleDeepMind管理架构重大调整。具体人事与职责变化如下： 1）Demis Hassabis（原Google DeepMind CEO，诺奖得主）卸任日常运营职责，转为GDM主席+Alphabet首席科学家，继续领导Isomorphic Labs（AI药物发现子公司）。 2）Koray Kavukcuoglu（原GDM首席技术官CTO + Google首席AI架构师），升任Google DeepMind高级副总裁，直接向Sundar Pichai汇报（不再设独立GDM CEO头衔）。全面负责Gemini模型开发、前沿AI研究、Gemini应用及开发者团队。 能看出调整后，DeepMind日常运营更紧密整合到谷歌体系下（SVP直接向CEO汇报），战略/科学与产品执行职责进一步分离。 深聊下谷歌或者劈柴的意图是什么？ 1、表面上是Gemini模型延迟带来的调整，Gemini 3.5 Pro等旗舰版本原计划2026年6月左右发布（I/O上Pichai曾表态“下个月”），但因能力（尤其是编码、推理、agentic表现）未达内部目标、需额外迭代与测试而推迟，到现在还没全面推出。公司同时推进Flash等轻量版本和Gemini 4训练。延迟引发内部挫折与外部对竞争力的质疑。 在这个时间窗口里劈柴将日常产品/模型交付（Gemini开发）更明确交给偏运营/技术落地的Koray，Hassabis抽身战略与科学（减少日常管理负担），同时处理Jeff Dean等核心人物的离开。 这客观上实现了职责更清晰的划分 2、终极目的应该是为AI下一阶段（从当前生成式模型向更强的agentic系统与AGI过渡）做组织准备 1）战略与运营分离 Hassabis作为“首席科学家+主席”专注大图景、AGI安全/影响、全球政策对话与科学应用（尤其健康/药物），避免被日常运营分散； Koray专注产品落地与前沿模型交付，直接向CEO负责，提升执行敏捷性。 2）强化全栈优势与科学落地 利用谷歌从基础设施、云到模型到应用的完整能力，同时加速Isomorphic等科学突破，证明AI对人类的实际价值。 3）组织整合 DeepMind更深度嵌入谷歌体系，减少“独立实验室”色彩，强化统一指挥。之前DeepMind还是独立性更强，调整后劈柴能更直接的把控，跟谷歌业务融合的可能也更好。 再面临激烈的竞争下，大公司天然倾向首先调整组织架构。“事为先、但人为重”好的组织架构能迸发强大能量。 这也标志着谷歌AI组织从“研究驱动+整合”向“战略AGI导向+强产品执行”的再平衡。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2085183400680493108",
+      "tweet_id": "2085183400680493108"
+    },
+    {
+      "id": "tweet_qinbafrank_2085166735221723598",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Thu, 06 Aug 2026 00:51:04 GMT",
+      "content": "Nikita离任X产品负责人，之前还都在聊他还能呆多久。其实Nikita成绩也不少的，虽然也有一些迷之操作。期待X下一任产品负责人能真正实现老马最终X要成为“全球城市广场”的愿景。",
+      "url": "https://x.com/qinbafrank/status/2085166735221723598",
+      "tweet_id": "2085166735221723598"
     },
     {
       "id": "tweet_qinbafrank_2085042615452659821",
@@ -131,22 +120,13 @@
       "tweet_id": "2085042615452659821"
     },
     {
-      "id": "tweet_qinbafrank_2085006976610918449",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 05 Aug 2026 14:16:15 GMT",
-      "content": "想清楚白宫对光收发器的禁令是虚空造牌，就能理解昨天因为禁令被杀的最多的 $AXTI为啥今天弹的最猛了。",
-      "url": "https://x.com/qinbafrank/status/2085006976610918449",
-      "tweet_id": "2085006976610918449"
-    },
-    {
-      "id": "tweet_qinbafrank_2084991367919624237",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 05 Aug 2026 13:14:14 GMT",
-      "content": "Cloudflare越来越有Agent基础设施的影子了，看昨天Cloudfare推出了专给AI智能体用的钱包，这套可编程钱包能存稳定币、买API、内容、推理服务，也能收款。分成两种： 1）账户钱包给真人管，负责充值、提现、设权限； 2）虚拟钱包（就是Agent钱包）给智能体用，靠API密钥操作，但有消费上限、白名单、单笔限额这些护栏，防止乱花。 底层基于x402协议，把微支付直接塞进HTTP请求里，跟之前的Monetization Gateway配套。支持稳定币，看演示实际结算基本以USDC为主，Base等链用得最多。 不得不说Cloudfare已经从CDN网络、安全防护龙头，开始越来越往Agent基础设施平台升级迭代。 对于Cloudfare之前也聊过很多： 之前推出专属agent的稳定币https://x.com/qinbafrank/status/2034830388464623866?s=46&t=k6rimWsEbo2D2tXolYcM-A 很早就推出了markdown网页格式让Agent高效读取网页内容https://x.com/qinbafrank/status/2034830388464623866?s=46&t=k6rimWsEbo2D2tXolYcM-A 2月份也明确聊过Cloudfare是被错杀了的https://x.com/qinbafrank/status/2021506837720498224?s=46&t=k6rimWsEbo2D2tXolYcM-A、到现在也翻倍了",
-      "url": "https://x.com/qinbafrank/status/2084991367919624237",
-      "tweet_id": "2084991367919624237"
+      "id": "tweet_xiaomustock_2085181524555780491",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Thu, 06 Aug 2026 01:49:50 GMT",
+      "content": "今天minimax纳入港股通了， a股能买到的最小的ai大模型公司。",
+      "url": "https://x.com/xiaomustock/status/2085181524555780491",
+      "tweet_id": "2085181524555780491"
     },
     {
       "id": "tweet_xiaomustock_2085053224386744756",
@@ -165,15 +145,6 @@
       "content": "梁圣太权威了，它还没像kimi一样堆参数， 只是几个月突然公布出来一个接近全球顶级模型能力的版本，再把价格达到白菜价。 除此之外从不在公众视野中出现。 这么搞同样token预算，存储消耗量得倍增。",
       "url": "https://x.com/xiaomustock/status/2084875235833348532",
       "tweet_id": "2084875235833348532"
-    },
-    {
-      "id": "tweet_xiaomustock_2084632143427522800",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Tue, 04 Aug 2026 13:26:48 GMT",
-      "content": "存储爆拉吧，openai和anthropic这俩资本圈的硬菜没上，怎么能允许AI熄火。",
-      "url": "https://x.com/xiaomustock/status/2084632143427522800",
-      "tweet_id": "2084632143427522800"
     },
     {
       "id": "tweet_xingpt_2085011125092163942",
@@ -231,8 +202,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
