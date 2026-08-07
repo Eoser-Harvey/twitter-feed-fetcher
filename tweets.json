@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-08-07T17:56:02.444143+00:00",
+  "fetched_at": "2026-08-07T19:00:45.004207+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2085737443228045492",
+      "id": "tweet_elonmusk_2085799495808204931",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 07 Aug 2026 14:38:52 GMT",
-      "content": "It really is this amazing",
-      "url": "https://x.com/elonmusk/status/2085737443228045492",
-      "tweet_id": "2085737443228045492",
-      "translated": "真的是太神奇了"
+      "published_at": "Fri, 07 Aug 2026 18:45:26 GMT",
+      "content": "We’re working on making Grok Build super easy to use for non-technical people",
+      "url": "https://x.com/elonmusk/status/2085799495808204931",
+      "tweet_id": "2085799495808204931",
+      "translated": "我们正在努力让 Grok Build 对于非技术人员来说超级容易使用"
     },
     {
-      "id": "tweet_elonmusk_2085735374651871702",
+      "id": "tweet_elonmusk_2085797287343587511",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 07 Aug 2026 14:30:39 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2085735374651871702",
-      "tweet_id": "2085735374651871702",
-      "translated": "视频"
+      "published_at": "Fri, 07 Aug 2026 18:36:40 GMT",
+      "content": "Just like Starbase and Tesla factories, Terafab will be incredibly inspiring to come to work!",
+      "url": "https://x.com/elonmusk/status/2085797287343587511",
+      "tweet_id": "2085797287343587511",
+      "translated": "就像 Starbase 和 Tesla 工厂一样，Terafab 的工作将会非常鼓舞人心！"
     },
     {
-      "id": "tweet_elonmusk_2085735269525766343",
+      "id": "tweet_elonmusk_2085524315001212936",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 07 Aug 2026 14:30:13 GMT",
-      "content": "Try Grok Build http://X.ai/build",
-      "url": "https://x.com/elonmusk/status/2085735269525766343",
-      "tweet_id": "2085735269525766343",
-      "translated": "尝试 Grok Build http://X.ai/build"
+      "published_at": "Fri, 07 Aug 2026 00:31:58 GMT",
+      "content": "RT by @elonmusk: CHARLOTTE RESIDENTS, BEWARE Diquan Shafar Hunt (14 prior arrests) is on the loose, filming himself attacking white women Please spread this info",
+      "url": "https://x.com/elonmusk/status/2085524315001212936",
+      "tweet_id": "2085524315001212936",
+      "translated": "RT by @elonmusk：夏洛特居民，请注意 Diquan Shafar Hunt（曾被捕 14 次）逍遥法外，正在拍摄自己攻击白人女性的视频，请传播此信息"
     },
     {
       "id": "tweet_cz_binance_2085404921914966044",
