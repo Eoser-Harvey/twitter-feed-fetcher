@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-07T11:48:19.103878+00:00",
+  "fetched_at": "2026-08-07T13:08:05.089308+00:00",
   "total": 24,
   "tweets": [
     {
@@ -92,6 +92,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2085711500875116887",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 07 Aug 2026 12:55:47 GMT",
+      "content": "Some more TLDR takeaways from $AAOI ER: - They also flagged DSP and TIA bottlenecks, which is a positive industry read through for names like $MXL, then $SMTC and $MTSI. - For revenue growth, they're expecting more than $500 million revenue Q4, which is absurd growth. For reference: Q2: $191.9M Q3: ~$255M-$290M Q4: $500M+ By mid-2027: ~$1.41B quarterly revenue run-rate Always impressed by the revenue ramp from some of these optical players.",
+      "url": "https://x.com/aleabitoreddit/status/2085711500875116887",
+      "tweet_id": "2085711500875116887",
+      "translated": "$AAOI ER 的更多 TLDR 要点： - 他们还标记了 DSP 和 TIA 瓶颈，对于 $MXL、$SMTC 和 $MTSI 等名称来说，这是一个积极的行业解读。 - 对于收入增长，他们预计第四季度收入将超过 5 亿美元，这是荒谬的增长。仅供参考：第二季度：1.919 亿美元 第三季度：~2.55 亿美元-2.9 亿美元 第四季度：5 亿美元+ 到 2027 年中期：~1.41B 季度收入运行率 某些光学厂商的收入增长总是给人留下深刻印象。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2085649654059016387",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -112,14 +122,13 @@
       "translated": "中国人形机器人领导者 Unitree 将于本月以 9B 美元的估值首次公开募股！ （最初每 3 月份提交的文件约为 6.2B 美元）。衍生品市场开盘定价隐含 $36.04B MC，大约是上市价格的 4 倍。 $CCXI / Agility Robotics 是美国第一家公开上市的纯人形机器人领导者，也将于第四季度晚些时候上市，投前估值约为 2.5B 美元。看看美国市场与中国人形机器人领导者的价格如何，将会很有趣。"
     },
     {
-      "id": "tweet_aleabitoreddit_2085628664528662818",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 07 Aug 2026 07:26:37 GMT",
-      "content": "Earlier today, optical interconnect company Lumilens \"emerges from stealth\" at a $5.5B valuation, after raising $700m. Just as a recap from $POET / $SIVE Linkedin OSINT mapping I shared earlier, Lumilens was supplying a top 3 hyperscaler customer. So we got confirmation of that a month later, along with the material figure that Lumilens has a \"multi-billion-dollar customer agreement\". And just for reference, $POET has existing contracts with Lumilens ($50m purchase order, up to $500m) + contracts with $SIVE (depending on product lines). I actually took tiny positions in POET again after reading this news, since it finally gives them visibility into extremely well funded hyperscaler suppliers (on top of Poet's really large balance sheet). But TLDR: > Lumilens around similar (or even higher) valuations as Lightmatter/Ayar, bigger than markets thought with hyperscaler customers. > nice read through upstream on $POET (derisking) / $SIVE. > Great for optical valuations in general, seeing a company go to $5.5B in 2 years.",
-      "url": "https://x.com/aleabitoreddit/status/2085628664528662818",
-      "tweet_id": "2085628664528662818",
-      "translated": "今天早些时候，光学互连公司 Lumilens 在筹集了 7 亿美元资金后，以 5.5B 美元的估值“从隐形中脱颖而出”。正如我之前分享的 $POET / $SIVE Linkedin OSINT 映射的回顾一样，Lumilens 正在为排名前 3 的超大规模客户提供服务。因此，一个月后我们得到了确认，并得到了 Lumilens 拥有“数十亿美元客户协议”的重要数据。仅供参考，$POET 与 Lumilens 现有合同（5000 万美元采购订单，最高 5 亿美元）+ 与 $SIVE 合同（取决于产品线）。实际上，在读完这条新闻后，我再次在 POET 中持有了少量头寸，因为它最终让他们能够了解资金极其充足的超大规模供应商（在 Poet 非常庞大的资产负债表之上）。但总而言之：> Lumilens 的估值与 Lightmatter/Ayar 相似（甚至更高），比市场对超大规模客户的预期更大。 > 很好地阅读了 $POET 上的上游（降低风险）/ $SIVE。 > 总体而言，非常适合光学估值，看到一家公司在 2 年内达到 $5.5B。"
+      "id": "tweet_qinbafrank_2085706546558992623",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Fri, 07 Aug 2026 12:36:05 GMT",
+      "content": "如前面聊的知道7月非农就业会不好，没想到这么不好。市场要么直接交易降息，要么先交易衰退恐慌再交易降息，不管怎么说近期市场不会再担心加息了。",
+      "url": "https://x.com/qinbafrank/status/2085706546558992623",
+      "tweet_id": "2085706546558992623"
     },
     {
       "id": "tweet_qinbafrank_2085665613654139379",
@@ -138,15 +147,6 @@
       "content": "关于英伟达RubinUltra上HBM减配，之前这里https://x.com/qinbafrank/status/2083890594796257652?s=46&t=k6rimWsEbo2D2tXolYcM-A、今天TheInformation也报道了，再聊聊： 1、英伟达预览给大客户的主流SKU已偏向更低内存（例如192GB 8-Hi HBM4，甚至低于标准Rubin的288GB 12-Hi），同时保持相近的峰值算力（约35 PFLOPS），功耗主流控制在1800W左右。 之前在这里https://x.com/qinbafrank/status/2083917947731578909?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到，如果Ultra版本的hbm配置低于Vera rubin标准版，标准版（Vera Rubin）优势明显就显现出来了：它已进入量产，7月陆续向AWS、Google、Microsoft、Oracle、CoreWeave等8家CSP大规模交付。内存规格更“正常”（288GB HBM4级别），单价和系统复杂度更可控，适合快速扩容。Ultra如果内存进一步减配（甚至低于标准版），对内存敏感的大型模型训练/推理，单卡有效容量下降，CSP自然会倾向先用更多标准版来堆量。 2、减配核心原因还是供给不够、而非需求问题。TrendForce 指出2027年整体DRAM供应仍会紧张，晶圆分配给HBM的空间有限，加上HBM4E（尤其是更高层数如12-Hi/16-Hi）的验证、良率和量产进度存在不确定性。 产能真正明显缓解要到2027下半年至2028年（SK Hynix、Samsung等新厂/扩产陆续释放，SK Hynix计划5年晶圆产能翻倍，但新产能落地有滞后） 3、减配直接推高对“更多GPU”的需求：更低HBM意味着模型可能放不下、或需要更多切分/流水线，最终要用更多卡才能达到同等有效算力或吞吐。这会放大总GPU采购量，也抬高系统TCO。 那么未来CSP云厂采购最多的估计还是标准版。 4、减配也利好互连 如果CSP买更多标准版或低配Ultra，机架间/机柜间互连带宽、延迟、软件调度（NVLink域扩展、集体通信）会更吃紧。Nvidia也在强化这方面（更高代NVSwitch、CPO光学等）。 HBM短缺把压力从“内存”部分转移到“互连+系统软件+电力/冷却”上。CSP的采购策略会更看重“能高效互联多少卡”，而不是单卡规格有多猛。 总结 HBM短缺是结构性的（至少到2027-2028），达子用减配换出货量其实是理性选择，这会让标准Vera Rubin在2026-2027成为CSP的“主力军”，Ultra更多扮演“大规模互联优化版”。互连（NVLink生态）的重要性会被进一步放大，成为下一阶段差异化关键。",
       "url": "https://x.com/qinbafrank/status/2085621122796794218",
       "tweet_id": "2085621122796794218"
-    },
-    {
-      "id": "tweet_qinbafrank_2085581926161858732",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 07 Aug 2026 04:20:54 GMT",
-      "content": "LYTE会是下一个DRAM么？凭借现象级存储ETF（DRAM）一战成名后，Roundhill Investments又把下一个筹码押在了AI基础设施的另一处关键瓶颈——光互连。昨晚Roundhill光子与光学ETF $LYTE正式登陆美股市场。Roundhill基本把DRAM的产品思路复制到了光通信领域：围绕AI基础设施的核心瓶颈，筛选收入高度相关的全球龙头，采用主动管理、季度再平衡和集中持仓。 LYTE是一只高度集中的AI光互连组合，前五大持仓分别为 $LITE、 $COHR、新易盛、中际旭创、和 $CIEN.US)、合计达到73.19%。 其后为天孚通信 、 源杰科技 、 光迅科技、 $FN 和 $AAOI、 $AXTI 等， 前十大持仓合计约占97.32%， 从产业分工看： Lumentum和Coherent主要覆盖激光器及核心光学器件； 新易盛、中际旭创和应用光电主要受益于高速光模块升级； 天孚通信、源杰科技和光迅科技布局光器件与光芯片； Ciena提供光网络设备，Fabrinet则负责精密制造。 值得关注的是，新易盛、中际旭创、天孚通信、源杰科技和光迅科技合计权重达46.8%。Roundhill主要通过总收益互换取得相关敞口，令LYTE成为美股市场少有的、高比例配置中国光通信龙头的ETF。也说明Roundhill也认为之前这里https://x.com/qinbafrank/status/2084887069265178857?s=46&t=k6rimWsEbo2D2tXolYcM-A 聊到的、白宫拟对中国光通信产业链的禁令是虚空造牌，在跟中国博弈对Inp的出口管制。短期内禁令很难完全落地。当然这也是这支etf未来潜在风险，如果真要看到禁令落下来得第一时间跑。 可以说LYTE更像“中美AI光通信龙头组合”ETF。 LYTE最大的优点，是它没有试图用几十家边缘公司拼出一个看似全面的“光子学故事”，而是把权重集中在目前真正产生AI光通信收入和利润的龙头上。 之前看过光领域的另外两支ETF https://x.com/qinbafrank/status/2079790771071574469?s=46&t=k6rimWsEbo2D2tXolYcM-A：FOTO侧重中小型光子专业公司； LAZR胜在跨产业分散配置； LYTE则集中押注中美光通信龙头，对AI数据中心光互联的敞口更直接 个人看法 1）若核心判断是未来几个季度AI光模块、激光器和光器件订单还会持续上修，LYTE可能是目前美股市场上覆盖光互连最直接、弹性最高的工具之一。 2）若核心判断是未来五年“光取代铜/电”的完整系统性革命，LYTE的产业链覆盖还不够完整，不能单独代表整个CPO、硅光和光I/O投资机会。",
-      "url": "https://x.com/qinbafrank/status/2085581926161858732",
-      "tweet_id": "2085581926161858732"
     },
     {
       "id": "tweet_xiaomustock_2085556671712297190",
@@ -203,6 +203,15 @@
       "tweet_id": "2085397699504050232"
     },
     {
+      "id": "tweet_hibtc37_2085707343577465014",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Fri, 07 Aug 2026 12:39:15 GMT",
+      "content": "这周最后一个交易日，存储盘前还挺强，如果站稳关键位置，可能要来第二波上升，但不改他周期的属性",
+      "url": "https://x.com/hibtc37/status/2085707343577465014",
+      "tweet_id": "2085707343577465014"
+    },
+    {
       "id": "tweet_hibtc37_2085551604774928398",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -219,20 +228,11 @@
       "content": "玩抽象，是一种很好自保策略，卖惨是一种智慧，但都怪老板之前炫富太狠了，现在补课来不及了，鬼信你，你其实赢麻😆",
       "url": "https://x.com/hibtc37/status/2085372167521464354",
       "tweet_id": "2085372167521464354"
-    },
-    {
-      "id": "tweet_hibtc37_2085356112593961034",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Thu, 06 Aug 2026 13:23:35 GMT",
-      "content": "$SNDK这次财报和指引，再一次确定存储是周期股，尤其是中低端存储，如果你还和我争论是否周期股这点，你活该套20年",
-      "url": "https://x.com/hibtc37/status/2085356112593961034",
-      "tweet_id": "2085356112593961034"
     }
   ],
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
