@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-07T05:43:24.569194+00:00",
+  "fetched_at": "2026-08-07T07:20:05.388141+00:00",
   "total": 24,
   "tweets": [
     {
@@ -92,6 +92,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2085603590903902621",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 07 Aug 2026 05:46:59 GMT",
+      "content": "Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough. 1. AAOI not meaningfully participating in CPO first-gen deployments. \"We just can’t make enough of them [CPO lasers] to be involved in their current first-generation [CPO] deployments because there’s just not enough capacity. We have to prioritize our ability to make lasers for our own transceivers first\" So first-gen CPO laser deployments, might even be narrowed down further for Western players like $SIVE, $LITE, $AVGO, and $COHR. And independent CPO CW laser capacity became more valuable if $AAOI had to turn away more customers... Also remember Trendforce was talking about $AMD singing CW LTAs? $COHR / $LITE have capacity signed with $NVDA ... I thought it would be $AAOI, but they might be out of the equation. $MTSI also doesn't look meaningful with early CPO participation (eg. no mention in ER aside from NPO, and removal from Ayar website). So I wonder who players like $AMD is going to go with for Helios (eg. Sivers + Ayar more likely candidate now)? Btw, this is not bearish AAOI because they have too much demand for optical transceiver business. Just more bullish on the existing few qualified CPO laser names that have capacity. 2. Demand imbalance and bottleneck for InP lasers / optical transceivers. AOI's CEO stated kinda supported that when they said: \"The customer demand is 20%-40% higher\" than expanded built out capacity. \"We are getting this kind of demand from several big customers almost every week. Lasers are the biggest bottleneck right now for the transceiver business\" 3. China being years away from having CPO DWDM specification lasers. I covered this earlier when looking at CPO competition from channel checks. But AAOI confirming that China is \"easily at least two, three years or even longer from having CPO lasers is incredible tread through on defensibility Western laser positioning in the CPO laser chokepoint. TLDR: - High demand imbalance for CW lasers and optical transceivers. - $AAOI not in first-gen CPO due to capacity constraints (not exactly bearish AAOI because they have too much demand for their optical transciver business, but even better news for the few independent players with capacity coming online like $SIVE) - China years behind in CPO lasers.",
+      "url": "https://x.com/aleabitoreddit/status/2085603590903902621",
+      "tweet_id": "2085603590903902621",
+      "translated": "哇，$SIVE + 其他激光玩家通读的 $AAOI 收入中包含了无数的宝石。 1. AAOI 没有有意义地参与 CPO 第一代部署。 “我们无法制造足够的 [CPO 激光器] 来参与他们当前的第一代 [CPO] 部署，因为产能不足。我们必须首先优先考虑为我们自己的收发器制造激光器的能力。”因此，对于 $SIVE、$LITE、$AVGO 和 $COHR 等西方厂商来说，第一代 CPO 激光器的部署甚至可能会进一步缩小。如果 $AAOI 不得不拒绝更多客户，独立的 CPO CW 激光器产能就会变得更有价值……还记得 Trendforce 正在谈论 $AMD 唱 CW LTA 吗？ $COHR / $LITE 拥有与 $NVDA 签署的容量...我认为这将是 $AAOI，但它们可能不在等式之内。对于早期 CPO 参与，$MTSI 看起来也没有什么意义（例如，除了 NPO 之外，ER 中没有提及，并从 Ayar 网站上删除）。所以我想知道像 $AMD 这样的玩家会选择 Helios（例如 Sivers + Ayar 现在更有可能成为候选人）？顺便说一句，这并不是看跌AAOI，因为他们对光模块业务的需求太多。只是更看好现有的少数几家具有产能的合格 CPO 激光器品牌。 2. InP激光器/光模块的需求不平衡和瓶颈。 AOI 的首席执行官表示有点支持这一点，他们说：“客户需求比扩大的产能高 20%-40%”。 “我们几乎每周都会收到几个大客户的此类需求。激光器是目前收发器业务的最大瓶颈。” 3. 中国距离拥有 CPO DWDM 规格激光器还有几年时间。我之前在研究渠道检查中的 CPO 竞争时曾提到过这一点。但 AAOI 确认中国“很容易至少需要两年、三年甚至更长时间才能拥有 CPO 激光器，这令人难以置信地突破了西方激光器在 CPO 激光器阻塞点的防御性定位。TLDR： - CW 激光器和光收发器的需求高度不平衡。 - 由于产能限制，AAOI 不属于第一代 CPO（并不完全看跌 AAOI，因为他们对其光收发器业务有太多需求，但对于少数拥有产能的独立参与者来说，这是更好的消息在线如 $SIVE) - 中国在 CPO 激光器方面落后多年。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2085511646257332581",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -112,14 +122,13 @@
       "translated": "关于 $AAOI 收益的一些 TLDR 注释： - 预计其超大规模客户将在未来几周内全面鉴定 1.6T 产品（有助于收入增长＃2，时间表） - 仍然相信 AOI 将拥有美国最大的 AI DC 收发器产能（在其竞争对手可能被禁止的时期重申其雄心） - 预计 InP 产能设施将于 2027 年初上线（进一步增长的时间表仅供参考） - 总产能每月接近 200,000/u，800g/1.6t 每月 EOY 650,000/u。 EOY 2027，930,000/u（这是我想看到的斜坡）-“提高我们的外部光源或 ELSFP 的制造能力。这是针对共同封装光学器件或 CPO 的”。我们预计今年晚些时候到 2027 年将提高产量，最终在 2028 年达到每月约 400,000 件（需要一些时间将其转化为收入） - “正如我们之前提到的，我们多年来一直在内部制造激光器。这使我们能够避免一些影响行业其他人的短缺”（CW/EML 激光器短缺期间的垂直整合牛市） - 我们相信，在未来，CPO 将继续推动高功率激光器需求的增长（CPO 领域的论文验证） - “实现我们将非 GAAP 毛利率恢复到 40% 左右的长期目标” - “我们第二季度末的现金等价物总额为 5.088 亿美元” 我需要仔细检查 ATM 是否完成 - “我们总体上提供收入的能力，特别是在 800G 产品方面，受到我们目前生产能力的限制” “如果我们能生产更多，我们就可以运送更多现在“需求>供应验证。 - “大部分增加的产能将在美国。即便如此，我要说的是，就像我一直强调的那样，这对于客户需求来说还不够好。客户需求高出 20%-40%。”邪恶的光子学需要整个领域的验证，通读 $LITE、$SIVE / $JBL 和其他的内容是令人惊奇的。 - “未来两三年不会，尤其是需求这么大。好吧？即使把AI、$LITE、$COHR、$AVGO加在一起，未来几年满足客户需求还是很困难的”更多光学行业需求验证。 - CPO 时间表：“如果您谈论的是[针对 CPO 市场]的真正大批量制造商，我会说更像是明年第三季度末”和“我们一直在与至少五个客户非常密切地合作”如果您关心当前收益（我并没有真正密切关注）收入：1.91 亿美元与 1.9 亿美元 EPS：0.06 美元与 0.02 美元 TLDR：整个激光+光学行业的非凡需求通读。有点支持 Lumentum 首席执行官的说法，即激光短缺比内存短缺更严重。 2027 年产能增长步入正轨。正如他们在之前的财报电话会议中所述，要在明年初左右绘制拐点的时间表。 AAOI现在已经有了客户。限制在于制造足够的激光器和收发器。"
     },
     {
-      "id": "tweet_aleabitoreddit_2085304045099696547",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 06 Aug 2026 09:56:42 GMT",
-      "content": "I remain convinced nobody knows how to pronounce or talk about $AAOI in real life. It’s one letter too long to say $TSM or $AMD. And nobody ever says to a friend“Wow, I like applied optoelectronics!”",
-      "url": "https://x.com/aleabitoreddit/status/2085304045099696547",
-      "tweet_id": "2085304045099696547",
-      "translated": "我仍然相信在现实生活中没有人知道如何发音或谈论 $AAOI。对于 $TSM 或 $AMD 来说，这一个字母太长了。没有人会对朋友说“哇，我喜欢应用光电子学！”"
+      "id": "tweet_qinbafrank_2085621122796794218",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Fri, 07 Aug 2026 06:56:39 GMT",
+      "content": "关于英伟达RubinUltra上HBM减配，之前这里https://x.com/qinbafrank/status/2083890594796257652?s=46&t=k6rimWsEbo2D2tXolYcM-A、今天TheInformation也报道了，再聊聊： 1、英伟达预览给大客户的主流SKU已偏向更低内存（例如192GB 8-Hi HBM4，甚至低于标准Rubin的288GB 12-Hi），同时保持相近的峰值算力（约35 PFLOPS），功耗主流控制在1800W左右。 之前在这里https://x.com/qinbafrank/status/2083917947731578909?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到，如果Ultra版本的hbm配置低于Vera rubin标准版，标准版（Vera Rubin）优势明显就显现出来了：它已进入量产，7月陆续向AWS、Google、Microsoft、Oracle、CoreWeave等8家CSP大规模交付。内存规格更“正常”（288GB HBM4级别），单价和系统复杂度更可控，适合快速扩容。Ultra如果内存进一步减配（甚至低于标准版），对内存敏感的大型模型训练/推理，单卡有效容量下降，CSP自然会倾向先用更多标准版来堆量。 2、减配核心原因还是供给不够、而非需求问题。TrendForce 指出2027年整体DRAM供应仍会紧张，晶圆分配给HBM的空间有限，加上HBM4E（尤其是更高层数如12-Hi/16-Hi）的验证、良率和量产进度存在不确定性。 产能真正明显缓解要到2027下半年至2028年（SK Hynix、Samsung等新厂/扩产陆续释放，SK Hynix计划5年晶圆产能翻倍，但新产能落地有滞后） 3、减配直接推高对“更多GPU”的需求：更低HBM意味着模型可能放不下、或需要更多切分/流水线，最终要用更多卡才能达到同等有效算力或吞吐。这会放大总GPU采购量，也抬高系统TCO。 那么未来CSP云厂采购最多的估计还是标准版。 4、减配也利好互连 如果CSP买更多标准版或低配Ultra，机架间/机柜间互连带宽、延迟、软件调度（NVLink域扩展、集体通信）会更吃紧。Nvidia也在强化这方面（更高代NVSwitch、CPO光学等）。 HBM短缺把压力从“内存”部分转移到“互连+系统软件+电力/冷却”上。CSP的采购策略会更看重“能高效互联多少卡”，而不是单卡规格有多猛。 总结 HBM短缺是结构性的（至少到2027-2028），达子用减配换出货量其实是理性选择，这会让标准Vera Rubin在2026-2027成为CSP的“主力军”，Ultra更多扮演“大规模互联优化版”。互连（NVLink生态）的重要性会被进一步放大，成为下一阶段差异化关键。",
+      "url": "https://x.com/qinbafrank/status/2085621122796794218",
+      "tweet_id": "2085621122796794218"
     },
     {
       "id": "tweet_qinbafrank_2085581926161858732",
@@ -138,15 +147,6 @@
       "content": "今晚市场焦点应该就是7月份劳动力就业数据了，先看几组数据： 1、如果把过去四年月度新增非农就业数据放在一起看（下图），其实很明显月度新增非农就业是稳步向下的，小于10万的非农在疫情后都是偏低的。 而且能看到近三年七八月就业数据都不是很好。 2、二季度新增就业数据 7月初这里https://x.com/qinbafrank/status/2072665494768021550?s=46&t=k6rimWsEbo2D2tXolYcM-A 有聊到：6月的非农5.7万远低于预期，意味着5月的“世界杯效应”快速退去；第4月和5月合计下修了7.4万人，整体二季度就业没那么好 本周三公布7月ADP小非农4.4万大幅低于预期，年内新低，下滑最大的是生产部门。失业率倒是保持在4.3%附近，源于劳动供给收缩而非需求扩张。 都能看出来，就业市场其实是趋冷的，特别是失去了世界杯这个短期促进就业的强因素，7月非农就业大概率也也不会很好。 焦点则在于： 1）如果小幅低于预期，就业温和降温、工资不再过热、失业率没有大幅飙升上升，这对于市场来说是最佳剧本，会让市场和联储把注意力转到劳动力市场上，减弱加息预期也不至于过度担心衰退； 2）如果大幅低于预期、则是短期会恐慌担心衰退。如去年8月初公布7月非农数据也是大幅度弱于预期、带来市场小跌。 大家印象很深则是24年8月3号公布7月非农大幅度不及预期（预期22万，公布数据11万）再加上当时日央行加息幅度超预期且意外缩表，带动当时套息交易退潮到顶峰带来“8.5”的闪崩。 本周又是美日联合干预汇率的关键窗口 周一这里https://x.com/qinbafrank/status/2084156912954909063?s=46&t=k6rimWsEbo2D2tXolYcM-A有详细聊过 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
       "url": "https://x.com/qinbafrank/status/2085571919689244790",
       "tweet_id": "2085571919689244790"
-    },
-    {
-      "id": "tweet_qinbafrank_2085553614622519738",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 07 Aug 2026 02:28:24 GMT",
-      "content": "Cloudflare上调2026年全年调整后每股盈利预期至1.25至1.26美元，高于此前的1.19至1.20美元，超出华尔街平均预期的1.20美元，公司股价盘后大涨超16%。也说明了其今年5月宣布裁员五分之一、转向AI优先运营模式的战略调整，并未对增长造成冲击。 Cloudflare将业绩加速归因于AI驱动的网络需求结构性变化。Matthew Prince在声明中说：\"随着互联网向AI答案引擎和代理驱动的商业模式转变，我们正在见证互联网针对机器对机器流量的根本性重构。” 这一判断指向一个核心逻辑：AI模型的大规模部署，正在催生大量机器之间的自动化流量，而Cloudflare的网络基础设施恰好处于这一流量的关键节点。 前几天说 $NET 越老越有Agent时代网络基础设施的影子了 AI可以替代很多东西、但AI需要 $NET 遍布全球的CDN网络，这要是2月份认为NET被错杀的核逻辑。 现在回看2月中这条https://x.com/qinbafrank/status/2021506837720498224?s=46&t=k6rimWsEbo2D2tXolYcM-A认为安全股被错杀的推文几乎是call了安全板块的最低点。",
-      "url": "https://x.com/qinbafrank/status/2085553614622519738",
-      "tweet_id": "2085553614622519738"
     },
     {
       "id": "tweet_xiaomustock_2085556671712297190",
