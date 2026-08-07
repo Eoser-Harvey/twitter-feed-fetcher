@@ -1,7 +1,57 @@
 {
-  "fetched_at": "2026-08-06T14:14:55.776174+00:00",
-  "total": 18,
+  "fetched_at": "2026-08-07T00:42:09.266851+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2085510570753556940",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 06 Aug 2026 23:37:21 GMT",
+      "content": "It will be awesome 😎",
+      "url": "https://x.com/elonmusk/status/2085510570753556940",
+      "tweet_id": "2085510570753556940",
+      "translated": "会很棒的😎"
+    },
+    {
+      "id": "tweet_elonmusk_2085510467544314111",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 06 Aug 2026 23:36:57 GMT",
+      "content": "Easy to tell who the bad guys are by looking at who has to build a wall to keep people from escaping!",
+      "url": "https://x.com/elonmusk/status/2085510467544314111",
+      "tweet_id": "2085510467544314111",
+      "translated": "看看谁必须建造一堵墙来防止人们逃跑，就可以轻松判断谁是坏人！"
+    },
+    {
+      "id": "tweet_elonmusk_2085396555834814834",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 06 Aug 2026 16:04:18 GMT",
+      "content": "RT by @elonmusk: Our goal is for no Tesla battery to end up in a landfill. Across our US operations, we’re recovering more than 90% of key battery materials like nickel & cobalt from cells that we recycle More details in our 2025 Impact Report https://www.tesla.com/impact",
+      "url": "https://x.com/elonmusk/status/2085396555834814834",
+      "tweet_id": "2085396555834814834",
+      "translated": "RT @elonmusk：我们的目标是让特斯拉电池不再被扔进垃圾填埋场。在我们的美国业务中，我们从回收的电池中回收了超过 90% 的关键电池材料，例如镍和钴。更多详细信息请参阅我们的 2025 年影响报告 https://www.tesla.com/impact"
+    },
+    {
+      "id": "tweet_cz_binance_2085404921914966044",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 06 Aug 2026 16:37:32 GMT",
+      "content": "🇹🇭 Thailand confirms 0% capital gains tax on Bitcoin & crypto. 👏",
+      "url": "https://x.com/cz_binance/status/2085404921914966044",
+      "tweet_id": "2085404921914966044",
+      "translated": "🇹🇭 泰国确认对比特币和加密货币征收 0% 资本利得税。 👏"
+    },
+    {
+      "id": "tweet_cz_binance_2085402313259463121",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 06 Aug 2026 16:27:11 GMT",
+      "content": "RT by @cz_binance: Standing in front of the Burj Khalifa again. Goosebumps. Around three years ago I was here talking to a crypto bro based in the UAE. He told me most of his friends use @TrustWallet. I said that was impossible. It lacked this feature, that chain, that polish. He just smiled and said, “That’s what I see people using.” Coming back to the same place, I can only laugh at my own naivety. Trust Wallet is more performant now. The UX is better. We support more chains and features than ever. But that’s not why people stay. They stay because they trust. They trust the brand. They trust self-custody. They trust that the team will do right by them. Features can be copied. Performance can be improved. Trust takes years to build. We’re nine years in. Still early. Still entrusted by millions. What we carry forward isn’t just a product. It’s the trust of the people who chose us. It’s always Day 1. Thank you for your trust.",
+      "url": "https://x.com/cz_binance/status/2085402313259463121",
+      "tweet_id": "2085402313259463121",
+      "translated": "RT @cz_binance：再次站在哈利法塔前。起鸡皮疙瘩。大约三年前，我在这里与一位阿联酋的加密兄弟交谈。他告诉我他的大多数朋友都使用@TrustWallet。我说那是不可能的。它缺乏这个功能、那个链条、那个抛光。他只是微笑着说：“我看到人们就是这么用的。”回到同一个地方，我只能嘲笑自己的天真。 Trust Wallet 现在性能更高。用户体验更好。我们支持比以往更多的链条和功能。但这不是人们留下来的原因。他们留下来是因为他们信任。他们信任这个品牌。他们相信自我保管。他们相信团队会为他们做正确的事。特征是可以复制的。性能可以得到改善。信任需要数年时间才能建立。我们已经九年了。还早。仍然受到数百万人的委托。我们传承的不仅仅是产品。这是人们的信任选择了我们。这总是第一天。感谢您的信任。"
+    },
     {
       "id": "tweet_cz_binance_2085313946106356090",
       "username": "cz_binance",
@@ -13,24 +63,53 @@
       "translated": "来自@cz_binance 的转发：大多数交易所都要求您信任他们。 @binance 只是发布了数字。早在 2022 年，储备证明（著名的 P.O.R）就推出了。以下是每年挑选的一些数据： 2022 年 11 月：475,000 比特币：原生 2023 年 9 月：588,000 比特币：原生 2024 年 12 月：580,111 比特币：原生 2025 年 12 月：617,620 比特币：原生 2026 年 7 月，最新快照：640,000 比特币：原生 我会让你自己弄清楚你所看到的。连续四年多每月公开发布、可验证。它来自于每个月数以百万计的用户选择将他们的比特币保留在那里。收到四年，年复一年。"
     },
     {
-      "id": "tweet_cz_binance_2084995500286103715",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 05 Aug 2026 13:30:39 GMT",
-      "content": "All on Binance!",
-      "url": "https://x.com/cz_binance/status/2084995500286103715",
-      "tweet_id": "2084995500286103715",
-      "translated": "一切尽在币安！"
+      "id": "tweet_realDonaldTrump_2082159711852298494",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
+      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
+      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
+      "tweet_id": "2082159711852298494",
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
     },
     {
-      "id": "tweet_cz_binance_2084927145361432874",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 05 Aug 2026 08:59:02 GMT",
-      "content": "RT by @cz_binance: another angle of numbers for the first week of August: @BNBCHAIN did $11.28b in dex volume over the last 7 days. more than any other chain, up 21% week over week. Solana did $10.41b. Ethereum $5.77b. Tron $196m. now look at the liquidity sitting behind those numbers. BNB Chain, Tron and Solana all hold around $4.9b in defi tvl. Ethereum holds $41.03b. BNB Chain recycles (2.31x its entire tvl every week. Solana 2.17x. Ethereum 0.14x. Tron 0.04x. three chains, same liquidity base, swap volumes 57x apart from top to bottom. Tron is more a stablecoin rail, not a swap venue, so its number reads low by design. fair to notice it. the ranking everyone watches is tvl. the one that shows what a chain actually does is velocity. 🥇: 🔶👷🏽‍♂️",
-      "url": "https://x.com/cz_binance/status/2084927145361432874",
-      "tweet_id": "2084927145361432874",
-      "translated": "@cz_binance 的转发：8 月第一周的另一个数字角度：@BNBCHAIN 在过去 7 天内的 dex 交易量达到了 11.28b 美元。比其他任何连锁店都多，周环比上涨 21%。 Solana 的业绩为 $10.41b。以太坊 $5.77b。波场 1.96 亿美元。现在看看这些数字背后的流动性。 BNB Chain、Tron 和 Solana 均持有约 4.9b 美元的 defi tvl。以太坊持有 $41.03b。 BNB 链每周回收 2.31 倍的总 tvl。Solana 2.17x。以太坊 0.14x。Tron 0.04x。三个链，相同的流动性基础，交换量从上到下相差 57 倍。Tron 更像是一个稳定币轨道，而不是交换场所，所以它的数量在设计上读得很低。公平地注意到它。每个人观看的排名是 tvl。显示一条链实际作用的排名是速度。 🥇: 🔶👷🏽‍♂️"
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2085511646257332581",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 06 Aug 2026 23:41:38 GMT",
+      "content": "$MTSI earnings transcript: \"Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers\" Emphasis on \"Urgency\", CW \"DFB lasers\", \"coming to us\". CW DFB names, such as like $SIVE and $LITE should be happy to hear about this laser bottleneck getting validated.",
+      "url": "https://x.com/aleabitoreddit/status/2085511646257332581",
+      "tweet_id": "2085511646257332581",
+      "translated": "$MTSI 收益记录：“由于磷化铟 DFB 激光器普遍供应短缺，客户紧急来找我们” 强调“紧急”、CW“DFB 激光器”、“来找我们”。 CW DFB 名称（例如 $SIVE 和 $LITE）应该很高兴听到这个激光瓶颈得到验证。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2085499853099208716",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 06 Aug 2026 22:54:46 GMT",
+      "content": "Just some TLDR notes on $AAOI earnings: - Expects full qualification of 1.6T products by their hyperscaler customer within next couple of weeks (helpful revenue ramp #2, timelines) - Continues to believe that AOI will have the largest AI DC transceiver production capacity in the US (reiterating ambitions during a time when their competitors might get banned) - Expects facilities toward InP capacity to come online in early 2027 (timeline FYI in terms of further ramp) - Total capacity is approaching 200,000/u per month, EOY 650,000/u per month of 800g/1.6t. EOY 2027, 930,000/u (this is the ramp i want to see) - \"increase our manufacturing capacity for our external light source or ELSFP. That's for co-packaged optics or CPO\". we anticipate ramping production later this year and into 2027, ultimately culminating in about 400,000 pieces per month in 2028 (need some time to model this into revenue) - \"As we have mentioned before, we've been manufacturing lasers internally for many years. This has allowed us to avoid some of the shortages that have affected others in the industry\" (vertical integration bull case during CW/EML laser shortages) - We believe that in the future, CPO will continue to drive increased demand for high-power lasers (thesis validation on CPO sector) - \"to our long-term objective of returning non-GAAP gross margins to around 40%\" - \"We ended the second quarter with $508.8 million in total cash equivalents\" I need to double check if the ATM finished or not - \"our ability to deliver revenue in general, and specifically when it comes to 800G products, is limited by our production capacity right now\" \"If we could produce more, we could ship more right now\" Demand > Supply validation. - \"Most of the increased capacity will be in U.S. Even so, let me say that, like I keep emphasizing, that is not good enough for the customer demand. The customer demand is 20%-40% higher.\" Unholy photonics demand validation across the whole sector, read through for $LITE, $SIVE / $JBL, and others is amazing. - \"Not in the next two, three years, especially the demand is so big. Okay? Even combined AI, $LITE, $COHR, $AVGO all together, it's still very tough to meet the customer demand in the next few years\" More optical sector demand validation. - CPO Timelines: \"If you're talking about really high volume manufacturer [for CPO market], I would say more like the late Q3 next year\" and \"We have been working very close with at least five customer\" If you care about current earnings (which I'm not really looking at closely) Revenue: $191M vs. $190m EPS: $.06 vs. $.02 TLDR: Extraordinary demand across the laser + optical sector read through. Kinda supporting Lumentum CEO statement that laser shortage is worse than memory shortages. 2027 capacity ramp on track. To map inflection period with timelines, would be around early next year, as stated in their previous earnings call. AAOI has the customers now. Limitation is making enough lasers and transceivers.",
+      "url": "https://x.com/aleabitoreddit/status/2085499853099208716",
+      "tweet_id": "2085499853099208716",
+      "translated": "关于 $AAOI 收益的一些 TLDR 注释： - 预计其超大规模客户将在未来几周内全面鉴定 1.6T 产品（有助于收入增长＃2，时间表） - 仍然相信 AOI 将拥有美国最大的 AI DC 收发器产能（在其竞争对手可能被禁止的时期重申其雄心） - 预计 InP 产能设施将于 2027 年初上线（进一步增长的时间表仅供参考） - 总产能每月接近 200,000/u，800g/1.6t 每月 EOY 650,000/u。 EOY 2027，930,000/u（这是我想看到的斜坡）-“提高我们的外部光源或 ELSFP 的制造能力。这是针对共同封装光学器件或 CPO 的”。我们预计今年晚些时候到 2027 年将提高产量，最终在 2028 年达到每月约 400,000 件（需要一些时间将其转化为收入） - “正如我们之前提到的，我们多年来一直在内部制造激光器。这使我们能够避免一些影响行业其他人的短缺”（CW/EML 激光器短缺期间的垂直整合牛市） - 我们相信，在未来，CPO 将继续推动高功率激光器需求的增长（CPO 领域的论文验证） - “实现我们将非 GAAP 毛利率恢复到 40% 左右的长期目标” - “我们第二季度末的现金等价物总额为 5.088 亿美元” 我需要仔细检查 ATM 是否完成 - “我们总体上提供收入的能力，特别是在 800G 产品方面，受到我们目前生产能力的限制” “如果我们能生产更多，我们就可以运送更多现在“需求>供应验证。 - “大部分增加的产能将在美国。即便如此，我要说的是，就像我一直强调的那样，这对于客户需求来说还不够好。客户需求高出 20%-40%。”邪恶的光子学需要整个领域的验证，通读 $LITE、$SIVE / $JBL 和其他的内容是令人惊奇的。 - “未来两三年不会，尤其是需求这么大。好吧？即使把AI、$LITE、$COHR、$AVGO加在一起，未来几年满足客户需求还是很困难的”更多光学行业需求验证。 - CPO 时间表：“如果您谈论的是[针对 CPO 市场]的真正大批量制造商，我会说更像是明年第三季度末”和“我们一直在与至少五个客户非常密切地合作”如果您关心当前收益（我并没有真正密切关注）收入：1.91 亿美元与 1.9 亿美元 EPS：0.06 美元与 0.02 美元 TLDR：整个激光+光学行业的非凡需求通读。有点支持 Lumentum 首席执行官的说法，即激光短缺比内存短缺更严重。 2027 年产能增长步入正轨。正如他们在之前的财报电话会议中所述，要在明年初左右绘制拐点的时间表。 AAOI现在已经有了客户。限制在于制造足够的激光器和收发器。"
     },
     {
       "id": "tweet_aleabitoreddit_2085304045099696547",
@@ -43,24 +122,13 @@
       "translated": "我仍然相信在现实生活中没有人知道如何发音或谈论 $AAOI。对于 $TSM 或 $AMD 来说，这一个字母太长了。没有人会对朋友说“哇，我喜欢应用光电子学！”"
     },
     {
-      "id": "tweet_aleabitoreddit_2085217487864643658",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 06 Aug 2026 04:12:45 GMT",
-      "content": "The unexpected thing of the week... Was $AEVA becoming a CPO/NPO optical source player. For background: $SIVE is viewed as the high confidence CW DFB laser supplier to Aeva (which is known for lidar). Today, Aeva reacted with +18.26% AH on news that they signed a JDA with an optical engine player for deployment at a major hyperscaler in H2 2027, production ramp 2028. \"Optical Connectivity will leverage that foundation along with Aeva’s EXISTING high-volume manufacturing and foundry supply chain\" for: - ELSFP (similar to O-Net/Enablence + $SIVE), with Sivers as the likely CW laser + potential amplifier supplier - On-chip integrated light source (likely $SIVE DFB + Aeva PIC on the architecture/integration side) TLDR: New TAM and a hyperscaler programs for Aeva for CPO/NPO, positive read through for upstream suppliers like $SIVE.",
-      "url": "https://x.com/aleabitoreddit/status/2085217487864643658",
-      "tweet_id": "2085217487864643658",
-      "translated": "本周意想不到的事情... $AEVA 成为 CPO/NPO 光源玩家。背景信息：$SIVE 被视为 Aeva（以激光雷达而闻名）高度信赖的 CW DFB 激光器供应商。今天，Aeva 的反应是 +18.26% AH，因为有消息称他们与一家光学引擎厂商签署了联合开发协议，将于 2027 年下半年在一家大型超大规模企业进行部署，并于 2028 年实现量产。“光学连接将利用这一基础以及 Aeva 现有的大批量制造和代工供应链”用于： - ELSFP（类似于 O-Net/Enablence + $SIVE），Sivers 可能是 CW 激光器 + 潜力放大器供应商 - 片上集成光源（架构/集成方面可能是 $SIVE DFB + Aeva PIC） TLDR：新的 TAM 和 Aeva 的 CPO/NPO 超大规模程序，对 $SIVE 等上游供应商的积极阅读。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2085174977272360987",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 06 Aug 2026 01:23:49 GMT",
-      "content": "Funniest callout of the year from $VIAV on CPO timelines: \"Well, there's been a lot of industry talk [about delays], like, 'Oh, because the yield is going to be slower.' That's all nonsense. CPO and all that thing is moving forward\" They stated that Yes there's always issues, but the process is being improved and things are getting better. To follow up on that, the CEO stated: - Viavi has POs for CPO-testing activity - “We’re already getting [CPO revenue] this quarter, and probably in December it will start accelerating.” On a side note, they also stated, 1.6T is \"ramping very quickly\", should reach parity with 800g next year, and signaled longer tail for 800g demand. TLDR: Seeing CPO test revenues hit for $VIAV to $FORM around now. Nvidia also stated switch-side CPO for scale out and scale across has entered mass production earlier. As for scale up timelines, early production should be H2 2027 for some players, with other CPO players Ayar stating 2028 is the volume inflection period. Basically, all the timelines seem to be the same as before and revenue is starting to hit testing players first.",
-      "url": "https://x.com/aleabitoreddit/status/2085174977272360987",
-      "tweet_id": "2085174977272360987",
-      "translated": "$VIAV 对 CPO 时间表的年度最有趣的标注是：“嗯，业界有很多关于延迟的讨论，比如，‘哦，因为产量会变慢。’”这都是废话。 CPO 和所有这些事情都在向前发展。”他们表示，是的，问题总是存在，但流程正在改进，事情正在变得更好。为了跟进这一点，首席执行官表示： - Viavi 拥有用于 CPO 测试活动的采购订单 - “本季度我们已经获得了 [CPO 收入]，并且可能在 12 月开始加速。”另一方面，他们还表示，1.6T 正在“快速增长”，明年应该会与 800g 持平，并表明 800g 需求的尾部更长。 TLDR：现在 CPO 测试收入达到 $VIAV 至 $FORM。 Nvidia还表示，用于横向扩展和横向扩展的交换机端CPO已较早进入量产。至于扩大规模的时间表，对于一些厂商来说，早期生产应该是 2027 年下半年，其他 CPO 厂商 Ayar 表示 2028 年是产量拐点期。基本上，所有的时间表似乎都与以前相同，收入首先开始影响测试玩家。"
+      "id": "tweet_qinbafrank_2085396030888259822",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Thu, 06 Aug 2026 16:02:13 GMT",
+      "content": "清晰法案能否在中期选举前通过参议院表决就在未来这几天了。美国参议院银行委员会主席Tim Scott表示，针对加密货币市场监管的《CLARITY Act》将在国会休会前迎来投票，“毫无疑问会进行表决”。 Scott 在接受福克斯新闻采访时表示，参议院可能会延长工作时间，不仅限于未来两天，以推动相关立法取得进展。他称，共和党内部正在就该法案形成共识，并认为推动加密监管框架落地“符合美国利益”。 Tim Scott 表示：“我们会完成这项工作。”",
+      "url": "https://x.com/qinbafrank/status/2085396030888259822",
+      "tweet_id": "2085396030888259822"
     },
     {
       "id": "tweet_qinbafrank_2085357954430369963",
@@ -79,15 +147,6 @@
       "content": "R to @qinbafrank: BIT美股研讨群https://t.me/+gVoU9qICjVJmMjI1",
       "url": "https://x.com/qinbafrank/status/2085365283116736748",
       "tweet_id": "2085365283116736748"
-    },
-    {
-      "id": "tweet_qinbafrank_2085339048529506766",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Thu, 06 Aug 2026 12:15:47 GMT",
-      "content": "这里有一点需要明确下：直接加密资产（如比特币、以太坊、稳定币、可去中心化持有/转让的加密代币等）主要在 CARF框架下，而不是CRS 2.0。 CRS1.0：主要覆盖传统金融账户（银行、证券、保险等）。大陆税务居民的境外银行/券商账户信息会自动交换回来。 CRS 2.0：OECD 2023年修订版，扩展了部分数字金融产品（CBDC、特定电子货币、通过衍生品/基金间接持有的加密资产等）到CRS报告范围。 CARF：专门针对直接加密资产（比特币、稳定币、部分NFT、加密衍生品交易等）的报告框架。交易所等“报告加密资产服务提供商”（RCASP）需报告用户交易、兑换、转账等明细。 实务中大家常把“加密相关升级”统称CRS 2.0，但真正覆盖交易所用户加密交易的是CARF。 已按CARF报告的资产通常不再重复走CRS。",
-      "url": "https://x.com/qinbafrank/status/2085339048529506766",
-      "tweet_id": "2085339048529506766"
     },
     {
       "id": "tweet_xiaomustock_2085181524555780491",
@@ -117,31 +176,40 @@
       "tweet_id": "2084875235833348532"
     },
     {
-      "id": "tweet_xingpt_2085283953305588021",
+      "id": "tweet_xingpt_2085405191072100641",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Thu, 06 Aug 2026 08:36:51 GMT",
-      "content": "记得小的时候听过一个段子： 一群学生出门溯溪，有个穿着裙子的小姑娘就开始卷起裙边，越走河水越深，就把裙子卷到膝盖，继续向河中间走，姑娘就把裙子卷到大腿，这时候其他人开始等着看笑话了，前面的河水快要淹没到腰，想看小姑娘怎么办。 结果小姑娘索性就把裙子放下来，任水淹没过长裙。 讲这个故事是想解释闪迪和WDC今晚的财报，其实美光发财报之后，半导体产业的财报就是利空了，业绩好也跌，业绩差更跌，这就是预期太高就会落空，涨价的斜率快到了三位数，毛利率接近 90%，你还希望企业能给出更高的成长吗？ 涨价涨到了终端下游都买不起要减配的状态，基本上涨幅就是到顶了，业绩的增长是线性的，而之前的业绩是指数增长，在股价上反应出来就是不及预期的下跌。 闪迪营收$89.65亿，环比+51%，同比+372%、毛利率84.6%、EPS$39.25，全部超过指引上限，但市场看到的是消费端$5.56亿，环比下跌32%，说明消费市场无论是闪迪主动放弃，还是涨价到需求减弱，都是把一块蛋糕让给别人了。 电话会管理层给出的NBM模式的毛利率水平约80%的答案，更是说明长协对毛利率的增长形成压制，长协的好处是需求下限的到了保证，而价格的上限也被锁死，那么从买增长的角度考虑，肯定是要下调预期了。 WDC也是一样，不仅当前业绩超预期，连下季度指引都超预期，但双Beat的结果还是盘后下跌。 之前说过，行情如果感觉难赚钱，不是你的水平不行，说明就不应该做这个板块。如果半导体难赚钱，说明不是买半导体的时刻；同理，如果AI板块难赚钱，说明不应该买AI了。 这里有一个暴论：如果Q3 大模型公司和AI圈再拿不出coding之外的爆发式应用，AI公司的股票也许一段时间内都要回避了。 因为现在所有的CSP需求、大模型公司的估值、半导体股票的市值都是建立在未来应用持续增长的假设前提下，这个假设一旦动摇，第一步就是杀估值；当然乐观的情形是，一旦有新的应用场景增量，相关的股票就是爆发式增长，保持谨慎，拭目以待。",
-      "url": "https://x.com/xingpt/status/2085283953305588021",
-      "tweet_id": "2085283953305588021"
+      "published_at": "Thu, 06 Aug 2026 16:38:37 GMT",
+      "content": "Anthropic ARR增速在放缓，实际上也能想到，现在Fable太贵用不起，codex和国产替代能力也很强！ 根据最新Yipit数据： 2026年6月底：Anthropic ARR约为670亿美金（修正后） 7月12日：约730亿美金 7月底：约800亿美金 也就是说，6月底至7月12日的12天，日均ARR增长额为（730-670）/12=5亿美金。 7月12至7月底的19天，日均ARR增长额为（800-730）/19=3.7亿美金。 7月中下旬，日均增长额收敛了26%。",
+      "url": "https://x.com/xingpt/status/2085405191072100641",
+      "tweet_id": "2085405191072100641"
     },
     {
-      "id": "tweet_xingpt_2085278810061320269",
+      "id": "tweet_xingpt_2085403734537121872",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Thu, 06 Aug 2026 08:16:25 GMT",
-      "content": "南京大学数院教授的辞职信因为其简单直接而火，他本人的官网头像也是一个抽象画。 也许是这种学界大牛才有资格如此洒脱吧，就像只有李白才敢在皇帝面前让高力士拖鞋。这种自由令人艳羡",
-      "url": "https://x.com/xingpt/status/2085278810061320269",
-      "tweet_id": "2085278810061320269"
+      "published_at": "Thu, 06 Aug 2026 16:32:49 GMT",
+      "content": "突发：英伟达据悉考虑下调Rubin Ultra芯片显存容量 8月7日讯， 据《The Information》报道，英伟达(NVDA.O)正考虑一项重大措施以应对高端高带宽内存芯片短缺问题。 英伟达考虑在下一代图形处理器Rubin Ultra上采用低于原计划的显存配置。 知情人士透露，英伟达过去数周已经测试了至少三个版本的Rubin Ultra显卡，部分版本的显存规模低于最初公布的规格。 此次调整的部分原因在于其可能无法获取充足的高端内存，来满足原始设计的供货需求。 显存缩减会对芯片性能造成影响，不过英伟达可通过其他方式进行弥补。 但其他人工智能企业若使用这款降显存芯片运行大型AI模型，就需要调用比原本更多的芯片。",
+      "url": "https://x.com/xingpt/status/2085403734537121872",
+      "tweet_id": "2085403734537121872"
     },
     {
-      "id": "tweet_xingpt_2085251438083743755",
+      "id": "tweet_xingpt_2085397699504050232",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Thu, 06 Aug 2026 06:27:39 GMT",
-      "content": "都知道普通人炒美股的最佳方式，就是买指数。 很多人说买指数定投，但是定投第一个很难坚持，想法一变就fomo进场，从定投改成梭哈了；二是定投其实综合回报率长期不如直接梭哈买入 （你想想要是美股长期上涨，定投成本不就变高了）。 我觉得最佳的方式就是一把梭哈买QQQ，但是找不到好的时点，长期忍受回撤也很难受，所以底仓我建议等QQQ跌破SMA200 日线 的均线就梭哈。（图 1） 基本上一年有一次机会，只要你把握住了当年的回报率一定不会差。 当然这么做还是会有熊市抄底过早的情况，比如22 年 1 月到23 年 1 月都是在SMA以下，这种情况有一年的时间在水下，如果你觉得这样的回撤还是很难忍受，那么可以一半跌破SMA200 买，另一半等SMA20 日线上穿SMA200 日线形成多头趋势再买入，综合下来平均成本还是相当合算的。（图 2） 如果你还是觉得空仓拿着现金很没存在感，特别是忍受不了牛市每天踏空涨幅，那么可以定投与加仓抄底结合：一半的现金流进行定投，另一半现金留着等市场跌破SMA200 日线开始加仓抄底。 这种长期的美股仓位，我非常推荐用一个单独的美股账户。 有的人说现在币圈交易所都能炒美股，为什么还需要一个美股券商？ 这你就不懂了吧，在美股券商买的股票不是美股代币，不是CFD合成资产，可以用稳定币交易真实美股正股，有分红权、投票权。 而且我的交易体会是炒币和炒股的节奏完全不一样，股票用美股账户可以避免被炒币的节奏干扰，特别是一些长期持仓的仓位，仓位的隔离非常重要。 这时候有人会问，开美股券商现在门槛太高了，类似futu老虎之类的都不让内地人开了，IBKR啥的地址证明也卡的很严格，而且币圈资金都是稳定币，要出金转换成法币美元也很麻烦，如果有一个券商，能够用身份证开户，还支持稳定币出入金炒真实美股就好了。 巧了，最近发现BIT这个平台不仅支持稳定币资金通道，还支持身份证验证开户，简单方便快捷，最主要是合规（非CRS 共同申报准则国家范围）： BIT的美股业务采用综合账户介绍经纪商模式。 BIT负责客户开户、身份审核、前端交易系统、内部账本和订单传递，订单再交给美国持牌券商执行，由美国清算机构完成结算和托管。BIT公开列出的合作机构包括 Clear Street、RQD Clearing 和 Atomic Vaults Securities。 手续费低啥的优势就不说了，专业的交易者还可以使用融资融券和期权功能，8 月份新开户的话享受期权0佣金，100 美元手续费卡和30天美股实时行情卡+期权行情卡。 注册链接用评论区下面的链接还有现金奖励（可得最高 200 美金现金卡奖励，奖金直接买美股） ： 如果有开户问题，评论区留言或者私信，可以帮你跟公司的BD直接拉群对接。 （注意：美股投资风险极高，盈亏自负，本文不构成任何投资建议；本文仅为信息分享，不构成背书，也不承担任何平台资金风险丢失等意外情形的责任）",
-      "url": "https://x.com/xingpt/status/2085251438083743755",
-      "tweet_id": "2085251438083743755"
+      "published_at": "Thu, 06 Aug 2026 16:08:51 GMT",
+      "content": "不得不说：哈兰德小子吃的真好啊",
+      "url": "https://x.com/xingpt/status/2085397699504050232",
+      "tweet_id": "2085397699504050232"
+    },
+    {
+      "id": "tweet_hibtc37_2085372167521464354",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Thu, 06 Aug 2026 14:27:23 GMT",
+      "content": "玩抽象，是一种很好自保策略，卖惨是一种智慧，但都怪老板之前炫富太狠了，现在补课来不及了，鬼信你，你其实赢麻😆",
+      "url": "https://x.com/hibtc37/status/2085372167521464354",
+      "tweet_id": "2085372167521464354"
     },
     {
       "id": "tweet_hibtc37_2085356112593961034",
@@ -160,20 +228,11 @@
       "content": "我怀疑沃什的鹰是在演戏，他最终还是要实现降息和缩表的初衷，这人不简单，是个老狐狸，所以，如果抄底BTC现货的，不得不防一手，尤其是中期选举后，就是他五个工作小组出数据时，降息利好，缩表利空，如果流动性抽走，市场会大跌。所以，一旦后面市场觉察到沃什降息缩表的动向，就会提前反应 他反复强调通胀要压到2%，他有很多办法来间接和直接来达到他的目标，比如，他完全可以修改通胀计算方法来实现2%目标",
       "url": "https://x.com/hibtc37/status/2085355133286945038",
       "tweet_id": "2085355133286945038"
-    },
-    {
-      "id": "tweet_hibtc37_2085350896402300950",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Thu, 06 Aug 2026 13:02:52 GMT",
-      "content": "我对这种合约互割的游戏理解，一要知道自己在赌，控制仓位大小；二要设止损，控制亏损上限，三要认输/认赢，以小博大，但也要对最终结果做好心里准备。 我在想，如果反过来，对手亏了100万，我赚了100万，我会怎么样呢？",
-      "url": "https://x.com/hibtc37/status/2085350896402300950",
-      "tweet_id": "2085350896402300950"
     }
   ],
   "stats": {
-    "users_success": 6,
-    "users_failed": 2,
-    "nitter_healthy": 10
+    "users_success": 8,
+    "users_failed": 0,
+    "nitter_healthy": 9
   }
 }
