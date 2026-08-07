@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-08-07T03:52:06.714252+00:00",
+  "fetched_at": "2026-08-07T05:43:24.569194+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2085594813840216212",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 07 Aug 2026 05:12:06 GMT",
+      "content": "Grok Build V1.0 is now released. Try it out! http://X.ai/build",
+      "url": "https://x.com/elonmusk/status/2085594813840216212",
+      "tweet_id": "2085594813840216212",
+      "translated": "Grok Build V1.0 现已发布。尝试一下！ http://X.ai/build"
+    },
     {
       "id": "tweet_elonmusk_2085496023707951392",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2085528948612497735",
       "tweet_id": "2085528948612497735",
       "translated": "RT @elonmusk：香蕉规模。相对于 Terafab，香蕉基本上是一种量子涨落。"
-    },
-    {
-      "id": "tweet_elonmusk_2085528989829923275",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 07 Aug 2026 00:50:33 GMT",
-      "content": "RT by @elonmusk: Dear Europe: It's Not Racist to Have A Rational Immigration Policy",
-      "url": "https://x.com/elonmusk/status/2085528989829923275",
-      "tweet_id": "2085528989829923275",
-      "translated": "RT @elonmusk：亲爱的欧洲：合理的移民政策不是种族主义"
     },
     {
       "id": "tweet_cz_binance_2085404921914966044",
@@ -122,6 +122,15 @@
       "translated": "我仍然相信在现实生活中没有人知道如何发音或谈论 $AAOI。对于 $TSM 或 $AMD 来说，这一个字母太长了。没有人会对朋友说“哇，我喜欢应用光电子学！”"
     },
     {
+      "id": "tweet_qinbafrank_2085581926161858732",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Fri, 07 Aug 2026 04:20:54 GMT",
+      "content": "LYTE会是下一个DRAM么？凭借现象级存储ETF（DRAM）一战成名后，Roundhill Investments又把下一个筹码押在了AI基础设施的另一处关键瓶颈——光互连。昨晚Roundhill光子与光学ETF $LYTE正式登陆美股市场。Roundhill基本把DRAM的产品思路复制到了光通信领域：围绕AI基础设施的核心瓶颈，筛选收入高度相关的全球龙头，采用主动管理、季度再平衡和集中持仓。 LYTE是一只高度集中的AI光互连组合，前五大持仓分别为 $LITE、 $COHR、新易盛、中际旭创、和 $CIEN.US)、合计达到73.19%。 其后为天孚通信 、 源杰科技 、 光迅科技、 $FN 和 $AAOI、 $AXTI 等， 前十大持仓合计约占97.32%， 从产业分工看： Lumentum和Coherent主要覆盖激光器及核心光学器件； 新易盛、中际旭创和应用光电主要受益于高速光模块升级； 天孚通信、源杰科技和光迅科技布局光器件与光芯片； Ciena提供光网络设备，Fabrinet则负责精密制造。 值得关注的是，新易盛、中际旭创、天孚通信、源杰科技和光迅科技合计权重达46.8%。Roundhill主要通过总收益互换取得相关敞口，令LYTE成为美股市场少有的、高比例配置中国光通信龙头的ETF。也说明Roundhill也认为之前这里https://x.com/qinbafrank/status/2084887069265178857?s=46&t=k6rimWsEbo2D2tXolYcM-A 聊到的、白宫拟对中国光通信产业链的禁令是虚空造牌，在跟中国博弈对Inp的出口管制。短期内禁令很难完全落地。当然这也是这支etf未来潜在风险，如果真要看到禁令落下来得第一时间跑。 可以说LYTE更像“中美AI光通信龙头组合”ETF。 LYTE最大的优点，是它没有试图用几十家边缘公司拼出一个看似全面的“光子学故事”，而是把权重集中在目前真正产生AI光通信收入和利润的龙头上。 之前看过光领域的另外两支ETF https://x.com/qinbafrank/status/2079790771071574469?s=46&t=k6rimWsEbo2D2tXolYcM-A：FOTO侧重中小型光子专业公司； LAZR胜在跨产业分散配置； LYTE则集中押注中美光通信龙头，对AI数据中心光互联的敞口更直接 个人看法 1）若核心判断是未来几个季度AI光模块、激光器和光器件订单还会持续上修，LYTE可能是目前美股市场上覆盖光互连最直接、弹性最高的工具之一。 2）若核心判断是未来五年“光取代铜/电”的完整系统性革命，LYTE的产业链覆盖还不够完整，不能单独代表整个CPO、硅光和光I/O投资机会。",
+      "url": "https://x.com/qinbafrank/status/2085581926161858732",
+      "tweet_id": "2085581926161858732"
+    },
+    {
       "id": "tweet_qinbafrank_2085571919689244790",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -138,15 +147,6 @@
       "content": "Cloudflare上调2026年全年调整后每股盈利预期至1.25至1.26美元，高于此前的1.19至1.20美元，超出华尔街平均预期的1.20美元，公司股价盘后大涨超16%。也说明了其今年5月宣布裁员五分之一、转向AI优先运营模式的战略调整，并未对增长造成冲击。 Cloudflare将业绩加速归因于AI驱动的网络需求结构性变化。Matthew Prince在声明中说：\"随着互联网向AI答案引擎和代理驱动的商业模式转变，我们正在见证互联网针对机器对机器流量的根本性重构。” 这一判断指向一个核心逻辑：AI模型的大规模部署，正在催生大量机器之间的自动化流量，而Cloudflare的网络基础设施恰好处于这一流量的关键节点。 前几天说 $NET 越老越有Agent时代网络基础设施的影子了 AI可以替代很多东西、但AI需要 $NET 遍布全球的CDN网络，这要是2月份认为NET被错杀的核逻辑。 现在回看2月中这条https://x.com/qinbafrank/status/2021506837720498224?s=46&t=k6rimWsEbo2D2tXolYcM-A认为安全股被错杀的推文几乎是call了安全板块的最低点。",
       "url": "https://x.com/qinbafrank/status/2085553614622519738",
       "tweet_id": "2085553614622519738"
-    },
-    {
-      "id": "tweet_qinbafrank_2085396030888259822",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Thu, 06 Aug 2026 16:02:13 GMT",
-      "content": "清晰法案能否在中期选举前通过参议院表决就在未来这几天了。美国参议院银行委员会主席Tim Scott表示，针对加密货币市场监管的《CLARITY Act》将在国会休会前迎来投票，“毫无疑问会进行表决”。 Scott 在接受福克斯新闻采访时表示，参议院可能会延长工作时间，不仅限于未来两天，以推动相关立法取得进展。他称，共和党内部正在就该法案形成共识，并认为推动加密监管框架落地“符合美国利益”。 Tim Scott 表示：“我们会完成这项工作。”",
-      "url": "https://x.com/qinbafrank/status/2085396030888259822",
-      "tweet_id": "2085396030888259822"
     },
     {
       "id": "tweet_xiaomustock_2085556671712297190",
