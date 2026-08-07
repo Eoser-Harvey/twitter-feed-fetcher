@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-08-07T13:08:05.089308+00:00",
+  "fetched_at": "2026-08-07T15:58:59.855211+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2085594813840216212",
+      "id": "tweet_elonmusk_2085737443228045492",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 07 Aug 2026 05:12:06 GMT",
-      "content": "Grok Build V1.0 is now released. Try it out! http://X.ai/build",
-      "url": "https://x.com/elonmusk/status/2085594813840216212",
-      "tweet_id": "2085594813840216212",
-      "translated": "Grok Build V1.0 现已发布。尝试一下！ http://X.ai/build"
+      "published_at": "Fri, 07 Aug 2026 14:38:52 GMT",
+      "content": "It really is this amazing",
+      "url": "https://x.com/elonmusk/status/2085737443228045492",
+      "tweet_id": "2085737443228045492",
+      "translated": "真的是太神奇了"
     },
     {
-      "id": "tweet_elonmusk_2085496023707951392",
+      "id": "tweet_elonmusk_2085735374651871702",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 06 Aug 2026 22:39:33 GMT",
-      "content": "RT by @elonmusk: In case you need a reminder of the INSANE scale and AMBITION of the Terafab project: I've put together a supecut of Elon Musk's Terafab announcement back in March 2026. Worth watching again following today's EPIC update. 💪 p.s. MASS DRIVER ON THE MOON!",
-      "url": "https://x.com/elonmusk/status/2085496023707951392",
-      "tweet_id": "2085496023707951392",
-      "translated": "RT @elonmusk：如果您需要提醒一下 Terafab 项目的疯狂规模和雄心：我已经整理了埃隆·马斯克 (Elon Musk) 于 2026 年 3 月发布的 Terafab 公告的超级剪辑。值得在今天的 EPIC 更新之后再次观看。 💪 附：月球上的大众司机！"
+      "published_at": "Fri, 07 Aug 2026 14:30:39 GMT",
+      "content": "Video",
+      "url": "https://x.com/elonmusk/status/2085735374651871702",
+      "tweet_id": "2085735374651871702",
+      "translated": "视频"
     },
     {
-      "id": "tweet_elonmusk_2085528948612497735",
+      "id": "tweet_elonmusk_2085735269525766343",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 07 Aug 2026 00:50:23 GMT",
-      "content": "RT by @elonmusk: Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
-      "url": "https://x.com/elonmusk/status/2085528948612497735",
-      "tweet_id": "2085528948612497735",
-      "translated": "RT @elonmusk：香蕉规模。相对于 Terafab，香蕉基本上是一种量子涨落。"
+      "published_at": "Fri, 07 Aug 2026 14:30:13 GMT",
+      "content": "Try Grok Build http://X.ai/build",
+      "url": "https://x.com/elonmusk/status/2085735269525766343",
+      "tweet_id": "2085735269525766343",
+      "translated": "尝试 Grok Build http://X.ai/build"
     },
     {
       "id": "tweet_cz_binance_2085404921914966044",
@@ -122,6 +122,24 @@
       "translated": "中国人形机器人领导者 Unitree 将于本月以 9B 美元的估值首次公开募股！ （最初每 3 月份提交的文件约为 6.2B 美元）。衍生品市场开盘定价隐含 $36.04B MC，大约是上市价格的 4 倍。 $CCXI / Agility Robotics 是美国第一家公开上市的纯人形机器人领导者，也将于第四季度晚些时候上市，投前估值约为 2.5B 美元。看看美国市场与中国人形机器人领导者的价格如何，将会很有趣。"
     },
     {
+      "id": "tweet_qinbafrank_2085754626687811679",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Fri, 07 Aug 2026 15:47:09 GMT",
+      "content": "光互连这两天都为何强势？应该是4号早上这里聊到的几个逻辑共振了。然后4号下午又传出白宫可能对中国光收发器的出台禁令（短期落地可能性不大）但算是一个强催化剂。",
+      "url": "https://x.com/qinbafrank/status/2085754626687811679",
+      "tweet_id": "2085754626687811679"
+    },
+    {
+      "id": "tweet_qinbafrank_2085745455804150029",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Fri, 07 Aug 2026 15:10:42 GMT",
+      "content": "circle整个7月一直在60上下震荡，怎么fud也跌不去，应该还是之前聊的其业务体量、创始及管理团队的进取心、以及稳定币/RWA/agent支付三个叙事叠加，是其下方有安全边际的原因，有安全边际就意味着跌多了超跌了，其实可以进的。最新一季财报一般并不出彩，反倒不跌了，利空不跌应该能说明60上下这个安全边际还是比较坚实的。这两天cloudfare推出了agent专属钱包，支持稳定币官方演示用的都是usdc，又要来一波agent支付的叙事么？🤔",
+      "url": "https://x.com/qinbafrank/status/2085745455804150029",
+      "tweet_id": "2085745455804150029"
+    },
+    {
       "id": "tweet_qinbafrank_2085706546558992623",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -129,24 +147,6 @@
       "content": "如前面聊的知道7月非农就业会不好，没想到这么不好。市场要么直接交易降息，要么先交易衰退恐慌再交易降息，不管怎么说近期市场不会再担心加息了。",
       "url": "https://x.com/qinbafrank/status/2085706546558992623",
       "tweet_id": "2085706546558992623"
-    },
-    {
-      "id": "tweet_qinbafrank_2085665613654139379",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 07 Aug 2026 09:53:26 GMT",
-      "content": "再加个埃及就有点伊斯兰北约的味道了？看起来都是伊朗战争后美国在中东影响力减弱的大背景下寻求新的安全框架和利益格局",
-      "url": "https://x.com/qinbafrank/status/2085665613654139379",
-      "tweet_id": "2085665613654139379"
-    },
-    {
-      "id": "tweet_qinbafrank_2085621122796794218",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 07 Aug 2026 06:56:39 GMT",
-      "content": "关于英伟达RubinUltra上HBM减配，之前这里https://x.com/qinbafrank/status/2083890594796257652?s=46&t=k6rimWsEbo2D2tXolYcM-A、今天TheInformation也报道了，再聊聊： 1、英伟达预览给大客户的主流SKU已偏向更低内存（例如192GB 8-Hi HBM4，甚至低于标准Rubin的288GB 12-Hi），同时保持相近的峰值算力（约35 PFLOPS），功耗主流控制在1800W左右。 之前在这里https://x.com/qinbafrank/status/2083917947731578909?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到，如果Ultra版本的hbm配置低于Vera rubin标准版，标准版（Vera Rubin）优势明显就显现出来了：它已进入量产，7月陆续向AWS、Google、Microsoft、Oracle、CoreWeave等8家CSP大规模交付。内存规格更“正常”（288GB HBM4级别），单价和系统复杂度更可控，适合快速扩容。Ultra如果内存进一步减配（甚至低于标准版），对内存敏感的大型模型训练/推理，单卡有效容量下降，CSP自然会倾向先用更多标准版来堆量。 2、减配核心原因还是供给不够、而非需求问题。TrendForce 指出2027年整体DRAM供应仍会紧张，晶圆分配给HBM的空间有限，加上HBM4E（尤其是更高层数如12-Hi/16-Hi）的验证、良率和量产进度存在不确定性。 产能真正明显缓解要到2027下半年至2028年（SK Hynix、Samsung等新厂/扩产陆续释放，SK Hynix计划5年晶圆产能翻倍，但新产能落地有滞后） 3、减配直接推高对“更多GPU”的需求：更低HBM意味着模型可能放不下、或需要更多切分/流水线，最终要用更多卡才能达到同等有效算力或吞吐。这会放大总GPU采购量，也抬高系统TCO。 那么未来CSP云厂采购最多的估计还是标准版。 4、减配也利好互连 如果CSP买更多标准版或低配Ultra，机架间/机柜间互连带宽、延迟、软件调度（NVLink域扩展、集体通信）会更吃紧。Nvidia也在强化这方面（更高代NVSwitch、CPO光学等）。 HBM短缺把压力从“内存”部分转移到“互连+系统软件+电力/冷却”上。CSP的采购策略会更看重“能高效互联多少卡”，而不是单卡规格有多猛。 总结 HBM短缺是结构性的（至少到2027-2028），达子用减配换出货量其实是理性选择，这会让标准Vera Rubin在2026-2027成为CSP的“主力军”，Ultra更多扮演“大规模互联优化版”。互连（NVLink生态）的重要性会被进一步放大，成为下一阶段差异化关键。",
-      "url": "https://x.com/qinbafrank/status/2085621122796794218",
-      "tweet_id": "2085621122796794218"
     },
     {
       "id": "tweet_xiaomustock_2085556671712297190",
@@ -176,6 +176,15 @@
       "tweet_id": "2085181524555780491"
     },
     {
+      "id": "tweet_xingpt_2085741230743503286",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Fri, 07 Aug 2026 14:53:55 GMT",
+      "content": "兄弟们，姨夫巾你用过吗",
+      "url": "https://x.com/xingpt/status/2085741230743503286",
+      "tweet_id": "2085741230743503286"
+    },
+    {
       "id": "tweet_xingpt_2085405191072100641",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -194,40 +203,31 @@
       "tweet_id": "2085403734537121872"
     },
     {
-      "id": "tweet_xingpt_2085397699504050232",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 06 Aug 2026 16:08:51 GMT",
-      "content": "不得不说：哈兰德小子吃的真好啊",
-      "url": "https://x.com/xingpt/status/2085397699504050232",
-      "tweet_id": "2085397699504050232"
-    },
-    {
-      "id": "tweet_hibtc37_2085707343577465014",
+      "id": "tweet_hibtc37_2085738640651755735",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Fri, 07 Aug 2026 12:39:15 GMT",
-      "content": "这周最后一个交易日，存储盘前还挺强，如果站稳关键位置，可能要来第二波上升，但不改他周期的属性",
-      "url": "https://x.com/hibtc37/status/2085707343577465014",
-      "tweet_id": "2085707343577465014"
+      "published_at": "Fri, 07 Aug 2026 14:43:37 GMT",
+      "content": "$SPCX 怎么涨这么凶？解锁即拉盘？哪位股神讲解下",
+      "url": "https://x.com/hibtc37/status/2085738640651755735",
+      "tweet_id": "2085738640651755735"
     },
     {
-      "id": "tweet_hibtc37_2085551604774928398",
+      "id": "tweet_hibtc37_2085734937563730394",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Fri, 07 Aug 2026 02:20:24 GMT",
-      "content": "三星是个产能怪兽，在HBM领域一旦扩产和技术迭代，扩产速度会超过所有人的想象，不要听信那些机构对行业分析，也不要听信分析的媒体文，现在所有文章都告诉你，中国缺存储、美国缺、欧洲缺和全世界缺……我们只相信科技！相信工业的力量！资产的周期属性是很难被逆转和改变的，这和价格无关",
-      "url": "https://x.com/hibtc37/status/2085551604774928398",
-      "tweet_id": "2085551604774928398"
+      "published_at": "Fri, 07 Aug 2026 14:28:54 GMT",
+      "content": "存储的车真他娘的震！空单一会浮盈，一会浮亏，一会到了打止损点，又立马浮盈…丝滑的行情呢？",
+      "url": "https://x.com/hibtc37/status/2085734937563730394",
+      "tweet_id": "2085734937563730394"
     },
     {
-      "id": "tweet_hibtc37_2085372167521464354",
+      "id": "tweet_hibtc37_2085734107909419142",
       "username": "hibtc37",
       "display_name": "HiBTC",
-      "published_at": "Thu, 06 Aug 2026 14:27:23 GMT",
-      "content": "玩抽象，是一种很好自保策略，卖惨是一种智慧，但都怪老板之前炫富太狠了，现在补课来不及了，鬼信你，你其实赢麻😆",
-      "url": "https://x.com/hibtc37/status/2085372167521464354",
-      "tweet_id": "2085372167521464354"
+      "published_at": "Fri, 07 Aug 2026 14:25:37 GMT",
+      "content": "$BTC 十亿哥说：最后上车机会 我从流动性角度看，无非就是震荡上下次，一根大阳线回牛和脱离底部概率很小，主力不是傻，两头吃最舒服，慢慢吸筹，他需要安静",
+      "url": "https://x.com/hibtc37/status/2085734107909419142",
+      "tweet_id": "2085734107909419142"
     }
   ],
   "stats": {
