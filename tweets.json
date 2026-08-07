@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-07T07:20:05.388141+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-07T09:02:22.122556+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2085594813840216212",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 07 Aug 2026 05:12:06 GMT",
-      "content": "Grok Build V1.0 is now released. Try it out! http://X.ai/build",
-      "url": "https://x.com/elonmusk/status/2085594813840216212",
-      "tweet_id": "2085594813840216212",
-      "translated": "Grok Build V1.0 现已发布。尝试一下！ http://X.ai/build"
-    },
-    {
-      "id": "tweet_elonmusk_2085496023707951392",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 06 Aug 2026 22:39:33 GMT",
-      "content": "RT by @elonmusk: In case you need a reminder of the INSANE scale and AMBITION of the Terafab project: I've put together a supecut of Elon Musk's Terafab announcement back in March 2026. Worth watching again following today's EPIC update. 💪 p.s. MASS DRIVER ON THE MOON!",
-      "url": "https://x.com/elonmusk/status/2085496023707951392",
-      "tweet_id": "2085496023707951392",
-      "translated": "RT @elonmusk：如果您需要提醒一下 Terafab 项目的疯狂规模和雄心：我已经整理了埃隆·马斯克 (Elon Musk) 于 2026 年 3 月发布的 Terafab 公告的超级剪辑。值得在今天的 EPIC 更新之后再次观看。 💪 附：月球上的大众司机！"
-    },
-    {
-      "id": "tweet_elonmusk_2085528948612497735",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 07 Aug 2026 00:50:23 GMT",
-      "content": "RT by @elonmusk: Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
-      "url": "https://x.com/elonmusk/status/2085528948612497735",
-      "tweet_id": "2085528948612497735",
-      "translated": "RT @elonmusk：香蕉规模。相对于 Terafab，香蕉基本上是一种量子涨落。"
-    },
     {
       "id": "tweet_cz_binance_2085404921914966044",
       "username": "cz_binance",
@@ -92,6 +62,26 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2085644051446108223",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 07 Aug 2026 08:27:45 GMT",
+      "content": "Unitree, China's humanoid leader, is set to IPO this month at a $9B valuation! (~$6.2B originally per March filing). Derivative markets are pricing open at an implied $36.04B MC, roughly ~4X listing price. $CCXI / Agility Robotics, the first US publicly listed pure play humanoid leader, is also going public later in Q4, at a ~$2.5B pre-money valuation. It will be interesting to see how markets price in America vs. Chinese Humanoid leaders.",
+      "url": "https://x.com/aleabitoreddit/status/2085644051446108223",
+      "tweet_id": "2085644051446108223",
+      "translated": "中国人形机器人领导者 Unitree 将于本月以 9B 美元的估值首次公开募股！ （最初每 3 月份提交的文件约为 6.2B 美元）。衍生品市场开盘定价隐含 $36.04B MC，大约是上市价格的 4 倍。 $CCXI / Agility Robotics 是美国第一家公开上市的纯人形机器人领导者，也将于第四季度晚些时候上市，投前估值约为 2.5B 美元。看看美国市场与中国人形机器人领导者的价格如何，将会很有趣。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2085628664528662818",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 07 Aug 2026 07:26:37 GMT",
+      "content": "Earlier today, optical interconnect company Lumilens \"emerges from stealth\" at a $5.5B valuation, after raising $700m. Just as a recap from $POET / $SIVE Linkedin OSINT mapping I shared earlier, Lumilens was supplying a top 3 hyperscaler customer. So we got confirmation of that a month later, along with the material figure that Lumilens has a \"multi-billion-dollar customer agreement\". And just for reference, $POET has existing contracts with Lumilens ($50m purchase order, up to $500m) + contracts with $SIVE (depending on product lines). I actually took tiny positions in POET again after reading this news, since it finally gives them visibility into extremely well funded hyperscaler suppliers (on top of Poet's really large balance sheet). But TLDR: > Lumilens around similar (or even higher) valuations as Lightmatter/Ayar, bigger than markets thought with hyperscaler customers. > nice read through upstream on $POET (derisking) / $SIVE. > Great for optical valuations in general, seeing a company go to $5.5B in 2 years.",
+      "url": "https://x.com/aleabitoreddit/status/2085628664528662818",
+      "tweet_id": "2085628664528662818",
+      "translated": "今天早些时候，光学互连公司 Lumilens 在筹集了 7 亿美元资金后，以 5.5B 美元的估值“脱颖而出”。正如我之前分享的 $POET / $SIVE Linkedin OSINT 映射的回顾一样，Lumilens 正在为排名前 3 的超大规模客户提供服务。因此，一个月后我们得到了确认，并得到了 Lumilens 拥有“数十亿美元客户协议”的重要数据。仅供参考，$POET 与 Lumilens 现有合同（5000 万美元采购订单，最高 5 亿美元）+ 与 $SIVE 合同（取决于产品线）。实际上，在读完这条新闻后，我再次在 POET 中持有了少量头寸，因为它最终让他们能够了解资金极其充足的超大规模供应商（在 Poet 非常庞大的资产负债表之上）。但总而言之：> Lumilens 的估值与 Lightmatter/Ayar 相似（甚至更高），比市场对超大规模客户的预期更大。 > 很好地阅读了 $POET 上的上游（消除风险）/ $SIVE。 > 总体来说非常适合光学估值，看到一家公司在 2 年内达到 $5.5B。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2085603590903902621",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -100,26 +90,6 @@
       "url": "https://x.com/aleabitoreddit/status/2085603590903902621",
       "tweet_id": "2085603590903902621",
       "translated": "哇，$SIVE + 其他激光玩家通读的 $AAOI 收入中包含了无数的宝石。 1. AAOI 没有有意义地参与 CPO 第一代部署。 “我们无法制造足够的 [CPO 激光器] 来参与他们当前的第一代 [CPO] 部署，因为产能不足。我们必须首先优先考虑为我们自己的收发器制造激光器的能力。”因此，对于 $SIVE、$LITE、$AVGO 和 $COHR 等西方厂商来说，第一代 CPO 激光器的部署甚至可能会进一步缩小。如果 $AAOI 不得不拒绝更多客户，独立的 CPO CW 激光器产能就会变得更有价值……还记得 Trendforce 正在谈论 $AMD 唱 CW LTA 吗？ $COHR / $LITE 拥有与 $NVDA 签署的容量...我认为这将是 $AAOI，但它们可能不在等式之内。对于早期 CPO 参与，$MTSI 看起来也没有什么意义（例如，除了 NPO 之外，ER 中没有提及，并从 Ayar 网站上删除）。所以我想知道像 $AMD 这样的玩家会选择 Helios（例如 Sivers + Ayar 现在更有可能成为候选人）？顺便说一句，这并不是看跌AAOI，因为他们对光模块业务的需求太多。只是更看好现有的少数几家具有产能的合格 CPO 激光器品牌。 2. InP激光器/光模块的需求不平衡和瓶颈。 AOI 的首席执行官表示有点支持这一点，他们说：“客户需求比扩大的产能高 20%-40%”。 “我们几乎每周都会收到几个大客户的此类需求。激光器是目前收发器业务的最大瓶颈。” 3. 中国距离拥有 CPO DWDM 规格激光器还有几年时间。我之前在研究渠道检查中的 CPO 竞争时曾提到过这一点。但 AAOI 确认中国“很容易至少需要两年、三年甚至更长时间才能拥有 CPO 激光器，这令人难以置信地突破了西方激光器在 CPO 激光器阻塞点的防御性定位。TLDR： - CW 激光器和光收发器的需求高度不平衡。 - 由于产能限制，AAOI 不属于第一代 CPO（并不完全看跌 AAOI，因为他们对其光收发器业务有太多需求，但对于少数拥有产能的独立参与者来说，这是更好的消息在线如 $SIVE) - 中国在 CPO 激光器方面落后多年。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2085511646257332581",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 06 Aug 2026 23:41:38 GMT",
-      "content": "$MTSI earnings transcript: \"Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers\" Emphasis on \"Urgency\", CW \"DFB lasers\", \"coming to us\". CW DFB names, such as like $SIVE and $LITE should be happy to hear about this laser bottleneck getting validated.",
-      "url": "https://x.com/aleabitoreddit/status/2085511646257332581",
-      "tweet_id": "2085511646257332581",
-      "translated": "$MTSI 收益记录：“由于磷化铟 DFB 激光器普遍供应短缺，客户紧急来找我们” 强调“紧急”、CW“DFB 激光器”、“来找我们”。 CW DFB 名称（例如 $SIVE 和 $LITE）应该很高兴听到这个激光瓶颈得到验证。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2085499853099208716",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 06 Aug 2026 22:54:46 GMT",
-      "content": "Just some TLDR notes on $AAOI earnings: - Expects full qualification of 1.6T products by their hyperscaler customer within next couple of weeks (helpful revenue ramp #2, timelines) - Continues to believe that AOI will have the largest AI DC transceiver production capacity in the US (reiterating ambitions during a time when their competitors might get banned) - Expects facilities toward InP capacity to come online in early 2027 (timeline FYI in terms of further ramp) - Total capacity is approaching 200,000/u per month, EOY 650,000/u per month of 800g/1.6t. EOY 2027, 930,000/u (this is the ramp i want to see) - \"increase our manufacturing capacity for our external light source or ELSFP. That's for co-packaged optics or CPO\". we anticipate ramping production later this year and into 2027, ultimately culminating in about 400,000 pieces per month in 2028 (need some time to model this into revenue) - \"As we have mentioned before, we've been manufacturing lasers internally for many years. This has allowed us to avoid some of the shortages that have affected others in the industry\" (vertical integration bull case during CW/EML laser shortages) - We believe that in the future, CPO will continue to drive increased demand for high-power lasers (thesis validation on CPO sector) - \"to our long-term objective of returning non-GAAP gross margins to around 40%\" - \"We ended the second quarter with $508.8 million in total cash equivalents\" I need to double check if the ATM finished or not - \"our ability to deliver revenue in general, and specifically when it comes to 800G products, is limited by our production capacity right now\" \"If we could produce more, we could ship more right now\" Demand > Supply validation. - \"Most of the increased capacity will be in U.S. Even so, let me say that, like I keep emphasizing, that is not good enough for the customer demand. The customer demand is 20%-40% higher.\" Unholy photonics demand validation across the whole sector, read through for $LITE, $SIVE / $JBL, and others is amazing. - \"Not in the next two, three years, especially the demand is so big. Okay? Even combined AI, $LITE, $COHR, $AVGO all together, it's still very tough to meet the customer demand in the next few years\" More optical sector demand validation. - CPO Timelines: \"If you're talking about really high volume manufacturer [for CPO market], I would say more like the late Q3 next year\" and \"We have been working very close with at least five customer\" If you care about current earnings (which I'm not really looking at closely) Revenue: $191M vs. $190m EPS: $.06 vs. $.02 TLDR: Extraordinary demand across the laser + optical sector read through. Kinda supporting Lumentum CEO statement that laser shortage is worse than memory shortages. 2027 capacity ramp on track. To map inflection period with timelines, would be around early next year, as stated in their previous earnings call. AAOI has the customers now. Limitation is making enough lasers and transceivers.",
-      "url": "https://x.com/aleabitoreddit/status/2085499853099208716",
-      "tweet_id": "2085499853099208716",
-      "translated": "关于 $AAOI 收益的一些 TLDR 注释： - 预计其超大规模客户将在未来几周内全面鉴定 1.6T 产品（有助于收入增长＃2，时间表） - 仍然相信 AOI 将拥有美国最大的 AI DC 收发器产能（在其竞争对手可能被禁止的时期重申其雄心） - 预计 InP 产能设施将于 2027 年初上线（进一步增长的时间表仅供参考） - 总产能每月接近 200,000/u，800g/1.6t 每月 EOY 650,000/u。 EOY 2027，930,000/u（这是我想看到的斜坡）-“提高我们的外部光源或 ELSFP 的制造能力。这是针对共同封装光学器件或 CPO 的”。我们预计今年晚些时候到 2027 年将提高产量，最终在 2028 年达到每月约 400,000 件（需要一些时间将其转化为收入） - “正如我们之前提到的，我们多年来一直在内部制造激光器。这使我们能够避免一些影响行业其他人的短缺”（CW/EML 激光器短缺期间的垂直整合牛市） - 我们相信，在未来，CPO 将继续推动高功率激光器需求的增长（CPO 领域的论文验证） - “实现我们将非 GAAP 毛利率恢复到 40% 左右的长期目标” - “我们第二季度末的现金等价物总额为 5.088 亿美元” 我需要仔细检查 ATM 是否完成 - “我们总体上提供收入的能力，特别是在 800G 产品方面，受到我们目前生产能力的限制” “如果我们能生产更多，我们就可以运送更多现在“需求>供应验证。 - “大部分增加的产能将在美国。即便如此，我要说的是，就像我一直强调的那样，这对于客户需求来说还不够好。客户需求高出 20%-40%。”邪恶的光子学需要整个领域的验证，通读 $LITE、$SIVE / $JBL 和其他的内容是令人惊奇的。 - “未来两三年不会，尤其是需求这么大。好吧？即使把AI、$LITE、$COHR、$AVGO加在一起，未来几年满足客户需求还是很困难的”更多光学行业需求验证。 - CPO 时间表：“如果您谈论的是[针对 CPO 市场]的真正大批量制造商，我会说更像是明年第三季度末”和“我们一直在与至少五个客户非常密切地合作”如果您关心当前收益（我并没有真正密切关注）收入：1.91 亿美元与 1.9 亿美元 EPS：0.06 美元与 0.02 美元 TLDR：整个激光+光学行业的非凡需求通读。有点支持 Lumentum 首席执行官的说法，即激光短缺比内存短缺更严重。 2027 年产能增长步入正轨。正如他们在之前的财报电话会议中所述，要在明年初左右绘制拐点的时间表。 AAOI现在已经有了客户。限制在于制造足够的激光器和收发器。"
     },
     {
       "id": "tweet_qinbafrank_2085621122796794218",
@@ -231,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 10
+    "users_success": 7,
+    "users_failed": 1,
+    "nitter_healthy": 9
   }
 }
