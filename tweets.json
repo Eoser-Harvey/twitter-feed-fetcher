@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-08T06:57:20.351058+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-08T07:52:49.735508+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2085940169245356114",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 08 Aug 2026 04:04:25 GMT",
+      "content": "Video",
+      "url": "https://x.com/elonmusk/status/2085940169245356114",
+      "tweet_id": "2085940169245356114",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_elonmusk_2085937755062685951",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 08 Aug 2026 03:54:50 GMT",
+      "content": "Video",
+      "url": "https://x.com/elonmusk/status/2085937755062685951",
+      "tweet_id": "2085937755062685951",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_elonmusk_2085926590962164126",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 08 Aug 2026 03:10:28 GMT",
+      "content": "Video",
+      "url": "https://x.com/elonmusk/status/2085926590962164126",
+      "tweet_id": "2085926590962164126",
+      "translated": "视频"
+    },
     {
       "id": "tweet_cz_binance_2085404921914966044",
       "username": "cz_binance",
@@ -201,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
-    "nitter_healthy": 9
+    "users_success": 8,
+    "users_failed": 0,
+    "nitter_healthy": 10
   }
 }
