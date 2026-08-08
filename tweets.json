@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-08-07T23:36:24.866607+00:00",
+  "fetched_at": "2026-08-08T01:45:41.325100+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2085802906674930019",
+      "id": "tweet_elonmusk_2085878569033715983",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 07 Aug 2026 18:58:59 GMT",
-      "content": "Same thing seems to be happening with TV shows and video games",
-      "url": "https://x.com/elonmusk/status/2085802906674930019",
-      "tweet_id": "2085802906674930019",
-      "translated": "电视节目和视频游戏似乎也发生了同样的事情"
+      "published_at": "Fri, 07 Aug 2026 23:59:39 GMT",
+      "content": "RT by @elonmusk: did you know Grok is the only AI you can also use as a verb",
+      "url": "https://x.com/elonmusk/status/2085878569033715983",
+      "tweet_id": "2085878569033715983",
+      "translated": "RT @elonmusk：你知道 Grok 是唯一一个可以用作动词的 AI"
     },
     {
-      "id": "tweet_elonmusk_2085802506211197098",
+      "id": "tweet_elonmusk_2085814657223209290",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 07 Aug 2026 18:57:24 GMT",
-      "content": "More trans violence",
-      "url": "https://x.com/elonmusk/status/2085802506211197098",
-      "tweet_id": "2085802506211197098",
-      "translated": "更多跨性别暴力"
+      "published_at": "Fri, 07 Aug 2026 19:45:41 GMT",
+      "content": "RT by @elonmusk: Use /connect-grok to use an X Premium or SuperGrok subscription with Warp",
+      "url": "https://x.com/elonmusk/status/2085814657223209290",
+      "tweet_id": "2085814657223209290",
+      "translated": "RT by @elonmusk：使用 /connect-grok 将 X Premium 或 SuperGrok 订阅与 Warp 结合使用"
     },
     {
-      "id": "tweet_elonmusk_2085754530864439636",
+      "id": "tweet_elonmusk_2085713988583592009",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 07 Aug 2026 15:46:46 GMT",
-      "content": "RT by @elonmusk: Oh my goodness.",
-      "url": "https://x.com/elonmusk/status/2085754530864439636",
-      "tweet_id": "2085754530864439636",
-      "translated": "RT @elonmusk：天哪。"
+      "published_at": "Fri, 07 Aug 2026 13:05:40 GMT",
+      "content": "RT by @elonmusk: I am unsure how much longer I can keep posting these stories. It is soul-crushing.",
+      "url": "https://x.com/elonmusk/status/2085713988583592009",
+      "tweet_id": "2085713988583592009",
+      "translated": "RT @elonmusk：我不确定我还能继续发布这些故事多久。这是令人心碎的。"
     },
     {
       "id": "tweet_cz_binance_2085404921914966044",
@@ -203,6 +203,15 @@
       "tweet_id": "2085403734537121872"
     },
     {
+      "id": "tweet_hibtc37_2085886087889924200",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Sat, 08 Aug 2026 00:29:31 GMT",
+      "content": "$SPCX 昨晚疯狂轧空！放天量暴涨16%！ 我在低于110停止了做空，并且反手挂了多单，预测到会有来这么一出逼空，但多单没有成交。 从盘面看，这波反弹，不会这么快结束，135发行价肯定要破，150开盘价可能大概率会摸到，175额外解锁条件价（已无效）估计很难，除非马斯克疯狂和情绪推高，不过，135的spcx我认为也已经太贵了，这市值太贵，从全球独特变成美国独特了，估值要重估 希望他这波多拉一些，我好做空，在SPCX上撸了超过10万刀，感谢马斯克，但其中在存储里亏了5万，存储似乎是在震荡出货，主力这周没有把价格拉破关键位置，但也没跌破关键位置，总体不是什么好的信号，随着时间迁移，对周期股是不利的，目前已经开了空单，在浮盈和浮亏资金来回跳 $SNDK $MU",
+      "url": "https://x.com/hibtc37/status/2085886087889924200",
+      "tweet_id": "2085886087889924200"
+    },
+    {
       "id": "tweet_hibtc37_2085738640651755735",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -219,15 +228,6 @@
       "content": "存储的车真他娘的震！空单一会浮盈，一会浮亏，一会到了打止损点，又立马浮盈…丝滑的行情呢？",
       "url": "https://x.com/hibtc37/status/2085734937563730394",
       "tweet_id": "2085734937563730394"
-    },
-    {
-      "id": "tweet_hibtc37_2085734107909419142",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Fri, 07 Aug 2026 14:25:37 GMT",
-      "content": "$BTC 十亿哥说：最后上车机会 我从流动性角度看，无非就是震荡上下次，一根大阳线回牛和脱离底部概率很小，主力不是傻，两头吃最舒服，慢慢吸筹，他需要安静",
-      "url": "https://x.com/hibtc37/status/2085734107909419142",
-      "tweet_id": "2085734107909419142"
     }
   ],
   "stats": {
