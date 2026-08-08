@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-08T22:32:39.779953+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-08T23:32:29.491613+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2086160265553334635",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 08 Aug 2026 18:39:00 GMT",
+      "content": "RT by @elonmusk: Falcon 9 launches 24 @Starlink satellites from California",
+      "url": "https://x.com/elonmusk/status/2086160265553334635",
+      "tweet_id": "2086160265553334635",
+      "translated": "RT @elonmusk：猎鹰 9 号从加利福尼亚州发射了 24 颗 @Starlink 卫星"
+    },
+    {
+      "id": "tweet_elonmusk_2086220716286845039",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 08 Aug 2026 22:39:13 GMT",
+      "content": "Boring upgrades",
+      "url": "https://x.com/elonmusk/status/2086220716286845039",
+      "tweet_id": "2086220716286845039",
+      "translated": "无聊的升级"
+    },
+    {
+      "id": "tweet_elonmusk_2086193585880195297",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 08 Aug 2026 20:51:25 GMT",
+      "content": "Having Starlink on a long flight is a gamechanger in productivity",
+      "url": "https://x.com/elonmusk/status/2086193585880195297",
+      "tweet_id": "2086193585880195297",
+      "translated": "在长途飞行中使用 Starlink 可以改变生产力"
+    },
     {
       "id": "tweet_cz_binance_2085404921914966044",
       "username": "cz_binance",
@@ -201,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
-    "nitter_healthy": 10
+    "users_success": 8,
+    "users_failed": 0,
+    "nitter_healthy": 9
   }
 }
