@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-08-08T13:48:26.057417+00:00",
+  "fetched_at": "2026-08-08T14:34:38.686436+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2085743491334738340",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 07 Aug 2026 15:02:54 GMT",
+      "content": "RT by @elonmusk: Suicidal Empathy is spreading fast in the United States. I urge all American patriots to get involved in fighting for American freedoms and liberties. Please don't be apathetic. The loss of our civilization will not happen overnight but it will happen if good people do not stand up against the massive attempts to colonize and destroy the West (and the United States). Please wake up.",
+      "url": "https://x.com/elonmusk/status/2085743491334738340",
+      "tweet_id": "2085743491334738340",
+      "translated": "RT @elonmusk：自杀同理心正在美国迅速蔓延。我敦促所有美国爱国者参与为美国的自由而战。请不要冷漠。我们文明的丧失不会在一夜之间发生，但如果善良的人们不站起来反对大规模殖民和摧毁西方（和美国）的企图，这种情况就会发生。请醒来。"
+    },
     {
       "id": "tweet_elonmusk_2085940169245356114",
       "username": "elonmusk",
@@ -20,16 +30,6 @@
       "content": "Video",
       "url": "https://x.com/elonmusk/status/2085937755062685951",
       "tweet_id": "2085937755062685951",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_elonmusk_2085926590962164126",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 08 Aug 2026 03:10:28 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2085926590962164126",
-      "tweet_id": "2085926590962164126",
       "translated": "视频"
     },
     {
@@ -70,7 +70,7 @@
       "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
       "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
       "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带入白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -233,6 +233,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
