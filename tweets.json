@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-08T05:50:38.819829+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-08T06:57:20.351058+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2085940169245356114",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 08 Aug 2026 04:04:25 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2085940169245356114",
-      "tweet_id": "2085940169245356114",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_elonmusk_2085937755062685951",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 08 Aug 2026 03:54:50 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2085937755062685951",
-      "tweet_id": "2085937755062685951",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_elonmusk_2085926590962164126",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 08 Aug 2026 03:10:28 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2085926590962164126",
-      "tweet_id": "2085926590962164126",
-      "translated": "视频"
-    },
     {
       "id": "tweet_cz_binance_2085404921914966044",
       "username": "cz_binance",
@@ -92,6 +62,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2085974141501612461",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sat, 08 Aug 2026 06:19:25 GMT",
+      "content": "I've mapped the entire Wall Street bear playbook on AI names: Have your favorite institution/media insert one of these name down below: 1. < ______ [GPUs, Transcivers, MLCC, Memory...] are a commodity set to crash> 2. < ______ [YMTC, CXMT, Dongshan...] from China will flood the market > 3. < ______ [Micron, Nvidia, ...] from unverifiable channel checks is facing issues > 4. < ______ [Kospi, Sivers, ...] is a bubble like the ____ [2007, 2021] crash> 5. <____ [1,2,3, ...] unexpected rate hikes this year> 6. < _____ [Google, Nvidia, Deepseek ...] optimization removes the need of this!> in a new headline, and it's ready to go!",
+      "url": "https://x.com/aleabitoreddit/status/2085974141501612461",
+      "tweet_id": "2085974141501612461",
+      "translated": "我已经将整个华尔街熊市手册映射到人工智能名称上：让您最喜欢的机构/媒体在下面插入以下名称之一： 1. < ______ [GPU、Transcivers、MLCC、Memory...] 是一种即将崩溃的商品> 2. < ______ [YMTC、CXMT、Dongshan...] 来自中国将涌入市场 > 3. < ______ [Micron、Nvidia、...] 来自无法验证的渠道检查正面临问题 > 4. < ______ [Kospi，Sivers，...] 是一个泡沫，就像 ____ [2007, 2021] 崩盘> 5. <____ [1,2,3, ...] 今年意外加息> 6. < _____ [Google, Nvidia, Deepseek ...] 优化消除了这一点！> 在一个新的标题中，它已经准备好了！"
+    },
+    {
       "id": "tweet_aleabitoreddit_2085823672569467005",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -112,14 +92,13 @@
       "translated": "$AAOI ER 的更多 TLDR 要点： - 他们还标记了 DSP 和 TIA 瓶颈，对于 $MXL、$SMTC 和 $MTSI 等名称来说，这是一个积极的行业解读。 - 对于收入增长，他们预计第四季度收入将超过 5 亿美元，这是荒谬的增长。仅供参考：第二季度：1.919 亿美元 第三季度：~2.55 亿美元-2.9 亿美元 第四季度：5 亿美元+ 到 2027 年中期：~1.41B 季度收入运行率 某些光学厂商的收入增长总是给人留下深刻印象。"
     },
     {
-      "id": "tweet_aleabitoreddit_2085649654059016387",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 07 Aug 2026 08:50:01 GMT",
-      "content": "I usually make fun of sellside, but Rosenblatt has pretty goated channel checks on optical names, and their reports are one of the few I like talking about. $AAOI, $LITE, $SIVE, and the laser party has started to recover around the est. timing windows. eg. last month: \"Multiple short sellers told them they will likely close their positions... late July and early August\". They might have missed that they believed $AMD would be $AAOI's first CPO customer... since AAOI said they would be missing from first-gen CPO (maybe future gen?) But lot of their talking points about China CPO laser positioning (eg. 2-3 years behind) got corroborated word-for-word from AAOI earnings today.",
-      "url": "https://x.com/aleabitoreddit/status/2085649654059016387",
-      "tweet_id": "2085649654059016387",
-      "translated": "我通常取笑卖方，但罗森布拉特对光学名称进行了相当严格的渠道检查，他们的报告是我喜欢谈论的少数报告之一。 $AAOI、$LITE、$SIVE 和激光队已开始在预计时间窗口附近恢复。例如。上个月：“多个卖空者告诉他们，他们可能会平仓……七月底和八月初”。他们可能没有意识到，他们相信 $AMD 将成为 $AAOI 的第一个 CPO 客户……因为 AAOI 表示他们将在第一代 CPO（也许是未来一代？）中消失，但他们关于中国 CPO 激光定位（例如落后 2-3 年）的许多谈话要点都从今天的 AAOI 收益中得到了逐字逐句的证实。"
+      "id": "tweet_qinbafrank_2085972036606693633",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sat, 08 Aug 2026 06:11:03 GMT",
+      "content": "现在看周四这里聊到的几个判断： 1）美股之前已涨四个交易日幅度还不小，那么周三的调整其实很正常； 2）核心是宏观也到了关键点，市场调整其实在等宏观给出方向； 3）周五的大非农大概率低于预期（没想到不仅低于预期甚至是负值），最佳剧本之一。宏观给了第一个利好方向； 市场表现也都看到了。 4）有一点是明确的，经过这一波财报季大家也看到了AI的基本面是没问题的，AI商业化在加速，能看到投资回报的时间节奏，甚至已经能算出去初步的ROIC框架https://x.com/qinbafrank/status/2084231327222759656?s=46&t=k6rimWsEbo2D2tXolYcM-A 这两天走势基本上是在周四这个推文聊的框架内。 接下来看什么？ 自然是关于霍尔木兹海峡新的协议是否谈成以及下周7月的cpi了。 1）如果在12号7月cpi数据公布前，关于霍尔木兹海峡新的协议能达成宣布，cpi数据的重要性就会下降。因为7月冲突再起，油价上行，但是一旦协议谈好油价再度大幅回落，大家是知道之后的通胀还会往下（只是看下行的速度快慢了） 2）如果12号关于霍尔木兹海峡新协议还没达成宣布，那么7月cpi数据符合或略低于预期是做利好市场的。之后市场还会去看关于海峡的新协议进展如何？ 这是最关键的点。 个人角度、关于伊朗阿曼关于海峡的新协议谈好的概率很大https://x.com/qinbafrank/status/2084834326613840376?s=46&t=k6rimWsEbo2D2tXolYcM-A 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2085972036606693633",
+      "tweet_id": "2085972036606693633"
     },
     {
       "id": "tweet_qinbafrank_2085942895551643758",
@@ -138,15 +117,6 @@
       "content": "长鑫之后最受关注的中国AI领域IPO无疑就是月之暗面（MOONSHOT）了，已经看到有媒体报道说是已经提交港股IPO文件了。月之暗面备受关注主要也是下面几个点： 1、模型能力突出，Kimi K3拥有2.8万亿参数，开源权重，代码、推理和Agent任务表现接近OpenAI、Anthropic前沿水平，被业界称为又一个“DeepSeek时刻”，在多个基准测试中跻身全球前列； 2、长文本与开源双优势，早期靠超长上下文能力出圈，现坚持开源权重策略，生态扩散快，吸引大量开发者和海外工具接入，成本优势明显。 甚至SpaceX收购的AI编程公司Cursor的vibe coding模型都是基于kimi开源模型构建的。 3、商业化增速也很快 ARR从3月1亿美元快速爬到6月3亿美元，三个月涨三倍，API收入占比超七成，定价上调后需求不降反升，收入结构从C端转向B端为主。 4、融资 去年底才完成一轮估值约43亿美元的C轮融资，今年上半年D轮融资估值就到了快200亿美金、最新F轮融资估值已经到350亿美金。月之暗面身后站着的是腾讯、阿里巴巴、美团、中移动、红杉中国、IDG、国家人工智能产业投资基金等一众产业巨头和国内最顶级的投资机构、股东构成应该是国内的最顶级的了。 当然最最核心的还是创始人杨植麟自己作为AI大模型领域的最顶级的研究员之一，前Google/Meta研究经验深厚，能带领团队在算力受限下持续突破。最终国产大模型中站稳第一梯队，并具备一定全球竞争力。 不得不说@Bitget_zh 上线 MOONSHOTUSDT（月之暗面）盘前永续合约的时机刚刚好，特别是刚传出月之暗面港股IPO的时候。支持最高 10 倍杠杆，让用户可以提前参与 IPO 前的价格博弈。 而且AI Pre-IPO 永续合约上线首日存在“定价发现溢价”，而且这个规律正在被反复验证：SPCX 首日+252%，OPENAI 首日+38%，MINIMAX 首日+25-35%至今还在涨，ZHIPU 首日也有+20%。MOONSHOT AI 是唯一一个同时拥有'Kimi 爆款产品+$500亿估值+港股IPO临近'三重叙事的标的——首日溢价应该也是可以的。 值得关注下",
       "url": "https://x.com/qinbafrank/status/2085936201295671637",
       "tweet_id": "2085936201295671637"
-    },
-    {
-      "id": "tweet_qinbafrank_2085930841503564081",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sat, 08 Aug 2026 03:27:21 GMT",
-      "content": "说说我的理解：1、叙事角度，circle处于稳定币、rwa、agent支付三个强叙事的交叉点，这三个叙事都是真实被验证的不是空叙事，而且三个叙事叠加这一点现在还没有其他标的可以选择，有一定的稀缺性。叙事稀缺性是它能受到关注的核心原因。 2、大家都知道稳定币总体体量会到万亿以上的规模、都在看usdc发行量能到什么量级。虽然竞争激烈、毕竟usdc已经有700多亿美金的发行量，还在增长。未来至少千亿级别的、能到具体几千亿美金我也说不好、但空间还是有的。 3、叙事稀缺性、发行量到了一定规模还在增长，团队还是可以的。那么就决定了它是有安全边际的。超跌了那么性价比也就出来了。 4、大家质疑的两点、circle收入主要来自美元储备收入、同时一大半的收入都要分出去。这里其实大家过分放大了这个担忧：当下营收主要来自储备收入、未来其实要看其他营收这一部分如cpn的营收、公链的营收等增速会有多快。 一大半美元储备分出去，其实没问题，花钱换市场嘛。 这里还有一个点、很多人不知道usdc最早的发行主体是coinbase跟circle合资的（各占50%股权），usdc19-23年也基本上是coinbase一手扶持起来。后面为了circle上市和业务扩展，coinbase把usdc发行主体的股权转让给circle、然后只有收益权。 对于成长性公司、最核心的是增长，是在产业的竞争身位。所以circle对核心的是usdc发行量的增长、以及未来在支付、cpn等方面其他营收是不是能规模化。 营收分成导致利润低、其实并不算是大问题。 举两个例子: 1）今年一月份我就在https://x.com/qinbafrank/status/2076881784537776475?s=46&t=k6rimWsEbo2D2tXolYcM-A说安全软件saas板块是被错杀的，空间很好，到现在基本上都翻倍了。但你去看，这些安全saas公司大部分都是亏损的，没利润。少部分pe都是百倍起。 核心是啥，Ai越发展、Agent越普及，安全需求越大。 2）24年6月这里https://x.com/qinbafrank/status/1798953514837610894?s=46&t=k6rimWsEbo2D2tXolYcM-A我说pltr是未来AI时代的洛克希德和马丁，不看好的也很多，核心就是Pe太高当时500倍的pe，靠政府合同不能持续。但核心是啥，是pltr在当时国防军工AI领域是独一份，现在可能会面临大模型厂商的直接竞争了。 所以核心是看增长、看竞争格局和身位。 5、Circle的问题是增长是有的，在合规稳定币里竞争身位算是领先一点、但是现在稳定币竞争格局不好。因为还是会有很多潜在玩家进场，每一个有一定实力或者背景的玩家进来、市场就会fud circle一次。所以上次这里https://x.com/qinbafrank/status/2073012138390786398?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到circle的股性：“这就导致了Circle在没有完全证明其在合规稳定币领域足够的支配和垄断地位前，它更适合做波段而非趋势。怎么理解？就是跌多了超跌了、其实可以买点，因为有安全边际的。但是涨多了就不能期待他能再更进一步，就得出掉。等到又被fud了、还可以逢低再进。 未来如果市场确认USDC能在合规稳定币领域建立足够强的支配地位后，那么才能出现像样的趋势行情来。” 个人理解，仅供参考。",
-      "url": "https://x.com/qinbafrank/status/2085930841503564081",
-      "tweet_id": "2085930841503564081"
     },
     {
       "id": "tweet_xiaomustock_2085959345200591001",
@@ -231,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 10
+    "users_success": 7,
+    "users_failed": 1,
+    "nitter_healthy": 9
   }
 }
