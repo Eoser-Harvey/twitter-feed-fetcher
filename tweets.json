@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-09T17:34:29.009833+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-09T18:43:40.833438+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2086382118007914692",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 09 Aug 2026 09:20:34 GMT",
-      "content": "RT by @elonmusk: Christmas Eve 2008. Tesla closed a funding round in the final hour, days from bankruptcy. Elon Musk put in all his money & assets, borrowed from friends just to pay rent. If it missed, payroll would have bounced two days after Christmas.",
-      "url": "https://x.com/elonmusk/status/2086382118007914692",
-      "tweet_id": "2086382118007914692",
-      "translated": "RT @elonmusk：2008 年平安夜。特斯拉在最后一刻完成了一轮融资，距离破产还有几天。埃隆·马斯克投入了从朋友那里借来的所有金钱和资产，只是为了支付房租。如果错过了，工资单将在圣诞节后两天反弹。"
-    },
-    {
-      "id": "tweet_elonmusk_2086422231987417476",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 09 Aug 2026 11:59:58 GMT",
-      "content": "True",
-      "url": "https://x.com/elonmusk/status/2086422231987417476",
-      "tweet_id": "2086422231987417476",
-      "translated": "真的"
-    },
-    {
-      "id": "tweet_elonmusk_2086346377227907227",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 09 Aug 2026 06:58:33 GMT",
-      "content": "That was 10 years ago Imagine 10 years from now",
-      "url": "https://x.com/elonmusk/status/2086346377227907227",
-      "tweet_id": "2086346377227907227",
-      "translated": "那是10年前的事 想象一下10年后的事"
-    },
     {
       "id": "tweet_cz_binance_2085404921914966044",
       "username": "cz_binance",
@@ -70,7 +40,7 @@
       "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
       "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
       "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+      "translated": "我们将把这位英雄的年轻人和他的家人带入白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -231,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 9
   }
 }
