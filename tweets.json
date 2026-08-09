@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-08T23:32:29.491613+00:00",
+  "fetched_at": "2026-08-09T01:51:54.837783+00:00",
   "total": 24,
   "tweets": [
     {
@@ -50,7 +50,7 @@
       "content": "RT by @cz_binance: Standing in front of the Burj Khalifa again. Goosebumps. Around three years ago I was here talking to a crypto bro based in the UAE. He told me most of his friends use @TrustWallet. I said that was impossible. It lacked this feature, that chain, that polish. He just smiled and said, “That’s what I see people using.” Coming back to the same place, I can only laugh at my own naivety. Trust Wallet is more performant now. The UX is better. We support more chains and features than ever. But that’s not why people stay. They stay because they trust. They trust the brand. They trust self-custody. They trust that the team will do right by them. Features can be copied. Performance can be improved. Trust takes years to build. We’re nine years in. Still early. Still entrusted by millions. What we carry forward isn’t just a product. It’s the trust of the people who chose us. It’s always Day 1. Thank you for your trust.",
       "url": "https://x.com/cz_binance/status/2085402313259463121",
       "tweet_id": "2085402313259463121",
-      "translated": "RT @cz_binance：再次站在哈利法塔前。起鸡皮疙瘩。大约三年前，我在这里与一位阿联酋的加密兄弟交谈。他告诉我他的大多数朋友都使用@TrustWallet。我说那是不可能的。它缺乏这个功能、那个链条、那个抛光。他只是微笑着说：“我看到人们就是这么用的。”回到同一个地方，我只能嘲笑自己的天真。 Trust Wallet 现在性能更高。用户体验更好。我们支持比以往更多的链条和功能。但这不是人们留下来的原因。他们留下来是因为他们信任。他们信任这个品牌。他们相信自我保管。他们相信团队会为他们做正确的事。特征是可以复制的。性能可以得到改善。信任需要数年时间才能建立。我们已经九年了。还早。仍然受到数百万人的委托。我们传承的不仅仅是产品。这是人们的信任选择了我们。这总是第一天。感谢您的信任。"
+      "translated": "RT @cz_binance：再次站在哈利法塔前。起鸡皮疙瘩。大约三年前，我在这里与一位阿联酋的加密兄弟交谈。他告诉我他的大多数朋友都使用@TrustWallet。我说那是不可能的。它缺乏这个功能、那个链条、那个抛光。他只是微笑着说：“我看到人们就是这么用的。”回到同一个地方，我只能嘲笑自己的天真。 Trust Wallet 现在性能更高。用户体验更好。我们支持比以往更多的链和功能。但这不是人们留下来的原因。他们留下来是因为他们信任。他们信任这个品牌。他们相信自我保管。他们相信团队会为他们做正确的事。特征是可以复制的。性能可以得到改善。信任需要数年时间才能建立。我们已经九年了。还早。仍然受到数百万人的委托。我们传承的不仅仅是产品。这是人们的信任选择了我们。这总是第一天。感谢您的信任。"
     },
     {
       "id": "tweet_cz_binance_2085313946106356090",
@@ -70,7 +70,7 @@
       "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
       "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
       "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带入白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -92,6 +92,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2086247069900300393",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sun, 09 Aug 2026 00:23:56 GMT",
+      "content": "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections. Given recent industry earnings: > $AAOI cited +20-40% demand imbalance for transceivers (with lasers as the bottleneck). > $MTSI saying many \"Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers\" (in other product lines) > US proposal ban on new Chinese optical transceivers (Innolight/Eoptolink) > AOI no meaningful participation in first-gen CPO deployments due to lasers being allocated toward transceivers. The read through is that it’s possible to apply the same capacity-demand absorption modeling applying to $AAOI, but for other laser players like Sivers too. Given the widespread shortage and demand imbalance for InP CW DFB capacity.",
+      "url": "https://x.com/aleabitoreddit/status/2086247069900300393",
+      "tweet_id": "2086247069900300393",
+      "translated": "我认为现在是重新审视每年 4.27 亿美元中点容量收入模型预测的好时机。鉴于最近的行业收益： > $AAOI 指出收发器的需求不平衡超过 20-40%（其中激光器是瓶颈）。 > $MTSI 表示，许多“由于磷化铟 DFB 激光器普遍供应短缺，客户纷纷来找我们”（在其他产品线中） > 美国提议禁止新型中国光收发器（旭创/新易盛） > 由于激光器被分配给收发器，AOI 没有有意义地参与第一代 CPO 部署。通读后发现，可以将相同的容量需求吸收模型应用于 $AAOI，但也适用于 Sivers 等其他激光厂商。鉴于 InP CW DFB 容量普遍短缺和需求不平衡。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2086157318065168490",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -99,7 +109,7 @@
       "content": "Today I'm writing a weekend guide on how to do DD when shorting $NBIS: First, you look at hyperscaler earnings for AI cloud read through: > $GOOGL: reports record AI cloud demand + backlog + margin increases from earnings > $AMZN: reports record AI Cloud demand + backlog + margin increases from earnings > $META: reports higher than expected prices for available capacity from earnings. Now, time to look at Nebius: -> $NBIS: Growing hundreds of percent to $7-9B ARR by Q4. Growing margins, and guided 4GW+ contracted power. -> Sees Uber/Waymo splitting, putting more focus on Avride -> Sees Clickhouse growing rapidly every quarter. Okay looks bad! But next, you need a hedge? -> Wow! A $NIKE brand executive, after the stock dropped 75% over the past 5 years, went to $LULU to save that brand next? Lululemon seems good. Conclusion: Short Nebius and go long on $LULU",
       "url": "https://x.com/aleabitoreddit/status/2086157318065168490",
       "tweet_id": "2086157318065168490",
-      "translated": "今天，我正在写一篇关于如何在做空 $NBIS 时进行 DD 的周末指南：首先，你看一下 AI 云的超大规模盈利： > $GOOGL：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $AMZN：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $META：报告收益中可用容量的价格高于预期。现在，是时候看看 Nebius 了：-> $NBIS：到第四季度，ARR 增长数百%，达到 $7-9B。利润不断增长，指导合同电量超过 4GW。 -> 看到 Uber/Waymo 分拆，更加关注 Avride -> 看到 Clickhouse 每个季度都在快速增长。好吧看起来很糟糕！但接下来，你需要对冲吗？ -> 哇！一位$NIKE品牌高管，在过去5年股价下跌75%后，接下来又去$LULU拯救该品牌吗？露露柠檬看起来不错。结论：做空 Nebius，做多 $LULU"
+      "translated": "今天我正在写一篇关于如何在做空 $NBIS 时进行 DD 的周末指南：首先，你看一下 AI 云的超大规模盈利： > $GOOGL：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $AMZN：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $META：报告收益中可用容量的价格高于预期。现在，是时候看看 Nebius 了：-> $NBIS：到第四季度 ARR 增长数百%，达到 $7-9B。利润不断增长，指导合同电量超过 4GW。 -> 看到 Uber/Waymo 分拆，更加关注 Avride -> 看到 Clickhouse 每个季度都在快速增长。好吧看起来很糟糕！但接下来，你需要对冲吗？ -> 哇！一位$NIKE品牌高管，在过去5年股价下跌75%后，接下来又去$LULU拯救该品牌吗？露露柠檬看起来不错。结论：做空 Nebius，做多 $LULU"
     },
     {
       "id": "tweet_aleabitoreddit_2086148557187461412",
@@ -109,17 +119,16 @@
       "content": "Yes, I'm still bullish on memory like $MU / Samsung. As I said earlier, markets tend to rotate from bottleneck to bottleneck. This week it looks $AXTI to $LITE in the photonics sector is the focus again. The thing is... the primary thing that changed are the stock prices, followed by some narratives + updates sprinkled in here and there. For photonics: > We already knew $COHR / $LITE lasers were completely sold out for the next 2 years during July's drop. > We knew about demand imbalance from $AAOI from last quarter's earnings calls. Nothing deteriorated fundamentally during July's crash, other than listed price after liquidations. Yet tons of people called $AAOI a \"scam\" when it dropped to $75, or $AXTI a \"scam\" on its drop to $35... But are bullish again at $140 or $80, when the transciver/InP substrate bottleneck hasn't changed at all, but maybe even got worse... (eg. draft for US ban on new china optical transceivers, scale up demand projections) For Memory: I'm witnessing a lot of retail capitulation, but the same people I'm seeing were mega bullish after $MU signed 16 SCAs and gave exceptional projections a month ago. Or were celebrating Samsung having the highest operating profit in the world. There's updates here and there eg. Rubin Ultra with memory optimizations (which Nvidia strives for every generation), with prices no longer being hiked way above expectations to the extreme. But the operating income relative to MC is just absurd around current prices, especially memory becomes structural. And the demand imbalance should be even worse next year. People tend to capitulate and follow narratives when a sector drops (eg. Helium/LNG back in Iran war), even if the bottleneck or fundamental situation hasn't really changed much (eg. $SPCX Elon earnings call reiterating memory tightness). I can't tell others what to to do: But $AAOI at $140 and $AAOI at $75 are the same company. Samsung at a $1.5T MC and Samsung at a $980B MC are the same company. Just valuations and narratives (often noise) change, and markets rotate from sector to sector.",
       "url": "https://x.com/aleabitoreddit/status/2086148557187461412",
       "tweet_id": "2086148557187461412",
-      "translated": "是的，我仍然看好像 $MU / Samsung 这样的内存。正如我之前所说，市场往往会从一个瓶颈转向另一个瓶颈。本周，光子领域的 AXTI 至 LITE 似乎再次成为焦点。问题是……变化的主要因素是股票价格，然后是一些叙述和更新。对于光子学： > 我们已经知道 $COHR / $LITE 激光器在 7 月份的下跌期间在未来 2 年内已完全售空。 > 我们从上个季度的财报电话会议中了解到 $AAOI 的需求不平衡。在 7 月份的崩盘期间，除了清算后的挂牌价格外，没有什么根本性恶化。然而，当 $AAOI 跌至 75 美元时，很多人称其为“骗局”，或者 $AXTI 跌至 35 美元时称其为“骗局”...但在 140 美元或 80 美元时，当收发器/InP 衬底瓶颈根本没有改变，甚至可能变得更糟时，他们再次看涨...（例如，美国禁止新型中国光收发器的草案，扩大需求预测）对于内存：我目睹了很多零售投降，但同样如此一个月前 $MU 签署了 16 个 SCA 并给出了特殊的预测后，我看到的人们都非常看好。或者庆祝三星拥有世界上最高的营业利润。到处都有更新，例如。 Rubin Ultra 具有内存优化（Nvidia 每一代都在努力），价格不再远远超出预期。但相对于 MC 的营业收入在当前价格下简直是荒谬的，尤其是内存变得结构性的。明年的需求失衡应该会更加严重。当一个行业下跌时（例如，伊朗战争中的氦气/液化天然气），人们往往会屈服并遵循叙事，即使瓶颈或基本情况并没有真正改变太多（例如，$SPCX Elon 财报电话会议重申内存紧张）。我无法告诉别人该怎么做：但是 140 美元的 $AAOI 和 75 美元的 $AAOI 是同一家公司。 $1.5T MC 的三星和 $980B MC 的三星是同一家公司。只是估值和叙述（通常是噪音）发生变化，市场从一个行业转向另一个行业。"
+      "translated": "是的，我仍然看好像 $MU / Samsung 这样的内存。正如我之前所说，市场往往会从一个瓶颈转向另一个瓶颈。本周，光子领域的 AXTI 到 LITE 似乎再次成为焦点。问题是……变化的主要因素是股票价格，然后是一些叙述和更新。对于光子学： > 我们已经知道 $COHR / $LITE 激光器在 7 月份的下跌期间在未来 2 年内已完全售空。 > 我们从上个季度的财报电话会议中了解到 $AAOI 的需求不平衡。在 7 月份的崩盘期间，除了清算后的挂牌价格外，没有什么根本性恶化。然而，当 $AAOI 跌至 75 美元时，很多人称其为“骗局”，或者 $AXTI 跌至 35 美元时称其为“骗局”...但在 140 美元或 80 美元时，当收发器/InP 衬底瓶颈根本没有改变，甚至可能变得更糟时，他们再次看涨...（例如，美国禁止新型中国光收发器的草案，扩大需求预测） 对于内存：我目睹了很多零售投降，但同样如此一个月前 $MU 签署了 16 个 SCA 并给出了特殊的预测后，我看到的人们都非常看好。或者庆祝三星拥有世界上最高的营业利润。到处都有更新，例如。 Rubin Ultra 具有内存优化（Nvidia 每一代都在努力），价格不再远远超出预期。但相对于 MC 的营业收入在当前价格下简直是荒谬的，尤其是内存变得结构性的。明年的需求失衡应该会更加严重。当一个行业下跌时（例如，伊朗战争中的氦气/液化天然气），人们往往会屈服并遵循叙事，即使瓶颈或基本情况并没有真正改变太多（例如，$SPCX Elon 财报电话会议重申内存紧张）。我无法告诉别人该怎么做：但是 140 美元的 $AAOI 和 75 美元的 $AAOI 是同一家公司。 $1.5T MC 的三星和 $980B MC 的三星是同一家公司。只是估值和叙述（通常是噪音）发生变化，市场从一个行业转向另一个行业。"
     },
     {
-      "id": "tweet_aleabitoreddit_2085974141501612461",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sat, 08 Aug 2026 06:19:25 GMT",
-      "content": "I've mapped the entire Wall Street bear playbook on AI names: Have your favorite institution/media insert one of these name down below: 1. < ______ [GPUs, Transcivers, MLCC, Memory...] are a commodity set to crash> 2. < ______ [YMTC, CXMT, Dongshan...] from China will flood the market > 3. < ______ [Micron, Nvidia, ...] from unverifiable channel checks is facing issues > 4. < ______ [Kospi, Sivers, ...] is a bubble like the ____ [2007, 2021] crash> 5. <____ [1,2,3, ...] unexpected rate hikes this year> 6. < _____ [Google, Nvidia, Deepseek ...] optimization removes the need of this!> in a new headline, and it's ready to go!",
-      "url": "https://x.com/aleabitoreddit/status/2085974141501612461",
-      "tweet_id": "2085974141501612461",
-      "translated": "我已经将整个华尔街熊市手册映射到人工智能名称上：让您最喜欢的机构/媒体在下面插入以下名称之一： 1. < ______ [GPU、Transcivers、MLCC、Memory...] 是一种即将崩溃的商品> 2. < ______ [YMTC、CXMT、Dongshan...] 来自中国将涌入市场 > 3. < ______ [Micron、Nvidia、...] 来自无法验证的渠道检查正面临问题 > 4. < ______ [Kospi，Sivers，...] 是一个泡沫，就像 ____ [2007, 2021] 崩盘> 5. <____ [1,2,3, ...] 今年意外加息> 6. < _____ [Google, Nvidia, Deepseek ...] 优化消除了这一点！> 在一个新的标题中，它已经准备好了！"
+      "id": "tweet_qinbafrank_2086244990540529894",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sun, 09 Aug 2026 00:15:40 GMT",
+      "content": "才知道智谱创始人唐杰是Kimi创始人杨植麟在清华读本科时的科研导师，杨植麟参与清华特等金答辩也是唐杰作为导师推荐的。月之暗面的另外两位联创张宇韬也接受过唐杰的指导、周昕宇跟唐杰有过科研合作。 不得不说，两支头部国产大模型团队GLM和KIMI，原来核心创始成员均出自同一套科研体系，从早期顶会论文、知识图谱研究到大模型预训练探索，拥有一脉相承的学术根基。",
+      "url": "https://x.com/qinbafrank/status/2086244990540529894",
+      "tweet_id": "2086244990540529894"
     },
     {
       "id": "tweet_qinbafrank_2086123191513305576",
@@ -138,15 +147,6 @@
       "content": "护城河不是天生的，今天我们看到所有具有强网络效应平台型企业其护城河都不是天生的，都是在激烈的商业竞争中一步步垒起来的。非常同意链兄说的“护城河是打出来的”。沿着这个思路展开聊聊： 1、强网络效应（尤其是双边或多边平台）的护城河，几乎从来不是“天生就有”的。网络效应的本质是“用的人越多，价值越高”，但在早期用户基数很小的时候，效应几乎为零，甚至是负的（冷启动难题）。要把它从弱变强、最终形成难以撼动的壁垒，必须通过激烈竞争、持续投入、产品迭代、补贴、收购或生态扩张，一步步把用户、供给方和数据“垒”起来。历史上一大批看似现在“躺赢”的平台，早期都打过硬仗。 2、举几个典型例子，详细说明它们是怎么把网络效应从无到有打出来的。 1）Facebook（后来的Meta） 早期美国社交网络并不只有Facebook。MySpace一度是绝对主导者，Friendster、Orkut等也有相当规模。Facebook 2004年从哈佛校园起步，靠“真实身份+封闭邀请制”先在高校建立高密度网络，然后逐步开放。 它并没有天生垄断用户，而是通过： —更干净的界面和更好的隐私控制，吸引用户从MySpace迁移； —不断加功能（News Feed、Photos、应用平台）； —后期大举收购Instagram和WhatsApp，把潜在挑战者纳入自己的网络。 网络效应是后来才真正爆发的：朋友都在上面，你就不得不在；广告主和开发者也跟着过来。如果没有持续的产品竞争和扩张，它完全可能像MySpace一样被后来者取代。 2）Uber（以及共享出行平台） 共享出行是典型的双边网络效应：司机多了乘客等车时间短，乘客多了司机赚钱多。但Uber 2009年起步时，几乎从零开始，面临Lyft、本地出租车公司、以及各国本土玩家（中国的滴滴、东南亚的Grab等）的激烈竞争。它的打法是： —早期大幅补贴司机和乘客（两边烧钱），快速达到临界规模； —用数据和算法优化匹配效率，形成正向循环； —在不同市场本地化运营、应对监管和价格战。 现在Uber在美国等核心市场有较强网络效应，但这个护城河是靠几年高强度补贴和运营打出来的。很多市场（如中国）最终被本土玩家用同样甚至更猛的补贴策略抢走，说明网络效应不是“天然归属”某一家，而是看谁先把规模垒到足够大。 3）Visa / Mastercard（支付网络） 支付卡网络是经典的双边平台（持卡人↔商户↔银行）。Visa起源是1950-60年代的BankAmericard，早期银行和商户接受度都很低。 它通过：持续说服更多银行发卡、更多商户受理；建立交换费机制和全球清算标准；应对美国运通、Discover等竞争者，以及各国本地卡组织的挑战； 经过几十年才建成今天几乎全球通用的网络。今天它看起来“管道型、不碰钱却承载资金流”，护城河极深，但这个深度是长期竞争和标准建设垒出来的，不是天生的。 总结就是： 强网络效应平台的护城河，核心是“规模+密度+切换成本”。这些东西在起步阶段几乎都不存在，必须靠产品、补贴、营销、收购或监管套利，在真实竞争中一点一点积累。 一旦过了临界点，效应会自我强化，看起来像“天生壁垒”，但回头看，几乎没有一家是躺着拿到的。 现在很多人看护城河和竞争壁垒总是带着很强的后视镜、却忘了护城河的建立是一错而就的，需要相当长时间的运营、竞争、争夺，最终成功还是一个概率事件。 回到稳定币这个赛道，还是今天聊到的这个赛道大、增长快速，circle有一定领先竞争身位，但说实话还没完全建立起足够的竞争壁垒和护城河，稳定币法案通过也才一年时间，稳定币领域正在打这场垒“网络效应”筑“护城河”的仗，战斗正酣。 所以对于稳定币，对于circle需要发展的眼光来看：不是已经遥遥领先（还在打仗，竞争格局还没定），但也不是一无是处（有先发优势、有一定业务规模、团队能力战略和执行、叙事稀缺性）。需要一个正确的视角和框架来看待，上午聊到这点：https://x.com/qinbafrank/status/2085930841503564081?s=46&t=k6rimWsEbo2D2tXolYcM-A",
       "url": "https://x.com/qinbafrank/status/2086036263677858101",
       "tweet_id": "2086036263677858101"
-    },
-    {
-      "id": "tweet_qinbafrank_2085972036606693633",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sat, 08 Aug 2026 06:11:03 GMT",
-      "content": "现在看周四这里聊到的几个判断： 1）美股之前已涨四个交易日幅度还不小，那么周三的调整其实很正常； 2）核心是宏观也到了关键点，市场调整其实在等宏观给出方向； 3）周五的大非农大概率低于预期（没想到不仅低于预期甚至是负值），最佳剧本之一。宏观给了第一个利好方向； 市场表现也都看到了。 4）有一点是明确的，经过这一波财报季大家也看到了AI的基本面是没问题的，AI商业化在加速，能看到投资回报的时间节奏，甚至已经能算出去初步的ROIC框架https://x.com/qinbafrank/status/2084231327222759656?s=46&t=k6rimWsEbo2D2tXolYcM-A 这两天走势基本上是在周四这个推文聊的框架内。 接下来看什么？ 自然是关于霍尔木兹海峡新的协议是否谈成以及下周7月的cpi了。 1）如果在12号7月cpi数据公布前，关于霍尔木兹海峡新的协议能达成宣布，cpi数据的重要性就会下降。因为7月冲突再起，油价上行，但是一旦协议谈好油价再度大幅回落，大家是知道之后的通胀还会往下（只是看下行的速度快慢了） 2）如果12号关于霍尔木兹海峡新协议还没达成宣布，那么7月cpi数据符合或略低于预期是做利好市场的。之后市场还会去看关于海峡的新协议进展如何？ 这是最关键的点。 个人角度、关于伊朗阿曼关于海峡的新协议谈好的概率很大https://x.com/qinbafrank/status/2084834326613840376?s=46&t=k6rimWsEbo2D2tXolYcM-A 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2085972036606693633",
-      "tweet_id": "2085972036606693633"
     },
     {
       "id": "tweet_xiaomustock_2085959345200591001",
@@ -233,6 +233,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
