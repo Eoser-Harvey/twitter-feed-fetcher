@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-09T14:37:52.844395+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-09T15:34:36.314848+00:00",
+  "total": 24,
   "tweets": [
     {
       "id": "tweet_elonmusk_2086382118007914692",
@@ -61,6 +61,35 @@
       "url": "https://x.com/cz_binance/status/2085313946106356090",
       "tweet_id": "2085313946106356090",
       "translated": "来自@cz_binance 的转发：大多数交易所都要求您信任他们。 @binance 只是发布了数字。早在 2022 年，储备证明（著名的 P.O.R）就推出了。以下是每年挑选的一些数据： 2022 年 11 月：475,000 比特币：原生 2023 年 9 月：588,000 比特币：原生 2024 年 12 月：580,111 比特币：原生 2025 年 12 月：617,620 比特币：原生 2026 年 7 月，最新快照：640,000 比特币：原生 我会让你自己弄清楚你所看到的。连续四年多每月公开发布、可验证。它来自于每个月数以百万计的用户选择将他们的比特币保留在那里。收到四年，年复一年。"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2082159711852298494",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
+      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
+      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
+      "tweet_id": "2082159711852298494",
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2086304269943419276",
@@ -202,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
