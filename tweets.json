@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-08-09T03:45:47.572140+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-09T05:08:23.674997+00:00",
+  "total": 21,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2086298450581217560",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 09 Aug 2026 03:48:06 GMT",
+      "content": "RT by @elonmusk: Sometimes you need a human standing next to Starship just to remind your brain how absurdly massive this thing actually is A flying skyscraper made of stainless steel, designed to land itself and carry humans to another planet Absolutely insane that this is real",
+      "url": "https://x.com/elonmusk/status/2086298450581217560",
+      "tweet_id": "2086298450581217560",
+      "translated": "RT by @elonmusk：有时你需要一个人站在星际飞船旁边只是为了提醒你的大脑这东西实际上有多大荒谬一座由不锈钢制成的飞行摩天大楼，旨在自行着陆并将人类带到另一个星球绝对疯狂，这是真实的"
+    },
+    {
+      "id": "tweet_elonmusk_2086305001110954244",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 09 Aug 2026 04:14:08 GMT",
+      "content": "Grok Imagine can meme",
+      "url": "https://x.com/elonmusk/status/2086305001110954244",
+      "tweet_id": "2086305001110954244",
+      "translated": "Grok 想象可以 meme"
+    },
     {
       "id": "tweet_elonmusk_2086271431319724355",
       "username": "elonmusk",
@@ -11,26 +31,6 @@
       "url": "https://x.com/elonmusk/status/2086271431319724355",
       "tweet_id": "2086271431319724355",
       "translated": "RT by @elonmusk：真的很喜欢@imagine 的新编辑工具。多模式的接地能力是疯狂的。"
-    },
-    {
-      "id": "tweet_elonmusk_2086160265553334635",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 08 Aug 2026 18:39:00 GMT",
-      "content": "RT by @elonmusk: Falcon 9 launches 24 @Starlink satellites from California",
-      "url": "https://x.com/elonmusk/status/2086160265553334635",
-      "tweet_id": "2086160265553334635",
-      "translated": "RT @elonmusk：猎鹰 9 号从加利福尼亚州发射了 24 颗 @Starlink 卫星"
-    },
-    {
-      "id": "tweet_elonmusk_2086220716286845039",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 08 Aug 2026 22:39:13 GMT",
-      "content": "Boring upgrades",
-      "url": "https://x.com/elonmusk/status/2086220716286845039",
-      "tweet_id": "2086220716286845039",
-      "translated": "无聊的升级"
     },
     {
       "id": "tweet_cz_binance_2085404921914966044",
@@ -63,33 +63,14 @@
       "translated": "来自@cz_binance 的转发：大多数交易所都要求您信任他们。 @binance 只是发布了数字。早在 2022 年，储备证明（著名的 P.O.R）就推出了。以下是每年挑选的一些数据： 2022 年 11 月：475,000 比特币：原生 2023 年 9 月：588,000 比特币：原生 2024 年 12 月：580,111 比特币：原生 2025 年 12 月：617,620 比特币：原生 2026 年 7 月，最新快照：640,000 比特币：原生 我会让你自己弄清楚你所看到的。连续四年多每月公开发布、可验证。它来自于每个月数以百万计的用户选择将他们的比特币保留在那里。收到四年，年复一年。"
     },
     {
-      "id": "tweet_realDonaldTrump_2082159711852298494",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
-      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
-      "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带入白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
+      "id": "tweet_aleabitoreddit_2086304269943419276",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sun, 09 Aug 2026 04:11:14 GMT",
+      "content": "All right chat, it’s that time of the month again. What’s your #1 highest conviction stock and why? I actually learn a lot from reading these, so share some cool ideas.",
+      "url": "https://x.com/aleabitoreddit/status/2086304269943419276",
+      "tweet_id": "2086304269943419276",
+      "translated": "好吧，聊聊，又到了这个月的这个时候了。您最信任的第一只股票是什么？为什么？事实上，我从阅读这些文章中学到了很多东西，所以分享一些很酷的想法。"
     },
     {
       "id": "tweet_aleabitoreddit_2086247069900300393",
@@ -112,14 +93,13 @@
       "translated": "今天，我正在写一篇关于如何在做空 $NBIS 时进行 DD 的周末指南：首先，你看一下 AI 云的超大规模盈利： > $GOOGL：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $AMZN：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $META：报告收益中可用容量的价格高于预期。现在，是时候看看 Nebius 了：-> $NBIS：到第四季度，ARR 增长数百%，达到 $7-9B。利润不断增长，指导合同电量超过 4GW。 -> 看到 Uber/Waymo 分拆，更加关注 Avride -> 看到 Clickhouse 每个季度都在快速增长。好吧看起来很糟糕！但接下来，你需要对冲吗？ -> 哇！一位$NIKE品牌高管，在过去5年股价下跌75%后，接下来又去$LULU拯救该品牌吗？露露柠檬看起来不错。结论：做空 Nebius，做多 $LULU"
     },
     {
-      "id": "tweet_aleabitoreddit_2086148557187461412",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sat, 08 Aug 2026 17:52:29 GMT",
-      "content": "Yes, I'm still bullish on memory like $MU / Samsung. As I said earlier, markets tend to rotate from bottleneck to bottleneck. This week it looks $AXTI to $LITE in the photonics sector is the focus again. The thing is... the primary thing that changed are the stock prices, followed by some narratives + updates sprinkled in here and there. For photonics: > We already knew $COHR / $LITE lasers were completely sold out for the next 2 years during July's drop. > We knew about demand imbalance from $AAOI from last quarter's earnings calls. Nothing deteriorated fundamentally during July's crash, other than listed price after liquidations. Yet tons of people called $AAOI a \"scam\" when it dropped to $75, or $AXTI a \"scam\" on its drop to $35... But are bullish again at $140 or $80, when the transciver/InP substrate bottleneck hasn't changed at all, but maybe even got worse... (eg. draft for US ban on new china optical transceivers, scale up demand projections) For Memory: I'm witnessing a lot of retail capitulation, but the same people I'm seeing were mega bullish after $MU signed 16 SCAs and gave exceptional projections a month ago. Or were celebrating Samsung having the highest operating profit in the world. There's updates here and there eg. Rubin Ultra with memory optimizations (which Nvidia strives for every generation), with prices no longer being hiked way above expectations to the extreme. But the operating income relative to MC is just absurd around current prices, especially memory becomes structural. And the demand imbalance should be even worse next year. People tend to capitulate and follow narratives when a sector drops (eg. Helium/LNG back in Iran war), even if the bottleneck or fundamental situation hasn't really changed much (eg. $SPCX Elon earnings call reiterating memory tightness). I can't tell others what to to do: But $AAOI at $140 and $AAOI at $75 are the same company. Samsung at a $1.5T MC and Samsung at a $980B MC are the same company. Just valuations and narratives (often noise) change, and markets rotate from sector to sector.",
-      "url": "https://x.com/aleabitoreddit/status/2086148557187461412",
-      "tweet_id": "2086148557187461412",
-      "translated": "是的，我仍然看好像 $MU / Samsung 这样的内存。正如我之前所说，市场往往会从一个瓶颈转向另一个瓶颈。本周，光子领域的 AXTI 至 LITE 似乎再次成为焦点。问题是……变化的主要因素是股票价格，然后是一些叙述和更新。对于光子学： > 我们已经知道 $COHR / $LITE 激光器在 7 月份的下跌期间在未来 2 年内已完全售空。 > 我们从上个季度的财报电话会议中了解到 $AAOI 的需求不平衡。在 7 月份的崩盘期间，除了清算后的挂牌价格外，没有什么根本性恶化。然而，当 $AAOI 跌至 75 美元时，很多人称其为“骗局”，或者 $AXTI 跌至 35 美元时称其为“骗局”...但在 140 美元或 80 美元时，当收发器/InP 衬底瓶颈根本没有改变，甚至可能变得更糟时，他们再次看涨...（例如，美国禁止新型中国光收发器的草案，扩大需求预测）对于内存：我目睹了很多零售投降，但同样如此一个月前 $MU 签署了 16 个 SCA 并给出了特殊的预测后，我看到的人们都非常看好。或者庆祝三星拥有世界上最高的营业利润。到处都有更新，例如。 Rubin Ultra 具有内存优化（Nvidia 每一代都在努力），价格不再远远超出预期。但相对于 MC 的营业收入在当前价格下简直是荒谬的，尤其是内存变得结构性的。明年的需求失衡应该会更加严重。当一个行业下跌时（例如，伊朗战争中的氦气/液化天然气），人们往往会屈服并遵循叙事，即使瓶颈或基本情况并没有真正改变太多（例如，$SPCX Elon 财报电话会议重申内存紧张）。我无法告诉别人该怎么做：但是 140 美元的 $AAOI 和 75 美元的 $AAOI 是同一家公司。 $1.5T MC 的三星和 $980B MC 的三星是同一家公司。只是估值和叙述（通常是噪音）发生变化，市场从一个行业转向另一个行业。"
+      "id": "tweet_qinbafrank_2086312678960640211",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sun, 09 Aug 2026 04:44:39 GMT",
+      "content": "原来本周Jeff宣布从谷歌离职的时候Hassabis本也要走，但谷歌最高层认为这一消息会导致股价暴跌，谷歌连夜说服了Hassabis把他推上了「DeepMind董事长+Alphabet首席科学家」两个位置。但Jeff的离职消息一出，谷歌还是跌了5%多。纸里包不住火，现在大家都知道Hassabis原来也要走。 1、可能从Hassabis自身角度来说他更愿意成为一个科学家，他进入AI领域，本来就是因为「世界上那些大问题」。他理想中 AGI 的最后阶段是把最优秀的科学家聚到一起，用科学方法，谨慎、精确、严格地理解每一步，再一步步走向 AGI。 但现在大模型或者说巨头在AI领域的竞争，已经越来越激烈，从单点之争升级到系统化的体系战役。 这也是从科学到工程再到商业化的转变 ，从这个可能角度看Hassabis并不是最适合再带领谷歌整个AI打仗的那个人了。 只能说形势比人强 2、前几天聊到DeepMind更深度嵌入谷歌体系，减少“独立实验室”色彩，强化统一指挥。之前DeepMind还是独立性更强，调整后劈柴能更直接的把控，跟谷歌业务融合的可能也更好。 再面临激烈的竞争下，大公司天然倾向首先调整组织架构。“事为先、但人为重”好的组织架构能迸发强大能量。 这也标志着谷歌AI组织从“研究驱动+整合”向“战略AGI导向+强产品执行”的再平衡。 其实是个好事。 3、不仅感慨、时隔一年谷歌再次成为追赶的角色，不过谷歌也不缺后发先至的经验。看报道这次调整、布林的角度也很关键，发挥了重要作用，甚至布林对谷歌AI体系介入也更深了。 其实是好事、商业的归商业、科学的归科学。短期因为Hassabis原来也要走的消息，谷歌股价还要调整。但是如果整个AI业务体系理顺了，Gemini4的发布估计也就快了，还能再打个翻身仗，中长期看又给了大家上车良机。 Meta有一直在追赶的经验， 但谷歌可是有追赶成功的经验",
+      "url": "https://x.com/qinbafrank/status/2086312678960640211",
+      "tweet_id": "2086312678960640211"
     },
     {
       "id": "tweet_qinbafrank_2086281764356665611",
@@ -138,15 +118,6 @@
       "content": "才知道智谱创始人唐杰是Kimi创始人杨植麟在清华读本科时的科研导师，杨植麟参与清华特等金答辩也是唐杰作为导师推荐的。月之暗面的另外两位联创张宇韬也接受过唐杰的指导、周昕宇跟唐杰有过科研合作。 不得不说，两支头部国产大模型团队GLM和KIMI，原来核心创始成员均出自同一套科研体系，从早期顶会论文、知识图谱研究到大模型预训练探索，拥有一脉相承的学术根基。",
       "url": "https://x.com/qinbafrank/status/2086244990540529894",
       "tweet_id": "2086244990540529894"
-    },
-    {
-      "id": "tweet_qinbafrank_2086123191513305576",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sat, 08 Aug 2026 16:11:41 GMT",
-      "content": "看AAOI财报电话会有一个点印象深刻：管理层说美国真要禁掉中国的光模块、它反而说自己接不了大单、因为现有产能已经卖到27年第二季度去了。 第一个提问的Wolfe Research分析师George Notter直接问：最近新闻里说美国可能禁止中国光模块进入美国，这对AAOI意味着什么？会改变产能规划吗？会改变和客户的对话吗？ CFO Stefan Murry的回答克制：报告还比较投机，禁令没落地、细节没出来，「现在说还有点早」。但他给了一个明确定位——AAOI的美国制造布局一直是、而且很可能是我们对客户最重要的吸引力，这个消息显然放大了这份吸引力。公司目前是、并预计将继续是美国国内最大的AI用光模块制造商。 CEO Thompson Lin的补充要强硬得多：「我认为这根本不算新闻，这类讨论已经持续了相当一段时间。」正因如此，公司一直在和三家客户谈长期协议，「我们可能是唯一一家真正承诺在美国重金投资美国制造的公司，不只是激光器，还包括光模块」。早期客户反馈是——客户会更激进地给AAOI更多份额，特别是针对美国本土制造的部分。 Thompson继续补充了：「我们的产能从现在到明年第二季度已经完全订满了。我们能做的最好的事，就是更激进地增加产能，可能要从明年第三季度开始，尤其是美国制造的部分。」 这就意味着如果美国真的要对中国光模块下手，作为目前是、并预计将继续是美国国内最大的AI用光模块制造商的AAOI在未来三个季度也接不下额外订单了。 之前这里https://x.com/qinbafrank/status/2084630010946523613?s=46&t=k6rimWsEbo2D2tXolYcM-A也有聊过：中国光模块厂商占据了全球七成以上的供给，短时间内很难完全替代。",
-      "url": "https://x.com/qinbafrank/status/2086123191513305576",
-      "tweet_id": "2086123191513305576"
     },
     {
       "id": "tweet_xiaomustock_2085959345200591001",
@@ -231,8 +202,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 10
+    "users_success": 7,
+    "users_failed": 1,
+    "nitter_healthy": 9
   }
 }
