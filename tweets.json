@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-09T18:43:40.833438+00:00",
+  "fetched_at": "2026-08-09T19:36:47.261476+00:00",
   "total": 21,
   "tweets": [
     {
@@ -40,7 +40,7 @@
       "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
       "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
       "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带入白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -203,6 +203,6 @@
   "stats": {
     "users_success": 7,
     "users_failed": 1,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
