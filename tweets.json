@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-09T10:37:34.326620+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-09T11:31:42.928463+00:00",
+  "total": 21,
   "tweets": [
     {
       "id": "tweet_elonmusk_2086346377227907227",
@@ -30,7 +30,7 @@
       "content": "RT by @elonmusk: It had to be this way—Q.",
       "url": "https://x.com/elonmusk/status/2085830242950901968",
       "tweet_id": "2085830242950901968",
-      "translated": "RT @elonmusk：必须是这样的——Q."
+      "translated": "RT @elonmusk：事情必须是这样的——Q."
     },
     {
       "id": "tweet_cz_binance_2085404921914966044",
@@ -63,35 +63,6 @@
       "translated": "来自@cz_binance 的转发：大多数交易所都要求您信任他们。 @binance 只是发布了数字。早在 2022 年，储备证明（著名的 P.O.R）就推出了。以下是每年挑选的一些数据： 2022 年 11 月：475,000 比特币：原生 2023 年 9 月：588,000 比特币：原生 2024 年 12 月：580,111 比特币：原生 2025 年 12 月：617,620 比特币：原生 2026 年 7 月，最新快照：640,000 比特币：原生 我会让你自己弄清楚你所看到的。连续四年多每月公开发布、可验证。它来自于每个月数以百万计的用户选择将他们的比特币保留在那里。收到四年，年复一年。"
     },
     {
-      "id": "tweet_realDonaldTrump_2082159711852298494",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
-      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
-      "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
-    },
-    {
       "id": "tweet_aleabitoreddit_2086304269943419276",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -109,7 +80,7 @@
       "content": "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections. Given recent industry earnings: > $AAOI cited +20-40% demand imbalance for transceivers (with lasers as the bottleneck). > $MTSI saying many \"Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers\" (in other product lines) > US proposal ban on new Chinese optical transceivers (Innolight/Eoptolink) > AOI no meaningful participation in first-gen CPO deployments due to lasers being allocated toward transceivers. The read through is that it’s possible to apply the same capacity-demand absorption modeling applying to $AAOI, but for other laser players like Sivers too. Given the widespread shortage and demand imbalance for InP CW DFB capacity.",
       "url": "https://x.com/aleabitoreddit/status/2086247069900300393",
       "tweet_id": "2086247069900300393",
-      "translated": "我认为现在是重新审视每年 4.27 亿美元中点容量收入模型预测的好时机。鉴于最近的行业收益： > $AAOI 指出收发器的需求不平衡超过 20-40%（其中激光器是瓶颈）。 > $MTSI 表示，许多“由于磷化铟 DFB 激光器普遍供应短缺，客户纷纷来找我们”（在其他产品线中） > 美国提议禁止新型中国光收发器（旭创/新易盛） > 由于激光器被分配给收发器，AOI 没有有意义地参与第一代 CPO 部署。通读后发现，可以将相同的容量需求吸收模型应用于 $AAOI，但也适用于 Sivers 等其他激光厂商。鉴于 InP CW DFB 容量普遍短缺和需求不平衡。"
+      "translated": "我认为现在是重新审视每年 4.27 亿美元中点容量收入模型预测的好时机。鉴于最近的行业收益： > $AAOI 指出收发器的需求不平衡超过 20-40%（其中激光器是瓶颈）。 > $MTSI 表示，许多“由于磷化铟 DFB 激光器普遍供应短缺，客户纷纷来找我们”（在其他产品线中） > 美国提议禁止新型中国光收发器（旭创/新易盛） > 由于激光器被分配给收发器，AOI 没有有意义地参与第一代 CPO 部署。通读后发现，可以将相同的容量需求吸收模型应用于 $AAOI，但也适用于 Sivers 等其他激光厂商。鉴于 InP CW DFB 产能普遍短缺和需求不平衡。"
     },
     {
       "id": "tweet_aleabitoreddit_2086157318065168490",
@@ -119,7 +90,7 @@
       "content": "Today I'm writing a weekend guide on how to do DD when shorting $NBIS: First, you look at hyperscaler earnings for AI cloud read through: > $GOOGL: reports record AI cloud demand + backlog + margin increases from earnings > $AMZN: reports record AI Cloud demand + backlog + margin increases from earnings > $META: reports higher than expected prices for available capacity from earnings. Now, time to look at Nebius: -> $NBIS: Growing hundreds of percent to $7-9B ARR by Q4. Growing margins, and guided 4GW+ contracted power. -> Sees Uber/Waymo splitting, putting more focus on Avride -> Sees Clickhouse growing rapidly every quarter. Okay looks bad! But next, you need a hedge? -> Wow! A $NIKE brand executive, after the stock dropped 75% over the past 5 years, went to $LULU to save that brand next? Lululemon seems good. Conclusion: Short Nebius and go long on $LULU",
       "url": "https://x.com/aleabitoreddit/status/2086157318065168490",
       "tweet_id": "2086157318065168490",
-      "translated": "今天我正在写一篇关于如何在做空 $NBIS 时进行 DD 的周末指南：首先，你看一下 AI 云的超大规模盈利： > $GOOGL：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $AMZN：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $META：报告收益中可用容量的价格高于预期。现在，是时候看看 Nebius 了：-> $NBIS：到第四季度 ARR 增长数百%，达到 $7-9B。利润不断增长，指导合同电量超过 4GW。 -> 看到 Uber/Waymo 分拆，更加关注 Avride -> 看到 Clickhouse 每个季度都在快速增长。好吧看起来很糟糕！但接下来，你需要对冲吗？ -> 哇！一位$NIKE品牌高管，在过去5年股价下跌75%后，接下来又去$LULU拯救该品牌吗？露露柠檬看起来不错。结论：做空 Nebius，做多 $LULU"
+      "translated": "今天，我正在写一篇关于如何在做空 $NBIS 时进行 DD 的周末指南：首先，你看一下 AI 云的超大规模盈利： > $GOOGL：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $AMZN：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $META：报告收益中可用容量的价格高于预期。现在，是时候看看 Nebius 了：-> $NBIS：到第四季度，ARR 增长数百%，达到 $7-9B。利润不断增长，指导合同电量超过 4GW。 -> 看到 Uber/Waymo 分拆，更加关注 Avride -> 看到 Clickhouse 每个季度都在快速增长。好吧看起来很糟糕！但接下来，你需要对冲吗？ -> 哇！一位$NIKE品牌高管，在过去5年股价下跌75%后，接下来又去$LULU拯救该品牌吗？露露柠檬看起来不错。结论：做空 Nebius，做多 $LULU"
     },
     {
       "id": "tweet_qinbafrank_2086312678960640211",
@@ -231,8 +202,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 10
+    "users_success": 7,
+    "users_failed": 1,
+    "nitter_healthy": 9
   }
 }
