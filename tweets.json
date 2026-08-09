@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-09T21:35:31.747768+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-09T22:34:14.959143+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2086555758989025437",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 09 Aug 2026 20:50:33 GMT",
-      "content": "Believe them. They mean exactly what they say.",
-      "url": "https://x.com/elonmusk/status/2086555758989025437",
-      "tweet_id": "2086555758989025437",
-      "translated": "相信他们。他们的意思正是他们所说的。"
-    },
-    {
-      "id": "tweet_elonmusk_2086439121149423828",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 09 Aug 2026 13:07:05 GMT",
-      "content": "RT by @elonmusk: Grok Build is quickly turning into an all-in-one creation environment It can now also generate images and videos with Grok Imagine directly inside your workflow You can create custom visuals for websites, apps, presentations, marketing campaigns, product pages, social media and pretty much anything else you're building No more jumping between different AI tools just to create the assets you need......even Claude Code doesn't natively have this Build the website, generate the images, create the videos, and then ship it - all from Grok Build",
-      "url": "https://x.com/elonmusk/status/2086439121149423828",
-      "tweet_id": "2086439121149423828",
-      "translated": "RT by @elonmusk：Grok Build 正在迅速转变为一体化的创作环境 现在还可以直接在您的工作流程中使用 Grok Imagine 生成图像和视频 您可以为网站、应用程序、演示文稿、营销活动、产品页面、社交媒体以及您正在构建的几乎任何其他内容创建自定义视觉效果 不再为了创建您需要的资产而在不同的 AI 工具之间跳转......甚至 Claude Code 本身也没有这个功能 构建网站、生成图像、创建视频，然后发货 - 全部来自格罗克构建"
-    },
-    {
-      "id": "tweet_elonmusk_2086554608348873008",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 09 Aug 2026 20:45:59 GMT",
-      "content": "AI agentic Internet traffic will obviously VASTLY exceed human usage. Not a close call at all. Cloudflare’s forecast is accurate.",
-      "url": "https://x.com/elonmusk/status/2086554608348873008",
-      "tweet_id": "2086554608348873008",
-      "translated": "人工智能代理的互联网流量显然将大大超过人类的使用量。根本不是千钧一发。 Cloudflare 的预测是准确的。"
-    },
     {
       "id": "tweet_cz_binance_2085404921914966044",
       "username": "cz_binance",
@@ -109,7 +79,7 @@
       "content": "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections. Given recent industry earnings: > $AAOI cited +20-40% demand imbalance for transceivers (with lasers as the bottleneck). > $MTSI saying many \"Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers\" (in other product lines) > US proposal ban on new Chinese optical transceivers (Innolight/Eoptolink) > AOI no meaningful participation in first-gen CPO deployments due to lasers being allocated toward transceivers. The read through is that it’s possible to apply the same capacity-demand absorption modeling applying to $AAOI, but for other laser players like Sivers too. Given the widespread shortage and demand imbalance for InP CW DFB capacity.",
       "url": "https://x.com/aleabitoreddit/status/2086247069900300393",
       "tweet_id": "2086247069900300393",
-      "translated": "我认为现在是重新审视每年 4.27 亿美元中点容量收入模型预测的好时机。鉴于最近的行业收益： > $AAOI 指出收发器的需求不平衡超过 20-40%（其中激光器是瓶颈）。 > $MTSI 表示，许多“由于磷化铟 DFB 激光器普遍供应短缺，客户纷纷来找我们”（在其他产品线中） > 美国提议禁止新型中国光收发器（旭创/新易盛） > 由于激光器被分配给收发器，AOI 没有有意义地参与第一代 CPO 部署。通读后发现，可以将相同的容量需求吸收模型应用于 $AAOI，但也适用于 Sivers 等其他激光厂商。鉴于 InP CW DFB 产能普遍短缺和需求不平衡。"
+      "translated": "我认为现在是重新审视每年 4.27 亿美元中点容量收入模型预测的好时机。鉴于最近的行业收益： > $AAOI 指出收发器的需求不平衡超过 20-40%（其中激光器是瓶颈）。 > $MTSI 表示，许多“由于磷化铟 DFB 激光器普遍供应短缺，客户纷纷来找我们”（在其他产品线中） > 美国提议禁止新型中国光收发器（旭创/新易盛） > 由于激光器被分配给收发器，AOI 没有有意义地参与第一代 CPO 部署。通读后发现，可以将相同的容量需求吸收模型应用于 $AAOI，但也适用于 Sivers 等其他激光厂商。鉴于 InP CW DFB 容量普遍短缺和需求不平衡。"
     },
     {
       "id": "tweet_aleabitoreddit_2086157318065168490",
@@ -119,7 +89,7 @@
       "content": "Today I'm writing a weekend guide on how to do DD when shorting $NBIS: First, you look at hyperscaler earnings for AI cloud read through: > $GOOGL: reports record AI cloud demand + backlog + margin increases from earnings > $AMZN: reports record AI Cloud demand + backlog + margin increases from earnings > $META: reports higher than expected prices for available capacity from earnings. Now, time to look at Nebius: -> $NBIS: Growing hundreds of percent to $7-9B ARR by Q4. Growing margins, and guided 4GW+ contracted power. -> Sees Uber/Waymo splitting, putting more focus on Avride -> Sees Clickhouse growing rapidly every quarter. Okay looks bad! But next, you need a hedge? -> Wow! A $NIKE brand executive, after the stock dropped 75% over the past 5 years, went to $LULU to save that brand next? Lululemon seems good. Conclusion: Short Nebius and go long on $LULU",
       "url": "https://x.com/aleabitoreddit/status/2086157318065168490",
       "tweet_id": "2086157318065168490",
-      "translated": "今天，我正在写一篇关于如何在做空 $NBIS 时进行 DD 的周末指南：首先，你看一下 AI 云的超大规模盈利： > $GOOGL：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $AMZN：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $META：报告收益中可用容量的价格高于预期。现在，是时候看看 Nebius 了：-> $NBIS：到第四季度，ARR 增长数百%，达到 $7-9B。利润不断增长，指导合同电量超过 4GW。 -> 看到 Uber/Waymo 分拆，更加关注 Avride -> 看到 Clickhouse 每个季度都在快速增长。好吧看起来很糟糕！但接下来，你需要对冲吗？ -> 哇！一位$NIKE品牌高管，在过去5年股价下跌75%后，接下来又去$LULU拯救该品牌吗？露露柠檬看起来不错。结论：做空 Nebius，做多 $LULU"
+      "translated": "今天我正在写一篇关于如何在做空 $NBIS 时进行 DD 的周末指南：首先，你看一下 AI 云的超大规模盈利： > $GOOGL：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $AMZN：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $META：报告收益中可用容量的价格高于预期。现在，是时候看看 Nebius 了：-> $NBIS：到第四季度 ARR 增长数百%，达到 $7-9B。利润不断增长，指导合同电量超过 4GW。 -> 看到 Uber/Waymo 分拆，更加关注 Avride -> 看到 Clickhouse 每个季度都在快速增长。好吧看起来很糟糕！但接下来，你需要对冲吗？ -> 哇！一位$NIKE品牌高管，在过去5年股价下跌75%后，接下来又去$LULU拯救该品牌吗？露露柠檬看起来不错。结论：做空 Nebius，做多 $LULU"
     },
     {
       "id": "tweet_qinbafrank_2086443355815428175",
@@ -231,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
