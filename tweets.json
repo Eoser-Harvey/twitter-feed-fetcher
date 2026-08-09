@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-09T19:36:47.261476+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-09T20:35:33.575389+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2086519456927248870",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 09 Aug 2026 18:26:18 GMT",
+      "content": "True",
+      "url": "https://x.com/elonmusk/status/2086519456927248870",
+      "tweet_id": "2086519456927248870",
+      "translated": "真的"
+    },
+    {
+      "id": "tweet_elonmusk_2086438191775514902",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 09 Aug 2026 13:03:23 GMT",
+      "content": "RT by @elonmusk: All year long we heard “we’ll get to the SAVE America Act when we have time,” realizing it would likely take a few weeks. We waited patiently while fully funding DHS and addressing other priorities, expecting to return to it when time allowed. It’s now August, and we’ve already taken more recess weeks this year than I can count. There are 21 weeks remaining in 2026, and approximately 14 of them will be spent with the Senate in recess. Why? These few weeks in August offer what could be the perfect chance to return to the SAVE America Act and debate the bill until it passes. We should be doing precisely that. Frankly, we should have done it months ago. That’s why I objected to recess and voted against it. Unfortunately, I and those who joined me in opposing it were far outnumbered—with all Democrats and most Republicans preferring to take yet another lengthy recess, this time until September 14th. Lost opportunity.",
+      "url": "https://x.com/elonmusk/status/2086438191775514902",
+      "tweet_id": "2086438191775514902",
+      "translated": "RT @elonmusk：一整年我们都听到“当我们有时间的时候我们会制定《拯救美国法案》”，但意识到这可能需要几周的时间。我们耐心等待，同时为国土安全部提供全额资金并解决其他优先事项，期望在时间允许时返回。现在是八月，今年我们休息的周数已经多得我数不清了。 2026 年还剩 21 周，其中大约 14 周将在参议院休会期间度过。为什么？八月的这几周可能是重返《拯救美国法案》并就该法案进行辩论直至其通过的绝佳机会。我们应该这样做。坦率地说，我们几个月前就应该这样做。这就是为什么我反对休会并投了反对票。不幸的是，我和那些与我一起反对的人人数远远超过——所有民主党人和大多数共和党人都宁愿再次长时间休会，这次直到 9 月 14 日。失去了机会。"
+    },
+    {
+      "id": "tweet_elonmusk_2086315556282761264",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 09 Aug 2026 04:56:05 GMT",
+      "content": "RT by @elonmusk: Congrats @DavidMoss on being the first Tesla owner to cross 25,000 miles on the FSD streak counter! That's equivalent to one full lap around Earth, or two years of driving for the average American. Pretty wild. The confetti celebration also came back after it last appeared for him at the 5,000 mile streak milestone haha. (video sent to me by David and posted with his permission since he wasn't going to post it)",
+      "url": "https://x.com/elonmusk/status/2086315556282761264",
+      "tweet_id": "2086315556282761264",
+      "translated": "RT by @elonmusk：恭喜@DavidMoss 成为第一个在 FSD 记录上跨越 25,000 英里的特斯拉车主！这相当于绕地球一圈，或者普通美国人开车两年。相当狂野。继上次在 5,000 英里连续里程碑上出现后，五彩纸屑庆祝活动也回来了，哈哈。 （视频是大卫发给我的，并经过他的许可发布，因为他不打算发布）"
+    },
     {
       "id": "tweet_cz_binance_2085404921914966044",
       "username": "cz_binance",
@@ -201,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
