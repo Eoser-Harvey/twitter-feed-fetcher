@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-09T09:42:51.016392+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-09T10:37:34.326620+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2086346377227907227",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 09 Aug 2026 06:58:33 GMT",
+      "content": "That was 10 years ago Imagine 10 years from now",
+      "url": "https://x.com/elonmusk/status/2086346377227907227",
+      "tweet_id": "2086346377227907227",
+      "translated": "那是10年前的事 想象一下10年后的事"
+    },
+    {
+      "id": "tweet_elonmusk_2086337315375345832",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 09 Aug 2026 06:22:32 GMT",
+      "content": "Literally What you Imagine Can be made real",
+      "url": "https://x.com/elonmusk/status/2086337315375345832",
+      "tweet_id": "2086337315375345832",
+      "translated": "从字面上看，您的想象可以变成现实"
+    },
+    {
+      "id": "tweet_elonmusk_2085830242950901968",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 07 Aug 2026 20:47:37 GMT",
+      "content": "RT by @elonmusk: It had to be this way—Q.",
+      "url": "https://x.com/elonmusk/status/2085830242950901968",
+      "tweet_id": "2085830242950901968",
+      "translated": "RT @elonmusk：必须是这样的——Q."
+    },
     {
       "id": "tweet_cz_binance_2085404921914966044",
       "username": "cz_binance",
@@ -201,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
