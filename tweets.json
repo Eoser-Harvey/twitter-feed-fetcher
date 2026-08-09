@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-08-09T11:31:42.928463+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-09T12:54:40.962175+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2086382118007914692",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 09 Aug 2026 09:20:34 GMT",
+      "content": "RT by @elonmusk: Christmas Eve 2008. Tesla closed a funding round in the final hour, days from bankruptcy. Elon Musk put in all his money & assets, borrowed from friends just to pay rent. If it missed, payroll would have bounced two days after Christmas.",
+      "url": "https://x.com/elonmusk/status/2086382118007914692",
+      "tweet_id": "2086382118007914692",
+      "translated": "RT @elonmusk：2008 年平安夜。特斯拉在最后一刻完成了一轮融资，距离破产还有几天。埃隆·马斯克投入了从朋友那里借来的所有金钱和资产，只是为了支付房租。如果错过了，工资单将在圣诞节后两天反弹。"
+    },
+    {
+      "id": "tweet_elonmusk_2086422231987417476",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 09 Aug 2026 11:59:58 GMT",
+      "content": "True",
+      "url": "https://x.com/elonmusk/status/2086422231987417476",
+      "tweet_id": "2086422231987417476",
+      "translated": "真的"
+    },
     {
       "id": "tweet_elonmusk_2086346377227907227",
       "username": "elonmusk",
@@ -11,26 +31,6 @@
       "url": "https://x.com/elonmusk/status/2086346377227907227",
       "tweet_id": "2086346377227907227",
       "translated": "那是10年前的事 想象一下10年后的事"
-    },
-    {
-      "id": "tweet_elonmusk_2086337315375345832",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 09 Aug 2026 06:22:32 GMT",
-      "content": "Literally What you Imagine Can be made real",
-      "url": "https://x.com/elonmusk/status/2086337315375345832",
-      "tweet_id": "2086337315375345832",
-      "translated": "从字面上看，您的想象可以变成现实"
-    },
-    {
-      "id": "tweet_elonmusk_2085830242950901968",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 07 Aug 2026 20:47:37 GMT",
-      "content": "RT by @elonmusk: It had to be this way—Q.",
-      "url": "https://x.com/elonmusk/status/2085830242950901968",
-      "tweet_id": "2085830242950901968",
-      "translated": "RT @elonmusk：事情必须是这样的——Q."
     },
     {
       "id": "tweet_cz_binance_2085404921914966044",
@@ -63,6 +63,35 @@
       "translated": "来自@cz_binance 的转发：大多数交易所都要求您信任他们。 @binance 只是发布了数字。早在 2022 年，储备证明（著名的 P.O.R）就推出了。以下是每年挑选的一些数据： 2022 年 11 月：475,000 比特币：原生 2023 年 9 月：588,000 比特币：原生 2024 年 12 月：580,111 比特币：原生 2025 年 12 月：617,620 比特币：原生 2026 年 7 月，最新快照：640,000 比特币：原生 我会让你自己弄清楚你所看到的。连续四年多每月公开发布、可验证。它来自于每个月数以百万计的用户选择将他们的比特币保留在那里。收到四年，年复一年。"
     },
     {
+      "id": "tweet_realDonaldTrump_2082159711852298494",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
+      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
+      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
+      "tweet_id": "2082159711852298494",
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
+    },
+    {
       "id": "tweet_aleabitoreddit_2086304269943419276",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -80,7 +109,7 @@
       "content": "I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections. Given recent industry earnings: > $AAOI cited +20-40% demand imbalance for transceivers (with lasers as the bottleneck). > $MTSI saying many \"Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers\" (in other product lines) > US proposal ban on new Chinese optical transceivers (Innolight/Eoptolink) > AOI no meaningful participation in first-gen CPO deployments due to lasers being allocated toward transceivers. The read through is that it’s possible to apply the same capacity-demand absorption modeling applying to $AAOI, but for other laser players like Sivers too. Given the widespread shortage and demand imbalance for InP CW DFB capacity.",
       "url": "https://x.com/aleabitoreddit/status/2086247069900300393",
       "tweet_id": "2086247069900300393",
-      "translated": "我认为现在是重新审视每年 4.27 亿美元中点容量收入模型预测的好时机。鉴于最近的行业收益： > $AAOI 指出收发器的需求不平衡超过 20-40%（其中激光器是瓶颈）。 > $MTSI 表示，许多“由于磷化铟 DFB 激光器普遍供应短缺，客户纷纷来找我们”（在其他产品线中） > 美国提议禁止新型中国光收发器（旭创/新易盛） > 由于激光器被分配给收发器，AOI 没有有意义地参与第一代 CPO 部署。通读后发现，可以将相同的容量需求吸收模型应用于 $AAOI，但也适用于 Sivers 等其他激光厂商。鉴于 InP CW DFB 产能普遍短缺和需求不平衡。"
+      "translated": "我认为现在是重新审视每年 4.27 亿美元中点容量收入模型预测的好时机。鉴于最近的行业收益： > $AAOI 指出收发器的需求不平衡超过 20-40%（其中激光器是瓶颈）。 > $MTSI 表示，许多“由于磷化铟 DFB 激光器普遍供应短缺，客户纷纷来找我们”（在其他产品线中） > 美国提议禁止新型中国光收发器（旭创/新易盛） > 由于激光器被分配给收发器，AOI 没有有意义地参与第一代 CPO 部署。通读后发现，可以将相同的容量需求吸收模型应用于 $AAOI，但也适用于 Sivers 等其他激光厂商。鉴于 InP CW DFB 容量普遍短缺和需求不平衡。"
     },
     {
       "id": "tweet_aleabitoreddit_2086157318065168490",
@@ -90,7 +119,16 @@
       "content": "Today I'm writing a weekend guide on how to do DD when shorting $NBIS: First, you look at hyperscaler earnings for AI cloud read through: > $GOOGL: reports record AI cloud demand + backlog + margin increases from earnings > $AMZN: reports record AI Cloud demand + backlog + margin increases from earnings > $META: reports higher than expected prices for available capacity from earnings. Now, time to look at Nebius: -> $NBIS: Growing hundreds of percent to $7-9B ARR by Q4. Growing margins, and guided 4GW+ contracted power. -> Sees Uber/Waymo splitting, putting more focus on Avride -> Sees Clickhouse growing rapidly every quarter. Okay looks bad! But next, you need a hedge? -> Wow! A $NIKE brand executive, after the stock dropped 75% over the past 5 years, went to $LULU to save that brand next? Lululemon seems good. Conclusion: Short Nebius and go long on $LULU",
       "url": "https://x.com/aleabitoreddit/status/2086157318065168490",
       "tweet_id": "2086157318065168490",
-      "translated": "今天，我正在写一篇关于如何在做空 $NBIS 时进行 DD 的周末指南：首先，你看一下 AI 云的超大规模盈利： > $GOOGL：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $AMZN：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $META：报告收益中可用容量的价格高于预期。现在，是时候看看 Nebius 了：-> $NBIS：到第四季度，ARR 增长数百%，达到 $7-9B。利润不断增长，指导合同电量超过 4GW。 -> 看到 Uber/Waymo 分拆，更加关注 Avride -> 看到 Clickhouse 每个季度都在快速增长。好吧看起来很糟糕！但接下来，你需要对冲吗？ -> 哇！一位$NIKE品牌高管，在过去5年股价下跌75%后，接下来又去$LULU拯救该品牌吗？露露柠檬看起来不错。结论：做空 Nebius，做多 $LULU"
+      "translated": "今天我正在写一篇关于如何在做空 $NBIS 时进行 DD 的周末指南：首先，你看一下 AI 云的超大规模盈利： > $GOOGL：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $AMZN：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $META：报告收益中可用容量的价格高于预期。现在，是时候看看 Nebius 了：-> $NBIS：到第四季度 ARR 增长数百%，达到 $7-9B。利润不断增长，指导合同电量超过 4GW。 -> 看到 Uber/Waymo 分拆，更加关注 Avride -> 看到 Clickhouse 每个季度都在快速增长。好吧看起来很糟糕！但接下来，你需要对冲吗？ -> 哇！一位$NIKE品牌高管，在过去5年股价下跌75%后，接下来又去$LULU拯救该品牌吗？露露柠檬看起来不错。结论：做空 Nebius，做多 $LULU"
+    },
+    {
+      "id": "tweet_qinbafrank_2086426128743616971",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sun, 09 Aug 2026 12:15:27 GMT",
+      "content": "聊聊CRWV和NBIS为何本周走势分化？同是NeoCloud的代表，Crwv和nbis本周走势分化还是很值得关注的：CRWV涨了26%，NBIS本周先涨后跌。这跟两者在过去一年走势差别很大：CRWV一直在大区间波动，NBIS2季度末还创了新高。然后近期CSP整体走势都很强，本周这种分化更值得聊聊的： 1、先聊CRWV 近期业务上重要进展： 1）7月底CoreWeave与美国国防承包商Leidos宣布合作，计划面向美国情报机构和国防部门提供安全、主权化的AI云服务； 2）8月4日宣布进入亚太市场，新增360MW印尼项目； 3）独立投行Piper Sandler首次对CRWV和NBIS覆盖，给了CRWV的目标价幅度比NBIS要高不少。 Piper Sandler的分析师明确认为，虽然两家公司都会受益于AI算力需求，但CRWV在近期成本控制、规模化运营和风险收益比方面更有优势，而NBIS存在更高的近期执行和预测风险。 只能说本周CRWV都是正面消息。 2、再看NBIS 1）NBIS在新泽西州Vineland的300MW数据中心，第一阶段已经获批并在建设中，但第二阶段涉及新的现场发电方案。8月5日举行了长达六小时的规划委员会听证会，但听证会结束后没有立即作出审批决定。 这增加了监管及社区审批风险，本质是交付风险。 2）大空头的做空 Michael Burry在8月6日的Substack文章中表示，他当天做空了两只股票。Business Insider随后确认，其中之一是NBIS，做空价格约为212美元，而且仓位相对另一笔空单“稍大”。 Burry公开披露做空把原本分散存在的资本开支、租赁、折旧和执行风险集中成了一个非常容易传播的空头叙事。市场情绪自然也容易受到影响。 3、作为NwoCloud的代表，CRWV和NBIS都是我重点关注的、两位算力规模都不小、也都很巨头签了大合同、RPO前者900亿，后者300多亿。但CRWV的负债率要比NBIS高很多（91% VS 60%多），所以CRWV波动大，NBIS之前更稳健些。 本周走势的分化，一方面是NBIS的一个数据中心项目进度出现了问题再叠加大空头做空的示范效应。 另一方面，在想也可能是crwv之前走势很弱，市场预期也没那么好。nbis之前强势市场计入了更高的预期、所以稍后风险容易引发担忧。 当然最关键的还是下周两家财报发布，从7月初开始提CSP价值重估，超大CSP的价值重估已经明确、就看本周NeoCloud的财报能不能也支撑这一点。 财报看这几个方面： 容量交付、收入质量、资本结构、单位经济性、新模式验证（都在从单纯的算力提供商向更有价值的中间层进化）。",
+      "url": "https://x.com/qinbafrank/status/2086426128743616971",
+      "tweet_id": "2086426128743616971"
     },
     {
       "id": "tweet_qinbafrank_2086312678960640211",
@@ -109,15 +147,6 @@
       "content": "AAOI的财报应该是近期光互连爆发最有力的证据支撑之一： 1、Q2总营收1.919亿美元、同比+86.4%，环比+27.0%，连续第五个季度创纪录。 其中数据中心收入1.077亿美元，同比+140.4%，环比+32.3%，占总收入56% CATV收入8058万美元，同比+43.8%，环比+20.6%。 Q3指引非常强： 营收2.55亿—2.90亿美元，中值2.725亿美元，环比增长约42%。 非GAAP毛利率29%—30.5%，净利润1010万—2400万美元 按照收入、毛利率和公司预计的每季度7000万—8000万美元非GAAP费用机械推算，Q3非GAAP营业利润大致在 亏损600万美元至盈利1850万美元之间。换句话说，Q3可能跨过营业盈亏平衡点。 2，电话会第一个关键信号：800G从认证期正式进入量产拐点 1）Q2的800G绝对收入仍不大，但增长曲线已明显陡峭 AAOI Q2的800G收入为：1280万美元 占数据中心收入11.9%，同比增长超过10倍，环比增长超过一倍。Q1的800G收入只有460万美元，因此从Q1到Q2实际上增长了约178%。更重要的是，公司预计Q3的800G收入将环比增长接近5倍，意味着Q3 800G收入可能达到 约6000万—6400万美元。 与此同时，400G收入达到4840万美元，占数据中心收入45%，环比增长27.4%，同比增长超过4倍。 这说明当前AAOI400G继续增长并构成收入基本盘，800G在其上进入新一轮S形爬坡。这对整个光模块行业的意义非常重要：AI数据中心光互联需求并非只集中在一个速率代际，而是400G、800G、后续1.6T同时扩张 2）Q4的800G隐含数字极其激进 电话会中，分析师根据管理层口径推算，Q4的800G与1.6T合计收入可能约为 3.30亿美元，CFO回答“方向基本正确”。管理层随后表示，Q4能够承诺的1.6T收入约为7000万—8000万美元。由此反推： Q4 1.6T营收7000万—8000万美元 Q4 800G隐含收入约2.50亿—2.60亿美元。相较Q2的1280万美元，这意味着800G收入在两个季度内可能增长到约20倍。完全是在大规模放量了 3、第二个关键信号：1.6T可插拔模块将在2026Q4开始真正商业化 AAOI给出的1.6T时间表比此前更加明确：首个1.6T产品预计未来2—3周完成最终认证，初步出货将于Q3末开始； 公司手中已有超过2亿美元订单，大部分首批订单预计在Q4交付，少部分延续到2027Q1； Q4能够承诺的1.6T收入约7000万—8000万美元； 管理层称2027Q1的1.6T收入可能比Q4翻倍或更多。 管理层还表示，公司正在接近成为某大型Hyperscaler的第四家1.6T认证供应商。这说明Hyperscaler正在增加1.6T供应商数量，说明客户担心：单一供应商产能不足、关键器件供应受限、地缘政治和制造地风险、新产品良率和交付风险。也印证了美国云厂商巨头正在积极应对潜在的供应链地缘风险 4、第三个关键信号：CPO 1）AAOI自身的CPO高量产窗口主要在2027Q3以后，公司目前只有非常有限的ELSFP外置激光源产品产量，计划2026年下半年开始扩大2027年继续爬坡； 真正高量产的CPO相关产品预计2027Q3后段，当前至少与五家客户合作。 这说明至少对AAOI而言，CPO不是2026年大规模收入来源。 2）CPO不会简单减少光学价值量，反而可能大幅增加高功率激光器产能需求 管理层表示CPO激光器芯片面积可能是现有产品的6倍或更高，下一代DWDM CPO对波长精度要求更高。 因此，为满足CPO需求，相关激光器制造产能可能需要扩大8—10倍，从订购设备到实现高量产需要21—24个月。 这是本次电话会最有产业价值的判断之一。过去市场容易认为： CPO减少可插拔光模块数量，所以光通信价值量会下降。 但AAOI给出的工艺数据说明，真正的变化可能是： 光学价值量从完整的可插拔模块，向更高功率、更大芯片面积、更低良率要求的InP激光器、外置激光源、光引擎和先进封装转移。即使模块数量减少，每个光源对晶圆面积、外延、波长控制、封装和测试的要求都可能大幅提高。 3）基于AAOI的表述：CPO的节奏更可能是： 2026年：800G可插拔模块放量； 2026Q4—2027年：1.6T可插拔模块放量； 2027年下半年以后：CPO外置激光源和相关光引擎开始形成规模； 2028年：CPO相关激光器进入更大规模生产。 5、第四个关键信号：核心矛盾是系统级供应链约束 光互连行业正在从“有没有需求”转向“谁能交货”，短期限制因素已经变成：Inp、DSP、交换机及其内存、自动化组装、最终测试、高速产品良率、产能爬坡。 这类环境通常对拥有关键器件、垂直整合和资本实力的供应商更有利。 近期瓶颈：DSP、TIA、模块组装、测试与良率； 潜在瓶颈：高功率InP激光器、外延、晶圆加工和相关设备 6、第五个关键信号：美国本土制造正在成为真实的采购考量 AAOI管理层称美国制造是客户选择AAOI的重要因素，2027年底超过一半的800G和1.6T产量计划来自得州。 这说明Hyperscaler采购标准正从单纯的价格、性能扩展到：供应链安全、地缘政治风险、交付可控性，导致下游客户都在实施多供应商配置。 整体来说，这份财报说明了产业需求已经得到确认，AAOI也能算是目前800G、1.6T和CPO产业进展验证样本之一，财务质量则需Q3和Q4进一步验证。 可以确认AAOI目前是、并预计将继续是美国本土最大的AI光互连厂商",
       "url": "https://x.com/qinbafrank/status/2086281764356665611",
       "tweet_id": "2086281764356665611"
-    },
-    {
-      "id": "tweet_qinbafrank_2086244990540529894",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sun, 09 Aug 2026 00:15:40 GMT",
-      "content": "才知道智谱创始人唐杰是Kimi创始人杨植麟在清华读本科时的科研导师，杨植麟参与清华特等金答辩也是唐杰作为导师推荐的。月之暗面的另外两位联创张宇韬也接受过唐杰的指导、周昕宇跟唐杰有过科研合作。 不得不说，两支头部国产大模型团队GLM和KIMI，原来核心创始成员均出自同一套科研体系，从早期顶会论文、知识图谱研究到大模型预训练探索，拥有一脉相承的学术根基。",
-      "url": "https://x.com/qinbafrank/status/2086244990540529894",
-      "tweet_id": "2086244990540529894"
     },
     {
       "id": "tweet_xiaomustock_2085959345200591001",
@@ -202,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
-    "nitter_healthy": 9
+    "users_success": 8,
+    "users_failed": 0,
+    "nitter_healthy": 10
   }
 }
