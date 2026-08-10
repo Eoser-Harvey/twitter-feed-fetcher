@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-10T09:25:25.301081+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-10T11:11:49.396380+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2086701644192891249",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 10 Aug 2026 06:30:15 GMT",
-      "content": "Grok Imagine is focused on professional usefulness, fun for consumers and overall ease-of-use",
-      "url": "https://x.com/elonmusk/status/2086701644192891249",
-      "tweet_id": "2086701644192891249",
-      "translated": "Grok Imagine 专注于专业实用性、消费者乐趣以及整体易用性"
-    },
-    {
-      "id": "tweet_elonmusk_2086700243676995651",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 10 Aug 2026 06:24:41 GMT",
-      "content": "Yes",
-      "url": "https://x.com/elonmusk/status/2086700243676995651",
-      "tweet_id": "2086700243676995651",
-      "translated": "是的"
-    },
-    {
-      "id": "tweet_elonmusk_2086678613450227854",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 10 Aug 2026 04:58:44 GMT",
-      "content": "RT by @elonmusk: The hardest part about hiring great leaders for X is that you need someone who can be an outstanding voice on the platform -- but also someone who is exceptional at trench warfare (i.e., sweating the details of the user experience and handling the daily chaos & creativity of bad actors).",
-      "url": "https://x.com/elonmusk/status/2086678613450227854",
-      "tweet_id": "2086678613450227854",
-      "translated": "RT @elonmusk：为 X 招聘优秀领导者最困难的部分是，你需要一个能够在平台上发出杰出声音的人，但同时也需要一个在阵地战中表现出色的人（即，关注用户体验的细节并处理不良行为者的日常混乱和创造力）。"
-    },
     {
       "id": "tweet_cz_binance_2085404921914966044",
       "username": "cz_binance",
@@ -122,6 +92,15 @@
       "translated": "好吧，聊聊，又到了这个月的这个时候了。您最信任的第一只股票是什么？为什么？事实上，我从阅读这些文章中学到了很多东西，所以分享一些很酷的想法。"
     },
     {
+      "id": "tweet_qinbafrank_2086749504129372432",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Mon, 10 Aug 2026 09:40:26 GMT",
+      "content": "从数据中心建设节奏说说为什么光互联现在进入了业绩爆发期？最早是7月下旬提到光互联业绩兑现空间也很好。8月4号还详细写了一篇看好光互连的逻辑、一周过去多光好像成为了共识。除了之之前聊到的逻辑，再从数据中心建设节奏的角度聊聊： 1、云厂商CapEx节奏与数据中心建设时间线 超大云厂商资本开支大规模提速在25年下半年，看看数据中心建设典型节奏： 1）前期（数月到1年+）：选址、许可、土建、厂房、电力基础设施（变电站、变压器、冷却）。 2）中后期（建设后半年至1年多）：机柜/服务器进场、网络布线、组网调试。AI机柜功率密度极高（单机柜几十到上百kW），需要密集光纤和高速互联。 能看出什么来？ 去年下半年开始的大规模数据中心建设在今年二季度现在正好进入了服务器进场，网络布线、组网调试阶段。时间线就是： 1）2025 H2-2026年初土建/电力推进，2）2026年进入服务器密集部署窗口，光模块需求同步或略提前爆发（因供应链长周期需提前锁定）。 2、AI集群越大对互联的要求越高 GPU/ASIC间参数同步、scale-up（机柜内/跨机柜）、scale-out（集群间）、scale-across（多数据中心）都需要大量高速光模块。传统铜缆在距离、带宽、功耗上受限，光成为刚性需求。单个加速器配比光学连接数上升（从约1:3到1:4.5甚至更高），光在总CapEx中的占比提升也很快。 而且整体还在从从400G/800G向1.6T迁移，单模块价值更高；scale-up场景光学渗透提升。未来NPO到CPO也陆续在落地。 简单说这就是数据中心建设的滞后效应的体现： CapEx公告 → 土建/电力（2025）→ 服务器部署（2026）→ 光模块密集消耗。然后AI集群规模从万卡向十万卡级扩展，进一步放大光学需求。 而这两天热议的“多光空存”，放在当下这个时间节点看、“空存”其实已经不具性价比了，毕竟存储板块已经经过了大幅度调整，调整本身就是释放了风险。个人认为现在看存储还是有空间、只是涨幅最暴力的阶段过去了、不那么easy了，走势也不会像上半年那么丝滑了。 如果存储现在是个复杂题、 光互连可能就是当下的这道简单题了。",
+      "url": "https://x.com/qinbafrank/status/2086749504129372432",
+      "tweet_id": "2086749504129372432"
+    },
+    {
       "id": "tweet_qinbafrank_2086691388171968677",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -138,15 +117,6 @@
       "content": "为什么智能体流量增长这么快？今年6月初互联网上Agent流量已经超过了人类流量，Cloudfare说五年后非人类的流量将是人类流量的1000倍。用一个例子就能很好的解释Agent和人类行为的差异： 一个人要买数码相机，可能看 5 个网站；一个 Agent 为了帮你找到最佳相机，可能访问5000个网站。 人类的稀缺资源是时间和注意力，所以人类会偷懒、会依赖品牌、会只看第一页结果、会在少数几个网站之间决策。Agent没有这种限制，它可以无聊地、耐心地、穷尽式地比较大量页面和商品，而且每一次用户意图都可能被放大成成百上千次机器请求。 很多人没意识到这其实会带来互联网商业模式的巨大变革。",
       "url": "https://x.com/qinbafrank/status/2086663734194479460",
       "tweet_id": "2086663734194479460"
-    },
-    {
-      "id": "tweet_qinbafrank_2086628581766312341",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Mon, 10 Aug 2026 01:39:56 GMT",
-      "content": "华尔街日报爆料川普私下向高级助手表示，如果伊朗完全重开霍尔木兹海峡，他愿意在没有核协议的情况下结束对伊战争、并可能宣布胜利，这被视为从最初“让伊朗无条件投降”等强硬要求的明显退让。 川普最初要求伊朗“无条件投降”、彻底解决核问题等。但近几周，他将重点从全面核协议转向优先确保霍尔木兹海峡完全恢复商业通行。他私下向高级助手表示：如果伊朗完全重开海峡（恢复国际航运自由通行），他愿意在没有新核协议的情况下结束战争、宣布胜利，并可能无限期延长现有停火、解除对伊朗港口的海军封锁。这标志着目标大幅缩减。 但上周六伊朗提出迄今最高要价： 要求美国支付数十亿美元（包括战争赔偿）、从地区撤军、结束海军封锁、永久结束战争、解除制裁、释放被冻结资产、停止威胁/侮辱、停止对伊朗地区民兵盟友的军事行动等。伊朗还要求禁止美国军舰通过海峡，并试图对商船收费。暂时这些条件被美方拒绝。 之前聊过伊朗跟阿曼的谈判、阿曼应该是随时跟美国在沟通的，伊朗和阿曼也清楚，关于霍尔木兹海峡的协议最重要还是要美国接受并承认，否则就还没谈完。 现在的问题是川普最终会不会万般不情愿但又无可奈何地接受伊朗对霍尔木兹海峡的事实控制？（接受伊朗对海峡事实控制权，伊朗在上周提出的最高要价上做一个大让步） 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2086628581766312341",
-      "tweet_id": "2086628581766312341"
     },
     {
       "id": "tweet_xiaomustock_2086640068824035640",
@@ -176,6 +146,15 @@
       "tweet_id": "2085819915202949219"
     },
     {
+      "id": "tweet_xingpt_2086754647096860993",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 10 Aug 2026 10:00:52 GMT",
+      "content": "宇树上市在即！机器人泡沫要破了吗？ 从“头”到“脚”看懂机器人，一个视频就够了！ https://youtu.be/qMFwqr-AlP0",
+      "url": "https://x.com/xingpt/status/2086754647096860993",
+      "tweet_id": "2086754647096860993"
+    },
+    {
       "id": "tweet_xingpt_2086683238098198600",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -192,15 +171,6 @@
       "content": "兄弟们，姨夫巾你用过吗",
       "url": "https://x.com/xingpt/status/2085741230743503286",
       "tweet_id": "2085741230743503286"
-    },
-    {
-      "id": "tweet_xingpt_2085405191072100641",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 06 Aug 2026 16:38:37 GMT",
-      "content": "Anthropic ARR增速在放缓，实际上也能想到，现在Fable太贵用不起，codex和国产替代能力也很强！ 根据最新Yipit数据： 2026年6月底：Anthropic ARR约为670亿美金（修正后） 7月12日：约730亿美金 7月底：约800亿美金 也就是说，6月底至7月12日的12天，日均ARR增长额为（730-670）/12=5亿美金。 7月12至7月底的19天，日均ARR增长额为（800-730）/19=3.7亿美金。 7月中下旬，日均增长额收敛了26%。",
-      "url": "https://x.com/xingpt/status/2085405191072100641",
-      "tweet_id": "2085405191072100641"
     },
     {
       "id": "tweet_hibtc37_2085886087889924200",
@@ -231,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
