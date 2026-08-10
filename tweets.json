@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-09T23:33:56.491242+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-10T01:56:38.309400+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2086504649251586538",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 09 Aug 2026 17:27:28 GMT",
-      "content": "RT by @elonmusk: I tried pushing the video to test character consistency with Grok Imagine. I could have kept going for a long time.The consistency is perfect.",
-      "url": "https://x.com/elonmusk/status/2086504649251586538",
-      "tweet_id": "2086504649251586538",
-      "translated": "RT @elonmusk：我尝试推送视频来测试与 Grok Imagine 的角色一致性。我本来可以坚持很长时间。一致性非常完美。"
-    },
-    {
-      "id": "tweet_elonmusk_2086555758989025437",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 09 Aug 2026 20:50:33 GMT",
-      "content": "Believe them. They mean exactly what they say.",
-      "url": "https://x.com/elonmusk/status/2086555758989025437",
-      "tweet_id": "2086555758989025437",
-      "translated": "相信他们。他们的意思正是他们所说的。"
-    },
-    {
-      "id": "tweet_elonmusk_2086439121149423828",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 09 Aug 2026 13:07:05 GMT",
-      "content": "RT by @elonmusk: Grok Build is quickly turning into an all-in-one creation environment It can now also generate images and videos with Grok Imagine directly inside your workflow You can create custom visuals for websites, apps, presentations, marketing campaigns, product pages, social media and pretty much anything else you're building No more jumping between different AI tools just to create the assets you need......even Claude Code doesn't natively have this Build the website, generate the images, create the videos, and then ship it - all from Grok Build",
-      "url": "https://x.com/elonmusk/status/2086439121149423828",
-      "tweet_id": "2086439121149423828",
-      "translated": "RT by @elonmusk：Grok Build 正在迅速转变为一体化的创作环境 现在还可以直接在您的工作流程中使用 Grok Imagine 生成图像和视频 您可以为网站、应用程序、演示文稿、营销活动、产品页面、社交媒体以及您正在构建的几乎任何其他内容创建自定义视觉效果 不再为了创建您需要的资产而在不同的 AI 工具之间跳转......甚至 Claude Code 本身也没有这个功能 构建网站、生成图像、创建视频，然后发货 - 全部来自格罗克构建"
-    },
     {
       "id": "tweet_cz_binance_2085404921914966044",
       "username": "cz_binance",
@@ -70,7 +40,7 @@
       "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
       "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
       "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带入白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -122,6 +92,24 @@
       "translated": "今天，我正在写一篇关于如何在做空 $NBIS 时进行 DD 的周末指南：首先，你看一下 AI 云的超大规模盈利： > $GOOGL：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $AMZN：报告记录了 AI 云需求 + 积压 + 收益的利润增加 > $META：报告收益中可用容量的价格高于预期。现在，是时候看看 Nebius 了：-> $NBIS：到第四季度，ARR 增长数百%，达到 $7-9B。利润不断增长，指导合同电量超过 4GW。 -> 看到 Uber/Waymo 分拆，更加关注 Avride -> 看到 Clickhouse 每个季度都在快速增长。好吧看起来很糟糕！但接下来，你需要对冲吗？ -> 哇！一位$NIKE品牌高管，在过去5年股价下跌75%后，接下来又去$LULU拯救该品牌吗？露露柠檬看起来不错。结论：做空 Nebius，做多 $LULU"
     },
     {
+      "id": "tweet_qinbafrank_2086628581766312341",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Mon, 10 Aug 2026 01:39:56 GMT",
+      "content": "华尔街日报爆料川普私下向高级助手表示，如果伊朗完全重开霍尔木兹海峡，他愿意在没有核协议的情况下结束对伊战争、并可能宣布胜利，这被视为从最初“让伊朗无条件投降”等强硬要求的明显退让。 川普最初要求伊朗“无条件投降”、彻底解决核问题等。但近几周，他将重点从全面核协议转向优先确保霍尔木兹海峡完全恢复商业通行。他私下向高级助手表示：如果伊朗完全重开海峡（恢复国际航运自由通行），他愿意在没有新核协议的情况下结束战争、宣布胜利，并可能无限期延长现有停火、解除对伊朗港口的海军封锁。这标志着目标大幅缩减。 但上周六伊朗提出迄今最高要价： 要求美国支付数十亿美元（包括战争赔偿）、从地区撤军、结束海军封锁、永久结束战争、解除制裁、释放被冻结资产、停止威胁/侮辱、停止对伊朗地区民兵盟友的军事行动等。伊朗还要求禁止美国军舰通过海峡，并试图对商船收费。暂时这些条件被美方拒绝。 之前聊过伊朗跟阿曼的谈判、阿曼应该是随时跟美国在沟通的，伊朗和阿曼也清楚，关于霍尔木兹海峡的协议最重要还是要美国接受并承认，否则就还没谈完。 现在的问题是川普最终会不会万般不情愿但又无可奈何地接受伊朗对霍尔木兹海峡的事实控制？（接受伊朗对海峡事实控制权，伊朗在上周提出的最高要价上做一个大让步） 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2086628581766312341",
+      "tweet_id": "2086628581766312341"
+    },
+    {
+      "id": "tweet_qinbafrank_2086619334647115947",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Mon, 10 Aug 2026 01:03:11 GMT",
+      "content": "现在特别害怕那种用错误的数据来佐证自己斩钉截铁的观点：看到一个说法“韩股去杠杆不彻底，因为韩股融资当下28万亿，最高38，年初16（万亿韩元）”。其实韩股融资数据在韩国金融投资协会 FreeSIS 统计系统上全部公开披露 ，这里https://freesis.kofia.or.kr/stat/FreeSIS.do?parentDivId=MSIS10000000000000&serviceId=STATSCU0100000070 提供每日的韩股未偿还信贷额度数据，最新数据到8月6号。官方数据显示： 8月6日最新韩股未偿还信贷额度是28.8万亿韩元； 今年最高是5月29日，韩股未偿还信贷额度是38.02万亿韩元； 年初1月2日，韩股未偿还信贷额度是27.42万亿韩元。 从官方数据能不能说去杠杆已经完成，但韩股基本上把今年年内从1月初到5月底增加的杠杆融资全部清理掉。不知道所谓年初16万亿韩元融资是从哪里冒出来的。 当然25年1月2日韩股融资余额是15.6万亿韩元。",
+      "url": "https://x.com/qinbafrank/status/2086619334647115947",
+      "tweet_id": "2086619334647115947"
+    },
+    {
       "id": "tweet_qinbafrank_2086443355815428175",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -129,24 +117,6 @@
       "content": "高盛已经持有NBIS的10.5%的股份了么？其实不然。看到很多人在传这张图，根据最新的13G文件高盛持有了10.5%的$NBIS 股份，需要明确一点的是：高盛是一家投行和券商，这应是高盛代表其客户持有的$NBIS的股份，并不是高盛纯粹的自营持股（即完全用高盛自有资金、风险自担的仓位）。如果是高盛自有账户的纯自营仓，通常不会有这种针对“客户账户”的标准免责语言，也不会强调投资顾问（IA）身份和共享权力。 当然好消息是，6月30日高盛披露的13G文件里对$NBIS的持股比例是7.2%，过了一个多月13G文件持股增加到了10.5%。说明高盛的客户们还是很看好$NBIS",
       "url": "https://x.com/qinbafrank/status/2086443355815428175",
       "tweet_id": "2086443355815428175"
-    },
-    {
-      "id": "tweet_qinbafrank_2086426128743616971",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sun, 09 Aug 2026 12:15:27 GMT",
-      "content": "聊聊CRWV和NBIS为何本周走势分化？同是NeoCloud的代表，Crwv和nbis本周走势分化还是很值得关注的：CRWV涨了26%，NBIS本周先涨后跌。这跟两者在过去一年走势差别很大：CRWV一直在大区间波动，NBIS2季度末还创了新高。然后近期CSP整体走势都很强，本周这种分化更值得聊聊的： 1、先聊CRWV 近期业务上重要进展： 1）7月底CoreWeave与美国国防承包商Leidos宣布合作，计划面向美国情报机构和国防部门提供安全、主权化的AI云服务； 2）8月4日宣布进入亚太市场，新增360MW印尼项目； 3）独立投行Piper Sandler首次对CRWV和NBIS覆盖，给了CRWV的目标价幅度比NBIS要高不少。 Piper Sandler的分析师明确认为，虽然两家公司都会受益于AI算力需求，但CRWV在近期成本控制、规模化运营和风险收益比方面更有优势，而NBIS存在更高的近期执行和预测风险。 只能说本周CRWV都是正面消息。 2、再看NBIS 1）NBIS在新泽西州Vineland的300MW数据中心，第一阶段已经获批并在建设中，但第二阶段涉及新的现场发电方案。8月5日举行了长达六小时的规划委员会听证会，但听证会结束后没有立即作出审批决定。 这增加了监管及社区审批风险，本质是交付风险。 2）大空头的做空 Michael Burry在8月6日的Substack文章中表示，他当天做空了两只股票。Business Insider随后确认，其中之一是NBIS，做空价格约为212美元，而且仓位相对另一笔空单“稍大”。 Burry公开披露做空把原本分散存在的资本开支、租赁、折旧和执行风险集中成了一个非常容易传播的空头叙事。市场情绪自然也容易受到影响。 3、作为NwoCloud的代表，CRWV和NBIS都是我重点关注的、两位算力规模都不小、也都很巨头签了大合同、RPO前者900亿，后者300多亿。但CRWV的负债率要比NBIS高很多（91% VS 60%多），所以CRWV波动大，NBIS之前更稳健些。 本周走势的分化，一方面是NBIS的一个数据中心项目进度出现了问题再叠加大空头做空的示范效应。 另一方面，在想也可能是crwv之前走势很弱，市场预期也没那么好。nbis之前强势市场计入了更高的预期、所以稍后风险容易引发担忧。 当然最关键的还是下周两家财报发布，从7月初开始提CSP价值重估，超大CSP的价值重估已经明确、就看本周NeoCloud的财报能不能也支撑这一点。 财报看这几个方面： 容量交付、收入质量、资本结构、单位经济性、新模式验证（都在从单纯的算力提供商向更有价值的中间层进化）。",
-      "url": "https://x.com/qinbafrank/status/2086426128743616971",
-      "tweet_id": "2086426128743616971"
-    },
-    {
-      "id": "tweet_qinbafrank_2086312678960640211",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sun, 09 Aug 2026 04:44:39 GMT",
-      "content": "原来本周Jeff宣布从谷歌离职的时候Hassabis本也要走，但谷歌最高层认为这一消息会导致股价暴跌，谷歌连夜说服了Hassabis把他推上了「DeepMind董事长+Alphabet首席科学家」两个位置。但Jeff的离职消息一出，谷歌还是跌了5%多。纸里包不住火，现在大家都知道Hassabis原来也要走。 1、可能从Hassabis自身角度来说他更愿意成为一个科学家，他进入AI领域，本来就是因为「世界上那些大问题」。他理想中 AGI 的最后阶段是把最优秀的科学家聚到一起，用科学方法，谨慎、精确、严格地理解每一步，再一步步走向 AGI。 但现在大模型或者说巨头在AI领域的竞争，已经越来越激烈，从单点之争升级到系统化的体系战役。 这也是从科学到工程再到商业化的转变 ，从这个可能角度看Hassabis并不是最适合再带领谷歌整个AI打仗的那个人了。 只能说形势比人强 2、前几天聊到DeepMind更深度嵌入谷歌体系，减少“独立实验室”色彩，强化统一指挥。之前DeepMind还是独立性更强，调整后劈柴能更直接的把控，跟谷歌业务融合的可能也更好。 再面临激烈的竞争下，大公司天然倾向首先调整组织架构。“事为先、但人为重”好的组织架构能迸发强大能量。 这也标志着谷歌AI组织从“研究驱动+整合”向“战略AGI导向+强产品执行”的再平衡。 其实是个好事。 3、不仅感慨、时隔一年谷歌再次成为追赶的角色，不过谷歌也不缺后发先至的经验。看报道这次调整、布林的角度也很关键，发挥了重要作用，甚至布林对谷歌AI体系介入也更深了。 其实是好事、商业的归商业、科学的归科学。短期因为Hassabis原来也要走的消息，谷歌股价还要调整。但是如果整个AI业务体系理顺了，Gemini4的发布估计也就快了，还能再打个翻身仗，中长期看又给了大家上车良机。 Meta有一直在追赶的经验， 但谷歌可是有追赶成功的经验",
-      "url": "https://x.com/qinbafrank/status/2086312678960640211",
-      "tweet_id": "2086312678960640211"
     },
     {
       "id": "tweet_xiaomustock_2085959345200591001",
@@ -231,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
