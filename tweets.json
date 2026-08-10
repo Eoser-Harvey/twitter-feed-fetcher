@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-10T11:11:49.396380+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-10T13:12:49.798500+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2086701644192891249",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 10 Aug 2026 06:30:15 GMT",
+      "content": "Grok Imagine is focused on professional usefulness, fun for consumers and overall ease-of-use",
+      "url": "https://x.com/elonmusk/status/2086701644192891249",
+      "tweet_id": "2086701644192891249",
+      "translated": "Grok Imagine 专注于专业实用性、消费者乐趣以及整体易用性"
+    },
+    {
+      "id": "tweet_elonmusk_2086700243676995651",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 10 Aug 2026 06:24:41 GMT",
+      "content": "Yes",
+      "url": "https://x.com/elonmusk/status/2086700243676995651",
+      "tweet_id": "2086700243676995651",
+      "translated": "是的"
+    },
+    {
+      "id": "tweet_elonmusk_2086678613450227854",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 10 Aug 2026 04:58:44 GMT",
+      "content": "RT by @elonmusk: The hardest part about hiring great leaders for X is that you need someone who can be an outstanding voice on the platform -- but also someone who is exceptional at trench warfare (i.e., sweating the details of the user experience and handling the daily chaos & creativity of bad actors).",
+      "url": "https://x.com/elonmusk/status/2086678613450227854",
+      "tweet_id": "2086678613450227854",
+      "translated": "RT @elonmusk：为 X 招聘优秀领导者最困难的部分是，你需要一个能够在平台上发出杰出声音的人，但同时也需要一个在阵地战中表现出色的人（即，关注用户体验的细节并处理不良行为者的日常混乱和创造力）。"
+    },
     {
       "id": "tweet_cz_binance_2085404921914966044",
       "username": "cz_binance",
@@ -119,6 +149,15 @@
       "tweet_id": "2086663734194479460"
     },
     {
+      "id": "tweet_xiaomustock_2086785104333177130",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Mon, 10 Aug 2026 12:01:54 GMT",
+      "content": "电脑就能装的小模型来了， $META 发布了Muse Spark 1.2模型精简版， 参数规模只有300亿，RTX 3090 24GB规格以上的单显卡都能安装这个模型。",
+      "url": "https://x.com/xiaomustock/status/2086785104333177130",
+      "tweet_id": "2086785104333177130"
+    },
+    {
       "id": "tweet_xiaomustock_2086640068824035640",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -137,13 +176,22 @@
       "tweet_id": "2085959345200591001"
     },
     {
-      "id": "tweet_xiaomustock_2085819915202949219",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Fri, 07 Aug 2026 20:06:35 GMT",
-      "content": "gate真是说一套做一套，拖了这么多天gate都不给jc提供之前声称保存的手持视频和后台操作日志。 之前立案前口口声声催用户赶紧立案然后全力配合……恶心呐",
-      "url": "https://x.com/xiaomustock/status/2085819915202949219",
-      "tweet_id": "2085819915202949219"
+      "id": "tweet_xingpt_2086782606717460570",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 10 Aug 2026 11:51:58 GMT",
+      "content": "想一想AI大网红张咋啦有没有build一个牛逼的AI产品？好像就一个ppt skills？ 那么你看她的理由是不是还是哈佛，飞书的Title？她有输出过什么超过AIneng写出来的insights吗？",
+      "url": "https://x.com/xingpt/status/2086782606717460570",
+      "tweet_id": "2086782606717460570"
+    },
+    {
+      "id": "tweet_xingpt_2086778148214202371",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 10 Aug 2026 11:34:15 GMT",
+      "content": "之前刷推是每条都看，后来刷推是只看关注的，再后来是只看列表list的，现在是只看特别提醒的几个人。",
+      "url": "https://x.com/xingpt/status/2086778148214202371",
+      "tweet_id": "2086778148214202371"
     },
     {
       "id": "tweet_xingpt_2086754647096860993",
@@ -153,24 +201,6 @@
       "content": "宇树上市在即！机器人泡沫要破了吗？ 从“头”到“脚”看懂机器人，一个视频就够了！ https://youtu.be/qMFwqr-AlP0",
       "url": "https://x.com/xingpt/status/2086754647096860993",
       "tweet_id": "2086754647096860993"
-    },
-    {
-      "id": "tweet_xingpt_2086683238098198600",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Mon, 10 Aug 2026 05:17:07 GMT",
-      "content": "怎么P小将都开始开收费群了，这什么信号，链上枯了？",
-      "url": "https://x.com/xingpt/status/2086683238098198600",
-      "tweet_id": "2086683238098198600"
-    },
-    {
-      "id": "tweet_xingpt_2085741230743503286",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Fri, 07 Aug 2026 14:53:55 GMT",
-      "content": "兄弟们，姨夫巾你用过吗",
-      "url": "https://x.com/xingpt/status/2085741230743503286",
-      "tweet_id": "2085741230743503286"
     },
     {
       "id": "tweet_hibtc37_2085886087889924200",
@@ -201,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
