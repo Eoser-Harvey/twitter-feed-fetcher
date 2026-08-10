@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-10T20:54:01.968735+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-10T21:44:14.679020+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2086815248103752008",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 10 Aug 2026 14:01:40 GMT",
-      "content": "RT by @elonmusk: Hitler’s socialism wasn’t just an internal economic policy – it was the cause of the war. Socialism was at the origin of the war. Not as a coincidence. As a necessity. The socialist economic model generates contradictions it cannot resolve internally – the calculation problem, the misallocation, the stagnation, the mounting failure. War is the exit. It provides the external enemy that explains the internal failure. It justifies the total mobilization the system always wanted. It consumes the surplus population the economy cannot employ. It redirects the resentment outward. Does this remind you of anything? The evidence is not subtle. The NSDAP program of 1920 reads like a standard socialist manifesto. The economic reality confirmed it – price controls, industrial planning, state allocation of raw materials, entrepreneurs reduced to government functionaries. Private property in name only. Mises called it Zwangswirtschaft – coercive economy. Hayek dedicated a chapter of The Road to Serfdom to the socialist roots of Nazism. Both writing from observation, not retrospect. After 1945 the Soviet victors imposed their version and attached the capitalist label to every rival. Western textbooks followed. The lie became the curriculum. The real divide has never been left versus right. It is collective control versus individual freedom. Once you place National Socialism correctly within the family of collectivisms, the political spectrum becomes legible – and the war becomes explicable. When the system fails — and it always fails — it needs an enemy. The bigger the failure, the bigger the enemy required. Imagine being Poland. Squeezed between two socialist systems, both searching for their enemy. We were it.",
-      "url": "https://x.com/elonmusk/status/2086815248103752008",
-      "tweet_id": "2086815248103752008",
-      "translated": "RT @elonmusk：希特勒的社会主义不仅仅是一项内部经济政策——它是战争的原因。社会主义是战争的起源。并非巧合。作为必需品。社会主义经济模式产生了无法在内部解决的矛盾——计算问题、分配不当、停滞、失败不断增加。战争是出口。它提供了解释内部失败的外部敌人。它证明了系统一直想要的全面动员的合理性。它消耗了经济无法雇用的剩余人口。它将怨恨向外转移。这让你想起什么了吗？证据并不微妙。 1920 年的国家社会发展党纲领读起来就像是一份标准的社会主义宣言。经济现实证实了这一点——价格控制、产业计划、原材料的国家分配、企业家沦为政府官员。私有财产只是名义上的。米塞斯称之为“Zwangswirtschaft”——强制经济。哈耶克在《通往奴役之路》中专门用了一章来探讨纳粹主义的社会主义根源。两者都是根据观察而不是回顾来写作。 1945 年之后，苏联胜利者强行推行了他们的版本，并给每一个对手贴上资本主义的标签。西方教科书紧随其后。谎言成了课程。真正的分歧从来不是左派与右派。这是集体控制与个人自由的对抗。一旦你将国家社会主义正确地置于集体主义大家庭中，政治光谱就变得清晰起来 — — 战争也变得可以解释。当系统失败时——而且总是失败——它需要一个敌人。失败越大，需要的敌人就越大。想象一下是波兰。夹在两个社会主义制度之间，都在寻找自己的敌人。我们就是这样。"
-    },
-    {
-      "id": "tweet_elonmusk_2086831391015051265",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 10 Aug 2026 15:05:49 GMT",
-      "content": "True",
-      "url": "https://x.com/elonmusk/status/2086831391015051265",
-      "tweet_id": "2086831391015051265",
-      "translated": "真的"
-    },
-    {
-      "id": "tweet_elonmusk_2086831252212957647",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 10 Aug 2026 15:05:16 GMT",
-      "content": "Wow",
-      "url": "https://x.com/elonmusk/status/2086831252212957647",
-      "tweet_id": "2086831252212957647",
-      "translated": "哇"
-    },
     {
       "id": "tweet_cz_binance_2085404921914966044",
       "username": "cz_binance",
@@ -231,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
