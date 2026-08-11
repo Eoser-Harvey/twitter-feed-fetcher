@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-11T21:51:58.122039+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-11T22:45:12.119678+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2087148115304272168",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 11 Aug 2026 12:04:22 GMT",
+      "content": "RT by @elonmusk: Around 43% of the German population aged under 5 now has a foreign background.",
+      "url": "https://x.com/elonmusk/status/2087148115304272168",
+      "tweet_id": "2087148115304272168",
+      "translated": "RT @elonmusk：现在大约 43% 的 5 岁以下德国人口有外国背景。"
+    },
+    {
+      "id": "tweet_elonmusk_2087260966660759954",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 11 Aug 2026 19:32:48 GMT",
+      "content": "Moonbase Alpha will be so cool. And we want to make it so that anyone can go to the Moon if they want.",
+      "url": "https://x.com/elonmusk/status/2087260966660759954",
+      "tweet_id": "2087260966660759954",
+      "translated": "阿尔法月球基地将会非常酷。我们希望让任何人只要愿意就可以登上月球。"
+    },
+    {
+      "id": "tweet_elonmusk_2087260449964429796",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 11 Aug 2026 19:30:45 GMT",
+      "content": "RT @Jason: I’m picking commercial flights based on starlink, not total time, route or price This new low cost Japan carrier @ZIPAIRTokyo…",
+      "url": "https://x.com/elonmusk/status/2087260449964429796",
+      "tweet_id": "2087260449964429796",
+      "translated": "RT @Jason：我正在根据星链选择商业航班，而不是总时间、航线或价格这家新的低成本日本航空公司@ZIPAIRTokyo…"
+    },
     {
       "id": "tweet_cz_binance_2085404921914966044",
       "username": "cz_binance",
@@ -201,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
