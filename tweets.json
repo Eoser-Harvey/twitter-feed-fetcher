@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-11T20:47:50.925069+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-11T21:51:58.122039+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2087148115304272168",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 11 Aug 2026 12:04:22 GMT",
-      "content": "RT by @elonmusk: Around 43% of the German population aged under 5 now has a foreign background.",
-      "url": "https://x.com/elonmusk/status/2087148115304272168",
-      "tweet_id": "2087148115304272168",
-      "translated": "RT @elonmusk：现在大约 43% 的 5 岁以下德国人口有外国背景。"
-    },
-    {
-      "id": "tweet_elonmusk_2087260966660759954",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 11 Aug 2026 19:32:48 GMT",
-      "content": "Moonbase Alpha will be so cool. And we want to make it so that anyone can go to the Moon if they want.",
-      "url": "https://x.com/elonmusk/status/2087260966660759954",
-      "tweet_id": "2087260966660759954",
-      "translated": "阿尔法月球基地将会非常酷。我们希望让任何人只要愿意就可以登上月球。"
-    },
-    {
-      "id": "tweet_elonmusk_2087260449964429796",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 11 Aug 2026 19:30:45 GMT",
-      "content": "RT @Jason: I’m picking commercial flights based on starlink, not total time, route or price This new low cost Japan carrier @ZIPAIRTokyo…",
-      "url": "https://x.com/elonmusk/status/2087260449964429796",
-      "tweet_id": "2087260449964429796",
-      "translated": "RT @Jason：我正在根据星链选择商业航班，而不是总时间、航线或价格这家新的低成本日本航空公司@ZIPAIRTokyo…"
-    },
     {
       "id": "tweet_cz_binance_2085404921914966044",
       "username": "cz_binance",
@@ -92,6 +62,26 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2087285356999958663",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 11 Aug 2026 21:09:43 GMT",
+      "content": "Insane earnings today for the AI theme with $CRWV, $SMCI, and $LITE. Coreweave: Absurd ~$104B+ backlog, which doesn't include $25B+ of new customer agreements added in early Q3. Compute demand read through for Neoclouds is enormous (For Nebius, Iren and others) Supermicro: Absurd $65-72B in revenue guidance, adding $60B+ in new orders... AI DC buildout read through is just enormous. Lumentum: $808M -> $1.01B -> $1.25B revenue ramp, with operating margins growing quarter after quarter. Photonics players just keeps printing. TLDR: Every layer of the AI buildout goes brrrrr, and it's showing up in earnings.",
+      "url": "https://x.com/aleabitoreddit/status/2087285356999958663",
+      "tweet_id": "2087285356999958663",
+      "translated": "今天，人工智能主题的 $CRWV、$SMCI 和 $LITE 收益惊人。 Coreweave：荒谬的 ~$104B+ 积压订单，其中不包括第三季度初添加的 $25B+ 新客户协议。 Neoclouds 的计算需求巨大（对于 Nebius、Iren 等） Supermicro：荒谬的 65-72B 美元收入指导，新订单增加 60B+ 美元……AI DC 的扩建规模巨大。 Lumentum：$808M -> $1.01B -> $1.25B 收入增长，营业利润率逐季增长。光子学玩家只是不断地打印。 TLDR：人工智能建设的每一层都进展顺利，并且体现在收益中。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2087280662802026931",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 11 Aug 2026 20:51:04 GMT",
+      "content": "$SMCI 2027 guidance was actually unholy: $65-$72 billion FY 2027 revenue guidance... vs. ~$52.4B expected, a casual +$16.1B above consensus. SMCI logged a massive $60B+ in news order from this earnings. That timeline is also interesting when they announced a plan to co-build $SPCX + xAI DCs \"within a year\" back in June.. But if SMCI sustain 10-15% gross margins off that ~$70B revenue guidance... I think there's a lot of room for rerating given MC is ~$20B (NFA, I have short term positions in SMCI now from this ER). Most important thing is learning about 2027 margins from call today.",
+      "url": "https://x.com/aleabitoreddit/status/2087280662802026931",
+      "tweet_id": "2087280662802026931",
+      "translated": "$SMCI 2027 年指导实际上是不神圣的：2027 财年收入指导为 65-720 亿美元……而预期约为 52.4B 美元，比共识高出约 $16.1B。 SMCI 从该收益中获得了 60B+ 美元的巨额新闻订单。当他们在 6 月份宣布“一年内”共同建设 $SPCX + xAI DC 的计划时，这个时间表也很有趣。但是，如果 SMCI 将毛利率维持在 ~$70B 收入指导的 10-15% ......我认为考虑到 MC 约为 $20B（NFA，我现在从这个 ER 开始在 SMCI 拥有短期头寸），重新评级的空间很大。最重要的是从今天的电话会议中了解 2027 年的利润率。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2087271842696593764",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -100,26 +90,6 @@
       "url": "https://x.com/aleabitoreddit/status/2087271842696593764",
       "tweet_id": "2087271842696593764",
       "translated": "$LITE 收益已出炉，收益非常强劲：收入：$1.01B，Q/Q +24.5%，Y/Y 增长 +109.3%，调整后约为 $984.6M EPS：3.23 美元 vs. ~$2.95 毛利率（非 GAAP）：50.4% / 营业利润率（非 GAAP）36.6% 2027 财年第一季度指导可能更重要：收入：$1.225–1.275B vs. ~$1.16B EPS：4.05–4.35 美元 vs. ~3.63 营业利润率（非 GAAP）为 39.5% - 40.5% 备注：参见：“对超高功率 CPO 激光器的需求不断增加，ELS 模块的初始订单” - 深入阅读其他 CPO 厂商（如 $SIVEF、$COHR 等）。 （也许不是 AAOI，因为他们错过了第一代部署） - “NPO 参与的气息是光学开始渗透到机架内连接的第一个迹象，显着提高了我们的光学 TAM” - 收入预测“比计划提前四分之一以上达到我们的目标模型。”正如预期的那样，收益非常强劲，您的收入来自：$808M -> $1.01B -> $1.25B，而营业利润率不断增加......这只是我的第一印象。最重要的是即将召开的财报电话会议。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2087249406638862506",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 11 Aug 2026 18:46:52 GMT",
-      "content": "Just putting it out there for people that think AAOI is a one year cycle... $AAOI projects their ELSFP capacity for CPO to be 400K/units a month in 2028. 400k * ~$400 ELS ASP (GS assumptions) = + another ~$1.92B 2028 annualized revenue capacity added as a new distinct (>50% gross margin) product line. On top of their existing 2027 projections (eg. ~$5.6B annualized transceiver revenue off $471m/month entering H2). TAM for 1.6T also goes brrr so I'd expect their end of H2 2027 projections to go up as more capacity comes online... For certain optical names, it's one cycle (eg. 1.6T, CPO scale out/up, NPO etc. ), stacked on top of one another... stacked on top of another... with TAM + margins stacking like minions after Anivia uses W in line. Rather than one-and-done off of one year. This is a stark contrast to some other sectors where growth is likely to decelerate after maybe 1 year of triple digit Y/Y revenue growth.",
-      "url": "https://x.com/aleabitoreddit/status/2087249406638862506",
-      "tweet_id": "2087249406638862506",
-      "translated": "只是为那些认为 AAOI 是一年周期的人提供的... $AAOI 预计 2028 年 CPO 的 ELSFP 产能为每月 400K/单位。400k * ~$400 ELS ASP（GS 假设）= + 另一个 ~$1.92B 2028 年化收入产能作为新的独特（>50% 毛利率）产品线添加。除了他们现有的 2027 年预测之外（例如，进入下半年，收发器年收入从 4.71 亿美元/月下降到约 5.6B 美元）。 1.6T 的 TAM 也很不错，所以我预计他们的 2027 年 H2 预测会随着更多容量上线而上升...对于某些光学名称，它是一个周期（例如 1.6T、CPO 横向扩展/向上、NPO 等），堆叠在另一个之上...堆叠在另一个之上...在 Anivia 使用 W 后，TAM + 边距像小兵一样堆叠。而不是一年就完成。这与其他一些行业形成鲜明对比，这些行业在经历了一年三位数的同比收入增长后，增长可能会放缓。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2087030220213870632",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 11 Aug 2026 04:15:54 GMT",
-      "content": "Pinned: Holy... We've reached 1,000,000 followers! It's genuinely incredible that so many people care to read about my ideas around AI chokepoints and bottlenecks. From substrates, lasers, actuators, memory, power to some of the most niche parts of upstream supply chains. I've had a lot of fun sharing free thoughts I've come across along the way and tracking whether they get validated over time. A lot worked out, some haven't, and some are still playing out! But honestly, all of this attention has come as a massive surprise to me this year, especially globally, from Sweden, Japan, Korea, to China. Thank you for all your support! I'll be announcing something soon to celebrate.",
-      "url": "https://x.com/aleabitoreddit/status/2087030220213870632",
-      "tweet_id": "2087030220213870632",
-      "translated": "固定：天哪...我们已经有 1,000,000 名关注者了！这么多人愿意阅读我关于人工智能瓶颈和瓶颈的想法，这确实令人难以置信。从基板、激光器、执行器、存储器、电源到上游供应链的一些最利基的部分。我很高兴分享我一路上遇到的自由想法，并跟踪它们是否随着时间的推移得到验证。很多事情已经解决了，有些还没有，有些仍在进行中！但老实说，今年所有这些关注都让我感到非常惊讶，尤其是在全球范围内，从瑞典、日本、韩国到中国。感谢大家的支持！我很快就会宣布一些事情来庆祝。"
     },
     {
       "id": "tweet_qinbafrank_2087197735896428834",
@@ -231,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
