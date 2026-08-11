@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-11T17:59:23.241935+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-11T19:12:43.003927+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2087235939055591862",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 11 Aug 2026 17:53:21 GMT",
+      "content": "They can’t handle the truth is the real issue here",
+      "url": "https://x.com/elonmusk/status/2087235939055591862",
+      "tweet_id": "2087235939055591862",
+      "translated": "他们无法处理真相才是真正的问题"
+    },
+    {
+      "id": "tweet_elonmusk_2087233507370147920",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 11 Aug 2026 17:43:41 GMT",
+      "content": "We will widen the Grok Bot beta after we fix basic issues with the early beta and release Grok 4.6 later this week",
+      "url": "https://x.com/elonmusk/status/2087233507370147920",
+      "tweet_id": "2087233507370147920",
+      "translated": "在解决早期测试版的基本问题后，我们将扩大 Grok Bot 测试版，并于本周晚些时候发布 Grok 4.6"
+    },
+    {
+      "id": "tweet_elonmusk_2087232895798616122",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 11 Aug 2026 17:41:15 GMT",
+      "content": "What would you most like us to add to or fix about Grok Build?",
+      "url": "https://x.com/elonmusk/status/2087232895798616122",
+      "tweet_id": "2087232895798616122",
+      "translated": "您最希望我们对 Grok Build 添加或修复哪些内容？"
+    },
     {
       "id": "tweet_cz_binance_2085404921914966044",
       "username": "cz_binance",
@@ -20,7 +50,7 @@
       "content": "RT by @cz_binance: Standing in front of the Burj Khalifa again. Goosebumps. Around three years ago I was here talking to a crypto bro based in the UAE. He told me most of his friends use @TrustWallet. I said that was impossible. It lacked this feature, that chain, that polish. He just smiled and said, “That’s what I see people using.” Coming back to the same place, I can only laugh at my own naivety. Trust Wallet is more performant now. The UX is better. We support more chains and features than ever. But that’s not why people stay. They stay because they trust. They trust the brand. They trust self-custody. They trust that the team will do right by them. Features can be copied. Performance can be improved. Trust takes years to build. We’re nine years in. Still early. Still entrusted by millions. What we carry forward isn’t just a product. It’s the trust of the people who chose us. It’s always Day 1. Thank you for your trust.",
       "url": "https://x.com/cz_binance/status/2085402313259463121",
       "tweet_id": "2085402313259463121",
-      "translated": "RT @cz_binance：再次站在哈利法塔前。起鸡皮疙瘩。大约三年前，我在这里与一位阿联酋的加密兄弟交谈。他告诉我他的大多数朋友都使用@TrustWallet。我说那是不可能的。它缺乏这个功能、那个链条、那个抛光。他只是微笑着说：“我看到人们就是这么用的。”回到同一个地方，我只能嘲笑自己的天真。 Trust Wallet 现在性能更高。用户体验更好。我们支持比以往更多的链和功能。但这不是人们留下来的原因。他们留下来是因为他们信任。他们信任这个品牌。他们相信自我保管。他们相信团队会为他们做正确的事。特征是可以复制的。性能可以得到改善。信任需要数年时间才能建立。我们已经九年了。还早。仍然受到数百万人的委托。我们传承的不仅仅是产品。这是人们的信任选择了我们。这总是第一天。感谢您的信任。"
+      "translated": "RT @cz_binance：再次站在哈利法塔前。起鸡皮疙瘩。大约三年前，我在这里与一位阿联酋的加密兄弟交谈。他告诉我他的大多数朋友都使用@TrustWallet。我说那是不可能的。它缺乏这个功能、那个链条、那个抛光。他只是微笑着说：“我看到人们就是这么用的。”回到同一个地方，我只能嘲笑自己的天真。 Trust Wallet 现在性能更高。用户体验更好。我们支持比以往更多的链条和功能。但这不是人们留下来的原因。他们留下来是因为他们信任。他们信任这个品牌。他们相信自我保管。他们相信团队会为他们做正确的事。特征是可以复制的。性能可以得到改善。信任需要数年时间才能建立。我们已经九年了。还早。仍然受到数百万人的委托。我们传承的不仅仅是产品。这是人们的信任选择了我们。这总是第一天。感谢您的信任。"
     },
     {
       "id": "tweet_cz_binance_2085313946106356090",
@@ -62,6 +92,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2087249406638862506",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 11 Aug 2026 18:46:52 GMT",
+      "content": "Just putting it out there for people that think AAOI is a one year cycle... $AAOI projects their ELSFP capacity for CPO to be 400K/units a month in 2028. 400k * ~$400 ELS ASP (GS assumptions) = + another ~$1.92B 2028 annualized revenue capacity added as a new distinct (>50% gross margin) product line. On top of their existing 2027 projections (eg. ~$5.6B annualized transceiver revenue off $471m/month entering H2). TAM for 1.6T also goes brrr so I'd expect their end of H2 2027 projections to go up as more capacity comes online... For certain optical names, it's one cycle (eg. 1.6T, CPO scale out/up, NPO etc. ), stacked on top of one another... stacked on top of another... with TAM + margins stacking like minions after Anivia uses W in line. Rather than one-and-done off of one year. This is a stark contrast to some other sectors where growth is likely to decelerate after maybe 1 year of triple digit Y/Y revenue growth.",
+      "url": "https://x.com/aleabitoreddit/status/2087249406638862506",
+      "tweet_id": "2087249406638862506",
+      "translated": "只是为那些认为 AAOI 是一年周期的人提供的... $AAOI 预计 2028 年 CPO 的 ELSFP 产能为每月 400K/单位。400k * ~$400 ELS ASP（GS 假设）= + 另一个 ~$1.92B 2028 年化收入产能作为新的独特（>50% 毛利率）产品线添加。除了他们现有的 2027 年预测之外（例如，进入下半年，收发器年收入从 4.71 亿美元/月下降到约 5.6B 美元）。 1.6T 的 TAM 也很不错，所以我预计他们的 2027 年 H2 预测会随着更多容量上线而上升...对于某些光学名称，它是一个周期（例如 1.6T、CPO 横向扩展/向上、NPO 等），堆叠在另一个之上...堆叠在另一个之上...在 Anivia 使用 W 后，TAM + 边距像小兵一样堆叠。而不是一年就完成。这与其他一些行业形成鲜明对比，这些行业在经历了一年三位数的同比收入增长后，增长可能会放缓。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2087030220213870632",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -80,16 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2087021031320072235",
       "tweet_id": "2087021031320072235",
       "translated": "我们快到了..."
-    },
-    {
-      "id": "tweet_aleabitoreddit_2087000954742927390",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 11 Aug 2026 02:19:36 GMT",
-      "content": "uhhh... the Unitree IPO is more than 8000 times oversubscribed by retail investors. The demand for pure play humanoid companies is absolutely enormous? I'm personally in the US-based Agility Robotics club (Softbank, $NVDA, $AMZN, Foxconn, etc), at $2.5B premoney via $CCXI. And my take is that Unitree likely opening at $30B+ (from pre-ipo perps), might bring the leading US players some more attention in a week or two. Regardless that's just absurd demand.",
-      "url": "https://x.com/aleabitoreddit/status/2087000954742927390",
-      "tweet_id": "2087000954742927390",
-      "translated": "呃……Unitree IPO 被散户投资者超额认购超过 8000 倍。纯玩人形公司的需求绝对是巨大的？我个人是美国敏捷机器人俱乐部（软银、$NVDA、$AMZN、富士康等）的成员，通过 $CCXI 获得 $2.5B 预付款。我的看法是，Unitree 的开盘价可能为 30B+（来自首次公开募股前的投资者），可能会在一两周内为美国领先企业带来更多关注。不管怎样，这只是荒谬的要求。"
     },
     {
       "id": "tweet_qinbafrank_2087197735896428834",
@@ -201,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
