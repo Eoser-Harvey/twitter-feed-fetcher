@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-08-10T23:37:45.240863+00:00",
+  "fetched_at": "2026-08-11T01:52:29.321989+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2086975888525066354",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 11 Aug 2026 00:40:00 GMT",
+      "content": "This really happened",
+      "url": "https://x.com/elonmusk/status/2086975888525066354",
+      "tweet_id": "2086975888525066354",
+      "translated": "这真的发生了"
+    },
     {
       "id": "tweet_elonmusk_2086941469722722752",
       "username": "elonmusk",
@@ -23,16 +33,6 @@
       "translated": "格洛克ftw"
     },
     {
-      "id": "tweet_elonmusk_2086861141905465488",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 10 Aug 2026 17:04:02 GMT",
-      "content": "RT by @elonmusk: Jensen Huang just told the incredible story of how Elon Musk became NVIDIA’s first customer for its AI supercomputer - when literally nobody else wanted it “When I announced this thing, nobody wanted to buy it. Not one purchase order Except for Elon In 2016, I personally boxed it up and delivered the first one to a tiny room in San Francisco - It was OpenAI\" Elon backed AI when almost nobody else saw where it was going. He invested in its future long before it became obvious",
-      "url": "https://x.com/elonmusk/status/2086861141905465488",
-      "tweet_id": "2086861141905465488",
-      "translated": "@elonmusk 的转发：黄仁勋刚刚讲述了埃隆·马斯克 (Elon Musk) 如何成为 NVIDIA 的第一个 AI 超级计算机客户的令人难以置信的故事 - 当时几乎没有其他人想要它“当我宣布这件事时，没有人愿意购买它。除了埃隆之外，没有任何采购订单。2016 年，我亲自将它装箱并将第一台交付到旧金山的一个小房间 - 这是 OpenAI”埃隆支持人工智能，而几乎没有其他人看到它的发展方向。早在它的未来变得显而易见之前，他就对其未来进行了投资"
-    },
-    {
       "id": "tweet_cz_binance_2085404921914966044",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
@@ -50,7 +50,7 @@
       "content": "RT by @cz_binance: Standing in front of the Burj Khalifa again. Goosebumps. Around three years ago I was here talking to a crypto bro based in the UAE. He told me most of his friends use @TrustWallet. I said that was impossible. It lacked this feature, that chain, that polish. He just smiled and said, “That’s what I see people using.” Coming back to the same place, I can only laugh at my own naivety. Trust Wallet is more performant now. The UX is better. We support more chains and features than ever. But that’s not why people stay. They stay because they trust. They trust the brand. They trust self-custody. They trust that the team will do right by them. Features can be copied. Performance can be improved. Trust takes years to build. We’re nine years in. Still early. Still entrusted by millions. What we carry forward isn’t just a product. It’s the trust of the people who chose us. It’s always Day 1. Thank you for your trust.",
       "url": "https://x.com/cz_binance/status/2085402313259463121",
       "tweet_id": "2085402313259463121",
-      "translated": "RT @cz_binance：再次站在哈利法塔前。起鸡皮疙瘩。大约三年前，我在这里与一位阿联酋的加密兄弟交谈。他告诉我他的大多数朋友都使用@TrustWallet。我说那是不可能的。它缺乏这个功能、那个链条、那个抛光。他只是微笑着说：“我看到人们就是这么用的。”回到同一个地方，我只能嘲笑自己的天真。 Trust Wallet 现在性能更高。用户体验更好。我们支持比以往更多的链条和功能。但这不是人们留下来的原因。他们留下来是因为他们信任。他们信任这个品牌。他们相信自我保管。他们相信团队会为他们做正确的事。特征是可以复制的。性能可以得到改善。信任需要数年时间才能建立。我们已经九年了。还早。仍然受到数百万人的委托。我们传承的不仅仅是产品。这是人们的信任选择了我们。这总是第一天。感谢您的信任。"
+      "translated": "RT @cz_binance：再次站在哈利法塔前。起鸡皮疙瘩。大约三年前，我在这里与一位阿联酋的加密兄弟交谈。他告诉我他的大多数朋友都使用@TrustWallet。我说那是不可能的。它缺乏这个功能、那个链条、那个抛光。他只是微笑着说：“我看到人们就是这么用的。”回到同一个地方，我只能嘲笑自己的天真。 Trust Wallet 现在性能更高。用户体验更好。我们支持比以往更多的链和功能。但这不是人们留下来的原因。他们留下来是因为他们信任。他们信任这个品牌。他们相信自我保管。他们相信团队会为他们做正确的事。特征是可以复制的。性能可以得到改善。信任需要数年时间才能建立。我们已经九年了。还早。仍然受到数百万人的委托。我们传承的不仅仅是产品。这是人们的信任选择了我们。这总是第一天。感谢您的信任。"
     },
     {
       "id": "tweet_cz_binance_2085313946106356090",
@@ -92,6 +92,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2086988264448409739",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 11 Aug 2026 01:29:11 GMT",
+      "content": "Woah, $RIOT announced a $9.1B deal with Anthropic, with a possible contract extending to $16.1B, over 20Y. $AMD also exercised its option to expand its existing deal with Riot. (And they still have another 1 GW campus they have LOI with for a tenant) In terms of timelines, seem like most of the Colo basket have their revenue inflections hit H2 2027? (Eg. Riot Anthropic deal targets Dec 2027 for first 96 MW, AMD full 50 MW - May 2027) It’s cute to see all the former miners like $IREN and co. grow up.",
+      "url": "https://x.com/aleabitoreddit/status/2086988264448409739",
+      "tweet_id": "2086988264448409739",
+      "translated": "哇哦，$RIOT 宣布与 Anthropic 达成一项 $9.1B 的交易，可能的合同期限将延长至 $16.1B，为期 20 年。 $AMD 还行使了扩大与 Riot 现有交易的选择权。 （他们还有另一个 1 GW 园区，他们对租户有意向书）就时间表而言，似乎大多数科罗拉多州的收入拐点都在 2027 年下半年？ （例如，Riot Anthropic 的交易目标是在 2027 年 12 月实现首批 96 MW，AMD 于 2027 年 5 月完成 50 MW）很高兴看到所有像 $IREN 和 co 这样的前矿工。长大。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2086840511164514742",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -112,14 +122,13 @@
       "translated": "现在，市场再次举办激光派对，从 $SIVE、OE Solutions、$LITE、Coherent 到 $AAOI。有一项非常有趣的研究：来自富达和加州大学伯克利分校的研究论文都表明，最好的投资者是那些...... - 据说忘记了他们的账户（富达） - 没有积极交易/过度交易（不频繁交易者的回报率为 18.5%，而 11.4% 则为 11.4%）。不是任何建议，但其中一些轶事可能对零售业总体阅读有所帮助……因为我目睹了内存、光子学或主题波动的大量投降，只是因为零售业没有在急剧复苏时持仓。相信“不过度交易”阵营的人通常也有信念，因为这有助于不过度交易下跌或看到平均成本的机会。"
     },
     {
-      "id": "tweet_aleabitoreddit_2086634510935118161",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 10 Aug 2026 02:03:29 GMT",
-      "content": "Just some near term events: - OCP APAC tomorrow (Ayar, Lightmatter, $AMD, $NVDA) and your CPO players are giving announcements/updates. This should be a catalyst for certain optical players. - Earnings week: with $ASTS, $RKLB reporting today (space), $LITE on Tuesday (photonics), $NBIS in the middle of the week (Neocloud), and more. - Unitree IPO subscriptions opened up today and Listing is expected this month. Should be a potential catalyst for the humanoid + robotics sector if it opens up well eg. $CCXI. Fun week ahead.",
-      "url": "https://x.com/aleabitoreddit/status/2086634510935118161",
-      "tweet_id": "2086634510935118161",
-      "translated": "只是一些近期活动： - 明天的 OCP APAC（Ayar、Lightmatter、$AMD、$NVDA）和您的 CPO 玩家将发布公告/更新。这对于某些光学厂商来说应该是一个催化剂。 - 财报周：今天报告 $ASTS、$RKLB（太空），周二报告 $LITE（光子学），周中报告 $NBIS（Neocloud）等。 - Unitree IPO 认购今天开放，预计本月上市。如果开放良好，应该会成为人形+机器人领域的潜在催化剂。 $CCXI。有趣的一周即将到来。"
+      "id": "tweet_qinbafrank_2086978623379325105",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Tue, 11 Aug 2026 00:50:52 GMT",
+      "content": "昨晚市场走弱主要驱动因素应该是因为霍尔木兹海峡短期内难重新全面开放的担忧。双方互相要赔偿，市场对供应中断的担忧又开始回升，导致油价突破性上涨（不仅站上80美元，并突破了50日移动均线）而美债收益率几乎是在“逐点跟随”油价上涨，市场自然是进一步承压。 上周油价曾因伊朗与阿曼接近就新航道达成协议而大跌超7%，市场一度乐观。但周末至周一： 1）伊朗重申强硬条件：美国必须结束海军封锁、解除制裁、赔偿战争损失（包括数十亿美元级别的补偿）、撤军等，才同意海峡重新自由通航。伊朗称与阿曼的协议“接近最终阶段”，但重新开放仍取决于美方让步。这被描述为伊朗提出的“最高要价”。 2）川普则反过来要求伊朗赔偿“过去50年杀害和重伤的人”（包括平民抗议者和美军相关伤亡）。 同时川普明确倾向于不升级军事行动，不愿重启全面空袭，转而采用“观望”策略，让制裁+封锁继续施加经济痛苦，期待伊朗最终屈服 这两点让市场对于博弈的持续性担忧在增加，就是海峡没那么快重开。 经济施压确也是川普当前更现实的选择（军事升级风险高、效果有限），伊朗经济承压，但要说让伊朗“快速屈服”短期内估计概率不高。更可能是持续僵持，直到一方在国内或外部压力下让步，或达成某种有限妥协。 最后就是围绕着伊朗的最高要价里的条款做博弈，哪些能接受，哪些可以让步。但最大的问题在于时间节奏路径又变得不清晰了。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2086978623379325105",
+      "tweet_id": "2086978623379325105"
     },
     {
       "id": "tweet_qinbafrank_2086808140067348912",
@@ -138,15 +147,6 @@
       "content": "Jeff Dean的创业BP应该史上最豪华也是最简单的BP，只有三页回答三个问题，Over！“我们创造做什么？我们管过多大的团队？我们的技术影响力有多大？”然后VC说“被选中投了Jeff新公司，真的非常荣幸！” 他其实可以更简单，就一页写上“Google Me”完事",
       "url": "https://x.com/qinbafrank/status/2086804960088642017",
       "tweet_id": "2086804960088642017"
-    },
-    {
-      "id": "tweet_qinbafrank_2086749504129372432",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Mon, 10 Aug 2026 09:40:26 GMT",
-      "content": "从数据中心建设节奏说说为什么光互联现在进入了业绩爆发期？最早是7月下旬提到光互联业绩兑现空间也很好。8月4号还详细写了一篇看好光互连的逻辑、一周过去多光好像成为了共识。除了之之前聊到的逻辑，再从数据中心建设节奏的角度聊聊： 1、云厂商CapEx节奏与数据中心建设时间线 超大云厂商资本开支大规模提速在25年下半年，看看数据中心建设典型节奏： 1）前期（数月到1年+）：选址、许可、土建、厂房、电力基础设施（变电站、变压器、冷却）。 2）中后期（建设后半年至1年多）：机柜/服务器进场、网络布线、组网调试。AI机柜功率密度极高（单机柜几十到上百kW），需要密集光纤和高速互联。 能看出什么来？ 去年下半年开始的大规模数据中心建设在今年二季度现在正好进入了服务器进场，网络布线、组网调试阶段。时间线就是： 1）2025 H2-2026年初土建/电力推进，2）2026年进入服务器密集部署窗口，光模块需求同步或略提前爆发（因供应链长周期需提前锁定）。 2、AI集群越大对互联的要求越高 GPU/ASIC间参数同步、scale-up（机柜内/跨机柜）、scale-out（集群间）、scale-across（多数据中心）都需要大量高速光模块。传统铜缆在距离、带宽、功耗上受限，光成为刚性需求。单个加速器配比光学连接数上升（从约1:3到1:4.5甚至更高），光在总CapEx中的占比提升也很快。 而且整体还在从从400G/800G向1.6T迁移，单模块价值更高；scale-up场景光学渗透提升。未来NPO到CPO也陆续在落地。 简单说这就是数据中心建设的滞后效应的体现： CapEx公告 → 土建/电力（2025）→ 服务器部署（2026）→ 光模块密集消耗。然后AI集群规模从万卡向十万卡级扩展，进一步放大光学需求。 而这两天热议的“多光空存”，放在当下这个时间节点看、“空存”其实已经不具性价比了，毕竟存储板块已经经过了大幅度调整，调整本身就是释放了风险。个人认为现在看存储还是有空间、只是涨幅最暴力的阶段过去了、不那么easy了，走势也不会像上半年那么丝滑了。 如果存储现在是个复杂题、 光互连可能就是当下的这道简单题了。",
-      "url": "https://x.com/qinbafrank/status/2086749504129372432",
-      "tweet_id": "2086749504129372432"
     },
     {
       "id": "tweet_xiaomustock_2086785104333177130",
