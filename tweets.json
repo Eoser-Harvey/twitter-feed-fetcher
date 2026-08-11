@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-11T15:00:37.293070+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-11T16:08:04.846386+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2086901619346792543",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 10 Aug 2026 19:44:53 GMT",
-      "content": "RT by @elonmusk: More texts reveal that Biden era US Surgeon General Vivek Murthy responded to Fauci’s concern about the COVID vaccine in pregnant women by adding “I’ve been hearing concern about the mRNA causing mutations in the developing fetus as well.” None of these concerns were ever made public.",
-      "url": "https://x.com/elonmusk/status/2086901619346792543",
-      "tweet_id": "2086901619346792543",
-      "translated": "RT @elonmusk：更多文本显示，拜登时代的美国卫生局局长维韦克·穆尔蒂 (Vivek Murthy) 在回应福奇对孕妇使用新冠疫苗的担忧时补充道，“我也听到了对 mRNA 导致发育中胎儿突变的担忧。”这些担忧都没有被公开。"
-    },
-    {
-      "id": "tweet_elonmusk_2087151014587826414",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 11 Aug 2026 12:15:53 GMT",
-      "content": "RT by @elonmusk: Grok can now turn your daily news research into a voice memo you can just listen to Ask it to research everything important from the last 24 hours, summarize the major events, and package it into an audio briefing So instead of reading through dozens of stories, you can just press play and catch up on everything in a few minutes With different voices available, it basically becomes your own personalized daily news show",
-      "url": "https://x.com/elonmusk/status/2087151014587826414",
-      "tweet_id": "2087151014587826414",
-      "translated": "RT by @elonmusk：Grok 现在可以将您的每日新闻研究变成语音备忘录，您只需聆听即可要求它研究过去 24 小时内的所有重要事件，总结重大事件，并将其打包成音频简报因此，您无需阅读数十个故事，只需按播放键，几分钟内即可了解所有内容，提供不同的声音，它基本上成为您自己的个性化每日新闻节目"
-    },
-    {
-      "id": "tweet_elonmusk_2086924547886850353",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 10 Aug 2026 21:16:00 GMT",
-      "content": "RT by @elonmusk: 🚨 JUST NOW: Anthony Fauci's successor, NIH Director Jay Bhattacharya, BLASTS Fauci for COVERING UP the alleged 82% MISCARRIAGE RATE for pregnant women taking the COVID vaccine \"Tony Fauci was OUT OF HIS LANE, and used that power to tell America one thing when he really thought another.\" \"I'm glad his words now can be heard by the American people... it's SHOCKING to me that he was sharing private thoughts and that, when he was out in public—and he was out in the public A LOT—he didn't share those private thoughts with the American public.\" \"I mean, and Tony Fauci was MAJOR figure in trying to get those COVID shots past the finish line. He owed the American public some transparency.\"",
-      "url": "https://x.com/elonmusk/status/2086924547886850353",
-      "tweet_id": "2086924547886850353",
-      "translated": "RT @elonmusk：🚨 就在此时：安东尼·福奇的继任者、美国国立卫生研究院院长杰伊·巴塔查亚 (Jay Bhattacharya) 猛烈抨击福奇掩盖了所谓的 82% 孕妇接种新冠疫苗的流产率，“托尼·福奇超出了他的轨道，他利用这种权力告诉美国一件事，而他实际上却在想另一件事。” “我很高兴他的话现在可以被美国人民听到……令我震惊的是，他在公开场合分享私人想法，而当他公开露面时——他经常公开露面——他没有与美国公众分享这些私人想法。” “我的意思是，托尼·福奇是试图让这些新冠病毒疫苗冲过终点线的主要人物。他欠美国公众一定的透明度。”"
-    },
     {
       "id": "tweet_cz_binance_2085404921914966044",
       "username": "cz_binance",
@@ -122,6 +92,15 @@
       "translated": "呃……Unitree IPO 被散户投资者超额认购超过 8000 倍。纯玩人形公司的需求绝对是巨大的？我个人是美国敏捷机器人俱乐部（软银、$NVDA、$AMZN、富士康等）的成员，通过 $CCXI 获得 $2.5B 预付款。我的看法是，Unitree 的开盘价可能为 30B+（来自首次公开募股前的投资者），可能会在一两周内为美国领先企业带来更多关注。不管怎样，这只是荒谬的要求。"
     },
     {
+      "id": "tweet_qinbafrank_2087197735896428834",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Tue, 11 Aug 2026 15:21:33 GMT",
+      "content": "Manus正式宣布拟恢复独立运营，为遵守特定司法辖区的监管要求Manus需要删除部分用户在2025年12月29日当天及之后（Meta收购期间）产生的数据。4月份发改委的处罚决定出来后，很多人说这还怎么能恢复独立运营，没想到过了4个月真的恢复了。",
+      "url": "https://x.com/qinbafrank/status/2087197735896428834",
+      "tweet_id": "2087197735896428834"
+    },
+    {
       "id": "tweet_qinbafrank_2087182111832998287",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -138,15 +117,6 @@
       "content": "看到KiiChain这次公开预售开了不到72小时，就已经冲过100万美元，现在已经到130万美金触发按比例分配。这种热度说明市场还是有人关注它，真正让人愿意参与的应该是它押的场景很具体：面向新兴市场的链上外汇、稳定币支付、RWA结算和跨境资金流动。 KiiChain把自己定位成稳定币和RWA的链上外汇结算层，目标很直接：把外汇兑换、跨境支付、出入金、去中心化交易、链上换汇、本地资产结算，全部塞进一个能全天候跑的链上基础设施里。它直接就是从新兴市场真实的外汇、支付和流动性痛点切入，专门做金融结算这块。 拉美和其他新兴市场的问题也很明显： 银行营业时间卡得死、跨境结算慢、外汇点差隐性成本高、本地流动性又碎成一地。 KiiChain想做的就是24/7不停的链上外汇和支付结算层，这一点其实是最容易讲清楚的差异。 核心能力也围绕这个来：混合撮合引擎、本地稳定币和美元稳定币之间的流动性、法币出入金、KYC/AML、API接入，再加上给机构和开发者用的支付结算基础设施。 现在看KiiChain上已经有多款成熟的应用产品： 1）KiiChain Pay已经能覆盖法币出入金、链上换汇、去中心化交易和API； 2）KIIEX 是从OTC外汇业务演化过来的，测试网和主网阶段已经有交易数据和企业客户在跑。 技术上基于Cosmos SDK和CometBFT，PoS网络，同时支持EVM、IBC和RWA Protocol。简单说就是EVM开发者能直接上手，也能接上Cosmos和IBC的跨链生态。 这次预售超额，可以看成市场对“链上外汇+稳定币结算”这条叙事的关注度。像KiiChain这种场景切得比较准的L1项目，才会在预售阶段就拉出真实需求。也说明RWA、PayFi、稳定币支付的板块开始升温了。",
       "url": "https://x.com/qinbafrank/status/2087133796680479093",
       "tweet_id": "2087133796680479093"
-    },
-    {
-      "id": "tweet_qinbafrank_2087147338750193693",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Tue, 11 Aug 2026 12:01:17 GMT",
-      "content": "R to @qinbafrank: 本次预售到今晚10点结束，当前超募阶段依然可以参与，最终按比例分配。入场链接： https://sale.kiichain.io/sale?state=live",
-      "url": "https://x.com/qinbafrank/status/2087147338750193693",
-      "tweet_id": "2087147338750193693"
     },
     {
       "id": "tweet_xiaomustock_2086991960590725546",
@@ -176,6 +146,15 @@
       "tweet_id": "2086640068824035640"
     },
     {
+      "id": "tweet_xingpt_2087199055407677830",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Tue, 11 Aug 2026 15:26:47 GMT",
+      "content": "老黄巧施连环计，AI加速金融化 英伟达宣布联合六家投资机构，撬动最高5000亿美元资金建设AI工厂。很多人看到这个数字，第一反应是“黄仁勋也没钱了，需要融资5000亿美元”。这个理解并不准确。 5000亿美元代表未来潜在的投资能力，资金主要来自大型金融机构，每个AI项目都要单独审核。目前并没有5000亿美元已经到账，英伟达也不需要自己承担全部资金。它可能为部分项目提供最高约25%的剩余支持，例如算力卖不出去时，由英伟达按照约定价格租用GPU。 这套结构最关键的地方，可以概括为三点。 第一，英伟达找到了继续扩大GPU需求的新资金来源。 微软、谷歌、亚马逊等大型科技公司已经投入巨额资本建设数据中心，自由现金流受到明显挤压。如果AI投资继续依赖几家云厂商自己的资产负债表，资本开支迟早会遇到上限。英伟达现在把主权资本、私募基金和金融机构拉进来，相当于给AI基础设施打开了一条新的资金通道。 第二，英伟达卖完GPU以后，还可以继续从GPU身上赚钱。 过去，英伟达卖出一颗GPU，主要确认一次设备收入。新模式下，英伟达通过提供技术支持和部分兜底，可以分享AI工厂未来数年的算力租赁收入。 摩根士丹利测算，1GW的GB300算力集群大约需要41万颗GPU，每颗GPU每小时的盈亏平衡价格约为2.12美元。如果市场租赁价格达到13美元，英伟达对超过盈亏平衡线的收入抽取35%，每1GW项目每年可以贡献约103亿美元收入。假设此类项目达到5GW，可能将英伟达2029财年的每股收益提高约9.8%。 由于这部分收入来自运营分成，英伟达不需要再生产一批GPU，增量毛利率可能接近100%。这才是摩根士丹利真正看好这项计划的原因：英伟达正在从卖设备，走向“卖设备、组织融资、分享运营利润”的新模式。 第三，AI产业的风险开始从科技行业传向金融系统。 这套模式能够继续推动GPU销售，但也意味着越来越多AI数据中心将依靠杠杆建设。项目能否还钱，取决于算力需求、GPU利用率和租赁价格。只要Token需求持续增长、GPU保持短缺，整个模式就可以运转。 真正的危险会出现在三个条件同时恶化的时候：GPU供给过剩、租赁价格下降、算力利用率不足。届时，AI工厂的现金流无法覆盖债务，GPU剩余价值下降，英伟达还可能被迫履行租赁兜底义务，风险将沿着“算力运营商、金融机构、英伟达”这条链条逐步传导。 所以，现在谈“AI次贷危机”仍然太早。5000亿美元尚未真正部署，英伟达目前披露的租赁担保风险只有约35亿美元，也没有出现类似次贷时期的大规模证券化和层层转售。但最值得警惕的变化已经出现：AI竞争正在从技术竞赛升级为资本和信用扩张。 短期来看，这项计划可以继续推高GPU需求，并为英伟达创造一项利润率极高的新收入来源；长期来看，英伟达未来赚得越多，也可能与整个AI信用周期绑定得越深。",
+      "url": "https://x.com/xingpt/status/2087199055407677830",
+      "tweet_id": "2087199055407677830"
+    },
+    {
       "id": "tweet_xingpt_2087103635507601435",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -192,15 +171,6 @@
       "content": "Citadel Securities 的Scott Rubner上周发布了一个重要的报告：《August: After the Reset》，他在报告中说此前市场最大的风险来自过度拥挤、杠杆偏高和资金集中，而 7 月已经完成了一轮较充分的“技术性重置”。市场短期可能依然存在波动，但中期牛市结构并没有被破坏，接下来市场的驱动力会逐渐从仓位和资金流重新转向盈利和基本面。 首先发生变化的是散户行为。5 月和 6 月，美国散户交易活跃度处于极高水平，AI、半导体、存储和软件成为最拥挤的方向。进入 7 月以后，散户开始明显降低风险，科技股甚至出现连续多日净卖出，半导体和存储成为抛售最集中的领域。更重要的是，过去散户典型的“逢跌买入”行为开始改变，部分股票即使反弹也继续遭到卖出。这说明前期积累的大量浮动筹码正在被主动清理。 第二个变化是杠杆下降。报告观察到，从 6 月高点以来，杠杆 ETF 总资产规模减少超过 600 亿美元，其中科技类产品下降约 40%，半导体类下降接近 55%。同时，半导体公司在标普 500 中的权重从接近 20% 回落至约 16%，板块内部已经经历了非常明显的估值和仓位压缩。融资市场的紧张程度也有所缓解，反映投资者对于高杠杆交易的需求已经明显降温。 Citadel 还特别强调了一个当前市场的特殊现象：个股和行业波动很大，但指数波动相对有限。过去 SOX 半导体指数大跌时，标普通常同步下跌，但 2026 年以来，半导体的剧烈调整越来越具有局部性，其他行业能够起到缓冲作用。也就是说，指数表面看起来平静，内部实际上已经完成了相当剧烈的轮动和去杠杆。这种分化意味着市场广度正在改善，风险不再高度集中于少数科技龙头。 真正支撑 Citadel 中期看多判断的还是基本面。二季度财报季中，标普 500 企业盈利预期持续上修，说明此前市场虽然已经给予较高预期，但企业盈利仍然能够超越市场判断。与此同时，科技股经过调整以后，未来 12 个月估值明显下降，报告认为信息科技板块的估值已经接近过去一年较低水平。盈利上修和估值压缩同时发生，使得当前市场的风险收益结构较几个月前更加健康。 此外，随着财报季逐渐结束，越来越多上市公司将重新进入股票回购窗口。7 月很多公司处于回购静默期，进入 8 月以后，这部分结构性买盘会重新出现。因此，市场面对的是一个相对有利的组合：散户减仓、杠杆下降、拥挤度缓解，同时盈利继续增长，企业回购重新启动。 Citadel 因此认为，7 月没有终结牛市，而是清除了此前过度拥挤的仓位。未来市场可能较少出现依靠杠杆和情绪推动的快速上涨，更可能进入低波动、持续轮动、指数缓慢上行的阶段。对投资者而言，接下来更重要的问题会从“资金下一步流向哪里”重新变成“哪些公司的盈利能够真正兑现”。",
       "url": "https://x.com/xingpt/status/2087045397235822960",
       "tweet_id": "2087045397235822960"
-    },
-    {
-      "id": "tweet_xingpt_2087029976566771870",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Tue, 11 Aug 2026 04:14:56 GMT",
-      "content": "Rocketlab Q2 财报出了，虽然股价跌了，但是比我预想中其实要好，我会继续持有，理由放在会员频道了： https://www.patreon.com/xingpt/posts/rocketlab-q2-cai-166351113?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
-      "url": "https://x.com/xingpt/status/2087029976566771870",
-      "tweet_id": "2087029976566771870"
     },
     {
       "id": "tweet_hibtc37_2085886087889924200",
@@ -231,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
