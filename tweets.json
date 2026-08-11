@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-11T01:52:29.321989+00:00",
+  "fetched_at": "2026-08-11T03:47:20.463069+00:00",
   "total": 24,
   "tweets": [
     {
@@ -50,7 +50,7 @@
       "content": "RT by @cz_binance: Standing in front of the Burj Khalifa again. Goosebumps. Around three years ago I was here talking to a crypto bro based in the UAE. He told me most of his friends use @TrustWallet. I said that was impossible. It lacked this feature, that chain, that polish. He just smiled and said, “That’s what I see people using.” Coming back to the same place, I can only laugh at my own naivety. Trust Wallet is more performant now. The UX is better. We support more chains and features than ever. But that’s not why people stay. They stay because they trust. They trust the brand. They trust self-custody. They trust that the team will do right by them. Features can be copied. Performance can be improved. Trust takes years to build. We’re nine years in. Still early. Still entrusted by millions. What we carry forward isn’t just a product. It’s the trust of the people who chose us. It’s always Day 1. Thank you for your trust.",
       "url": "https://x.com/cz_binance/status/2085402313259463121",
       "tweet_id": "2085402313259463121",
-      "translated": "RT @cz_binance：再次站在哈利法塔前。起鸡皮疙瘩。大约三年前，我在这里与一位阿联酋的加密兄弟交谈。他告诉我他的大多数朋友都使用@TrustWallet。我说那是不可能的。它缺乏这个功能、那个链条、那个抛光。他只是微笑着说：“我看到人们就是这么用的。”回到同一个地方，我只能嘲笑自己的天真。 Trust Wallet 现在性能更高。用户体验更好。我们支持比以往更多的链和功能。但这不是人们留下来的原因。他们留下来是因为他们信任。他们信任这个品牌。他们相信自我保管。他们相信团队会为他们做正确的事。特征是可以复制的。性能可以得到改善。信任需要数年时间才能建立。我们已经九年了。还早。仍然受到数百万人的委托。我们传承的不仅仅是产品。这是人们的信任选择了我们。这总是第一天。感谢您的信任。"
+      "translated": "RT @cz_binance：再次站在哈利法塔前。起鸡皮疙瘩。大约三年前，我在这里与一位阿联酋的加密兄弟交谈。他告诉我他的大多数朋友都使用@TrustWallet。我说那是不可能的。它缺乏这个功能、那个链条、那个抛光。他只是微笑着说：“我看到人们就是这么用的。”回到同一个地方，我只能嘲笑自己的天真。 Trust Wallet 现在性能更高。用户体验更好。我们支持比以往更多的链条和功能。但这不是人们留下来的原因。他们留下来是因为他们信任。他们信任这个品牌。他们相信自我保管。他们相信团队会为他们做正确的事。特征是可以复制的。性能可以得到改善。信任需要数年时间才能建立。我们已经九年了。还早。仍然受到数百万人的委托。我们传承的不仅仅是产品。这是人们的信任选择了我们。这总是第一天。感谢您的信任。"
     },
     {
       "id": "tweet_cz_binance_2085313946106356090",
@@ -92,6 +92,26 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2087021031320072235",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 11 Aug 2026 03:39:23 GMT",
+      "content": "We're almost there...",
+      "url": "https://x.com/aleabitoreddit/status/2087021031320072235",
+      "tweet_id": "2087021031320072235",
+      "translated": "我们快到了..."
+    },
+    {
+      "id": "tweet_aleabitoreddit_2087000954742927390",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 11 Aug 2026 02:19:36 GMT",
+      "content": "uhhh... the Unitree IPO is more than 8000 times oversubscribed by retail investors. The demand for pure play humanoid companies is absolutely enormous? I'm personally in the US-based Agility Robotics club (Softbank, $NVDA, $AMZN, Foxconn, etc), at $2.5B premoney via $CCXI. And my take is that Unitree likely opening at $30B+ (from pre-ipo perps), might bring the leading US players some more attention in a week or two. Regardless that's just absurd demand.",
+      "url": "https://x.com/aleabitoreddit/status/2087000954742927390",
+      "tweet_id": "2087000954742927390",
+      "translated": "呃……Unitree IPO 被散户投资者超额认购超过 8000 倍。纯玩人形公司的需求绝对是巨大的？我个人是美国敏捷机器人俱乐部（软银、$NVDA、$AMZN、富士康等）的成员，通过 $CCXI 获得 $2.5B 预付款。我的看法是，Unitree 的开盘价可能为 30B+（来自首次公开募股前的投资者），可能会在一两周内为美国领先企业带来更多关注。不管怎样，这只是荒谬的要求。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2086988264448409739",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -102,24 +122,22 @@
       "translated": "哇哦，$RIOT 宣布与 Anthropic 达成一项 $9.1B 的交易，可能的合同期限将延长至 $16.1B，为期 20 年。 $AMD 还行使了扩大与 Riot 现有交易的选择权。 （他们还有另一个 1 GW 园区，他们对租户有意向书）就时间表而言，似乎大多数科罗拉多州的收入拐点都在 2027 年下半年？ （例如，Riot Anthropic 的交易目标是在 2027 年 12 月实现首批 96 MW，AMD 于 2027 年 5 月完成 50 MW）很高兴看到所有像 $IREN 和 co 这样的前矿工。长大。"
     },
     {
-      "id": "tweet_aleabitoreddit_2086840511164514742",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 10 Aug 2026 15:42:04 GMT",
-      "content": "Be Barrons: - Wants to write about optical supply supply chains like $AAOI - Hiring DPT: who needs engineers to write about this something this simple? Let’s find underpaid political philosophy backgrounds. - proceeds to find a new hire from nonprofit communication consulting - first day on job: gets paid to model revenue ramp/margins projections, CW laser bottlenecks, internal capacity - New hire: “I don’t understand this sht”, “looks like a memestock” Barrons: “Memestock? looks like our next article, I don’t understand either”.",
-      "url": "https://x.com/aleabitoreddit/status/2086840511164514742",
-      "tweet_id": "2086840511164514742",
-      "translated": "Be Barrons： - 想写有关 $AAOI 等光学供应链的文章 - 雇用 DPT：谁需要工程师写这么简单的东西？让我们找到报酬过低的政治哲学背景。 - 继续从非营利通信咨询公司寻找新员工 - 上班第一天：获得报酬以模型收入增长/利润预测、CW 激光瓶颈、内部能力 - 新员工：“我不明白这个狗屎”，“看起来像 memestock” Barrons：“Memestock？看起来像我们的下一篇文章，我也不明白”。"
+      "id": "tweet_qinbafrank_2087017454484828631",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Tue, 11 Aug 2026 03:25:10 GMT",
+      "content": "怎么看RKLB今天发布的二季度财报？简单说就是当季经营非常强，但边际信息偏弱。详细聊聊： 1、RKLB处于历史最强阶段。，Q2营收创纪录达到2.341亿美元，同比增长62%；积压订单达到23.56亿美元，同比增长137%；GAAP毛利率、非GAAP毛利率和调整后EBITDA均明显好于公司此前指引。Space Systems已经贡献81%的收入，Rocket Lab事实上早已不再是一家单纯的小火箭发射公司； 这里要重点说下，发射业务同比降低收入确认的问题。但单位经济性反而明显改善，公司披露的单次发射平均收入由790万美元升至910万美元，单次发射平均成本由500万美元下降至440万美元。单次发射成本降低，单次发射收入则大幅提升。 2、Q2及季后，RKLB新增超过4.37亿美元发射合同，新增26次发射，使发射积压订单达到90次以上。新增订单包括NASA三次Electron、iQPS三次Electron、两次保密HASTE任务，以及美国太空军最高2.66亿美元、最多18次亚轨道任务的合同。 也需要注意，之前新闻稿中的4.37亿美元、3.97亿美元Flatellite合同和2.66亿美元HASTE合同均包含部分尚未行使的期权；而10-Q披露的23.56亿美元正式backlog排除了未行使客户期权。 3、Q3指引暴露了收入增长质量问题。 Q3营收中值仍将环比增长约10%，但GAAP毛利率预计从36.1%骤降至29%—31%，低于市场约37.6%的预期；调整后EBITDA亏损也将从880万美元重新扩大至1700万—2300万美元。其根源不是需求不足，而是低毛利卫星平台项目、Mynaric整合以及Neutron Flight 1支出共同上升； 4、RKLB长期把太空价值链分为三层： 1）进入太空——发射； 2）在太空中工作的硬件——卫星和组件； 3）从太空向地面提供服务——通信、数据、定位和应用。 RKLB已经拥有前两层，Iridium提供第三层。Iridium拥有66颗在轨卫星、超过250万用户和超过8.7亿美元年度收入，使Rocket Lab能够直接获得全球卫星通信网络、稀缺L-band频谱和经验证的订阅型收入。 而且Iridium本身产生较强自由现金流，收购完成整合后能重置RKLB的现金流模型 5、Neutron中子星没有被公司正式宣布延期，但时间表已经明显软化。 一季度的表述还是“今年晚些时候首飞”，本季度变成“Q4交付发射台”，Peter Beck承认“年底发射窗口正在收窄”。基于这些信息，中子星27年Q1首飞已经变成了基准情景，年底前能首飞则变成了超预期的乐观情景了； 简单说RKLB这份财报，产业地位继续上升，现有业务继续变强。但市场对中子星的预期还是很高的，首飞时间推后自然要让市场失望，短期内估计还是要磨了。",
+      "url": "https://x.com/qinbafrank/status/2087017454484828631",
+      "tweet_id": "2087017454484828631"
     },
     {
-      "id": "tweet_aleabitoreddit_2086730782425727183",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 10 Aug 2026 08:26:02 GMT",
-      "content": "Now that markets are hosting a laser party again from $SIVE, OE Solutions, $LITE, Coherent, to $AAOI. There’s a pretty interesting study: Both from Fidelity and a UC Berkeley research paper, that the best investors are the ones who either… - Anecdotally forgot about their account (Fidelity) - Didn’t actively trade/overtrade (18.5% return from infrequent traders vs. 11.4%). Not any advice, but some of these anecdotes might be helpful to retail to read in general… Since I witnessed a lot capitulation off memory, photonics, or thematic volatility, just for retail not have positions on a sharp recovery. Having conviction also usually people in that “not overtrading” camp, since it helps to not overtrade in drops or see opportunities to cost average.",
-      "url": "https://x.com/aleabitoreddit/status/2086730782425727183",
-      "tweet_id": "2086730782425727183",
-      "translated": "现在，市场再次举办激光派对，从 $SIVE、OE Solutions、$LITE、Coherent 到 $AAOI。有一项非常有趣的研究：来自富达和加州大学伯克利分校的研究论文都表明，最好的投资者是那些...... - 据说忘记了他们的账户（富达） - 没有积极交易/过度交易（不频繁交易者的回报率为 18.5%，而 11.4% 则为 11.4%）。不是任何建议，但其中一些轶事可能对零售业总体阅读有所帮助……因为我目睹了内存、光子学或主题波动的大量投降，只是因为零售业没有在急剧复苏时持仓。相信“不过度交易”阵营的人通常也有信念，因为这有助于不过度交易下跌或看到平均成本的机会。"
+      "id": "tweet_qinbafrank_2087004704610173424",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Tue, 11 Aug 2026 02:34:30 GMT",
+      "content": "多谢@yyjarsy 的邀请，很荣幸周四中午跟几位老师一起聊聊AI模型VS垂直应用这个话题。",
+      "url": "https://x.com/qinbafrank/status/2087004704610173424",
+      "tweet_id": "2087004704610173424"
     },
     {
       "id": "tweet_qinbafrank_2086978623379325105",
@@ -131,22 +149,13 @@
       "tweet_id": "2086978623379325105"
     },
     {
-      "id": "tweet_qinbafrank_2086808140067348912",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Mon, 10 Aug 2026 13:33:26 GMT",
-      "content": "出了问题没有逃避也没有推诿责任，积极响应，给符合条件的用户全额赔偿，散户、VIP、机构一视同仁，为这个担当点赞，格局在大气层了👍",
-      "url": "https://x.com/qinbafrank/status/2086808140067348912",
-      "tweet_id": "2086808140067348912"
-    },
-    {
-      "id": "tweet_qinbafrank_2086804960088642017",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Mon, 10 Aug 2026 13:20:48 GMT",
-      "content": "Jeff Dean的创业BP应该史上最豪华也是最简单的BP，只有三页回答三个问题，Over！“我们创造做什么？我们管过多大的团队？我们的技术影响力有多大？”然后VC说“被选中投了Jeff新公司，真的非常荣幸！” 他其实可以更简单，就一页写上“Google Me”完事",
-      "url": "https://x.com/qinbafrank/status/2086804960088642017",
-      "tweet_id": "2086804960088642017"
+      "id": "tweet_xiaomustock_2086991960590725546",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Tue, 11 Aug 2026 01:43:52 GMT",
+      "content": "sss了minimax，江湖再见。",
+      "url": "https://x.com/xiaomustock/status/2086991960590725546",
+      "tweet_id": "2086991960590725546"
     },
     {
       "id": "tweet_xiaomustock_2086785104333177130",
@@ -165,15 +174,6 @@
       "content": "bbbb回来了minimax， minimax还有个科创板上市的利好没有被过会。",
       "url": "https://x.com/xiaomustock/status/2086640068824035640",
       "tweet_id": "2086640068824035640"
-    },
-    {
-      "id": "tweet_xiaomustock_2085959345200591001",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Sat, 08 Aug 2026 05:20:37 GMT",
-      "content": "现在局面比较诡异， 谷歌微软他们公司债推高了美债的利息， 即使不加息，债券市场也跟加息没区别。 美国这些产业数据大概率应该是为了稳住市场瞎编的。 美债规模最近也上来40万亿美金， 如此高的长期美债利息以及kimi和deepseek对美国AI的追赶降价打击让人对美元在未来的信誉有了不确定性。 同时7月科技持续暴跌导致资金对市场的避险需求催生了最近一个月老登资产和黄金白银的触底反弹。",
-      "url": "https://x.com/xiaomustock/status/2085959345200591001",
-      "tweet_id": "2085959345200591001"
     },
     {
       "id": "tweet_xingpt_2086838940921971024",
