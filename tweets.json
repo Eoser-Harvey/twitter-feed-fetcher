@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-08-11T13:10:31.214797+00:00",
+  "fetched_at": "2026-08-11T15:00:37.293070+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2086901619346792543",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 10 Aug 2026 19:44:53 GMT",
+      "content": "RT by @elonmusk: More texts reveal that Biden era US Surgeon General Vivek Murthy responded to Fauci’s concern about the COVID vaccine in pregnant women by adding “I’ve been hearing concern about the mRNA causing mutations in the developing fetus as well.” None of these concerns were ever made public.",
+      "url": "https://x.com/elonmusk/status/2086901619346792543",
+      "tweet_id": "2086901619346792543",
+      "translated": "RT @elonmusk：更多文本显示，拜登时代的美国卫生局局长维韦克·穆尔蒂 (Vivek Murthy) 在回应福奇对孕妇使用新冠疫苗的担忧时补充道，“我也听到了对 mRNA 导致发育中胎儿突变的担忧。”这些担忧都没有被公开。"
+    },
+    {
+      "id": "tweet_elonmusk_2087151014587826414",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 11 Aug 2026 12:15:53 GMT",
+      "content": "RT by @elonmusk: Grok can now turn your daily news research into a voice memo you can just listen to Ask it to research everything important from the last 24 hours, summarize the major events, and package it into an audio briefing So instead of reading through dozens of stories, you can just press play and catch up on everything in a few minutes With different voices available, it basically becomes your own personalized daily news show",
+      "url": "https://x.com/elonmusk/status/2087151014587826414",
+      "tweet_id": "2087151014587826414",
+      "translated": "RT by @elonmusk：Grok 现在可以将您的每日新闻研究变成语音备忘录，您只需聆听即可要求它研究过去 24 小时内的所有重要事件，总结重大事件，并将其打包成音频简报因此，您无需阅读数十个故事，只需按播放键，几分钟内即可了解所有内容，提供不同的声音，它基本上成为您自己的个性化每日新闻节目"
+    },
     {
       "id": "tweet_elonmusk_2086924547886850353",
       "username": "elonmusk",
@@ -11,26 +31,6 @@
       "url": "https://x.com/elonmusk/status/2086924547886850353",
       "tweet_id": "2086924547886850353",
       "translated": "RT @elonmusk：🚨 就在此时：安东尼·福奇的继任者、美国国立卫生研究院院长杰伊·巴塔查亚 (Jay Bhattacharya) 猛烈抨击福奇掩盖了所谓的 82% 孕妇接种新冠疫苗的流产率，“托尼·福奇超出了他的轨道，他利用这种权力告诉美国一件事，而他实际上却在想另一件事。” “我很高兴他的话现在可以被美国人民听到……令我震惊的是，他在公开场合分享私人想法，而当他公开露面时——他经常公开露面——他没有与美国公众分享这些私人想法。” “我的意思是，托尼·福奇是试图让这些新冠病毒疫苗冲过终点线的主要人物。他欠美国公众一定的透明度。”"
-    },
-    {
-      "id": "tweet_elonmusk_2087046381877833990",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 11 Aug 2026 05:20:07 GMT",
-      "content": "Tesla",
-      "url": "https://x.com/elonmusk/status/2087046381877833990",
-      "tweet_id": "2087046381877833990",
-      "translated": "特斯拉"
-    },
-    {
-      "id": "tweet_elonmusk_2087046240353603854",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 11 Aug 2026 05:19:33 GMT",
-      "content": "Grok Imagine",
-      "url": "https://x.com/elonmusk/status/2087046240353603854",
-      "tweet_id": "2087046240353603854",
-      "translated": "格洛克想象"
     },
     {
       "id": "tweet_cz_binance_2085404921914966044",
@@ -122,6 +122,15 @@
       "translated": "呃……Unitree IPO 被散户投资者超额认购超过 8000 倍。纯玩人形公司的需求绝对是巨大的？我个人是美国敏捷机器人俱乐部（软银、$NVDA、$AMZN、富士康等）的成员，通过 $CCXI 获得 $2.5B 预付款。我的看法是，Unitree 的开盘价可能为 30B+（来自首次公开募股前的投资者），可能会在一两周内为美国领先企业带来更多关注。不管怎样，这只是荒谬的要求。"
     },
     {
+      "id": "tweet_qinbafrank_2087182111832998287",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Tue, 11 Aug 2026 14:19:28 GMT",
+      "content": "AI工厂资本化，今天AI产业里最大的新闻莫过于老黄宣布英伟达与Apollo、贝莱德、黑石、Brookfield、高盛和KKR签署的是六份合作备忘录，目标是通过多个“独立算力融资平台”，在未来逐步撬动超过5000亿美元第三方资本。试图建立的是一个以英伟达GPU、CUDA生态和长期算力合同为底层资产的新信用市场。高盛CEO David Solomon的表述最直接：要建立一个“由英伟达算力支持的信用市场”。说说我的理解： 1、现在宣布的只是一个备忘录，标志着英伟达将AI工厂计算定位为可投资基础设施资产类别，并与多家顶级金融机构合作，旨在动员超过5000亿美元第三方资本支持AI基础设施建设。5000亿美元只是一个长期融资目标，并不是已经到账的现金。 过去企业逐个购买芯片、建设数据中心；现在AI工厂可被作为生产性基础设施进行融资，具备可重复平台、长期机构资本和多元化客户基础。结合“独立承销”“专门资本池”“由英伟达算力支持的信用市场”等表述，可能得模式如下图二所示。 老黄的长文里提到某些情况，英伟达可能提供最高25%的残值支持机制（逐案评估），这六家投资机构也是逐项目评估可行性和风险。目的是解锁大量独立资本，同时保持有纪律的风险敞口。 2、现有的模式参考 1）7月24日公布的NAVER项目是目前最清晰的案例： 英伟达计划投资NAVER 10亿美元，Brookfield签署非约束性条款计划提供最多90亿美元，NAVER承担剩余项目资金。这说明英伟达希望看到的是：运营商自有资金＋基础设施资金＋英伟达战略股权＋后续债务或项目融资 而不是英伟达单独为项目出全部资金。 NAVER案例里，英伟达更像技术平台提供者、战略股东、项目信用增强者；Brookfield则更像长期基础设施资本提供者。 2）Helix Digital Infrastructure也很接近这种模式。 KKR、科威特投资局、英伟达和Vistra共同成立Helix，初始拥有超过100亿美元长期资本承诺，由前AWS CEO Adam Selipsky领导，投资和管理数据中心、电力、输配电及光纤连接等AI基础设施。英伟达是创始投资者和战略合作方，Vistra是优先电力合作方。 Helix目前更接近AI基础设施AssetCo，不一定直接运营完整GPU云，但它已经把：数据中心、发电、输电、光纤、DSX参考架构、长期资本等要素组合成一个独立公司。 这是“独立AI Factory资本平台”的早期原型。 3）其实博通已经先走了一步 6月，博通与Apollo、Blackstone建立AI XPV融资平台，初始交易规模350亿美元，用于支持Anthropic超过1GW的算力扩张，并计划到2028年支持超过20GW算力。 Apollo披露，这笔交易采用多年分批提款、投资级资本、多个债务层级以及银行和配售机构参与的结构。它实际上已经证明，芯片供应商可以与私人信贷机构共同把未来算力合同转化为可融资资产。 这对英伟达构成一个潜在竞争威胁： 如果博通TPU/XPU项目可以获得更便宜的长期融资，而英伟达GPU项目融资成本更高，那么融资成本最终会变成芯片总拥有成本的一部分。 所以英伟达不仅要比性能、生态和每token成本，还要比：谁能帮助客户融资、谁的设备残值更高、谁的算力合同更容易获得银行承、谁能提供更低的资本成本。 融资能力正在成为竞争力的一部分。 3、带来的影响是什么？ 1）AI云和Neocloud的可服务市场扩大 AI基础设施需求巨大，但资本获取不均。许多AI实验室、企业和AI云有计算需求，却缺乏足够规模或成本的融资。 传统Hyperscaler可以依靠自身现金流建设，真正受益于新融资平台的是地区型Neocloud、主权AI项目、前沿模型实验室、企业和行业云、缺乏投资级信用但拥有算力需求的初创公司。 英伟达从今年2季度开始，把数据中心收入划分为Hyperscale和ACIE，其中ACIE包括AI Clouds、Industrial和Enterprise，并明确对应各行业和各国的专用AI数据中心与AI工厂。 这说明非Hyperscaler的AI工厂已经被英伟达纳入独立增长框架，降低优质客户的融资门槛和成本，加速AI工厂落地，让更多实验室、企业和云能获取计算资源，核心是进一步扩大算力供给。 2）资本开支债务化 用债务杠杆把未来的生产性现金流提前资本化为当前可部署的资产，同时把风险分散给专业机构投资者。这是一次把“卖芯片”升级为“赋能可债务融资的AI工厂资产”的金融工程。 借鉴了传统基础设施项目融资的成熟框架（SPV、现金流覆盖、残值担保），试图把AI计算变成可规模化、可杠杆化的生产性资产。好处在于加速资本形成与产业落地，坏处在于把技术迭代与需求不确定性直接嵌入了杠杆结构中。 3）长端利率和信用利差对AI产业的影响会明显上升 债务化之后，即使终端AI需求没有下降，项目也可能因为：长期国债收益率上升、私人信贷利差扩大、银行降低LTV、GPU残值假设下调、承租人信用恶化、再融资成本上升等因素导致推迟或取消。 也就是说，AI基础设施周期会逐渐从单纯的半导体供需周期，转变成：AI需求周期＋电力建设周期＋信用周期＋利率周期。 当然也可以说AI算力工厂也在债券市场争夺更多优质的长期资金，这反过来也容易推高长端利率。 4、会是循环融资么？ 每次此类消息出来，几乎市场所质疑的很关键的一点就是是不是循环融资。其实判断循环融资的核心并不是英伟达有没有投资或者提供担保，而是看最终付款人是否独立于英伟达 健康算力项目的最终现金流应来自：企业客户、独立模型公司收入、投资级CSP、消费者、政府等最终需求方。而不是来自主要来自英伟达投资、英伟达担保和英伟达购买算力。 这就又跟算力是否过剩相挂钩，如果最终需求增速很快，算力缺口还在扩大，那么新建的AI算力工厂一上线就能从前面说的最终需求方获得持续现金流，那么这个模式就是健康的，也是可持续的。 所以未来就还是要最终需求的增长和算力供给是供不应求，还是供过于求。现在看自然还处于供不应求的状态。",
+      "url": "https://x.com/qinbafrank/status/2087182111832998287",
+      "tweet_id": "2087182111832998287"
+    },
+    {
       "id": "tweet_qinbafrank_2087133796680479093",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -138,15 +147,6 @@
       "content": "R to @qinbafrank: 本次预售到今晚10点结束，当前超募阶段依然可以参与，最终按比例分配。入场链接： https://sale.kiichain.io/sale?state=live",
       "url": "https://x.com/qinbafrank/status/2087147338750193693",
       "tweet_id": "2087147338750193693"
-    },
-    {
-      "id": "tweet_qinbafrank_2087076966352781483",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Tue, 11 Aug 2026 07:21:39 GMT",
-      "content": "八月会是最好的夏天么？最早还是7月底的推文https://x.com/qinbafrank/status/2083185986616357116?s=46&t=k6rimWsEbo2D2tXolYcM-A说了这句话。明晚9点半，时隔两个月再在OKX星球上做一场直播。聊聊： 1）聊聊SpaceX：6月11号直播时的判断，哪些兑现了？ 2）AI长期趋势还在，为什么有些好公司反而会跌？ 3）黄金哪些关键信号发生了变化？ 4）八月机会在哪里，什么风险最值得警惕？ 多谢@okxchinese @Mercy_okx @Haiteng_okx",
-      "url": "https://x.com/qinbafrank/status/2087076966352781483",
-      "tweet_id": "2087076966352781483"
     },
     {
       "id": "tweet_xiaomustock_2086991960590725546",
