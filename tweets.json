@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-08-12T19:14:15.327270+00:00",
+  "fetched_at": "2026-08-12T20:48:46.099253+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2087592670893847008",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 12 Aug 2026 17:30:52 GMT",
+      "content": "RT by @elonmusk: one step closer to moon cannon and party.",
+      "url": "https://x.com/elonmusk/status/2087592670893847008",
+      "tweet_id": "2087592670893847008",
+      "translated": "RT @elonmusk：距离月球大炮和派对又近了一步。"
+    },
+    {
+      "id": "tweet_elonmusk_2087567786302374322",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 12 Aug 2026 15:52:00 GMT",
+      "content": "RT by @elonmusk: give 4.6 a try and let us know how it goes. your feedback is a big part of why the model gets better with each iteration.",
+      "url": "https://x.com/elonmusk/status/2087567786302374322",
+      "tweet_id": "2087567786302374322",
+      "translated": "RT by @elonmusk：尝试一下 4.6，让我们知道效果如何。您的反馈是模型每次迭代都变得更好的重要原因。"
+    },
     {
       "id": "tweet_elonmusk_2087588192019161253",
       "username": "elonmusk",
@@ -10,27 +30,7 @@
       "content": "RT by @elonmusk: In case you missed it yesterday, here is the full video of Elon Musk giving a company update on the future of SpaceX:",
       "url": "https://x.com/elonmusk/status/2087588192019161253",
       "tweet_id": "2087588192019161253",
-      "translated": "@elonmusk 的 RT：如果你昨天错过了，这里是埃隆·马斯克 (Elon Musk) 向公司介绍 SpaceX 未来的最新情况的完整视频："
-    },
-    {
-      "id": "tweet_elonmusk_2087597115354849679",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 12 Aug 2026 17:48:32 GMT",
-      "content": "RT by @elonmusk: SPACEXAI: Grok 4.6 leads on the two strongest knowledge-work / real-world productivity benchmarks (GDPVal-AA and AA-Briefcase) and on the legal benchmark, while remaining highly competitive on coding-agent and general intelligence metrics.",
-      "url": "https://x.com/elonmusk/status/2087597115354849679",
-      "tweet_id": "2087597115354849679",
-      "translated": "RT @elonmusk：SPACEXAI：Grok 4.6 在两个最强的知识工作/现实世界生产力基准（GDPVal-AA 和 AA-Briefcase）和法律基准上领先，同时在编码代理和一般情报指标上保持高度竞争力。"
-    },
-    {
-      "id": "tweet_elonmusk_2087602469778166195",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 12 Aug 2026 18:09:49 GMT",
-      "content": "Try out Grok @Bot",
-      "url": "https://x.com/elonmusk/status/2087602469778166195",
-      "tweet_id": "2087602469778166195",
-      "translated": "尝试 Grok @Bot"
+      "translated": "RT @elonmusk：如果你昨天错过了，这里是埃隆·马斯克 (Elon Musk) 向公司介绍 SpaceX 未来的最新情况的完整视频："
     },
     {
       "id": "tweet_cz_binance_2087113573558587662",
@@ -50,7 +50,7 @@
       "content": "Why does Binance's market share grow so quickly in new sectors? Short answer: users. Some exchanges extract maximum profit from their users, max fees, some even trade against their users while offering 0-fees or 100% rebate to referrers. But they can't keep the users. Protect users = protect your future businesses, even the ones you haven't launched yet.",
       "url": "https://x.com/cz_binance/status/2087479940149289135",
       "tweet_id": "2087479940149289135",
-      "translated": "为什么币安在新领域的市场份额增长如此之快？简短的回答：用户。一些交易所从用户那里获取最大利润和最高费用，有些交易所甚至与用户进行交易，同时向推荐人提供 0 费用或 100% 回扣。但他们留不住用户。保护用户=保护您未来的业务，即使是您尚未启动的业务。"
+      "translated": "为什么币安在新领域的市场份额增长如此之快？简短的回答：用户。一些交易所从用户那里获取最大利润、最高费用，有些交易所甚至与用户进行交易，同时向推荐人提供 0 费用或 100% 回扣。但他们留不住用户。保护用户=保护您未来的业务，即使是您尚未启动的业务。"
     },
     {
       "id": "tweet_cz_binance_2087476253238657146",
@@ -108,7 +108,7 @@
       "content": "$AEHR receives another $22M follow on order for AI processor wafer level burn in systems. By their lead AI processor company. It’s cool to see this tiny company grow up so fast across so many verticals (memory, silicon photonics, etc). Up +5.39% premarket off the news.",
       "url": "https://x.com/aleabitoreddit/status/2087505570941239683",
       "tweet_id": "2087505570941239683",
-      "translated": "$AEHR 又收到了 2200 万美元的 AI 处理器晶圆级烧录系统订单。由他们领先的人工智能处理器公司提供。看到这家小公司在如此多的垂直领域（存储器、硅光子学等）发展得如此之快，真是太酷了。消息传出后，盘前上涨 5.39%。"
+      "translated": "$AEHR 又收到了 2200 万美元的 AI 处理器晶圆级烧录系统订单。由他们领先的人工智能处理器公司提供。看到这家小公司在如此多的垂直领域（内存、硅光子学等）发展得如此之快，真是太酷了。消息传出后，盘前上涨 5.39%。"
     },
     {
       "id": "tweet_aleabitoreddit_2087447527595692180",
