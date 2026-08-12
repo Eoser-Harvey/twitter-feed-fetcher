@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-12T16:06:26.379161+00:00",
-  "total": 18,
+  "fetched_at": "2026-08-12T17:59:24.480571+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2087594669459001801",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 12 Aug 2026 17:38:49 GMT",
+      "content": "Try Grok 4.6 on tough real-world tasks!",
+      "url": "https://x.com/elonmusk/status/2087594669459001801",
+      "tweet_id": "2087594669459001801",
+      "translated": "尝试使用 Grok 4.6 来完成现实世界中的艰巨任务！"
+    },
+    {
+      "id": "tweet_elonmusk_2087565040677454327",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 12 Aug 2026 15:41:05 GMT",
+      "content": "RT by @elonmusk: Excited to release Grok 4.6. With each release, Grok is becoming a more capable digital colleague. 4.6 is significantly better at difficult tasks and knowledge work. It combines Opus-class intelligence and polish with very low cost and high speed.",
+      "url": "https://x.com/elonmusk/status/2087565040677454327",
+      "tweet_id": "2087565040677454327",
+      "translated": "RT @elonmusk：很高兴发布 Grok 4.6。随着每个版本的发布，Grok 都成为了一位更有能力的数字同事。 4.6 在困难任务和知识工作方面表现明显更好。它以极低的成本和高速度将 Opus 级的智能和精致结合在一起。"
+    },
+    {
+      "id": "tweet_elonmusk_2087576824159297605",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 12 Aug 2026 16:27:54 GMT",
+      "content": "RT by @elonmusk: Congrats to the @SpaceXAI team on the release of Grok 4.6. Grok 4.6 brings frontier intelligence, running and trained on NVIDIA GB300 NVL72 with NVLink to deliver exceptional performance, reliability and lowest token cost.",
+      "url": "https://x.com/elonmusk/status/2087576824159297605",
+      "tweet_id": "2087576824159297605",
+      "translated": "RT @elonmusk：祝贺 @SpaceXAI 团队发布了 Grok 4.6。 Grok 4.6 带来前沿智能，通过 NVLink 在 NVIDIA GB300 NVL72 上运行和训练，以提供卓越的性能、可靠性和最低的令牌成本。"
+    },
     {
       "id": "tweet_cz_binance_2087113573558587662",
       "username": "cz_binance",
@@ -30,6 +60,35 @@
       "content": "👀",
       "url": "https://x.com/cz_binance/status/2087476253238657146",
       "tweet_id": "2087476253238657146"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2082159711852298494",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
+      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
+      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
+      "tweet_id": "2082159711852298494",
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2087515371750490383",
@@ -89,6 +148,15 @@
       "tweet_id": "2087516325849731541"
     },
     {
+      "id": "tweet_xiaomustock_2087577939605180653",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Wed, 12 Aug 2026 16:32:20 GMT",
+      "content": "陈立武自掏腰包1200万美金认购了 $INTC 200亿美金95刀的增发融资，计划扩建产线和重建英特尔内存业务。",
+      "url": "https://x.com/xiaomustock/status/2087577939605180653",
+      "tweet_id": "2087577939605180653"
+    },
+    {
       "id": "tweet_xiaomustock_2087456093979254889",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -107,13 +175,22 @@
       "tweet_id": "2086991960590725546"
     },
     {
-      "id": "tweet_xiaomustock_2086785104333177130",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Mon, 10 Aug 2026 12:01:54 GMT",
-      "content": "电脑就能装的小模型来了， $META 发布了Muse Spark 1.2模型精简版， 参数规模只有300亿，RTX 3090 24GB规格以上的单显卡都能安装这个模型。",
-      "url": "https://x.com/xiaomustock/status/2086785104333177130",
-      "tweet_id": "2086785104333177130"
+      "id": "tweet_xingpt_2087578088192495669",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 12 Aug 2026 16:32:56 GMT",
+      "content": "Deepseek V4 Pro + Grok 4.6 新发，老实说对于新模型发布的感觉有点像看新手机或者新能源车，就是：又一个来了！ 如果这些模型还是卷排行榜，卷价格，卷coding能力，很难带动新的行业需求，最后就是大家价格都被打下来了，跟手机行业一样。",
+      "url": "https://x.com/xingpt/status/2087578088192495669",
+      "tweet_id": "2087578088192495669"
+    },
+    {
+      "id": "tweet_xingpt_2087576434726609346",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 12 Aug 2026 16:26:21 GMT",
+      "content": "美股还是得敏捷交易，发利好和利空都得快速反应，盘前涨 10%，发现盘中还能再涨 10%。",
+      "url": "https://x.com/xingpt/status/2087576434726609346",
+      "tweet_id": "2087576434726609346"
     },
     {
       "id": "tweet_xingpt_2087523508683526361",
@@ -123,24 +200,6 @@
       "content": "窥一斑而知全豹，Coreweave财报不错，同行业的NBIS运营水平此前就一直在Coreweave之上，所以猜测Nebius的财报不会太差，果然Nebius新一季度的财报大超预期，盘前涨幅超过 15%。 距离我 8 月 3 日在会员频道第一次覆盖并强烈推荐Nebius，NBIS的股价从 185 涨到225，超过 20%。 https://x.com/xingpt/status/2083970523843973588?s=20",
       "url": "https://x.com/xingpt/status/2087523508683526361",
       "tweet_id": "2087523508683526361"
-    },
-    {
-      "id": "tweet_xingpt_2087507207902593039",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 12 Aug 2026 11:51:17 GMT",
-      "content": "nbis在搞什么？官网刚公布的上个季度财报就给删了",
-      "url": "https://x.com/xingpt/status/2087507207902593039",
-      "tweet_id": "2087507207902593039"
-    },
-    {
-      "id": "tweet_xingpt_2087501328570515738",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 12 Aug 2026 11:27:55 GMT",
-      "content": "恭喜杀破狼首先被AI替代了！",
-      "url": "https://x.com/xingpt/status/2087501328570515738",
-      "tweet_id": "2087501328570515738"
     },
     {
       "id": "tweet_hibtc37_2087374830522048539",
@@ -171,8 +230,8 @@
     }
   ],
   "stats": {
-    "users_success": 6,
-    "users_failed": 2,
-    "nitter_healthy": 9
+    "users_success": 8,
+    "users_failed": 0,
+    "nitter_healthy": 10
   }
 }
