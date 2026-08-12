@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-12T14:59:57.429930+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-12T16:06:26.379161+00:00",
+  "total": 18,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2087411297411625227",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 12 Aug 2026 05:30:10 GMT",
-      "content": "RT by @elonmusk: Everyone else is talking about building ASI to like monopolize b2b saas and Elon is talking about building a kardashev II sentient sun",
-      "url": "https://x.com/elonmusk/status/2087411297411625227",
-      "tweet_id": "2087411297411625227",
-      "translated": "RT @elonmusk：其他人都在谈论建立 ASI 以垄断 B2B Saas，而 Elon 则在谈论建立一个卡尔达舍夫 II 感知太阳"
-    },
-    {
-      "id": "tweet_elonmusk_2087246938530062794",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 11 Aug 2026 18:37:03 GMT",
-      "content": "RT by @elonmusk: meeting more and more people who are daily driving grok",
-      "url": "https://x.com/elonmusk/status/2087246938530062794",
-      "tweet_id": "2087246938530062794",
-      "translated": "RT @elonmusk：认识越来越多每天驾驶 grok 的人"
-    },
-    {
-      "id": "tweet_elonmusk_2087433701764497852",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 12 Aug 2026 06:59:11 GMT",
-      "content": "Grok Build is extremely powerful",
-      "url": "https://x.com/elonmusk/status/2087433701764497852",
-      "tweet_id": "2087433701764497852",
-      "translated": "Grok Build 非常强大"
-    },
     {
       "id": "tweet_cz_binance_2087113573558587662",
       "username": "cz_binance",
@@ -60,35 +30,6 @@
       "content": "👀",
       "url": "https://x.com/cz_binance/status/2087476253238657146",
       "tweet_id": "2087476253238657146"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2082159711852298494",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
-      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
-      "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2087515371750490383",
@@ -121,6 +62,15 @@
       "translated": "这就是我现在在 $SIVE 和 CW DFB 激光阻塞点上看到的情况。来自光学收益： 1. $LITE：UHP CW 激光器的意外需求和不平衡。 - 有能力提高激光器的平均售价。 - 扩大原棕油的出货量有望在 2027 年下半年实现，称任何原棕油扩大规模延迟的传言都是噪音。 Lumentum 证实了时间表（像 Sivers 这样的 CPO 参与者出售了误导性报告）、高利润以及对合格连续激光器的极端需求。 2. $AAOI：由于光收发器需求太多，没有足够的连续激光器产能。 - 没有有意义地参与第一代 CPO 部署，$MTSI 看起来也没有参与其中，而是专注于 NPO。在 $SMTC 收购 HieFo 后，我们对他们的了解并不多。 - 认为激光器是收发器需求不平衡 20-40% 的瓶颈。 - 说客户每周都会联系他们，要求他们提供供应+加快行动速度。 AOI 证实了激光器的需求不平衡和瓶颈。我们为第一代 CPO 玩家提供的池子甚至更小。 3. $AAOI 和 $LITE 都声称中国厂商在 CPO 激光器方面落后了很多年，而且在合格产能方面也远远落后于所声称的水平。 - $AAOI 表示 CPO 激光器落后 2-3 年以上。 - $LITE 表示，他们还没有看到任何像中国在产出方面所声称的东西（如果它是错误的，则没有追索权）。重申了 CPO 相关激光器的护城河，并且光学行业的一些卖空者声明不会造成泛滥。 4. $MTSI表示，由于磷化铟DFB激光器普遍供应短缺，许多客户正在紧急联系他们。再次，西弗斯陷入了瓶颈，给他们带来了更多的客户需求。在 $COHR ($72.54B)、$LITE ($66.57B)、$AVGO ($2.13T) 中：非常特别的是，你在 $SIVE 的 ~$1.5B MC 中获得了 4 位西方 CPO 领导者之一。感觉就像我的论文： - 我预测的 CW 瓶颈 - CW 激光阻塞点（只有少数 CPO 参与者，至少对于第一代）已从收益中得到验证，现在只是等待下一个光学架构转变的拐点。"
     },
     {
+      "id": "tweet_qinbafrank_2087567196914692502",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 12 Aug 2026 15:49:39 GMT",
+      "content": "今晚Neocloud都在爆发了，3号这篇算不散马前炮了🧐",
+      "url": "https://x.com/qinbafrank/status/2087567196914692502",
+      "tweet_id": "2087567196914692502"
+    },
+    {
       "id": "tweet_qinbafrank_2087531633130045652",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -137,15 +87,6 @@
       "content": "不出意外，NBIS财报也很爆，Q2营收5.82亿美元，同比大增454%；调整后净亏损3320万美元，同比收窄64%；AI云业务营收大涨514%，达到5.75亿美元；调整后EBITDA利润率提升至50%； 上调 2026 年度签约电力容量指引至 5 吉瓦，并预计自 2027 年起，每年落地超 1 吉瓦。 大空头的做空仓位还好么？🤔",
       "url": "https://x.com/qinbafrank/status/2087516325849731541",
       "tweet_id": "2087516325849731541"
-    },
-    {
-      "id": "tweet_qinbafrank_2087466334380781769",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 12 Aug 2026 09:08:52 GMT",
-      "content": "又一个利空不跌，小火箭昨天财报强劲但是中子星火箭首飞推迟，按理说昨天走的会很弱。没想到昨晚大幅低开后还能一路高走，又爬回到80以上。大家有没有想起来近期另一个财报利空不跌的是谁？这里https://x.com/qinbafrank/status/2085745455804150029?s=46有聊过。 回到RKLB利空不跌上，个人想可能的原因在于： 1）之前150跌倒60，其实已经计价了太多的利空； 2）虽然中子星首飞推迟，但市场对业绩还是买单的。毕竟发射、系统业务很强劲。现有业务继续变强，产业地位继续上升。 3）还以一层市场可能再预期整合完成铱星通信。之前这里https://x.com/qinbafrank/status/2071579763274289496?s=46聊过，铱星通讯是一个营收接近10亿美金、净利润超过1亿美金的现金牛企业。RKLB把铱星整合完毕后、营收利润规模立马翻倍、还能接手铱星250万用户 ，spcex星链现在用户1200万。同时RKLB能够直接获得全球卫星通信网络、稀缺L-band频谱和经验证的订阅型收入。",
-      "url": "https://x.com/qinbafrank/status/2087466334380781769",
-      "tweet_id": "2087466334380781769"
     },
     {
       "id": "tweet_xiaomustock_2087456093979254889",
@@ -230,8 +171,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 10
+    "users_success": 6,
+    "users_failed": 2,
+    "nitter_healthy": 9
   }
 }
