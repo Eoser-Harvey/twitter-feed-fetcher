@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-08-12T22:44:05.620140+00:00",
+  "fetched_at": "2026-08-12T23:44:00.994136+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2087668743929487420",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 12 Aug 2026 22:33:10 GMT",
+      "content": "Grok 4.6 reaches #1 on @databricks",
+      "url": "https://x.com/elonmusk/status/2087668743929487420",
+      "tweet_id": "2087668743929487420",
+      "translated": "Grok 4.6 在 @databricks 上排名第一"
+    },
     {
       "id": "tweet_elonmusk_2087592670893847008",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2087567786302374322",
       "tweet_id": "2087567786302374322",
       "translated": "RT by @elonmusk：尝试一下 4.6，让我们知道效果如何。您的反馈是模型每次迭代都变得更好的重要原因。"
-    },
-    {
-      "id": "tweet_elonmusk_2087588192019161253",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 12 Aug 2026 17:13:05 GMT",
-      "content": "RT by @elonmusk: In case you missed it yesterday, here is the full video of Elon Musk giving a company update on the future of SpaceX:",
-      "url": "https://x.com/elonmusk/status/2087588192019161253",
-      "tweet_id": "2087588192019161253",
-      "translated": "@elonmusk 的 RT：如果你昨天错过了，这里是埃隆·马斯克 (Elon Musk) 向公司介绍 SpaceX 未来的最新情况的完整视频："
     },
     {
       "id": "tweet_cz_binance_2087113573558587662",
@@ -91,6 +91,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2087675367595380783",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 12 Aug 2026 22:59:29 GMT",
+      "content": "My main takeaway was that your merchant CW laser suppliers seem to be EXTREMELY IMPORTANT now. But TLDR of $COHR earnings: \"given the demand that we see in our DC business with transceivers, I don’t see any time in the near future where we would be selling indium phosphide lasers externally\" - Ton more value placed on companies that sell InP lasers externally if $AAOI can't doesn't enough capacity for first gen-CPO deployments, $COHR not selling externally... I guess that's why $MTSI said a ton of customers are approaching them with urgency for InP CW DFB lasers (and they dont even have meaningful capacity coming online until EOY 2027) $AAOI -> Internal $COHR -> Internal Buyers -> fewer places to look for capacity. \"Our backlog now extends out, fiscal 2027 is basically completely booked out. We are booked really through the end of calendar 2027\" [ Massive massive demand visibility] - Coherent also mentioned LTAs spanning end of decade. So this kinda reinforces what $POET CEO said at their AGM that the \"big 3\" are fully sold out next 2 years. \"we’re not constrained in the assembly and test capacity right now. We’re really just constrained by the ramp of the indium phosphide production\" - Just for the bottleneck bros in terms of assembly/test not a bottleneck. \"absolutely no push-out of CPO demand. In fact, it has been the opposite. We have seen demand increase and request from customers’ demand getting pulled in\" \"we continue to expect revenue from CPO for scale-up applications to start to flow in the second half of calendar 2027\" - Big read through on other CPO players for scale up if $LITE, $COHR reaffirm revenue from CPO scale up coming h2027. - \"quarterly revenue exceeding $3 billion by the end of fiscal 2027\" - $COHR revenue go brrr So for regular numbers it's: - $2.046B revenue (+13.3% Q/Q, +33.8% Y/Y), main revenue ramp looks to be happening entering Q4 into 2027 - Non-GAAP gross margins: 40.2% Next quarter guide is: - Revenue: $2.2–$2.4B revenue - Non-GAAP gross margins: 39.5-41.5% Basically: $1.69B -> $1.81B -> $2.05B -> ~$2.30B -> $3.0B (end of FY 2027) ~39% -> 39.6% -> 40.2% -> ~40.5% (gross margins) For operating margins: 18.0% -> 19.5% -> 19.9% -> 20.3% -> 21.8% Little less impressed compared to $LITE margin growth in terms of profitability, but revenue scale for $COHR growing rapidly.",
+      "url": "https://x.com/aleabitoreddit/status/2087675367595380783",
+      "tweet_id": "2087675367595380783",
+      "translated": "我的主要收获是，您的商业 CW 激光器供应商现在似乎极其重要。但是 $COHR 收益的 TLDR：“考虑到我们在 DC 业务中对收发器的需求，我认为在不久的将来我们不会向外部销售磷化铟激光器” - 如果 $AAOI 无法提供足够的容量用于第一代 CPO 部署，$COHR 不会对外销售，那么对外销售 InP 激光器的公司就会获得更多价值……我想这就是为什么 $MTSI 说大量客户正在接近的原因他们迫切需要 InP CW DFB 激光器（而且他们甚至在 2027 年 EOY 之前都没有有意义的产能上线） $AAOI -> 内部 $COHR -> 内部买家 -> 寻找产能的地方更少。 “我们的积压现在已经延长，2027 财年的订单基本上已经全部预订完。我们的订单实际上已经预订到 2027 日历年底了”[大量需求可视性] - 相干公司还提到了跨越十年末的长期协议。因此，这有点强化了 $POET 首席执行官在年度股东大会上所说的，即“三大巨头”在未来两年内将全部售罄。 “我们现在不受装配和测试能力的限制。我们实际上只是受到磷化铟产量增长的限制”——只是针对装配/测试方面的瓶颈兄弟，而不是瓶颈。 “绝对不会推动 CPO 需求。事实上，情况恰恰相反。我们已经看到需求增加，客户需求的要求也被拉动”“我们仍然预计用于扩大规模应用的 CPO 收入将在 2027 年下半年开始流动” - 如果 $LITE、$COHR 重申 2027 年下半年来自 CPO 规模扩大的收入，请仔细阅读其他 CPO 参与者的扩大规模。 - “到 2027 财年末季度收入将超过 30 亿美元” - $COHR 收入将达到 brrr 因此，对于常规数字来说，它是： - $2.046B 收入（+13.3% Q/Q，+33.8% Y/Y），主要收入增长看起来将在进入 2027 年第四季度时发生 - 非 GAAP 毛利率：40.2% 下一季度指南是： - 收入：$2.2–$2.4B收入 - 非 GAAP 毛利率：39.5-41.5% 基本上：$1.69B -> $1.81B -> $2.05B -> ~$2.30B -> $3.0B（2027 财年末） ~39% -> 39.6% -> 40.2% -> ~40.5%（毛利率） 营业利润率：18.0% -> 19.5% -> 19.9% -> 20.3% -> 21.8% 就盈利能力而言，与 $LITE 利润率增长相比，印象并不深刻，但 $COHR 的收入规模增长迅速。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2087515371750490383",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -109,16 +119,6 @@
       "url": "https://x.com/aleabitoreddit/status/2087505570941239683",
       "tweet_id": "2087505570941239683",
       "translated": "$AEHR 又收到了 2200 万美元的 AI 处理器晶圆级烧录系统订单。由他们领先的人工智能处理器公司提供。看到这家小公司在如此多的垂直领域（存储器、硅光子学等）发展得如此之快，真是太酷了。消息传出后，盘前上涨 5.39%。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2087447527595692180",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 12 Aug 2026 07:54:08 GMT",
-      "content": "So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right now. From optical earnings: 1. $LITE: unexpected demand and imbalance for UHP CW lasers. - Had ability to price up ASP for lasers. - Scale up CPO on track for H2 2027 shipments, called out any CPO scale up delay rumors as noise. Lumentum confirmed timelines (that CPO players like Sivers sold off of misleading reports from), high margins, and extreme demand for qualified CW lasers. 2. $AAOI: doesn’t have enough CW laser capacity because of too much optical transceiver demand. - Not meaningfully participating in first-gen CPO deployments, with $MTSI not looking like they're in it either but focusing on NPO. Haven't seen much with $SMTC after their HieFo acqusition. - Called lasers as the bottleneck within a 20-40% demand imbalance for transceivers. - Says customers approaching them every week asking them for supply + to move faster. AOI confirmed demand imbalances + bottlenecks for lasers. And we got an even smaller pool for first-gen CPO players. 3. Both $AAOI and $LITE claimed Chinese players were years behind for CPO lasers and far behind stated claims in qualified capacity. - $AAOI said 2-3 years+ behind with CPO lasers. - $LITE said they haven't seen anything like Chinese claims in terms of outputs (and no recourse if it's false). Reaffirms moat for CPO related lasers, and no flooding from some shortseller claims on the optical sector. 4. $MTSI said that many customers are approaching them with urgency due to the general supply shortage of indium phosphide DFB lasers. Again, puts Sivers in the that bottleneck, giving them likely more customer demand . Among $COHR ($72.54B), $LITE ($66.57B), $AVGO ($2.13T): It's very special you get one of the public 4 Western CPO leaders at a ~$1.5B MC with $SIVE. Feels like my thesis with both: - The CW bottleneck that I predicted - CW laser chokepoint (where there's only a few CPO players, at least for gen-1) Got validated from earnings, now it's just waiting for the inflection points of next optical architecture shifts.",
-      "url": "https://x.com/aleabitoreddit/status/2087447527595692180",
-      "tweet_id": "2087447527595692180",
-      "translated": "这就是我现在在 $SIVE 和 CW DFB 激光阻塞点上看到的情况。来自光学收益： 1. $LITE：UHP CW 激光器的意外需求和不平衡。 - 有能力提高激光器的平均售价。 - 扩大原棕油的出货量有望在 2027 年下半年实现，称任何原棕油扩大规模延迟的传言都是噪音。 Lumentum 证实了时间表（像 Sivers 这样的 CPO 参与者出售了误导性报告）、高利润以及对合格连续激光器的极端需求。 2. $AAOI：由于光收发器需求太多，没有足够的连续激光器产能。 - 没有有意义地参与第一代 CPO 部署，$MTSI 看起来也没有参与其中，而是专注于 NPO。在 $SMTC 收购 HieFo 后，我们对他们的了解不多。 - 认为激光器是收发器需求不平衡 20-40% 的瓶颈。 - 说客户每周都会联系他们，要求他们提供供应+加快行动速度。 AOI 证实了激光器的需求不平衡和瓶颈。我们为第一代 CPO 玩家提供的池子甚至更小。 3. $AAOI 和 $LITE 都声称中国厂商在 CPO 激光器方面落后了很多年，而且在合格产能方面也远远落后于所声称的水平。 - $AAOI 表示 CPO 激光器落后 2-3 年以上。 - $LITE 表示，他们还没有看到任何像中国在产出方面所声称的东西（如果它是错误的，则没有追索权）。重申了 CPO 相关激光器的护城河，并且光学行业的一些卖空者声明不会造成泛滥。 4. $MTSI表示，由于磷化铟DFB激光器普遍供应短缺，许多客户正在紧急联系他们。再次，西弗斯陷入了瓶颈，给他们带来了更多的客户需求。在 $COHR ($72.54B)、$LITE ($66.57B)、$AVGO ($2.13T) 中：非常特别的是，你在 $SIVE 的 ~$1.5B MC 中获得了 4 位西方 CPO 领导者之一。感觉就像我的论文： - 我预测的 CW 瓶颈 - CW 激光阻塞点（只有少数 CPO 参与者，至少对于第一代）已从收益中得到验证，现在只是等待下一个光学架构转变的拐点。"
     },
     {
       "id": "tweet_qinbafrank_2087567196914692502",
