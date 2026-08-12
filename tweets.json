@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-08-12T17:59:24.480571+00:00",
+  "fetched_at": "2026-08-12T19:14:15.327270+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2087594669459001801",
+      "id": "tweet_elonmusk_2087588192019161253",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 12 Aug 2026 17:38:49 GMT",
-      "content": "Try Grok 4.6 on tough real-world tasks!",
-      "url": "https://x.com/elonmusk/status/2087594669459001801",
-      "tweet_id": "2087594669459001801",
-      "translated": "尝试使用 Grok 4.6 来完成现实世界中的艰巨任务！"
+      "published_at": "Wed, 12 Aug 2026 17:13:05 GMT",
+      "content": "RT by @elonmusk: In case you missed it yesterday, here is the full video of Elon Musk giving a company update on the future of SpaceX:",
+      "url": "https://x.com/elonmusk/status/2087588192019161253",
+      "tweet_id": "2087588192019161253",
+      "translated": "@elonmusk 的 RT：如果你昨天错过了，这里是埃隆·马斯克 (Elon Musk) 向公司介绍 SpaceX 未来的最新情况的完整视频："
     },
     {
-      "id": "tweet_elonmusk_2087565040677454327",
+      "id": "tweet_elonmusk_2087597115354849679",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 12 Aug 2026 15:41:05 GMT",
-      "content": "RT by @elonmusk: Excited to release Grok 4.6. With each release, Grok is becoming a more capable digital colleague. 4.6 is significantly better at difficult tasks and knowledge work. It combines Opus-class intelligence and polish with very low cost and high speed.",
-      "url": "https://x.com/elonmusk/status/2087565040677454327",
-      "tweet_id": "2087565040677454327",
-      "translated": "RT @elonmusk：很高兴发布 Grok 4.6。随着每个版本的发布，Grok 都成为了一位更有能力的数字同事。 4.6 在困难任务和知识工作方面表现明显更好。它以极低的成本和高速度将 Opus 级的智能和精致结合在一起。"
+      "published_at": "Wed, 12 Aug 2026 17:48:32 GMT",
+      "content": "RT by @elonmusk: SPACEXAI: Grok 4.6 leads on the two strongest knowledge-work / real-world productivity benchmarks (GDPVal-AA and AA-Briefcase) and on the legal benchmark, while remaining highly competitive on coding-agent and general intelligence metrics.",
+      "url": "https://x.com/elonmusk/status/2087597115354849679",
+      "tweet_id": "2087597115354849679",
+      "translated": "RT @elonmusk：SPACEXAI：Grok 4.6 在两个最强的知识工作/现实世界生产力基准（GDPVal-AA 和 AA-Briefcase）和法律基准上领先，同时在编码代理和一般情报指标上保持高度竞争力。"
     },
     {
-      "id": "tweet_elonmusk_2087576824159297605",
+      "id": "tweet_elonmusk_2087602469778166195",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 12 Aug 2026 16:27:54 GMT",
-      "content": "RT by @elonmusk: Congrats to the @SpaceXAI team on the release of Grok 4.6. Grok 4.6 brings frontier intelligence, running and trained on NVIDIA GB300 NVL72 with NVLink to deliver exceptional performance, reliability and lowest token cost.",
-      "url": "https://x.com/elonmusk/status/2087576824159297605",
-      "tweet_id": "2087576824159297605",
-      "translated": "RT @elonmusk：祝贺 @SpaceXAI 团队发布了 Grok 4.6。 Grok 4.6 带来前沿智能，通过 NVLink 在 NVIDIA GB300 NVL72 上运行和训练，以提供卓越的性能、可靠性和最低的令牌成本。"
+      "published_at": "Wed, 12 Aug 2026 18:09:49 GMT",
+      "content": "Try out Grok @Bot",
+      "url": "https://x.com/elonmusk/status/2087602469778166195",
+      "tweet_id": "2087602469778166195",
+      "translated": "尝试 Grok @Bot"
     },
     {
       "id": "tweet_cz_binance_2087113573558587662",
@@ -118,7 +118,7 @@
       "content": "So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right now. From optical earnings: 1. $LITE: unexpected demand and imbalance for UHP CW lasers. - Had ability to price up ASP for lasers. - Scale up CPO on track for H2 2027 shipments, called out any CPO scale up delay rumors as noise. Lumentum confirmed timelines (that CPO players like Sivers sold off of misleading reports from), high margins, and extreme demand for qualified CW lasers. 2. $AAOI: doesn’t have enough CW laser capacity because of too much optical transceiver demand. - Not meaningfully participating in first-gen CPO deployments, with $MTSI not looking like they're in it either but focusing on NPO. Haven't seen much with $SMTC after their HieFo acqusition. - Called lasers as the bottleneck within a 20-40% demand imbalance for transceivers. - Says customers approaching them every week asking them for supply + to move faster. AOI confirmed demand imbalances + bottlenecks for lasers. And we got an even smaller pool for first-gen CPO players. 3. Both $AAOI and $LITE claimed Chinese players were years behind for CPO lasers and far behind stated claims in qualified capacity. - $AAOI said 2-3 years+ behind with CPO lasers. - $LITE said they haven't seen anything like Chinese claims in terms of outputs (and no recourse if it's false). Reaffirms moat for CPO related lasers, and no flooding from some shortseller claims on the optical sector. 4. $MTSI said that many customers are approaching them with urgency due to the general supply shortage of indium phosphide DFB lasers. Again, puts Sivers in the that bottleneck, giving them likely more customer demand . Among $COHR ($72.54B), $LITE ($66.57B), $AVGO ($2.13T): It's very special you get one of the public 4 Western CPO leaders at a ~$1.5B MC with $SIVE. Feels like my thesis with both: - The CW bottleneck that I predicted - CW laser chokepoint (where there's only a few CPO players, at least for gen-1) Got validated from earnings, now it's just waiting for the inflection points of next optical architecture shifts.",
       "url": "https://x.com/aleabitoreddit/status/2087447527595692180",
       "tweet_id": "2087447527595692180",
-      "translated": "这就是我现在在 $SIVE 和 CW DFB 激光阻塞点上看到的情况。来自光学收益： 1. $LITE：UHP CW 激光器的意外需求和不平衡。 - 有能力提高激光器的平均售价。 - 扩大原棕油的出货量有望在 2027 年下半年实现，称任何原棕油扩大规模延迟的传言都是噪音。 Lumentum 证实了时间表（像 Sivers 这样的 CPO 参与者出售了误导性报告）、高利润以及对合格连续激光器的极端需求。 2. $AAOI：由于光收发器需求太多，没有足够的连续激光器产能。 - 没有有意义地参与第一代 CPO 部署，$MTSI 看起来也没有参与其中，而是专注于 NPO。在 $SMTC 收购 HieFo 后，我们对他们的了解并不多。 - 认为激光器是收发器需求不平衡 20-40% 的瓶颈。 - 说客户每周都会联系他们，要求他们提供供应+加快行动速度。 AOI 证实了激光器的需求不平衡和瓶颈。我们为第一代 CPO 玩家提供的池子甚至更小。 3. $AAOI 和 $LITE 都声称中国厂商在 CPO 激光器方面落后了很多年，而且在合格产能方面也远远落后于所声称的水平。 - $AAOI 表示 CPO 激光器落后 2-3 年以上。 - $LITE 表示，他们还没有看到任何像中国在产出方面所声称的东西（如果它是错误的，则没有追索权）。重申了 CPO 相关激光器的护城河，并且光学行业的一些卖空者声明不会造成泛滥。 4. $MTSI表示，由于磷化铟DFB激光器普遍供应短缺，许多客户正在紧急联系他们。再次，西弗斯陷入了瓶颈，给他们带来了更多的客户需求。在 $COHR ($72.54B)、$LITE ($66.57B)、$AVGO ($2.13T) 中：非常特别的是，你在 $SIVE 的 ~$1.5B MC 中获得了 4 位西方 CPO 领导者之一。感觉就像我的论文： - 我预测的 CW 瓶颈 - CW 激光阻塞点（只有少数 CPO 参与者，至少对于第一代）已从收益中得到验证，现在只是等待下一个光学架构转变的拐点。"
+      "translated": "这就是我现在在 $SIVE 和 CW DFB 激光阻塞点上看到的情况。来自光学收益： 1. $LITE：UHP CW 激光器的意外需求和不平衡。 - 有能力提高激光器的平均售价。 - 扩大原棕油的出货量有望在 2027 年下半年实现，称任何原棕油扩大规模延迟的传言都是噪音。 Lumentum 证实了时间表（像 Sivers 这样的 CPO 参与者出售了误导性报告）、高利润以及对合格连续激光器的极端需求。 2. $AAOI：由于光收发器需求太多，没有足够的连续激光器产能。 - 没有有意义地参与第一代 CPO 部署，$MTSI 看起来也没有参与其中，而是专注于 NPO。在 $SMTC 收购 HieFo 后，我们对他们的了解不多。 - 认为激光器是收发器需求不平衡 20-40% 的瓶颈。 - 说客户每周都会联系他们，要求他们提供供应+加快行动速度。 AOI 证实了激光器的需求不平衡和瓶颈。我们为第一代 CPO 玩家提供的池子甚至更小。 3. $AAOI 和 $LITE 都声称中国厂商在 CPO 激光器方面落后了很多年，而且在合格产能方面也远远落后于所声称的水平。 - $AAOI 表示 CPO 激光器落后 2-3 年以上。 - $LITE 表示，他们还没有看到任何像中国在产出方面所声称的东西（如果它是错误的，则没有追索权）。重申了 CPO 相关激光器的护城河，并且光学行业的一些卖空者声明不会造成泛滥。 4. $MTSI表示，由于磷化铟DFB激光器普遍供应短缺，许多客户正在紧急联系他们。再次，西弗斯陷入了瓶颈，给他们带来了更多的客户需求。在 $COHR ($72.54B)、$LITE ($66.57B)、$AVGO ($2.13T) 中：非常特别的是，你在 $SIVE 的 ~$1.5B MC 中获得了 4 位西方 CPO 领导者之一。感觉就像我的论文： - 我预测的 CW 瓶颈 - CW 激光阻塞点（只有少数 CPO 参与者，至少对于第一代）已从收益中得到验证，现在只是等待下一个光学架构转变的拐点。"
     },
     {
       "id": "tweet_qinbafrank_2087567196914692502",
