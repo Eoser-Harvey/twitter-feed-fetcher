@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-12T08:20:16.276855+00:00",
+  "fetched_at": "2026-08-12T10:08:31.998841+00:00",
   "total": 24,
   "tweets": [
     {
@@ -33,6 +33,15 @@
       "translated": "Grok Build 非常强大"
     },
     {
+      "id": "tweet_cz_binance_2087476253238657146",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Wed, 12 Aug 2026 09:48:16 GMT",
+      "content": "👀",
+      "url": "https://x.com/cz_binance/status/2087476253238657146",
+      "tweet_id": "2087476253238657146"
+    },
+    {
       "id": "tweet_cz_binance_2087415957451145512",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
@@ -50,16 +59,6 @@
       "url": "https://x.com/cz_binance/status/2085404921914966044",
       "tweet_id": "2085404921914966044",
       "translated": "🇹🇭 泰国确认对比特币和加密货币征收 0% 资本利得税。 👏"
-    },
-    {
-      "id": "tweet_cz_binance_2085402313259463121",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 06 Aug 2026 16:27:11 GMT",
-      "content": "RT by @cz_binance: Standing in front of the Burj Khalifa again. Goosebumps. Around three years ago I was here talking to a crypto bro based in the UAE. He told me most of his friends use @TrustWallet. I said that was impossible. It lacked this feature, that chain, that polish. He just smiled and said, “That’s what I see people using.” Coming back to the same place, I can only laugh at my own naivety. Trust Wallet is more performant now. The UX is better. We support more chains and features than ever. But that’s not why people stay. They stay because they trust. They trust the brand. They trust self-custody. They trust that the team will do right by them. Features can be copied. Performance can be improved. Trust takes years to build. We’re nine years in. Still early. Still entrusted by millions. What we carry forward isn’t just a product. It’s the trust of the people who chose us. It’s always Day 1. Thank you for your trust.",
-      "url": "https://x.com/cz_binance/status/2085402313259463121",
-      "tweet_id": "2085402313259463121",
-      "translated": "RT @cz_binance：再次站在哈利法塔前。起鸡皮疙瘩。大约三年前，我在这里与一位阿联酋的加密兄弟交谈。他告诉我他的大多数朋友都使用@TrustWallet。我说那是不可能的。它缺乏这个功能、那个链条、那个抛光。他只是微笑着说：“我看到人们就是这么用的。”回到同一个地方，我只能嘲笑自己的天真。 Trust Wallet 现在性能更高。用户体验更好。我们支持比以往更多的链条和功能。但这不是人们留下来的原因。他们留下来是因为他们信任。他们信任这个品牌。他们相信自我保管。他们相信团队会为他们做正确的事。特征是可以复制的。性能可以得到改善。信任需要数年时间才能建立。我们已经九年了。还早。仍然受到数百万人的委托。我们传承的不仅仅是产品。这是人们的信任选择了我们。这总是第一天。感谢您的信任。"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
@@ -98,7 +97,7 @@
       "content": "So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right now. From optical earnings: 1. $LITE: unexpected demand and imbalance for UHP CW lasers. - Had ability to price up ASP for lasers. - Scale up CPO on track for H2 2027 shipments, called out any CPO scale up delay rumors as noise. Lumentum confirmed timelines (that CPO players like Sivers sold off of misleading reports from), high margins, and extreme demand for qualified CW lasers. 2. $AAOI: doesn’t have enough CW laser capacity because of too much optical transceiver demand. - Not meaningfully participating in first-gen CPO deployments, with $MTSI not looking like they're in it either but focusing on NPO. Haven't seen much with $SMTC after their HieFo acqusition. - Called lasers as the bottleneck within a 20-40% demand imbalance for transceivers. - Says customers approaching them every week asking them for supply + to move faster. AOI confirmed demand imbalances + bottlenecks for lasers. And we got an even smaller pool for first-gen CPO players. 3. Both $AAOI and $LITE claimed Chinese players were years behind for CPO lasers and far behind stated claims in qualified capacity. - $AAOI said 2-3 years+ behind with CPO lasers. - $LITE said they haven't seen anything like Chinese claims in terms of outputs (and no recourse if it's false). Reaffirms moat for CPO related lasers, and no flooding from some shortseller claims on the optical sector. 4. $MTSI said that many customers are approaching them with urgency due to the general supply shortage of indium phosphide DFB lasers. Again, puts Sivers in the that bottleneck, giving them likely more customer demand . Among $COHR ($72.54B), $LITE ($66.57B), $AVGO ($2.13T): It's very special you get one of the public 4 Western CPO leaders at a ~$1.5B MC with $SIVE. Feels like my thesis with both: - The CW bottleneck that I predicted - CW laser chokepoint (where there's only a few CPO players, at least for gen-1) Got validated from earnings, now it's just waiting for the inflection points of next optical architecture shifts.",
       "url": "https://x.com/aleabitoreddit/status/2087447527595692180",
       "tweet_id": "2087447527595692180",
-      "translated": "这就是我现在在 $SIVE 和 CW DFB 激光阻塞点上看到的情况。来自光学收益： 1. $LITE：UHP CW 激光器的意外需求和不平衡。 - 有能力提高激光器的平均售价。 - 扩大原棕油的出货量有望在 2027 年下半年实现，称任何原棕油扩大规模延迟的传言都是噪音。 Lumentum 证实了时间表（像 Sivers 这样的 CPO 参与者出售了误导性报告）、高利润以及对合格连续激光器的极端需求。 2. $AAOI：由于光收发器需求太多，没有足够的连续激光器产能。 - 没有有意义地参与第一代 CPO 部署，$MTSI 看起来也没有参与其中，而是专注于 NPO。在 $SMTC 收购 HieFo 后，我们对他们的了解不多。 - 认为激光器是收发器需求不平衡 20-40% 的瓶颈。 - 说客户每周都会联系他们，要求他们提供供应+加快行动速度。 AOI 证实了激光器的需求不平衡和瓶颈。我们为第一代 CPO 玩家提供的池子甚至更小。 3. $AAOI 和 $LITE 都声称中国厂商在 CPO 激光器方面落后了很多年，而且在合格产能方面也远远落后于所声称的水平。 - $AAOI 表示 CPO 激光器落后 2-3 年以上。 - $LITE 表示，他们还没有看到任何像中国在产出方面所声称的东西（如果它是错误的，则没有追索权）。重申了 CPO 相关激光器的护城河，并且光学行业的一些卖空者声明不会造成泛滥。 4. $MTSI表示，由于磷化铟DFB激光器普遍供应短缺，许多客户正在紧急联系他们。再次，西弗斯陷入了瓶颈，给他们带来了更多的客户需求。在 $COHR ($72.54B)、$LITE ($66.57B)、$AVGO ($2.13T) 中：非常特别的是，你在 $SIVE 的 ~$1.5B MC 中获得了 4 位西方 CPO 领导者之一。感觉就像我的论文： - 我预测的 CW 瓶颈 - CW 激光阻塞点（只有少数 CPO 参与者，至少对于第一代）已从收益中得到验证，现在只是等待下一个光学架构转变的拐点。"
+      "translated": "这就是我现在在 $SIVE 和 CW DFB 激光阻塞点上看到的情况。来自光学收益： 1. $LITE：UHP CW 激光器的意外需求和不平衡。 - 有能力提高激光器的平均售价。 - 扩大原棕油的出货量有望在 2027 年下半年实现，称任何原棕油扩大规模延迟的传言都是噪音。 Lumentum 证实了时间表（像 Sivers 这样的 CPO 参与者出售了误导性报告）、高利润以及对合格连续激光器的极端需求。 2. $AAOI：由于光收发器需求太多，没有足够的连续激光器产能。 - 没有有意义地参与第一代 CPO 部署，$MTSI 看起来也没有参与其中，而是专注于 NPO。在 $SMTC 收购 HieFo 后，我们对他们的了解并不多。 - 认为激光器是收发器需求不平衡 20-40% 的瓶颈。 - 说客户每周都会联系他们，要求他们提供供应+加快行动速度。 AOI 证实了激光器的需求不平衡和瓶颈。我们为第一代 CPO 玩家提供的池子甚至更小。 3. $AAOI 和 $LITE 都声称中国厂商在 CPO 激光器方面落后了很多年，而且在合格产能方面也远远落后于所声称的水平。 - $AAOI 表示 CPO 激光器落后 2-3 年以上。 - $LITE 表示，他们还没有看到任何像中国在产出方面所声称的东西（如果它是错误的，则没有追索权）。重申了 CPO 相关激光器的护城河，并且光学行业的一些卖空者声明不会造成泛滥。 4. $MTSI表示，由于磷化铟DFB激光器普遍供应短缺，许多客户正在紧急联系他们。再次，西弗斯陷入了瓶颈，给他们带来了更多的客户需求。在 $COHR ($72.54B)、$LITE ($66.57B)、$AVGO ($2.13T) 中：非常特别的是，你在 $SIVE 的 ~$1.5B MC 中获得了 4 位西方 CPO 领导者之一。感觉就像我的论文： - 我预测的 CW 瓶颈 - CW 激光阻塞点（只有少数 CPO 参与者，至少对于第一代）已从收益中得到验证，现在只是等待下一个光学架构转变的拐点。"
     },
     {
       "id": "tweet_aleabitoreddit_2087424400811507963",
@@ -121,6 +120,24 @@
       "translated": "今天有报道称，利奥波德态势感知公司收购了太阳诱电（6976）11.62%的股权。截至 7 月 16 日，这一比例为 5.99%。我确实同意他的立场（如果他仍然如此），即这家 MLCC 制造商对全球人工智能供应链的价值有多大。"
     },
     {
+      "id": "tweet_qinbafrank_2087466334380781769",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 12 Aug 2026 09:08:52 GMT",
+      "content": "又一个利空不跌，小火箭昨天财报强劲但是中子星火箭首飞推迟，按理说昨天走的会很弱。没想到昨晚大幅低开后还能一路高走，又爬回到80以上。大家有没有想起来近期另一个财报利空不跌的是谁？这里https://x.com/qinbafrank/status/2085745455804150029?s=46有聊过。 回到RKLB利空不跌上，个人想可能的原因在于： 1）之前150跌倒60，其实已经计价了太多的利空； 2）虽然中子星首飞推迟，但市场对业绩还是买单的。毕竟发射、系统业务很强劲。现有业务继续变强，产业地位继续上升。 3）还以一层市场可能再预期整合完成铱星通信。之前这里https://x.com/qinbafrank/status/2071579763274289496?s=46聊过，铱星通讯是一个营收接近10亿美金、净利润超过1亿美金的现金牛企业。RKLB把铱星整合完毕后、营收利润规模立马翻倍、还能接手铱星250万用户 ，spcex星链现在用户1200万。同时RKLB能够直接获得全球卫星通信网络、稀缺L-band频谱和经验证的订阅型收入。",
+      "url": "https://x.com/qinbafrank/status/2087466334380781769",
+      "tweet_id": "2087466334380781769"
+    },
+    {
+      "id": "tweet_qinbafrank_2087457166878007695",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 12 Aug 2026 08:32:26 GMT",
+      "content": "今晚的看点：CPI和油价。今天市场最关键的自然是7月cpi，但如上周末聊到的：市场会在油价和cpi数据之间做平衡。这次CPI的关键是核心CPI，油价的背后自然是美伊关于霍尔木兹海峡的协议谈成与否。 1、今晚广义cpi就看能源通胀与核心CPI的对冲效果了。 虽然油价在7月一路上扬，能源通胀大概率是要反弹的（因为美国7月汽油价格并不好、反弹幅度应该不会大）。之前6月cpi数据剔除能源和食品之外的核心CPI走弱，看了下7月跟核心通胀相关的好几项数据都有继续走弱的趋势： 1）首先自然是劳动力市场走弱、时薪数据同比环比也都是低于预期的，工资走弱到来的生活消费等服务需求的减弱。工资会直接影响核心CPI中约三分之一的“非住房服务”； 2）住房通胀：目前最重要、最可靠的下行来源 6月住房CPI环比只上涨 0.1%，是2021年1月以来最小单月涨幅：主要居所租金+0.1%、业主等价租金+0.2%、住房同比3.3%。 而Zillow统计的7月市场租金同比只增长 2.3%。市场租金仍明显低于CPI住房的3.3%，意味着新租约低增速继续向存量租约和CPI住房指标传导。 由于住房约占核心CPI的44.6%，住房每月保持0.1%—0.2%的涨幅，比某个小商品分项下跌更重要。 3）二手车 7月Manheim批发价已经环比跌了1.4%，同比也从2.1%降到1.3%，库存天数还在增加，因此中期偏向二手车分项继续走弱。 不过二手车CPI存在1—3个月的滞后和季调噪音，不一定导致7月二手车价格立即下降、但不否定后续下行趋势。 4）核心商品 6月核心商品已经环比-0.1%、同比只有0.8%。服装、家具、家居用品这些关税敏感类目之前涨势已经放缓。此前关税推高商品价格的边际效应正在减弱，库存增加、消费者价格敏感度上升以及企业促销，都可能进一步限制耐用品价格。还有关键的关税退税，让企业在价格上有很大的让利空间。 上面几点都指向了7月核心通胀会继续走弱的趋势，但也要注意7月有些分项可能技术性反弹（比如二手车、机票、酒店），从具体数据上看：是不是住房稳住、核心商品有没有回暖、劳动密集服务普遍降温。 2、具体实际上 看克利夫兰联储的预期7月cpi同比3.42%、环比0.09%，核心cpi同比2.52%，环比0.21%。四舍五入之后几乎跟市场一致性预期趋同。2.5%的核心CPI是走弱的。 所以个人看今天的数据略低于预期概率最大、符合预期概率出次之。 3、如果是低于预期，对市场自然是利好、短期内市场预期提高持续更久。中期市场还是要回归看美伊博弈和油价走势动向。克利夫兰联储今天实时通胀预测，8月cpi环比预测已经到0.35了、也是需要注意下。 符合预期，可能就比较平稳，然后要看个股和板块的基本面了。中期还是要看美伊博弈和油价走势的。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2087457166878007695",
+      "tweet_id": "2087457166878007695"
+    },
+    {
       "id": "tweet_qinbafrank_2087413895699046794",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -130,22 +147,13 @@
       "tweet_id": "2087413895699046794"
     },
     {
-      "id": "tweet_qinbafrank_2087395743946674296",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 12 Aug 2026 04:28:21 GMT",
-      "content": "对于前几天热议的“多光空存”，前天这里https://x.com/qinbafrank/status/2086749504129372432?s=46&t=k6rimWsEbo2D2tXolYcM-A最后部分聊到的不知多少人听进去了：现在这个时点空存性价比不高了。空间还有，只是最暴力丝滑的阶段过去了。未来就像大科技，甚至可能跟英伟达近两年走势很像了。",
-      "url": "https://x.com/qinbafrank/status/2087395743946674296",
-      "tweet_id": "2087395743946674296"
-    },
-    {
-      "id": "tweet_qinbafrank_2087341090898878706",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 12 Aug 2026 00:51:11 GMT",
-      "content": "关于CRWV二季度财报，个人角度看就是“需求与定价出现正向拐点”。 1、CRWV此前对Q2收入的指引为24-26亿美金，实际收入25.75亿美金，接近指引上限，略高于华尔街约25.6亿美金bn的一致预期。财报真正的亮点是： 1）调整后营业利润达到1.28亿美金，高于此前指引上限9000万美金； 2）一季度利润率约1%、2季度利润率5%，经营利润率刚刚开始从极低水平回升； 3）利息支出6.4亿美金，略低于此前6.5-7.3亿美金的指引； 4）新合同定价和贡献利润率明显改善，全年收入与营业利润指引进一步上调。 市场在重新定价单位经济性和利润率路径 2、第三和第四季度指引很强劲 1）Q3收入指引中点约35.25亿美金、环比增长约37%； 同比25年第三季度增长约158%。Q3调整后营业利润中点为2.3亿美金，对应利润率约6.5%，高于Q2的5%，说明公司预计经营杠杆继续改善。 2）第四季度指引很强 按照全年指引中点机械推算： 全年收入中点128亿美金，上半年收入46.53亿美金，Q3收入指引中值35.25亿美金。 能推算Q4收入约46.22亿美金，这意味着Q4还需要在Q3基础上再环比增长约31%。 可以按照此方法推算出隐含Q4营业利率约6.76亿美金，机械计算对应Q4调整后营业利润率约14.6%。营业利润率继续上扬。 当然也可以说全年指引能否兑现，很大程度上依赖Q4出现非常明显的收入和利润率台阶。 3、Backlog：需求确定性极强，但期限明显拉长 1）二季度末CRWV的收入backlog达到1042亿美金，同比增长246%，公司还表示这一数字不包括7月初以来新增的超过250亿美金客户承诺。若仅把后者作为需求信号，两者合计超过1290亿美金。 2）核心是Backlog结构变化 约40%在24个月内、39%在25—48个月、21%在48个月以后。 按1042亿meijin计算，大致为： 24个月内确认约417亿美金； 25—48个月确认约406亿美金； 48个月以后确认219亿美金。 24个月内转化成营收的Backlog/4 基本上是Q2季度应收的4倍以上，是Q4强乐观指引的一倍以上。 3）CRWV二季度末拥有约1.5GW可用电力，季度内增加约500MW，其中仅6月份就新增超过300MW。截至8月11日已签约电力容量约4.2GW； 4、资本开支、自由现金流与资产负债表 1）Capex规模极大 Q2公司定义Capex约93.52亿美金，相当于季度收入的约3.63倍。上半年Capex约161.39亿美金，相当于上半年收入的约3.47倍。 这里需要明确公司定义Capex包含融资租赁取得的资产，并对在建工程变化进行调整，所以现金流量表中体现的Q2现金购置固定资产64.22亿美金。 2）经营现金流转正，并不等于自由现金流转正 Q2经营现金流为正6.79亿美金，较去年同期的负2.51亿美金明显改善。 但其中包含：13.93亿美金的折旧摊销这一非现金项目； 约7.9亿美金递延收入增加带来的工作资本流入； 客户预付款和合同负债对现金流的支持。 自由现金流还是负的。 这个模式只要合同履约、利用率和再出租价值都成立，就可以创造较高股东回报； 3）资产负债表：融资成本改善，但绝对债务负担继续上升 截至二季度末现金约55.24亿美金，长期债务与租赁义务合计超过510亿美金。Q2融资现金流显示，公司取得约$135亿美金债务融资，同时偿还约39亿美金债务，并取得约10亿美金股权融资。换言之，本季度收入和Capex扩张背后，有非常强的资本市场融资支持。 5、最关键的产业信号 1）新合同利润率提高5—10个百分点 管理层表示，Q2新增合同的预期贡献利润率比最近几个季度签署的合同高约5—10个百分点。 这是整场电话会议最重要的正面信息，因为它意味着新增收入不再只是“以更高Capex换更高收入”，而可能带来更好的增量回报率。 2) 7月整体SKU提价约25% 管理层称，7月份对各类SKU进行了约25%的价格调整，同时转嫁部分组件成本上涨。 这说明当前AI云市场还没有进入激烈价格战，至少在高端GPU和短期可交付容量上，供给仍明显紧于需求。 3）老一代GPU的残值表现好于市场担忧 管理层披露，一批A100合同已经延长至2029年，且价格具有吸引力；上一代GPU的定价也维持在一年前或更高水平。这是对“GPU三年后就完全报废”观点的重要反证。 4）Vera Rubin正在成为下一轮利润率驱动因素 CRWV表示自己是首批完成NVIDIA Vera Rubin NVL72部署和验证的云服务商之一，管理层称Vera Rubin是新合同利润率提升的重要来源。 总的来说，CRWV这一份财报证明了其产业需求、定价和交付能力比市场预期的更好， 管理层给了极其强劲的三季度和隐含四季度指引，可能是盘后股价大涨的缘故。 超大CSP的财报证明算力需求在快速增长以及商业化也在速，现在看新云厂商的中大csp也开始证明这一点 。估计明天nbis 的财报也很不错",
-      "url": "https://x.com/qinbafrank/status/2087341090898878706",
-      "tweet_id": "2087341090898878706"
+      "id": "tweet_xiaomustock_2087456093979254889",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Wed, 12 Aug 2026 08:28:10 GMT",
+      "content": "相当于散户都没在车上了大都爆仓割肉了， 存储这波去杠杆很彻底了。 买在无人问津，卖在人声鼎沸。 “昨天，韩国金融监管方面，韩国副总理发言表示韩国股票杠杆的交易规模已从7月30日的12.4万亿韩元缩减至8月7日的8000亿韩元，较6月25日的19.4万亿韩元峰值减少近96%。 这某种程度上说明韩国第一波去杠杆应该是接近尾声。”",
+      "url": "https://x.com/xiaomustock/status/2087456093979254889",
+      "tweet_id": "2087456093979254889"
     },
     {
       "id": "tweet_xiaomustock_2086991960590725546",
@@ -164,15 +172,6 @@
       "content": "电脑就能装的小模型来了， $META 发布了Muse Spark 1.2模型精简版， 参数规模只有300亿，RTX 3090 24GB规格以上的单显卡都能安装这个模型。",
       "url": "https://x.com/xiaomustock/status/2086785104333177130",
       "tweet_id": "2086785104333177130"
-    },
-    {
-      "id": "tweet_xiaomustock_2086640068824035640",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Mon, 10 Aug 2026 02:25:34 GMT",
-      "content": "bbbb回来了minimax， minimax还有个科创板上市的利好没有被过会。",
-      "url": "https://x.com/xiaomustock/status/2086640068824035640",
-      "tweet_id": "2086640068824035640"
     },
     {
       "id": "tweet_xingpt_2087371153602183256",
