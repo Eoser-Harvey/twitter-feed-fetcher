@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-12T11:48:41.240182+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-12T13:14:28.449518+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2087411297411625227",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 12 Aug 2026 05:30:10 GMT",
-      "content": "RT by @elonmusk: Everyone else is talking about building ASI to like monopolize b2b saas and Elon is talking about building a kardashev II sentient sun",
-      "url": "https://x.com/elonmusk/status/2087411297411625227",
-      "tweet_id": "2087411297411625227",
-      "translated": "RT @elonmusk：其他人都在谈论建立 ASI 以垄断 B2B Saas，而 Elon 则在谈论建立一个卡尔达舍夫 II 感知太阳"
-    },
-    {
-      "id": "tweet_elonmusk_2087246938530062794",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 11 Aug 2026 18:37:03 GMT",
-      "content": "RT by @elonmusk: meeting more and more people who are daily driving grok",
-      "url": "https://x.com/elonmusk/status/2087246938530062794",
-      "tweet_id": "2087246938530062794",
-      "translated": "RT @elonmusk：认识越来越多每天驾驶 grok 的人"
-    },
-    {
-      "id": "tweet_elonmusk_2087433701764497852",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 12 Aug 2026 06:59:11 GMT",
-      "content": "Grok Build is extremely powerful",
-      "url": "https://x.com/elonmusk/status/2087433701764497852",
-      "tweet_id": "2087433701764497852",
-      "translated": "Grok Build 非常强大"
-    },
     {
       "id": "tweet_cz_binance_2087113573558587662",
       "username": "cz_binance",
@@ -50,7 +20,7 @@
       "content": "Why does Binance's market share grow so quickly in new sectors? Short answer: users. Some exchanges extract maximum profit from their users, max fees, some even trade against their users while offering 0-fees or 100% rebate to referrers. But they can't keep the users. Protect users = protect your future businesses, even the ones you haven't launched yet.",
       "url": "https://x.com/cz_binance/status/2087479940149289135",
       "tweet_id": "2087479940149289135",
-      "translated": "为什么币安在新领域的市场份额增长如此之快？简短的回答：用户。一些交易所从用户那里获取最大利润和最高费用，有些交易所甚至与用户进行交易，同时向推荐人提供 0 费用或 100% 回扣。但他们留不住用户。保护用户=保护您未来的业务，即使是您尚未启动的业务。"
+      "translated": "为什么币安在新领域的市场份额增长如此之快？简短的回答：用户。一些交易所从用户那里获取最大利润、最高费用，有些交易所甚至与用户进行交易，同时向推荐人提供 0 费用或 100% 回扣。但他们留不住用户。保护用户=保护您未来的业务，即使是您尚未启动的业务。"
     },
     {
       "id": "tweet_cz_binance_2087476253238657146",
@@ -91,6 +61,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2087515371750490383",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 12 Aug 2026 12:23:43 GMT",
+      "content": "$NBIS outlook is pretty insane yet again. $582.3M revenue (+454% Y/Y, +46% Q/Q) off ~50% adjusted EBITDA margin (AI Cloud). $8.04B cash on hand. Reiterates financial guide (2026 revenue: $3.0–$3.4B 2026 EoY ARR: $7–$9B), I was hoping for a raise, but it's already massive growth. Not really about this quarter financials, but these signals: - \"We could sell our entire 2027 capacity on these terms today.\" massive visibility on demand - \"4 customer agreements averaging over $1B+ each in contract value\" - Around 70% of Q2 deals included customer prepayments - Contracted power guidance was raised again, from more ~4+ GW to 5 GW. (this used to be a concern vs. $IREN debate, but Nebius power guidance keeps going through the roof). - Expects $9B+ of prepayments in 2026 and says it has $40B+ of commitments. - annual contract value per MW keeps going brrr (>$40M/mw for Q3 short term capacity deals) Same bear story will always be there (eg. large $5.66B of capex with current GAAP net loss), but demand is extreme with massive visibility, with increasing AI Cloud adjusted EBITDA margins ( 24% -> 45% -> 50% progression) We kinda got this read through from all your hyperscaler cloud earnings and $CRWV backlog yesterday, but glad it's showing up in Weebius's earnings.",
+      "url": "https://x.com/aleabitoreddit/status/2087515371750490383",
+      "tweet_id": "2087515371750490383",
+      "translated": "$NBIS 的前景再次相当疯狂。调整后 EBITDA 利润率约为 50%（AI Cloud），收入为 5.823 亿美元（同比增长 454%，季度增长 46%）。 $8.04B 手头现金。重申财务指南（2026年收入：$3.0–$3.4B 2026 EoY ARR：$7–$9B），我希望加薪，但它已经是巨大的增长。其实并不是关于本季度的财务数据，而是这些信号：“我们今天可以按照这些条件出售 2027 年的全部产能。”按需提供大量可见性 - “4 个客户协议的合同价值平均超过 10 亿美元以上” - 第二季度交易中大约 70% 包括客户预付款 - 合同电力指引再次上调，从约 4+ 吉瓦提高到 5 吉瓦。 （这曾经是与 $IREN 争论的一个问题，但 Nebius 功率指导一直在飙升）。 - 预计 2026 年预付款额将达到 9B+ 美元，并表示已承诺支付 40B+ 美元。 - 每兆瓦的年度合同价值持续增长（第三季度短期产能交易>4000万美元/兆瓦）同样的熊市故事将永远存在（例如，当前 GAAP 净亏损的资本支出高达 5.66B 美元），但随着 AI 云调整后 EBITDA 利润率的增加（24% -> 45% -> 50% 的进展），需求是极端的，可见度很高（24% -> 45% -> 50%），我们从所有超大规模云收入和 $CRWV 中读到了这一点昨天积压了订单，但很高兴它出现在威比斯的收益中。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2087505570941239683",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -98,7 +78,7 @@
       "content": "$AEHR receives another $22M follow on order for AI processor wafer level burn in systems. By their lead AI processor company. It’s cool to see this tiny company grow up so fast across so many verticals (memory, silicon photonics, etc). Up +5.39% premarket off the news.",
       "url": "https://x.com/aleabitoreddit/status/2087505570941239683",
       "tweet_id": "2087505570941239683",
-      "translated": "$AEHR 又收到了 2200 万美元的 AI 处理器晶圆级烧录系统订单。由他们领先的人工智能处理器公司提供。看到这家小公司在如此多的垂直领域（存储器、硅光子学等）发展得如此之快，真是太酷了。消息传出后，盘前上涨 5.39%。"
+      "translated": "$AEHR 又收到了 2200 万美元的 AI 处理器晶圆级烧录系统订单。由他们领先的人工智能处理器公司提供。看到这家小公司在如此多的垂直领域（内存、硅光子学等）发展得如此之快，真是太酷了。消息传出后，盘前上涨 5.39%。"
     },
     {
       "id": "tweet_aleabitoreddit_2087447527595692180",
@@ -111,14 +91,13 @@
       "translated": "这就是我现在在 $SIVE 和 CW DFB 激光阻塞点上看到的情况。来自光学收益： 1. $LITE：UHP CW 激光器的意外需求和不平衡。 - 有能力提高激光器的平均售价。 - 扩大原棕油的出货量有望在 2027 年下半年实现，称任何原棕油扩大规模延迟的传言都是噪音。 Lumentum 证实了时间表（像 Sivers 这样的 CPO 参与者出售了误导性报告）、高利润以及对合格连续激光器的极端需求。 2. $AAOI：由于光收发器需求太多，没有足够的连续激光器产能。 - 没有有意义地参与第一代 CPO 部署，$MTSI 看起来也没有参与其中，而是专注于 NPO。在 $SMTC 收购 HieFo 后，我们对他们的了解不多。 - 认为激光器是收发器需求不平衡 20-40% 的瓶颈。 - 说客户每周都会联系他们，要求他们提供供应+加快行动速度。 AOI 证实了激光器的需求不平衡和瓶颈。我们为第一代 CPO 玩家提供的池子甚至更小。 3. $AAOI 和 $LITE 都声称中国厂商在 CPO 激光器方面落后了很多年，而且在合格产能方面也远远落后于所声称的水平。 - $AAOI 表示 CPO 激光器落后 2-3 年以上。 - $LITE 表示，他们还没有看到任何像中国在产出方面所声称的东西（如果它是错误的，则没有追索权）。重申了 CPO 相关激光器的护城河，并且光学行业的一些卖空者声明不会造成泛滥。 4. $MTSI表示，由于磷化铟DFB激光器普遍供应短缺，许多客户正在紧急联系他们。再次，西弗斯陷入了瓶颈，给他们带来了更多的客户需求。在 $COHR ($72.54B)、$LITE ($66.57B)、$AVGO ($2.13T) 中：非常特别的是，你在 $SIVE 的 ~$1.5B MC 中获得了 4 位西方 CPO 领导者之一。感觉就像我的论文： - 我预测的 CW 瓶颈 - CW 激光阻塞点（只有少数 CPO 参与者，至少对于第一代）已从收益中得到验证，现在只是等待下一个光学架构转变的拐点。"
     },
     {
-      "id": "tweet_aleabitoreddit_2087424400811507963",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 12 Aug 2026 06:22:14 GMT",
-      "content": "What a legend, Situational Awareness bought 1/6th of the entire company of Taiyo Yuden. Pretty wild to see this unfolding.",
-      "url": "https://x.com/aleabitoreddit/status/2087424400811507963",
-      "tweet_id": "2087424400811507963",
-      "translated": "真是传奇啊，态势感知买下了太阳诱电全公司1/6的股份。看到这样的事情发生真是太疯狂了。"
+      "id": "tweet_qinbafrank_2087516325849731541",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 12 Aug 2026 12:27:30 GMT",
+      "content": "不出意外，NBIS财报也很爆，Q2营收5.82亿美元，同比大增454%；调整后净亏损3320万美元，同比收窄64%；AI云业务营收大涨514%，达到5.75亿美元；调整后EBITDA利润率提升至50%； 上调 2026 年度签约电力容量指引至 5 吉瓦，并预计自 2027 年起，每年落地超 1 吉瓦。 大空头的做空仓位还好么？🤔",
+      "url": "https://x.com/qinbafrank/status/2087516325849731541",
+      "tweet_id": "2087516325849731541"
     },
     {
       "id": "tweet_qinbafrank_2087466334380781769",
@@ -137,15 +116,6 @@
       "content": "今晚的看点：CPI和油价。今天市场最关键的自然是7月cpi，但如上周末聊到的：市场会在油价和cpi数据之间做平衡。这次CPI的关键是核心CPI，油价的背后自然是美伊关于霍尔木兹海峡的协议谈成与否。 1、今晚广义cpi就看能源通胀与核心CPI的对冲效果了。 虽然油价在7月一路上扬，能源通胀大概率是要反弹的（因为美国7月汽油价格并不好、反弹幅度应该不会大）。之前6月cpi数据剔除能源和食品之外的核心CPI走弱，看了下7月跟核心通胀相关的好几项数据都有继续走弱的趋势： 1）首先自然是劳动力市场走弱、时薪数据同比环比也都是低于预期的，工资走弱到来的生活消费等服务需求的减弱。工资会直接影响核心CPI中约三分之一的“非住房服务”； 2）住房通胀：目前最重要、最可靠的下行来源 6月住房CPI环比只上涨 0.1%，是2021年1月以来最小单月涨幅：主要居所租金+0.1%、业主等价租金+0.2%、住房同比3.3%。 而Zillow统计的7月市场租金同比只增长 2.3%。市场租金仍明显低于CPI住房的3.3%，意味着新租约低增速继续向存量租约和CPI住房指标传导。 由于住房约占核心CPI的44.6%，住房每月保持0.1%—0.2%的涨幅，比某个小商品分项下跌更重要。 3）二手车 7月Manheim批发价已经环比跌了1.4%，同比也从2.1%降到1.3%，库存天数还在增加，因此中期偏向二手车分项继续走弱。 不过二手车CPI存在1—3个月的滞后和季调噪音，不一定导致7月二手车价格立即下降、但不否定后续下行趋势。 4）核心商品 6月核心商品已经环比-0.1%、同比只有0.8%。服装、家具、家居用品这些关税敏感类目之前涨势已经放缓。此前关税推高商品价格的边际效应正在减弱，库存增加、消费者价格敏感度上升以及企业促销，都可能进一步限制耐用品价格。还有关键的关税退税，让企业在价格上有很大的让利空间。 上面几点都指向了7月核心通胀会继续走弱的趋势，但也要注意7月有些分项可能技术性反弹（比如二手车、机票、酒店），从具体数据上看：是不是住房稳住、核心商品有没有回暖、劳动密集服务普遍降温。 2、具体实际上 看克利夫兰联储的预期7月cpi同比3.42%、环比0.09%，核心cpi同比2.52%，环比0.21%。四舍五入之后几乎跟市场一致性预期趋同。2.5%的核心CPI是走弱的。 所以个人看今天的数据略低于预期概率最大、符合预期概率出次之。 3、如果是低于预期，对市场自然是利好、短期内市场预期提高持续更久。中期市场还是要回归看美伊博弈和油价走势动向。克利夫兰联储今天实时通胀预测，8月cpi环比预测已经到0.35了、也是需要注意下。 符合预期，可能就比较平稳，然后要看个股和板块的基本面了。中期还是要看美伊博弈和油价走势的。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
       "url": "https://x.com/qinbafrank/status/2087457166878007695",
       "tweet_id": "2087457166878007695"
-    },
-    {
-      "id": "tweet_qinbafrank_2087413895699046794",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 12 Aug 2026 05:40:29 GMT",
-      "content": "Lumentum最新财报对$LITE和光互连板块的意义是什么？LITE今天财报很强，夜盘股价走势也很好。聊几个重点： 1、非GAAP毛利率达50.4%，而原计划是在20亿美元的季度营收规模时才能达到这一门槛。 这份财报质量非常高，财报的盈利质量非常高，增量收入以极高比例转化成利润。26年Q4营收环比增加1.979亿美元，Non-GAAP毛利润增加1.20亿美元，Non-GAAP营业利润增加1.081亿美元；对应增量毛利率约60.6%，对应增量营业利润率约54.6%。 意味着本季度每增加1美元收入，大约有0.61美元进入毛利润、0.55美元进入营业利润。与此同时，Non-GAAP营业费用只环比增加1190万美元，营业费用率由15.6%降至13.7%。已经不是单纯依靠涨价，而是产品组合、产能利用率、良率和固定成本摊薄共同作用的结果。 连续三个季度环比增速20%以上，下一季度业绩指引中值12.5亿美金相比这一季度环比增长24%，环比也在加速。 2、分业务看 1）增长不再只押注某一种激光器或某一家客户。EML（Electro-Absorption Modulated Laser，电吸收调制激光器）、CW激光器（Continuous-Wave Laser，连续波激光器）、泵浦激光器、窄线宽激光器、800G/1.6T光模块和OCS都在同步扩张。 2）1.6T已经从“下一代故事”进入出货阶段 本季度云端光收发模块仍以800G为主，但公司已按计划开始出货1.6T，并预计其采用速度从2027财年第一季度开始加快、持续至2027自然年。 管理层认为，1.6T设计难度更高，反而放大了公司的信号完整性和工程能力优势。随着客户定制AI集群从800G切换至1.6T，光模块的平均销售价格和盈利能力也在上升。 3）OCS正在从验证期进入收入主线 Lumentum的OCS出货量从2026财年第三季度到第四季度翻倍，公司预计2027财年第一季度将首次实现 OCS单季收入超过1亿美元。 更重要的公司不再只规划单一规格，而是在开发更高端口数、更低端口数以及托盘内置式产品。管理层称，这些新形态属于现有市场之外的增量机会，预计在2028年前后开始产生影响。 4）NPO与CPO并存而非替代，而是光进入机架的加速器 CPO仍被公司视为长期技术终局，但多数客户正在优先推进NPO，LITE把NPO作为铜互连向CPO迁移的中间架构，已收到首个ELS（External Light Source，外置光源）模块订单，并预计超高功率激光器在2027年下半年放量，对应客户2028年的纵向扩展部署。 这意味着，同一套高功率激光技术可以同时服务NPO和CPO；对Lumentum而言，NPO带来的不是需求转移，而是光学总可服务市场的额外扩大。 5）真正的瓶颈已经转向磷化铟与激光器产能 EML需求仍高于供给，超高功率激光器的供需缺口甚至进一步扩大；泵浦激光器在快速扩产后仍处于产能基本售罄状态。公司正扩充日本两座磷化铟晶圆厂，引入AXT提供额外衬底，并推进Greensboro工厂从砷化镓向磷化铟工艺转换。 换句话说，这轮增长的约束不是“订单够不够”，而是高性能激光芯片能否按时生产出来。 3、对光互连产业的意义 1）光互连业务增量比大家想的更大 LITE的CEO Michael Hurlston说“为了让大家有个直观概念，对于一个主要的超大规模云厂商来说，仅仅连接两个AI数据中心站点的网络容量，就是他们过去十年建设的全球骨干网总容量的两倍。” “NPO对我们完全是增量性的，显著扩大了光可寻址市场（optical TAM）。借助我们差异化的激光芯片，多个高速推进的客户合作中 NPO 动能强劲；即便我们最大的 CPO 客户，也在针对特定新用例评估 NPO。” 2）这一次Lumentum把光互联的路径修正得更清楚： 光不会马上替代机柜内部所有铜连接，第一步更可能发生在跨机柜和大于单机柜的scale-up拓扑。 800G、1.6T和OCS属于当前兑现，NPO、CPO进入scale-up的大规模收入更多看2027年下半年到2028年。 scale-up 抬高光学价值量这个方向没变，但是时间和位置变了——先跨机柜，再逐步往机柜内部走。 随着scale-up域不断扩大，产业链不能继续按GPU数量×单卡价值量计算。现在计算域已经从单卡扩展到整柜，未来还会进一步延伸到跨机柜，交换、光互联、PCB、电源和液冷环节的重要性都会随之提升，NPO用量和光互联在总价值量中的占比也会逐步上升。 3）如果再把前两个季度的电话会表述结合起看 2月初26年Q2财报电话会的时候抛了一大堆概念：1.6T、OCS、CPO、ELS、更高InP产能，但都没有明确的时间节奏，也不清晰。但这个季度明显时间节奏给的更清晰了 而且这次明确说到NPO的实际部署时间可能比CPO还要更早，甚至可能提前一个季度左右。 之前认为依靠日本供应商提供的磷化铟衬底，基本可以支持未来的扩产。这一次明确承认InP供应又变紧了，公司需要重新锁定更多供应能力。看起来Lumentum自己也没有完全准确预判需求增长的幅度、需要多少供给来满足。 再把之前AAOI财报https://x.com/qinbafrank/status/2086281764356665611?s=46&t=k6rimWsEbo2D2tXolYcM-A结合起来看、对光互连后面的发展节奏就会更清晰了。 之前看好近期光互连板块的逻辑在这里https://x.com/qinbafrank/status/2084449500744319334?s=46&t=k6rimWsEbo2D2tXolYcM-A 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2087413895699046794",
-      "tweet_id": "2087413895699046794"
     },
     {
       "id": "tweet_xiaomustock_2087456093979254889",
@@ -175,6 +145,24 @@
       "tweet_id": "2086785104333177130"
     },
     {
+      "id": "tweet_xingpt_2087523508683526361",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 12 Aug 2026 12:56:03 GMT",
+      "content": "窥一斑而知全豹，Coreweave财报不错，同行业的NBIS运营水平此前就一直在Coreweave之上，所以猜测Nebius的财报不会太差，果然Nebius新一季度的财报大超预期，盘前涨幅超过 15%。 距离我 8 月 3 日在会员频道第一次覆盖并强烈推荐Nebius，NBIS的股价从 185 涨到225，超过 20%。 https://x.com/xingpt/status/2083970523843973588?s=20",
+      "url": "https://x.com/xingpt/status/2087523508683526361",
+      "tweet_id": "2087523508683526361"
+    },
+    {
+      "id": "tweet_xingpt_2087507207902593039",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 12 Aug 2026 11:51:17 GMT",
+      "content": "nbis在搞什么？官网刚公布的上个季度财报就给删了",
+      "url": "https://x.com/xingpt/status/2087507207902593039",
+      "tweet_id": "2087507207902593039"
+    },
+    {
       "id": "tweet_xingpt_2087501328570515738",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -182,24 +170,6 @@
       "content": "恭喜杀破狼首先被AI替代了！",
       "url": "https://x.com/xingpt/status/2087501328570515738",
       "tweet_id": "2087501328570515738"
-    },
-    {
-      "id": "tweet_xingpt_2087484677506638085",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 12 Aug 2026 10:21:45 GMT",
-      "content": "一个时代过去了，那十年并不是经济最好的十年，但是没有那十年把包袱甩掉，把坑填平，就没有后面经济上行期的10-15 年。",
-      "url": "https://x.com/xingpt/status/2087484677506638085",
-      "tweet_id": "2087484677506638085"
-    },
-    {
-      "id": "tweet_xingpt_2087481767435653354",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 12 Aug 2026 10:10:11 GMT",
-      "content": "长江存储NAND出货量进入全球前三，主要依赖消费级的SSD爆量，但服务器端估计也会赶上来",
-      "url": "https://x.com/xingpt/status/2087481767435653354",
-      "tweet_id": "2087481767435653354"
     },
     {
       "id": "tweet_hibtc37_2087374830522048539",
@@ -230,8 +200,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
