@@ -1,36 +1,46 @@
 {
-  "fetched_at": "2026-08-13T18:00:15.551476+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-13T19:15:36.990494+00:00",
+  "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2087642719447609374",
+      "id": "tweet_elonmusk_2087926969333698743",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 12 Aug 2026 20:49:45 GMT",
-      "content": "RT by @elonmusk: Grok Bot has taken over the entire internet. And for good reason It is an EXCELLENT AI agent But you HAVE to set it up the right way Here are the first 5 steps to make your Grok Bot agent team SUPER powerful: 1. Brain dump everything about yourself, goals, passions, and career into the initial agent. This is going to give it the context it needs to set up your agent team 2. Next, prompt the agent \"Based on what you know about me, what do you think would be the best set up of this Grok Bot app? Which bots should I make and what should their responsibilities be? This should enable the best workflow and productivity\" This will give you the perfect plan for setting up Grok Bot 3. After reviewing the plan, ask the Bot to set up your workspace for you. It will create the agents, give the right context and descriptions, and make sure your setup is built for productivity 4. Next, ask it for which routines each agent can set up to help you out the most. This should give you a list of cron jobs (routines) that each agent can do on a regular interval 5. Ask the agent to implement these And just like that, you have the most powerful AI agent on the internet all set up. You have an entire fleet of agents ready to go and do work for you. And in fact, because you set up the routines, they're ALREADY doing work for you Enjoy the AGI",
-      "url": "https://x.com/elonmusk/status/2087642719447609374",
-      "tweet_id": "2087642719447609374",
-      "translated": "RT @elonmusk：Grok Bot 已经占领了整个互联网。有充分的理由它是一个优秀的人工智能代理，但你必须以正确的方式设置它以下是使你的 Grok Bot 代理团队超级强大的前 5 个步骤： 1. 将关于你自己、目标、激情和职业的所有内容转储到初始代理中。这将为它提供设置代理团队所需的背景信息 2. 接下来，提示代理“根据您对我的了解，您认为这个 Grok Bot 应用程序的最佳设置是什么？我应该创建哪些机器人以及它们的职责应该是什么？这应该能够实现最佳的工作流程和生产力”这将为您提供设置 Grok Bot 的完美计划 3. 在审查该计划后，请机器人为您设置工作区。它将创建代理，提供正确的上下文和描述，并确保您的设置是为了提高生产力而构建的。 4. 接下来，询问它每个代理可以设置哪些例程来为您提供最大的帮助。这应该为您提供每个代理可以定期执行的 cron 作业（例程）列表 5. 要求代理实现这些任务就这样，您就拥有了互联网上最强大的 AI 代理。您拥有一整支代理队伍随时准备为您服务。事实上，因为您设置了例程，它们已经在为您工作了，享受 AGI"
+      "published_at": "Thu, 13 Aug 2026 15:39:15 GMT",
+      "content": "RT by @elonmusk: Less than 48 hours ago, SpaceXAI dropped Grok 4.6. People are already building crazy stuff with it. 10 wild examples:",
+      "url": "https://x.com/elonmusk/status/2087926969333698743",
+      "tweet_id": "2087926969333698743",
+      "translated": "RT @elonmusk：不到 48 小时前，SpaceXAI 放弃了 Grok 4.6。人们已经用它构建了疯狂的东西。 10个疯狂的例子："
     },
     {
-      "id": "tweet_elonmusk_2087910515246784773",
+      "id": "tweet_elonmusk_2087974756012159128",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 14:33:52 GMT",
-      "content": "Not bad",
-      "url": "https://x.com/elonmusk/status/2087910515246784773",
-      "tweet_id": "2087910515246784773",
-      "translated": "不错"
+      "published_at": "Thu, 13 Aug 2026 18:49:09 GMT",
+      "content": "All other sources of energy combined are utterly insignificant compared to the Sun",
+      "url": "https://x.com/elonmusk/status/2087974756012159128",
+      "tweet_id": "2087974756012159128",
+      "translated": "与太阳相比，所有其他能源加起来都是微不足道的"
     },
     {
-      "id": "tweet_elonmusk_2087909414418235548",
+      "id": "tweet_elonmusk_2087970571942281375",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 14:29:30 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2087909414418235548",
-      "tweet_id": "2087909414418235548",
-      "translated": "视频"
+      "published_at": "Thu, 13 Aug 2026 18:32:31 GMT",
+      "content": "RT by @elonmusk: You know how everyone started seeing their friends in the timeline a few weeks ago? With our new open-source code base, you'd also have been able to see what changed under the hood -- here's the story: https://github.com/xai-org/x-algorithm/blob/main/docs/BIDIRECTIONAL_BOOST_CHANGE.md",
+      "url": "https://x.com/elonmusk/status/2087970571942281375",
+      "tweet_id": "2087970571942281375",
+      "translated": "RT @elonmusk：你知道几周前每个人是如何开始在时间轴上看到他们的朋友的吗？借助我们新的开源代码库，您还可以看到幕后发生的变化——故事如下：https://github.com/xai-org/x-algorithm/blob/main/docs/BIDIRECTIONAL_BOOST_CHANGE.md"
+    },
+    {
+      "id": "tweet_cz_binance_2087971745190044010",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 13 Aug 2026 18:37:11 GMT",
+      "content": "Not a great month for hardware wallets. Trezor disclosed a breach at its shipping provider affecting ~13.7K recent customers. ~11.7K had full name, email, phone and shipping address exposed. Trezor systems/private keys were not compromised. The leak directly links identities and physical addresses to known crypto holders, creating significant phishing, social-engineering and potential physical-security risk. Hardware wallets are often considered \"more secure\" than software wallets. While I still think that is \"generally true\" in a few specific aspects, this incident reinforces an advantage of software self-custody wallets (such as Binance Web3 Wallet & Trust Wallet), without purchasing and shipping a physical device that links a user's identity and address to crypto ownership. Not saying hardware wallets are \"bad\". Just different risk profiles. YZiLabs is an investor in many hardware wallets. Security, privacy and convenience comes in many different shapes. The more we can educate our communities, the better. https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident",
+      "url": "https://x.com/cz_binance/status/2087971745190044010",
+      "tweet_id": "2087971745190044010",
+      "translated": "对于硬件钱包来说，这不是一个好月份。 Trezor 披露了其运输提供商的违规行为，影响了约 13,700 名最近的客户。 ~11.7K 的全名、电子邮件、电话和送货地址被暴露。 Trezor 系统/私钥没有受到损害。此次泄露直接将身份和物理地址与已知的加密货币持有者联系起来，从而造成严重的网络钓鱼、社会工程和潜在的物理安全风险。硬件钱包通常被认为比软件钱包“更安全”。虽然我仍然认为这在某些特定方面“总体上是正确的”，但这一事件强化了软件自我托管钱包（例如币安 Web3 钱包和 Trust 钱包）的优势，而无需购买和运输将用户的身份和地址与加密所有权相关联的物理设备。并不是说硬件钱包“不好”。只是风险状况不同。 YZiLabs 是许多硬件钱包的投资者。安全、隐私和便利有多种不同的形式。我们对社区的教育越多越好。 https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident"
     },
     {
       "id": "tweet_cz_binance_2087941099793027110",
@@ -53,13 +63,33 @@
       "translated": "RT @cz_binance：🔥 刚刚报道：Binance bStocks 已超越 xStocks，成为第二大代币化股票发行商，价值 6.106 亿美元。 Ondo 仍以每个令牌终端约 9.27 亿美元的价格保持市场领先地位。"
     },
     {
-      "id": "tweet_cz_binance_2087909159912309033",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 13 Aug 2026 14:28:29 GMT",
-      "content": "RT by @cz_binance: 🚀 币安已扩大bStocks代币化证券获取渠道 第三方代币化证券，也能直接兑换 bStocks ： ✅ 直接充值第三方代币化证券至币安现货钱包 ✅ 1:1 兑换为对应 bStocks，活动期间免手续费 ✅ 兑换后可享 7×24 小时交易、提现及赎回 ⏰ 免手续费兑换至 8 月 27 日 07:59（UTC+8） 了解更多👇 https://www.binance.com/zh-CN/support/announcement/detail/c16868c76a264a0690d18ac26f637b0c",
-      "url": "https://x.com/cz_binance/status/2087909159912309033",
-      "tweet_id": "2087909159912309033"
+      "id": "tweet_realDonaldTrump_2082159711852298494",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
+      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
+      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
+      "tweet_id": "2082159711852298494",
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2087867722784805170",
@@ -79,7 +109,7 @@
       "content": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. - I have 0 idea. ZERO. How they convinced shareholders to allow them dilute SO MUCH to the point: They have an absurd ~$830m cash on hand now. And my guess is that they're close to done, since I would be in disbelief if they needed more. So now... they have ~$830m to grow their business like M&A, and EV actually dropped really low recently (eg. $1.25B MC vs. $830m cash on hand), that I thought it was compelling to take a risk. - Annualized production capacity target is 12M optical engines/year for 2027, which is pretty absurd ramp. Need to do more research into ASP for Poet's products, but maybe $125-$200? So at ~$150 ASP, $1.8B revenue ceiling. But they're like inverse AAOI right now: no visible demand to fill all that capacity. Aside from Lumilens, which is now a highly valued hyperscaler supplier (probably Amazon or Microsoft), with billions in customer agreements. The interesting thing is if Poet signed prepayment EML agreements with players like Mitsubishi, or CW agreements with Sivers behind the scenes with that balance sheet. And given the current bottleneck, players might use Poet as a workaround for supply procurement. But basically, you have a super cash-rich company with a ton of capacity coming online. And they're not really disappearing anytime soon with their financials. I don't quite think it's as technically defensible compared to upstream laser chokepoints with something like $SIVE around the same valuation in terms of technical moat for CW lasers vs. OE packaging side. As you've seen recently with Celestial and Poet. But maybe... there's a chance some hyperscaler or downstream company announces a volume agreement sometime in the future. and $POET takes off. And they do have the supply chain setup for ramp with that. That's the risk I ended up taking, but it's not exactly a clear as day long for me like $AAOI.",
       "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
       "tweet_id": "2087846074027295020",
-      "translated": "好吧，这是我对 $POET 的看法，因为显然人们在 Reddit 子版块上庆祝我持有小仓位。 - 我有0个想法。零。他们如何说服股东允许他们进行如此大的稀释：他们现在手头有大约 8.3 亿美元的荒谬现金。我的猜测是他们已经接近完成了，因为如果他们需要更多，我会难以置信。所以现在......他们有大约 8.3 亿美元来发展他们的业务，比如并购，而 EV 最近实际上下降得非常低（例如，$1.25B MC vs. 8.3 亿美元手头现金），我认为冒险是很有必要的。 - 2027 年年产能目标为 1200 万台光学引擎/年，这是相当荒谬的增长。需要对 Poet 产品的 ASP 进行更多研究，但可能是 125-200 美元？因此，平均售价约为 150 美元，收入上限为 1.8B 美元。但它们现在就像逆 AAOI：没有明显的需求来填补所有这些容量。除了 Lumilens 之外，它现在是一家高价值的超大规模供应商（可能是亚马逊或微软），拥有数十亿美元的客户协议。有趣的是，Poet 是否与三菱等公司签署了预付款 EML 协议，或者与资产负债表幕后的 Sivers 签署了 CW 协议。鉴于当前的瓶颈，玩家可能会使用 Poet 作为供应采购的解决方法。但基本上，你拥有一家现金超级充裕的公司，并且有大量的在线产能。而且他们的财务状况并不会很快消失。我认为，与上游激光瓶颈相比，它在技术上不太具有防御性，在连续激光器与 OE 封装方面的技术护城河方面，类似 $SIVE 的估值大致相同。正如您最近在《Celestial》和《Poet》中看到的那样。但也许……一些超大规模企业或下游公司有可能在未来某个时候宣布达成批量协议。 $POET 起飞。他们确实有相应的供应链设置。这就是我最终承担的风险，但对我来说，这并不像 $AAOI 那样一目了然。"
+      "translated": "好吧，这是我对 $POET 的看法，因为显然人们在 Reddit 子版块上庆祝我持有小仓位。 - 我有0个想法。零。他们如何说服股东允许他们进行如此大的稀释：他们现在手头有大约 8.3 亿美元的荒谬现金。我的猜测是他们已经接近完成了，因为如果他们需要更多，我会难以置信。所以现在......他们有大约 8.3 亿美元来发展他们的业务，比如并购，而 EV 最近实际上下降得非常低（例如，$1.25B MC vs. 8.3 亿美元手头现金），我认为冒险是很有必要的。 - 2027 年年产能目标为 1200 万台光学引擎/年，这是相当荒谬的增长。需要对 Poet 产品的 ASP 进行更多研究，但可能是 125-200 美元？因此，平均售价约为 150 美元，收入上限为 1.8B 美元。但它们现在就像逆 AAOI：没有明显的需求来填补所有这些容量。除了 Lumilens 之外，该公司现在是一家高价值的超大规模供应商（可能是亚马逊或微软），拥有数十亿美元的客户协议。有趣的是，Poet 是否与三菱等公司签署了预付款 EML 协议，或者与资产负债表幕后的 Sivers 签署了 CW 协议。鉴于当前的瓶颈，玩家可能会使用 Poet 作为供应采购的解决方法。但基本上，你拥有一家现金超级充裕的公司，并且有大量的在线产能。而且他们的财务状况并不会很快消失。我认为，与上游激光瓶颈相比，它在技术上不太具有防御性，在连续激光器与 OE 封装方面的技术护城河方面，类似 $SIVE 的估值大致相同。正如您最近在《Celestial》和《Poet》中看到的那样。但也许……一些超大规模企业或下游公司有可能在未来某个时候宣布达成批量协议。 $POET 起飞。他们确实有相应的供应链设置。这就是我最终承担的风险，但对我来说，这并不像 $AAOI 那样一目了然。"
     },
     {
       "id": "tweet_aleabitoreddit_2087838176677376186",
@@ -202,8 +232,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
