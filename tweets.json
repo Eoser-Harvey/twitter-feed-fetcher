@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-13T19:15:36.990494+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-13T20:45:50.719066+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2087926969333698743",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 15:39:15 GMT",
-      "content": "RT by @elonmusk: Less than 48 hours ago, SpaceXAI dropped Grok 4.6. People are already building crazy stuff with it. 10 wild examples:",
-      "url": "https://x.com/elonmusk/status/2087926969333698743",
-      "tweet_id": "2087926969333698743",
-      "translated": "RT @elonmusk：不到 48 小时前，SpaceXAI 放弃了 Grok 4.6。人们已经用它构建了疯狂的东西。 10个疯狂的例子："
-    },
-    {
-      "id": "tweet_elonmusk_2087974756012159128",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 18:49:09 GMT",
-      "content": "All other sources of energy combined are utterly insignificant compared to the Sun",
-      "url": "https://x.com/elonmusk/status/2087974756012159128",
-      "tweet_id": "2087974756012159128",
-      "translated": "与太阳相比，所有其他能源加起来都是微不足道的"
-    },
-    {
-      "id": "tweet_elonmusk_2087970571942281375",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 18:32:31 GMT",
-      "content": "RT by @elonmusk: You know how everyone started seeing their friends in the timeline a few weeks ago? With our new open-source code base, you'd also have been able to see what changed under the hood -- here's the story: https://github.com/xai-org/x-algorithm/blob/main/docs/BIDIRECTIONAL_BOOST_CHANGE.md",
-      "url": "https://x.com/elonmusk/status/2087970571942281375",
-      "tweet_id": "2087970571942281375",
-      "translated": "RT @elonmusk：你知道几周前每个人是如何开始在时间轴上看到他们的朋友的吗？借助我们新的开源代码库，您还可以看到幕后发生的变化——故事如下：https://github.com/xai-org/x-algorithm/blob/main/docs/BIDIRECTIONAL_BOOST_CHANGE.md"
-    },
     {
       "id": "tweet_cz_binance_2087971745190044010",
       "username": "cz_binance",
@@ -232,8 +202,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
