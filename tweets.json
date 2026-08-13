@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-13T10:09:34.268892+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-13T11:49:52.441831+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2087822520128823438",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 08:44:13 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2087822520128823438",
-      "tweet_id": "2087822520128823438",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_elonmusk_2087769103821918619",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 05:11:57 GMT",
-      "content": "RT by @elonmusk: one best thing about Grok 4.6 is that you don't have to set a goal or loop It now works for a long time autonomously as long as it can finish the job and it really really tries to finish the job",
-      "url": "https://x.com/elonmusk/status/2087769103821918619",
-      "tweet_id": "2087769103821918619",
-      "translated": "RT by @elonmusk：Grok 4.6 最好的一点是，你不必设定目标或循环，它现在可以自主工作很长时间，只要它可以完成工作，并且它确实尝试完成工作"
-    },
-    {
-      "id": "tweet_elonmusk_2087685264617406963",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 12 Aug 2026 23:38:49 GMT",
-      "content": "RT by @elonmusk: Maybe it's just because it's new and shiny but I'm obsessed with with Grok Bot. The form factor is so fun, especially when combined with text to speech. You can FLY. Automations just work, cross-bot messaging works perfectly (I do most everything through my \"chief of staff\").",
-      "url": "https://x.com/elonmusk/status/2087685264617406963",
-      "tweet_id": "2087685264617406963",
-      "translated": "RT @elonmusk：也许只是因为它是新的、闪亮的，但我对 Grok Bot 很着迷。其外形非常有趣，尤其是与文本转语音结合使用时。你可以飞。自动化工作正常，跨机器人消息传递工作完美（我通过我的“幕僚长”完成大部分事情）。"
-    },
     {
       "id": "tweet_cz_binance_2087584833778176014",
       "username": "cz_binance",
@@ -60,7 +30,7 @@
       "content": "Why does Binance's market share grow so quickly in new sectors? Short answer: users. Some exchanges extract maximum profit from their users, max fees, some even trade against their users while offering 0-fees or 100% rebate to referrers. But they can't keep the users. Protect users = protect your future businesses, even the ones you haven't launched yet.",
       "url": "https://x.com/cz_binance/status/2087479940149289135",
       "tweet_id": "2087479940149289135",
-      "translated": "为什么币安在新领域的市场份额增长如此之快？简短的回答：用户。一些交易所从用户那里获取最大利润、最高费用，有些交易所甚至与用户进行交易，同时向推荐人提供 0 费用或 100% 回扣。但他们留不住用户。保护用户=保护您未来的业务，即使是您尚未启动的业务。"
+      "translated": "为什么币安在新领域的市场份额增长如此之快？简短的回答：用户。一些交易所从用户那里获取最大利润和最高费用，有些交易所甚至与用户进行交易，同时向推荐人提供 0 费用或 100% 回扣。但他们留不住用户。保护用户=保护您未来的业务，即使是您尚未启动的业务。"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
@@ -92,6 +62,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2087846074027295020",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 13 Aug 2026 10:17:49 GMT",
+      "content": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. - I have 0 idea. ZERO. How they convinced shareholders to allow them dilute SO MUCH to the point: They have an absurd ~$830m cash on hand now. And my guess is that they're close to done, since I would be in disbelief if they needed more. So now... they have ~$830m to grow their business like M&A, and EV actually dropped really low recently (eg. $1.25B MC vs. $830m cash on hand), that I thought it was compelling to take a risk. - Annualized production capacity target is 12M optical engines/year for 2027, which is pretty absurd ramp. Need to do more research into ASP for Poet's products, but maybe $125-$200? So at ~$150 ASP, $1.8B revenue ceiling. But they're like inverse AAOI right now: no visible demand to fill all that capacity. Aside from Lumilens, which is now a highly valued hyperscaler supplier (probably Amazon or Microsoft), with billions in customer agreements. The interesting thing is if Poet signed prepayment EML agreements with players like Mitsubishi, or CW agreements with Sivers behind the scenes with that balance sheet. And given the current bottleneck, players might use Poet as a workaround for supply procurement. But basically, you have a super cash-rich company with a ton of capacity coming online. And they're not really disappearing anytime soon with their financials. I don't quite think it's as technically defensible compared to upstream laser chokepoints with something like $SIVE around the same valuation in terms of technical moat for CW lasers vs. OE packaging side. As you've seen recently with Celestial and Poet. But maybe... there's a chance some hyperscaler or downstream company announces a volume agreement sometime in the future. and $POET takes off. And they do have the supply chain setup for ramp with that. That's the risk I ended up taking, but it's not exactly a clear as day long for me like $AAOI.",
+      "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
+      "tweet_id": "2087846074027295020",
+      "translated": "好吧，这是我对 $POET 的看法，因为显然人们在 Reddit 子版块上庆祝我持有小仓位。 - 我有0个想法。零。他们如何说服股东允许他们进行如此大的稀释：他们现在手头有大约 8.3 亿美元的荒谬现金。我的猜测是他们已经接近完成了，因为如果他们需要更多，我会难以置信。所以现在......他们有大约 8.3 亿美元来发展他们的业务，比如并购，而 EV 最近实际上下降得非常低（例如，$1.25B MC vs. 8.3 亿美元手头现金），我认为冒险是很有必要的。 - 2027 年年产能目标为 1200 万台光学引擎/年，这是相当荒谬的增长。需要对 Poet 产品的 ASP 进行更多研究，但可能是 125-200 美元？因此，平均售价约为 150 美元，收入上限为 1.8B 美元。但它们现在就像逆 AAOI：没有明显的需求来填补所有这些容量。除了 Lumilens 之外，该公司现在是一家高价值的超大规模供应商（可能是亚马逊或微软），拥有数十亿美元的客户协议。有趣的是，Poet 是否与三菱等公司签署了预付款 EML 协议，或者与资产负债表幕后的 Sivers 签署了 CW 协议。鉴于当前的瓶颈，玩家可能会使用 Poet 作为供应采购的解决方法。但基本上，你拥有一家现金超级充裕的公司，并且有大量的在线产能。而且他们的财务状况并不会很快消失。我认为，与上游激光瓶颈相比，它在技术上不太具有防御性，在连续激光器与 OE 封装方面的技术护城河方面，类似 $SIVE 的估值大致相同。正如您最近在《Celestial》和《Poet》中看到的那样。但也许……一些超大规模企业或下游公司有可能在未来某个时候宣布达成批量协议。 $POET 起飞。他们确实有相应的供应链设置。这就是我最终承担的风险，但对我来说，这并不像 $AAOI 那样一目了然。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2087838176677376186",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -109,17 +89,7 @@
       "content": "$SIVE announces a $3.4M development program with SemiNex! For CPO, DFB laser arrays, and optical amplifiers. Early production is targeted H2 2027 (in line with early scale up CPO timelines) Seemed weird to me at first given product overlap, since SemiNex is a much smaller Series B company... But then I got reminded of a less explicit version of $SPCX + Cursor relationship (derisking by working together first). There's probably something interesting Sivers found in this company.",
       "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
       "tweet_id": "2087807614172488131",
-      "translated": "$SIVE 宣布与 SemiNex 合作启动 340 万美元的开发计划！适用于 CPO、DFB 激光阵列和光放大器。早期生产的目标是 2027 年下半年（与早期扩大 CPO 时间表一致），一开始我觉得产品重叠很奇怪，因为 SemiNex 是一家规模小得多的 B 轮公司……但后来我想起了 $SPCX + Cursor 关系的一个不太明确的版本（通过首先合作来降低风险）。西弗斯可能在这家公司发现了一些有趣的东西。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2087733927930929435",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 13 Aug 2026 02:52:11 GMT",
-      "content": "Is it just me, or is the list of 3 letter optical jargon never ending? We have LPO, LRO, NPO, XPO, CPO, OBO, and others for approaches. Then InP, EML, ELS, OCS, SOI, and others to add to the random terms. Even the industry events with OCP or OFC get their three letter names. People who have followed me on my optical bottleneck scavenger hunt with $SOI or $IQE might know a lot by now. But wouldn’t new followers might be super confused…",
-      "url": "https://x.com/aleabitoreddit/status/2087733927930929435",
-      "tweet_id": "2087733927930929435",
-      "translated": "是我一个人的问题，还是这三字母光学术语的列表永无止境？我们有 LPO、LRO、NPO、XPO、CPO、OBO 等方法。然后将 InP、EML、ELS、OCS、SOI 等添加到随机项中。即使是 OCP 或 OFC 的行业活动也有其三个字母的名称。那些跟随我用 $SOI 或 $IQE 进行光学瓶颈寻宝游戏的人现在可能已经知道很多了。但新的追随者会不会感到非常困惑……"
+      "translated": "$SIVE 宣布与 SemiNex 合作开展 340 万美元的开发计划！适用于 CPO、DFB 激光阵列和光放大器。早期生产的目标是 2027 年下半年（与早期扩大 CPO 时间表一致），一开始我觉得产品重叠很奇怪，因为 SemiNex 是一家规模小得多的 B 轮公司……但后来我想起了 $SPCX + Cursor 关系的一个不太明确的版本（通过首先合作来降低风险）。西弗斯可能在这家公司发现了一些有趣的东西。"
     },
     {
       "id": "tweet_qinbafrank_2087800377479705061",
@@ -232,8 +202,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
