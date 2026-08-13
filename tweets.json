@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-08-13T08:23:36.103296+00:00",
+  "fetched_at": "2026-08-13T10:09:34.268892+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2087822520128823438",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 13 Aug 2026 08:44:13 GMT",
+      "content": "Video",
+      "url": "https://x.com/elonmusk/status/2087822520128823438",
+      "tweet_id": "2087822520128823438",
+      "translated": "视频"
+    },
     {
       "id": "tweet_elonmusk_2087769103821918619",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2087685264617406963",
       "tweet_id": "2087685264617406963",
       "translated": "RT @elonmusk：也许只是因为它是新的、闪亮的，但我对 Grok Bot 很着迷。其外形非常有趣，尤其是与文本转语音结合使用时。你可以飞。自动化工作正常，跨机器人消息传递工作完美（我通过我的“幕僚长”完成大部分事情）。"
-    },
-    {
-      "id": "tweet_elonmusk_2087723917112721847",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 02:12:24 GMT",
-      "content": "RT by @elonmusk: I’m not sure who made this. But it rocks.",
-      "url": "https://x.com/elonmusk/status/2087723917112721847",
-      "tweet_id": "2087723917112721847",
-      "translated": "RT @elonmusk：我不确定是谁做的。但它很摇滚。"
     },
     {
       "id": "tweet_cz_binance_2087584833778176014",
@@ -60,7 +60,7 @@
       "content": "Why does Binance's market share grow so quickly in new sectors? Short answer: users. Some exchanges extract maximum profit from their users, max fees, some even trade against their users while offering 0-fees or 100% rebate to referrers. But they can't keep the users. Protect users = protect your future businesses, even the ones you haven't launched yet.",
       "url": "https://x.com/cz_binance/status/2087479940149289135",
       "tweet_id": "2087479940149289135",
-      "translated": "为什么币安在新领域的市场份额增长如此之快？简短的回答：用户。一些交易所从用户那里获取最大利润和最高费用，有些交易所甚至与用户进行交易，同时向推荐人提供 0 费用或 100% 回扣。但他们留不住用户。保护用户=保护您未来的业务，即使是您尚未启动的业务。"
+      "translated": "为什么币安在新领域的市场份额增长如此之快？简短的回答：用户。一些交易所从用户那里获取最大利润、最高费用，有些交易所甚至与用户进行交易，同时向推荐人提供 0 费用或 100% 回扣。但他们留不住用户。保护用户=保护您未来的业务，即使是您尚未启动的业务。"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
@@ -92,6 +92,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2087838176677376186",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 13 Aug 2026 09:46:26 GMT",
+      "content": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both) So I stopped covering them as much. But TLDR on updates: Early this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and others when I published my thesis on it. Since then: - $MTSI signed long term epiwafer supply agreements, took a stake in the company, now IQE is bank debt free (Macom has convertibles, but that's positive) - $TSEM signed agreements for InP epiwafers. - Management explicitly said its IQE agreement was signed to secure the \"strategic III-V epiwafer supply required for that roadmap\" - IQE signed another ~$14M mysterious AI DC contract. The only part that's still playing out with my earlier thesis is IQE converting their latent/underutilized capacity toward AI DC segment, to match peers like Landmark in the space (which takes time, like slightly over a year if I remember correctly). There's some national security implications that I'll avoid talking about that makes them more important. But basically: FY2025 revenue: £97.3m FY2026 guidance: over £126.5m They're rapidly growing again in the optical sector, out of bank debt/distressed liquidation state, and remains a critical chokepoint in Western optical supply chains. Now... with new agreements with your leading photonics companies for revenue growth, and players like Macom serving as a soft backstop. After a thesis gets validated, typically I just sit back and enjoy growth of a business.",
+      "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+      "tweet_id": "2087838176677376186",
+      "translated": "感觉我今年 2 月的 $IQE 论文与 $AXTI 和其他论文一起得到了验证。 （我仍然对两者都渴望）所以我不再过多报道它们。但长话短说：今年年初，当我发表关于 IQE 的论文时，IQE 是光学供应链中一个令人困扰但又至关重要的瓶颈，与 $LITE 和其他公司有联系。此后： - $MTSI 签署了长期外延片供应协议，入股了该公司，现在 IQE 没有银行债务（Macom 有可转换债券，但这是积极的） - $TSEM 签署了 InP 外延片协议。 - 管理层明确表示，签署 IQE 协议是为了确保“该路线图所需的战略 III-V 外延片供应” - IQE 签署了另一份约 1400 万美元的神秘 AI DC 合同。我之前的论文中唯一仍在发挥作用的部分是 IQE 将其潜在/未充分利用的能力转向 AI DC 领域，以与该领域的 Landmark 等同行相匹配（这需要时间，如果我没记错的话，大约需要一年多一点）。我将避免谈论一些对国家安全的影响，这使得它们变得更加重要。但基本上： 2025 财年收入：9730 万英镑 2026 财年指导：超过 1.265 亿英镑 他们在光学行业再次快速增长，摆脱了银行债务/不良清算状态，并且仍然是西方光学供应链的关键瓶颈。现在...与领先的光子学公司签订新协议以实现收入增长，而 Macom 等公司将充当软后盾。论文得到验证后，我通常会坐下来享受业务的增长。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2087807614172488131",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,16 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2087733927930929435",
       "tweet_id": "2087733927930929435",
       "translated": "是我一个人的问题，还是这三字母光学术语的列表永无止境？我们有 LPO、LRO、NPO、XPO、CPO、OBO 等方法。然后将 InP、EML、ELS、OCS、SOI 等添加到随机项中。即使是 OCP 或 OFC 的行业活动也有其三个字母的名称。那些跟随我用 $SOI 或 $IQE 进行光学瓶颈寻宝游戏的人现在可能已经知道很多了。但新的追随者会不会感到非常困惑……"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2087675367595380783",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 12 Aug 2026 22:59:29 GMT",
-      "content": "My main takeaway was that your merchant CW laser suppliers seem to be EXTREMELY IMPORTANT now. But TLDR of $COHR earnings: \"given the demand that we see in our DC business with transceivers, I don’t see any time in the near future where we would be selling indium phosphide lasers externally\" - Ton more value placed on companies that sell InP lasers externally if $AAOI can't doesn't enough capacity for first gen-CPO deployments, $COHR not selling externally... I guess that's why $MTSI said a ton of customers are approaching them with urgency for InP CW DFB lasers (and they dont even have meaningful capacity coming online until EOY 2027) $AAOI -> Internal $COHR -> Internal Buyers -> fewer places to look for capacity. \"Our backlog now extends out, fiscal 2027 is basically completely booked out. We are booked really through the end of calendar 2027\" [ Massive massive demand visibility] - Coherent also mentioned LTAs spanning end of decade. So this kinda reinforces what $POET CEO said at their AGM that the \"big 3\" are fully sold out next 2 years. \"we’re not constrained in the assembly and test capacity right now. We’re really just constrained by the ramp of the indium phosphide production\" - Just for the bottleneck bros in terms of assembly/test not a bottleneck. \"absolutely no push-out of CPO demand. In fact, it has been the opposite. We have seen demand increase and request from customers’ demand getting pulled in\" \"we continue to expect revenue from CPO for scale-up applications to start to flow in the second half of calendar 2027\" - Big read through on other CPO players for scale up if $LITE, $COHR reaffirm revenue from CPO scale up coming h2027. - \"quarterly revenue exceeding $3 billion by the end of fiscal 2027\" - $COHR revenue go brrr So for regular numbers it's: - $2.046B revenue (+13.3% Q/Q, +33.8% Y/Y), main revenue ramp looks to be happening entering Q4 into 2027 - Non-GAAP gross margins: 40.2% Next quarter guide is: - Revenue: $2.2–$2.4B revenue - Non-GAAP gross margins: 39.5-41.5% Basically: $1.69B -> $1.81B -> $2.05B -> ~$2.30B -> $3.0B (end of FY 2027) ~39% -> 39.6% -> 40.2% -> ~40.5% (gross margins) For operating margins: 18.0% -> 19.5% -> 19.9% -> 20.3% -> 21.8% Little less impressed compared to $LITE margin growth in terms of profitability, but revenue scale for $COHR growing rapidly.",
-      "url": "https://x.com/aleabitoreddit/status/2087675367595380783",
-      "tweet_id": "2087675367595380783",
-      "translated": "我的主要收获是，您的商业 CW 激光器供应商现在似乎极其重要。但是 $COHR 收益的 TLDR：“考虑到我们在 DC 业务中对收发器的需求，我看不到在不久的将来我们会对外销售磷化铟激光器” - 如果 $AAOI 不能提供足够的容量用于第一代 CPO 部署，$COHR 不会对外销售，那么对外销售 InP 激光器的公司就会获得更多价值……我想这就是为什么 $MTSI 说大量客户正在接近的原因他们迫切需要 InP CW DFB 激光器（而且他们甚至在 2027 年 EOY 之前都没有有意义的产能上线） $AAOI -> 内部 $COHR -> 内部买家 -> 寻找产能的地方更少。 “我们的积压现在已经延长，2027 财年的订单基本上已经全部预订完。我们的订单实际上已经预订到 2027 日历年底了”[大量需求可视性] - 相干公司还提到了跨越十年末的长期协议。因此，这有点强化了 $POET 首席执行官在年度股东大会上所说的，即“三巨头”在未来两年内将全部售罄。 “我们现在不受装配和测试能力的限制。我们实际上只是受到磷化铟产量增长的限制”——只是针对装配/测试方面的瓶颈兄弟，而不是瓶颈。 “绝对不会推动 CPO 需求。事实上，情况恰恰相反。我们已经看到需求增加，客户需求的要求也被拉动”“我们仍然预计用于扩大规模应用的 CPO 收入将在 2027 年下半年开始流动” - 如果 $LITE、$COHR 重申 2027 年下半年来自 CPO 规模扩大的收入，请仔细阅读其他 CPO 参与者的扩大规模。 - “到 2027 财年末季度收入将超过 30 亿美元” - $COHR 收入将达到 brrr 因此，对于常规数字来说，它是： - $2.046B 收入（+13.3% Q/Q，+33.8% Y/Y），主要收入增长看起来将在进入 2027 年第四季度时发生 - 非 GAAP 毛利率：40.2% 下一季度指南是： - 收入：$2.2–$2.4B收入 - 非 GAAP 毛利率：39.5-41.5% 基本上：$1.69B -> $1.81B -> $2.05B -> ~$2.30B -> $3.0B（2027 财年末） ~39% -> 39.6% -> 40.2% -> ~40.5%（毛利率） 营业利润率：18.0% -> 19.5% -> 19.9% -> 20.3% -> 21.8% 就盈利能力而言，与 $LITE 利润率增长相比，印象并不深刻，但 $COHR 的收入规模增长迅速。"
     },
     {
       "id": "tweet_qinbafrank_2087800377479705061",
@@ -177,6 +177,15 @@
       "tweet_id": "2086991960590725546"
     },
     {
+      "id": "tweet_xingpt_2087828575991070877",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Thu, 13 Aug 2026 09:08:17 GMT",
+      "content": "Nebius Q2 财报点评：市场更奖励资本效率 Nebius 这份 Q2 财报整体明显偏强，也进一步验证了一个重要产业趋势：AI 算力需求目前仍然非常旺盛，Neocloud 下一阶段真正的竞争重点，正在从“谁能拿到更多 GPU”逐渐转向“谁能以更低资本成本、更快地把电力和 GPU 变成可以收费的算力”。 Q2 Nebius 收入 5.82 亿美元，同比增长 454%，AI Cloud 收入 5.75 亿美元，同比增长 514%，AI Cloud 调整后 EBITDA Margin 接近 50%。Citi 在财报后的管理层回访中确认，增长来自更高利用率、On-demand 需求、Token Factory、Tavily 和平台能力提升。更重要的是，管理层表示当前“每块 GPU 都有多个买家”，需求暂时没有成为增长瓶颈。 和 CoreWeave 相比，两家公司走出了不同的发展路径。CoreWeave 已经拥有约 1.5GW Active Power，部署规模明显领先，但 Q2 CapEx 接近 94 亿美元，同时净利息费用达到 6.4 亿美元，增长高度依赖债务融资。Nebius 当前规模更小，却正在建立一套资本效率更高的扩张模式。 最值得关注的指标是 Customer Prepayment。管理层确认，目前约 50%至60%的基础设施 CapEx 可以由客户预付款覆盖，从现金口径计算，部分项目的投资回收期已经可以缩短到约 10 个月。 这意味着客户为了提前锁定稀缺 GPU Capacity，开始主动替 Nebius 承担大量建设资金。未来评价 Neocloud，Customer Prepayment / CapEx 很可能会成为与收入增速、Backlog 同等重要的指标。 另一个核心是算力部署。Nebius 预计 2026 年底达到 800MW至1GW Connected Power，5GW 大部分容量预计未来 2至3 年逐步上线，管理层给出的正常部署速度约为每个 Site 每年 200至300MW。 因此未来最大的业绩验证点，是这些已经签下的电力资源能否持续转换成 Active Capacity。 GPU 定价方面也有积极信号。目前高价值订单主要来自 GB300，而非尚未大规模部署的 Rubin。客户愿意支付溢价，主要因为特定 GPU 稀缺、Uptime Guarantee，以及能否赶上关键模型训练窗口。 这说明即使下一代 Rubin 临近，Blackwell 系列仍然保持很强的定价权。 Nebius 另外两个值得关注的长期变量是 Asset-light 和电力。管理层表示 Asset-light 模式目前尚未计入基础预测，潜在贡献可能从 2027 年开始。未来可以由外部资本负责土地、电力和数据中心，Nebius 提供架构、云平台和客户资源，从而进一步降低自有 CapEx。 同时，公司与 Bloom Energy 合作部署 328MW behind-the-meter 燃料电池，本质上是在解决 AI 数据中心最关键的 Time-to-Power 问题，加快 Contracted Power 向 Active Power 转换。 风险仍然存在。Microsoft 和 Meta 合计约占 FY26 ARR 指引的 40%，客户集中度较高；同时多 GW 数据中心建设仍存在施工、电力、GPU 供应以及融资风险。如果客户预付款下降，Nebius仍可能需要更多债务或股权融资。 所以我对 NBIS 的判断是：中期产业逻辑继续强化，但短期股价已经提前反映了不少乐观预期。Citi 在股价 259.2 美元时给出的目标价只有 278 美元，静态上涨空间约 7%。 因此更合理的策略仍然是中期看多、短期不追高，重点等待 Connected Power、Active Power 和 Customer Prepayment 继续兑现。真正决定 Nebius 能否进一步获得估值溢价的关键，是它能否证明自己可以让客户、银行和基础设施资本共同出钱，以明显低于 CoreWeave 的财务压力持续部署 AI 算力。",
+      "url": "https://x.com/xingpt/status/2087828575991070877",
+      "tweet_id": "2087828575991070877"
+    },
+    {
       "id": "tweet_xingpt_2087816155256008924",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -193,15 +202,6 @@
       "content": "R to @xingpt: 光模块术语解释： 先简单解释一下文中频繁出现的几个概念。 AI服务器里的GPU需要不断交换数据，传统铜线在距离、带宽和功耗上逐渐碰到瓶颈，所以越来越多的数据开始通过光来传输。光模块可以理解成服务器和交换机的“光电转换器”，负责把芯片产生的电信号转换成光信号发送出去，再把收到的光信号转换回电信号。 所谓800G、1.6T，代表一个光模块能够传输的数据量，1.6T的带宽大约是800G的两倍，因此AI集群规模越大，对高速光模块的需求通常越高。 光模块内部最重要的部件之一就是激光器。EML是一种把激光和高速调制结合在一起的方案，目前大量应用于800G和1.6T光模块；CW则是连续波激光器，通常配合硅光芯片使用，因此市场常说的“硅光路线”，背后往往对应CW激光器需求。 200G/lane指的是单条光通道可以传输200Gbps的数据，例如一个1.6T模块可以通过8条200G通道实现总计1.6Tbps的带宽。Coherent和Lumentum这次都显示，EML和硅光/CW需求同时很强，意味着短期行业仍处于多技术路线共同扩张阶段。 CPO和NPO则代表光器件越来越靠近计算芯片。传统光模块插在交换机面板上，芯片的数据需要先经过一段电连接再进入光模块；NPO会把光引擎放到芯片附近的电路板上，缩短这段电连接；CPO则进一步把光引擎直接放到交换芯片或处理器旁边，可以降低功耗并提高带宽密度。ELS是External Light Source，也就是外置光源，可以把高功率激光集中放置，再把光输送给多个CPO或NPO光引擎，因此Lumentum和Coherent布局的高功率CW激光器正是这一轮产业升级的重要上游环节。 最后还有OCS，也就是光路交换机。普通交换机需要不断把光信号转换成电信号进行处理，而OCS可以直接改变光纤之间的连接路径，用来动态调整AI集群内部不同服务器和GPU之间的连接关系。 随着AI集群从几千张GPU扩展到几万甚至更多GPU，光模块解决“数据怎么传”，OCS进一步解决“这些光连接怎么高效组织”，因此它正在成为AI光通信产业新的增长方向。 这样理解以后，整条产业链就比较清楚了：GPU/ASIC → 高速网络 → 800G/1.6T光模块 → EML或CW激光器 → NPO/CPO逐渐把光推进到芯片附近 → ELS提供高功率光源 → OCS负责整个AI集群中的光路调度。而Lumentum和Coherent值得关注的原因，也正是它们已经从传统激光器和光模块，逐渐覆盖到CW、ELS、OCS以及NPO/CPO等下一代光互联环节。",
       "url": "https://x.com/xingpt/status/2087816158577934710",
       "tweet_id": "2087816158577934710"
-    },
-    {
-      "id": "tweet_xingpt_2087806655702700223",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 13 Aug 2026 07:41:10 GMT",
-      "content": "有哪些做交易后的小习惯：不吃甜品龟苓膏、不去广西桂林旅游，还有哪些你来补充",
-      "url": "https://x.com/xingpt/status/2087806655702700223",
-      "tweet_id": "2087806655702700223"
     },
     {
       "id": "tweet_hibtc37_2087374830522048539",
