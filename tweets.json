@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-13T21:48:48.003923+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-13T22:44:51.813598+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2087981530148966583",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 19:16:04 GMT",
-      "content": "RT by @elonmusk: 𝕏 is the most transparent platform on the internet. I was able to see if my account or posts were being suppressed, understand the exact reason for any visibility limits, and even download the full report. Here’s how easy and transparent it was 👇",
-      "url": "https://x.com/elonmusk/status/2087981530148966583",
-      "tweet_id": "2087981530148966583",
-      "translated": "RT @elonmusk：𝕏 是互联网上最透明的平台。我能够查看我的帐户或帖子是否被禁止，了解任何可见性限制的确切原因，甚至下载完整的报告。这就是它是多么简单和透明👇"
-    },
-    {
-      "id": "tweet_elonmusk_2087985336471142806",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 19:31:11 GMT",
-      "content": "RT by @elonmusk: Grok 4.6 just matched Claude Fable 5 on Perplexity’s WANDR benchmark....at more than 60% lower cost Both score exactly 0.496 But the cost per task is ridiculous: • Grok 4.6 → $7.58 • Claude Fable 5 → $20.30 Same benchmark performance....for a fraction of the cost and Grok 4.6 also comfortably outperforms GPT-5.6 Sol Grok 4.6’s efficiency is totally insane",
-      "url": "https://x.com/elonmusk/status/2087985336471142806",
-      "tweet_id": "2087985336471142806",
-      "translated": "RT by @elonmusk：Grok 4.6 在 Perplexity 的 WANDR 基准测试中与 Claude Fable 5 相匹配...，成本低了 60% 以上 两者的得分都恰好为 0.496，但每个任务的成本非常荒谬： • Grok 4.6 → 7.58 美元 • Claude Fable 5 → 20.30 美元 相同的基准性能....只需成本的一小部分，Grok 4.6 也轻松胜出GPT-5.6 Sol Grok 4.6 的效率简直太疯狂了"
-    },
-    {
-      "id": "tweet_elonmusk_2087984574768816159",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 19:28:10 GMT",
-      "content": "Grok",
-      "url": "https://x.com/elonmusk/status/2087984574768816159",
-      "tweet_id": "2087984574768816159",
-      "translated": "格罗克"
-    },
     {
       "id": "tweet_cz_binance_2087971745190044010",
       "username": "cz_binance",
@@ -40,7 +10,7 @@
       "content": "Not a great month for hardware wallets. Trezor disclosed a breach at its shipping provider affecting ~13.7K recent customers. ~11.7K had full name, email, phone and shipping address exposed. Trezor systems/private keys were not compromised. The leak directly links identities and physical addresses to known crypto holders, creating significant phishing, social-engineering and potential physical-security risk. Hardware wallets are often considered \"more secure\" than software wallets. While I still think that is \"generally true\" in a few specific aspects, this incident reinforces an advantage of software self-custody wallets (such as Binance Web3 Wallet & Trust Wallet), without purchasing and shipping a physical device that links a user's identity and address to crypto ownership. Not saying hardware wallets are \"bad\". Just different risk profiles. YZiLabs is an investor in many hardware wallets. Security, privacy and convenience comes in many different shapes. The more we can educate our communities, the better. https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident",
       "url": "https://x.com/cz_binance/status/2087971745190044010",
       "tweet_id": "2087971745190044010",
-      "translated": "对于硬件钱包来说，这不是一个好月份。 Trezor 披露了其运输提供商的违规行为，影响了约 13,700 名最近的客户。 ~11.7K 的全名、电子邮件、电话和送货地址被暴露。 Trezor 系统/私钥没有受到损害。此次泄露直接将身份和物理地址与已知的加密货币持有者联系起来，从而造成严重的网络钓鱼、社会工程和潜在的物理安全风险。硬件钱包通常被认为比软件钱包“更安全”。虽然我仍然认为这在某些特定方面“总体上是正确的”，但这一事件强化了软件自我托管钱包（例如币安 Web3 钱包和 Trust 钱包）的优势，而无需购买和运输将用户的身份和地址与加密货币所有权相关联的物理设备。并不是说硬件钱包“不好”。只是风险状况不同。 YZiLabs 是许多硬件钱包的投资者。安全、隐私和便利有多种不同的形式。我们对社区的教育越多越好。 https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident"
+      "translated": "对于硬件钱包来说，这不是一个好月份。 Trezor 披露了其运输提供商的违规行为，影响了约 13,700 名最近的客户。 ~11.7K 的全名、电子邮件、电话和送货地址被暴露。 Trezor 系统/私钥没有受到损害。此次泄露直接将身份和物理地址与已知的加密货币持有者联系起来，从而造成严重的网络钓鱼、社会工程和潜在的物理安全风险。硬件钱包通常被认为比软件钱包“更安全”。虽然我仍然认为这在某些特定方面“总体上是正确的”，但这一事件强化了软件自我托管钱包（例如币安 Web3 钱包和 Trust 钱包）的优势，而无需购买和运输将用户的身份和地址与加密所有权相关联的物理设备。并不是说硬件钱包“不好”。只是风险状况不同。 YZiLabs 是许多硬件钱包的投资者。安全、隐私和便利有多种不同的形式。我们对社区的教育越多越好。 https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident"
     },
     {
       "id": "tweet_cz_binance_2087941099793027110",
@@ -109,7 +79,7 @@
       "content": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. - I have 0 idea. ZERO. How they convinced shareholders to allow them dilute SO MUCH to the point: They have an absurd ~$830m cash on hand now. And my guess is that they're close to done, since I would be in disbelief if they needed more. So now... they have ~$830m to grow their business like M&A, and EV actually dropped really low recently (eg. $1.25B MC vs. $830m cash on hand), that I thought it was compelling to take a risk. - Annualized production capacity target is 12M optical engines/year for 2027, which is pretty absurd ramp. Need to do more research into ASP for Poet's products, but maybe $125-$200? So at ~$150 ASP, $1.8B revenue ceiling. But they're like inverse AAOI right now: no visible demand to fill all that capacity. Aside from Lumilens, which is now a highly valued hyperscaler supplier (probably Amazon or Microsoft), with billions in customer agreements. The interesting thing is if Poet signed prepayment EML agreements with players like Mitsubishi, or CW agreements with Sivers behind the scenes with that balance sheet. And given the current bottleneck, players might use Poet as a workaround for supply procurement. But basically, you have a super cash-rich company with a ton of capacity coming online. And they're not really disappearing anytime soon with their financials. I don't quite think it's as technically defensible compared to upstream laser chokepoints with something like $SIVE around the same valuation in terms of technical moat for CW lasers vs. OE packaging side. As you've seen recently with Celestial and Poet. But maybe... there's a chance some hyperscaler or downstream company announces a volume agreement sometime in the future. and $POET takes off. And they do have the supply chain setup for ramp with that. That's the risk I ended up taking, but it's not exactly a clear as day long for me like $AAOI.",
       "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
       "tweet_id": "2087846074027295020",
-      "translated": "好吧，这是我对 $POET 的看法，因为显然人们在 Reddit 子版块上庆祝我持有小仓位。 - 我有0个想法。零。他们如何说服股东允许他们进行如此大的稀释：他们现在手头有大约 8.3 亿美元的荒谬现金。我的猜测是他们已经接近完成了，因为如果他们需要更多，我会难以置信。所以现在......他们有大约 8.3 亿美元来发展他们的业务，比如并购，而 EV 最近实际上下降得非常低（例如，$1.25B MC vs. 8.3 亿美元手头现金），我认为冒险是很有必要的。 - 2027 年年产能目标为 1200 万台光学引擎/年，这是相当荒谬的增长。需要对 Poet 产品的 ASP 进行更多研究，但可能是 125-200 美元？因此，平均售价约为 150 美元，收入上限为 1.8B 美元。但它们现在就像逆 AAOI：没有明显的需求来填补所有这些容量。除了 Lumilens 之外，它现在是一家高价值的超大规模供应商（可能是亚马逊或微软），拥有数十亿美元的客户协议。有趣的是，Poet 是否与三菱等公司签署了预付款 EML 协议，或者与资产负债表幕后的 Sivers 签署了 CW 协议。鉴于当前的瓶颈，玩家可能会使用 Poet 作为供应采购的解决方法。但基本上，你拥有一家现金超级充裕的公司，并且有大量的在线产能。而且他们的财务状况并不会很快消失。我认为，与上游激光瓶颈相比，它在技术上不太具有防御性，在连续激光器与 OE 封装方面的技术护城河方面，类似 $SIVE 的估值大致相同。正如您最近在《Celestial》和《Poet》中看到的那样。但也许……一些超大规模企业或下游公司有可能在未来某个时候宣布达成批量协议。 $POET 起飞。他们确实有相应的供应链设置。这就是我最终承担的风险，但对我来说，这并不像 $AAOI 那样一目了然。"
+      "translated": "好吧，这是我对 $POET 的看法，因为显然人们在 Reddit 子版块上庆祝我持有小仓位。 - 我有0个想法。零。他们如何说服股东允许他们进行如此大的稀释：他们现在手头有大约 8.3 亿美元的荒谬现金。我的猜测是他们已经接近完成了，因为如果他们需要更多，我会难以置信。所以现在......他们有大约 8.3 亿美元来发展他们的业务，比如并购，而 EV 最近实际上下降得非常低（例如，$1.25B MC vs. 8.3 亿美元手头现金），我认为冒险是很有必要的。 - 2027 年年产能目标为 1200 万台光学引擎/年，这是相当荒谬的增长。需要对 Poet 产品的 ASP 进行更多研究，但可能是 125-200 美元？因此，平均售价约为 150 美元，收入上限为 1.8B 美元。但它们现在就像逆 AAOI：没有明显的需求来填补所有这些容量。除了 Lumilens 之外，该公司现在是一家高价值的超大规模供应商（可能是亚马逊或微软），拥有数十亿美元的客户协议。有趣的是，Poet 是否与三菱等公司签署了预付款 EML 协议，或者与资产负债表幕后的 Sivers 签署了 CW 协议。鉴于当前的瓶颈，玩家可能会使用 Poet 作为供应采购的解决方法。但基本上，你拥有一家现金超级充裕的公司，并且有大量的在线产能。而且他们的财务状况并不会很快消失。我认为，与上游激光瓶颈相比，它在技术上不太具有防御性，在连续激光器与 OE 封装方面的技术护城河方面，类似 $SIVE 的估值大致相同。正如您最近在《Celestial》和《Poet》中看到的那样。但也许……一些超大规模企业或下游公司有可能在未来某个时候宣布达成批量协议。 $POET 起飞。他们确实有相应的供应链设置。这就是我最终承担的风险，但对我来说，这并不像 $AAOI 那样一目了然。"
     },
     {
       "id": "tweet_aleabitoreddit_2087838176677376186",
@@ -232,8 +202,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
