@@ -1,7 +1,47 @@
 {
-  "fetched_at": "2026-08-13T16:06:32.305333+00:00",
+  "fetched_at": "2026-08-13T18:00:15.551476+00:00",
   "total": 21,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2087642719447609374",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 12 Aug 2026 20:49:45 GMT",
+      "content": "RT by @elonmusk: Grok Bot has taken over the entire internet. And for good reason It is an EXCELLENT AI agent But you HAVE to set it up the right way Here are the first 5 steps to make your Grok Bot agent team SUPER powerful: 1. Brain dump everything about yourself, goals, passions, and career into the initial agent. This is going to give it the context it needs to set up your agent team 2. Next, prompt the agent \"Based on what you know about me, what do you think would be the best set up of this Grok Bot app? Which bots should I make and what should their responsibilities be? This should enable the best workflow and productivity\" This will give you the perfect plan for setting up Grok Bot 3. After reviewing the plan, ask the Bot to set up your workspace for you. It will create the agents, give the right context and descriptions, and make sure your setup is built for productivity 4. Next, ask it for which routines each agent can set up to help you out the most. This should give you a list of cron jobs (routines) that each agent can do on a regular interval 5. Ask the agent to implement these And just like that, you have the most powerful AI agent on the internet all set up. You have an entire fleet of agents ready to go and do work for you. And in fact, because you set up the routines, they're ALREADY doing work for you Enjoy the AGI",
+      "url": "https://x.com/elonmusk/status/2087642719447609374",
+      "tweet_id": "2087642719447609374",
+      "translated": "RT @elonmusk：Grok Bot 已经占领了整个互联网。有充分的理由它是一个优秀的人工智能代理，但你必须以正确的方式设置它以下是使你的 Grok Bot 代理团队超级强大的前 5 个步骤： 1. 将关于你自己、目标、激情和职业的所有内容转储到初始代理中。这将为它提供设置代理团队所需的背景信息 2. 接下来，提示代理“根据您对我的了解，您认为这个 Grok Bot 应用程序的最佳设置是什么？我应该创建哪些机器人以及它们的职责应该是什么？这应该能够实现最佳的工作流程和生产力”这将为您提供设置 Grok Bot 的完美计划 3. 在审查该计划后，请机器人为您设置工作区。它将创建代理，提供正确的上下文和描述，并确保您的设置是为了提高生产力而构建的。 4. 接下来，询问它每个代理可以设置哪些例程来为您提供最大的帮助。这应该为您提供每个代理可以定期执行的 cron 作业（例程）列表 5. 要求代理实现这些任务就这样，您就拥有了互联网上最强大的 AI 代理。您拥有一整支代理队伍随时准备为您服务。事实上，因为您设置了例程，它们已经在为您工作了，享受 AGI"
+    },
+    {
+      "id": "tweet_elonmusk_2087910515246784773",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 13 Aug 2026 14:33:52 GMT",
+      "content": "Not bad",
+      "url": "https://x.com/elonmusk/status/2087910515246784773",
+      "tweet_id": "2087910515246784773",
+      "translated": "不错"
+    },
+    {
+      "id": "tweet_elonmusk_2087909414418235548",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 13 Aug 2026 14:29:30 GMT",
+      "content": "Video",
+      "url": "https://x.com/elonmusk/status/2087909414418235548",
+      "tweet_id": "2087909414418235548",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_cz_binance_2087941099793027110",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 13 Aug 2026 16:35:24 GMT",
+      "content": "A good wallet should filter these poison addresses out.",
+      "url": "https://x.com/cz_binance/status/2087941099793027110",
+      "tweet_id": "2087941099793027110",
+      "translated": "一个好的钱包应该过滤掉这些有毒地址。"
+    },
     {
       "id": "tweet_cz_binance_2087853268982476896",
       "username": "cz_binance",
@@ -22,55 +62,6 @@
       "tweet_id": "2087909159912309033"
     },
     {
-      "id": "tweet_cz_binance_2087925059386269886",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 13 Aug 2026 15:31:40 GMT",
-      "content": "We pray for Columbia🇨🇴🙏",
-      "url": "https://x.com/cz_binance/status/2087925059386269886",
-      "tweet_id": "2087925059386269886",
-      "translated": "我们为哥伦比亚祈祷🇨🇴🙏"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2082159711852298494",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
-      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
-      "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2087902683474891106",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 13 Aug 2026 14:02:45 GMT",
-      "content": "In another world, $SMCI would look more like $DELL? If they didn't try smuggling $NVDA GPUs using hairdryers... Regardless, SMCI guiding $65-72B FY 2027 revenue off a ~$25B MC is pretty crazy the more I look at it.",
-      "url": "https://x.com/aleabitoreddit/status/2087902683474891106",
-      "tweet_id": "2087902683474891106",
-      "translated": "在另一个世界中，$SMCI 会看起来更像 $DELL？如果他们没有尝试使用吹风机走私 NVDA GPU……无论如何，SMCI 指导 2027 财年从约 25B MC 获得 65-72B 美元的收入，我越看越觉得非常疯狂。"
-    },
-    {
       "id": "tweet_aleabitoreddit_2087867722784805170",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -88,7 +79,26 @@
       "content": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. - I have 0 idea. ZERO. How they convinced shareholders to allow them dilute SO MUCH to the point: They have an absurd ~$830m cash on hand now. And my guess is that they're close to done, since I would be in disbelief if they needed more. So now... they have ~$830m to grow their business like M&A, and EV actually dropped really low recently (eg. $1.25B MC vs. $830m cash on hand), that I thought it was compelling to take a risk. - Annualized production capacity target is 12M optical engines/year for 2027, which is pretty absurd ramp. Need to do more research into ASP for Poet's products, but maybe $125-$200? So at ~$150 ASP, $1.8B revenue ceiling. But they're like inverse AAOI right now: no visible demand to fill all that capacity. Aside from Lumilens, which is now a highly valued hyperscaler supplier (probably Amazon or Microsoft), with billions in customer agreements. The interesting thing is if Poet signed prepayment EML agreements with players like Mitsubishi, or CW agreements with Sivers behind the scenes with that balance sheet. And given the current bottleneck, players might use Poet as a workaround for supply procurement. But basically, you have a super cash-rich company with a ton of capacity coming online. And they're not really disappearing anytime soon with their financials. I don't quite think it's as technically defensible compared to upstream laser chokepoints with something like $SIVE around the same valuation in terms of technical moat for CW lasers vs. OE packaging side. As you've seen recently with Celestial and Poet. But maybe... there's a chance some hyperscaler or downstream company announces a volume agreement sometime in the future. and $POET takes off. And they do have the supply chain setup for ramp with that. That's the risk I ended up taking, but it's not exactly a clear as day long for me like $AAOI.",
       "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
       "tweet_id": "2087846074027295020",
-      "translated": "好吧，这是我对 $POET 的看法，因为显然人们在 Reddit 子版块上庆祝我持有小仓位。 - 我有0个想法。零。他们如何说服股东允许他们进行如此大的稀释：他们现在手头有大约 8.3 亿美元的荒谬现金。我的猜测是他们已经接近完成了，因为如果他们需要更多，我会难以置信。所以现在......他们有大约 8.3 亿美元来发展他们的业务，比如并购，而 EV 最近实际上下降得非常低（例如，$1.25B MC vs. 8.3 亿美元手头现金），我认为冒险是很有必要的。 - 2027 年年产能目标为 1200 万台光学引擎/年，这是相当荒谬的增长。需要对 Poet 产品的 ASP 进行更多研究，但可能是 125-200 美元？因此，平均售价约为 150 美元，收入上限为 1.8B 美元。但它们现在就像逆 AAOI：没有明显的需求来填补所有这些容量。除了 Lumilens 之外，该公司现在是一家高价值的超大规模供应商（可能是亚马逊或微软），拥有数十亿美元的客户协议。有趣的是，Poet 是否与三菱等公司签署了预付款 EML 协议，或者与资产负债表幕后的 Sivers 签署了 CW 协议。鉴于当前的瓶颈，玩家可能会使用 Poet 作为供应采购的解决方法。但基本上，你拥有一家现金超级充裕的公司，并且有大量的在线产能。而且他们的财务状况并不会很快消失。我认为，与上游激光瓶颈相比，它在技术上不太具有防御性，在连续激光器与 OE 封装方面的技术护城河方面，类似 $SIVE 的估值大致相同。正如您最近在《Celestial》和《Poet》中看到的那样。但也许……一些超大规模企业或下游公司有可能在未来某个时候宣布达成批量协议。 $POET 起飞。他们确实有相应的供应链设置。这就是我最终承担的风险，但对我来说，这并不像 $AAOI 那样一目了然。"
+      "translated": "好吧，这是我对 $POET 的看法，因为显然人们在 Reddit 子版块上庆祝我持有小仓位。 - 我有0个想法。零。他们如何说服股东允许他们进行如此大的稀释：他们现在手头有大约 8.3 亿美元的荒谬现金。我的猜测是他们已经接近完成了，因为如果他们需要更多，我会难以置信。所以现在......他们有大约 8.3 亿美元来发展他们的业务，比如并购，而 EV 最近实际上下降得非常低（例如，$1.25B MC vs. 8.3 亿美元手头现金），我认为冒险是很有必要的。 - 2027 年年产能目标为 1200 万台光学引擎/年，这是相当荒谬的增长。需要对 Poet 产品的 ASP 进行更多研究，但可能是 125-200 美元？因此，平均售价约为 150 美元，收入上限为 1.8B 美元。但它们现在就像逆 AAOI：没有明显的需求来填补所有这些容量。除了 Lumilens 之外，它现在是一家高价值的超大规模供应商（可能是亚马逊或微软），拥有数十亿美元的客户协议。有趣的是，Poet 是否与三菱等公司签署了预付款 EML 协议，或者与资产负债表幕后的 Sivers 签署了 CW 协议。鉴于当前的瓶颈，玩家可能会使用 Poet 作为供应采购的解决方法。但基本上，你拥有一家现金超级充裕的公司，并且有大量的在线产能。而且他们的财务状况并不会很快消失。我认为，与上游激光瓶颈相比，它在技术上不太具有防御性，在连续激光器与 OE 封装方面的技术护城河方面，类似 $SIVE 的估值大致相同。正如您最近在《Celestial》和《Poet》中看到的那样。但也许……一些超大规模企业或下游公司有可能在未来某个时候宣布达成批量协议。 $POET 起飞。他们确实有相应的供应链设置。这就是我最终承担的风险，但对我来说，这并不像 $AAOI 那样一目了然。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2087838176677376186",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 13 Aug 2026 09:46:26 GMT",
+      "content": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both) So I stopped covering them as much. But TLDR on updates: Early this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and others when I published my thesis on it. Since then: - $MTSI signed long term epiwafer supply agreements, took a stake in the company, now IQE is bank debt free (Macom has convertibles, but that's positive) - $TSEM signed agreements for InP epiwafers. - Management explicitly said its IQE agreement was signed to secure the \"strategic III-V epiwafer supply required for that roadmap\" - IQE signed another ~$14M mysterious AI DC contract. The only part that's still playing out with my earlier thesis is IQE converting their latent/underutilized capacity toward AI DC segment, to match peers like Landmark in the space (which takes time, like slightly over a year if I remember correctly). There's some national security implications that I'll avoid talking about that makes them more important. But basically: FY2025 revenue: £97.3m FY2026 guidance: over £126.5m They're rapidly growing again in the optical sector, out of bank debt/distressed liquidation state, and remains a critical chokepoint in Western optical supply chains. Now... with new agreements with your leading photonics companies for revenue growth, and players like Macom serving as a soft backstop. After a thesis gets validated, typically I just sit back and enjoy growth of a business.",
+      "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
+      "tweet_id": "2087838176677376186",
+      "translated": "感觉我今年 2 月的 $IQE 论文与 $AXTI 和其他论文一起得到了验证。 （我仍然对两者都渴望）所以我不再过多报道它们。但长话短说：今年年初，当我发表关于 IQE 的论文时，IQE 是光学供应链中一个令人困扰但又至关重要的瓶颈，与 $LITE 和其他公司有联系。此后： - $MTSI 签署了长期外延片供应协议，入股了该公司，现在 IQE 没有银行债务（Macom 有可转换债券，但这是积极的） - $TSEM 签署了 InP 外延片协议。 - 管理层明确表示，签署 IQE 协议是为了确保“该路线图所需的战略 III-V 外延片供应” - IQE 签署了另一份约 1400 万美元的神秘 AI DC 合同。我之前的论文中唯一仍在发挥作用的部分是 IQE 将其潜在/未充分利用的能力转向 AI DC 领域，以与该领域的 Landmark 等同行相匹配（这需要时间，如果我没记错的话，大约需要一年多一点）。我将避免谈论一些对国家安全的影响，这使得它们变得更加重要。但基本上： 2025 财年收入：9730 万英镑 2026 财年指导：超过 1.265 亿英镑 他们在光学行业再次快速增长，摆脱了银行债务/不良清算状态，并且仍然是西方光学供应链的关键瓶颈。现在...与领先的光子学公司签订新协议以实现收入增长，而 Macom 等公司将充当软后盾。论文得到验证后，我通常会坐下来享受业务的增长。"
+    },
+    {
+      "id": "tweet_qinbafrank_2087938804179145015",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Thu, 13 Aug 2026 16:26:17 GMT",
+      "content": "闪迪投资者日给出的激进的长期财务目标：1）闪迪预计2028至2030财年，非GAAP口径下，公司毛利率维持在约80%，营业利润率约75%，调整后自由现金流利润率约50%； 2）承诺在完成业务投资后，把100%的剩余现金返还股东； 3）披露八大客户签长期协议，协议已覆盖2028财年约三分之二比特出货量；2030年企业级闪存TAM料达1.2ZB。 未来核心两大看点： 1）NBM协议重塑行业周期 闪迪之所以敢于给出如此激进的指引，最重要的支撑在于其正在从根本上改变NAND行业的商业模式。 2）HBF押注AI推理新赛道 HBF定位于HBM与SSD之间的新型存储层级，旨在同时解决AI推理场景下的带宽瓶颈与容量扩展难题。公司计划于2026年底向客户提供首批HBF样品，2027年初推出首批搭载HBF的AI推理设备样品。 给出长期财务目标的用意就是试图用长达三年的清晰指引重塑市场信心。也是在向是市场传递一个清晰的判断： AI驱动的存储需求增长，有望让公司未来数年的盈利能力长期维持在远高于行业历史平均水平的位置。 这个意图恰恰是在8月6号拆解高盛关于存储研报的这篇推文（引用的推文就是）最后提出的三个思考点中的两个： 1）周期顶部会不会比市场预期的要晚？ 2）估值逻辑从峰值利润转向正常化利润，未来会长时间维持正常化利润么？ 最早是在7月底这里https://x.com/qinbafrank/status/2083185986616357116?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到：存储还有不小的空间，但确实要承认涨幅最暴力的阶段过去了。 本周初这里https://x.com/qinbafrank/status/2087395743946674296?s=46&t=k6rimWsEbo2D2tXolYcM-A还聊到：这个时间节点空存的性价比已经不高了",
+      "url": "https://x.com/qinbafrank/status/2087938804179145015",
+      "tweet_id": "2087938804179145015"
     },
     {
       "id": "tweet_qinbafrank_2087910104595415350",
@@ -110,13 +120,22 @@
       "tweet_id": "2087903125399011470"
     },
     {
-      "id": "tweet_qinbafrank_2087800377479705061",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Thu, 13 Aug 2026 07:16:14 GMT",
-      "content": "Citadel Securities在最新一期《August Checklist》里一组数据值得关注：本轮二季度S&P500 EPS增速接近33%，企业盈利预期也在持续上修，而且本轮上修路径是至少 2000 年以来最强的一批。更有意思的是： 指数创新高，但估值反而在下降。标普500未来 12 个月 Forward P/E 20.1 倍，去年 10 月还是23.1 倍。 原因很简单： 盈利上涨得比股价更快。",
-      "url": "https://x.com/qinbafrank/status/2087800377479705061",
-      "tweet_id": "2087800377479705061"
+      "id": "tweet_xiaomustock_2087951574954107024",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Thu, 13 Aug 2026 17:17:02 GMT",
+      "content": "今天真是这个月涨的最舒服的一天， 闪迪承诺100%的股东回报， 其他几家不能太不要脸吧。",
+      "url": "https://x.com/xiaomustock/status/2087951574954107024",
+      "tweet_id": "2087951574954107024"
+    },
+    {
+      "id": "tweet_xiaomustock_2087948726337990820",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Thu, 13 Aug 2026 17:05:43 GMT",
+      "content": "这个中微公司和安集科技真是俩好公司， 一个刻蚀全球领先，一个做抛光液，这俩都是存储堆叠层数越高用的越多。",
+      "url": "https://x.com/xiaomustock/status/2087948726337990820",
+      "tweet_id": "2087948726337990820"
     },
     {
       "id": "tweet_xiaomustock_2087922076254711923",
@@ -126,24 +145,6 @@
       "content": "一个 $RAM ，相当于买了2x #海力士，2x #美光，2x #三星 顺风行情的时候这些2x工具是真爽。",
       "url": "https://x.com/xiaomustock/status/2087922076254711923",
       "tweet_id": "2087922076254711923"
-    },
-    {
-      "id": "tweet_xiaomustock_2087919906994192425",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Thu, 13 Aug 2026 15:11:12 GMT",
-      "content": "利好都来了，闪迪 $SNDK 将把超额收益100%返还给股东。",
-      "url": "https://x.com/xiaomustock/status/2087919906994192425",
-      "tweet_id": "2087919906994192425"
-    },
-    {
-      "id": "tweet_xiaomustock_2087908296049189197",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Thu, 13 Aug 2026 14:25:03 GMT",
-      "content": "陈立武在《Tech Surge》播客访谈透露， 英特尔正在研究 CPU 与存储堆叠的新型存储架构。 $INTC 的新存储架构把CPU和存储封装到一起降低agent代理工作的调用延迟提高AI代理的效率。",
-      "url": "https://x.com/xiaomustock/status/2087908296049189197",
-      "tweet_id": "2087908296049189197"
     },
     {
       "id": "tweet_xingpt_2087908545476120749",
@@ -203,6 +204,6 @@
   "stats": {
     "users_success": 7,
     "users_failed": 1,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
