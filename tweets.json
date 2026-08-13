@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-13T22:44:51.813598+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-13T23:44:26.307849+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2088037519312994480",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 13 Aug 2026 22:58:33 GMT",
+      "content": "Tesla self-driving is amazing",
+      "url": "https://x.com/elonmusk/status/2088037519312994480",
+      "tweet_id": "2088037519312994480",
+      "translated": "特斯拉自动驾驶技术太神奇了"
+    },
+    {
+      "id": "tweet_elonmusk_2088012952624418880",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 13 Aug 2026 21:20:55 GMT",
+      "content": "RT by @elonmusk: Just took a Tesla Robotaxi ride in an area of Austin where the normal wait in the past was up to 20 minutes and my wait was only two minutes and this was consistent every time I did this!",
+      "url": "https://x.com/elonmusk/status/2088012952624418880",
+      "tweet_id": "2088012952624418880",
+      "translated": "RT by @elonmusk：刚刚在奥斯汀的一个地区乘坐了 Tesla Robotaxi，过去正常的等待时间长达 20 分钟，而我的等待时间只有两分钟，而且每次我这样做都是一致的！"
+    },
+    {
+      "id": "tweet_elonmusk_2088019251290341427",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 13 Aug 2026 21:45:57 GMT",
+      "content": "RT by @elonmusk: We don’t just build in Memphis – we live, work, and invest here. We are committed to being good neighbors and responsible partners.  Since joining the community in 2024, SpaceXAI has paid $30 million in taxes, supporting essential local services, public education, infrastructure, and more. We’re proud to call Memphis home – the road to understanding the universe starts here.",
+      "url": "https://x.com/elonmusk/status/2088019251290341427",
+      "tweet_id": "2088019251290341427",
+      "translated": "RT @elonmusk：我们不仅仅在孟菲斯建设——我们在这里生活、工作和投资。我们致力于成为好邻居和负责任的合作伙伴。  自 2024 年加入社区以来，SpaceXAI 已缴纳 3000 万美元税款，支持当地基本服务、公共教育、基础设施等。我们很自豪地称孟菲斯为家——了解宇宙的道路从这里开始。"
+    },
     {
       "id": "tweet_cz_binance_2087971745190044010",
       "username": "cz_binance",
@@ -202,8 +232,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
