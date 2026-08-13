@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-13T06:19:08.794352+00:00",
+  "fetched_at": "2026-08-13T08:23:36.103296+00:00",
   "total": 24,
   "tweets": [
     {
@@ -92,6 +92,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2087807614172488131",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 13 Aug 2026 07:44:59 GMT",
+      "content": "$SIVE announces a $3.4M development program with SemiNex! For CPO, DFB laser arrays, and optical amplifiers. Early production is targeted H2 2027 (in line with early scale up CPO timelines) Seemed weird to me at first given product overlap, since SemiNex is a much smaller Series B company... But then I got reminded of a less explicit version of $SPCX + Cursor relationship (derisking by working together first). There's probably something interesting Sivers found in this company.",
+      "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
+      "tweet_id": "2087807614172488131",
+      "translated": "$SIVE 宣布与 SemiNex 合作启动 340 万美元的开发计划！适用于 CPO、DFB 激光阵列和光放大器。早期生产的目标是 2027 年下半年（与早期扩大 CPO 时间表一致），一开始我觉得产品重叠很奇怪，因为 SemiNex 是一家规模小得多的 B 轮公司……但后来我想起了 $SPCX + Cursor 关系的一个不太明确的版本（通过首先合作来降低风险）。西弗斯可能在这家公司发现了一些有趣的东西。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2087733927930929435",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -112,14 +122,13 @@
       "translated": "我的主要收获是，您的商业 CW 激光器供应商现在似乎极其重要。但是 $COHR 收益的 TLDR：“考虑到我们在 DC 业务中对收发器的需求，我看不到在不久的将来我们会对外销售磷化铟激光器” - 如果 $AAOI 不能提供足够的容量用于第一代 CPO 部署，$COHR 不会对外销售，那么对外销售 InP 激光器的公司就会获得更多价值……我想这就是为什么 $MTSI 说大量客户正在接近的原因他们迫切需要 InP CW DFB 激光器（而且他们甚至在 2027 年 EOY 之前都没有有意义的产能上线） $AAOI -> 内部 $COHR -> 内部买家 -> 寻找产能的地方更少。 “我们的积压现在已经延长，2027 财年的订单基本上已经全部预订完。我们的订单实际上已经预订到 2027 日历年底了”[大量需求可视性] - 相干公司还提到了跨越十年末的长期协议。因此，这有点强化了 $POET 首席执行官在年度股东大会上所说的，即“三巨头”在未来两年内将全部售罄。 “我们现在不受装配和测试能力的限制。我们实际上只是受到磷化铟产量增长的限制”——只是针对装配/测试方面的瓶颈兄弟，而不是瓶颈。 “绝对不会推动 CPO 需求。事实上，情况恰恰相反。我们已经看到需求增加，客户需求的要求也被拉动”“我们仍然预计用于扩大规模应用的 CPO 收入将在 2027 年下半年开始流动” - 如果 $LITE、$COHR 重申 2027 年下半年来自 CPO 规模扩大的收入，请仔细阅读其他 CPO 参与者的扩大规模。 - “到 2027 财年末季度收入将超过 30 亿美元” - $COHR 收入将达到 brrr 因此，对于常规数字来说，它是： - $2.046B 收入（+13.3% Q/Q，+33.8% Y/Y），主要收入增长看起来将在进入 2027 年第四季度时发生 - 非 GAAP 毛利率：40.2% 下一季度指南是： - 收入：$2.2–$2.4B收入 - 非 GAAP 毛利率：39.5-41.5% 基本上：$1.69B -> $1.81B -> $2.05B -> ~$2.30B -> $3.0B（2027 财年末） ~39% -> 39.6% -> 40.2% -> ~40.5%（毛利率） 营业利润率：18.0% -> 19.5% -> 19.9% -> 20.3% -> 21.8% 就盈利能力而言，与 $LITE 利润率增长相比，印象并不深刻，但 $COHR 的收入规模增长迅速。"
     },
     {
-      "id": "tweet_aleabitoreddit_2087515371750490383",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 12 Aug 2026 12:23:43 GMT",
-      "content": "$NBIS outlook is pretty insane yet again. $582.3M revenue (+454% Y/Y, +46% Q/Q) off ~50% adjusted EBITDA margin (AI Cloud). $8.04B cash on hand. Reiterates financial guide (2026 revenue: $3.0–$3.4B 2026 EoY ARR: $7–$9B), I was hoping for a raise, but it's already massive growth. Not really about this quarter financials, but these signals: - \"We could sell our entire 2027 capacity on these terms today.\" massive visibility on demand - \"4 customer agreements averaging over $1B+ each in contract value\" - Around 70% of Q2 deals included customer prepayments - Contracted power guidance was raised again, from more ~4+ GW to 5 GW. (this used to be a concern vs. $IREN debate, but Nebius power guidance keeps going through the roof). - Expects $9B+ of prepayments in 2026 and says it has $40B+ of commitments. - annual contract value per MW keeps going brrr (>$40M/mw for Q3 short term capacity deals) Same bear story will always be there (eg. large $5.66B of capex with current GAAP net loss), but demand is extreme with massive visibility, with increasing AI Cloud adjusted EBITDA margins ( 24% -> 45% -> 50% progression) We kinda got this read through from all your hyperscaler cloud earnings and $CRWV backlog yesterday, but glad it's showing up in Weebius's earnings.",
-      "url": "https://x.com/aleabitoreddit/status/2087515371750490383",
-      "tweet_id": "2087515371750490383",
-      "translated": "$NBIS 的前景再次相当疯狂。调整后 EBITDA 利润率约为 50%（AI Cloud），收入为 5.823 亿美元（同比增长 454%，季度增长 46%）。 $8.04B 手头现金。重申财务指南（2026年收入：$3.0–$3.4B 2026 EoY ARR：$7–$9B），我希望加薪，但它已经是巨大的增长。其实并不是关于本季度的财务数据，而是这些信号：“我们今天可以按照这些条件出售 2027 年的全部产能。”按需提供大量可见性 - “4 个客户协议的合同价值平均超过 10 亿美元以上” - 第二季度交易中大约 70% 包括客户预付款 - 合同电力指引再次上调，从约 4+ 吉瓦提高到 5 吉瓦。 （这曾经是与 $IREN 争论的一个问题，但 Nebius 功率指导一直在飙升）。 - 预计 2026 年预付款额将达到 9B+ 美元，并表示已承诺支付 40B+ 美元。 - 每兆瓦的年度合同价值持续增长（第三季度短期产能交易>4000万美元/兆瓦）同样的熊市故事将永远存在（例如，当前 GAAP 净亏损的资本支出高达 5.66B 美元），但随着 AI 云调整后 EBITDA 利润率的增加（24% -> 45% -> 50% 的进展），需求是极端的，可见度很高（24% -> 45% -> 50%），我们从所有超大规模云收入和 $CRWV 中读到了这一点昨天积压了订单，但很高兴它出现在威比斯的收益中。"
+      "id": "tweet_qinbafrank_2087800377479705061",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Thu, 13 Aug 2026 07:16:14 GMT",
+      "content": "Citadel Securities在最新一期《August Checklist》里一组数据值得关注：本轮二季度S&P500 EPS增速接近33%，企业盈利预期也在持续上修，而且本轮上修路径是至少 2000 年以来最强的一批。更有意思的是： 指数创新高，但估值反而在下降。标普500未来 12 个月 Forward P/E 20.1 倍，去年 10 月还是23.1 倍。 原因很简单： 盈利上涨得比股价更快。",
+      "url": "https://x.com/qinbafrank/status/2087800377479705061",
+      "tweet_id": "2087800377479705061"
     },
     {
       "id": "tweet_qinbafrank_2087780301284258264",
@@ -132,22 +141,13 @@
       "translated": "怎么看Coherent的最新财报？从个人角度聊聊：1、数据层面 1）单季度营收首次突破20.5亿美元，同比增长34%，较市场预期的19.8亿美元高出约3.5%; 调整后每股收益1.74美元，同比增长74%，较分析师预期的1.62美元高出逾7%; 2）数据中心与通信业务环比增长约19%，AI数据中心业务占比已达79%； 3）FY2027第一季度收入与EPS指引显着高于原市场预期，管理层甚至提出FY2027年底季度收入突破30亿美元； 2、业务层面： 1）1.6T需求和爬坡速度继续上修，800G并未因为1.6T启动而停止增长。 2）OCS方向明显强化，但Coherent没有披露OCS本季度收入、下一季度收入或具体出货量。昨天Lumentum已经明确给出下一季度OCS收入将超过1亿美元 3）Scale-out CPO将在12月季度产生收入，面向scale-up的CPO收入仍预计在2027年下半年开始。当前先启动的是scale-out，之后才进入GPU/XPU之间更大规模的scale-up光互联。 4）Scale-across和Multi-Rail，开始连续接力，另一条容易被低估的增长。 Coherent的通信业务Q4同比增长56%，不只是传统电信复苏，主要还包括AI数据中心之间的scale-across和DCI需求。 Multi-Rail等新产品开始形成连续的产品接力； 5）6英寸InP扩产比原计划提前一个季度，良率已超过3英寸产线，成为收入和毛利率的共同驱动； 但FY2026全年自由现金流约为负10.23亿美元，Q4单季倒算仍约为负4.86亿美元，库存和资本开支继续高速增长。 3、但有硬伤 全年利润增长没有转化为经营现金流 26财年经营现金流仅7950万美元，资本开支11.029亿美元；简单计算自由现金流约为负10.234亿美元。 相比之下，25财年经营现金流为6.336亿美元，资本开支只有4.408亿美元。 利润表非常强，但现金流明显恶化，核心原因是库存、应收账款和扩产支出。 所以Cohr这份财报说明经营基本面进入强加速阶段，但当前增长仍然依赖重资本扩产和工作资本投入，利润尚未充分转化为现金。并不是像昨天Lite那样一份“基本无瑕疵的全面大超预期”。 夜盘微跌，个人角度是在只是在消化三个问题： 1）收入和指引很强，但40.2%的毛利率没有带来Lumentum式的利润率惊喜； 2）全年自由现金流约负10亿美元，估值暂时仍主要依赖未来利润而不是当前现金回。 3）工业业务的拖累。 尽管AI业务增长59%，但工业业务16%的下滑提醒市场：Coherent并非纯AI公司。在AI数据中心需求持续井喷的同时，传统工业市场的疲软构成了结构性拖累。 并不是说财报真的很差。 此内容由@BITstocks_CN赞助，买美股上BIT—16000+ 只美股与 ETF，真实持仓，享股息分红。"
     },
     {
-      "id": "tweet_qinbafrank_2087761474966192434",
+      "id": "tweet_qinbafrank_2087794794198429891",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
-      "published_at": "Thu, 13 Aug 2026 04:41:39 GMT",
-      "content": "昨晚7月cpi数据公布都符合预期，也如昨晚聊到的是市场趋势比较平稳，纳指标普略涨，表现亮眼的个股和板块基本上也都是近期基本面强的板块。 1、劳工部统计局公布的精确数据时cpi同比3.36%，核心cpi同比47%，其实略低于预期的。但对外公布四舍五入之后就是符合预期。 1）核心商品环比增速0.2%，三个月复合增速来看目前依然偏低，整体中枢下行趋势延续的；本月反弹集中在二手车分项。 但需要注意的是AI相关消费品重回升势，AI消费品最直接相关的计算机、外围设备等分项，7月环比从-0.7%回升至3.5%，同比再创阶段新高，尽管其权重不大，短期贡献有限，但AI不同于原油，其不像是一次性冲击，而是具备更广泛的扩散能力，尤其是企业进行数字化投资后，相关服务类的价格有缓慢提升，这也许是长期性的，需要重点关注。后面专门聊聊这一点 2）在核心服务里 住房还在低位低位，医疗、车险等反弹，世界杯效应确实在衰退。 机票是油价上涨对核心通胀的最大威胁。机票分项的权重超过1%，7月环比增长2.2%。 3）这说下油价 油价影响弱于预期，7月以来美伊矛盾再起，油价快速反弹，让市场担忧通胀会被再度抬高，但回顾WTI油价的走势，可以发现其实7月震荡区间和中枢与6月基本一致，并未出现实质性上涨。cpi数据也能体现这一点 2、这份数据的意义 1）CPI符合预期，核心通胀偏弱把市场从危险边缘拉回来了，进一步降低了市场加息的担忧。但没有也没给市场强烈乐观的预期。 2）在美伊还没谈妥油价还未回落的时候 ，让市场情绪稍微好转。但是毕竟不是大幅低于预期，市场很难出现全面上涨。资金只能是偏好基本面强势的，基本面一般或者说依赖降息预期利率下行的资产就没那么强。 3、之后怎么看？ 近期就看今晚七月的ppi，ppi数据算是cpi的上游，如果ppi也能走弱对市场情绪也是进一步提振和利好。 但考虑到美伊毕竟仍未谈妥，若8月国际油价持续在80以上震荡，仍有可能影响8月通胀水平。 在美伊还没谈妥前，美股市场估计还是走分化行情，如昨晚聊的好多去看个股和板块的基本面了。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2087761474966192434",
-      "tweet_id": "2087761474966192434"
-    },
-    {
-      "id": "tweet_qinbafrank_2087567196914692502",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 12 Aug 2026 15:49:39 GMT",
-      "content": "今晚Neocloud都在爆发了，3号这篇算不散马前炮了🧐",
-      "url": "https://x.com/qinbafrank/status/2087567196914692502",
-      "tweet_id": "2087567196914692502"
+      "published_at": "Thu, 13 Aug 2026 06:54:02 GMT",
+      "content": "R to @qinbafrank: BIT美股研讨群https://t.me/+gVoU9qICjVJmMjI1",
+      "url": "https://x.com/qinbafrank/status/2087794794198429891",
+      "tweet_id": "2087794794198429891"
     },
     {
       "id": "tweet_xiaomustock_2087577939605180653",
@@ -177,31 +177,31 @@
       "tweet_id": "2086991960590725546"
     },
     {
-      "id": "tweet_xingpt_2087578088192495669",
+      "id": "tweet_xingpt_2087816155256008924",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Wed, 12 Aug 2026 16:32:56 GMT",
-      "content": "Deepseek V4 Pro + Grok 4.6 新发，老实说对于新模型发布的感觉有点像看新手机或者新能源车，就是：又一个来了！ 如果这些模型还是卷排行榜，卷价格，卷coding能力，很难带动新的行业需求，最后就是大家价格都被打下来了，跟手机行业一样。",
-      "url": "https://x.com/xingpt/status/2087578088192495669",
-      "tweet_id": "2087578088192495669"
+      "published_at": "Thu, 13 Aug 2026 08:18:55 GMT",
+      "content": "Lumentum + Coherent 季度财报解析： 追光者的胜利 Lumentum和Coherent连续两天公布财报，把目前AI光通信产业的进度进一步验证清楚了。两家公司都处在光通信核心产业链，但商业模式有所不同。 Lumentum更偏上游高价值光器件和系统，核心包括EML、CW激光器、泵浦激光器、高功率CPO激光器，同时向OCS光交换、ELS外置光源和云端光模块延伸，因此利润率和AI业务弹性更高。 Coherent则更接近“全产业链光子平台”，从InP材料与晶圆、激光器、隔离器、光纤，一直到800G/1.6T光模块、OCS以及CPO/NPO都有布局，其优势在于垂直整合和供应链控制能力。 从本季度业绩看，两家公司共同释放的信号依然很强。Lumentum FY26 Q4收入10.06亿美元，同比增长109%，Non-GAAP毛利率达到50.4%，EPS为3.23美元；更重要的是FY27 Q1收入指引中值达到12.5亿美元，原先需要更晚才能实现的经营目标再次提前。 Coherent Q4收入约20.5亿美元，同比增长34%，调整后EPS 1.74美元，均超过市场预期；FY27 Q1收入指引中值进一步达到23亿美元，EPS中值1.95美元，同样明显高于此前市场预期。 两家公司之间最大的区别在利润率。Lumentum毛利率已经超过50%，主要受益于激光器供给紧张、产品结构升级和OCS等高利润业务； Coherent毛利率约40%，因为增长最快的业务恰恰是毛利率相对较低的光模块。 Coherent管理层也明确指出，transceiver快速增长会对集团整体毛利率形成结构性压制，但随着6英寸InP产能释放，光模块自身利润率仍在提升。 两份财报最重要的意义，其实是对产业趋势形成了非常强的交叉验证。 第一，1.6T远没有走完，甚至还在加速。 Coherent表示，过去3至6个月客户继续把1.6T的量产时间提前，同时把爬坡曲线变得更陡；公司预计整个行业1.6T收入真正超过800G要到2028年。 Lumentum同样看到200G/lane EML迅速放量和1.6T需求增长。因此2026至2027年，传统可插拔光模块依然是最确定的业绩主线，NPO/CPO目前没有提前终结1.6T周期。 第二，EML和硅光/CW目前是双路线共存。 Lumentum开始把部分产能转向CW，说明1.6T硅光渗透率确实在提高，但EML依然严重缺货； Coherent则直接表示EML与Silicon Photonics版本的1.6T需求都很健康，很多客户甚至不在乎具体路线，只希望尽快拿到产品。 这意味着现阶段投资光模块，更重要的是抓住1.6T总量增长和客户份额，而不宜过早押注某一种技术完全淘汰另一种。 第三，上游器件正在成为真正的瓶颈。 Coherent表示过去一年限制数据中心业务增长的主要因素一直是产能而非需求，公司InP产能本季度同比翻倍，到2027年底还计划再翻倍，而且部分新增产能已经开始从传统光模块转向超高功率CPO/ELS激光器。 Lumentum也表示高功率激光器需求超过此前预测。两家公司共同说明，未来光通信最稀缺的价值可能越来越集中在InP、EML、CW、高功率激光器、隔离器等核心器件，而模块组装产能相对更容易扩张。 第四，OCS、NPO和CPO已经开始形成第二增长曲线。Coherent过去半年看到OCS用于scale-up的客户参与明显增加；Lumentum的OCS收入已经实际进入快速爬坡。 CPO方面，Coherent今年已经开始受益于scale-out CPO，并预计2027年下半年逐渐进入scale-up； Lumentum给出的时间线也基本一致，高功率ELS/CPO激光器主要在2027H2开始放量，对应2028年的系统部署。因此产业节奏可以简单理解为：2026至2027年看1.6T，2027H2以后增加ELS、NPO和高功率激光器，2028以后真正进入scale-up光互联的大周期。 对应到产业链，第一优先级仍然是1.6T高速光模块，直接受益者包括中际旭创、新易盛以及Fabrinet等。中际旭创目前产品已经覆盖至1.6T并布局NPO，新易盛也已展示200G/lane 1.6T产品；Fabrinet则处在全球高端光模块制造和封装环节。 第二条主线是上游激光器和InP，Lumentum、Coherent本身最直接，A股可以继续观察源杰科技这类已经具备200G EML和CW激光芯片产品的厂商。 第三条则是光纤和高密度连接，随着光从机柜外逐渐深入机柜内部，Corning的长期逻辑也得到加强。 最后看投资节奏。基本面上，我仍然偏向把LITE和COHR视为AI光通信的核心观察指标，但目前不适合看到好财报就追涨。 Lumentum在8月12日财报后已经上涨13.6%，过去一年累计涨幅也非常大，说明市场已经计入相当高的2027至2028年增长预期。 技术上更适合等待财报跳空上涨后形成新的整理平台，确认回踩承接再考虑增加仓位，而不是追单日大阳线。 Coherent则更有意思。8月12日白天受到Lumentum带动先上涨8.2%，自己的财报公布后盘后反而下跌约2.1%至348美元附近，尽管收入、EPS和指引全部beat。 这说明市场预期已经很高，也说明短线筹码需要消化。技术上可以观察正式交易后能否重新站回财报前约355美元的收盘区域，如果快速收回，说明市场最终认可基本面；如果持续承压，则更适合等待新的日线平台形成。技术形态上Lite更强。 综合来看，我目前更愿意采用“产业继续看多，个股避免追高”的策略：短期利润最确定的仍是1.6T光模块，中期提高InP、EML/CW、高功率激光器和OCS的权重，2027年下半年开始逐渐把研究重心转向ELS、NPO和CPO。 真正值得长期提高估值的公司，是那些既能吃到当前1.6T利润，又能顺利进入下一代光引擎、OCS和CPO体系的企业。",
+      "url": "https://x.com/xingpt/status/2087816155256008924",
+      "tweet_id": "2087816155256008924"
     },
     {
-      "id": "tweet_xingpt_2087576434726609346",
+      "id": "tweet_xingpt_2087816158577934710",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Wed, 12 Aug 2026 16:26:21 GMT",
-      "content": "美股还是得敏捷交易，发利好和利空都得快速反应，盘前涨 10%，发现盘中还能再涨 10%。",
-      "url": "https://x.com/xingpt/status/2087576434726609346",
-      "tweet_id": "2087576434726609346"
+      "published_at": "Thu, 13 Aug 2026 08:18:56 GMT",
+      "content": "R to @xingpt: 光模块术语解释： 先简单解释一下文中频繁出现的几个概念。 AI服务器里的GPU需要不断交换数据，传统铜线在距离、带宽和功耗上逐渐碰到瓶颈，所以越来越多的数据开始通过光来传输。光模块可以理解成服务器和交换机的“光电转换器”，负责把芯片产生的电信号转换成光信号发送出去，再把收到的光信号转换回电信号。 所谓800G、1.6T，代表一个光模块能够传输的数据量，1.6T的带宽大约是800G的两倍，因此AI集群规模越大，对高速光模块的需求通常越高。 光模块内部最重要的部件之一就是激光器。EML是一种把激光和高速调制结合在一起的方案，目前大量应用于800G和1.6T光模块；CW则是连续波激光器，通常配合硅光芯片使用，因此市场常说的“硅光路线”，背后往往对应CW激光器需求。 200G/lane指的是单条光通道可以传输200Gbps的数据，例如一个1.6T模块可以通过8条200G通道实现总计1.6Tbps的带宽。Coherent和Lumentum这次都显示，EML和硅光/CW需求同时很强，意味着短期行业仍处于多技术路线共同扩张阶段。 CPO和NPO则代表光器件越来越靠近计算芯片。传统光模块插在交换机面板上，芯片的数据需要先经过一段电连接再进入光模块；NPO会把光引擎放到芯片附近的电路板上，缩短这段电连接；CPO则进一步把光引擎直接放到交换芯片或处理器旁边，可以降低功耗并提高带宽密度。ELS是External Light Source，也就是外置光源，可以把高功率激光集中放置，再把光输送给多个CPO或NPO光引擎，因此Lumentum和Coherent布局的高功率CW激光器正是这一轮产业升级的重要上游环节。 最后还有OCS，也就是光路交换机。普通交换机需要不断把光信号转换成电信号进行处理，而OCS可以直接改变光纤之间的连接路径，用来动态调整AI集群内部不同服务器和GPU之间的连接关系。 随着AI集群从几千张GPU扩展到几万甚至更多GPU，光模块解决“数据怎么传”，OCS进一步解决“这些光连接怎么高效组织”，因此它正在成为AI光通信产业新的增长方向。 这样理解以后，整条产业链就比较清楚了：GPU/ASIC → 高速网络 → 800G/1.6T光模块 → EML或CW激光器 → NPO/CPO逐渐把光推进到芯片附近 → ELS提供高功率光源 → OCS负责整个AI集群中的光路调度。而Lumentum和Coherent值得关注的原因，也正是它们已经从传统激光器和光模块，逐渐覆盖到CW、ELS、OCS以及NPO/CPO等下一代光互联环节。",
+      "url": "https://x.com/xingpt/status/2087816158577934710",
+      "tweet_id": "2087816158577934710"
     },
     {
-      "id": "tweet_xingpt_2087523508683526361",
+      "id": "tweet_xingpt_2087806655702700223",
       "username": "xingpt",
       "display_name": "星Prompt",
-      "published_at": "Wed, 12 Aug 2026 12:56:03 GMT",
-      "content": "窥一斑而知全豹，Coreweave财报不错，同行业的NBIS运营水平此前就一直在Coreweave之上，所以猜测Nebius的财报不会太差，果然Nebius新一季度的财报大超预期，盘前涨幅超过 15%。 距离我 8 月 3 日在会员频道第一次覆盖并强烈推荐Nebius，NBIS的股价从 185 涨到225，超过 20%。 https://x.com/xingpt/status/2083970523843973588?s=20",
-      "url": "https://x.com/xingpt/status/2087523508683526361",
-      "tweet_id": "2087523508683526361"
+      "published_at": "Thu, 13 Aug 2026 07:41:10 GMT",
+      "content": "有哪些做交易后的小习惯：不吃甜品龟苓膏、不去广西桂林旅游，还有哪些你来补充",
+      "url": "https://x.com/xingpt/status/2087806655702700223",
+      "tweet_id": "2087806655702700223"
     },
     {
       "id": "tweet_hibtc37_2087374830522048539",
