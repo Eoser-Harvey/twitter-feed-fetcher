@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-08-13T02:07:19.323331+00:00",
+  "fetched_at": "2026-08-13T04:53:58.286186+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2087760446212522196",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 13 Aug 2026 04:37:33 GMT",
+      "content": "Video",
+      "url": "https://x.com/elonmusk/status/2087760446212522196",
+      "tweet_id": "2087760446212522196",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_elonmusk_2087760069693997530",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 13 Aug 2026 04:36:03 GMT",
+      "content": "Grok 4.6 has a great sense of humor 😂",
+      "url": "https://x.com/elonmusk/status/2087760069693997530",
+      "tweet_id": "2087760069693997530",
+      "translated": "Grok 4.6 很有幽默感 😂"
+    },
     {
       "id": "tweet_elonmusk_2087668743929487420",
       "username": "elonmusk",
@@ -13,24 +33,14 @@
       "translated": "Grok 4.6 在 @databricks 上排名第一"
     },
     {
-      "id": "tweet_elonmusk_2087592670893847008",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 12 Aug 2026 17:30:52 GMT",
-      "content": "RT by @elonmusk: one step closer to moon cannon and party.",
-      "url": "https://x.com/elonmusk/status/2087592670893847008",
-      "tweet_id": "2087592670893847008",
-      "translated": "RT @elonmusk：距离月球大炮和派对又近了一步。"
-    },
-    {
-      "id": "tweet_elonmusk_2087567786302374322",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 12 Aug 2026 15:52:00 GMT",
-      "content": "RT by @elonmusk: give 4.6 a try and let us know how it goes. your feedback is a big part of why the model gets better with each iteration.",
-      "url": "https://x.com/elonmusk/status/2087567786302374322",
-      "tweet_id": "2087567786302374322",
-      "translated": "RT by @elonmusk：尝试一下 4.6，让我们知道效果如何。您的反馈是模型每次迭代都变得更好的重要原因。"
+      "id": "tweet_cz_binance_2087584833778176014",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Wed, 12 Aug 2026 16:59:44 GMT",
+      "content": "RT by @cz_binance: One BNB Chain metric that barely gets talked about: BNB Chain has the highest stablecoin market cap bridged into the chain ~$11.1B, according to DefiLlama. For comparison: Polygon: ~$2.37B Arbitrum: ~$1.06B Solana: ~$724M Capital goes where it can actually be used. BNB Chain is quietly becoming one of crypto’s biggest liquidity hubs.",
+      "url": "https://x.com/cz_binance/status/2087584833778176014",
+      "tweet_id": "2087584833778176014",
+      "translated": "@cz_binance 的转发：根据 DefiLlama 的说法，BNB Chain 的一个几乎没有被谈论的指标：BNB Chain 拥有最高的稳定币市值，约 $11.1B。作为比较： Polygon：~$2.37B Arbitrum：~$1.06B Solana：~$724M 资本流向真正可以使用的地方。 BNB Chain 正在悄然成为加密货币最大的流动性中心之一。"
     },
     {
       "id": "tweet_cz_binance_2087113573558587662",
@@ -50,16 +60,7 @@
       "content": "Why does Binance's market share grow so quickly in new sectors? Short answer: users. Some exchanges extract maximum profit from their users, max fees, some even trade against their users while offering 0-fees or 100% rebate to referrers. But they can't keep the users. Protect users = protect your future businesses, even the ones you haven't launched yet.",
       "url": "https://x.com/cz_binance/status/2087479940149289135",
       "tweet_id": "2087479940149289135",
-      "translated": "为什么币安在新领域的市场份额增长如此之快？简短的回答：用户。一些交易所从用户那里获取最大利润、最高费用，有些交易所甚至与用户进行交易，同时向推荐人提供 0 费用或 100% 回扣。但他们留不住用户。保护用户=保护您未来的业务，即使是您尚未启动的业务。"
-    },
-    {
-      "id": "tweet_cz_binance_2087476253238657146",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 12 Aug 2026 09:48:16 GMT",
-      "content": "👀",
-      "url": "https://x.com/cz_binance/status/2087476253238657146",
-      "tweet_id": "2087476253238657146"
+      "translated": "为什么币安在新领域的市场份额增长如此之快？简短的回答：用户。一些交易所从用户那里获取最大利润和最高费用，有些交易所甚至与用户进行交易，同时向推荐人提供 0 费用或 100% 回扣。但他们留不住用户。保护用户=保护您未来的业务，即使是您尚未启动的业务。"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
@@ -91,6 +92,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2087733927930929435",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 13 Aug 2026 02:52:11 GMT",
+      "content": "Is it just me, or is the list of 3 letter optical jargon never ending? We have LPO, LRO, NPO, XPO, CPO, OBO, and others for approaches. Then InP, EML, ELS, OCS, SOI, and others to add to the random terms. Even the industry events with OCP or OFC get their three letter names. People who have followed me on my optical bottleneck scavenger hunt with $SOI or $IQE might know a lot by now. But wouldn’t new followers might be super confused…",
+      "url": "https://x.com/aleabitoreddit/status/2087733927930929435",
+      "tweet_id": "2087733927930929435",
+      "translated": "是我一个人的问题，还是这三字母光学术语的列表永无止境？我们有 LPO、LRO、NPO、XPO、CPO、OBO 等方法。然后将 InP、EML、ELS、OCS、SOI 等添加到随机项中。即使是 OCP 或 OFC 的行业活动也有其三个字母的名称。那些跟随我用 $SOI 或 $IQE 进行光学瓶颈寻宝游戏的人现在可能已经知道很多了。但新的追随者会不会感到非常困惑……"
+    },
+    {
       "id": "tweet_aleabitoreddit_2087675367595380783",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -109,16 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2087515371750490383",
       "tweet_id": "2087515371750490383",
       "translated": "$NBIS 的前景再次相当疯狂。调整后 EBITDA 利润率约为 50%（AI Cloud），收入为 5.823 亿美元（同比增长 454%，季度增长 46%）。 $8.04B 手头现金。重申财务指南（2026年收入：$3.0–$3.4B 2026 EoY ARR：$7–$9B），我希望加薪，但它已经是巨大的增长。其实并不是关于本季度的财务数据，而是这些信号：“我们今天可以按照这些条件出售 2027 年的全部产能。”按需提供大量可见性 - “4 个客户协议的合同价值平均超过 10 亿美元以上” - 第二季度交易中大约 70% 包括客户预付款 - 合同电力指引再次上调，从约 4+ 吉瓦提高到 5 吉瓦。 （这曾经是与 $IREN 争论的一个问题，但 Nebius 功率指导一直在飙升）。 - 预计 2026 年预付款额将达到 9B+ 美元，并表示已承诺支付 40B+ 美元。 - 每兆瓦的年度合同价值持续增长（第三季度短期产能交易>4000万美元/兆瓦）同样的熊市故事将永远存在（例如，当前 GAAP 净亏损的资本支出高达 5.66B 美元），但随着 AI 云调整后 EBITDA 利润率的增加（24% -> 45% -> 50% 的进展），需求是极端的，可见度很高（24% -> 45% -> 50%），我们从所有超大规模云收入和 $CRWV 中读到了这一点昨天积压了订单，但很高兴它出现在威比斯的收益中。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2087505570941239683",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 12 Aug 2026 11:44:46 GMT",
-      "content": "$AEHR receives another $22M follow on order for AI processor wafer level burn in systems. By their lead AI processor company. It’s cool to see this tiny company grow up so fast across so many verticals (memory, silicon photonics, etc). Up +5.39% premarket off the news.",
-      "url": "https://x.com/aleabitoreddit/status/2087505570941239683",
-      "tweet_id": "2087505570941239683",
-      "translated": "$AEHR 又收到了 2200 万美元的 AI 处理器晶圆级烧录系统订单。由他们领先的人工智能处理器公司提供。看到这家小公司在如此多的垂直领域（内存、硅光子学等）发展得如此之快，真是太酷了。消息传出后，盘前上涨 5.39%。"
     },
     {
       "id": "tweet_qinbafrank_2087567196914692502",
