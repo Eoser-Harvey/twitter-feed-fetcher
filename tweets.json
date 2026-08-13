@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-13T11:49:52.441831+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-13T13:15:31.261987+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2087822520128823438",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 13 Aug 2026 08:44:13 GMT",
+      "content": "Video",
+      "url": "https://x.com/elonmusk/status/2087822520128823438",
+      "tweet_id": "2087822520128823438",
+      "translated": "视频"
+    },
+    {
+      "id": "tweet_elonmusk_2087769103821918619",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 13 Aug 2026 05:11:57 GMT",
+      "content": "RT by @elonmusk: one best thing about Grok 4.6 is that you don't have to set a goal or loop It now works for a long time autonomously as long as it can finish the job and it really really tries to finish the job",
+      "url": "https://x.com/elonmusk/status/2087769103821918619",
+      "tweet_id": "2087769103821918619",
+      "translated": "RT by @elonmusk：Grok 4.6 最好的一点是，你不必设定目标或循环，它现在可以自主工作很长时间，只要它可以完成工作，并且它确实尝试完成工作"
+    },
+    {
+      "id": "tweet_elonmusk_2087685264617406963",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 12 Aug 2026 23:38:49 GMT",
+      "content": "RT by @elonmusk: Maybe it's just because it's new and shiny but I'm obsessed with with Grok Bot. The form factor is so fun, especially when combined with text to speech. You can FLY. Automations just work, cross-bot messaging works perfectly (I do most everything through my \"chief of staff\").",
+      "url": "https://x.com/elonmusk/status/2087685264617406963",
+      "tweet_id": "2087685264617406963",
+      "translated": "RT @elonmusk：也许只是因为它是新的、闪亮的，但我对 Grok Bot 很着迷。其外形非常有趣，尤其是与文本转语音结合使用时。你可以飞。自动化工作正常，跨机器人消息传递工作完美（我通过我的“幕僚长”完成大部分事情）。"
+    },
     {
       "id": "tweet_cz_binance_2087584833778176014",
       "username": "cz_binance",
@@ -62,6 +92,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2087867722784805170",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 13 Aug 2026 11:43:50 GMT",
+      "content": "In IPO news… Vantage Data Centers is exploring going public at an enormous $100B valuation. If you’re not familiar, $ORCL is their anchor tenant for Stargate (OpenAI end user), and Vantage develops/operates hyperscaler DCs. Anthropic IPO is also expected, with investors expecting $2T valuation, eclipsing $SPCX per FT. Yeah… idk about Anthropic valuations. Jim Cramer defending that valuation is never a good sign. On a side note, Opus 5 is probably the worst consumer LLM I’ve used to date, it’s like a 5 IQ LLM operating off terrible data retrieval. With a Fable-like God complex on top. Enterprise is probably having a better time though. Unitree IPO is also expected this month and priced it at a $9B valuation. Which is a positive tailwind for Unitree for the humanoid sectors. Not really an AI name but SHEIN is going public as soon as the 19th this month. Go ask any girl you know and they’re probably familiar with this platform.",
+      "url": "https://x.com/aleabitoreddit/status/2087867722784805170",
+      "tweet_id": "2087867722784805170",
+      "translated": "IPO 消息……Vantage Data Centers 正在探索以 1000 亿美元的巨额估值上市。如果您不熟悉，$ORCL 是 Stargate（OpenAI 最终用户）的主要租户，Vantage 开发/运营超大规模数据中心。人为 IPO 也在预期之中，投资者预计估值将达到 2T 美元，超过每份 FT 的 SPCX 美元。是的……我不知道人为估值。吉姆·克莱默 (Jim Cramer) 辩称，估值从来都不是一个好兆头。顺便说一句，Opus 5 可能是我迄今为止用过的最糟糕的消费者 LLM，它就像一个 5 IQ LLM 的数据检索很糟糕。上面有一种寓言般的上帝情结。不过，Enterprise 的日子可能会更好。 Unitree 预计将于本月进行 IPO，估值为 9B 美元。这对于 Unitree 的人形机器人领域来说是一个积极的推动力。 SHEIN 并不是真正的人工智能名称，但最快将于本月 19 日上市。去问你认识的任何女孩，她们可能熟悉这个平台。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2087846074027295020",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -80,16 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
       "tweet_id": "2087838176677376186",
       "translated": "感觉我今年 2 月的 $IQE 论文与 $AXTI 和其他论文一起得到了验证。 （我仍然对两者都渴望）所以我不再过多报道它们。但长话短说：今年年初，当我发表关于 IQE 的论文时，IQE 是光学供应链中一个令人困扰但又至关重要的瓶颈，与 $LITE 和其他公司有联系。此后： - $MTSI 签署了长期外延片供应协议，入股了该公司，现在 IQE 没有银行债务（Macom 有可转换债券，但这是积极的） - $TSEM 签署了 InP 外延片协议。 - 管理层明确表示，签署 IQE 协议是为了确保“该路线图所需的战略 III-V 外延片供应” - IQE 签署了另一份约 1400 万美元的神秘 AI DC 合同。我之前的论文中唯一仍在发挥作用的部分是 IQE 将其潜在/未充分利用的能力转向 AI DC 领域，以与该领域的 Landmark 等同行相匹配（这需要时间，如果我没记错的话，大约需要一年多一点）。我将避免谈论一些对国家安全的影响，这使得它们变得更加重要。但基本上： 2025 财年收入：9730 万英镑 2026 财年指导：超过 1.265 亿英镑 他们在光学行业再次快速增长，摆脱了银行债务/不良清算状态，并且仍然是西方光学供应链的关键瓶颈。现在...与领先的光子学公司签订新协议以实现收入增长，而 Macom 等公司将充当软后盾。论文得到验证后，我通常会坐下来享受业务的增长。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2087807614172488131",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 13 Aug 2026 07:44:59 GMT",
-      "content": "$SIVE announces a $3.4M development program with SemiNex! For CPO, DFB laser arrays, and optical amplifiers. Early production is targeted H2 2027 (in line with early scale up CPO timelines) Seemed weird to me at first given product overlap, since SemiNex is a much smaller Series B company... But then I got reminded of a less explicit version of $SPCX + Cursor relationship (derisking by working together first). There's probably something interesting Sivers found in this company.",
-      "url": "https://x.com/aleabitoreddit/status/2087807614172488131",
-      "tweet_id": "2087807614172488131",
-      "translated": "$SIVE 宣布与 SemiNex 合作开展 340 万美元的开发计划！适用于 CPO、DFB 激光阵列和光放大器。早期生产的目标是 2027 年下半年（与早期扩大 CPO 时间表一致），一开始我觉得产品重叠很奇怪，因为 SemiNex 是一家规模小得多的 B 轮公司……但后来我想起了 $SPCX + Cursor 关系的一个不太明确的版本（通过首先合作来降低风险）。西弗斯可能在这家公司发现了一些有趣的东西。"
     },
     {
       "id": "tweet_qinbafrank_2087800377479705061",
@@ -202,8 +232,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
