@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-13T13:15:31.261987+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-13T15:01:10.318487+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2087822520128823438",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 08:44:13 GMT",
-      "content": "Video",
-      "url": "https://x.com/elonmusk/status/2087822520128823438",
-      "tweet_id": "2087822520128823438",
-      "translated": "视频"
-    },
-    {
-      "id": "tweet_elonmusk_2087769103821918619",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 05:11:57 GMT",
-      "content": "RT by @elonmusk: one best thing about Grok 4.6 is that you don't have to set a goal or loop It now works for a long time autonomously as long as it can finish the job and it really really tries to finish the job",
-      "url": "https://x.com/elonmusk/status/2087769103821918619",
-      "tweet_id": "2087769103821918619",
-      "translated": "RT by @elonmusk：Grok 4.6 最好的一点是，你不必设定目标或循环，它现在可以自主工作很长时间，只要它可以完成工作，并且它确实尝试完成工作"
-    },
-    {
-      "id": "tweet_elonmusk_2087685264617406963",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 12 Aug 2026 23:38:49 GMT",
-      "content": "RT by @elonmusk: Maybe it's just because it's new and shiny but I'm obsessed with with Grok Bot. The form factor is so fun, especially when combined with text to speech. You can FLY. Automations just work, cross-bot messaging works perfectly (I do most everything through my \"chief of staff\").",
-      "url": "https://x.com/elonmusk/status/2087685264617406963",
-      "tweet_id": "2087685264617406963",
-      "translated": "RT @elonmusk：也许只是因为它是新的、闪亮的，但我对 Grok Bot 很着迷。其外形非常有趣，尤其是与文本转语音结合使用时。你可以飞。自动化工作正常，跨机器人消息传递工作完美（我通过我的“幕僚长”完成大部分事情）。"
-    },
     {
       "id": "tweet_cz_binance_2087584833778176014",
       "username": "cz_binance",
@@ -92,6 +62,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2087902683474891106",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 13 Aug 2026 14:02:45 GMT",
+      "content": "In another world, $SMCI would look more like $DELL? If they didn't try smuggling $NVDA GPUs using hairdryers... Regardless, SMCI guiding $65-72B FY 2027 revenue off a ~$25B MC is pretty crazy the more I look at it.",
+      "url": "https://x.com/aleabitoreddit/status/2087902683474891106",
+      "tweet_id": "2087902683474891106",
+      "translated": "在另一个世界中，$SMCI 会更像 $DELL？如果他们没有尝试使用吹风机走私 NVDA GPU……无论如何，SMCI 指导 2027 财年从约 25B MC 获得 65-72B 美元的收入，我越看越觉得非常疯狂。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2087867722784805170",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -109,17 +89,26 @@
       "content": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. - I have 0 idea. ZERO. How they convinced shareholders to allow them dilute SO MUCH to the point: They have an absurd ~$830m cash on hand now. And my guess is that they're close to done, since I would be in disbelief if they needed more. So now... they have ~$830m to grow their business like M&A, and EV actually dropped really low recently (eg. $1.25B MC vs. $830m cash on hand), that I thought it was compelling to take a risk. - Annualized production capacity target is 12M optical engines/year for 2027, which is pretty absurd ramp. Need to do more research into ASP for Poet's products, but maybe $125-$200? So at ~$150 ASP, $1.8B revenue ceiling. But they're like inverse AAOI right now: no visible demand to fill all that capacity. Aside from Lumilens, which is now a highly valued hyperscaler supplier (probably Amazon or Microsoft), with billions in customer agreements. The interesting thing is if Poet signed prepayment EML agreements with players like Mitsubishi, or CW agreements with Sivers behind the scenes with that balance sheet. And given the current bottleneck, players might use Poet as a workaround for supply procurement. But basically, you have a super cash-rich company with a ton of capacity coming online. And they're not really disappearing anytime soon with their financials. I don't quite think it's as technically defensible compared to upstream laser chokepoints with something like $SIVE around the same valuation in terms of technical moat for CW lasers vs. OE packaging side. As you've seen recently with Celestial and Poet. But maybe... there's a chance some hyperscaler or downstream company announces a volume agreement sometime in the future. and $POET takes off. And they do have the supply chain setup for ramp with that. That's the risk I ended up taking, but it's not exactly a clear as day long for me like $AAOI.",
       "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
       "tweet_id": "2087846074027295020",
-      "translated": "好吧，这是我对 $POET 的看法，因为显然人们在 Reddit 子版块上庆祝我持有小仓位。 - 我有0个想法。零。他们如何说服股东允许他们进行如此大的稀释：他们现在手头有大约 8.3 亿美元的荒谬现金。我的猜测是他们已经接近完成了，因为如果他们需要更多，我会难以置信。所以现在......他们有大约 8.3 亿美元来发展他们的业务，比如并购，而 EV 最近实际上下降得非常低（例如，$1.25B MC vs. 8.3 亿美元手头现金），我认为冒险是很有必要的。 - 2027 年年产能目标为 1200 万台光学引擎/年，这是相当荒谬的增长。需要对 Poet 产品的 ASP 进行更多研究，但可能是 125-200 美元？因此，平均售价约为 150 美元，收入上限为 1.8B 美元。但它们现在就像逆 AAOI：没有明显的需求来填补所有这些容量。除了 Lumilens 之外，该公司现在是一家高价值的超大规模供应商（可能是亚马逊或微软），拥有数十亿美元的客户协议。有趣的是，Poet 是否与三菱等公司签署了预付款 EML 协议，或者与资产负债表幕后的 Sivers 签署了 CW 协议。鉴于当前的瓶颈，玩家可能会使用 Poet 作为供应采购的解决方法。但基本上，你拥有一家现金超级充裕的公司，并且有大量的在线产能。而且他们的财务状况并不会很快消失。我认为，与上游激光瓶颈相比，它在技术上不太具有防御性，在连续激光器与 OE 封装方面的技术护城河方面，类似 $SIVE 的估值大致相同。正如您最近在《Celestial》和《Poet》中看到的那样。但也许……一些超大规模企业或下游公司有可能在未来某个时候宣布达成批量协议。 $POET 起飞。他们确实有相应的供应链设置。这就是我最终承担的风险，但对我来说，这并不像 $AAOI 那样一目了然。"
+      "translated": "好吧，这是我对 $POET 的看法，因为显然人们在 Reddit 子版块上庆祝我持有小仓位。 - 我有0个想法。零。他们如何说服股东允许他们进行如此大的稀释：他们现在手头有大约 8.3 亿美元的荒谬现金。我的猜测是他们已经接近完成了，因为如果他们需要更多，我会难以置信。所以现在......他们有大约 8.3 亿美元来发展他们的业务，比如并购，而 EV 最近实际上下降得非常低（例如，$1.25B MC vs. 8.3 亿美元手头现金），我认为冒险是很有必要的。 - 2027 年年产能目标为 1200 万台光学引擎/年，这是相当荒谬的增长。需要对 Poet 产品的 ASP 进行更多研究，但可能是 125-200 美元？因此，平均售价约为 150 美元，收入上限为 1.8B 美元。但它们现在就像逆 AAOI：没有明显的需求来填补所有这些容量。除了 Lumilens 之外，它现在是一家高价值的超大规模供应商（可能是亚马逊或微软），拥有数十亿美元的客户协议。有趣的是，Poet 是否与三菱等公司签署了预付款 EML 协议，或者与资产负债表幕后的 Sivers 签署了 CW 协议。鉴于当前的瓶颈，玩家可能会使用 Poet 作为供应采购的解决方法。但基本上，你拥有一家现金超级充裕的公司，并且有大量的在线产能。而且他们的财务状况并不会很快消失。我认为，与上游激光瓶颈相比，它在技术上不太具有防御性，在连续激光器与 OE 封装方面的技术护城河方面，类似 $SIVE 的估值大致相同。正如您最近在《Celestial》和《Poet》中看到的那样。但也许……一些超大规模企业或下游公司有可能在未来某个时候宣布达成批量协议。 $POET 起飞。他们确实有相应的供应链设置。这就是我最终承担的风险，但对我来说，这并不像 $AAOI 那样一目了然。"
     },
     {
-      "id": "tweet_aleabitoreddit_2087838176677376186",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 13 Aug 2026 09:46:26 GMT",
-      "content": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both) So I stopped covering them as much. But TLDR on updates: Early this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and others when I published my thesis on it. Since then: - $MTSI signed long term epiwafer supply agreements, took a stake in the company, now IQE is bank debt free (Macom has convertibles, but that's positive) - $TSEM signed agreements for InP epiwafers. - Management explicitly said its IQE agreement was signed to secure the \"strategic III-V epiwafer supply required for that roadmap\" - IQE signed another ~$14M mysterious AI DC contract. The only part that's still playing out with my earlier thesis is IQE converting their latent/underutilized capacity toward AI DC segment, to match peers like Landmark in the space (which takes time, like slightly over a year if I remember correctly). There's some national security implications that I'll avoid talking about that makes them more important. But basically: FY2025 revenue: £97.3m FY2026 guidance: over £126.5m They're rapidly growing again in the optical sector, out of bank debt/distressed liquidation state, and remains a critical chokepoint in Western optical supply chains. Now... with new agreements with your leading photonics companies for revenue growth, and players like Macom serving as a soft backstop. After a thesis gets validated, typically I just sit back and enjoy growth of a business.",
-      "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
-      "tweet_id": "2087838176677376186",
-      "translated": "感觉我今年 2 月的 $IQE 论文与 $AXTI 和其他论文一起得到了验证。 （我仍然对两者都渴望）所以我不再过多报道它们。但长话短说：今年年初，当我发表关于 IQE 的论文时，IQE 是光学供应链中一个令人困扰但又至关重要的瓶颈，与 $LITE 和其他公司有联系。此后： - $MTSI 签署了长期外延片供应协议，入股了该公司，现在 IQE 没有银行债务（Macom 有可转换债券，但这是积极的） - $TSEM 签署了 InP 外延片协议。 - 管理层明确表示，签署 IQE 协议是为了确保“该路线图所需的战略 III-V 外延片供应” - IQE 签署了另一份约 1400 万美元的神秘 AI DC 合同。我之前的论文中唯一仍在发挥作用的部分是 IQE 将其潜在/未充分利用的能力转向 AI DC 领域，以与该领域的 Landmark 等同行相匹配（这需要时间，如果我没记错的话，大约需要一年多一点）。我将避免谈论一些对国家安全的影响，这使得它们变得更加重要。但基本上： 2025 财年收入：9730 万英镑 2026 财年指导：超过 1.265 亿英镑 他们在光学行业再次快速增长，摆脱了银行债务/不良清算状态，并且仍然是西方光学供应链的关键瓶颈。现在...与领先的光子学公司签订新协议以实现收入增长，而 Macom 等公司将充当软后盾。论文得到验证后，我通常会坐下来享受业务的增长。"
+      "id": "tweet_qinbafrank_2087910104595415350",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Thu, 13 Aug 2026 14:32:15 GMT",
+      "content": "从CRWV和NBIS的人最新财报能看到CSP（AI云算力）板块的出五个比较清晰的发展趋势： 1、需求仍显著超过近期可交付供给。 CoreWeave 二季度末已投运功率约1.5GW、合同功率约3.7GW，积压订单约1,040亿美元，而且尚未包括三季度初新增的超过250亿美元承诺； Nebius则计划从2027年开始每年部署超过1GW，并以5GW合同容量为中期目标。 行业瓶颈已经由“有没有客户”转向“什么时候能通电、交付GPU并开始计费”。 2、定价权确实在增强，但不是所有GPU租赁价格无差别上涨。 CoreWeave管理层表示，7月各类SKU价格普遍上调约25%；Nebius披露，旧代GPU价格较一季度上涨超过30%，二季度新签合同平均年化收入超过每MW 2,000万美元，部分达到2,000万—2,500万美元，三季度初的短期紧急容量甚至达到每MW 4,000万—5,000万美元。 涨价最明显的是短期容量、新代GPU、大规模集群和生产级推理，而不是传统低优先级、长期锁价的裸算力。 3、项目级ROI已经能够算过账，但公司级ROIC尚未被证明。 Nebius首次披露了比较明确的项目回收期；CoreWeave则用五年期合同和资产级融资覆盖GPU投资。但两家公司目前都处于资本投入远超利润释放的阶段，折旧和利息仍然吞噬大部分经营利润。 但单项目ROI已经能够算过账就是一个经营在进一步改善的信号。等到未来越来越多的单项目ROI能算过账、公司级ROIC也就能证明了， 4、两家公司都在向“AI基础设施操作系统”升级。 未来竞争不再只是每小时出租一张GPU，而是提供训练、推理、存储、网络、模型部署、监控、治理、Agent运行环境以及跨云运营的一体化平台。 也就是7月中这里https://x.com/qinbafrank/status/2076839550119444702?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到的“AI运营操作系统和坚实的中间层” 5、两家公司开始采用第三方资本，但方式并不完全相同。 1）Nebius的轻资产模式更接近“由资本伙伴出资建设AI工厂，Nebius输出操作系统和运营能力”； 2）CoreWeave Omni则更接近“把CoreWeave云完整部署到客户自有的数据中心和GPU上”。 方向相同，但现阶段Nebius更强调降低资本投入，CoreWeave更强调混合云和主权AI交付。",
+      "url": "https://x.com/qinbafrank/status/2087910104595415350",
+      "tweet_id": "2087910104595415350",
+      "translated": "从CRWV和NBIS的人最新财报能看到CSP（AI云算力）板块的出五个比较清晰的发展趋势： 1、需求仍显着超过近期可交付供给。 CoreWeave 二季度末已投运功率约1.5GW、合同功率约3.7GW，积压订单约1,040亿美元，而且尚未包括三季度初新增的超过250亿美元承诺； Nebius则计划从2027年开始每年部署超过1GW，并以5GW合同容量为中期目标。 行业瓶颈已经由“有没有客户”转向“什么时候能通电、交付GPU并开始计费”。 2、定价权确实在增强，但不是所有GPU租赁价格无差别上涨。 CoreWeave管理层表示，7月各类SKU价格普遍上调约25%；Nebius披露，旧代GPU价格较一季度上涨超过30%，二季度新签合同平均年化收入超过每MW 2,000万美元，部分达到2,000万—2,500万美元，三季度初的短期紧急容量甚至达到每MW 4,000万—5,000万美元。 涨价最明显的是短期容量、新代GPU、大规模集群和生产级推理，而不是传统低优先级、长期锁价的裸算力。 3、项目级ROI已经能够算过账，但公司级ROIC尚未被证明。 Nebius首次披露了比较明确的项目回收期；CoreWeave则用五年期合同和资产级融资覆盖GPU投资。但两家公司目前都处于资本投入远超利润释放的阶段，折旧和利息仍然吞噬大部分经营利润。 但单项目ROI已经能够算过账就是一个经营在进一步改善的信号。等到未来越来越多的单项目ROI能算过账、公司级ROIC也就能证明了， 4、两家公司都在向“AI基础设施操作系统”升级。 未来竞争不再只是每小时出租一张GPU，而是提供训练、推理、存储、网络、模型部署、监控、治理、Agent运行环境以及跨云运营的一体化平台。 也就是7月中这里https://x.com/qinbafrank/status/2076839550119444702?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到的“AI运营操作系统和坚实的中间层” 5、两家公司开始采用第三方资本，但方式并不完全相同。 1）Nebius的轻资产模式更接近“由资本伙伴出资建设AI工厂，Nebius输出操作系统和运营能力”； 2）CoreWeave Omni则更接近“把CoreWeave云完整部署到客户自有的数据中心和GPU上”。 方向相同，但现阶段Nebius更强调降低资本投入，CoreWeave更强调混合云和主权AI交付。"
+    },
+    {
+      "id": "tweet_qinbafrank_2087903125399011470",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Thu, 13 Aug 2026 14:04:31 GMT",
+      "content": "先交易通胀放缓，再看美伊局势。7月PPI走弱对市场进一步提振，7月PPI整体偏软、低于预期，显示生产端通胀压力进一步缓解z7月PPI的“软”主要体现在商品端（尤其能源）的持续降温，这与前期能源价格从高位回落、以及伊朗相关冲击后的调整有关。服务端虽仍正增长，但力度较前几个月减弱（增速放缓），m且运输仓储明显走弱。整体同比从5%以上快速回落至4.7%，是积极信号。 PPI作为CPI上游，PPI衡量生产者收到的价格，CPI衡量消费者支付的价格。理论上，生产端成本变化会通过供应链、批发、零售等环节向下游传导。作为CPI的上游指标，这有助于减轻8月CPI的上行压力，尤其在商品和能源方面。 连续两个月PPI环比接近零或负值，叠加7月CPI已现降温，增加了通胀路径继续放缓的证据。 今天中午聊到、PPI走弱对市场也是进一步提振和利好。短期内应该是乐观📈、先交易几天通胀压力减轻。然后再看美伊博弈有没有新的进展。 现在看一个潜在的隐患：就是美伊博弈长期化，没有特别加剧升级但是霍尔木兹海峡还是迟迟不能打开。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2087903125399011470",
+      "tweet_id": "2087903125399011470"
     },
     {
       "id": "tweet_qinbafrank_2087800377479705061",
@@ -131,23 +120,13 @@
       "tweet_id": "2087800377479705061"
     },
     {
-      "id": "tweet_qinbafrank_2087780301284258264",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Thu, 13 Aug 2026 05:56:27 GMT",
-      "content": "怎么看Coherent的最新财报？从个人角度聊聊：1、数据层面 1）单季度营收首次突破20.5亿美元，同比增长34%，较市场预期的19.8亿美元高出约3.5%; 调整后每股收益1.74美元，同比增长74%，较分析师预期的1.62美元高出逾7%; 2）数据中心与通信业务环比增长约19%，AI数据中心业务占比已达79%； 3）FY2027第一季度收入与EPS指引显著高于原市场预期，管理层甚至提出FY2027年底季度收入突破30亿美元； 2、业务层面： 1）1.6T需求和爬坡速度继续上修，800G并未因为1.6T启动而停止增长。 2）OCS方向明显强化，但Coherent没有披露OCS本季度收入、下一季度收入或具体出货量。昨天Lumentum已经明确给出下一季度OCS收入将超过1亿美元 3）Scale-out CPO将在12月季度产生收入，面向scale-up的CPO收入仍预计在2027年下半年开始。当前先启动的是scale-out，之后才进入GPU/XPU之间更大规模的scale-up光互联。 4）Scale-across和Multi-Rail，开始连续接力，另一条容易被低估的增长。Coherent的通信业务Q4同比增长56%，不只是传统电信复苏，主要还包括AI数据中心之间的scale-across和DCI需求。 Multi-Rail等新产品开始形成连续的产品接力； 5）6英寸InP扩产比原计划提前一个季度，良率已超过3英寸产线，成为收入和毛利率的共同驱动； 但FY2026全年自由现金流约为负10.23亿美元，Q4单季倒算仍约为负4.86亿美元，库存和资本开支继续高速增长。 3、但有硬伤 全年利润增长没有转化为经营现金流 26财年经营现金流仅7950万美元，资本开支11.029亿美元；简单计算自由现金流约为负10.234亿美元。 相比之下，25财年经营现金流为6.336亿美元，资本开支只有4.408亿美元。 利润表非常强，但现金流明显恶化，核心原因是库存、应收账款和扩产支出。 所以Cohr这份财报说明经营基本面进入强加速阶段，但当前增长仍然依赖重资本扩产和工作资本投入，利润尚未充分转化为现金。并不是像昨天Lite那样一份“基本无瑕疵的全面大超预期”。 夜盘微跌，个人角度是在只是在消化三个问题： 1）收入和指引很强，但40.2%的毛利率没有带来Lumentum式的利润率惊喜； 2）全年自由现金流约负10亿美元，估值暂时仍主要依赖未来利润而不是当前现金回。 3）工业业务的拖累。 尽管AI业务增长59%，但工业业务16%的下滑提醒市场：Coherent并非纯AI公司。在AI数据中心需求持续井喷的同时，传统工业市场的疲软构成了结构性拖累。 并不是说财报真的很差。 此内容由@BITstocks_CN赞助，买美股上BIT—16000+ 只美股与 ETF，真实持仓，享股息分红。",
-      "url": "https://x.com/qinbafrank/status/2087780301284258264",
-      "tweet_id": "2087780301284258264",
-      "translated": "怎么看Coherent的最新财报？从个人角度聊聊：1、数据层面 1）单季度营收首次突破20.5亿美元，同比增长34%，较市场预期的19.8亿美元高出约3.5%; 调整后每股收益1.74美元，同比增长74%，较分析师预期的1.62美元高出逾7%; 2）数据中心与通信业务环比增长约19%，AI数据中心业务占比已达79%； 3）FY2027第一季度收入与EPS指引显着高于原市场预期，管理层甚至提出FY2027年底季度收入突破30亿美元； 2、业务层面： 1）1.6T需求和爬坡速度继续上修，800G并未因为1.6T启动而停止增长。 2）OCS方向明显强化，但Coherent没有披露OCS本季度收入、下一季度收入或具体出货量。昨天Lumentum已经明确给出下一季度OCS收入将超过1亿美元 3）Scale-out CPO将在12月季度产生收入，面向scale-up的CPO收入仍预计在2027年下半年开始。当前先启动的是scale-out，之后才进入GPU/XPU之间更大规模的scale-up光互联。 4）Scale-across和Multi-Rail，开始连续接力，另一条容易被低估的增长。 Coherent的通信业务Q4同比增长56%，不只是传统电信复苏，主要还包括AI数据中心之间的scale-across和DCI需求。 Multi-Rail等新产品开始形成连续的产品接力； 5）6英寸InP扩产比原计划提前一个季度，良率已超过3英寸产线，成为收入和毛利率的共同驱动； 但FY2026全年自由现金流约为负10.23亿美元，Q4单季倒算仍约为负4.86亿美元，库存和资本开支继续高速增长。 3、但有硬伤 全年利润增长没有转化为经营现金流 26财年经营现金流仅7950万美元，资本开支11.029亿美元；简单计算自由现金流约为负10.234亿美元。 相比之下，25财年经营现金流为6.336亿美元，资本开支只有4.408亿美元。 利润表非常强，但现金流明显恶化，核心原因是库存、应收账款和扩产支出。 所以Cohr这份财报说明经营基本面进入强加速阶段，但当前增长仍然依赖重资本扩产和工作资本投入，利润尚未充分转化为现金。并不是像昨天Lite那样一份“基本无瑕疵的全面大超预期”。 夜盘微跌，个人角度是在只是在消化三个问题： 1）收入和指引很强，但40.2%的毛利率没有带来Lumentum式的利润率惊喜； 2）全年自由现金流约负10亿美元，估值暂时仍主要依赖未来利润而不是当前现金回。 3）工业业务的拖累。 尽管AI业务增长59%，但工业业务16%的下滑提醒市场：Coherent并非纯AI公司。在AI数据中心需求持续井喷的同时，传统工业市场的疲软构成了结构性拖累。 并不是说财报真的很差。 此内容由@BITstocks_CN赞助，买美股上BIT—16000+ 只美股与 ETF，真实持仓，享股息分红。"
-    },
-    {
-      "id": "tweet_qinbafrank_2087794794198429891",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Thu, 13 Aug 2026 06:54:02 GMT",
-      "content": "R to @qinbafrank: BIT美股研讨群https://t.me/+gVoU9qICjVJmMjI1",
-      "url": "https://x.com/qinbafrank/status/2087794794198429891",
-      "tweet_id": "2087794794198429891"
+      "id": "tweet_xiaomustock_2087908296049189197",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Thu, 13 Aug 2026 14:25:03 GMT",
+      "content": "陈立武在《Tech Surge》播客访谈透露， 英特尔正在研究 CPU 与存储堆叠的新型存储架构。 $INTC 的新存储架构把CPU和存储封装到一起降低agent代理工作的调用延迟提高AI代理的效率。",
+      "url": "https://x.com/xiaomustock/status/2087908296049189197",
+      "tweet_id": "2087908296049189197"
     },
     {
       "id": "tweet_xiaomustock_2087577939605180653",
@@ -168,13 +147,13 @@
       "tweet_id": "2087456093979254889"
     },
     {
-      "id": "tweet_xiaomustock_2086991960590725546",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Tue, 11 Aug 2026 01:43:52 GMT",
-      "content": "sss了minimax，江湖再见。",
-      "url": "https://x.com/xiaomustock/status/2086991960590725546",
-      "tweet_id": "2086991960590725546"
+      "id": "tweet_xingpt_2087908545476120749",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Thu, 13 Aug 2026 14:26:03 GMT",
+      "content": "真男人就要听妻子的话",
+      "url": "https://x.com/xingpt/status/2087908545476120749",
+      "tweet_id": "2087908545476120749"
     },
     {
       "id": "tweet_xingpt_2087828575991070877",
@@ -193,15 +172,6 @@
       "content": "Lumentum + Coherent 季度财报解析： 追光者的胜利 Lumentum和Coherent连续两天公布财报，把目前AI光通信产业的进度进一步验证清楚了。两家公司都处在光通信核心产业链，但商业模式有所不同。 Lumentum更偏上游高价值光器件和系统，核心包括EML、CW激光器、泵浦激光器、高功率CPO激光器，同时向OCS光交换、ELS外置光源和云端光模块延伸，因此利润率和AI业务弹性更高。 Coherent则更接近“全产业链光子平台”，从InP材料与晶圆、激光器、隔离器、光纤，一直到800G/1.6T光模块、OCS以及CPO/NPO都有布局，其优势在于垂直整合和供应链控制能力。 从本季度业绩看，两家公司共同释放的信号依然很强。Lumentum FY26 Q4收入10.06亿美元，同比增长109%，Non-GAAP毛利率达到50.4%，EPS为3.23美元；更重要的是FY27 Q1收入指引中值达到12.5亿美元，原先需要更晚才能实现的经营目标再次提前。 Coherent Q4收入约20.5亿美元，同比增长34%，调整后EPS 1.74美元，均超过市场预期；FY27 Q1收入指引中值进一步达到23亿美元，EPS中值1.95美元，同样明显高于此前市场预期。 两家公司之间最大的区别在利润率。Lumentum毛利率已经超过50%，主要受益于激光器供给紧张、产品结构升级和OCS等高利润业务； Coherent毛利率约40%，因为增长最快的业务恰恰是毛利率相对较低的光模块。 Coherent管理层也明确指出，transceiver快速增长会对集团整体毛利率形成结构性压制，但随着6英寸InP产能释放，光模块自身利润率仍在提升。 两份财报最重要的意义，其实是对产业趋势形成了非常强的交叉验证。 第一，1.6T远没有走完，甚至还在加速。 Coherent表示，过去3至6个月客户继续把1.6T的量产时间提前，同时把爬坡曲线变得更陡；公司预计整个行业1.6T收入真正超过800G要到2028年。 Lumentum同样看到200G/lane EML迅速放量和1.6T需求增长。因此2026至2027年，传统可插拔光模块依然是最确定的业绩主线，NPO/CPO目前没有提前终结1.6T周期。 第二，EML和硅光/CW目前是双路线共存。 Lumentum开始把部分产能转向CW，说明1.6T硅光渗透率确实在提高，但EML依然严重缺货； Coherent则直接表示EML与Silicon Photonics版本的1.6T需求都很健康，很多客户甚至不在乎具体路线，只希望尽快拿到产品。 这意味着现阶段投资光模块，更重要的是抓住1.6T总量增长和客户份额，而不宜过早押注某一种技术完全淘汰另一种。 第三，上游器件正在成为真正的瓶颈。 Coherent表示过去一年限制数据中心业务增长的主要因素一直是产能而非需求，公司InP产能本季度同比翻倍，到2027年底还计划再翻倍，而且部分新增产能已经开始从传统光模块转向超高功率CPO/ELS激光器。 Lumentum也表示高功率激光器需求超过此前预测。两家公司共同说明，未来光通信最稀缺的价值可能越来越集中在InP、EML、CW、高功率激光器、隔离器等核心器件，而模块组装产能相对更容易扩张。 第四，OCS、NPO和CPO已经开始形成第二增长曲线。Coherent过去半年看到OCS用于scale-up的客户参与明显增加；Lumentum的OCS收入已经实际进入快速爬坡。 CPO方面，Coherent今年已经开始受益于scale-out CPO，并预计2027年下半年逐渐进入scale-up； Lumentum给出的时间线也基本一致，高功率ELS/CPO激光器主要在2027H2开始放量，对应2028年的系统部署。因此产业节奏可以简单理解为：2026至2027年看1.6T，2027H2以后增加ELS、NPO和高功率激光器，2028以后真正进入scale-up光互联的大周期。 对应到产业链，第一优先级仍然是1.6T高速光模块，直接受益者包括中际旭创、新易盛以及Fabrinet等。中际旭创目前产品已经覆盖至1.6T并布局NPO，新易盛也已展示200G/lane 1.6T产品；Fabrinet则处在全球高端光模块制造和封装环节。 第二条主线是上游激光器和InP，Lumentum、Coherent本身最直接，A股可以继续观察源杰科技这类已经具备200G EML和CW激光芯片产品的厂商。 第三条则是光纤和高密度连接，随着光从机柜外逐渐深入机柜内部，Corning的长期逻辑也得到加强。 最后看投资节奏。基本面上，我仍然偏向把LITE和COHR视为AI光通信的核心观察指标，但目前不适合看到好财报就追涨。 Lumentum在8月12日财报后已经上涨13.6%，过去一年累计涨幅也非常大，说明市场已经计入相当高的2027至2028年增长预期。 技术上更适合等待财报跳空上涨后形成新的整理平台，确认回踩承接再考虑增加仓位，而不是追单日大阳线。 Coherent则更有意思。8月12日白天受到Lumentum带动先上涨8.2%，自己的财报公布后盘后反而下跌约2.1%至348美元附近，尽管收入、EPS和指引全部beat。 这说明市场预期已经很高，也说明短线筹码需要消化。技术上可以观察正式交易后能否重新站回财报前约355美元的收盘区域，如果快速收回，说明市场最终认可基本面；如果持续承压，则更适合等待新的日线平台形成。技术形态上Lite更强。 综合来看，我目前更愿意采用“产业继续看多，个股避免追高”的策略：短期利润最确定的仍是1.6T光模块，中期提高InP、EML/CW、高功率激光器和OCS的权重，2027年下半年开始逐渐把研究重心转向ELS、NPO和CPO。 真正值得长期提高估值的公司，是那些既能吃到当前1.6T利润，又能顺利进入下一代光引擎、OCS和CPO体系的企业。",
       "url": "https://x.com/xingpt/status/2087816155256008924",
       "tweet_id": "2087816155256008924"
-    },
-    {
-      "id": "tweet_xingpt_2087816158577934710",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 13 Aug 2026 08:18:56 GMT",
-      "content": "R to @xingpt: 光模块术语解释： 先简单解释一下文中频繁出现的几个概念。 AI服务器里的GPU需要不断交换数据，传统铜线在距离、带宽和功耗上逐渐碰到瓶颈，所以越来越多的数据开始通过光来传输。光模块可以理解成服务器和交换机的“光电转换器”，负责把芯片产生的电信号转换成光信号发送出去，再把收到的光信号转换回电信号。 所谓800G、1.6T，代表一个光模块能够传输的数据量，1.6T的带宽大约是800G的两倍，因此AI集群规模越大，对高速光模块的需求通常越高。 光模块内部最重要的部件之一就是激光器。EML是一种把激光和高速调制结合在一起的方案，目前大量应用于800G和1.6T光模块；CW则是连续波激光器，通常配合硅光芯片使用，因此市场常说的“硅光路线”，背后往往对应CW激光器需求。 200G/lane指的是单条光通道可以传输200Gbps的数据，例如一个1.6T模块可以通过8条200G通道实现总计1.6Tbps的带宽。Coherent和Lumentum这次都显示，EML和硅光/CW需求同时很强，意味着短期行业仍处于多技术路线共同扩张阶段。 CPO和NPO则代表光器件越来越靠近计算芯片。传统光模块插在交换机面板上，芯片的数据需要先经过一段电连接再进入光模块；NPO会把光引擎放到芯片附近的电路板上，缩短这段电连接；CPO则进一步把光引擎直接放到交换芯片或处理器旁边，可以降低功耗并提高带宽密度。ELS是External Light Source，也就是外置光源，可以把高功率激光集中放置，再把光输送给多个CPO或NPO光引擎，因此Lumentum和Coherent布局的高功率CW激光器正是这一轮产业升级的重要上游环节。 最后还有OCS，也就是光路交换机。普通交换机需要不断把光信号转换成电信号进行处理，而OCS可以直接改变光纤之间的连接路径，用来动态调整AI集群内部不同服务器和GPU之间的连接关系。 随着AI集群从几千张GPU扩展到几万甚至更多GPU，光模块解决“数据怎么传”，OCS进一步解决“这些光连接怎么高效组织”，因此它正在成为AI光通信产业新的增长方向。 这样理解以后，整条产业链就比较清楚了：GPU/ASIC → 高速网络 → 800G/1.6T光模块 → EML或CW激光器 → NPO/CPO逐渐把光推进到芯片附近 → ELS提供高功率光源 → OCS负责整个AI集群中的光路调度。而Lumentum和Coherent值得关注的原因，也正是它们已经从传统激光器和光模块，逐渐覆盖到CW、ELS、OCS以及NPO/CPO等下一代光互联环节。",
-      "url": "https://x.com/xingpt/status/2087816158577934710",
-      "tweet_id": "2087816158577934710"
     },
     {
       "id": "tweet_hibtc37_2087374830522048539",
@@ -232,8 +202,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
