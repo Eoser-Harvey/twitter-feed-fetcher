@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-14T13:11:09.778853+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-14T14:55:04.852595+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2088149393731981516",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 14 Aug 2026 06:23:06 GMT",
-      "content": "How to use @bot",
-      "url": "https://x.com/elonmusk/status/2088149393731981516",
-      "tweet_id": "2088149393731981516",
-      "translated": "如何使用@bot"
-    },
-    {
-      "id": "tweet_elonmusk_2088130948995178532",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 14 Aug 2026 05:09:48 GMT",
-      "content": "RT by @elonmusk: Tesla Self-Driving 14.3.7 is quite a beautiful build. Like a world of art really. It cuts through dense LA traffic expertly",
-      "url": "https://x.com/elonmusk/status/2088130948995178532",
-      "tweet_id": "2088130948995178532",
-      "translated": "RT @elonmusk：Tesla 自动驾驶 14.3.7 是一个非常漂亮的构建。真的就像一个艺术世界。它熟练地穿过洛杉矶密集的交通"
-    },
-    {
-      "id": "tweet_elonmusk_2082791168744767963",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 30 Jul 2026 11:31:25 GMT",
-      "content": "RT by @elonmusk: Workflows are now in Grok Build. Build plans the work, runs up to hundreds of agents in parallel, and comes back with one report.",
-      "url": "https://x.com/elonmusk/status/2082791168744767963",
-      "tweet_id": "2082791168744767963",
-      "translated": "RT by @elonmusk：工作流程现在位于 Grok Build 中。构建计划工作，并行运行多达数百个代理，并返回一份报告。"
-    },
     {
       "id": "tweet_cz_binance_2087971745190044010",
       "username": "cz_binance",
@@ -149,31 +119,31 @@
       "tweet_id": "2088141718197874891"
     },
     {
-      "id": "tweet_xiaomustock_2088221378944336033",
+      "id": "tweet_xiaomustock_2088257802385211398",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Fri, 14 Aug 2026 11:09:08 GMT",
-      "content": "有时候对比这些股票的市值，营收甚至远期的市值营收还是非常抽象。 虽然这人也做空了美光，但是做空这个 $NEBIUS 感觉没啥错虽然我不敢做空股票。 闪迪一个季度利润60亿美金，2000亿市值， nebius一个季度亏2亿美金，市值600亿美金。 然后nebius暴涨居然是因为27年28年能有个俩三百亿美金的营收，累计拿着个400亿美金订单。 和闪迪一比这公司数据就是一坨屎，都能值600亿。营收，利润，毛利啥啥都不行都能值600亿，可见存储相对于绝大多数公司还是非常便宜，存储这几家公司俩三年赚的钱可能其他公司十来年都赚不到，即使可能他们市值更高。",
-      "url": "https://x.com/xiaomustock/status/2088221378944336033",
-      "tweet_id": "2088221378944336033"
+      "published_at": "Fri, 14 Aug 2026 13:33:52 GMT",
+      "content": "终于跌下来了，心不痒了",
+      "url": "https://x.com/xiaomustock/status/2088257802385211398",
+      "tweet_id": "2088257802385211398"
     },
     {
-      "id": "tweet_xiaomustock_2088209624218702136",
+      "id": "tweet_xiaomustock_2088256720208601264",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Fri, 14 Aug 2026 10:22:26 GMT",
-      "content": "我这人赌性太强了越涨越想上杠杆。 存储顺风行情买2x还不够还想继续杠杆梭哈上2x ，生怕错过大行情。 一直在提醒自己这次赚到了真开始践行定投spy和qqq.不然总感觉哪一天我这么搞一把又要爆仓爆掉。",
-      "url": "https://x.com/xiaomustock/status/2088209624218702136",
-      "tweet_id": "2088209624218702136"
+      "published_at": "Fri, 14 Aug 2026 13:29:34 GMT",
+      "content": "闪迪涨成这样逼样我再加仓会不会死里面。 看着心痒痒，闪迪仓位占比太小了。",
+      "url": "https://x.com/xiaomustock/status/2088256720208601264",
+      "tweet_id": "2088256720208601264"
     },
     {
-      "id": "tweet_xiaomustock_2088165493622587573",
+      "id": "tweet_xiaomustock_2088252084437323966",
       "username": "xiaomustock",
       "display_name": "小米股",
-      "published_at": "Fri, 14 Aug 2026 07:27:04 GMT",
-      "content": "$META 算是即谷歌之后第二家公司支持和共同开发闪迪的HBF标准的大公司。",
-      "url": "https://x.com/xiaomustock/status/2088165493622587573",
-      "tweet_id": "2088165493622587573"
+      "published_at": "Fri, 14 Aug 2026 13:11:09 GMT",
+      "content": "cpu必然会发生和2026年跟存储发生的结构性需求缺口。 现在cpu和gpu的配置需求是1/8， 随着各AI大模型公司下场AI代理，代理需求催生的高端cpu需求会在2-3个季度内快递被爆拉到1/1。八倍的需求提升，而高端cpu的产能完全不可能在最近的2个季度内实现产能8倍提升。 cpu需求的爆发点很接近了， 从这个季度英特尔的高端cpu挤压低端cpu产能可以看出这种变化正在加速。 最快今年年底最慢27年q1就能看见cpu大幅提价，复刻存储26年行情。 也就是只剩下3-5个月时间窗口了。",
+      "url": "https://x.com/xiaomustock/status/2088252084437323966",
+      "tweet_id": "2088252084437323966"
     },
     {
       "id": "tweet_xingpt_2088204125783703898",
@@ -231,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
