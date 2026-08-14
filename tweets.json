@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-08-14T06:16:23.525112+00:00",
+  "fetched_at": "2026-08-14T08:18:30.606991+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2088149393731981516",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 14 Aug 2026 06:23:06 GMT",
+      "content": "How to use @bot",
+      "url": "https://x.com/elonmusk/status/2088149393731981516",
+      "tweet_id": "2088149393731981516",
+      "translated": "如何使用@bot"
+    },
     {
       "id": "tweet_elonmusk_2088130948995178532",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2082791168744767963",
       "tweet_id": "2082791168744767963",
       "translated": "RT by @elonmusk：工作流程现在位于 Grok Build 中。构建计划工作，并行运行多达数百个代理，并返回一份报告。"
-    },
-    {
-      "id": "tweet_elonmusk_2088070245210816595",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 14 Aug 2026 01:08:35 GMT",
-      "content": "RT by @elonmusk: Thrilled to receive this feedback from Tesla — they tackle the world’s most critical multimodal challenges. Extremely proud that the team’s work is paying off🚀",
-      "url": "https://x.com/elonmusk/status/2088070245210816595",
-      "tweet_id": "2088070245210816595",
-      "translated": "RT @elonmusk：很高兴收到特斯拉的反馈——他们解决了世界上最关键的多式联运挑战。非常自豪团队的工作得到了回报🚀"
     },
     {
       "id": "tweet_cz_binance_2087971745190044010",
@@ -150,6 +150,15 @@
       "translated": "从CRWV和NBIS的人最新财报能看到CSP（AI云算力）板块的出五个比较清晰的发展趋势： 1、需求仍显着超过近期可交付供给。 CoreWeave 二季度末已投运功率约1.5GW、合同功率约3.7GW，积压订单约1,040亿美元，而且尚未包括三季度初新增的超过250亿美元承诺； Nebius则计划从2027年开始每年部署超过1GW，并以5GW合同容量为中期目标。 行业瓶颈已经由“有没有客户”转向“什么时候能通电、交付GPU并开始计费”。 2、定价权确实在增强，但不是所有GPU租赁价格无差别上涨。 CoreWeave管理层表示，7月各类SKU价格普遍上调约25%；Nebius披露，旧代GPU价格较一季度上涨超过30%，二季度新签合同平均年化收入超过每MW 2,000万美元，部分达到2,000万—2,500万美元，三季度初的短期紧急容量甚至达到每MW 4,000万—5,000万美元。 涨价最明显的是短期容量、新代GPU、大规模集群和生产级推理，而不是传统低优先级、长期锁价的裸算力。 3、项目级ROI已经能够算过账，但公司级ROIC尚未被证明。 Nebius首次披露了比较明确的项目回收期；CoreWeave则用五年期合同和资产级融资覆盖GPU投资。但两家公司目前都处于资本投入远超利润释放的阶段，折旧和利息仍然吞噬大部分经营利润。 但单项目ROI已经能够算过账就是一个经营在进一步改善的信号。等到未来越来越多的单项目ROI能算过账、公司级ROIC也就能证明了， 4、两家公司都在向“AI基础设施操作系统”升级。 未来竞争不再只是每小时出租一张GPU，而是提供训练、推理、存储、网络、模型部署、监控、治理、Agent运行环境以及跨云运营的一体化平台。 也就是7月中这里https://x.com/qinbafrank/status/2076839550119444702?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到的“AI运营操作系统和坚实的中间层” 5、两家公司开始采用第三方资本，但方式并不完全相同。 1）Nebius的轻资产模式更接近“由资本伙伴出资建设AI工厂，Nebius输出操作系统和运营能力”； 2）CoreWeave Omni则更接近“把CoreWeave云完整部署到客户自有的数据中心和GPU上”。 方向相同，但现阶段Nebius更强调降低资本投入，CoreWeave更强调混合云和主权AI交付。"
     },
     {
+      "id": "tweet_xiaomustock_2088165493622587573",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Fri, 14 Aug 2026 07:27:04 GMT",
+      "content": "$META 算是即谷歌之后第二家公司支持和共同开发闪迪的HBF标准的大公司。",
+      "url": "https://x.com/xiaomustock/status/2088165493622587573",
+      "tweet_id": "2088165493622587573"
+    },
+    {
       "id": "tweet_xiaomustock_2088052959741714846",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -166,15 +175,6 @@
       "content": "今天真是这个月涨的最舒服的一天， 闪迪承诺100%的股东回报， 其他几家不能太不要脸吧。",
       "url": "https://x.com/xiaomustock/status/2087951574954107024",
       "tweet_id": "2087951574954107024"
-    },
-    {
-      "id": "tweet_xiaomustock_2087948726337990820",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Thu, 13 Aug 2026 17:05:43 GMT",
-      "content": "这个中微公司和安集科技真是俩好公司， 一个刻蚀全球领先，一个做抛光液，这俩都是存储堆叠层数越高用的越多。",
-      "url": "https://x.com/xiaomustock/status/2087948726337990820",
-      "tweet_id": "2087948726337990820"
     },
     {
       "id": "tweet_xingpt_2088126498322686041",
