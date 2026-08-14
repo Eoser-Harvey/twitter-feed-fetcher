@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-08-13T23:44:26.307849+00:00",
+  "fetched_at": "2026-08-14T02:04:28.211804+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2088016559755211058",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 13 Aug 2026 21:35:15 GMT",
+      "content": "RT by @elonmusk: Unlike her bro, she doesn't try to hide it",
+      "url": "https://x.com/elonmusk/status/2088016559755211058",
+      "tweet_id": "2088016559755211058",
+      "translated": "RT @elonmusk：与她的兄弟不同，她并没有试图隐藏它"
+    },
     {
       "id": "tweet_elonmusk_2088037519312994480",
       "username": "elonmusk",
@@ -23,16 +33,6 @@
       "translated": "RT by @elonmusk：刚刚在奥斯汀的一个地区乘坐了 Tesla Robotaxi，过去正常的等待时间长达 20 分钟，而我的等待时间只有两分钟，而且每次我这样做都是一致的！"
     },
     {
-      "id": "tweet_elonmusk_2088019251290341427",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 21:45:57 GMT",
-      "content": "RT by @elonmusk: We don’t just build in Memphis – we live, work, and invest here. We are committed to being good neighbors and responsible partners.  Since joining the community in 2024, SpaceXAI has paid $30 million in taxes, supporting essential local services, public education, infrastructure, and more. We’re proud to call Memphis home – the road to understanding the universe starts here.",
-      "url": "https://x.com/elonmusk/status/2088019251290341427",
-      "tweet_id": "2088019251290341427",
-      "translated": "RT @elonmusk：我们不仅仅在孟菲斯建设——我们在这里生活、工作和投资。我们致力于成为好邻居和负责任的合作伙伴。  自 2024 年加入社区以来，SpaceXAI 已缴纳 3000 万美元税款，支持当地基本服务、公共教育、基础设施等。我们很自豪地称孟菲斯为家——了解宇宙的道路从这里开始。"
-    },
-    {
       "id": "tweet_cz_binance_2087971745190044010",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
@@ -40,7 +40,7 @@
       "content": "Not a great month for hardware wallets. Trezor disclosed a breach at its shipping provider affecting ~13.7K recent customers. ~11.7K had full name, email, phone and shipping address exposed. Trezor systems/private keys were not compromised. The leak directly links identities and physical addresses to known crypto holders, creating significant phishing, social-engineering and potential physical-security risk. Hardware wallets are often considered \"more secure\" than software wallets. While I still think that is \"generally true\" in a few specific aspects, this incident reinforces an advantage of software self-custody wallets (such as Binance Web3 Wallet & Trust Wallet), without purchasing and shipping a physical device that links a user's identity and address to crypto ownership. Not saying hardware wallets are \"bad\". Just different risk profiles. YZiLabs is an investor in many hardware wallets. Security, privacy and convenience comes in many different shapes. The more we can educate our communities, the better. https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident",
       "url": "https://x.com/cz_binance/status/2087971745190044010",
       "tweet_id": "2087971745190044010",
-      "translated": "对于硬件钱包来说，这不是一个好月份。 Trezor 披露了其运输提供商的违规行为，影响了约 13,700 名最近的客户。 ~11.7K 的全名、电子邮件、电话和送货地址被暴露。 Trezor 系统/私钥没有受到损害。此次泄露直接将身份和物理地址与已知的加密货币持有者联系起来，从而造成严重的网络钓鱼、社会工程和潜在的物理安全风险。硬件钱包通常被认为比软件钱包“更安全”。虽然我仍然认为这在某些特定方面“总体上是正确的”，但这一事件强化了软件自我托管钱包（例如币安 Web3 钱包和 Trust 钱包）的优势，而无需购买和运输将用户的身份和地址与加密所有权相关联的物理设备。并不是说硬件钱包“不好”。只是风险状况不同。 YZiLabs 是许多硬件钱包的投资者。安全、隐私和便利有多种不同的形式。我们对社区的教育越多越好。 https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident"
+      "translated": "对于硬件钱包来说，这不是一个好月份。 Trezor 披露了其运输提供商的违规行为，影响了约 13,700 名最近的客户。 ~11.7K 的全名、电子邮件、电话和送货地址被暴露。 Trezor 系统/私钥没有受到损害。此次泄露直接将身份和物理地址与已知的加密货币持有者联系起来，从而造成严重的网络钓鱼、社会工程和潜在的物理安全风险。硬件钱包通常被认为比软件钱包“更安全”。虽然我仍然认为这在某些特定方面“总体上是正确的”，但这一事件强化了软件自我托管钱包（例如币安 Web3 钱包和 Trust 钱包）的优势，而无需购买和运输将用户的身份和地址与加密货币所有权相关联的物理设备。并不是说硬件钱包“不好”。只是风险状况不同。 YZiLabs 是许多硬件钱包的投资者。安全、隐私和便利有多种不同的形式。我们对社区的教育越多越好。 https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident"
     },
     {
       "id": "tweet_cz_binance_2087941099793027110",
@@ -150,6 +150,15 @@
       "tweet_id": "2087903125399011470"
     },
     {
+      "id": "tweet_xiaomustock_2088052959741714846",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Thu, 13 Aug 2026 23:59:54 GMT",
+      "content": "睡醒看了很多人测评的deepseek的agent “DSH”，很多人聊的最多的就是token消耗量，kv键缓存命中率，同时DSH的同任务时间消耗是gpt或者clude的2倍。 这点透露的信息强化了我对英特尔陈立武老爷子说的CPU和dram存储堆叠封装的路线理解。 agent代理的普及很快会迎来cpu/gpu的1:1时刻，那时的cpu也非常需要像英伟达的gpu和hbm堆叠封装一样，需要把cpu和hbm堆叠封装在一起，极大的提高读取效率和降低计算时间。",
+      "url": "https://x.com/xiaomustock/status/2088052959741714846",
+      "tweet_id": "2088052959741714846"
+    },
+    {
       "id": "tweet_xiaomustock_2087951574954107024",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -166,15 +175,6 @@
       "content": "这个中微公司和安集科技真是俩好公司， 一个刻蚀全球领先，一个做抛光液，这俩都是存储堆叠层数越高用的越多。",
       "url": "https://x.com/xiaomustock/status/2087948726337990820",
       "tweet_id": "2087948726337990820"
-    },
-    {
-      "id": "tweet_xiaomustock_2087922076254711923",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Thu, 13 Aug 2026 15:19:49 GMT",
-      "content": "一个 $RAM ，相当于买了2x #海力士，2x #美光，2x #三星 顺风行情的时候这些2x工具是真爽。",
-      "url": "https://x.com/xiaomustock/status/2087922076254711923",
-      "tweet_id": "2087922076254711923"
     },
     {
       "id": "tweet_xingpt_2087908545476120749",
