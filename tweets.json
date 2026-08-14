@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-08-14T02:04:28.211804+00:00",
+  "fetched_at": "2026-08-14T04:50:17.184294+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2088100521261359218",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 14 Aug 2026 03:08:53 GMT",
+      "content": "Pinned: Grok 4.6 will work best with the Grok Build harness. The experience will be significantly worse without it, so best to evaluate using Build. https://Grok.com/build",
+      "url": "https://x.com/elonmusk/status/2088100521261359218",
+      "tweet_id": "2088100521261359218",
+      "translated": "已固定：Grok 4.6 与 Grok Build 安全带配合使用效果最佳。如果没有它，体验会明显更差，因此最好使用 Build 进行评估。 https://Grok.com/build"
+    },
+    {
+      "id": "tweet_elonmusk_2087948377770119594",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 13 Aug 2026 17:04:20 GMT",
+      "content": "RT by @elonmusk: I’ve had my @Tesla for 9 days—and it’s already saved my life. Full Self-Driving with HW4 is mind-blowing. My car drove me ~800 miles from Georgia to Texas without me touching the wheel or pedals, while avoiding multiple collisions. I’ve never felt safer in a vehicle. Here’s one example of a collision avoided, automatically captured on camera. In this instance (though it doesn’t show my actual POV), sparks covered the windshield, lighting up the road like the Fourth of July and obstructing my view. Since I was in FSD, the car reacted immediately without overcorrecting like I likely would have, which could have led to a far worse outcome. Everyone who’s ridden with me and experienced FSD for the first time is blown away and now looking into buying one—including my parents, who like me have never owned an EV. There’s no telling how many lives this technology will save. This is hands-down the most incredible purchase I’ve ever made. God bless @elonmusk & the Tesla team🫡",
+      "url": "https://x.com/elonmusk/status/2087948377770119594",
+      "tweet_id": "2087948377770119594",
+      "translated": "RT @elonmusk：我已经使用 @Tesla 9 天了，它已经救了我的命。 HW4 的全自动驾驶令人兴奋。我的车从佐治亚州开到德克萨斯州约 800 英里，我没有碰方向盘或踏板，同时避免了多次碰撞。我在车里从未感到如此安全。这是一个避免碰撞的示例，并由摄像机自动捕捉到。在这种情况下（尽管它没有显示我的实际视角），火花覆盖了挡风玻璃，像七月四日一样照亮了道路并遮挡了我的视线。由于我处于 FSD 状态，汽车会立即做出反应，而不会像我可能会那样过度校正，否则可能会导致更糟糕的结果。每个和我一起骑行并第一次体验 FSD 的人都被震撼了，现在正在考虑购买一辆——包括我的父母，他们和我一样从未拥有过电动汽车。尚不清楚这项技术将拯救多少人的生命。这无疑是我做过的最令人难以置信的购买。上帝保佑@elonmusk 和特斯拉团队🫡"
+    },
     {
       "id": "tweet_elonmusk_2088016559755211058",
       "username": "elonmusk",
@@ -13,26 +33,6 @@
       "translated": "RT @elonmusk：与她的兄弟不同，她并没有试图隐藏它"
     },
     {
-      "id": "tweet_elonmusk_2088037519312994480",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 22:58:33 GMT",
-      "content": "Tesla self-driving is amazing",
-      "url": "https://x.com/elonmusk/status/2088037519312994480",
-      "tweet_id": "2088037519312994480",
-      "translated": "特斯拉自动驾驶技术太神奇了"
-    },
-    {
-      "id": "tweet_elonmusk_2088012952624418880",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 21:20:55 GMT",
-      "content": "RT by @elonmusk: Just took a Tesla Robotaxi ride in an area of Austin where the normal wait in the past was up to 20 minutes and my wait was only two minutes and this was consistent every time I did this!",
-      "url": "https://x.com/elonmusk/status/2088012952624418880",
-      "tweet_id": "2088012952624418880",
-      "translated": "RT by @elonmusk：刚刚在奥斯汀的一个地区乘坐了 Tesla Robotaxi，过去正常的等待时间长达 20 分钟，而我的等待时间只有两分钟，而且每次我这样做都是一致的！"
-    },
-    {
       "id": "tweet_cz_binance_2087971745190044010",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
@@ -40,7 +40,7 @@
       "content": "Not a great month for hardware wallets. Trezor disclosed a breach at its shipping provider affecting ~13.7K recent customers. ~11.7K had full name, email, phone and shipping address exposed. Trezor systems/private keys were not compromised. The leak directly links identities and physical addresses to known crypto holders, creating significant phishing, social-engineering and potential physical-security risk. Hardware wallets are often considered \"more secure\" than software wallets. While I still think that is \"generally true\" in a few specific aspects, this incident reinforces an advantage of software self-custody wallets (such as Binance Web3 Wallet & Trust Wallet), without purchasing and shipping a physical device that links a user's identity and address to crypto ownership. Not saying hardware wallets are \"bad\". Just different risk profiles. YZiLabs is an investor in many hardware wallets. Security, privacy and convenience comes in many different shapes. The more we can educate our communities, the better. https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident",
       "url": "https://x.com/cz_binance/status/2087971745190044010",
       "tweet_id": "2087971745190044010",
-      "translated": "对于硬件钱包来说，这不是一个好月份。 Trezor 披露了其运输提供商的违规行为，影响了约 13,700 名最近的客户。 ~11.7K 的全名、电子邮件、电话和送货地址被暴露。 Trezor 系统/私钥没有受到损害。此次泄露直接将身份和物理地址与已知的加密货币持有者联系起来，从而造成严重的网络钓鱼、社会工程和潜在的物理安全风险。硬件钱包通常被认为比软件钱包“更安全”。虽然我仍然认为这在某些特定方面“总体上是正确的”，但这一事件强化了软件自我托管钱包（例如币安 Web3 钱包和 Trust 钱包）的优势，而无需购买和运输将用户的身份和地址与加密货币所有权相关联的物理设备。并不是说硬件钱包“不好”。只是风险状况不同。 YZiLabs 是许多硬件钱包的投资者。安全、隐私和便利有多种不同的形式。我们对社区的教育越多越好。 https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident"
+      "translated": "对于硬件钱包来说，这不是一个好月份。 Trezor 披露了其运输提供商的违规行为，影响了约 13,700 名最近的客户。 ~11.7K 的全名、电子邮件、电话和送货地址被暴露。 Trezor 系统/私钥没有受到损害。此次泄露直接将身份和物理地址与已知的加密货币持有者联系起来，从而造成严重的网络钓鱼、社会工程和潜在的物理安全风险。硬件钱包通常被认为比软件钱包“更安全”。虽然我仍然认为这在某些特定方面“总体上是正确的”，但这一事件强化了软件自我托管钱包（例如币安 Web3 钱包和 Trust 钱包）的优势，而无需购买和运输将用户的身份和地址与加密所有权相关联的物理设备。并不是说硬件钱包“不好”。只是风险状况不同。 YZiLabs 是许多硬件钱包的投资者。安全、隐私和便利有多种不同的形式。我们对社区的教育越多越好。 https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident"
     },
     {
       "id": "tweet_cz_binance_2087941099793027110",
@@ -92,6 +92,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2088115008827715971",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Fri, 14 Aug 2026 04:06:28 GMT",
+      "content": "Feels like glass substrate timelines got pushed back at least another quarter. - \"Samsung Electro-Mechanics Delays Semiconductor Glass Substrate Investment\" due to a bottleneck in customer reliability evaluations of prototypes. At its recent second-quarter earnings presentation, less than a month later, the company revised the start of operations to 2028. - \"SKC Reportedly Pushes Glass Substrate Mass Production to 2027, Targets Final Validation by Year-end\" (Trendforce), earlier last month. TLDR: - SKC Absolics H2 2026 -> H1 2027 - Samsung H2 2027 -> H1 2028 Not everything is always good news with timeline shifts, but glass core substrate shifts do feel imminent. Volume ramp for some players eg. $LPK / Philoptics (161580) / E&R (8027) likely track these mass production timelines.",
+      "url": "https://x.com/aleabitoreddit/status/2088115008827715971",
+      "tweet_id": "2088115008827715971",
+      "translated": "感觉玻璃基板的时间表至少又推迟了一个季度。 - 由于客户原型可靠性评估遇到瓶颈，“三星机电推迟了半导体玻璃基板投资”。不到一个月后，在最近的第二季度收益报告中，该公司将运营起始时间修改为 2028 年。 - 上个月早些时候，“据报道 SKC 将玻璃基板批量生产推迟到 2027 年，目标是在年底进行最终验证”（Trendforce）。 TLDR： - SKC Absolics H2 2026 -> H1 2027 - Samsung H2 2027 -> H1 2028 随着时间线的变化，并非一切总是好消息，但玻璃芯基板的变化确实迫在眉睫。某些玩家的音量斜坡，例如。 $LPK / Philoptics (161580) / E&R (8027) 可能会跟踪这些大规模生产时间表。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2087867722784805170",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,16 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2087846074027295020",
       "tweet_id": "2087846074027295020",
       "translated": "好吧，这是我对 $POET 的看法，因为显然人们在 Reddit 子版块上庆祝我持有小仓位。 - 我有0个想法。零。他们如何说服股东允许他们进行如此大的稀释：他们现在手头有大约 8.3 亿美元的荒谬现金。我的猜测是他们已经接近完成了，因为如果他们需要更多，我会难以置信。所以现在......他们有大约 8.3 亿美元来发展他们的业务，比如并购，而 EV 最近实际上下降得非常低（例如，$1.25B MC vs. 8.3 亿美元手头现金），我认为冒险是很有必要的。 - 2027 年年产能目标为 1200 万台光学引擎/年，这是相当荒谬的增长。需要对 Poet 产品的 ASP 进行更多研究，但可能是 125-200 美元？因此，平均售价约为 150 美元，收入上限为 1.8B 美元。但它们现在就像逆 AAOI：没有明显的需求来填补所有这些容量。除了 Lumilens 之外，该公司现在是一家高价值的超大规模供应商（可能是亚马逊或微软），拥有数十亿美元的客户协议。有趣的是，Poet 是否与三菱等公司签署了预付款 EML 协议，或者与资产负债表幕后的 Sivers 签署了 CW 协议。鉴于当前的瓶颈，玩家可能会使用 Poet 作为供应采购的解决方法。但基本上，你拥有一家现金超级充裕的公司，并且有大量的在线产能。而且他们的财务状况并不会很快消失。我认为，与上游激光瓶颈相比，它在技术上不太具有防御性，在连续激光器与 OE 封装方面的技术护城河方面，类似 $SIVE 的估值大致相同。正如您最近在《Celestial》和《Poet》中看到的那样。但也许……一些超大规模企业或下游公司有可能在未来某个时候宣布达成批量协议。 $POET 起飞。他们确实有相应的供应链设置。这就是我最终承担的风险，但对我来说，这并不像 $AAOI 那样一目了然。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2087838176677376186",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Thu, 13 Aug 2026 09:46:26 GMT",
-      "content": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both) So I stopped covering them as much. But TLDR on updates: Early this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and others when I published my thesis on it. Since then: - $MTSI signed long term epiwafer supply agreements, took a stake in the company, now IQE is bank debt free (Macom has convertibles, but that's positive) - $TSEM signed agreements for InP epiwafers. - Management explicitly said its IQE agreement was signed to secure the \"strategic III-V epiwafer supply required for that roadmap\" - IQE signed another ~$14M mysterious AI DC contract. The only part that's still playing out with my earlier thesis is IQE converting their latent/underutilized capacity toward AI DC segment, to match peers like Landmark in the space (which takes time, like slightly over a year if I remember correctly). There's some national security implications that I'll avoid talking about that makes them more important. But basically: FY2025 revenue: £97.3m FY2026 guidance: over £126.5m They're rapidly growing again in the optical sector, out of bank debt/distressed liquidation state, and remains a critical chokepoint in Western optical supply chains. Now... with new agreements with your leading photonics companies for revenue growth, and players like Macom serving as a soft backstop. After a thesis gets validated, typically I just sit back and enjoy growth of a business.",
-      "url": "https://x.com/aleabitoreddit/status/2087838176677376186",
-      "tweet_id": "2087838176677376186",
-      "translated": "感觉我今年 2 月的 $IQE 论文与 $AXTI 和其他论文一起得到了验证。 （我仍然对两者都渴望）所以我不再过多报道它们。但长话短说：今年年初，当我发表关于 IQE 的论文时，IQE 是光学供应链中一个令人困扰但又至关重要的瓶颈，与 $LITE 和其他公司有联系。此后： - $MTSI 签署了长期外延片供应协议，入股了该公司，现在 IQE 没有银行债务（Macom 有可转换债券，但这是积极的） - $TSEM 签署了 InP 外延片协议。 - 管理层明确表示，签署 IQE 协议是为了确保“该路线图所需的战略 III-V 外延片供应” - IQE 签署了另一份约 1400 万美元的神秘 AI DC 合同。我之前的论文中唯一仍在发挥作用的部分是 IQE 将其潜在/未充分利用的能力转向 AI DC 领域，以与该领域的 Landmark 等同行相匹配（这需要时间，如果我没记错的话，大约需要一年多一点）。我将避免谈论一些对国家安全的影响，这使得它们变得更加重要。但基本上： 2025 财年收入：9730 万英镑 2026 财年指导：超过 1.265 亿英镑 他们在光学行业再次快速增长，摆脱了银行债务/不良清算状态，并且仍然是西方光学供应链的关键瓶颈。现在...与领先的光子学公司签订新协议以实现收入增长，而 Macom 等公司将充当软后盾。论文得到验证后，我通常会坐下来享受业务的增长。"
     },
     {
       "id": "tweet_qinbafrank_2087938804179145015",
@@ -204,6 +204,15 @@
       "tweet_id": "2087816155256008924"
     },
     {
+      "id": "tweet_hibtc37_2088084341054435418",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Fri, 14 Aug 2026 02:04:36 GMT",
+      "content": "新区间： 640 635现价 628 大饼震荡，波动很小，我也看不出方向，前几天看到十亿哥做多打止损，我做空也打了止损，这种行情上下撸区间比较适合，但一旦变盘，做错方向就麻烦，这真是技术活了 震荡这么久了，交易大神们，你怎么看后市呢",
+      "url": "https://x.com/hibtc37/status/2088084341054435418",
+      "tweet_id": "2088084341054435418"
+    },
+    {
       "id": "tweet_hibtc37_2087374830522048539",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -220,15 +229,6 @@
       "content": "$SPCX 昨晚疯狂轧空！放天量暴涨16%！ 我在低于110停止了做空，并且反手挂了多单，预测到会有来这么一出逼空，但多单没有成交。 从盘面看，这波反弹，不会这么快结束，135发行价肯定要破，150开盘价可能大概率会摸到，175额外解锁条件价（已无效）估计很难，除非马斯克疯狂和情绪推高，不过，135的spcx我认为也已经太贵了，这市值太贵，从全球独特变成美国独特了，估值要重估 希望他这波多拉一些，我好做空，在SPCX上撸了超过10万刀，感谢马斯克，但其中在存储里亏了5万，存储似乎是在震荡出货，主力这周没有把价格拉破关键位置，但也没跌破关键位置，总体不是什么好的信号，随着时间迁移，对周期股是不利的，目前已经开了空单，在浮盈和浮亏资金来回跳 $SNDK $MU",
       "url": "https://x.com/hibtc37/status/2085886087889924200",
       "tweet_id": "2085886087889924200"
-    },
-    {
-      "id": "tweet_hibtc37_2085738640651755735",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Fri, 07 Aug 2026 14:43:37 GMT",
-      "content": "$SPCX 怎么涨这么凶？解锁即拉盘？哪位股神讲解下",
-      "url": "https://x.com/hibtc37/status/2085738640651755735",
-      "tweet_id": "2085738640651755735"
     }
   ],
   "stats": {
