@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-14T14:55:04.852595+00:00",
+  "fetched_at": "2026-08-14T15:55:13.204947+00:00",
   "total": 21,
   "tweets": [
     {
@@ -119,6 +119,24 @@
       "tweet_id": "2088141718197874891"
     },
     {
+      "id": "tweet_xiaomustock_2088278388486312026",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Fri, 14 Aug 2026 14:55:40 GMT",
+      "content": "真开始定投spy和qqq，每次赚了就买一部分放着。 贵在坚持。",
+      "url": "https://x.com/xiaomustock/status/2088278388486312026",
+      "tweet_id": "2088278388486312026"
+    },
+    {
+      "id": "tweet_xiaomustock_2088278166557360573",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Fri, 14 Aug 2026 14:54:47 GMT",
+      "content": "什么都不缺了，全下来了",
+      "url": "https://x.com/xiaomustock/status/2088278166557360573",
+      "tweet_id": "2088278166557360573"
+    },
+    {
       "id": "tweet_xiaomustock_2088257802385211398",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -126,24 +144,6 @@
       "content": "终于跌下来了，心不痒了",
       "url": "https://x.com/xiaomustock/status/2088257802385211398",
       "tweet_id": "2088257802385211398"
-    },
-    {
-      "id": "tweet_xiaomustock_2088256720208601264",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Fri, 14 Aug 2026 13:29:34 GMT",
-      "content": "闪迪涨成这样逼样我再加仓会不会死里面。 看着心痒痒，闪迪仓位占比太小了。",
-      "url": "https://x.com/xiaomustock/status/2088256720208601264",
-      "tweet_id": "2088256720208601264"
-    },
-    {
-      "id": "tweet_xiaomustock_2088252084437323966",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Fri, 14 Aug 2026 13:11:09 GMT",
-      "content": "cpu必然会发生和2026年跟存储发生的结构性需求缺口。 现在cpu和gpu的配置需求是1/8， 随着各AI大模型公司下场AI代理，代理需求催生的高端cpu需求会在2-3个季度内快递被爆拉到1/1。八倍的需求提升，而高端cpu的产能完全不可能在最近的2个季度内实现产能8倍提升。 cpu需求的爆发点很接近了， 从这个季度英特尔的高端cpu挤压低端cpu产能可以看出这种变化正在加速。 最快今年年底最慢27年q1就能看见cpu大幅提价，复刻存储26年行情。 也就是只剩下3-5个月时间窗口了。",
-      "url": "https://x.com/xiaomustock/status/2088252084437323966",
-      "tweet_id": "2088252084437323966"
     },
     {
       "id": "tweet_xingpt_2088204125783703898",
