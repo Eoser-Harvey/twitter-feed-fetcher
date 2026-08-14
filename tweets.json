@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-14T20:34:16.005995+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-14T21:28:10.500117+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2088306926442430578",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 14 Aug 2026 16:49:04 GMT",
+      "content": "Orbital compute will be the only way to scale AI probably sometime in 2029 due to power availability& permitting problems on land",
+      "url": "https://x.com/elonmusk/status/2088306926442430578",
+      "tweet_id": "2088306926442430578",
+      "translated": "由于陆地上的电力可用性和许可问题，轨道计算可能会在 2029 年的某个时候成为扩展 AI 的唯一方法"
+    },
+    {
+      "id": "tweet_elonmusk_2088274689303224817",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 14 Aug 2026 14:40:58 GMT",
+      "content": "RT by @elonmusk: \"Cursor and SpaceXAI are a deep cultural fit with one another. They both work with a pace and intensity that borders on the absurd. And they’re both defined by iteration.\" \"It doesn’t matter if you get it wrong the first time, or the second, or the third—even the tenth or the twentieth. Just keep on going. If you’re moving in the right direction faster than anyone else, you’ll probably win.\" \"Cursor reinvented itself as a company not once but twice: first, from email client to tab-complete IDE and token reseller; and again, from tab-complete IDE and token reseller to AI lab and token creator.\" \"And it did all of that in less than four years.\" \"They really, really want to win.\" Full piece from @sarahdingwang, @BornsteinMatt, and @martin_casado on Cursor + SpaceXAI: https://www.a16z.news/p/cursor-spacexai-fastest-iterating-team",
+      "url": "https://x.com/elonmusk/status/2088274689303224817",
+      "tweet_id": "2088274689303224817",
+      "translated": "RT @elonmusk：“Cursor 和 SpaceXAI 有着深厚的文化契合。他们的工作节奏和强度都近乎荒谬。而且他们都是通过迭代来定义的。” “如果你第一次错了，第二次错了，第三次错了，甚至第十次或第二十次也没有关系。只要继续前进。如果你比其他人更快地朝着正确的方向前进，你很可能会赢。” “Cursor 作为一家公司进行了两次重塑：首先，从电子邮件客户端到选项卡式完整 IDE 和代币经销商；再次，从选项卡式完整 IDE 和代币经销商到人工智能实验室和代币创建者。” “这一切都在不到四年的时间内完成。” “他们真的非常想赢。” @sarahdingwang、@BornsteinMatt 和 @martin_casado 关于 Cursor + SpaceXAI 的完整文章：https://www.a16z.news/p/cursor-spacexai-fastest-iteating-team"
+    },
+    {
+      "id": "tweet_elonmusk_2088286607077990820",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 14 Aug 2026 15:28:20 GMT",
+      "content": "Yes",
+      "url": "https://x.com/elonmusk/status/2088286607077990820",
+      "tweet_id": "2088286607077990820",
+      "translated": "是的"
+    },
     {
       "id": "tweet_cz_binance_2087971745190044010",
       "username": "cz_binance",
@@ -201,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
