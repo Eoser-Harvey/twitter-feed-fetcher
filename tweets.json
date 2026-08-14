@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-14T19:51:45.825978+00:00",
+  "fetched_at": "2026-08-14T20:34:16.005995+00:00",
   "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2088306926442430578",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 14 Aug 2026 16:49:04 GMT",
-      "content": "Orbital compute will be the only way to scale AI probably sometime in 2029 due to power availability& permitting problems on land",
-      "url": "https://x.com/elonmusk/status/2088306926442430578",
-      "tweet_id": "2088306926442430578",
-      "translated": "由于陆地上的电力可用性和许可问题，轨道计算可能会在 2029 年的某个时候成为扩展 AI 的唯一方法"
-    },
-    {
-      "id": "tweet_elonmusk_2088274689303224817",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 14 Aug 2026 14:40:58 GMT",
-      "content": "RT by @elonmusk: \"Cursor and SpaceXAI are a deep cultural fit with one another. They both work with a pace and intensity that borders on the absurd. And they’re both defined by iteration.\" \"It doesn’t matter if you get it wrong the first time, or the second, or the third—even the tenth or the twentieth. Just keep on going. If you’re moving in the right direction faster than anyone else, you’ll probably win.\" \"Cursor reinvented itself as a company not once but twice: first, from email client to tab-complete IDE and token reseller; and again, from tab-complete IDE and token reseller to AI lab and token creator.\" \"And it did all of that in less than four years.\" \"They really, really want to win.\" Full piece from @sarahdingwang, @BornsteinMatt, and @martin_casado on Cursor + SpaceXAI: https://www.a16z.news/p/cursor-spacexai-fastest-iterating-team",
-      "url": "https://x.com/elonmusk/status/2088274689303224817",
-      "tweet_id": "2088274689303224817",
-      "translated": "RT @elonmusk：“Cursor 和 SpaceXAI 有着深厚的文化契合。他们的工作节奏和强度都近乎荒谬。而且他们都是通过迭代来定义的。” “如果你第一次错了，第二次错了，第三次错了，甚至第十次或第二十次也没有关系。只要继续前进。如果你比其他人更快地朝着正确的方向前进，你很可能会赢。” “Cursor 作为一家公司进行了两次重塑：首先，从电子邮件客户端到选项卡式完整 IDE 和代币经销商；再次，从选项卡式完整 IDE 和代币经销商到人工智能实验室和代币创建者。” “这一切都在不到四年的时间内完成。” “他们真的非常想赢。” @sarahdingwang、@BornsteinMatt 和 @martin_casado 关于 Cursor + SpaceXAI 的完整文章：https://www.a16z.news/p/cursor-spacexai-fastest-iteating-team"
-    },
-    {
-      "id": "tweet_elonmusk_2088286607077990820",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 14 Aug 2026 15:28:20 GMT",
-      "content": "Yes",
-      "url": "https://x.com/elonmusk/status/2088286607077990820",
-      "tweet_id": "2088286607077990820",
-      "translated": "是的"
-    },
     {
       "id": "tweet_cz_binance_2087971745190044010",
       "username": "cz_binance",
@@ -61,6 +31,35 @@
       "url": "https://x.com/cz_binance/status/2087853268982476896",
       "tweet_id": "2087853268982476896",
       "translated": "RT @cz_binance：🔥 刚刚报道：Binance bStocks 已超越 xStocks，成为第二大代币化股票发行商，价值 6.106 亿美元。 Ondo 仍以每个令牌终端约 9.27 亿美元的价格保持市场领先地位。"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2082159711852298494",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
+      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
+      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
+      "tweet_id": "2082159711852298494",
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2088226398708338889",
@@ -93,15 +92,6 @@
       "translated": "感觉玻璃基板的时间表至少又推迟了一个季度。 - 由于客户原型可靠性评估遇到瓶颈，“三星机电推迟了半导体玻璃基板投资”。不到一个月后，在最近的第二季度收益报告中，该公司将运营起始时间修改为 2028 年。 - 上个月早些时候，“据报道 SKC 将玻璃基板批量生产推迟到 2027 年，目标是在年底进行最终验证”（Trendforce）。 TLDR： - SKC Absolics H2 2026 -> H1 2027 - Samsung H2 2027 -> H1 2028 随着时间线的变化，并非一切总是好消息，但玻璃芯基板的变化确实迫在眉睫。某些玩家的音量斜坡，例如。 $LPK / Philoptics (161580) / E&R (8027) 可能会跟踪这些大规模生产时间表。"
     },
     {
-      "id": "tweet_qinbafrank_2088296492373319716",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 14 Aug 2026 16:07:37 GMT",
-      "content": "闪迪这次给的激进指引最主要依据就是他的NBM，其实就是长期协议，看披露出来的长协细节： 1）已签跟8家大客户签署长期协议，协议期最长五年，加权平均是4年； 2）长协产能覆盖：27、28年的6成左右的产能； 3）最低合同收入（按照协议里面的地板价来算）930亿美金，这是所有已签 NBM 的合计最低预期收入，实际收入应该会更高； 4）已经有165亿美金的保证金； 5）按照加权平均4年，最低合同收入930亿美金，这么算的话已经签的长协按照地板价格算未来四年每年保底带来营收超过230亿美金，而过去四个季度闪迪的营收总计是200亿美金。 看长协里最核心的定价结构： 1）混合模式：固定 + 可变元素。 2）可变部分：设有 floor（地板价）和 ceiling（顶价）。 3）毛利预期：即使在 floor pricing 下，仍能实现有吸引力的毛利（管理层多次确认约 80% 非 GAAP 毛利率水平）。当前整体毛利已达 84.6%，NBM 并非拖累。 4）上下行参与：价格上涨时可部分捕捉上行收益；价格下跌时客户有一定保护。短期部分更偏固定，长期部分更偏可变。 看一个投行机构的分析估算 floor 约 0.29 美元/GB，大致与近期平均售价（ASP）相当，意味着 downside 锚定在当前经济水平，而非历史周期底部。 官方也表示这75%的营业利润就是按照长协里面最低价来测算。 后续应该是看两点： 1）27、28年还有四成剩余产能，后面还能不能签新的长协，每多一份长协，未来受价格波动的影响就会小很多；未被长协覆盖的产能就要随现货价格来波动了。 2）看长协的执行程度了，是不是都能完成履行完成。或者还有未披露的隐藏条款",
-      "url": "https://x.com/qinbafrank/status/2088296492373319716",
-      "tweet_id": "2088296492373319716"
-    },
-    {
       "id": "tweet_qinbafrank_2088298952198377533",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -109,6 +99,15 @@
       "content": "R to @qinbafrank: 给出闪迪长协floor price估算的是伯恩斯坦（Bernstein）的芯片行业分析师Mark Newman",
       "url": "https://x.com/qinbafrank/status/2088298952198377533",
       "tweet_id": "2088298952198377533"
+    },
+    {
+      "id": "tweet_qinbafrank_2088296492373319716",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Fri, 14 Aug 2026 16:07:37 GMT",
+      "content": "闪迪这次给的激进指引最主要依据就是他的NBM，其实就是长期协议，看披露出来的长协细节： 1）已签跟8家大客户签署长期协议，协议期最长五年，加权平均是4年； 2）长协产能覆盖：27、28年的6成左右的产能； 3）最低合同收入（按照协议里面的地板价来算）930亿美金，这是所有已签 NBM 的合计最低预期收入，实际收入应该会更高； 4）已经有165亿美金的保证金； 5）按照加权平均4年，最低合同收入930亿美金，这么算的话已经签的长协按照地板价格算未来四年每年保底带来营收超过230亿美金，而过去四个季度闪迪的营收总计是200亿美金。 看长协里最核心的定价结构： 1）混合模式：固定 + 可变元素。 2）可变部分：设有 floor（地板价）和 ceiling（顶价）。 3）毛利预期：即使在 floor pricing 下，仍能实现有吸引力的毛利（管理层多次确认约 80% 非 GAAP 毛利率水平）。当前整体毛利已达 84.6%，NBM 并非拖累。 4）上下行参与：价格上涨时可部分捕捉上行收益；价格下跌时客户有一定保护。短期部分更偏固定，长期部分更偏可变。 看一个投行机构的分析估算 floor 约 0.29 美元/GB，大致与近期平均售价（ASP）相当，意味着 downside 锚定在当前经济水平，而非历史周期底部。 官方也表示这75%的营业利润就是按照长协里面最低价来测算。 后续应该是看两点： 1）27、28年还有四成剩余产能，后面还能不能签新的长协，每多一份长协，未来受价格波动的影响就会小很多；未被长协覆盖的产能就要随现货价格来波动了。 2）看长协的执行程度了，是不是都能完成履行完成。或者还有未披露的隐藏条款",
+      "url": "https://x.com/qinbafrank/status/2088296492373319716",
+      "tweet_id": "2088296492373319716"
     },
     {
       "id": "tweet_qinbafrank_2088222681133199590",
