@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-08-14T04:50:17.184294+00:00",
+  "fetched_at": "2026-08-14T06:16:23.525112+00:00",
   "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2088100521261359218",
+      "id": "tweet_elonmusk_2088130948995178532",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Fri, 14 Aug 2026 03:08:53 GMT",
-      "content": "Pinned: Grok 4.6 will work best with the Grok Build harness. The experience will be significantly worse without it, so best to evaluate using Build. https://Grok.com/build",
-      "url": "https://x.com/elonmusk/status/2088100521261359218",
-      "tweet_id": "2088100521261359218",
-      "translated": "已固定：Grok 4.6 与 Grok Build 安全带配合使用效果最佳。如果没有它，体验会明显更差，因此最好使用 Build 进行评估。 https://Grok.com/build"
+      "published_at": "Fri, 14 Aug 2026 05:09:48 GMT",
+      "content": "RT by @elonmusk: Tesla Self-Driving 14.3.7 is quite a beautiful build. Like a world of art really. It cuts through dense LA traffic expertly",
+      "url": "https://x.com/elonmusk/status/2088130948995178532",
+      "tweet_id": "2088130948995178532",
+      "translated": "RT @elonmusk：Tesla 自动驾驶 14.3.7 是一个非常漂亮的构建。真的就像一个艺术世界。它熟练地穿过洛杉矶密集的交通"
     },
     {
-      "id": "tweet_elonmusk_2087948377770119594",
+      "id": "tweet_elonmusk_2082791168744767963",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 17:04:20 GMT",
-      "content": "RT by @elonmusk: I’ve had my @Tesla for 9 days—and it’s already saved my life. Full Self-Driving with HW4 is mind-blowing. My car drove me ~800 miles from Georgia to Texas without me touching the wheel or pedals, while avoiding multiple collisions. I’ve never felt safer in a vehicle. Here’s one example of a collision avoided, automatically captured on camera. In this instance (though it doesn’t show my actual POV), sparks covered the windshield, lighting up the road like the Fourth of July and obstructing my view. Since I was in FSD, the car reacted immediately without overcorrecting like I likely would have, which could have led to a far worse outcome. Everyone who’s ridden with me and experienced FSD for the first time is blown away and now looking into buying one—including my parents, who like me have never owned an EV. There’s no telling how many lives this technology will save. This is hands-down the most incredible purchase I’ve ever made. God bless @elonmusk & the Tesla team🫡",
-      "url": "https://x.com/elonmusk/status/2087948377770119594",
-      "tweet_id": "2087948377770119594",
-      "translated": "RT @elonmusk：我已经使用 @Tesla 9 天了，它已经救了我的命。 HW4 的全自动驾驶令人兴奋。我的车从佐治亚州开到德克萨斯州约 800 英里，我没有碰方向盘或踏板，同时避免了多次碰撞。我在车里从未感到如此安全。这是一个避免碰撞的示例，并由摄像机自动捕捉到。在这种情况下（尽管它没有显示我的实际视角），火花覆盖了挡风玻璃，像七月四日一样照亮了道路并遮挡了我的视线。由于我处于 FSD 状态，汽车会立即做出反应，而不会像我可能会那样过度校正，否则可能会导致更糟糕的结果。每个和我一起骑行并第一次体验 FSD 的人都被震撼了，现在正在考虑购买一辆——包括我的父母，他们和我一样从未拥有过电动汽车。尚不清楚这项技术将拯救多少人的生命。这无疑是我做过的最令人难以置信的购买。上帝保佑@elonmusk 和特斯拉团队🫡"
+      "published_at": "Thu, 30 Jul 2026 11:31:25 GMT",
+      "content": "RT by @elonmusk: Workflows are now in Grok Build. Build plans the work, runs up to hundreds of agents in parallel, and comes back with one report.",
+      "url": "https://x.com/elonmusk/status/2082791168744767963",
+      "tweet_id": "2082791168744767963",
+      "translated": "RT by @elonmusk：工作流程现在位于 Grok Build 中。构建计划工作，并行运行多达数百个代理，并返回一份报告。"
     },
     {
-      "id": "tweet_elonmusk_2088016559755211058",
+      "id": "tweet_elonmusk_2088070245210816595",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Thu, 13 Aug 2026 21:35:15 GMT",
-      "content": "RT by @elonmusk: Unlike her bro, she doesn't try to hide it",
-      "url": "https://x.com/elonmusk/status/2088016559755211058",
-      "tweet_id": "2088016559755211058",
-      "translated": "RT @elonmusk：与她的兄弟不同，她并没有试图隐藏它"
+      "published_at": "Fri, 14 Aug 2026 01:08:35 GMT",
+      "content": "RT by @elonmusk: Thrilled to receive this feedback from Tesla — they tackle the world’s most critical multimodal challenges. Extremely proud that the team’s work is paying off🚀",
+      "url": "https://x.com/elonmusk/status/2088070245210816595",
+      "tweet_id": "2088070245210816595",
+      "translated": "RT @elonmusk：很高兴收到特斯拉的反馈——他们解决了世界上最关键的多式联运挑战。非常自豪团队的工作得到了回报🚀"
     },
     {
       "id": "tweet_cz_binance_2087971745190044010",
@@ -40,7 +40,7 @@
       "content": "Not a great month for hardware wallets. Trezor disclosed a breach at its shipping provider affecting ~13.7K recent customers. ~11.7K had full name, email, phone and shipping address exposed. Trezor systems/private keys were not compromised. The leak directly links identities and physical addresses to known crypto holders, creating significant phishing, social-engineering and potential physical-security risk. Hardware wallets are often considered \"more secure\" than software wallets. While I still think that is \"generally true\" in a few specific aspects, this incident reinforces an advantage of software self-custody wallets (such as Binance Web3 Wallet & Trust Wallet), without purchasing and shipping a physical device that links a user's identity and address to crypto ownership. Not saying hardware wallets are \"bad\". Just different risk profiles. YZiLabs is an investor in many hardware wallets. Security, privacy and convenience comes in many different shapes. The more we can educate our communities, the better. https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident",
       "url": "https://x.com/cz_binance/status/2087971745190044010",
       "tweet_id": "2087971745190044010",
-      "translated": "对于硬件钱包来说，这不是一个好月份。 Trezor 披露了其运输提供商的违规行为，影响了约 13,700 名最近的客户。 ~11.7K 的全名、电子邮件、电话和送货地址被暴露。 Trezor 系统/私钥没有受到损害。此次泄露直接将身份和物理地址与已知的加密货币持有者联系起来，从而造成严重的网络钓鱼、社会工程和潜在的物理安全风险。硬件钱包通常被认为比软件钱包“更安全”。虽然我仍然认为这在某些特定方面“总体上是正确的”，但这一事件强化了软件自我托管钱包（例如币安 Web3 钱包和 Trust 钱包）的优势，而无需购买和运输将用户的身份和地址与加密所有权相关联的物理设备。并不是说硬件钱包“不好”。只是风险状况不同。 YZiLabs 是许多硬件钱包的投资者。安全、隐私和便利有多种不同的形式。我们对社区的教育越多越好。 https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident"
+      "translated": "对于硬件钱包来说，这不是一个好月份。 Trezor 披露了其运输提供商的违规行为，影响了约 13,700 名最近的客户。 ~11.7K 的全名、电子邮件、电话和送货地址被暴露。 Trezor 系统/私钥没有受到损害。此次泄露直接将身份和物理地址与已知的加密货币持有者联系起来，从而造成严重的网络钓鱼、社会工程和潜在的物理安全风险。硬件钱包通常被认为比软件钱包“更安全”。虽然我仍然认为这在某些特定方面“总体上是正确的”，但这一事件强化了软件自我托管钱包（例如币安 Web3 钱包和 Trust 钱包）的优势，而无需购买和运输将用户的身份和地址与加密货币所有权相关联的物理设备。并不是说硬件钱包“不好”。只是风险状况不同。 YZiLabs 是许多硬件钱包的投资者。安全、隐私和便利有多种不同的形式。我们对社区的教育越多越好。 https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident"
     },
     {
       "id": "tweet_cz_binance_2087941099793027110",
@@ -122,6 +122,15 @@
       "translated": "好吧，这是我对 $POET 的看法，因为显然人们在 Reddit 子版块上庆祝我持有小仓位。 - 我有0个想法。零。他们如何说服股东允许他们进行如此大的稀释：他们现在手头有大约 8.3 亿美元的荒谬现金。我的猜测是他们已经接近完成了，因为如果他们需要更多，我会难以置信。所以现在......他们有大约 8.3 亿美元来发展他们的业务，比如并购，而 EV 最近实际上下降得非常低（例如，$1.25B MC vs. 8.3 亿美元手头现金），我认为冒险是很有必要的。 - 2027 年年产能目标为 1200 万台光学引擎/年，这是相当荒谬的增长。需要对 Poet 产品的 ASP 进行更多研究，但可能是 125-200 美元？因此，平均售价约为 150 美元，收入上限为 1.8B 美元。但它们现在就像逆 AAOI：没有明显的需求来填补所有这些容量。除了 Lumilens 之外，该公司现在是一家高价值的超大规模供应商（可能是亚马逊或微软），拥有数十亿美元的客户协议。有趣的是，Poet 是否与三菱等公司签署了预付款 EML 协议，或者与资产负债表幕后的 Sivers 签署了 CW 协议。鉴于当前的瓶颈，玩家可能会使用 Poet 作为供应采购的解决方法。但基本上，你拥有一家现金超级充裕的公司，并且有大量的在线产能。而且他们的财务状况并不会很快消失。我认为，与上游激光瓶颈相比，它在技术上不太具有防御性，在连续激光器与 OE 封装方面的技术护城河方面，类似 $SIVE 的估值大致相同。正如您最近在《Celestial》和《Poet》中看到的那样。但也许……一些超大规模企业或下游公司有可能在未来某个时候宣布达成批量协议。 $POET 起飞。他们确实有相应的供应链设置。这就是我最终承担的风险，但对我来说，这并不像 $AAOI 那样一目了然。"
     },
     {
+      "id": "tweet_qinbafrank_2088141718197874891",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Fri, 14 Aug 2026 05:52:36 GMT",
+      "content": "CPU领域最近又要来一波？近期看到CPU领域密集的催化剂： 1、美银最新研报把将服务器CPU 2030年TAM上修至2106亿美元（从之前的约1700亿），CAGR约36%。5月amd财报时苏妈给的预期是1200亿美金，到7月 Advancing AI的活动上。苏妈又把这个数字提到了2200亿美金。然后美银这次上调相当于投行的预期已经向产业预判靠拢一致了。 2、cpu最核心的逻辑还是在于CPU与GPU配置比例从此前的1:8向1:1靠拢，逻辑链：Agentic AI的普及→推理量爆发→每个agent需要CPU来编排和处理数据→CPU与GPU的配比从1:4提升到1:1甚至更高→CPU TAM倍增。这个在五月初amd的电话会https://x.com/qinbafrank/status/2051873015458353265?s=46&t=k6rimWsEbo2D2tXolYcM-A和 5月下旬陈立武讲话https://x.com/qinbafrank/status/2057118267681194169?s=46&t=k6rimWsEbo2D2tXolYcM-A都提到的趋势，貌似近期越来越被市场所接受。 3、英特尔 1）陈立武以个人资金认购了价值1200万美元的英特尔股票，作为公司197亿美元股票增发计划的一部分、管理层真金白银的掏钱是市场信心和情绪的最大保证； 2）18A制程首款数据中心CPU量产/爬坡：至强6+（Clearwater Forest，最高288个E-core）采用Intel 18A（1.8nm级）+ Foveros Direct 3D封装，专为云原生、智能体AI和网络密集型负载设计； 3）陈立武近期TechSurge访谈中明确探索CPU与内存堆叠及新型内存架构（关联XBM专利，去掉传统HBM硅中介层；已挖前SK海力士CEO）。其实之前财报电话会上已经说过的信息，不妨碍市场又拿来做预期。 4、AMD 1）Advancing AI 2026活动（7月22–23日）正式发布第6代EPYC Venice（EPYC 9006系列），全球首款基于台积电2nm量产的高性能计算芯片。 2）锐龙AI Max 400系列蓄势（最高192GB统一内存，x86史上首次可本地跑超大模型）；Zen 6消费级预计2027年；低功耗核心确认加入。 3）数据中心市场份额持续提升，被视为本轮CPU短缺最大受益者之一。 5、ARM 1）自研AGI CPU芯片（非单纯IP）已送样客户评估，预计2026年底前量产，目标数据中心头节点、智能体编排等场景。 2）英伟达自研Arm CPU加速落地，与Rubin GPU协同的Vera CPU预计2026下半年量产出货，早期客户已在验证。 而且看走势貌似都要突破这一波下跌的压力线了。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2088141718197874891",
+      "tweet_id": "2088141718197874891"
+    },
+    {
       "id": "tweet_qinbafrank_2087938804179145015",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -139,15 +148,6 @@
       "url": "https://x.com/qinbafrank/status/2087910104595415350",
       "tweet_id": "2087910104595415350",
       "translated": "从CRWV和NBIS的人最新财报能看到CSP（AI云算力）板块的出五个比较清晰的发展趋势： 1、需求仍显着超过近期可交付供给。 CoreWeave 二季度末已投运功率约1.5GW、合同功率约3.7GW，积压订单约1,040亿美元，而且尚未包括三季度初新增的超过250亿美元承诺； Nebius则计划从2027年开始每年部署超过1GW，并以5GW合同容量为中期目标。 行业瓶颈已经由“有没有客户”转向“什么时候能通电、交付GPU并开始计费”。 2、定价权确实在增强，但不是所有GPU租赁价格无差别上涨。 CoreWeave管理层表示，7月各类SKU价格普遍上调约25%；Nebius披露，旧代GPU价格较一季度上涨超过30%，二季度新签合同平均年化收入超过每MW 2,000万美元，部分达到2,000万—2,500万美元，三季度初的短期紧急容量甚至达到每MW 4,000万—5,000万美元。 涨价最明显的是短期容量、新代GPU、大规模集群和生产级推理，而不是传统低优先级、长期锁价的裸算力。 3、项目级ROI已经能够算过账，但公司级ROIC尚未被证明。 Nebius首次披露了比较明确的项目回收期；CoreWeave则用五年期合同和资产级融资覆盖GPU投资。但两家公司目前都处于资本投入远超利润释放的阶段，折旧和利息仍然吞噬大部分经营利润。 但单项目ROI已经能够算过账就是一个经营在进一步改善的信号。等到未来越来越多的单项目ROI能算过账、公司级ROIC也就能证明了， 4、两家公司都在向“AI基础设施操作系统”升级。 未来竞争不再只是每小时出租一张GPU，而是提供训练、推理、存储、网络、模型部署、监控、治理、Agent运行环境以及跨云运营的一体化平台。 也就是7月中这里https://x.com/qinbafrank/status/2076839550119444702?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到的“AI运营操作系统和坚实的中间层” 5、两家公司开始采用第三方资本，但方式并不完全相同。 1）Nebius的轻资产模式更接近“由资本伙伴出资建设AI工厂，Nebius输出操作系统和运营能力”； 2）CoreWeave Omni则更接近“把CoreWeave云完整部署到客户自有的数据中心和GPU上”。 方向相同，但现阶段Nebius更强调降低资本投入，CoreWeave更强调混合云和主权AI交付。"
-    },
-    {
-      "id": "tweet_qinbafrank_2087903125399011470",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Thu, 13 Aug 2026 14:04:31 GMT",
-      "content": "先交易通胀放缓，再看美伊局势。7月PPI走弱对市场进一步提振，7月PPI整体偏软、低于预期，显示生产端通胀压力进一步缓解z7月PPI的“软”主要体现在商品端（尤其能源）的持续降温，这与前期能源价格从高位回落、以及伊朗相关冲击后的调整有关。服务端虽仍正增长，但力度较前几个月减弱（增速放缓），m且运输仓储明显走弱。整体同比从5%以上快速回落至4.7%，是积极信号。 PPI作为CPI上游，PPI衡量生产者收到的价格，CPI衡量消费者支付的价格。理论上，生产端成本变化会通过供应链、批发、零售等环节向下游传导。作为CPI的上游指标，这有助于减轻8月CPI的上行压力，尤其在商品和能源方面。 连续两个月PPI环比接近零或负值，叠加7月CPI已现降温，增加了通胀路径继续放缓的证据。 今天中午聊到、PPI走弱对市场也是进一步提振和利好。短期内应该是乐观📈、先交易几天通胀压力减轻。然后再看美伊博弈有没有新的进展。 现在看一个潜在的隐患：就是美伊博弈长期化，没有特别加剧升级但是霍尔木兹海峡还是迟迟不能打开。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2087903125399011470",
-      "tweet_id": "2087903125399011470"
     },
     {
       "id": "tweet_xiaomustock_2088052959741714846",
@@ -177,6 +177,15 @@
       "tweet_id": "2087948726337990820"
     },
     {
+      "id": "tweet_xingpt_2088126498322686041",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Fri, 14 Aug 2026 04:52:07 GMT",
+      "content": "现在做AI短剧最好用的工具是什么啊？等待时间短，抽卡效率高的！用了几次即梦和loveart实在是体验太差了，一个排队几天都出不来（还不退credit），另一个抽卡几十次才能出来效果的十分之一。",
+      "url": "https://x.com/xingpt/status/2088126498322686041",
+      "tweet_id": "2088126498322686041"
+    },
+    {
       "id": "tweet_xingpt_2087908545476120749",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -193,15 +202,6 @@
       "content": "Nebius Q2 财报点评：市场更奖励资本效率 Nebius 这份 Q2 财报整体明显偏强，也进一步验证了一个重要产业趋势：AI 算力需求目前仍然非常旺盛，Neocloud 下一阶段真正的竞争重点，正在从“谁能拿到更多 GPU”逐渐转向“谁能以更低资本成本、更快地把电力和 GPU 变成可以收费的算力”。 Q2 Nebius 收入 5.82 亿美元，同比增长 454%，AI Cloud 收入 5.75 亿美元，同比增长 514%，AI Cloud 调整后 EBITDA Margin 接近 50%。Citi 在财报后的管理层回访中确认，增长来自更高利用率、On-demand 需求、Token Factory、Tavily 和平台能力提升。更重要的是，管理层表示当前“每块 GPU 都有多个买家”，需求暂时没有成为增长瓶颈。 和 CoreWeave 相比，两家公司走出了不同的发展路径。CoreWeave 已经拥有约 1.5GW Active Power，部署规模明显领先，但 Q2 CapEx 接近 94 亿美元，同时净利息费用达到 6.4 亿美元，增长高度依赖债务融资。Nebius 当前规模更小，却正在建立一套资本效率更高的扩张模式。 最值得关注的指标是 Customer Prepayment。管理层确认，目前约 50%至60%的基础设施 CapEx 可以由客户预付款覆盖，从现金口径计算，部分项目的投资回收期已经可以缩短到约 10 个月。 这意味着客户为了提前锁定稀缺 GPU Capacity，开始主动替 Nebius 承担大量建设资金。未来评价 Neocloud，Customer Prepayment / CapEx 很可能会成为与收入增速、Backlog 同等重要的指标。 另一个核心是算力部署。Nebius 预计 2026 年底达到 800MW至1GW Connected Power，5GW 大部分容量预计未来 2至3 年逐步上线，管理层给出的正常部署速度约为每个 Site 每年 200至300MW。 因此未来最大的业绩验证点，是这些已经签下的电力资源能否持续转换成 Active Capacity。 GPU 定价方面也有积极信号。目前高价值订单主要来自 GB300，而非尚未大规模部署的 Rubin。客户愿意支付溢价，主要因为特定 GPU 稀缺、Uptime Guarantee，以及能否赶上关键模型训练窗口。 这说明即使下一代 Rubin 临近，Blackwell 系列仍然保持很强的定价权。 Nebius 另外两个值得关注的长期变量是 Asset-light 和电力。管理层表示 Asset-light 模式目前尚未计入基础预测，潜在贡献可能从 2027 年开始。未来可以由外部资本负责土地、电力和数据中心，Nebius 提供架构、云平台和客户资源，从而进一步降低自有 CapEx。 同时，公司与 Bloom Energy 合作部署 328MW behind-the-meter 燃料电池，本质上是在解决 AI 数据中心最关键的 Time-to-Power 问题，加快 Contracted Power 向 Active Power 转换。 风险仍然存在。Microsoft 和 Meta 合计约占 FY26 ARR 指引的 40%，客户集中度较高；同时多 GW 数据中心建设仍存在施工、电力、GPU 供应以及融资风险。如果客户预付款下降，Nebius仍可能需要更多债务或股权融资。 所以我对 NBIS 的判断是：中期产业逻辑继续强化，但短期股价已经提前反映了不少乐观预期。Citi 在股价 259.2 美元时给出的目标价只有 278 美元，静态上涨空间约 7%。 因此更合理的策略仍然是中期看多、短期不追高，重点等待 Connected Power、Active Power 和 Customer Prepayment 继续兑现。真正决定 Nebius 能否进一步获得估值溢价的关键，是它能否证明自己可以让客户、银行和基础设施资本共同出钱，以明显低于 CoreWeave 的财务压力持续部署 AI 算力。",
       "url": "https://x.com/xingpt/status/2087828575991070877",
       "tweet_id": "2087828575991070877"
-    },
-    {
-      "id": "tweet_xingpt_2087816155256008924",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 13 Aug 2026 08:18:55 GMT",
-      "content": "Lumentum + Coherent 季度财报解析： 追光者的胜利 Lumentum和Coherent连续两天公布财报，把目前AI光通信产业的进度进一步验证清楚了。两家公司都处在光通信核心产业链，但商业模式有所不同。 Lumentum更偏上游高价值光器件和系统，核心包括EML、CW激光器、泵浦激光器、高功率CPO激光器，同时向OCS光交换、ELS外置光源和云端光模块延伸，因此利润率和AI业务弹性更高。 Coherent则更接近“全产业链光子平台”，从InP材料与晶圆、激光器、隔离器、光纤，一直到800G/1.6T光模块、OCS以及CPO/NPO都有布局，其优势在于垂直整合和供应链控制能力。 从本季度业绩看，两家公司共同释放的信号依然很强。Lumentum FY26 Q4收入10.06亿美元，同比增长109%，Non-GAAP毛利率达到50.4%，EPS为3.23美元；更重要的是FY27 Q1收入指引中值达到12.5亿美元，原先需要更晚才能实现的经营目标再次提前。 Coherent Q4收入约20.5亿美元，同比增长34%，调整后EPS 1.74美元，均超过市场预期；FY27 Q1收入指引中值进一步达到23亿美元，EPS中值1.95美元，同样明显高于此前市场预期。 两家公司之间最大的区别在利润率。Lumentum毛利率已经超过50%，主要受益于激光器供给紧张、产品结构升级和OCS等高利润业务； Coherent毛利率约40%，因为增长最快的业务恰恰是毛利率相对较低的光模块。 Coherent管理层也明确指出，transceiver快速增长会对集团整体毛利率形成结构性压制，但随着6英寸InP产能释放，光模块自身利润率仍在提升。 两份财报最重要的意义，其实是对产业趋势形成了非常强的交叉验证。 第一，1.6T远没有走完，甚至还在加速。 Coherent表示，过去3至6个月客户继续把1.6T的量产时间提前，同时把爬坡曲线变得更陡；公司预计整个行业1.6T收入真正超过800G要到2028年。 Lumentum同样看到200G/lane EML迅速放量和1.6T需求增长。因此2026至2027年，传统可插拔光模块依然是最确定的业绩主线，NPO/CPO目前没有提前终结1.6T周期。 第二，EML和硅光/CW目前是双路线共存。 Lumentum开始把部分产能转向CW，说明1.6T硅光渗透率确实在提高，但EML依然严重缺货； Coherent则直接表示EML与Silicon Photonics版本的1.6T需求都很健康，很多客户甚至不在乎具体路线，只希望尽快拿到产品。 这意味着现阶段投资光模块，更重要的是抓住1.6T总量增长和客户份额，而不宜过早押注某一种技术完全淘汰另一种。 第三，上游器件正在成为真正的瓶颈。 Coherent表示过去一年限制数据中心业务增长的主要因素一直是产能而非需求，公司InP产能本季度同比翻倍，到2027年底还计划再翻倍，而且部分新增产能已经开始从传统光模块转向超高功率CPO/ELS激光器。 Lumentum也表示高功率激光器需求超过此前预测。两家公司共同说明，未来光通信最稀缺的价值可能越来越集中在InP、EML、CW、高功率激光器、隔离器等核心器件，而模块组装产能相对更容易扩张。 第四，OCS、NPO和CPO已经开始形成第二增长曲线。Coherent过去半年看到OCS用于scale-up的客户参与明显增加；Lumentum的OCS收入已经实际进入快速爬坡。 CPO方面，Coherent今年已经开始受益于scale-out CPO，并预计2027年下半年逐渐进入scale-up； Lumentum给出的时间线也基本一致，高功率ELS/CPO激光器主要在2027H2开始放量，对应2028年的系统部署。因此产业节奏可以简单理解为：2026至2027年看1.6T，2027H2以后增加ELS、NPO和高功率激光器，2028以后真正进入scale-up光互联的大周期。 对应到产业链，第一优先级仍然是1.6T高速光模块，直接受益者包括中际旭创、新易盛以及Fabrinet等。中际旭创目前产品已经覆盖至1.6T并布局NPO，新易盛也已展示200G/lane 1.6T产品；Fabrinet则处在全球高端光模块制造和封装环节。 第二条主线是上游激光器和InP，Lumentum、Coherent本身最直接，A股可以继续观察源杰科技这类已经具备200G EML和CW激光芯片产品的厂商。 第三条则是光纤和高密度连接，随着光从机柜外逐渐深入机柜内部，Corning的长期逻辑也得到加强。 最后看投资节奏。基本面上，我仍然偏向把LITE和COHR视为AI光通信的核心观察指标，但目前不适合看到好财报就追涨。 Lumentum在8月12日财报后已经上涨13.6%，过去一年累计涨幅也非常大，说明市场已经计入相当高的2027至2028年增长预期。 技术上更适合等待财报跳空上涨后形成新的整理平台，确认回踩承接再考虑增加仓位，而不是追单日大阳线。 Coherent则更有意思。8月12日白天受到Lumentum带动先上涨8.2%，自己的财报公布后盘后反而下跌约2.1%至348美元附近，尽管收入、EPS和指引全部beat。 这说明市场预期已经很高，也说明短线筹码需要消化。技术上可以观察正式交易后能否重新站回财报前约355美元的收盘区域，如果快速收回，说明市场最终认可基本面；如果持续承压，则更适合等待新的日线平台形成。技术形态上Lite更强。 综合来看，我目前更愿意采用“产业继续看多，个股避免追高”的策略：短期利润最确定的仍是1.6T光模块，中期提高InP、EML/CW、高功率激光器和OCS的权重，2027年下半年开始逐渐把研究重心转向ELS、NPO和CPO。 真正值得长期提高估值的公司，是那些既能吃到当前1.6T利润，又能顺利进入下一代光引擎、OCS和CPO体系的企业。",
-      "url": "https://x.com/xingpt/status/2087816155256008924",
-      "tweet_id": "2087816155256008924"
     },
     {
       "id": "tweet_hibtc37_2088084341054435418",
