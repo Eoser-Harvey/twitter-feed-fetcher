@@ -1,36 +1,7 @@
 {
-  "fetched_at": "2026-08-15T05:27:14.403647+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-15T06:41:52.476801+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2088487331372089560",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 15 Aug 2026 04:45:56 GMT",
-      "content": "RT by @elonmusk: If you want to learn how to run one: https://somethingbig.ai/gauntlet-loop Grok Build harness is likely best but you can also run this in Grok Bot!",
-      "url": "https://x.com/elonmusk/status/2088487331372089560",
-      "tweet_id": "2088487331372089560",
-      "translated": "RT by @elonmusk：如果您想学习如何运行一个：https://somethingbig.ai/gauntlet-loop Grok Build 工具可能是最好的，但您也可以在 Grok Bot 中运行它！"
-    },
-    {
-      "id": "tweet_elonmusk_2088484972965298489",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 15 Aug 2026 04:36:34 GMT",
-      "content": "Grok 4.6 runs The Gauntlet",
-      "url": "https://x.com/elonmusk/status/2088484972965298489",
-      "tweet_id": "2088484972965298489",
-      "translated": "Grok 4.6 运行 The Gauntlet"
-    },
-    {
-      "id": "tweet_elonmusk_2088463985938944130",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 15 Aug 2026 03:13:10 GMT",
-      "content": "😂",
-      "url": "https://x.com/elonmusk/status/2088463985938944130",
-      "tweet_id": "2088463985938944130"
-    },
     {
       "id": "tweet_cz_binance_2088465599693545945",
       "username": "cz_binance",
@@ -90,6 +61,15 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2088501133543407959",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sat, 15 Aug 2026 05:40:47 GMT",
+      "content": "说我归零的传闻未免也太夸张了吧 哈哈 经历了7月份AI板块的崩盘后，我的YTD收益依然还有 +2,411.84%",
+      "url": "https://x.com/aleabitoreddit/status/2088501133543407959",
+      "tweet_id": "2088501133543407959"
+    },
+    {
       "id": "tweet_aleabitoreddit_2088457278928412812",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,14 +90,13 @@
       "translated": "$SHKY、Samsung、$SNDK、$MU 内存瓶颈从未改变过"
     },
     {
-      "id": "tweet_aleabitoreddit_2088181416148562017",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 14 Aug 2026 08:30:20 GMT",
-      "content": "Donald Trump signs a proclamation to strengthen US supply chains for drones. Benefiting U.S. drone component suppliers like $UMAC to UAS manufacturers like $ONDS + $RCAT. TLDR, 100% tariffs on: - UAS docking stations + certain critical components - certain parts for >25 kg drones - Drones >25 kg 25% tariffs on: - broader components UAS = Unmanned Aircraft System (don't have any positions in any above)",
-      "url": "https://x.com/aleabitoreddit/status/2088181416148562017",
-      "tweet_id": "2088181416148562017",
-      "translated": "唐纳德·特朗普签署公告，加强美国无人机供应链。使 $UMAC 等美国无人机零部件供应商和 $ONDS + $RCAT 等无人机制造商受益。 TLDR，对以下产品征收 100% 关税： - UAS 对接站 + 某些关键部件 - 大于 25 公斤无人机的某些部件 - 大于 25 公斤的无人机 对以下产品征收 25% 关税： - 更广泛的部件 UAS = 无人机系统（以上任何位置都没有任何职位）"
+      "id": "tweet_qinbafrank_2088499042875769258",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sat, 15 Aug 2026 05:32:28 GMT",
+      "content": "英伟达CPO交换机全面量产，这应该光互连领域的大事件。昨天英伟达宣布Spectrum-X Ethernet Photonics已进入全面量产阶段，为面向AI工厂的下一代大规模扩展网络基础设施提供支持。 Spectrum-X Ethernet Photonics 是 NVIDIA Spectrum-X 以太网网络平台中的硅光子（Silicon Photonics）/共封装光学（CPO, Co-Packaged Optics）交换机技术，主要面向大规模 AI 工厂（AI Factory）和高性能 AI 数据中心场景。 它把硅光引擎与交换 ASIC 直接共封装在同一封装内，取代传统可插拔光模块，专为超大规模 GPU 集群的网络互联设计。 核心应用场景 1）大规模 AI 训练与推理集群 / AI 工厂：支持从数万到数十万甚至百万级 GPU 的互联，提供 GPU 到 GPU 的高带宽、低延迟、高有效带宽通信，特别适合生成式 AI、大模型训练和分布式推理。它能帮助实现“吉瓦级”（GW-scale）AI 基础设施，并提升整体能效与可靠性。 2）超大规模数据中心内部网络（就是通常称的Scale-out 网络）：解决传统以太网在超大规模 AI 负载下的功耗高、故障点多、信号完整性差等问题。相比传统可插拔收发器方案，它可实现约 5 倍网络能效提升、激光器数量减少约 4 倍、平均故障间隔时间（MTBI）提升约 10 倍，以及更长的 AI 应用持续运行时间。 平均故障间隔时间这一点很重要，云厂商采用cpo很大的一个考量就是故障率和故障间隔时间。 3）跨数据中心扩展（Scale-cross场景，结合 Spectrum-XGS）：也可配合相关技术，把分散的多个数据中心（甚至相距较远）连接成统一的大规模 AI 超级工厂。 这是英伟达专为“AI 工厂”这种需要海量 GPU 高速互联、极致能效和可靠性的场景打造的下一代网络基础设施。目前已进入全面量产，首批客户包括 CoreWeave、Lambda、Oracle 等。 供应链： TSMS负责硅光子制造 ； SPIL负责芯片级封装与测试； Lumentum提供激光芯片制造 ； TFC负责激光模块子组件组装 ； Foxconn 提供Communication交换系统组装 ； 8月初看好光互连很重要的一个原因就是当时看到英伟达高级副总裁 Gilad Shainer在一个技术论坛上宣布，CPO 已开始量产。现在终于看到官方正式宣布量产的公告了。",
+      "url": "https://x.com/qinbafrank/status/2088499042875769258",
+      "tweet_id": "2088499042875769258"
     },
     {
       "id": "tweet_qinbafrank_2088440795384930410",
@@ -136,15 +115,6 @@
       "content": "R to @qinbafrank: 给出闪迪长协floor price估算的是伯恩斯坦（Bernstein）的芯片行业分析师Mark Newman",
       "url": "https://x.com/qinbafrank/status/2088298952198377533",
       "tweet_id": "2088298952198377533"
-    },
-    {
-      "id": "tweet_qinbafrank_2088296492373319716",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 14 Aug 2026 16:07:37 GMT",
-      "content": "闪迪这次给的激进指引最主要依据就是他的NBM，其实就是长期协议，看披露出来的长协细节： 1）已签跟8家大客户签署长期协议，协议期最长五年，加权平均是4年； 2）长协产能覆盖：27、28年的6成左右的产能； 3）最低合同收入（按照协议里面的地板价来算）930亿美金，这是所有已签 NBM 的合计最低预期收入，实际收入应该会更高； 4）已经有165亿美金的保证金； 5）按照加权平均4年，最低合同收入930亿美金，这么算的话已经签的长协按照地板价格算未来四年每年保底带来营收超过230亿美金，而过去四个季度闪迪的营收总计是200亿美金。 看长协里最核心的定价结构： 1）混合模式：固定 + 可变元素。 2）可变部分：设有 floor（地板价）和 ceiling（顶价）。 3）毛利预期：即使在 floor pricing 下，仍能实现有吸引力的毛利（管理层多次确认约 80% 非 GAAP 毛利率水平）。当前整体毛利已达 84.6%，NBM 并非拖累。 4）上下行参与：价格上涨时可部分捕捉上行收益；价格下跌时客户有一定保护。短期部分更偏固定，长期部分更偏可变。 看一个投行机构的分析估算 floor 约 0.29 美元/GB，大致与近期平均售价（ASP）相当，意味着 downside 锚定在当前经济水平，而非历史周期底部。 官方也表示这75%的营业利润就是按照长协里面最低价来测算。 后续应该是看两点： 1）27、28年还有四成剩余产能，后面还能不能签新的长协，每多一份长协，未来受价格波动的影响就会小很多；未被长协覆盖的产能就要随现货价格来波动了。 2）看长协的执行程度了，是不是都能完成履行完成。或者还有未披露的隐藏条款",
-      "url": "https://x.com/qinbafrank/status/2088296492373319716",
-      "tweet_id": "2088296492373319716"
     },
     {
       "id": "tweet_xiaomustock_2088393308204888411",
@@ -229,8 +199,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
