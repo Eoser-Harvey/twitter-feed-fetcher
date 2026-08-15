@@ -1,36 +1,15 @@
 {
-  "fetched_at": "2026-08-15T02:54:29.770502+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-15T03:42:01.808412+00:00",
+  "total": 21,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2088445767673369044",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 15 Aug 2026 02:00:47 GMT",
-      "content": "Any censorship required by governments is now clearly visible",
-      "url": "https://x.com/elonmusk/status/2088445767673369044",
-      "tweet_id": "2088445767673369044",
-      "translated": "政府要求的任何审查现在都清晰可见"
-    },
-    {
-      "id": "tweet_elonmusk_2088374532935414218",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 14 Aug 2026 21:17:43 GMT",
-      "content": "RT by @elonmusk: \"I used to always wonder about my reach and visibility and was convinced something was wrong with my account. But it turns out my assumptions were wrong.\" Now you can check & verify.",
-      "url": "https://x.com/elonmusk/status/2088374532935414218",
-      "tweet_id": "2088374532935414218",
-      "translated": "@elonmusk 的转发：“我曾经总是想知道我的影响力和知名度，并确信我的帐户出了问题。但事实证明我的假设是错误的。”现在您可以检查和验证。"
-    },
-    {
-      "id": "tweet_elonmusk_2088443051890917436",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 15 Aug 2026 01:49:59 GMT",
-      "content": "Grok 4.6 now in Copilot",
-      "url": "https://x.com/elonmusk/status/2088443051890917436",
-      "tweet_id": "2088443051890917436",
-      "translated": "Grok 4.6 现已在 Copilot 中"
+      "id": "tweet_cz_binance_2088465599693545945",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sat, 15 Aug 2026 03:19:35 GMT",
+      "content": "👏",
+      "url": "https://x.com/cz_binance/status/2088465599693545945",
+      "tweet_id": "2088465599693545945"
     },
     {
       "id": "tweet_cz_binance_2087971745190044010",
@@ -51,16 +30,6 @@
       "url": "https://x.com/cz_binance/status/2087941099793027110",
       "tweet_id": "2087941099793027110",
       "translated": "一个好的钱包应该过滤掉这些有毒地址。"
-    },
-    {
-      "id": "tweet_cz_binance_2087853268982476896",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 13 Aug 2026 10:46:24 GMT",
-      "content": "RT by @cz_binance: 🔥 JUST IN: Binance bStocks has overtaken xStocks to become the second-largest tokenized stock issuer, with $610.6M in value. Ondo remains the market leader at roughly $927M, per Token Terminal.",
-      "url": "https://x.com/cz_binance/status/2087853268982476896",
-      "tweet_id": "2087853268982476896",
-      "translated": "RT @cz_binance：🔥 刚刚报道：Binance bStocks 已超越 xStocks，成为第二大代币化股票发行商，价值 6.106 亿美元。 Ondo 仍以每个令牌终端约 9.27 亿美元的价格保持市场领先地位。"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
@@ -92,6 +61,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2088457278928412812",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sat, 15 Aug 2026 02:46:31 GMT",
+      "content": "US Government urges $AAPL not to buy Chinese memory chips. $MU, $SKHY, and Samsung are happy to hear this... Hilariously enough, CXMT/YMTC is price hiking too, so it's not exactly \"cheap Chinese memory that floods the market\". Apple once upon a time actually had extreme supplier leverage before the AI boom.",
+      "url": "https://x.com/aleabitoreddit/status/2088457278928412812",
+      "tweet_id": "2088457278928412812",
+      "translated": "美国政府敦促苹果公司不要购买中国存储芯片。 $MU、$SKHY 和三星很高兴听到这个消息……有趣的是，CXMT/YMTC 也在涨价，所以这并不完全是“廉价的中国内存充斥市场”。在人工智能繁荣之前，苹果曾一度拥有极高的供应商影响力。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2088226398708338889",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,16 +89,6 @@
       "url": "https://x.com/aleabitoreddit/status/2088181416148562017",
       "tweet_id": "2088181416148562017",
       "translated": "唐纳德·特朗普签署公告，加强美国无人机供应链。使 $UMAC 等美国无人机零部件供应商和 $ONDS + $RCAT 等无人机制造商受益。 TLDR，对以下产品征收 100% 关税： - UAS 对接站 + 某些关键部件 - 大于 25 公斤无人机的某些部件 - 大于 25 公斤的无人机 对以下产品征收 25% 关税： - 更广泛的部件 UAS = 无人机系统（以上任何位置都没有任何职位）"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2088115008827715971",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 14 Aug 2026 04:06:28 GMT",
-      "content": "Feels like glass substrate timelines got pushed back at least another quarter. - \"Samsung Electro-Mechanics Delays Semiconductor Glass Substrate Investment\" due to a bottleneck in customer reliability evaluations of prototypes. At its recent second-quarter earnings presentation, less than a month later, the company revised the start of operations to 2028. - \"SKC Reportedly Pushes Glass Substrate Mass Production to 2027, Targets Final Validation by Year-end\" (Trendforce), earlier last month. TLDR: - SKC Absolics H2 2026 -> H1 2027 - Samsung H2 2027 -> H1 2028 Not everything is always good news with timeline shifts, but glass core substrate shifts do feel imminent. Volume ramp for some players eg. $LPK / Philoptics (161580) / E&R (8027) likely track these mass production timelines.",
-      "url": "https://x.com/aleabitoreddit/status/2088115008827715971",
-      "tweet_id": "2088115008827715971",
-      "translated": "感觉玻璃基板的时间表至少又推迟了一个季度。 - 由于客户原型可靠性评估遇到瓶颈，“三星机电推迟了半导体玻璃基板投资”。不到一个月后，在最近的第二季度收益报告中，该公司将运营起始时间修改为 2028 年。 - 上个月早些时候，“据报道 SKC 将玻璃基板批量生产推迟到 2027 年，目标是在年底进行最终验证”（Trendforce）。 TLDR： - SKC Absolics H2 2026 -> H1 2027 - Samsung H2 2027 -> H1 2028 随着时间线的变化，并非一切总是好消息，但玻璃芯基板的变化确实迫在眉睫。某些玩家的音量斜坡，例如。 $LPK / Philoptics (161580) / E&R (8027) 可能会跟踪这些大规模生产时间表。"
     },
     {
       "id": "tweet_qinbafrank_2088440795384930410",
@@ -231,8 +200,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
