@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-15T20:25:20.184899+00:00",
+  "fetched_at": "2026-08-15T21:24:14.700675+00:00",
   "total": 21,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2088678349359263929",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 15 Aug 2026 17:24:58 GMT",
+      "content": "RT by @elonmusk: Grok Build mode is so much fun! I made a few quick games for my nephew in just minutes using simple one-line prompts, all from the Grok iOS app on my iPhone. This is honestly one of the coolest things ever!",
+      "url": "https://x.com/elonmusk/status/2088678349359263929",
+      "tweet_id": "2088678349359263929",
+      "translated": "RT @elonmusk：Grok 构建模式非常有趣！我使用简单的一行提示，在短短几分钟内为我的侄子制作了一些快速游戏，所有这些都来自我 iPhone 上的 Grok iOS 应用程序。老实说，这是有史以来最酷的事情之一！"
+    },
+    {
+      "id": "tweet_elonmusk_2088325401638809902",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 14 Aug 2026 18:02:29 GMT",
+      "content": "RT by @elonmusk: Frontier lab ARR crossed combined Windows + Office revenue in late June of this year (on our estimates). They are toppling the Titans.",
+      "url": "https://x.com/elonmusk/status/2088325401638809902",
+      "tweet_id": "2088325401638809902",
+      "translated": "RT @elonmusk：Frontier 实验室 ARR 于今年 6 月底跨越了 Windows + Office 总收入（根据我们的估计）。他们正在推翻泰坦。"
+    },
+    {
+      "id": "tweet_elonmusk_2088667797760979174",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 15 Aug 2026 16:43:03 GMT",
+      "content": "RT by @elonmusk: You don’t need to waste an hour digging through your Mac’s settings trying to figure out what’s wrong with your laptop Grok Build is insanely capable....just tell Grok Build what’s broken and let it investigate the machine for you You can try things like: • Trackpad suddenly behaving weird • Battery draining ridiculously fast • Microphone isn't working in calls. Diagnose it • Some random website sending Chrome notifications every 10 seconds • External monitor runs at 60Hz but supports 144Hz. Fix it • Mac running hot or slowing down • An app constantly crashing • Something keeping your Mac awake or eating all your CPU? You might have absolutely no idea where the setting is or even what’s causing the problem Grok Build can inspect the system, find the culprit and, with the right tools/skills, actually take action Instead of Googling the problem → opening 20 tabs → digging through Settings → trying random fixes.... Just tell Grok Build what’s wrong and let it figure out the rest",
+      "url": "https://x.com/elonmusk/status/2088667797760979174",
+      "tweet_id": "2088667797760979174",
+      "translated": "RT by @elonmusk：您不需要浪费一个小时深入研究 Mac 的设置，试图找出笔记本电脑出了什么问题，Grok Build 的功能非常强大...只需告诉 Grok Build 出了什么问题，让它为您调查机器您可以尝试以下操作： • 触控板突然表现得很奇怪 • 电池消耗速度快得离谱 • 通话时麦克风无法工作。诊断 • 一些随机网站每 10 秒发送一次 Chrome 通知 • 外部显示器以 60Hz 运行，但支持 144Hz。修复问题 • Mac 运行过热或速度变慢 • 应用程序不断崩溃 • 某些因素让您的 Mac 保持唤醒状态或占用了所有 CPU？您可能完全不知道设置在哪里，甚至不知道是什么导致了问题 Grok Build 可以检查系统，找到罪魁祸首，并使用正确的工具/技能，实际采取行动而不是用谷歌搜索问题 → 打开 20 个选项卡 → 挖掘设置 → 尝试随机修复......只需告诉 Grok Build 出了什么问题，然后让它找出其余的问题"
+    },
     {
       "id": "tweet_cz_binance_2088545438328836149",
       "username": "cz_binance",
@@ -30,35 +60,6 @@
       "url": "https://x.com/cz_binance/status/2087971745190044010",
       "tweet_id": "2087971745190044010",
       "translated": "对于硬件钱包来说，这不是一个好月份。 Trezor 披露了其运输提供商的违规行为，影响了约 13,700 名最近的客户。 ~11.7K 的全名、电子邮件、电话和送货地址被暴露。 Trezor 系统/私钥没有受到损害。此次泄露直接将身份和物理地址与已知的加密货币持有者联系起来，从而造成严重的网络钓鱼、社会工程和潜在的物理安全风险。硬件钱包通常被认为比软件钱包“更安全”。虽然我仍然认为这在某些特定方面“总体上是正确的”，但这一事件强化了软件自我托管钱包（例如币安 Web3 钱包和 Trust 钱包）的优势，而无需购买和运输将用户的身份和地址与加密所有权相关联的物理设备。并不是说硬件钱包“不好”。只是风险状况不同。 YZiLabs 是许多硬件钱包的投资者。安全、隐私和便利有多种不同的形式。我们对社区的教育越多越好。 https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2082159711852298494",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
-      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
-      "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2088501133543407959",
