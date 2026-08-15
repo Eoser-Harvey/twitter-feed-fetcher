@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-15T19:23:59.264558+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-15T20:25:20.184899+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2088667797760979174",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 15 Aug 2026 16:43:03 GMT",
-      "content": "RT by @elonmusk: You don’t need to waste an hour digging through your Mac’s settings trying to figure out what’s wrong with your laptop Grok Build is insanely capable....just tell Grok Build what’s broken and let it investigate the machine for you You can try things like: • Trackpad suddenly behaving weird • Battery draining ridiculously fast • Microphone isn't working in calls. Diagnose it • Some random website sending Chrome notifications every 10 seconds • External monitor runs at 60Hz but supports 144Hz. Fix it • Mac running hot or slowing down • An app constantly crashing • Something keeping your Mac awake or eating all your CPU? You might have absolutely no idea where the setting is or even what’s causing the problem Grok Build can inspect the system, find the culprit and, with the right tools/skills, actually take action Instead of Googling the problem → opening 20 tabs → digging through Settings → trying random fixes.... Just tell Grok Build what’s wrong and let it figure out the rest",
-      "url": "https://x.com/elonmusk/status/2088667797760979174",
-      "tweet_id": "2088667797760979174",
-      "translated": "RT by @elonmusk：您不需要浪费一个小时深入研究 Mac 的设置，试图找出笔记本电脑出了什么问题，Grok Build 的功能非常强大...只需告诉 Grok Build 出了什么问题，让它为您调查机器您可以尝试以下操作： • 触控板突然表现得很奇怪 • 电池消耗速度快得离谱 • 通话时麦克风无法工作。诊断 • 一些随机网站每 10 秒发送一次 Chrome 通知 • 外部显示器以 60Hz 运行，但支持 144Hz。修复问题 • Mac 运行过热或速度变慢 • 应用程序不断崩溃 • 某些因素让您的 Mac 保持唤醒状态或占用了所有 CPU？您可能完全不知道设置在哪里，甚至不知道是什么导致了问题 Grok Build 可以检查系统，找到罪魁祸首，并使用正确的工具/技能，实际采取行动而不是用谷歌搜索问题 → 打开 20 个选项卡 → 挖掘设置 → 尝试随机修复......只需告诉 Grok Build 出了什么问题，然后让它找出其余的问题"
-    },
-    {
-      "id": "tweet_elonmusk_2088613126614757429",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 15 Aug 2026 13:05:48 GMT",
-      "content": "RT by @elonmusk: Posting my reply to @_sholtodouglas given that some of my comments about Anthropic on @theallinpod yesterday have been widely discussed here on X and I think the topic is important.",
-      "url": "https://x.com/elonmusk/status/2088613126614757429",
-      "tweet_id": "2088613126614757429",
-      "translated": "RT by @elonmusk：鉴于我昨天在 @theallinpod 上关于 Anthropic 的一些评论已在 X 上广泛讨论，所以发布我对 @_sholtodouglas 的回复，我认为这个话题很重要。"
-    },
-    {
-      "id": "tweet_elonmusk_2088411718628049370",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Fri, 14 Aug 2026 23:45:29 GMT",
-      "content": "RT by @elonmusk: Government-owned airports cannot favor one religion over all others. DFW plans to install Islamic wudu washing facilities are illegal. I've directed a review of all state grants to both airports for possible revocation, and referred DFW & IAH to USDOT for investigation. Texas will not allow illegal religious discrimination at taxpayer-funded facilities.",
-      "url": "https://x.com/elonmusk/status/2088411718628049370",
-      "tweet_id": "2088411718628049370",
-      "translated": "RT @elonmusk：政府拥有的机场不能偏袒某一宗教而不是所有其他宗教。 DFW 计划安装伊斯兰 wudu 洗涤设施是非法的。我已指示对这两个机场的所有州拨款进行审查，以可能撤销，并将 DFW 和 IAH 转交给美国交通部进行调查。德克萨斯州不允许在纳税人资助的设施中存在非法宗教歧视。"
-    },
     {
       "id": "tweet_cz_binance_2088545438328836149",
       "username": "cz_binance",
@@ -59,7 +29,7 @@
       "content": "Not a great month for hardware wallets. Trezor disclosed a breach at its shipping provider affecting ~13.7K recent customers. ~11.7K had full name, email, phone and shipping address exposed. Trezor systems/private keys were not compromised. The leak directly links identities and physical addresses to known crypto holders, creating significant phishing, social-engineering and potential physical-security risk. Hardware wallets are often considered \"more secure\" than software wallets. While I still think that is \"generally true\" in a few specific aspects, this incident reinforces an advantage of software self-custody wallets (such as Binance Web3 Wallet & Trust Wallet), without purchasing and shipping a physical device that links a user's identity and address to crypto ownership. Not saying hardware wallets are \"bad\". Just different risk profiles. YZiLabs is an investor in many hardware wallets. Security, privacy and convenience comes in many different shapes. The more we can educate our communities, the better. https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident",
       "url": "https://x.com/cz_binance/status/2087971745190044010",
       "tweet_id": "2087971745190044010",
-      "translated": "对于硬件钱包来说，这不是一个好月份。 Trezor 披露了其运输提供商的违规行为，影响了约 13,700 名最近的客户。 ~11.7K 的全名、电子邮件、电话和送货地址被暴露。 Trezor 系统/私钥没有受到损害。此次泄露直接将身份和物理地址与已知的加密货币持有者联系起来，从而造成严重的网络钓鱼、社会工程和潜在的物理安全风险。硬件钱包通常被认为比软件钱包“更安全”。虽然我仍然认为这在某些特定方面“总体上是正确的”，但这一事件强化了软件自我托管钱包（例如币安 Web3 钱包和 Trust 钱包）的优势，而无需购买和运输将用户的身份和地址与加密货币所有权相关联的物理设备。并不是说硬件钱包“不好”。只是风险状况不同。 YZiLabs 是许多硬件钱包的投资者。安全、隐私和便利有多种不同的形式。我们对社区的教育越多越好。 https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident"
+      "translated": "对于硬件钱包来说，这不是一个好月份。 Trezor 披露了其运输提供商的违规行为，影响了约 13,700 名最近的客户。 ~11.7K 的全名、电子邮件、电话和送货地址被暴露。 Trezor 系统/私钥没有受到损害。此次泄露直接将身份和物理地址与已知的加密货币持有者联系起来，从而造成严重的网络钓鱼、社会工程和潜在的物理安全风险。硬件钱包通常被认为比软件钱包“更安全”。虽然我仍然认为这在某些特定方面“总体上是正确的”，但这一事件强化了软件自我托管钱包（例如币安 Web3 钱包和 Trust 钱包）的优势，而无需购买和运输将用户的身份和地址与加密所有权相关联的物理设备。并不是说硬件钱包“不好”。只是风险状况不同。 YZiLabs 是许多硬件钱包的投资者。安全、隐私和便利有多种不同的形式。我们对社区的教育越多越好。 https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
@@ -229,8 +199,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
