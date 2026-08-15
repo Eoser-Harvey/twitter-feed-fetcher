@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-15T08:32:01.026946+00:00",
+  "fetched_at": "2026-08-15T09:29:12.268824+00:00",
   "total": 24,
   "tweets": [
     {
@@ -33,6 +33,16 @@
       "translated": "Grok 4.6 运行 The Gauntlet"
     },
     {
+      "id": "tweet_cz_binance_2088545438328836149",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sat, 15 Aug 2026 08:36:50 GMT",
+      "content": "Bitcoin surpassed 20.07 million coins mined as of August 2026, leaving only 4.4% more supply. I'd estimate 10-20% of existing bitcoins are lost/stuck/unrecoverable. It's a deflationary asset.",
+      "url": "https://x.com/cz_binance/status/2088545438328836149",
+      "tweet_id": "2088545438328836149",
+      "translated": "截至 2026 年 8 月，比特币开采量已超过 2007 万枚，供应量仅增加 4.4%。我估计 10-20% 的现有比特币丢失/卡住/无法恢复。这是一种通货紧缩资产。"
+    },
+    {
       "id": "tweet_cz_binance_2088465599693545945",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
@@ -50,16 +60,6 @@
       "url": "https://x.com/cz_binance/status/2087971745190044010",
       "tweet_id": "2087971745190044010",
       "translated": "对于硬件钱包来说，这不是一个好月份。 Trezor 披露了其运输提供商的违规行为，影响了约 13,700 名最近的客户。 ~11.7K 的全名、电子邮件、电话和送货地址被暴露。 Trezor 系统/私钥没有受到损害。此次泄露直接将身份和物理地址与已知的加密货币持有者联系起来，从而造成严重的网络钓鱼、社会工程和潜在的物理安全风险。硬件钱包通常被认为比软件钱包“更安全”。虽然我仍然认为这在某些特定方面“总体上是正确的”，但这一事件强化了软件自我托管钱包（例如币安 Web3 钱包和 Trust 钱包）的优势，而无需购买和运输将用户的身份和地址与加密货币所有权相关联的物理设备。并不是说硬件钱包“不好”。只是风险状况不同。 YZiLabs 是许多硬件钱包的投资者。安全、隐私和便利有多种不同的形式。我们对社区的教育越多越好。 https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident"
-    },
-    {
-      "id": "tweet_cz_binance_2087941099793027110",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 13 Aug 2026 16:35:24 GMT",
-      "content": "A good wallet should filter these poison addresses out.",
-      "url": "https://x.com/cz_binance/status/2087941099793027110",
-      "tweet_id": "2087941099793027110",
-      "translated": "一个好的钱包应该过滤掉这些有毒地址。"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
@@ -120,6 +120,15 @@
       "translated": "$SHKY、Samsung、$SNDK、$MU 内存瓶颈从未改变过"
     },
     {
+      "id": "tweet_qinbafrank_2088554410159059441",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sat, 15 Aug 2026 09:12:29 GMT",
+      "content": "让普通人也能成为IP的创造者和所有者，过去IP大多掌握在大公司和专业机构手里。现在 AI 把创作门槛打下来了，但“证明是我做的、我能持续从中赚钱”这件事仍然很难。Minicoin想解决的就是这个痛点：你用AI做出来的东西，可以立刻变成可交易、可赎回的资产；别人用了，收入自动用$MINI结算给你。它瞄准的市场不小——全球音乐、emoji/sticker、虚拟影响者这些领域加起来都是百亿美金级别，而且虚拟IP还在快速增长。 这就是Minicoin想做的事情——IP RWA网络，一套“IP上链 + 自动结算”的基础设施。 Minicoin把IP包装成可拥有、可交易、可赎回的链上资产： 1）创作端：创作者用Mini Labs提供的AI 工具生成 sticker、音乐、虚拟角色等内容。AI负责加速生产，平台负责把原创性证明上链。 2）资产端：每一份完整的IP被铸造成一个IP NFT（ERC-721）。这里有几个硬原则：不拆分、不碎片化，一个NFT对应一份完整IP；随时可以烧掉NFT 赎回链下真正的所有权；平台只做服务提供方，不运营、不抽成、不保证收入。 3）结算端：$MINI作为唯一的支付和结算代币。市场上有人使用或交易这份IP（比如买 sticker、听歌、用虚拟形象），中间件收到钱后转换成 $MINI，持有人可以批量领取。整个过程是pull模式，尽量压低gas成本。 4）底层：跑在Creditcoin上，借用它的RWA结算能力和链上信用记录。 简单说就是把“创作 → 拥有 → 被使用 → 收钱”这条链完整搬到链上，并且用可赎回的NFT把链上所有权和链下法律所有权绑在一起。 Mini Labs已经获得了 IPX 对 minini IP 的正式授权，可以使用 minini IP 做 ROOM 和相关内容。当然这不等于说IPX 或LINE FRIENDS发行、背书、担保 $MINI 看到$MINI正式登陆PenguinSwap Launchpad。这应该是Creditcoin生态里PenguinSwap的第一个 Launchpad 项目。对很多之前玩过ROOM、铸造过SBT、或者一直跟着 Minicoin 走的人来说，到现在有了更直接的入口。 ROOM、SBT、PenguinSwap Launchpad、minini 周边活动，目前都更像是增长工具。ROOM 是任务和小游戏入口，SBT是参与凭证，Launchpad是把 $MINI 推向更多人的场景，周边活动则是强化社区和IP感知。这些不是核心产品，而是在拉人、造参与感，给后面真正的IP RWA铺路。 目前项目还处于早期阶段，未来长期价值则取决于它能不能真正跑通从创作到收入的闭环真正的产品验证还在后面",
+      "url": "https://x.com/qinbafrank/status/2088554410159059441",
+      "tweet_id": "2088554410159059441"
+    },
+    {
       "id": "tweet_qinbafrank_2088499042875769258",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -136,15 +145,6 @@
       "content": "国家队系统性从老登股撤退。昨晚贵州茅台半年报里埋了条大新闻：中央汇金、证金公司，两大国家队双双退出毛茅台前十大股东。2015年三季度，证金公司和中央汇金\"救市二人组\"首次同时杀进茅台前十大股东，当时证金拿下2.99%股份坐第三大股东，汇金拿0.86%坐第七大股东，一轮教科书式的国家队护盘操作。十年后今年一季度这两家已经缩到汇金0.83%（第五）、证金0.32%（第十），直到二季度直接集体退出前十大股东行列； 与此同时，茅台二季度股东增长5.32万人达到29.64万人，国家队退场，散户进场。再往前看看，从25一季度到现在茅台的股东人数增长了10万人。 再多仔细看看，二季度国家队已经从贵州茅台、五粮液、泸州老窖、海天味业等消费股，兴业银行、招商银行、中国平安、海通证券/华泰证券等金融股，万科、保利、海螺、三一等地产基建股里都退出前十大流通股之列，可以说国家队是从老登股里系统性撤退了。 看二季度持仓数据最新披露、国家队还在前十大股东里，同时二季度持股比例相比一季度还在上升的就是三个板块：四大国有银行、核心硬科技与“新质生产力”龙头、能源及战略资源及高股息央企。",
       "url": "https://x.com/qinbafrank/status/2088440795384930410",
       "tweet_id": "2088440795384930410"
-    },
-    {
-      "id": "tweet_qinbafrank_2088298952198377533",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Fri, 14 Aug 2026 16:17:23 GMT",
-      "content": "R to @qinbafrank: 给出闪迪长协floor price估算的是伯恩斯坦（Bernstein）的芯片行业分析师Mark Newman",
-      "url": "https://x.com/qinbafrank/status/2088298952198377533",
-      "tweet_id": "2088298952198377533"
     },
     {
       "id": "tweet_xiaomustock_2088393308204888411",
@@ -231,6 +231,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
