@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-15T12:41:46.752743+00:00",
+  "fetched_at": "2026-08-15T13:32:58.882841+00:00",
   "total": 24,
   "tweets": [
     {
@@ -120,6 +120,15 @@
       "translated": "$SHKY、Samsung、$SNDK、$MU 内存瓶颈从未改变过"
     },
     {
+      "id": "tweet_qinbafrank_2088607266929082454",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sat, 15 Aug 2026 12:42:31 GMT",
+      "content": "又一家全栈AI平台，昨晚Cursor官方账号亲自官宣“Cursor，现在是 SpaceX 的一部分”，意味着SpaceX收购Cursor正式完成整合，很有可能Cursor这个名字未来也会消失变成，就是不知道会完全整合进Grok Build还是Grok Cursor，有一点应该比较确认未来Cursor新版会基于Grok大模型来构建（现在Cursor的代码模型还是基于kim2.5来构建的）。 4月份这里https://x.com/qinbafrank/status/2046741180063637687?s=46&t=k6rimWsEbo2D2tXolYcM-A有聊过SpaceX收购Cursor的意义和影响。 最近因为老马在二季度财报上讲话、很多人开始把SpaceX当作neocloud来看，其实6月份SpaceX跟Authropic和谷歌签署了算力出租协议之后、当时据说要把SpaceX当作NeoCloud的领头羊了。 不过现在SpaceX不仅是Neocloud，SpaceX已经集合了Grok4.6大模型、grok build/cursor两个VibeCoding工具、AI智能体 Grok Bot、能售卖自有API/Token、出租云算力、未来还要自研芯片，妥妥的晋级成与谷歌、微软（微软自研MAI只能算中等模型）、阿里一样的AI全栈平台。 因为这些业务进展，再加上上周财报之后股价的反弹，最近很多人对SpaceX又非常看好的了，8月6号还跟朋友聊到如果短线的话每次解禁后都是短期博弈的机会（很多人以为博弈的根源来自市场提前预期和计价这只是一方面，另一方面是每次每次解锁一批股份，流通股更大；然后在纳指100的权重也更大了、被动指数基数要买的更多了）。 但中长期的看法还是跟之前这里https://x.com/qinbafrank/status/2084826952633131152?s=46&t=k6rimWsEbo2D2tXolYcM-A最后部分聊到的：年底会迎来SpaceX中长周期的配置性机会。毕竟未来四个月内每隔一两周都有一波限售股解禁。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
+      "url": "https://x.com/qinbafrank/status/2088607266929082454",
+      "tweet_id": "2088607266929082454"
+    },
+    {
       "id": "tweet_qinbafrank_2088554410159059441",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -136,15 +145,6 @@
       "content": "英伟达CPO交换机全面量产，这应该光互连领域的大事件。昨天英伟达宣布Spectrum-X Ethernet Photonics已进入全面量产阶段，为面向AI工厂的下一代大规模扩展网络基础设施提供支持。 Spectrum-X Ethernet Photonics 是 NVIDIA Spectrum-X 以太网网络平台中的硅光子（Silicon Photonics）/共封装光学（CPO, Co-Packaged Optics）交换机技术，主要面向大规模 AI 工厂（AI Factory）和高性能 AI 数据中心场景。 它把硅光引擎与交换 ASIC 直接共封装在同一封装内，取代传统可插拔光模块，专为超大规模 GPU 集群的网络互联设计。 核心应用场景 1）大规模 AI 训练与推理集群 / AI 工厂：支持从数万到数十万甚至百万级 GPU 的互联，提供 GPU 到 GPU 的高带宽、低延迟、高有效带宽通信，特别适合生成式 AI、大模型训练和分布式推理。它能帮助实现“吉瓦级”（GW-scale）AI 基础设施，并提升整体能效与可靠性。 2）超大规模数据中心内部网络（就是通常称的Scale-out 网络）：解决传统以太网在超大规模 AI 负载下的功耗高、故障点多、信号完整性差等问题。相比传统可插拔收发器方案，它可实现约 5 倍网络能效提升、激光器数量减少约 4 倍、平均故障间隔时间（MTBI）提升约 10 倍，以及更长的 AI 应用持续运行时间。 平均故障间隔时间这一点很重要，云厂商采用cpo很大的一个考量就是故障率和故障间隔时间。 3）跨数据中心扩展（Scale-cross场景，结合 Spectrum-XGS）：也可配合相关技术，把分散的多个数据中心（甚至相距较远）连接成统一的大规模 AI 超级工厂。 这是英伟达专为“AI 工厂”这种需要海量 GPU 高速互联、极致能效和可靠性的场景打造的下一代网络基础设施。目前已进入全面量产，首批客户包括 CoreWeave、Lambda、Oracle 等。 供应链： TSMS负责硅光子制造 ； SPIL负责芯片级封装与测试； Lumentum提供激光芯片制造 ； TFC负责激光模块子组件组装 ； Foxconn 提供Communication交换系统组装 ； 8月初看好光互连很重要的一个原因就是当时看到英伟达高级副总裁 Gilad Shainer在一个技术论坛上宣布，CPO 已开始量产。现在终于看到官方正式宣布量产的公告了。",
       "url": "https://x.com/qinbafrank/status/2088499042875769258",
       "tweet_id": "2088499042875769258"
-    },
-    {
-      "id": "tweet_qinbafrank_2088440795384930410",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sat, 15 Aug 2026 01:41:01 GMT",
-      "content": "国家队系统性从老登股撤退。昨晚贵州茅台半年报里埋了条大新闻：中央汇金、证金公司，两大国家队双双退出毛茅台前十大股东。2015年三季度，证金公司和中央汇金\"救市二人组\"首次同时杀进茅台前十大股东，当时证金拿下2.99%股份坐第三大股东，汇金拿0.86%坐第七大股东，一轮教科书式的国家队护盘操作。十年后今年一季度这两家已经缩到汇金0.83%（第五）、证金0.32%（第十），直到二季度直接集体退出前十大股东行列； 与此同时，茅台二季度股东增长5.32万人达到29.64万人，国家队退场，散户进场。再往前看看，从25一季度到现在茅台的股东人数增长了10万人。 再多仔细看看，二季度国家队已经从贵州茅台、五粮液、泸州老窖、海天味业等消费股，兴业银行、招商银行、中国平安、海通证券/华泰证券等金融股，万科、保利、海螺、三一等地产基建股里都退出前十大流通股之列，可以说国家队是从老登股里系统性撤退了。 看二季度持仓数据最新披露、国家队还在前十大股东里，同时二季度持股比例相比一季度还在上升的就是三个板块：四大国有银行、核心硬科技与“新质生产力”龙头、能源及战略资源及高股息央企。",
-      "url": "https://x.com/qinbafrank/status/2088440795384930410",
-      "tweet_id": "2088440795384930410"
     },
     {
       "id": "tweet_xiaomustock_2088393308204888411",
@@ -231,6 +231,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 9
+    "nitter_healthy": 10
   }
 }
