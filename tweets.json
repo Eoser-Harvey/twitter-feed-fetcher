@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-08-15T14:25:38.378224+00:00",
+  "fetched_at": "2026-08-15T15:23:34.860664+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2088613126614757429",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 15 Aug 2026 13:05:48 GMT",
+      "content": "RT by @elonmusk: Posting my reply to @_sholtodouglas given that some of my comments about Anthropic on @theallinpod yesterday have been widely discussed here on X and I think the topic is important.",
+      "url": "https://x.com/elonmusk/status/2088613126614757429",
+      "tweet_id": "2088613126614757429",
+      "translated": "RT by @elonmusk：鉴于我昨天在 @theallinpod 上关于 Anthropic 的一些评论已在 X 上广泛讨论，所以发布我对 @_sholtodouglas 的回复，我认为这个话题很重要。"
+    },
     {
       "id": "tweet_elonmusk_2088411718628049370",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2088487331372089560",
       "tweet_id": "2088487331372089560",
       "translated": "RT by @elonmusk：如果您想学习如何运行一个：https://somethingbig.ai/gauntlet-loop Grok Build 工具可能是最好的，但您也可以在 Grok Bot 中运行它！"
-    },
-    {
-      "id": "tweet_elonmusk_2088484972965298489",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 15 Aug 2026 04:36:34 GMT",
-      "content": "Grok 4.6 runs The Gauntlet",
-      "url": "https://x.com/elonmusk/status/2088484972965298489",
-      "tweet_id": "2088484972965298489",
-      "translated": "Grok 4.6 运行 The Gauntlet"
     },
     {
       "id": "tweet_cz_binance_2088545438328836149",
@@ -59,7 +59,7 @@
       "content": "Not a great month for hardware wallets. Trezor disclosed a breach at its shipping provider affecting ~13.7K recent customers. ~11.7K had full name, email, phone and shipping address exposed. Trezor systems/private keys were not compromised. The leak directly links identities and physical addresses to known crypto holders, creating significant phishing, social-engineering and potential physical-security risk. Hardware wallets are often considered \"more secure\" than software wallets. While I still think that is \"generally true\" in a few specific aspects, this incident reinforces an advantage of software self-custody wallets (such as Binance Web3 Wallet & Trust Wallet), without purchasing and shipping a physical device that links a user's identity and address to crypto ownership. Not saying hardware wallets are \"bad\". Just different risk profiles. YZiLabs is an investor in many hardware wallets. Security, privacy and convenience comes in many different shapes. The more we can educate our communities, the better. https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident",
       "url": "https://x.com/cz_binance/status/2087971745190044010",
       "tweet_id": "2087971745190044010",
-      "translated": "对于硬件钱包来说，这不是一个好月份。 Trezor 披露了其运输提供商的违规行为，影响了约 13,700 名最近的客户。 ~11.7K 的全名、电子邮件、电话和送货地址被暴露。 Trezor 系统/私钥没有受到损害。此次泄露直接将身份和物理地址与已知的加密货币持有者联系起来，从而造成严重的网络钓鱼、社会工程和潜在的物理安全风险。硬件钱包通常被认为比软件钱包“更安全”。虽然我仍然认为这在某些特定方面“总体上是正确的”，但这一事件强化了软件自我托管钱包（例如币安 Web3 钱包和 Trust 钱包）的优势，而无需购买和运输将用户的身份和地址与加密货币所有权相关联的物理设备。并不是说硬件钱包“不好”。只是风险状况不同。 YZiLabs 是许多硬件钱包的投资者。安全、隐私和便利有多种不同的形式。我们对社区的教育越多越好。 https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident"
+      "translated": "对于硬件钱包来说，这不是一个好月份。 Trezor 披露了其运输提供商的违规行为，影响了约 13,700 名最近的客户。 ~11.7K 的全名、电子邮件、电话和送货地址被暴露。 Trezor 系统/私钥没有受到损害。此次泄露直接将身份和物理地址与已知的加密货币持有者联系起来，从而造成严重的网络钓鱼、社会工程和潜在的物理安全风险。硬件钱包通常被认为比软件钱包“更安全”。虽然我仍然认为这在某些特定方面“总体上是正确的”，但这一事件强化了软件自我托管钱包（例如币安 Web3 钱包和 Trust 钱包）的优势，而无需购买和运输将用户的身份和地址与加密所有权相关联的物理设备。并不是说硬件钱包“不好”。只是风险状况不同。 YZiLabs 是许多硬件钱包的投资者。安全、隐私和便利有多种不同的形式。我们对社区的教育越多越好。 https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
