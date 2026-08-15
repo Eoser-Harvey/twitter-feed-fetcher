@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-08-15T16:28:05.351456+00:00",
+  "fetched_at": "2026-08-15T17:22:16.804213+00:00",
   "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2088667797760979174",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 15 Aug 2026 16:43:03 GMT",
+      "content": "RT by @elonmusk: You don’t need to waste an hour digging through your Mac’s settings trying to figure out what’s wrong with your laptop Grok Build is insanely capable....just tell Grok Build what’s broken and let it investigate the machine for you You can try things like: • Trackpad suddenly behaving weird • Battery draining ridiculously fast • Microphone isn't working in calls. Diagnose it • Some random website sending Chrome notifications every 10 seconds • External monitor runs at 60Hz but supports 144Hz. Fix it • Mac running hot or slowing down • An app constantly crashing • Something keeping your Mac awake or eating all your CPU? You might have absolutely no idea where the setting is or even what’s causing the problem Grok Build can inspect the system, find the culprit and, with the right tools/skills, actually take action Instead of Googling the problem → opening 20 tabs → digging through Settings → trying random fixes.... Just tell Grok Build what’s wrong and let it figure out the rest",
+      "url": "https://x.com/elonmusk/status/2088667797760979174",
+      "tweet_id": "2088667797760979174",
+      "translated": "RT by @elonmusk：您不需要浪费一个小时深入研究 Mac 的设置，试图找出笔记本电脑出了什么问题，Grok Build 的功能非常强大...只需告诉 Grok Build 出了什么问题，让它为您调查机器您可以尝试以下操作： • 触控板突然表现得很奇怪 • 电池消耗速度快得离谱 • 通话时麦克风无法工作。诊断 • 一些随机网站每 10 秒发送一次 Chrome 通知 • 外部显示器以 60Hz 运行，但支持 144Hz。修复问题 • Mac 运行过热或速度变慢 • 应用程序不断崩溃 • 某些因素让您的 Mac 保持唤醒状态或占用了所有 CPU？您可能完全不知道设置在哪里，甚至不知道是什么导致了问题 Grok Build 可以检查系统，找到罪魁祸首，并使用正确的工具/技能，实际采取行动而不是用谷歌搜索问题 → 打开 20 个选项卡 → 挖掘设置 → 尝试随机修复......只需告诉 Grok Build 出了什么问题，然后让它找出其余的问题"
+    },
     {
       "id": "tweet_elonmusk_2088613126614757429",
       "username": "elonmusk",
@@ -21,16 +31,6 @@
       "url": "https://x.com/elonmusk/status/2088411718628049370",
       "tweet_id": "2088411718628049370",
       "translated": "RT @elonmusk：政府拥有的机场不能偏袒某一宗教而不是所有其他宗教。 DFW 计划安装伊斯兰 wudu 洗涤设施是非法的。我已指示对这两个机场的所有州拨款进行审查，以可能撤销，并将 DFW 和 IAH 转交给美国交通部进行调查。德克萨斯州不允许在纳税人资助的设施中存在非法宗教歧视。"
-    },
-    {
-      "id": "tweet_elonmusk_2088487331372089560",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 15 Aug 2026 04:45:56 GMT",
-      "content": "RT by @elonmusk: If you want to learn how to run one: https://somethingbig.ai/gauntlet-loop Grok Build harness is likely best but you can also run this in Grok Bot!",
-      "url": "https://x.com/elonmusk/status/2088487331372089560",
-      "tweet_id": "2088487331372089560",
-      "translated": "RT by @elonmusk：如果您想学习如何运行一个：https://somethingbig.ai/gauntlet-loop Grok Build 工具可能是最好的，但您也可以在 Grok Bot 中运行它！"
     },
     {
       "id": "tweet_cz_binance_2088545438328836149",
@@ -231,6 +231,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
