@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-16T10:25:44.840785+00:00",
+  "fetched_at": "2026-08-16T11:22:49.678375+00:00",
   "total": 24,
   "tweets": [
     {
@@ -10,7 +10,7 @@
       "content": "RT by @elonmusk: Falcon 9’s first stage lands on the Of Course I Still Love You droneship",
       "url": "https://x.com/elonmusk/status/2088808869728256385",
       "tweet_id": "2088808869728256385",
-      "translated": "RT @elonmusk：猎鹰 9 号的第一级降落在 Of Course I Still Love You 无人机上"
+      "translated": "RT @elonmusk：猎鹰 9 号的第一阶段降落在“当然我仍然爱你”无人机上"
     },
     {
       "id": "tweet_elonmusk_2088829945749311925",
@@ -91,6 +91,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2088947694886920409",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sun, 16 Aug 2026 11:15:15 GMT",
+      "content": "I feel like AI investing is simpler than what people expect. Because $NVDA + Jensen literally tells everyone what's coming. But somehow. Almost every. single. time. Markets dismiss it until it actually happens? Be Nvidia in 2025: Buys up EML and laser capacity. Markets dismissing it: \"Photonics is a bubble and like quantum! ____ company is a scam with shady management\" 1 year later: $LITE +678%, $AAOI +475.12%, $COHR +260.7%, $AXTI +3,843.9%. _ Nvidia in 2026: Buys up CW/EML capacity with LTAs. 800V shift. Extraordinary explicit about CPO shift. States Physical AI as the next theme. Markets now: \"CW players are meme stocks! 800v, CPO is not coming anytime soon, Humanoids are not profitable!\" Yeah... We'll see what happens in 2027. I think I'm putting my money on Jensen/Nvidia as the leading indicator.",
+      "url": "https://x.com/aleabitoreddit/status/2088947694886920409",
+      "tweet_id": "2088947694886920409",
+      "translated": "我觉得人工智能投资比人们想象的要简单。因为 $NVDA + Jensen 确实告诉了每个人即将发生的事情。但不知何故。几乎每一个。单身的。时间。在它真正发生之前，市场会忽视它吗？ 2025 年成为 Nvidia：收购 EML 和激光产能。市场对此不屑一顾：“光子学是一个泡沫，就像量子一样！____公司是一个管理不善的骗局”一年后：$LITE +678%、$AAOI +475.12%、$COHR +260.7%、$AXTI +3,843.9%。 _ Nvidia 2026 年：通过长期协议购买 CW/EML 产能。 800V 变速。关于 CPO 转变的非常明确。指出物理人工智能是下一个主题。现在的市场：“CW玩家都是meme股票！800v，CPO不会很快到来，Humanoids无法盈利！”是的……我们会看看 2027 年会发生什么。我想我会把钱押在 Jensen/Nvidia 上作为领先指标。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2088850910529323315",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -108,16 +118,6 @@
       "content": "说我归零的传闻未免也太夸张了吧 哈哈 经历了7月份AI板块的崩盘后，我的YTD收益依然还有 +2,411.84%",
       "url": "https://x.com/aleabitoreddit/status/2088501133543407959",
       "tweet_id": "2088501133543407959"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2088457278928412812",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sat, 15 Aug 2026 02:46:31 GMT",
-      "content": "US Government urges $AAPL not to buy Chinese memory chips. $MU, $SKHY, and Samsung are happy to hear this... Hilariously enough, CXMT/YMTC is price hiking too, so it's not exactly \"cheap Chinese memory that floods the market\". Apple once upon a time actually had extreme supplier leverage before the AI boom.",
-      "url": "https://x.com/aleabitoreddit/status/2088457278928412812",
-      "tweet_id": "2088457278928412812",
-      "translated": "美国政府敦促苹果公司不要购买中国存储芯片。 $MU、$SKHY 和三星很高兴听到这个消息……有趣的是，CXMT/YMTC 也在涨价，所以这并不完全是“廉价的中国内存充斥市场”。在人工智能繁荣之前，苹果曾一度拥有极高的供应商影响力。"
     },
     {
       "id": "tweet_qinbafrank_2088779670036897964",
