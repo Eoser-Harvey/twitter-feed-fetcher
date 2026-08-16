@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-16T12:42:54.020964+00:00",
+  "fetched_at": "2026-08-16T13:34:05.096242+00:00",
   "total": 24,
   "tweets": [
     {
@@ -174,6 +174,15 @@
       "tweet_id": "2088851644620615701"
     },
     {
+      "id": "tweet_xingpt_2088978936940437865",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Sun, 16 Aug 2026 13:19:24 GMT",
+      "content": "《牛来》是今年最神奇的电影了，极度粗糙的制作反而激发了审丑心理！ 票房现在已经是今年动画电影前十了",
+      "url": "https://x.com/xingpt/status/2088978936940437865",
+      "tweet_id": "2088978936940437865"
+    },
+    {
       "id": "tweet_xingpt_2088204125783703898",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -190,15 +199,6 @@
       "content": "md我的视频号被我爸发现了，现在发到家庭群里，以后还怎么搞抽象😂",
       "url": "https://x.com/xingpt/status/2088182863338557454",
       "tweet_id": "2088182863338557454"
-    },
-    {
-      "id": "tweet_xingpt_2088126498322686041",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Fri, 14 Aug 2026 04:52:07 GMT",
-      "content": "现在做AI短剧最好用的工具是什么啊？等待时间短，抽卡效率高的！用了几次即梦和loveart实在是体验太差了，一个排队几天都出不来（还不退credit），另一个抽卡几十次才能出来效果的十分之一。",
-      "url": "https://x.com/xingpt/status/2088126498322686041",
-      "tweet_id": "2088126498322686041"
     },
     {
       "id": "tweet_hibtc37_2088084341054435418",
