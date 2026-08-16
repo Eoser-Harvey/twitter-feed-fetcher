@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-16T18:32:10.450052+00:00",
+  "fetched_at": "2026-08-16T19:23:22.822030+00:00",
   "total": 24,
   "tweets": [
     {
@@ -10,7 +10,7 @@
       "content": "RT by @elonmusk: Falcon 9’s first stage lands on the Of Course I Still Love You droneship",
       "url": "https://x.com/elonmusk/status/2088808869728256385",
       "tweet_id": "2088808869728256385",
-      "translated": "RT @elonmusk：猎鹰 9 号的第一级降落在 Of Course I Still Love You 无人机上"
+      "translated": "RT @elonmusk：猎鹰 9 号的第一阶段降落在“当然我仍然爱你”无人机上"
     },
     {
       "id": "tweet_elonmusk_2088829945749311925",
@@ -92,6 +92,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2089057857652338993",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sun, 16 Aug 2026 18:33:00 GMT",
+      "content": "I think @elonmusk said it best: “Robots don’t all need to be humanoid. But a general-purpose robot intended to replace human labor should fit the world humans already built. Roger, roger.” Personally, I expect $TSLA Optimus form factor to converge to the right image.",
+      "url": "https://x.com/aleabitoreddit/status/2089057857652338993",
+      "tweet_id": "2089057857652338993",
+      "translated": "我认为 @elonmusk 说得最好：“机器人并不需要都是人形的。但是一个旨在取代人类劳动力的通用机器人应该适合人类已经建造的世界。罗杰，罗杰。”就我个人而言，我预计 TSLA Optimus 外形尺寸能够收敛到正确的图像。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2088947694886920409",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,15 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2088850910529323315",
       "tweet_id": "2088850910529323315",
       "translated": "只是我发现有趣的一些内容的 TLDR： - $SNDK 到 2030 年的调整后毛利率预测为 80%，自投资者日起约 75% 的营业利润率和约 50% 调整后的 FCF 利润率。长期协议已达到 2028 年产量的 2/3。最低合同收入达到 $93B（MC 目前约为 $239B）...当您的收入/目标预计将在 4 年以后持续到 2030 年时，很难成为周期性股票。 - $CRWV 签署了 6 年旧 $NVDA A100 GPU 的合同，直到 2029 年。对于像 Nebius/Iren 这样的 Neoclouds 来说，这是积极的，因为它是例如的反驳。 Burry 折旧短论 - 传统 DRAM 毛利率，例如。预计到 2027 年，美光将达到史无前例的 95%，如果预测正确的话，根据 UBS 的解读，Nanya/Winbond 等传统/标准 DRAM 厂商的占比应该会超过 HBM GM。 -据报道，Anthropic 实现了 14 倍以上的同比增长，第二季度收入增长约为 2.4 倍，达到 >$11.5B。预计 2028 年的晚数将增长至 $190–200B。你们的前沿实验室一直在以惊人的速度发展，如果不增长的话就会令人担忧。 - 据报道，$NVDA 正在洽谈向 SB Energy（软银子公司）投资 3B 美元，并与 Apollo、BlackRock、Blackstone、Brookfield、Goldman 等公司共同发起了超过 500B 美元的计算融资活动。据报道，$NVDA Feynman 在 2028 年下半年转向 TSMC A16 + SoIC + 定制 HBM + CPO 每天都有更多 nvidia 新闻 - $MSFT Maia 300 讨论了 2027 年 $TSM 产能将超过 30 万台，并可扩展至 100 万台以上。最快九月揭晓。也许 $MRVL 应该会因这个消息而更加高兴。对于现在发生的事情： - 也许 GUC 适合微软当前的 ASIC 升级。 - 对于亚马逊一方来说，像 Alchip （我持有股票）这样的东西，现在可能正在通过 $AMZN ASIC 计划 H2 2026 进行增长……因此，查看超大规模 ASIC 增长时间表及其受益者可能是一个好主意。 - $TSM 先进封装副总裁表示，“未来几年，该行业可能不仅面临内存短缺，而且 ABF 基板供应紧张”......强调几年内内存 + ABF 基板的瓶颈。即使是上游的 abf 基材设备供应商也很高兴，例如。使用真空层压设备的长兴精工表示，订单激增，工厂已满负荷运转，价格上涨20%以上。 - $AMAT 预计先进封装收入在 2026 年将增长 >70%，而之前的增长 >50%，并表示客户讨论现在一直延伸到 2030 年（不太熟悉这家公司，但发现他们的增长率从 2025 年第四季度开始 $6.8B ->$7.01B -> 7.91B -> $9.12B -> $10.25B 2026 年第四季度的预测非常有趣） - Google在 OCP APAC 上表示，传统 48V 的空间已经耗尽。 $NVDA 详细介绍了 800VDC MGX 兼容机架 H2 2026（时间表，Delta / Lite-On 受益者） - 除了 $SNDK 之外，Nanya LTA 覆盖了 50% 的容量。长鑫存储上个月签署了多年的 DRAM 协议，因此整个内存行业似乎正在遵循与三大巨头相同的策略。 - 探针卡仍然是瓶颈，MPI（6223）表示，由于需求超过供应，他们的探针卡产能仍然得到充分利用。本周早些时候已经用 $AAOI、$SIVE 和 $LITE 讨论了 CW 激光瓶颈，但这是另一个有趣的问题。 - 根据 Nichidenbo，一些 MLCC/元件的交货时间已达到 36 周。你们三星电机，太阳诱电，村田，玩家听到这个应该很高兴吧。 TLDR：人工智能供应链进展顺利。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2088501133543407959",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sat, 15 Aug 2026 05:40:47 GMT",
-      "content": "说我归零的传闻未免也太夸张了吧 哈哈 经历了7月份AI板块的崩盘后，我的YTD收益依然还有 +2,411.84%",
-      "url": "https://x.com/aleabitoreddit/status/2088501133543407959",
-      "tweet_id": "2088501133543407959"
     },
     {
       "id": "tweet_qinbafrank_2089000142427091042",
