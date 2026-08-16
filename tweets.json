@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-16T11:22:49.678375+00:00",
+  "fetched_at": "2026-08-16T12:42:54.020964+00:00",
   "total": 24,
   "tweets": [
     {
@@ -10,7 +10,7 @@
       "content": "RT by @elonmusk: Falcon 9’s first stage lands on the Of Course I Still Love You droneship",
       "url": "https://x.com/elonmusk/status/2088808869728256385",
       "tweet_id": "2088808869728256385",
-      "translated": "RT @elonmusk：猎鹰 9 号的第一阶段降落在“当然我仍然爱你”无人机上"
+      "translated": "RT @elonmusk：猎鹰 9 号的第一级降落在 Of Course I Still Love You 无人机上"
     },
     {
       "id": "tweet_elonmusk_2088829945749311925",
@@ -120,6 +120,15 @@
       "tweet_id": "2088501133543407959"
     },
     {
+      "id": "tweet_qinbafrank_2088951781208605088",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Sun, 16 Aug 2026 11:31:30 GMT",
+      "content": "8月才是最好的夏天，12号本周三晚在OKX星球上跟@Mercy_okx做了一场直播对话，相当于把过去一段时间在X上聊过的内容重新做了一个梳理总结升华，聊的要点： 1、SpaceX的业务前景和解禁带来的筹码供给，需要分开判断。昨天正好https://x.com/qinbafrank/status/2088607266929082454?s=46&t=k6rimWsEbo2D2tXolYcM-A还聊到，SpaceX已经是全栈AI平台了业务发展越来越好、但是年底应该才是中长期配置的最好时机； 2、7月调整的关键不只是某个利空，而是高杠杆和拥挤交易形成的反向踩踏。最早是6月中这里https://x.com/qinbafrank/status/2072513357077524671?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到杠杆规模拥挤交易会在下半年引发去杠杆行情，7月中这里https://x.com/qinbafrank/status/2078055175030485427?s=46&t=k6rimWsEbo2D2tXolYcM-A也有一个梳理； 2、企业AI正在从“先用起来”进入成本管理和“分场景使用、多模型协同”阶段，云厂商可能从算力提供者，进一步成为企业AI落地的关键中间层。这一点在7月中https://x.com/qinbafrank/status/2076839550119444702?s=46&t=k6rimWsEbo2D2tXolYcM-A有详细聊过 3、8月才是最好的夏天，看好8月行情：存储仍有机会，但最暴力的上涨阶段可能已经过去；光互联及更上游环节值得跟踪；看好csp和软件。最早是7月底这里https://x.com/qinbafrank/status/2083185986616357116?s=46&t=k6rimWsEbo2D2tXolYcM-A有详细阐述对8月行情的看法； 8月初这里https://x.com/qinbafrank/status/2084449500744319334?s=46&t=k6rimWsEbo2D2tXolYcM-A也写过看好光互连的逻辑； 本周https://x.com/qinbafrank/status/2087395743946674296?s=46&t=k6rimWsEbo2D2tXolYcM-A也聊过空存的性价比已经不高了。 4、八月可以相对乐观，但不能忽略油价、长端收益率、选举和流动性风险。 5、BTC和黄金都需要关注配置区间、持有周期和风险条件，而不是只猜一个绝对点位。关于大饼6月份在okx星球直播的时候也聊到https://x.com/qinbafrank/status/2076212081032856062?s=46&t=k6rimWsEbo2D2tXolYcM-A 详细内容可以到OKX星球上看直播回放观看此直播回放：https://oyidl.net/ul/pVmeKDy 多谢@Mercy_okx @Haiteng_okx @okxchinese",
+      "url": "https://x.com/qinbafrank/status/2088951781208605088",
+      "tweet_id": "2088951781208605088"
+    },
+    {
       "id": "tweet_qinbafrank_2088779670036897964",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -136,15 +145,6 @@
       "content": "又一家全栈AI平台，昨晚Cursor官方账号亲自官宣“Cursor，现在是 SpaceX 的一部分”，意味着SpaceX收购Cursor正式完成整合，很有可能Cursor这个名字未来也会消失变成，就是不知道会完全整合进Grok Build还是Grok Cursor，有一点应该比较确认未来Cursor新版会基于Grok大模型来构建（现在Cursor的代码模型还是基于kim2.5来构建的）。 4月份这里https://x.com/qinbafrank/status/2046741180063637687?s=46&t=k6rimWsEbo2D2tXolYcM-A有聊过SpaceX收购Cursor的意义和影响。 最近因为老马在二季度财报上讲话、很多人开始把SpaceX当作neocloud来看，其实6月份SpaceX跟Authropic和谷歌签署了算力出租协议之后、当时据说要把SpaceX当作NeoCloud的领头羊了。 不过现在SpaceX不仅是Neocloud，SpaceX已经集合了Grok4.6大模型、grok build/cursor两个VibeCoding工具、AI智能体 Grok Bot、能售卖自有API/Token、出租云算力、未来还要自研芯片，妥妥的晋级成与谷歌、微软（微软自研MAI只能算中等模型）、阿里一样的AI全栈平台。 因为这些业务进展，再加上上周财报之后股价的反弹，最近很多人对SpaceX又非常看好的了，8月6号还跟朋友聊到如果短线的话每次解禁后都是短期博弈的机会（很多人以为博弈的根源来自市场提前预期和计价这只是一方面，另一方面是每次每次解锁一批股份，流通股更大；然后在纳指100的权重也更大了、被动指数基数要买的更多了）。 但中长期的看法还是跟之前这里https://x.com/qinbafrank/status/2084826952633131152?s=46&t=k6rimWsEbo2D2tXolYcM-A最后部分聊到的：年底会迎来SpaceX中长周期的配置性机会。毕竟未来四个月内每隔一两周都有一波限售股解禁。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
       "url": "https://x.com/qinbafrank/status/2088607266929082454",
       "tweet_id": "2088607266929082454"
-    },
-    {
-      "id": "tweet_qinbafrank_2088554410159059441",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Sat, 15 Aug 2026 09:12:29 GMT",
-      "content": "让普通人也能成为IP的创造者和所有者，过去IP大多掌握在大公司和专业机构手里。现在 AI 把创作门槛打下来了，但“证明是我做的、我能持续从中赚钱”这件事仍然很难。Minicoin想解决的就是这个痛点：你用AI做出来的东西，可以立刻变成可交易、可赎回的资产；别人用了，收入自动用$MINI结算给你。它瞄准的市场不小——全球音乐、emoji/sticker、虚拟影响者这些领域加起来都是百亿美金级别，而且虚拟IP还在快速增长。 这就是Minicoin想做的事情——IP RWA网络，一套“IP上链 + 自动结算”的基础设施。 Minicoin把IP包装成可拥有、可交易、可赎回的链上资产： 1）创作端：创作者用Mini Labs提供的AI 工具生成 sticker、音乐、虚拟角色等内容。AI负责加速生产，平台负责把原创性证明上链。 2）资产端：每一份完整的IP被铸造成一个IP NFT（ERC-721）。这里有几个硬原则：不拆分、不碎片化，一个NFT对应一份完整IP；随时可以烧掉NFT 赎回链下真正的所有权；平台只做服务提供方，不运营、不抽成、不保证收入。 3）结算端：$MINI作为唯一的支付和结算代币。市场上有人使用或交易这份IP（比如买 sticker、听歌、用虚拟形象），中间件收到钱后转换成 $MINI，持有人可以批量领取。整个过程是pull模式，尽量压低gas成本。 4）底层：跑在Creditcoin上，借用它的RWA结算能力和链上信用记录。 简单说就是把“创作 → 拥有 → 被使用 → 收钱”这条链完整搬到链上，并且用可赎回的NFT把链上所有权和链下法律所有权绑在一起。 Mini Labs已经获得了 IPX 对 minini IP 的正式授权，可以使用 minini IP 做 ROOM 和相关内容。当然这不等于说IPX 或LINE FRIENDS发行、背书、担保 $MINI 看到$MINI正式登陆PenguinSwap Launchpad。这应该是Creditcoin生态里PenguinSwap的第一个 Launchpad 项目。对很多之前玩过ROOM、铸造过SBT、或者一直跟着 Minicoin 走的人来说，到现在有了更直接的入口。 ROOM、SBT、PenguinSwap Launchpad、minini 周边活动，目前都更像是增长工具。ROOM 是任务和小游戏入口，SBT是参与凭证，Launchpad是把 $MINI 推向更多人的场景，周边活动则是强化社区和IP感知。这些不是核心产品，而是在拉人、造参与感，给后面真正的IP RWA铺路。 目前项目还处于早期阶段，未来长期价值则取决于它能不能真正跑通从创作到收入的闭环真正的产品验证还在后面",
-      "url": "https://x.com/qinbafrank/status/2088554410159059441",
-      "tweet_id": "2088554410159059441"
     },
     {
       "id": "tweet_xiaomustock_2088865695320928754",
