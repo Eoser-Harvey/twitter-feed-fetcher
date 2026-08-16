@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-16T04:38:51.516230+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-16T05:31:41.828543+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2088740832266306033",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 15 Aug 2026 21:33:15 GMT",
-      "content": "RT by @elonmusk: Okay I am convinced that I don’t think I need my OpenClaw or Hermes anymore bc of Grok Bot. 😬 It has a “can-do” attitude that other LLMs protect themselves from doing plus a thoughtfully designed hosted desktop and mobile experience that is incredible.",
-      "url": "https://x.com/elonmusk/status/2088740832266306033",
-      "tweet_id": "2088740832266306033",
-      "translated": "RT @elonmusk：好吧，我确信我不再需要我的 OpenClaw 或 Hermes 了，因为有了 Grok Bot。 😬 它具有其他法学硕士保护自己不做的“我能做”的态度，再加上精心设计的令人难以置信的托管桌面和移动体验。"
-    },
-    {
-      "id": "tweet_elonmusk_2088468642438521212",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 15 Aug 2026 03:31:40 GMT",
-      "content": "RT by @elonmusk: Grok Bot can be configured to use your CLI's in it's computer. It can connect to your locally hosted memory systems, it can connect to and control your agent-fleet across all computers you own via SSH. Grok Bot as the Orchestrator. I had Grok Bot make itself a plugin so any bots I create can automatically use my custom memory system (called Hindsightly) to coordinate any agents for me.",
-      "url": "https://x.com/elonmusk/status/2088468642438521212",
-      "tweet_id": "2088468642438521212",
-      "translated": "RT by @elonmusk：Grok Bot 可以配置为在其计算机中使用 CLI。它可以连接到您本地托管的内存系统，它可以通过 SSH 连接到您拥有的所有计算机并控制您的代理队列。 Grok Bot 作为协调器。我让 Grok Bot 将自己打造成一个插件，这样我创建的任何机器人都可以自动使用我的自定义内存系统（称为 Hindsightly）来为我协调任何代理。"
-    },
-    {
-      "id": "tweet_elonmusk_2088781747911819519",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 16 Aug 2026 00:15:51 GMT",
-      "content": "Tesla cars sold in America are the most made in America of any cars",
-      "url": "https://x.com/elonmusk/status/2088781747911819519",
-      "tweet_id": "2088781747911819519",
-      "translated": "在美国销售的特斯拉汽车是美国制造最多的汽车"
-    },
     {
       "id": "tweet_cz_binance_2088545438328836149",
       "username": "cz_binance",
@@ -91,6 +61,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2088850910529323315",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Sun, 16 Aug 2026 04:50:40 GMT",
+      "content": "Just some TLDRs of stuff I found interesting: - $SNDK 80% adjusted gross margins projections through 2030, ~75% operating margins and ~50% adjusted FCF margins from investor day. LTAs already 2/3rd of 2028 output. Minimum contracted revenue reaches $93B (MC is currently ~$239B)... Hard to be a cyclical stock when your revenue/targets are expected to continue 4Y later into 2030. - $CRWV signs contracts for 6Y old $NVDA A100 GPUs through 2029. For Neoclouds like Nebius/Iren, this is positive, since it's a counterargument for eg. Burry depreciation short thesis - conventional DRAM gross margins eg. Micron is estimated to reach an unprecedented 95% by 2027, surpassing HBM GMs per UBS read through for legacy/standard dram players like Nanya/Winbond should go brrrr if projections are correct. - Anthropic reportedly achieved 14x+ YoY growth and roughly 2.4x sequential revenue growth q2 to >$11.5B,. estimating growth to $190–200B in 2028r evenue numbers. Your frontier labs keep growing at stupidly fast paces, it would be worrisome if they didnt. - $NVDA reportedly in talks to invest $3B in SB Energy (Softbank subsidiary), creates a >$500B compute financing push with Apollo, BlackRock, Blackstone, Brookfield, Goldman, and others. $NVDA Feynman reportedly moves to TSMC A16 + SoIC + custom HBM + CPO in H2 2028 Just more nvidia news every day - $MSFT Maia 300 discussed $TSM capacity for >300k units in 2027, with expansion to 1m+. Unveils as soon as September. Likely $MRVL should be more happy from this news. For what's happening right now: - maybe GUC for Microsoft current ASIC ramp. - For the Amazon party, stuff like Alchip (I do own shares), likely is ramping now with $AMZN ASIC program H2 2026... So might be a good idea to look at hyperscaler ASIC ramp timelines + their beneficiaries. - $TSM VP of Advanced Packaging stated \"the industry is likely to face not only memory shortages but also tight ABF substrate supply over the next few years\"... Emphasis on few years for memory + ABF substrates for bottlenecks. Even upstream abf substrate equipment providers are happy, eg. Eternal Precision which uses vacuum lamination equipment stated orders surged, their plants have been running at full capacity, and 20%+ price hikes. - $AMAT expects advanced packaging revenue to grow >70% in 2026, versus prior >50%, and said customer discussions now extend all the way to 2030 (not too familiar with this company, but found their growth rate from 2025 Q4 $6.8B ->$7.01B -> 7.91B -> $9.12B -> $10.25B Q4 2026 projections pretty interesting) - Google said at OCP APAC said conventional 48V is running out of headroom. $NVDA detailed an 800VDC MGX-compatible rack H2 2026 (timeline, Delta / Lite-On beneficaries) - Aside from $SNDK, Nanya LTAs cover 50% of capacity. CXMT signed multi-year DRAM agreements last month, so entire memory industry seems to be following same playbook as ur big 3. - Probe cards remain a bottleneck, MPI(6223) said their probe card capacity remains fully utilized because demand exceeds supply. Already covered the CW laser bottleneck with $AAOI, $SIVE, and $LITE earlier this week, but that's another fun one. - some MLCC/component lead times have hit 36 weeks per Nichidenbo. Your Samsung Electro-Mechanics, Taiyo Yuden, Murata, players should be very happy to hear this. TLDR: AI supply chains go brrr.",
+      "url": "https://x.com/aleabitoreddit/status/2088850910529323315",
+      "tweet_id": "2088850910529323315",
+      "translated": "只是我发现有趣的一些内容的 TLDR： - $SNDK 到 2030 年的调整后毛利率预测为 80%，自投资者日起约 75% 的营业利润率和约 50% 调整后的 FCF 利润率。长期协议已达到 2028 年产量的 2/3。最低合同收入达到 $93B（MC 目前约为 $239B）...当您的收入/目标预计将在 4 年以后持续到 2030 年时，很难成为周期性股票。 - $CRWV 签署了 6 年旧 $NVDA A100 GPU 的合同，直到 2029 年。对于像 Nebius/Iren 这样的 Neoclouds 来说，这是积极的，因为它是例如的反驳。 Burry 折旧短论 - 传统 DRAM 毛利率，例如。预计到 2027 年，美光将达到史无前例的 95%，如果预测正确的话，根据 UBS 的解读，Nanya/Winbond 等传统/标准 DRAM 厂商的占比应该会超过 HBM GM。 -据报道，Anthropic 实现了 14 倍以上的同比增长，第二季度收入增长约为 2.4 倍，达到 >$11.5B。预计 2028 年的晚数将增长至 $190–200B。你们的前沿实验室一直在以惊人的速度发展，如果不增长的话就会令人担忧。 - 据报道，$NVDA 正在洽谈向 SB Energy（软银子公司）投资 3B 美元，并与 Apollo、BlackRock、Blackstone、Brookfield、Goldman 等公司共同发起了超过 500B 美元的计算融资活动。据报道，$NVDA Feynman 在 2028 年下半年转向 TSMC A16 + SoIC + 定制 HBM + CPO 每天都有更多 nvidia 新闻 - $MSFT Maia 300 讨论了 2027 年 $TSM 产能将超过 30 万台，并可扩展至 100 万台以上。最快九月揭晓。也许 $MRVL 应该会因这个消息而更加高兴。对于现在发生的事情： - 也许 GUC 适合微软当前的 ASIC 升级。 - 对于亚马逊一方来说，像 Alchip （我持有股票）这样的东西，现在可能正在通过 $AMZN ASIC 计划 H2 2026 进行增长……因此，查看超大规模 ASIC 增长时间表及其受益者可能是一个好主意。 - $TSM 先进封装副总裁表示，“未来几年，该行业可能不仅面临内存短缺，而且 ABF 基板供应紧张”......强调几年内内存 + ABF 基板的瓶颈。即使是上游的 abf 基材设备供应商也很高兴，例如。使用真空层压设备的长兴精工表示，订单激增，工厂已满负荷运转，价格上涨20%以上。 - $AMAT 预计先进封装收入在 2026 年将增长 >70%，而之前的增长 >50%，并表示客户讨论现在一直延伸到 2030 年（不太熟悉这家公司，但发现他们的增长率从 2025 年第四季度开始 $6.8B ->$7.01B -> 7.91B -> $9.12B -> $10.25B 2026 年第四季度的预测非常有趣） - Google在 OCP APAC 上表示，传统 48V 的空间已经耗尽。 $NVDA 详细介绍了 800VDC MGX 兼容机架 H2 2026（时间表，Delta / Lite-On 受益者） - 除了 $SNDK 之外，Nanya LTA 覆盖了 50% 的容量。长鑫存储上个月签署了多年的 DRAM 协议，因此整个内存行业似乎正在遵循与三大巨头相同的策略。 - 探针卡仍然是瓶颈，MPI（6223）表示，由于需求超过供应，他们的探针卡产能仍然得到充分利用。本周早些时候已经用 $AAOI、$SIVE 和 $LITE 讨论了 CW 激光瓶颈，但这是另一个有趣的问题。 - 根据 Nichidenbo，一些 MLCC/元件的交货时间已达到 36 周。你们三星电机，太阳诱电，村田，玩家听到这个应该很高兴吧。 TLDR：人工智能供应链进展顺利。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2088501133543407959",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -108,16 +88,6 @@
       "url": "https://x.com/aleabitoreddit/status/2088457278928412812",
       "tweet_id": "2088457278928412812",
       "translated": "美国政府敦促苹果公司不要购买中国存储芯片。 $MU、$SKHY 和三星很高兴听到这个消息……有趣的是，CXMT/YMTC 也在涨价，所以这并不完全是“廉价的中国内存充斥市场”。在人工智能繁荣之前，苹果曾一度拥有极高的供应商影响力。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2088226398708338889",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Fri, 14 Aug 2026 11:29:05 GMT",
-      "content": "The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon",
-      "url": "https://x.com/aleabitoreddit/status/2088226398708338889",
-      "tweet_id": "2088226398708338889",
-      "translated": "$SHKY、Samsung、$SNDK、$MU 内存瓶颈从未改变过"
     },
     {
       "id": "tweet_qinbafrank_2088779670036897964",
@@ -147,6 +117,24 @@
       "tweet_id": "2088554410159059441"
     },
     {
+      "id": "tweet_xiaomustock_2088851644620615701",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Sun, 16 Aug 2026 04:53:35 GMT",
+      "content": "图一是你以为的牛来， 图二是实际的牛来。",
+      "url": "https://x.com/xiaomustock/status/2088851644620615701",
+      "tweet_id": "2088851644620615701"
+    },
+    {
+      "id": "tweet_xiaomustock_2088846462100910520",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Sun, 16 Aug 2026 04:33:00 GMT",
+      "content": "牛来这部电影可能是人类历史上最后一部手搓动漫电影！ 😂自此之后绝对绝版了， 绝对不可能有再比这个粗制滥造的电影进电影院看到。",
+      "url": "https://x.com/xiaomustock/status/2088846462100910520",
+      "tweet_id": "2088846462100910520"
+    },
+    {
       "id": "tweet_xiaomustock_2088393308204888411",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -154,24 +142,6 @@
       "content": "有个说法，现阶段英伟达主业是卖内存的， 他的gpu算力是赠送的。 降低了单柜的内存，那么英伟达拿到的内存总量不变能变相的卖出去更多的柜，让自己业绩好看点，能让财报看起来自己卖出去了很多算力。",
       "url": "https://x.com/xiaomustock/status/2088393308204888411",
       "tweet_id": "2088393308204888411"
-    },
-    {
-      "id": "tweet_xiaomustock_2088278388486312026",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Fri, 14 Aug 2026 14:55:40 GMT",
-      "content": "真开始定投spy和qqq，每次赚了就买一部分放着。 贵在坚持。",
-      "url": "https://x.com/xiaomustock/status/2088278388486312026",
-      "tweet_id": "2088278388486312026"
-    },
-    {
-      "id": "tweet_xiaomustock_2088278166557360573",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Fri, 14 Aug 2026 14:54:47 GMT",
-      "content": "什么都不缺了，全下来了",
-      "url": "https://x.com/xiaomustock/status/2088278166557360573",
-      "tweet_id": "2088278166557360573"
     },
     {
       "id": "tweet_xingpt_2088204125783703898",
@@ -229,8 +199,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
