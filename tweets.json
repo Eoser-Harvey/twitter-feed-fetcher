@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-16T05:31:41.828543+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-16T06:42:40.488821+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2088808869728256385",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 16 Aug 2026 02:03:37 GMT",
+      "content": "RT by @elonmusk: Falcon 9’s first stage lands on the Of Course I Still Love You droneship",
+      "url": "https://x.com/elonmusk/status/2088808869728256385",
+      "tweet_id": "2088808869728256385",
+      "translated": "RT @elonmusk：猎鹰 9 号的第一级降落在 Of Course I Still Love You 无人机上"
+    },
+    {
+      "id": "tweet_elonmusk_2088685079019364621",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 15 Aug 2026 17:51:43 GMT",
+      "content": "RT by @elonmusk: Elon Musk stood in a Hollywood living room in 2008, 12 days from bankruptcy, and pitched a $109,000 car to people who thought he was joking. His own Roadster is parked outside production unit 1 and he mentions it the way other men mention a bicycle. He explains the money first. Congress approved $25 billion to build energy-efficient vehicles, then the Big Three flew to Washington and asked for it to cover payroll on gas guzzlers instead. Congress said yes. “That gets them to about February,” he says. Tesla applied to the same fund for the thing the fund was actually written for: a cheaper car. Then comes the part nobody in the room registers. Tesla pays no dividends and never will, because every penny from every $109,000 Roadster goes into the next car down the price ladder. His salary is minimum wage. He doesn’t mention that the company has days of cash left, or that an emergency round has to close by Christmas Eve or it’s over. He talks about cell phones instead how the first ones cost a fortune, how you can’t reach the cheap version without selling the expensive one first. 100 cars built, and the 100th goes out Tuesday. He says he’ll hand over the keys himself. GM filed for bankruptcy 6 months later, and the man on minimum wage didn’t.",
+      "url": "https://x.com/elonmusk/status/2088685079019364621",
+      "tweet_id": "2088685079019364621",
+      "translated": "RT @elonmusk：2008 年，埃隆·马斯克 (Elon Musk) 站在好莱坞的客厅里，距离破产还有 12 天，向那些认为他在开玩笑的人推销一辆价值 109,000 美元的汽车。他自己的 Roadster 停在 1 号生产单元外，他提到它就像其他人提到自行车一样。他首先解释了钱的情况。国会批准了 250 亿美元用于制造节能汽车，然后三巨头飞往华盛顿并要求其支付高油耗汽车的工资。国会说是的。 “这会让他们到二月左右，”他说。特斯拉向同一个基金申请了该基金的实际用途：更便宜的汽车。然后是房间里没有人登记的部分。特斯拉不支付股息，也永远不会支付股息，因为每 109,000 美元的 Roadster 中的每一分钱都会花在价格阶梯上的下一辆汽车上。他的工资是最低工资。他没有提到公司还剩下几天的现金，也没有提到紧急融资必须在平安夜之前结束，否则就结束了。他谈论的是手机，而不是第一批手机如何花费一大笔钱，如果不先卖掉昂贵的手机就无法获得廉价版本。生产了 100 辆汽车，第 100 辆于周二下线。他说他会亲自交出钥匙。六个月后，通用汽车申请破产，而拿最低工资的人却没有申请破产。"
+    },
+    {
+      "id": "tweet_elonmusk_2088829945749311925",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 16 Aug 2026 03:27:22 GMT",
+      "content": "RT by @elonmusk: Ok Grok 4.6 is getting scary good. Games. 3D worlds. Game trailers. Even real-world 3D prints. 10 wild examples:",
+      "url": "https://x.com/elonmusk/status/2088829945749311925",
+      "tweet_id": "2088829945749311925",
+      "translated": "RT @elonmusk：好的 Grok 4.6 变得越来越好。游戏。 3D 世界。游戏预告片。甚至是现实世界的 3D 打印。 10个疯狂的例子："
+    },
     {
       "id": "tweet_cz_binance_2088545438328836149",
       "username": "cz_binance",
@@ -29,7 +59,7 @@
       "content": "Not a great month for hardware wallets. Trezor disclosed a breach at its shipping provider affecting ~13.7K recent customers. ~11.7K had full name, email, phone and shipping address exposed. Trezor systems/private keys were not compromised. The leak directly links identities and physical addresses to known crypto holders, creating significant phishing, social-engineering and potential physical-security risk. Hardware wallets are often considered \"more secure\" than software wallets. While I still think that is \"generally true\" in a few specific aspects, this incident reinforces an advantage of software self-custody wallets (such as Binance Web3 Wallet & Trust Wallet), without purchasing and shipping a physical device that links a user's identity and address to crypto ownership. Not saying hardware wallets are \"bad\". Just different risk profiles. YZiLabs is an investor in many hardware wallets. Security, privacy and convenience comes in many different shapes. The more we can educate our communities, the better. https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident",
       "url": "https://x.com/cz_binance/status/2087971745190044010",
       "tweet_id": "2087971745190044010",
-      "translated": "对于硬件钱包来说，这不是一个好月份。 Trezor 披露了其运输提供商的违规行为，影响了约 13,700 名最近的客户。 ~11.7K 的全名、电子邮件、电话和送货地址被暴露。 Trezor 系统/私钥没有受到损害。此次泄露直接将身份和物理地址与已知的加密货币持有者联系起来，从而造成严重的网络钓鱼、社会工程和潜在的物理安全风险。硬件钱包通常被认为比软件钱包“更安全”。虽然我仍然认为这在某些特定方面“总体上是正确的”，但这一事件强化了软件自我托管钱包（例如币安 Web3 钱包和 Trust 钱包）的优势，而无需购买和运输将用户的身份和地址与加密货币所有权相关联的物理设备。并不是说硬件钱包“不好”。只是风险状况不同。 YZiLabs 是许多硬件钱包的投资者。安全、隐私和便利有多种不同的形式。我们对社区的教育越多越好。 https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident"
+      "translated": "对于硬件钱包来说，这不是一个好月份。 Trezor 披露了其运输提供商的违规行为，影响了约 13,700 名最近的客户。 ~11.7K 的全名、电子邮件、电话和送货地址被暴露。 Trezor 系统/私钥没有受到损害。此次泄露直接将身份和物理地址与已知的加密货币持有者联系起来，从而造成严重的网络钓鱼、社会工程和潜在的物理安全风险。硬件钱包通常被认为比软件钱包“更安全”。虽然我仍然认为这在某些特定方面“总体上是正确的”，但这一事件强化了软件自我托管钱包（例如币安 Web3 钱包和 Trust 钱包）的优势，而无需购买和运输将用户的身份和地址与加密所有权相关联的物理设备。并不是说硬件钱包“不好”。只是风险状况不同。 YZiLabs 是许多硬件钱包的投资者。安全、隐私和便利有多种不同的形式。我们对社区的教育越多越好。 https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
@@ -117,6 +147,24 @@
       "tweet_id": "2088554410159059441"
     },
     {
+      "id": "tweet_xiaomustock_2088865695320928754",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Sun, 16 Aug 2026 05:49:25 GMT",
+      "content": "牛栏山酒厂母公司顺鑫农业的排卵区粪腾了。 全是牛来喊公司改名牛栏山😂",
+      "url": "https://x.com/xiaomustock/status/2088865695320928754",
+      "tweet_id": "2088865695320928754"
+    },
+    {
+      "id": "tweet_xiaomustock_2088860816561082475",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Sun, 16 Aug 2026 05:30:02 GMT",
+      "content": "差点我这艺术创作收不回来成本😂 买了一组从跌停板爆拉到涨停板， 再跌到跌停板的《牛来》座位票",
+      "url": "https://x.com/xiaomustock/status/2088860816561082475",
+      "tweet_id": "2088860816561082475"
+    },
+    {
       "id": "tweet_xiaomustock_2088851644620615701",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -124,24 +172,6 @@
       "content": "图一是你以为的牛来， 图二是实际的牛来。",
       "url": "https://x.com/xiaomustock/status/2088851644620615701",
       "tweet_id": "2088851644620615701"
-    },
-    {
-      "id": "tweet_xiaomustock_2088846462100910520",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Sun, 16 Aug 2026 04:33:00 GMT",
-      "content": "牛来这部电影可能是人类历史上最后一部手搓动漫电影！ 😂自此之后绝对绝版了， 绝对不可能有再比这个粗制滥造的电影进电影院看到。",
-      "url": "https://x.com/xiaomustock/status/2088846462100910520",
-      "tweet_id": "2088846462100910520"
-    },
-    {
-      "id": "tweet_xiaomustock_2088393308204888411",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Fri, 14 Aug 2026 22:32:19 GMT",
-      "content": "有个说法，现阶段英伟达主业是卖内存的， 他的gpu算力是赠送的。 降低了单柜的内存，那么英伟达拿到的内存总量不变能变相的卖出去更多的柜，让自己业绩好看点，能让财报看起来自己卖出去了很多算力。",
-      "url": "https://x.com/xiaomustock/status/2088393308204888411",
-      "tweet_id": "2088393308204888411"
     },
     {
       "id": "tweet_xingpt_2088204125783703898",
@@ -199,8 +229,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
-    "nitter_healthy": 10
+    "users_success": 8,
+    "users_failed": 0,
+    "nitter_healthy": 9
   }
 }
