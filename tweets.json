@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-17T17:29:18.931096+00:00",
+  "fetched_at": "2026-08-17T18:43:01.840818+00:00",
   "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2089388021154283625",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 17 Aug 2026 16:24:57 GMT",
-      "content": "Grok @Bot",
-      "url": "https://x.com/elonmusk/status/2089388021154283625",
-      "tweet_id": "2089388021154283625",
-      "translated": "格洛克@Bot"
-    },
-    {
-      "id": "tweet_elonmusk_2089223114416898288",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 17 Aug 2026 05:29:41 GMT",
-      "content": "RT by @elonmusk: OMG. I asked my Chief Engineer on Grok @bot to bring up the feature and it's done. 😳 I can text my @maticrobots now through my Grok @bot—anywhere and anytime.",
-      "url": "https://x.com/elonmusk/status/2089223114416898288",
-      "tweet_id": "2089223114416898288",
-      "translated": "RT @elonmusk：天啊。我请 Grok @bot 上的首席工程师提出该功能，结果就完成了。 😳 我现在可以随时随地通过我的 Grok @bot 给我的 @maticrobots 发短信。"
-    },
-    {
-      "id": "tweet_elonmusk_2089190230645432329",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 17 Aug 2026 03:19:00 GMT",
-      "content": "RT by @elonmusk: This is literally my new workflow now: Realtime Research → Grok Bot Planning & Orchestration→ Grok Bot Day-to-day Coding/Debug → Grok Build + Grok 4.6 Write & Run Tests → Grok Build + Grok 4.6 Complex Coding/Debug → GPT-5.6 Sol Frontend → Fable 5 Bookmark this.",
-      "url": "https://x.com/elonmusk/status/2089190230645432329",
-      "tweet_id": "2089190230645432329",
-      "translated": "RT by @elonmusk：这实际上是我现在的新工作流程：实时研究 → Grok Bot 规划和编排 → Grok Bot 日常编码/调试 → Grok Build + Grok 4.6 编写和运行测试 → Grok Build + Grok 4.6 复杂编码/调试 → GPT-5.6 Sol 前端 → Fable 5 将此添加为书签。"
-    },
     {
       "id": "tweet_cz_binance_2089395321382277319",
       "username": "cz_binance",
@@ -61,6 +31,35 @@
       "url": "https://x.com/cz_binance/status/2088999201246245153",
       "tweet_id": "2088999201246245153",
       "translated": "谨防网络钓鱼尝试！ 👇 披露：SafePal 是 YZiLabs 投资组合公司（少数投资者）。"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2082159711852298494",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
+      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
+      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
+      "tweet_id": "2082159711852298494",
+      "translated": "我们将把这位英雄的年轻人和他的家人带入白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2089355682286092748",
