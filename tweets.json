@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-17T10:34:43.585467+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-17T11:29:47.640483+00:00",
+  "total": 18,
   "tweets": [
     {
       "id": "tweet_elonmusk_2089223114416898288",
@@ -61,35 +61,6 @@
       "url": "https://x.com/cz_binance/status/2088861898267623765",
       "tweet_id": "2088861898267623765",
       "translated": "RT @cz_binance：严格来说，bitcoin:native 是反通货膨胀的，而不是纯粹的通货紧缩。新的硬币仍在被创造，因此总供应量仍在增长（尽管非常缓慢；当前的年通货膨胀率仅为约0.82％）。真正的通货紧缩需要供给减少。 binancecoin:native 是真正的通货紧缩，比比特币更严格。没有铸造新硬币。它的供应是在发布时创建的。持续发行量为零。最重要的是，主动销毁会永久销毁代币，因此总供应量随着时间的推移不断减少。 2026年7月15日第36季度销毁销毁1,615,828 BNB BEP-95实时销毁较少被提及。每笔交易的固定部分的 Gas 费都会实时自动燃烧。自启动以来，该活动已删除了大约 290,000 多个内容。"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2082159711852298494",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
-      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
-      "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2089264987328151637",
@@ -176,33 +147,6 @@
       "tweet_id": "2088865695320928754"
     },
     {
-      "id": "tweet_xingpt_2089290267820253402",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Mon, 17 Aug 2026 09:56:31 GMT",
-      "content": "继Circle之后，WLFI（usd1）也拿到了OCC的信托银行有条件允许牌照，这样WLFI可以自己保管储备资产而不用给Bitgo付钱，而且作为联邦层面的 OCC charter，对于交易所、金融机构、企业财资部门等客户而言，监管确定性会高很多，有机会进入机构市场",
-      "url": "https://x.com/xingpt/status/2089290267820253402",
-      "tweet_id": "2089290267820253402"
-    },
-    {
-      "id": "tweet_xingpt_2089260492456087901",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Mon, 17 Aug 2026 07:58:12 GMT",
-      "content": "为什么X的Subscribe订阅功能都是秒过？或者 1-2 天就给过了？ 我的审核了快一个月了都没过。这是什么算法问题吗",
-      "url": "https://x.com/xingpt/status/2089260492456087901",
-      "tweet_id": "2089260492456087901"
-    },
-    {
-      "id": "tweet_xingpt_2088992864839889285",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Sun, 16 Aug 2026 14:14:45 GMT",
-      "content": "Hyperliquid 居然没上Anthropic的盘前？",
-      "url": "https://x.com/xingpt/status/2088992864839889285",
-      "tweet_id": "2088992864839889285"
-    },
-    {
       "id": "tweet_hibtc37_2088084341054435418",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -231,8 +175,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 6,
+    "users_failed": 2,
     "nitter_healthy": 10
   }
 }
