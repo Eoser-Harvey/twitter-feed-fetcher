@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-17T08:53:00.844694+00:00",
-  "total": 15,
+  "fetched_at": "2026-08-17T09:44:14.553388+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2089223114416898288",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 17 Aug 2026 05:29:41 GMT",
+      "content": "RT by @elonmusk: OMG. I asked my Chief Engineer on Grok @bot to bring up the feature and it's done. 😳 I can text my @maticrobots now through my Grok @bot—anywhere and anytime.",
+      "url": "https://x.com/elonmusk/status/2089223114416898288",
+      "tweet_id": "2089223114416898288",
+      "translated": "RT @elonmusk：天啊。我请 Grok @bot 上的首席工程师提出该功能，结果就完成了。 😳 我现在可以随时随地通过我的 Grok @bot 给我的 @maticrobots 发短信。"
+    },
+    {
+      "id": "tweet_elonmusk_2089190230645432329",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 17 Aug 2026 03:19:00 GMT",
+      "content": "RT by @elonmusk: This is literally my new workflow now: Realtime Research → Grok Bot Planning & Orchestration→ Grok Bot Day-to-day Coding/Debug → Grok Build + Grok 4.6 Write & Run Tests → Grok Build + Grok 4.6 Complex Coding/Debug → GPT-5.6 Sol Frontend → Fable 5 Bookmark this.",
+      "url": "https://x.com/elonmusk/status/2089190230645432329",
+      "tweet_id": "2089190230645432329",
+      "translated": "RT by @elonmusk：这实际上是我现在的新工作流程：实时研究 → Grok Bot 规划和编排 → Grok Bot 日常编码/调试 → Grok Build + Grok 4.6 编写和运行测试 → Grok Build + Grok 4.6 复杂编码/调试 → GPT-5.6 Sol 前端 → Fable 5 将此添加为书签。"
+    },
+    {
+      "id": "tweet_elonmusk_2089176557747413105",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 17 Aug 2026 02:24:41 GMT",
+      "content": "Yes",
+      "url": "https://x.com/elonmusk/status/2089176557747413105",
+      "tweet_id": "2089176557747413105",
+      "translated": "是的"
+    },
     {
       "id": "tweet_cz_binance_2089217802955809198",
       "username": "cz_binance",
@@ -31,6 +61,35 @@
       "url": "https://x.com/cz_binance/status/2088861898267623765",
       "tweet_id": "2088861898267623765",
       "translated": "RT @cz_binance：严格来说，bitcoin:native 是反通货膨胀的，而不是纯粹的通货紧缩。新的硬币仍在被创造，因此总供应量仍在增长（尽管非常缓慢；当前的年通货膨胀率仅为约0.82％）。真正的通货紧缩需要供给减少。 binancecoin:native 是真正的通货紧缩，比比特币更严格。没有铸造新硬币。它的供应是在发布时创建的。持续发行量为零。最重要的是，主动销毁会永久销毁代币，因此总供应量随着时间的推移不断减少。 2026年7月15日第36季度销毁销毁1,615,828 BNB BEP-95实时销毁较少被提及。每笔交易的固定部分的 Gas 费都会实时自动燃烧。自启动以来，该活动已删除了大约 290,000 多个内容。"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2082159711852298494",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
+      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
+      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
+      "tweet_id": "2082159711852298494",
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2089264987328151637",
@@ -90,6 +149,33 @@
       "tweet_id": "2088779670036897964"
     },
     {
+      "id": "tweet_xiaomustock_2089220928840548847",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Mon, 17 Aug 2026 05:20:59 GMT",
+      "content": "始终坚信这一条， 如果机会足够伟大， 绝对显而易见随时都能上车， 而不会因为某个人是霉逼或者某个人某类人是反指而买入就下跌。 万事万物中的伟大机会都会遵循这个原则。 如果没有遵循说明不够伟大很垃圾。",
+      "url": "https://x.com/xiaomustock/status/2089220928840548847",
+      "tweet_id": "2089220928840548847"
+    },
+    {
+      "id": "tweet_xiaomustock_2089195093874061458",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Mon, 17 Aug 2026 03:38:20 GMT",
+      "content": "闪迪真是强的可怕， 正儿八经伟大的机会显而易见随时上车。 那天发100%回购新闻的时候盘面都没有瞬间大幅爆拉一步到位，而是几天时间持续不断的拉盘。",
+      "url": "https://x.com/xiaomustock/status/2089195093874061458",
+      "tweet_id": "2089195093874061458"
+    },
+    {
+      "id": "tweet_xiaomustock_2088865695320928754",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Sun, 16 Aug 2026 05:49:25 GMT",
+      "content": "牛栏山酒厂母公司顺鑫农业的排卵区粪腾了。 全是牛来喊公司改名牛栏山😂",
+      "url": "https://x.com/xiaomustock/status/2088865695320928754",
+      "tweet_id": "2088865695320928754"
+    },
+    {
       "id": "tweet_xingpt_2089260492456087901",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -145,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 5,
-    "users_failed": 3,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
