@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-16T22:23:37.841220+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-17T01:22:03.823680+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2089106964307460362",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 16 Aug 2026 21:48:08 GMT",
-      "content": "Intelligence/Joule will keep improving",
-      "url": "https://x.com/elonmusk/status/2089106964307460362",
-      "tweet_id": "2089106964307460362",
-      "translated": "智能/焦耳将不断进步"
-    },
-    {
-      "id": "tweet_elonmusk_2088808869728256385",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 16 Aug 2026 02:03:37 GMT",
-      "content": "RT by @elonmusk: Falcon 9’s first stage lands on the Of Course I Still Love You droneship",
-      "url": "https://x.com/elonmusk/status/2088808869728256385",
-      "tweet_id": "2088808869728256385",
-      "translated": "RT @elonmusk：猎鹰 9 号的第一级降落在 Of Course I Still Love You 无人机上"
-    },
-    {
-      "id": "tweet_elonmusk_2088829945749311925",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sun, 16 Aug 2026 03:27:22 GMT",
-      "content": "RT by @elonmusk: Ok Grok 4.6 is getting scary good. Games. 3D worlds. Game trailers. Even real-world 3D prints. 10 wild examples:",
-      "url": "https://x.com/elonmusk/status/2088829945749311925",
-      "tweet_id": "2088829945749311925",
-      "translated": "RT @elonmusk：好的 Grok 4.6 变得越来越好。游戏。 3D 世界。游戏预告片。甚至是现实世界的 3D 打印。 10个疯狂的例子："
-    },
     {
       "id": "tweet_cz_binance_2088999201246245153",
       "username": "cz_binance",
@@ -92,6 +62,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2089148883838611460",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Mon, 17 Aug 2026 00:34:43 GMT",
+      "content": "Stripe reportedly buys OpenRouter for $7 Billion. I think their orchestration is easy to replicate and switch from. And there's very little moat. But atm, OpenRouter has the userbase, valuable dataset, + momentum. What's your take... Yay or Nay for the payments firm?",
+      "url": "https://x.com/aleabitoreddit/status/2089148883838611460",
+      "tweet_id": "2089148883838611460",
+      "translated": "据报道，Stripe 以 70 亿美元收购了 OpenRouter。我认为他们的编排很容易复制和切换。而且护城河很少。但是 atm、OpenRouter 拥有用户群、有价值的数据集和动力。您对这家支付公司有何看法？是还是反对？"
+    },
+    {
       "id": "tweet_aleabitoreddit_2089057857652338993",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -110,16 +90,6 @@
       "url": "https://x.com/aleabitoreddit/status/2088947694886920409",
       "tweet_id": "2088947694886920409",
       "translated": "我觉得人工智能投资比人们想象的要简单。因为 $NVDA + Jensen 确实告诉了每个人即将发生的事情。但不知何故。几乎每一个。单身的。时间。在它真正发生之前，市场会忽视它吗？ 2025 年成为 Nvidia：收购 EML 和激光产能。市场对此不屑一顾：“光子学是一个泡沫，就像量子一样！____公司是一个管理不善的骗局”一年后：$LITE +678%、$AAOI +475.12%、$COHR +260.7%、$AXTI +3,843.9%。 _ Nvidia 2026 年：通过长期协议购买 CW/EML 产能。 800V 变速。关于 CPO 转变的非常明确。指出物理人工智能是下一个主题。现在的市场：“CW玩家都是meme股票！800v，CPO不会很快到来，Humanoids无法盈利！”是的……我们会看看 2027 年会发生什么。我想我会把钱押在 Jensen/Nvidia 上作为领先指标。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2088850910529323315",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sun, 16 Aug 2026 04:50:40 GMT",
-      "content": "Just some TLDRs of stuff I found interesting: - $SNDK 80% adjusted gross margins projections through 2030, ~75% operating margins and ~50% adjusted FCF margins from investor day. LTAs already 2/3rd of 2028 output. Minimum contracted revenue reaches $93B (MC is currently ~$239B)... Hard to be a cyclical stock when your revenue/targets are expected to continue 4Y later into 2030. - $CRWV signs contracts for 6Y old $NVDA A100 GPUs through 2029. For Neoclouds like Nebius/Iren, this is positive, since it's a counterargument for eg. Burry depreciation short thesis - conventional DRAM gross margins eg. Micron is estimated to reach an unprecedented 95% by 2027, surpassing HBM GMs per UBS read through for legacy/standard dram players like Nanya/Winbond should go brrrr if projections are correct. - Anthropic reportedly achieved 14x+ YoY growth and roughly 2.4x sequential revenue growth q2 to >$11.5B,. estimating growth to $190–200B in 2028r evenue numbers. Your frontier labs keep growing at stupidly fast paces, it would be worrisome if they didnt. - $NVDA reportedly in talks to invest $3B in SB Energy (Softbank subsidiary), creates a >$500B compute financing push with Apollo, BlackRock, Blackstone, Brookfield, Goldman, and others. $NVDA Feynman reportedly moves to TSMC A16 + SoIC + custom HBM + CPO in H2 2028 Just more nvidia news every day - $MSFT Maia 300 discussed $TSM capacity for >300k units in 2027, with expansion to 1m+. Unveils as soon as September. Likely $MRVL should be more happy from this news. For what's happening right now: - maybe GUC for Microsoft current ASIC ramp. - For the Amazon party, stuff like Alchip (I do own shares), likely is ramping now with $AMZN ASIC program H2 2026... So might be a good idea to look at hyperscaler ASIC ramp timelines + their beneficiaries. - $TSM VP of Advanced Packaging stated \"the industry is likely to face not only memory shortages but also tight ABF substrate supply over the next few years\"... Emphasis on few years for memory + ABF substrates for bottlenecks. Even upstream abf substrate equipment providers are happy, eg. Eternal Precision which uses vacuum lamination equipment stated orders surged, their plants have been running at full capacity, and 20%+ price hikes. - $AMAT expects advanced packaging revenue to grow >70% in 2026, versus prior >50%, and said customer discussions now extend all the way to 2030 (not too familiar with this company, but found their growth rate from 2025 Q4 $6.8B ->$7.01B -> 7.91B -> $9.12B -> $10.25B Q4 2026 projections pretty interesting) - Google said at OCP APAC said conventional 48V is running out of headroom. $NVDA detailed an 800VDC MGX-compatible rack H2 2026 (timeline, Delta / Lite-On beneficaries) - Aside from $SNDK, Nanya LTAs cover 50% of capacity. CXMT signed multi-year DRAM agreements last month, so entire memory industry seems to be following same playbook as ur big 3. - Probe cards remain a bottleneck, MPI(6223) said their probe card capacity remains fully utilized because demand exceeds supply. Already covered the CW laser bottleneck with $AAOI, $SIVE, and $LITE earlier this week, but that's another fun one. - some MLCC/component lead times have hit 36 weeks per Nichidenbo. Your Samsung Electro-Mechanics, Taiyo Yuden, Murata, players should be very happy to hear this. TLDR: AI supply chains go brrr.",
-      "url": "https://x.com/aleabitoreddit/status/2088850910529323315",
-      "tweet_id": "2088850910529323315",
-      "translated": "只是我发现有趣的一些内容的 TLDR： - $SNDK 到 2030 年的调整后毛利率预测为 80%，自投资者日起约 75% 的营业利润率和约 50% 调整后的 FCF 利润率。长期协议已达到 2028 年产量的 2/3。最低合同收入达到 $93B（MC 目前约为 $239B）...当您的收入/目标预计将在 4 年以后持续到 2030 年时，很难成为周期性股票。 - $CRWV 签署了 6 年旧 $NVDA A100 GPU 的合同，直到 2029 年。对于像 Nebius/Iren 这样的 Neoclouds 来说，这是积极的，因为它是例如的反驳。 Burry 折旧短论 - 传统 DRAM 毛利率，例如。预计到 2027 年，美光将达到史无前例的 95%，如果预测正确的话，根据 UBS 的解读，Nanya/Winbond 等传统/标准 DRAM 厂商的占比应该会超过 HBM GM。 -据报道，Anthropic 实现了 14 倍以上的同比增长，第二季度收入增长约为 2.4 倍，达到 >$11.5B。预计 2028 年的晚数将增长至 $190–200B。你们的前沿实验室一直在以惊人的速度发展，如果不增长的话就会令人担忧。 - 据报道，$NVDA 正在洽谈向 SB Energy（软银子公司）投资 3B 美元，并与 Apollo、BlackRock、Blackstone、Brookfield、Goldman 等公司共同发起了超过 500B 美元的计算融资活动。据报道，$NVDA Feynman 在 2028 年下半年转向 TSMC A16 + SoIC + 定制 HBM + CPO 每天都有更多 nvidia 新闻 - $MSFT Maia 300 讨论了 2027 年 $TSM 产能将超过 30 万台，并可扩展至 100 万台以上。最快九月揭晓。也许 $MRVL 应该会因这个消息而更加高兴。对于现在发生的事情： - 也许 GUC 适合微软当前的 ASIC 升级。 - 对于亚马逊一方来说，像 Alchip （我持有股票）这样的东西，现在可能正在通过 $AMZN ASIC 计划 H2 2026 进行增长……因此，查看超大规模 ASIC 增长时间表及其受益者可能是一个好主意。 - $TSM 先进封装副总裁表示，“未来几年，该行业可能不仅面临内存短缺，而且 ABF 基板供应紧张”......强调几年内内存 + ABF 基板的瓶颈。即使是上游的 abf 基材设备供应商也很高兴，例如。使用真空层压设备的长兴精工表示，订单激增，工厂已满负荷运转，价格上涨20%以上。 - $AMAT 预计先进封装收入在 2026 年将增长 >70%，而之前的增长 >50%，并表示客户讨论现在一直延伸到 2030 年（不太熟悉这家公司，但发现他们的增长率从 2025 年第四季度开始 $6.8B ->$7.01B -> 7.91B -> $9.12B -> $10.25B 2026 年第四季度的预测非常有趣） - Google在 OCP APAC 上表示，传统 48V 的空间已经耗尽。 $NVDA 详细介绍了 800VDC MGX 兼容机架 H2 2026（时间表，Delta / Lite-On 受益者） - 除了 $SNDK 之外，Nanya LTA 覆盖了 50% 的容量。长鑫存储上个月签署了多年的 DRAM 协议，因此整个内存行业似乎正在遵循与三大巨头相同的策略。 - 探针卡仍然是瓶颈，MPI（6223）表示，由于需求超过供应，他们的探针卡产能仍然得到充分利用。本周早些时候已经用 $AAOI、$SIVE 和 $LITE 讨论了 CW 激光瓶颈，但这是另一个有趣的问题。 - 根据 Nichidenbo，一些 MLCC/元件的交货时间已达到 36 周。你们三星电机，太阳诱电，村田，玩家听到这个应该很高兴吧。 TLDR：人工智能供应链进展顺利。"
     },
     {
       "id": "tweet_qinbafrank_2089000142427091042",
@@ -231,8 +201,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 9
+    "users_success": 7,
+    "users_failed": 1,
+    "nitter_healthy": 10
   }
 }
