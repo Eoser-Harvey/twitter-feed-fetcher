@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-08-17T16:30:13.939954+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-17T17:29:18.931096+00:00",
+  "total": 21,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2089388021154283625",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 17 Aug 2026 16:24:57 GMT",
+      "content": "Grok @Bot",
+      "url": "https://x.com/elonmusk/status/2089388021154283625",
+      "tweet_id": "2089388021154283625",
+      "translated": "格洛克@Bot"
+    },
     {
       "id": "tweet_elonmusk_2089223114416898288",
       "username": "elonmusk",
@@ -23,14 +33,14 @@
       "translated": "RT by @elonmusk：这实际上是我现在的新工作流程：实时研究 → Grok Bot 规划和编排 → Grok Bot 日常编码/调试 → Grok Build + Grok 4.6 编写和运行测试 → Grok Build + Grok 4.6 复杂编码/调试 → GPT-5.6 Sol 前端 → Fable 5 将此添加为书签。"
     },
     {
-      "id": "tweet_elonmusk_2089176557747413105",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 17 Aug 2026 02:24:41 GMT",
-      "content": "Yes",
-      "url": "https://x.com/elonmusk/status/2089176557747413105",
-      "tweet_id": "2089176557747413105",
-      "translated": "是的"
+      "id": "tweet_cz_binance_2089395321382277319",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Mon, 17 Aug 2026 16:53:58 GMT",
+      "content": "Did Ferrari just make a CZ26? 😂 (I don't own one.)",
+      "url": "https://x.com/cz_binance/status/2089395321382277319",
+      "tweet_id": "2089395321382277319",
+      "translated": "法拉利刚刚生产了CZ26吗？ 😂（我没有。）"
     },
     {
       "id": "tweet_cz_binance_2089217802955809198",
@@ -51,45 +61,6 @@
       "url": "https://x.com/cz_binance/status/2088999201246245153",
       "tweet_id": "2088999201246245153",
       "translated": "谨防网络钓鱼尝试！ 👇 披露：SafePal 是 YZiLabs 投资组合公司（少数投资者）。"
-    },
-    {
-      "id": "tweet_cz_binance_2088861898267623765",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Sun, 16 Aug 2026 05:34:20 GMT",
-      "content": "RT by @cz_binance: Strictly speaking, bitcoin:native is disinflationary, not purely deflationary. New coins are still being created, so the total supply is still growing (albeit very slowly; the current annual inflation rate is only ~0.82%). True deflation requires the supply to shrink. binancecoin:native is genuinely deflationary, more strictly so than Bitcoin. No new coins are minted. Its supply was created at launch. There is zero ongoing issuance. On top of this, active burning permanently destroys tokens, so the total supply keeps shrinking over time. The 36th quarterly burn on July 15, 2026 destroyed 1,615,828 BNB BEP-95 real-time burn is less talked about. A fixed portion of every transaction’s gas fees is burned automatically in real time. This has already removed roughly 290,000+ since it started.",
-      "url": "https://x.com/cz_binance/status/2088861898267623765",
-      "tweet_id": "2088861898267623765",
-      "translated": "RT @cz_binance：严格来说，bitcoin:native 是反通货膨胀的，而不是纯粹的通货紧缩。新的硬币仍在被创造，因此总供应量仍在增长（尽管非常缓慢；当前的年通货膨胀率仅为约0.82％）。真正的通货紧缩需要供给减少。 binancecoin:native 是真正的通货紧缩，比比特币更严格。没有铸造新硬币。它的供应是在发布时创建的。持续发行量为零。最重要的是，主动销毁会永久销毁代币，因此总供应量随着时间的推移不断减少。 2026年7月15日第36季度销毁销毁1,615,828 BNB BEP-95实时销毁较少被提及。每笔交易的固定部分的 Gas 费都会实时自动燃烧。自启动以来，该活动已删除了大约 290,000 多个内容。"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2082159711852298494",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
-      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
-      "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带入白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2089355682286092748",
@@ -233,8 +204,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 9
+    "users_success": 7,
+    "users_failed": 1,
+    "nitter_healthy": 10
   }
 }
