@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T09:44:14.553388+00:00",
+  "fetched_at": "2026-08-17T10:34:43.585467+00:00",
   "total": 24,
   "tweets": [
     {
@@ -176,6 +176,15 @@
       "tweet_id": "2088865695320928754"
     },
     {
+      "id": "tweet_xingpt_2089290267820253402",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 17 Aug 2026 09:56:31 GMT",
+      "content": "继Circle之后，WLFI（usd1）也拿到了OCC的信托银行有条件允许牌照，这样WLFI可以自己保管储备资产而不用给Bitgo付钱，而且作为联邦层面的 OCC charter，对于交易所、金融机构、企业财资部门等客户而言，监管确定性会高很多，有机会进入机构市场",
+      "url": "https://x.com/xingpt/status/2089290267820253402",
+      "tweet_id": "2089290267820253402"
+    },
+    {
       "id": "tweet_xingpt_2089260492456087901",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -192,15 +201,6 @@
       "content": "Hyperliquid 居然没上Anthropic的盘前？",
       "url": "https://x.com/xingpt/status/2088992864839889285",
       "tweet_id": "2088992864839889285"
-    },
-    {
-      "id": "tweet_xingpt_2088978936940437865",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Sun, 16 Aug 2026 13:19:24 GMT",
-      "content": "《牛来》是今年最神奇的电影了，极度粗糙的制作反而激发了审丑心理！ 票房现在已经是今年动画电影前十了",
-      "url": "https://x.com/xingpt/status/2088978936940437865",
-      "tweet_id": "2088978936940437865"
     },
     {
       "id": "tweet_hibtc37_2088084341054435418",
