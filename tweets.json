@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-17T01:22:03.823680+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-17T03:02:30.683007+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2089176557747413105",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Mon, 17 Aug 2026 02:24:41 GMT",
+      "content": "Yes",
+      "url": "https://x.com/elonmusk/status/2089176557747413105",
+      "tweet_id": "2089176557747413105",
+      "translated": "是的"
+    },
+    {
+      "id": "tweet_elonmusk_2088974063666614522",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 16 Aug 2026 13:00:02 GMT",
+      "content": "RT by @elonmusk: Landing an orbital-class rocket was once considered almost impossible. SpaceX has now done it 650 times First landing: December 21, 2015 650th landing: August 15, 2026",
+      "url": "https://x.com/elonmusk/status/2088974063666614522",
+      "tweet_id": "2088974063666614522",
+      "translated": "RT @elonmusk：轨道级火箭着陆曾经被认为几乎是不可能的。 SpaceX 现已完成 650 次首次着陆：2015 年 12 月 21 日第 650 次着陆：2026 年 8 月 15 日"
+    },
+    {
+      "id": "tweet_elonmusk_2089133557281444184",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sun, 16 Aug 2026 23:33:48 GMT",
+      "content": "RT by @elonmusk: For those impacted by Hurricane Lala in Hawaii, Starlink is providing free service through September 17 to new and existing customers. We are coordinating with local emergency officials to set up Starlink for crews on the ground in the worst-hit communities → https://starlink.com/support/article/c236a4c6-607b-dc2b-9214-b9bcace85ca6",
+      "url": "https://x.com/elonmusk/status/2089133557281444184",
+      "tweet_id": "2089133557281444184",
+      "translated": "RT @elonmusk：对于那些受夏威夷飓风拉拉影响的用户，Starlink 将在 9 月 17 日之前向新客户和现有客户提供免费服务。我们正在与当地应急官员协调，为受灾最严重的社区的地面工作人员建立星链 → https://starlink.com/support/article/c236a4c6-607b-dc2b-9214-b9bcace85ca6"
+    },
     {
       "id": "tweet_cz_binance_2088999201246245153",
       "username": "cz_binance",
@@ -62,6 +92,26 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2089183484556480536",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Mon, 17 Aug 2026 02:52:12 GMT",
+      "content": "I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs. If you get Vietnam flashbacks like I do to $MU / Samsung / SK Hynix -> Legacy DRAM: My thesis is we'll see the same thing here maybe late H2, early 2027 with consumer/broad MLCCs. From July 6th: \"the crowding-out effect from AI-oriented high-end MLCC production has begun spilling over into both the automotive and consumer markets.\" July 28th: \"AI Demand Pushes Japanese and Korean MLCC Suppliers to Record Monthly Shipments; Consumer-Grade Order Spillovers Continue to Surge\" Aug 12: As [MLCC] capacity shifts from consumer grades to AI-oriented products... (Trendforce) Aug 12: China's electronics market channel checks found 22µF and 47µF MLCCs (used more broadly) out of stock. Then found and said certain manufacturers had stopped taking orders. (for reference: Walsin said high-volume smartphone/PC products such as... 22µF, so it's broader MLCCs) Obviously Samsung Electro-Mechanics/Murata are main beneficiaries of AI server MLCC ramp. But companies with large market share of overall MLCCs like Taiyo Yuden (6976, disclosure: I have positions) with less AI server share, would be a major beneficiary of this. Fun part is, we're only in H2 2026, so the next major bottleneck should be fun!",
+      "url": "https://x.com/aleabitoreddit/status/2089183484556480536",
+      "tweet_id": "2089183484556480536",
+      "translated": "我认为我们看到人工智能服务器 MLCC 需求产生了有趣的影响……消费/通用 MLCC 的产能收紧。如果你像我对 $MU / 三星 / SK 海力士那样得到越南闪回 -> 传统 DRAM：我的论点是，我们可能会在 2027 年下半年末、2027 年初在消费者/广泛的 MLCC 上看到同样的事情。从7月6日起：“面向人工智能的高端MLCC生产的挤出效应已经开始蔓延到汽车和消费市场。” 7 月 28 日：“AI 需求推动日韩 MLCC 供应商月度出货量创历史新高；消费级订单溢出持续激增” 8 月 12 日：随着 [MLCC] 产能从消费级转向面向 AI 的产品……（Trendforce） 8 月 12 日：中国电子市场渠道检查发现 22μF 和 47μF MLCC（用途更广泛）缺货。然后发现说某些厂家已经停止接单了。 （供参考：Walsin 表示大批量智能手机/PC 产品，例如……22μF，因此它是更广泛的 MLCC）显然，三星电机/村田是 AI 服务器 MLCC 增长的主要受益者。但像太阳诱电（6976，披露：我有仓位）这样在整体 MLCC 市场份额较大但 AI 服务器份额较少的公司将成为主要受益者。有趣的是，我们才进入 2026 年下半年，所以下一个主要瓶颈应该很有趣！"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2089165155741622679",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Mon, 17 Aug 2026 01:39:22 GMT",
+      "content": "\"Severe InP Shortage Triggers Largest Price Hike Ever\" - $AXTI. Suppliers have bluntly stated that \"even if you have the money, you still may not be able to get the material\" (lol). - Industry sources revealed that InP substrate prices began rising in Q4 last year and was the fourth consecutive substrate price hike. - The latest Q4 hike is expected to be >10%, - Meanwhile, prices for epitaxial wafers made from those substrates have already been raised two times, and the market is moving toward a 3rd consecutive increase in Q4. (I also wrote a thesis on $IQE, which benefits here too). Article states VPEC, Landmark, IET benefits (Taiwan centric reporting). I did predict this last year... The bottleneck is real, but I do have higher expectations for price hikes that comes next. Glad it's starting to play out.",
+      "url": "https://x.com/aleabitoreddit/status/2089165155741622679",
+      "tweet_id": "2089165155741622679",
+      "translated": "“严重的 InP 短缺引发有史以来最大的价格上涨”- $AXTI。供应商直言“即使有钱，也不一定能买到材料”（笑）。 - 业内人士透露，InP衬底价格从去年第四季度开始上涨，并且是连续第四次上涨。 - 最新第四季度涨幅预计>10%， - 与此同时，由这些基板制成的外延片价格已上涨两次，市场正朝着第四季度连续第三次上涨的方向发展。 （我还写了一篇关于 $IQE 的论文，这在这里也有好处）。文章阐述了 VPEC、Landmark、IET 优势（以台湾为中心的报告）。我去年确实预测过这一点……瓶颈确实存在，但我确实对接下来的价格上涨抱有更高的期望。很高兴它开始发挥作用。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2089148883838611460",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -70,26 +120,6 @@
       "url": "https://x.com/aleabitoreddit/status/2089148883838611460",
       "tweet_id": "2089148883838611460",
       "translated": "据报道，Stripe 以 70 亿美元收购了 OpenRouter。我认为他们的编排很容易复制和切换。而且护城河很少。但是 atm、OpenRouter 拥有用户群、有价值的数据集和动力。您对这家支付公司有何看法？是还是反对？"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2089057857652338993",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sun, 16 Aug 2026 18:33:00 GMT",
-      "content": "I think @elonmusk said it best: “Robots don’t all need to be humanoid. But a general-purpose robot intended to replace human labor should fit the world humans already built. Roger, roger.” Personally, I expect $TSLA Optimus form factor to converge to the right image.",
-      "url": "https://x.com/aleabitoreddit/status/2089057857652338993",
-      "tweet_id": "2089057857652338993",
-      "translated": "我认为 @elonmusk 说得最好：“机器人并不需要都是人形的。但是一个旨在取代人类劳动力的通用机器人应该适合人类已经建造的世界。罗杰，罗杰。”就我个人而言，我预计 TSLA Optimus 外形尺寸能够收敛到正确的图像。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2088947694886920409",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Sun, 16 Aug 2026 11:15:15 GMT",
-      "content": "I feel like AI investing is simpler than what people expect. Because $NVDA + Jensen literally tells everyone what's coming. But somehow. Almost every. single. time. Markets dismiss it until it actually happens? Be Nvidia in 2025: Buys up EML and laser capacity. Markets dismissing it: \"Photonics is a bubble and like quantum! ____ company is a scam with shady management\" 1 year later: $LITE +678%, $AAOI +475.12%, $COHR +260.7%, $AXTI +3,843.9%. _ Nvidia in 2026: Buys up CW/EML capacity with LTAs. 800V shift. Extraordinary explicit about CPO shift. States Physical AI as the next theme. Markets now: \"CW players are meme stocks! 800v, CPO is not coming anytime soon, Humanoids are not profitable!\" Yeah... We'll see what happens in 2027. I think I'm putting my money on Jensen/Nvidia as the leading indicator.",
-      "url": "https://x.com/aleabitoreddit/status/2088947694886920409",
-      "tweet_id": "2088947694886920409",
-      "translated": "我觉得人工智能投资比人们想象的要简单。因为 $NVDA + Jensen 确实告诉了每个人即将发生的事情。但不知何故。几乎每一个。单身的。时间。在它真正发生之前，市场会忽视它吗？ 2025 年成为 Nvidia：收购 EML 和激光产能。市场对此不屑一顾：“光子学是一个泡沫，就像量子一样！____公司是一个管理不善的骗局”一年后：$LITE +678%、$AAOI +475.12%、$COHR +260.7%、$AXTI +3,843.9%。 _ Nvidia 2026 年：通过长期协议购买 CW/EML 产能。 800V 变速。关于 CPO 转变的非常明确。指出物理人工智能是下一个主题。现在的市场：“CW玩家都是meme股票！800v，CPO不会很快到来，Humanoids无法盈利！”是的……我们会看看 2027 年会发生什么。我想我会把钱押在 Jensen/Nvidia 上作为领先指标。"
     },
     {
       "id": "tweet_qinbafrank_2089000142427091042",
@@ -201,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
