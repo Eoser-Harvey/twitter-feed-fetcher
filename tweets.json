@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-18T22:26:58.682691+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-18T23:25:55.262872+00:00",
+  "total": 18,
   "tweets": [
     {
       "id": "tweet_elonmusk_2089824315437089032",
@@ -92,36 +92,6 @@
       "translated": "视频"
     },
     {
-      "id": "tweet_aleabitoreddit_2089766053274661143",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 18 Aug 2026 17:27:07 GMT",
-      "content": "My $AAOI TLDR notes at Rosenblatt summit: - Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins). - Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (cough cough $NVDA). - Sold out at least through second half of next year and beyond. (High demand visibility like $LITE) - Has 300-400 mW lasers already. - Expects margins to be above 40%+ once CPO comes about (probably most material for rerating). I can't see how anyone can be bearish on this company...",
-      "url": "https://x.com/aleabitoreddit/status/2089766053274661143",
-      "tweet_id": "2089766053274661143",
-      "translated": "我在 Rosenblatt 峰会上的 $AAOI TLDR 注释： - 预计美国产量 800 克/1.6 吨将获得溢价（对 ASP/利润率非常有利）。 - 几项长期协议摆在桌面上，但不想签署以阻止其他客户的容量（咳咳 $NVDA）。 - 至少在明年下半年及以后售完。 （高需求可见度，如 $LITE）- 已拥有 300-400 mW 激光器。 - 一旦 CPO 出台，预计利润率将超过 40%+（可能是重新评级的大部分材料）。我不明白怎么会有人看淡这家公司......"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2089746797300432912",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 18 Aug 2026 16:10:36 GMT",
-      "content": "I'm getting Vietnam flashbacks to the launch of OpenAi. Where with every model, it just keeps getting better... but now with hunanoids. Unitree has claimed that their humanoids: - Can now run faster than Usain Bolt. - Can now jump higher than any human. And with their IPO tomorrow, it seems like China is leading the hardware race.",
-      "url": "https://x.com/aleabitoreddit/status/2089746797300432912",
-      "tweet_id": "2089746797300432912",
-      "translated": "我想起了 OpenAi 推出时的越南经历。每个模型都在不断变得更好……但现在有了 hunanoids。 Unitree 声称他们的类人机器人： - 现在可以比尤塞恩·博尔特跑得更快。 - 现在可以跳得比任何人都高。随着明天的首次公开募股，中国似乎正在引领硬件竞赛。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2089690098875130084",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 18 Aug 2026 12:25:18 GMT",
-      "content": "Looks like we're getting the Strait of America, a new US territory...",
-      "url": "https://x.com/aleabitoreddit/status/2089690098875130084",
-      "tweet_id": "2089690098875130084",
-      "translated": "看起来我们正在获得美国海峡，美国的新领土......"
-    },
-    {
       "id": "tweet_qinbafrank_2089715193890976004",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -176,33 +146,6 @@
       "tweet_id": "2089220928840548847"
     },
     {
-      "id": "tweet_xingpt_2089740360239165585",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Tue, 18 Aug 2026 15:45:02 GMT",
-      "content": "盘中做了几笔操作，后续可能会继续建仓一个新主题，具体操作及思路见会员频道：https://www.patreon.com/xingpt/posts/0818-mei-gu-pan-167026144?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
-      "url": "https://x.com/xingpt/status/2089740360239165585",
-      "tweet_id": "2089740360239165585"
-    },
-    {
-      "id": "tweet_xingpt_2089706862409371769",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Tue, 18 Aug 2026 13:31:55 GMT",
-      "content": "AGPU：市值 仅1 亿美金的Neocloud 过去两年，AI 行业的稀缺资源不断从 GPU 向更底层的基础设施转移：先是芯片短缺，随后是数据中心容量不足，如今进一步演变为电力、土地和散热资源的竞争。Neocloud 和 AIDC 正是在这一背景下兴起。 Neocloud 专门面向 AI 训练和推理提供 GPU 算力，以 CoreWeave、Nebius 为代表；AIDC 则围绕高功率密度、液冷和充足电力重新设计数据中心，核心竞争力逐渐从“能不能买到 GPU”转向“能不能快速把 GPU 部署上线”。 2026 年转型后的 Axe Compute（AGPU）是一个典型的小市值样本。公司前身为生物医药企业 Predictive Oncology，完成融资和更名后切入 GPU 算力服务，业务包括为企业建设专属 GPU 集群，以及通过 Aethir 网络提供灵活算力。其商业模式的重要特点是利用客户预付款降低前期资金压力，再以长期合同进行项目融资。公司披露已获得超过 3.17 亿美元预付款，并与 Duos Technologies 合作获取 55MW 数据中心容量，同时尝试参股相关基础设施资产。双方在佐治亚州还曾通过模块化建设，将空置建筑在约 45 天内改造成 GPU 集群。 AGPU 的扩张速度十分激进。2026 年前八个月，公司宣称累计签约合同超过 32 亿美元，全部部署后的年化收入可达到 6.96 亿美元，而同期市值仅约 1.2 亿美元。 AGPU 的业务扩张目前主要围绕两条线展开： 一条是为企业客户建设和运营专属 GPU 集群，通过 3 至 5 年的长期合同锁定算力需求；另一条是向数据中心基础设施进一步延伸，通过与 Duos Technologies 等合作方获取电力和机房资源，并尝试参股相关项目。 公司披露的最大合同规模达到 15 亿美元，涉及约 9200 块英伟达 B300 GPU，同时已签署涉及 55MW 算力容量的合作协议。资金端则采用“客户预付款+项目融资”的模式，以减少公司自身一次性承担巨额 GPU 和数据中心建设成本的压力。如果这些合同能够逐步转化为实际部署算力和收入，AGPU 的业务规模可能在较短时间内快速扩大。 不过，目前公司仍处于大规模建设和交付阶段，后续重点仍需观察项目落地速度以及实际收入兑现情况。 Disclaimer：本文仅为信息分析，不代表任何投资建议，也不构成背书或者推荐。 @AxeCompute @Axiom_Invest_",
-      "url": "https://x.com/xingpt/status/2089706862409371769",
-      "tweet_id": "2089706862409371769"
-    },
-    {
-      "id": "tweet_xingpt_2089663482123936073",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Tue, 18 Aug 2026 10:39:32 GMT",
-      "content": "10 天前也提到这个问题，客观来说，Anthropic ARR下降对AI行业整体需求来说不会减弱太多，目前我主力从用Claude Code改成了Codex+Claude code；但总的投入天花板是逐渐看得到的，无非就是把Claude的额度分到了其他地方。 当务之急，还是要开发coding之外的应用场景。",
-      "url": "https://x.com/xingpt/status/2089663482123936073",
-      "tweet_id": "2089663482123936073"
-    },
-    {
       "id": "tweet_hibtc37_2089582354910376141",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -231,8 +174,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 10
+    "users_success": 6,
+    "users_failed": 2,
+    "nitter_healthy": 9
   }
 }
