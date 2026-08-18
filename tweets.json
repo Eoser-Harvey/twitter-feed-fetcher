@@ -1,36 +1,35 @@
 {
-  "fetched_at": "2026-08-18T16:34:47.543545+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-18T17:30:21.567331+00:00",
+  "total": 18,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2089745945030193224",
+      "id": "tweet_elonmusk_2089386306979975556",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 18 Aug 2026 16:07:13 GMT",
-      "content": "It will be much bigger",
-      "url": "https://x.com/elonmusk/status/2089745945030193224",
-      "tweet_id": "2089745945030193224",
-      "translated": "会大很多"
+      "published_at": "Mon, 17 Aug 2026 16:18:09 GMT",
+      "content": "RT by @elonmusk: 🚨Starlink is providing free internet service through Sept. 17 to customers in Hawaii impacted by Hurricane Lala. SpaceX is also working with local officials to deploy Starlink for emergency crews and residents in the hardest-hit areas. Thank you @elonmusk and @Starlink! 🇺🇸🇺🇸",
+      "url": "https://x.com/elonmusk/status/2089386306979975556",
+      "tweet_id": "2089386306979975556",
+      "translated": "RT @elonmusk：🚨Starlink 将在 9 月 17 日之前为受飓风拉拉影响的夏威夷客户提供免费互联网服务。 SpaceX 还与当地官员合作，为受灾最严重地区的应急人员和居民部署星链。谢谢@elonmusk 和@Starlink！ 🇺🇸🇺🇸"
     },
     {
-      "id": "tweet_elonmusk_2089745385971384637",
+      "id": "tweet_elonmusk_2089754411249623060",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 18 Aug 2026 16:05:00 GMT",
-      "content": "So much has been built since then!",
-      "url": "https://x.com/elonmusk/status/2089745385971384637",
-      "tweet_id": "2089745385971384637",
-      "translated": "从那时起已经建造了这么多！"
+      "published_at": "Tue, 18 Aug 2026 16:40:52 GMT",
+      "content": "🎯",
+      "url": "https://x.com/elonmusk/status/2089754411249623060",
+      "tweet_id": "2089754411249623060"
     },
     {
-      "id": "tweet_elonmusk_2089698881655427383",
+      "id": "tweet_elonmusk_2089754307453141424",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Tue, 18 Aug 2026 13:00:12 GMT",
-      "content": "RT by @elonmusk: BREAKING: Starlink has now partnered with 48 airlines worldwide, covering more than 7,000 aircraft that are already equipped, undergoing installation, or under contract.",
-      "url": "https://x.com/elonmusk/status/2089698881655427383",
-      "tweet_id": "2089698881655427383",
-      "translated": "RT @elonmusk：突发事件：Starlink 目前已与全球 48 家航空公司合作，覆盖超过 7,000 架已配备、正在安装或已签订合同的飞机。"
+      "published_at": "Tue, 18 Aug 2026 16:40:27 GMT",
+      "content": "Try Grok 4.6! Grok 4.7, which is a major upgrade, is coming soon.",
+      "url": "https://x.com/elonmusk/status/2089754307453141424",
+      "tweet_id": "2089754307453141424",
+      "translated": "尝试 Grok 4.6！ Grok 4.7 是一次重大升级，即将推出。"
     },
     {
       "id": "tweet_cz_binance_2089395321382277319",
@@ -70,7 +69,7 @@
       "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
       "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
       "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带入白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -90,36 +89,6 @@
       "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
       "tweet_id": "2072681271566708832",
       "translated": "视频"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2089746797300432912",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 18 Aug 2026 16:10:36 GMT",
-      "content": "I'm getting Vietnam flashbacks to the launch of OpenAi. Where with every model, it just keeps getting better... but now with hunanoids. Unitree has claimed that their humanoids: - Can now run faster than Usain Bolt. - Can now jump higher than any human. And with their IPO tomorrow, it seems like China is leading the hardware race.",
-      "url": "https://x.com/aleabitoreddit/status/2089746797300432912",
-      "tweet_id": "2089746797300432912",
-      "translated": "我想起了 OpenAi 推出时的越南经历。每个模型都在不断变得更好……但现在有了 hunanoids。 Unitree 声称他们的类人机器人： - 现在可以比尤塞恩·博尔特跑得更快。 - 现在可以跳得比任何人都高。随着明天的首次公开募股，中国似乎正在引领硬件竞赛。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2089690098875130084",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 18 Aug 2026 12:25:18 GMT",
-      "content": "Looks like we're getting the Strait of America, a new US territory...",
-      "url": "https://x.com/aleabitoreddit/status/2089690098875130084",
-      "tweet_id": "2089690098875130084",
-      "translated": "看起来我们正在获得美国海峡，美国的新领土......"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2089547564249219163",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 18 Aug 2026 02:58:55 GMT",
-      "content": "So just tracking the MLCC cycle: ComponentNews classified server MLCCs as “severe” shortage stage, with ETNews reporting: - Samsung has reached ~40 week lead times for some high capacitance MLCCs per DigiKey’s shipment data. Earlier this year, broader reports were ~20 weeks, so the AI server MLCC bottleneck keeps growing. - Murata was ~24 weeks in June. July was ~30 weeks. And now some at ~36 weeks. This was interesting: “The expansion of new production capacity is being postponed from Q4 2026 to 2027” Doesn’t say which expansion… maybe Murata? But if capacity expansion reportedly gets stalled, the bottleneck should tighten short term. Lead times are a good way to track demand imbalances.",
-      "url": "https://x.com/aleabitoreddit/status/2089547564249219163",
-      "tweet_id": "2089547564249219163",
-      "translated": "因此，只要跟踪 MLCC 周期即可：ComponentNews 将服务器 MLCC 归类为“严重”短缺阶段，ETNews 报道称： - 根据 DigiKey 的出货数据，三星的一些高电容 MLCC 的交货时间已达到约 40 周。今年早些时候，更广泛的报告持续了约 20 周，因此 AI 服务器 MLCC 瓶颈持续增长。 - Murata 6 月约为 24 周。 7 月大约有 30 周。现在有些大约 36 周。这很有趣：“新产能的扩张将从 2026 年第四季度推迟到 2027 年”没有说明是哪个扩张……也许是村田？但如果据报道产能扩张陷入停滞，短期内瓶颈应该会收紧。交货时间是跟踪需求不平衡的好方法。"
     },
     {
       "id": "tweet_qinbafrank_2089715193890976004",
@@ -204,8 +173,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
-    "nitter_healthy": 9
+    "users_success": 6,
+    "users_failed": 2,
+    "nitter_healthy": 10
   }
 }
