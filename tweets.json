@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-08-18T14:37:21.980625+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-18T15:34:32.586667+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2089698881655427383",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 18 Aug 2026 13:00:12 GMT",
+      "content": "RT by @elonmusk: BREAKING: Starlink has now partnered with 48 airlines worldwide, covering more than 7,000 aircraft that are already equipped, undergoing installation, or under contract.",
+      "url": "https://x.com/elonmusk/status/2089698881655427383",
+      "tweet_id": "2089698881655427383",
+      "translated": "RT @elonmusk：突发事件：Starlink 目前已与全球 48 家航空公司合作，覆盖超过 7,000 架已配备、正在安装或已签订合同的飞机。"
+    },
+    {
+      "id": "tweet_elonmusk_2089719862880780588",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 18 Aug 2026 14:23:35 GMT",
+      "content": "Grok",
+      "url": "https://x.com/elonmusk/status/2089719862880780588",
+      "tweet_id": "2089719862880780588",
+      "translated": "格罗克"
+    },
     {
       "id": "tweet_elonmusk_2089717086310318249",
       "username": "elonmusk",
@@ -11,26 +31,6 @@
       "url": "https://x.com/elonmusk/status/2089717086310318249",
       "tweet_id": "2089717086310318249",
       "translated": "星舰 13 号航班正在从海上打捞"
-    },
-    {
-      "id": "tweet_elonmusk_2089592732780032132",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 18 Aug 2026 05:58:24 GMT",
-      "content": "Grok 4.6 takes top spot on this benchmark",
-      "url": "https://x.com/elonmusk/status/2089592732780032132",
-      "tweet_id": "2089592732780032132",
-      "translated": "Grok 4.6 在该基准测试中名列前茅"
-    },
-    {
-      "id": "tweet_elonmusk_2088751558578061542",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Sat, 15 Aug 2026 22:15:53 GMT",
-      "content": "RT by @elonmusk: Grok 4.6 is my daily driver now. This is why: When I’m using interactive agents in a CLI/terminal (or even Slack), what matters most to me is speed & token throughput. Intelligence and differences in performance on benchmarks is negligible to me when speed is sacrificed. If I am there to steer & guide the agent, or make some quick fixes, then I don’t want to wait 5+ min per turn. Opus 5 (fast) is a good solution to this, but it is WAY too expensive. Grok 4.6 is perfect though, incredibly fast, almost as smart as Fable, and relatively much cheaper than anything else right now. On the flip side, for cloud agents working in Factories & background tasks triggered on crons, I don’t mind using intelligent, slow models like Fable / Sol. I’d even opt for a model router for cloud tasks that biases to heavy, smart models. I guess the meta point I’m making here is that model choice is largely a function of whether there’s a human waiting in the loop.",
-      "url": "https://x.com/elonmusk/status/2088751558578061542",
-      "tweet_id": "2088751558578061542",
-      "translated": "RT @elonmusk：Grok 4.6 现在是我的日常驱动程序。这就是为什么：当我在 CLI/终端（甚至 Slack）中使用交互式代理时，对我来说最重要的是速度和令牌吞吐量。当牺牲速度时，智能和基准性能差异对我来说可以忽略不计。如果我在那里指导和引导特工，或者进行一些快速修复，那么我不想每回合等待 5 分钟以上。 Opus 5（快速）是一个很好的解决方案，但它太贵了。不过，Grok 4.6 非常完美，速度快得令人难以置信，几乎和 Fable 一样智能，而且比目前其他任何产品都便宜得多。另一方面，对于在工厂中工作的云代理和由 cron 触发的后台任务，我不介意使用像 Fable / Sol 这样的智能、缓慢的模型。我什至会选择一个用于云任务的模型路由器，该模型偏向于重型、智能模型。我想我在这里提出的元观点是，模型选择很大程度上取决于是否有人在循环中等待。"
     },
     {
       "id": "tweet_cz_binance_2089395321382277319",
@@ -61,6 +61,35 @@
       "url": "https://x.com/cz_binance/status/2088999201246245153",
       "tweet_id": "2088999201246245153",
       "translated": "谨防网络钓鱼尝试！ 👇 披露：SafePal 是 YZiLabs 投资组合公司（少数投资者）。"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2082159711852298494",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
+      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
+      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
+      "tweet_id": "2082159711852298494",
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2089690098875130084",
@@ -202,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
-    "nitter_healthy": 10
+    "users_success": 8,
+    "users_failed": 0,
+    "nitter_healthy": 9
   }
 }
