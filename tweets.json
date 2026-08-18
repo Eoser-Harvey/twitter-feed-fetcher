@@ -1,7 +1,67 @@
 {
-  "fetched_at": "2026-08-18T04:39:43.844805+00:00",
-  "total": 12,
+  "fetched_at": "2026-08-18T05:32:39.362728+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2088751558578061542",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Sat, 15 Aug 2026 22:15:53 GMT",
+      "content": "RT by @elonmusk: Grok 4.6 is my daily driver now. This is why: When I’m using interactive agents in a CLI/terminal (or even Slack), what matters most to me is speed & token throughput. Intelligence and differences in performance on benchmarks is negligible to me when speed is sacrificed. If I am there to steer & guide the agent, or make some quick fixes, then I don’t want to wait 5+ min per turn. Opus 5 (fast) is a good solution to this, but it is WAY too expensive. Grok 4.6 is perfect though, incredibly fast, almost as smart as Fable, and relatively much cheaper than anything else right now. On the flip side, for cloud agents working in Factories & background tasks triggered on crons, I don’t mind using intelligent, slow models like Fable / Sol. I’d even opt for a model router for cloud tasks that biases to heavy, smart models. I guess the meta point I’m making here is that model choice is largely a function of whether there’s a human waiting in the loop.",
+      "url": "https://x.com/elonmusk/status/2088751558578061542",
+      "tweet_id": "2088751558578061542",
+      "translated": "RT @elonmusk：Grok 4.6 现在是我的日常驱动程序。这就是为什么：当我在 CLI/终端（甚至 Slack）中使用交互式代理时，对我来说最重要的是速度和令牌吞吐量。当牺牲速度时，智能和基准性能差异对我来说可以忽略不计。如果我在那里指导和引导特工，或者进行一些快速修复，那么我不想每回合等待 5 分钟以上。 Opus 5（快速）是一个很好的解决方案，但它太贵了。不过，Grok 4.6 非常完美，速度快得令人难以置信，几乎和 Fable 一样智能，而且比目前其他任何产品都便宜得多。另一方面，对于在工厂中工作的云代理和由 cron 触发的后台任务，我不介意使用像 Fable / Sol 这样的智能、缓慢的模型。我什至会选择一个用于云任务的模型路由器，该模型偏向于重型、智能模型。我想我在这里提出的元观点是，模型选择很大程度上取决于是否有人在循环中等待。"
+    },
+    {
+      "id": "tweet_elonmusk_2089578400734167260",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 18 Aug 2026 05:01:27 GMT",
+      "content": "Grok @Bot",
+      "url": "https://x.com/elonmusk/status/2089578400734167260",
+      "tweet_id": "2089578400734167260",
+      "translated": "格洛克@Bot"
+    },
+    {
+      "id": "tweet_elonmusk_2089575133442711787",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 18 Aug 2026 04:48:28 GMT",
+      "content": "Sync to Origin",
+      "url": "https://x.com/elonmusk/status/2089575133442711787",
+      "tweet_id": "2089575133442711787",
+      "translated": "同步到原点"
+    },
+    {
+      "id": "tweet_cz_binance_2089395321382277319",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Mon, 17 Aug 2026 16:53:58 GMT",
+      "content": "Did Ferrari just make a CZ26? 😂 (I don't own one.)",
+      "url": "https://x.com/cz_binance/status/2089395321382277319",
+      "tweet_id": "2089395321382277319",
+      "translated": "法拉利刚刚生产了CZ26吗？ 😂（我没有。）"
+    },
+    {
+      "id": "tweet_cz_binance_2089217802955809198",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Mon, 17 Aug 2026 05:08:34 GMT",
+      "content": "I mis-judged that. A few people mentioned it is a useful feature. @TrustWallet team saw this too. They told me there is a \"Ignore coins\" already, but it is buried 5 clicks deep. I assume they will make some updates to this feature soon. 🙏",
+      "url": "https://x.com/cz_binance/status/2089217802955809198",
+      "tweet_id": "2089217802955809198",
+      "translated": "是我判断错误了。一些人提到这是一个有用的功能。 @TrustWallet 团队也看到了这一点。他们告诉我已经有一个“忽略硬币”，但它被埋了 5 个点击深。我想他们很快就会对此功能进行一些更新。 🙏"
+    },
+    {
+      "id": "tweet_cz_binance_2088999201246245153",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Sun, 16 Aug 2026 14:39:55 GMT",
+      "content": "Beware of phishing attempts! 👇 Disclosure: SafePal is a YZiLabs portfolio company (minority investor).",
+      "url": "https://x.com/cz_binance/status/2088999201246245153",
+      "tweet_id": "2088999201246245153",
+      "translated": "谨防网络钓鱼尝试！ 👇 披露：SafePal 是 YZiLabs 投资组合公司（少数投资者）。"
+    },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
       "username": "realDonaldTrump",
@@ -89,6 +149,61 @@
       "tweet_id": "2089383386246971883"
     },
     {
+      "id": "tweet_xiaomustock_2089376641445482583",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Mon, 17 Aug 2026 15:39:44 GMT",
+      "content": "在闪迪美光长鑫涨成这逼样的情况下， 海力士再此非常具有性价比。 虽然韩国股市是一坨",
+      "url": "https://x.com/xiaomustock/status/2089376641445482583",
+      "tweet_id": "2089376641445482583"
+    },
+    {
+      "id": "tweet_xiaomustock_2089220928840548847",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Mon, 17 Aug 2026 05:20:59 GMT",
+      "content": "始终坚信这一条， 如果机会足够伟大， 绝对显而易见随时都能上车， 而不会因为某个人是霉逼或者某个人某类人是反指而买入就下跌。 万事万物中的伟大机会都会遵循这个原则。 如果没有遵循说明不够伟大很垃圾。",
+      "url": "https://x.com/xiaomustock/status/2089220928840548847",
+      "tweet_id": "2089220928840548847"
+    },
+    {
+      "id": "tweet_xiaomustock_2089195093874061458",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Mon, 17 Aug 2026 03:38:20 GMT",
+      "content": "闪迪真是强的可怕， 正儿八经伟大的机会显而易见随时上车。 那天发100%回购新闻的时候盘面都没有瞬间大幅爆拉一步到位，而是几天时间持续不断的拉盘。",
+      "url": "https://x.com/xiaomustock/status/2089195093874061458",
+      "tweet_id": "2089195093874061458"
+    },
+    {
+      "id": "tweet_xingpt_2089382795550572867",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 17 Aug 2026 16:04:11 GMT",
+      "content": "新增了两个持仓标的，具体内容放在会员频道。 （X还没有通过我的订阅开通申请，只能继续用Patreon了）：https://www.patreon.com/xingpt/posts/xin-zeng-liao-ge-166934614?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
+      "url": "https://x.com/xingpt/status/2089382795550572867",
+      "tweet_id": "2089382795550572867"
+    },
+    {
+      "id": "tweet_xingpt_2089323223125283288",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 17 Aug 2026 12:07:28 GMT",
+      "content": "2026年二季度13F ： 华尔街大佬买了币圈公司，Leopard倒在黎明前。 二季度的机构 13F里，Leopard的Situational Awareness最兽人关注，他把SNDK和MU的合计权重提高至55.5%，同时增加台积电TSM、RIOT并新建Nebius、STM，集中押注AI产业链的瓶颈环节。可惜剧本最后的走向跟大家知道的一样，他倒在了被清算的黎明前。 而相对的大赢家择时David Tepper的Appaloosa，他在上季度增持了台积电TSM、亚马逊和Meta，却减持MU、清仓SNDK，说明聪明钱虽然继续看好AI，不仅吃到了Meta和Amazon的涨幅，还避开了存储的暴跌，可谓是老江湖。 知名投资者中，老巴交棒后的伯克希尔大幅增持GOOGL和GOOG，两类股票合计约占组合12.6%，同时继续削减美国银行、Capital One和Kroger，资金重心进一步由传统金融转向高质量平台资产。 段永平的H&H仍以苹果和伯克希尔为核心，但增持拼多多、首次买入阿里巴巴，并显著减持英伟达、谷歌和微软，呈现“核心复利资产＋低估值中国互联网”的再平衡。 Druckenmiller的Duquesne除增持亚马逊、希捷、台积电、意法半导体和Insmed外，还新建BTDR、PURR和HUT。其中BTDR约407.5万股、PURR（Hype的DAT公司）约294.2万股；两者都应定义为新建仓，而非原仓位上的继续增持。这表明他正把AI基础设施逻辑延伸至AI算力和数字资产生态。 以上内容已经做成网页可以直接访问：https://signals-13f-q2-2026.smart-rhino-9828.chatgpt.site/",
+      "url": "https://x.com/xingpt/status/2089323223125283288",
+      "tweet_id": "2089323223125283288",
+      "translated": "2026年二季度13F ： 华尔街大佬买了币圈公司，Leopard倒在黎明前。 二季度的机构 13F里，Leopard的Situational Awareness最兽人关注，他把SNDK和MU的合计权重提高至55.5%，同时增加台积电TSM、RIOT并新建Nebius、STM，集中押注AI产业链的瓶颈环节。可惜剧本最后的走向跟大家知道的一样，他倒在了被清算的黎明前。 而相对的大赢家择时David Tepper的Appaloosa，他在上季度增持了台积电TSM、亚马逊和Meta，却减持MU、清仓SNDK，说明聪明钱虽然继续看好AI，不仅吃到了Meta和Amazon的涨幅，还避开了存储的暴跌，可谓是老江湖。 知名投资者中，老巴交棒后的伯克希尔大幅增持GOOGL和GOOG，两类股票合计约占组合12.6%，同时继续削减美国银行、Capital One和Kroger，资金重心进一步由传统金融转向高质量平台资产。 段永平的H&H仍以苹果和伯克希尔为核心，但增持拼多多、首次买入阿里巴巴，并显着减持英伟达、谷歌和微软，呈现“核心复利资产＋低估值中国互联网”的再平衡。 Druckenmiller的Duquesne除增持亚马逊、希捷、台积电、意法半导体和Insmed外，还新建BTDR、PURR和HUT。其中BTDR约407.5万股、PURR（Hype的DAT公司）约294.2万股；两者都应定义为新建仓，而非原仓位上的继续增持。这表明他正把AI基础设施逻辑延伸至AI算力和数字资产生态。 以上内容已经做成网页可以直接访问：https://signals-13f-q2-2026.smart-rhino-9828.chatgpt.site/"
+    },
+    {
+      "id": "tweet_xingpt_2089290267820253402",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Mon, 17 Aug 2026 09:56:31 GMT",
+      "content": "继Circle之后，WLFI（usd1）也拿到了OCC的信托银行有条件允许牌照，这样WLFI可以自己保管储备资产而不用给Bitgo付钱，而且作为联邦层面的 OCC charter，对于交易所、金融机构、企业财资部门等客户而言，监管确定性会高很多，有机会进入机构市场",
+      "url": "https://x.com/xingpt/status/2089290267820253402",
+      "tweet_id": "2089290267820253402"
+    },
+    {
       "id": "tweet_hibtc37_2088084341054435418",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -117,8 +232,8 @@
     }
   ],
   "stats": {
-    "users_success": 4,
-    "users_failed": 4,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
