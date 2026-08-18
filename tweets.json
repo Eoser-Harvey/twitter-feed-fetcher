@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-18T02:58:26.410585+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-18T03:51:25.546285+00:00",
+  "total": 18,
   "tweets": [
     {
       "id": "tweet_elonmusk_2089461382051741919",
@@ -63,33 +63,14 @@
       "translated": "谨防网络钓鱼尝试！ 👇 披露：SafePal 是 YZiLabs 投资组合公司（少数投资者）。"
     },
     {
-      "id": "tweet_realDonaldTrump_2082159711852298494",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
-      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
-      "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带入白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
+      "id": "tweet_aleabitoreddit_2089547564249219163",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 18 Aug 2026 02:58:55 GMT",
+      "content": "So just tracking the MLCC cycle: ComponentNews classified server MLCCs as “severe” shortage stage, with ETNews reporting: - Samsung has reached ~40 week lead times for some high capacitance MLCCs per DigiKey’s shipment data. Earlier this year, broader reports were ~20 weeks, so the AI server MLCC bottleneck keeps growing. - Murata was ~24 weeks in June. July was ~30 weeks. And now some at ~36 weeks. This was interesting: “The expansion of new production capacity is being postponed from Q4 2026 to 2027” Doesn’t say which expansion… maybe Murata? But if capacity expansion reportedly gets stalled, the bottleneck should tighten short term. Lead times are a good way to track demand imbalances.",
+      "url": "https://x.com/aleabitoreddit/status/2089547564249219163",
+      "tweet_id": "2089547564249219163",
+      "translated": "因此，只要跟踪 MLCC 周期即可：ComponentNews 将服务器 MLCC 归类为“严重”短缺阶段，ETNews 报道称： - 根据 DigiKey 的出货数据，三星的一些高电容 MLCC 的交货时间已达到约 40 周。今年早些时候，更广泛的报告持续了约 20 周，因此 AI 服务器 MLCC 瓶颈持续增长。 - Murata 6 月约为 24 周。 7 月大约有 30 周。现在有些大约 36 周。这很有趣：“新产能的扩张将从 2026 年第四季度推迟到 2027 年”没有说明是哪个扩张……也许是村田？但如果据报道产能扩张陷入停滞，短期内瓶颈应该会收紧。交货时间是跟踪需求不平衡的好方法。"
     },
     {
       "id": "tweet_aleabitoreddit_2089422562019393654",
@@ -110,16 +91,6 @@
       "url": "https://x.com/aleabitoreddit/status/2089355682286092748",
       "tweet_id": "2089355682286092748",
       "translated": "据官方消息，Unitree 是中国零售超额认购量超过 8000 倍的人形机器人公司。预计2天后上市！所以19号。每个衍生品的开盘价预计约为 41.66B MC 左右，比其 9B IPO 估值高出约 363.3%。本周类人生物的欢乐时光。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2089264987328151637",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Mon, 17 Aug 2026 08:16:04 GMT",
-      "content": "Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. Phison CEO: \"2027 capacity constraints will be even more severe than in 2026.\" \"Upstream suppliers need up to 4 years from plant construction and equipment investment to actual production. With demand growing explosively and supply expansion limited, the NAND shortage is likely to last for years.\" Don't quite think I agree with the people claiming it's all over for memory, esp. NAND bottlenecks in 2026...",
-      "url": "https://x.com/aleabitoreddit/status/2089264987328151637",
-      "tweet_id": "2089264987328151637",
-      "translated": "只是对 $SNDK、$SKHY、$MU、Kioxia 和您的 NAND 厂商有更多的需求不平衡可见性。群联CEO：“2027年产能限制将比2026年更加严重。” “上游供应商从建厂、设备投资到实际量产需要长达4年的时间。在需求爆发式增长而供应扩张有限的情况下，NAND短缺很可能会持续数年。”我不太同意那些声称一切都结束了的人的观点，尤其是。 2026 年 NAND 瓶颈..."
     },
     {
       "id": "tweet_qinbafrank_2089538610047639947",
@@ -202,38 +173,11 @@
       "content": "继Circle之后，WLFI（usd1）也拿到了OCC的信托银行有条件允许牌照，这样WLFI可以自己保管储备资产而不用给Bitgo付钱，而且作为联邦层面的 OCC charter，对于交易所、金融机构、企业财资部门等客户而言，监管确定性会高很多，有机会进入机构市场",
       "url": "https://x.com/xingpt/status/2089290267820253402",
       "tweet_id": "2089290267820253402"
-    },
-    {
-      "id": "tweet_hibtc37_2088084341054435418",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Fri, 14 Aug 2026 02:04:36 GMT",
-      "content": "新区间： 640 635现价 628 大饼震荡，波动很小，我也看不出方向，前几天看到十亿哥做多打止损，我做空也打了止损，这种行情上下撸区间比较适合，但一旦变盘，做错方向就麻烦，这真是技术活了 震荡这么久了，交易大神们，你怎么看后市呢",
-      "url": "https://x.com/hibtc37/status/2088084341054435418",
-      "tweet_id": "2088084341054435418"
-    },
-    {
-      "id": "tweet_hibtc37_2087374830522048539",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Wed, 12 Aug 2026 03:05:15 GMT",
-      "content": "前几天看存储利空不跌，并且有非常大的空头流动性，这一周多存储板块没涨破也没跌破关键位，我猜测是要先往上走，于是挂了 $MU和 $SNDK的平出止盈单，想趁着他震荡期间走人，MU的单被吃了，SNDK竟然没有，SNDK就打止损了",
-      "url": "https://x.com/hibtc37/status/2087374830522048539",
-      "tweet_id": "2087374830522048539"
-    },
-    {
-      "id": "tweet_hibtc37_2085886087889924200",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Sat, 08 Aug 2026 00:29:31 GMT",
-      "content": "$SPCX 昨晚疯狂轧空！放天量暴涨16%！ 我在低于110停止了做空，并且反手挂了多单，预测到会有来这么一出逼空，但多单没有成交。 从盘面看，这波反弹，不会这么快结束，135发行价肯定要破，150开盘价可能大概率会摸到，175额外解锁条件价（已无效）估计很难，除非马斯克疯狂和情绪推高，不过，135的spcx我认为也已经太贵了，这市值太贵，从全球独特变成美国独特了，估值要重估 希望他这波多拉一些，我好做空，在SPCX上撸了超过10万刀，感谢马斯克，但其中在存储里亏了5万，存储似乎是在震荡出货，主力这周没有把价格拉破关键位置，但也没跌破关键位置，总体不是什么好的信号，随着时间迁移，对周期股是不利的，目前已经开了空单，在浮盈和浮亏资金来回跳 $SNDK $MU",
-      "url": "https://x.com/hibtc37/status/2085886087889924200",
-      "tweet_id": "2085886087889924200"
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
-    "nitter_healthy": 9
+    "users_success": 6,
+    "users_failed": 2,
+    "nitter_healthy": 10
   }
 }
