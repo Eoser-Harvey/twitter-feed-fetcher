@@ -1,7 +1,36 @@
 {
-  "fetched_at": "2026-08-18T20:27:42.676330+00:00",
-  "total": 18,
+  "fetched_at": "2026-08-18T21:27:16.659694+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2089821351091798283",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 18 Aug 2026 21:06:51 GMT",
+      "content": "Grok @Bot is super fun",
+      "url": "https://x.com/elonmusk/status/2089821351091798283",
+      "tweet_id": "2089821351091798283",
+      "translated": "Grok @Bot 超级有趣"
+    },
+    {
+      "id": "tweet_elonmusk_2089747957545410816",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 18 Aug 2026 16:15:13 GMT",
+      "content": "RT by @elonmusk: WTF, THIS GUY FROM CURSOR GAVE GROK BOT A PILE OF CLOTHES HIS SISTER WAS TOO LAZY TO SELL – AND IT HANDLED THE ENTIRE SALE BY ITSELF His sister had tons of clothes she never wore anymore, but selling them meant taking photos, creating listings, adding descriptions, answering buyers and negotiating prices – so she kept putting it off. He gave the entire task to Grok Bot. It looked at the photos, identified the items, created the listings, pulled in the relevant information and started negotiating with buyers on its own. No babysitting. No approving every message. No sitting there telling it what to do next. Grok Bot has its own computer, so once he handed over the task, it just kept going. And that’s what makes this interesting. The biggest problem with small tasks isn’t usually the work itself. It’s the mental load of remembering them, starting them, checking them, replying to people and making sure they actually get finished. AI agents are starting to remove that entire layer. You don’t need to ask AI how to sell your clothes. You can just say: “Sell these”. And let it figure out the rest. Everyone has a list of things they’ve been putting off for months. AI is starting to check them off for you.",
+      "url": "https://x.com/elonmusk/status/2089747957545410816",
+      "tweet_id": "2089747957545410816",
+      "translated": "RT by @elonmusk：WTF，这个来自 CURSOR 的家伙给了 GROK BOT 一堆衣服，他姐姐太懒了，不愿意卖——而且它自己处理了整个销售。他姐姐有很多衣服她再也没有穿过，但卖它们意味着拍照、创建列表、添加描述、回答买家和谈判价格——所以她一直推迟。他把整个任务交给了 Grok Bot。它查看照片、识别商品、创建列表、提取相关信息并开始自行与买家谈判。没有保姆。没有批准每条消息。无需坐在那里告诉它下一步该做什么。 Grok Bot 有自己的计算机，所以一旦他交出任务，它就会继续下去。这就是让这件事变得有趣的原因。小任务的最大问题通常不是工作本身。这是记住它们、启动它们、检查它们、回复人们并确保它们真正完成的精神负担。人工智能代理开始移除整个层。你不需要问人工智能如何卖你的衣服。你可以直接说：“卖掉这些”。并让它弄清楚剩下的事情。每个人都有一张他们已经推迟了几个月的事情的清单。人工智能开始为你检查它们。"
+    },
+    {
+      "id": "tweet_elonmusk_2089820677960564975",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 18 Aug 2026 21:04:11 GMT",
+      "content": "❤️",
+      "url": "https://x.com/elonmusk/status/2089820677960564975",
+      "tweet_id": "2089820677960564975"
+    },
     {
       "id": "tweet_cz_binance_2089395321382277319",
       "username": "cz_binance",
@@ -146,6 +175,33 @@
       "tweet_id": "2089220928840548847"
     },
     {
+      "id": "tweet_xingpt_2089740360239165585",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Tue, 18 Aug 2026 15:45:02 GMT",
+      "content": "盘中做了几笔操作，后续可能会继续建仓一个新主题，具体操作及思路见会员频道：https://www.patreon.com/xingpt/posts/0818-mei-gu-pan-167026144?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
+      "url": "https://x.com/xingpt/status/2089740360239165585",
+      "tweet_id": "2089740360239165585"
+    },
+    {
+      "id": "tweet_xingpt_2089706862409371769",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Tue, 18 Aug 2026 13:31:55 GMT",
+      "content": "AGPU：市值 仅1 亿美金的Neocloud 过去两年，AI 行业的稀缺资源不断从 GPU 向更底层的基础设施转移：先是芯片短缺，随后是数据中心容量不足，如今进一步演变为电力、土地和散热资源的竞争。Neocloud 和 AIDC 正是在这一背景下兴起。 Neocloud 专门面向 AI 训练和推理提供 GPU 算力，以 CoreWeave、Nebius 为代表；AIDC 则围绕高功率密度、液冷和充足电力重新设计数据中心，核心竞争力逐渐从“能不能买到 GPU”转向“能不能快速把 GPU 部署上线”。 2026 年转型后的 Axe Compute（AGPU）是一个典型的小市值样本。公司前身为生物医药企业 Predictive Oncology，完成融资和更名后切入 GPU 算力服务，业务包括为企业建设专属 GPU 集群，以及通过 Aethir 网络提供灵活算力。其商业模式的重要特点是利用客户预付款降低前期资金压力，再以长期合同进行项目融资。公司披露已获得超过 3.17 亿美元预付款，并与 Duos Technologies 合作获取 55MW 数据中心容量，同时尝试参股相关基础设施资产。双方在佐治亚州还曾通过模块化建设，将空置建筑在约 45 天内改造成 GPU 集群。 AGPU 的扩张速度十分激进。2026 年前八个月，公司宣称累计签约合同超过 32 亿美元，全部部署后的年化收入可达到 6.96 亿美元，而同期市值仅约 1.2 亿美元。 AGPU 的业务扩张目前主要围绕两条线展开： 一条是为企业客户建设和运营专属 GPU 集群，通过 3 至 5 年的长期合同锁定算力需求；另一条是向数据中心基础设施进一步延伸，通过与 Duos Technologies 等合作方获取电力和机房资源，并尝试参股相关项目。 公司披露的最大合同规模达到 15 亿美元，涉及约 9200 块英伟达 B300 GPU，同时已签署涉及 55MW 算力容量的合作协议。资金端则采用“客户预付款+项目融资”的模式，以减少公司自身一次性承担巨额 GPU 和数据中心建设成本的压力。如果这些合同能够逐步转化为实际部署算力和收入，AGPU 的业务规模可能在较短时间内快速扩大。 不过，目前公司仍处于大规模建设和交付阶段，后续重点仍需观察项目落地速度以及实际收入兑现情况。 Disclaimer：本文仅为信息分析，不代表任何投资建议，也不构成背书或者推荐。 @AxeCompute @Axiom_Invest_",
+      "url": "https://x.com/xingpt/status/2089706862409371769",
+      "tweet_id": "2089706862409371769"
+    },
+    {
+      "id": "tweet_xingpt_2089663482123936073",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Tue, 18 Aug 2026 10:39:32 GMT",
+      "content": "10 天前也提到这个问题，客观来说，Anthropic ARR下降对AI行业整体需求来说不会减弱太多，目前我主力从用Claude Code改成了Codex+Claude code；但总的投入天花板是逐渐看得到的，无非就是把Claude的额度分到了其他地方。 当务之急，还是要开发coding之外的应用场景。",
+      "url": "https://x.com/xingpt/status/2089663482123936073",
+      "tweet_id": "2089663482123936073"
+    },
+    {
       "id": "tweet_hibtc37_2089582354910376141",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -174,8 +230,8 @@
     }
   ],
   "stats": {
-    "users_success": 6,
-    "users_failed": 2,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 9
   }
 }
