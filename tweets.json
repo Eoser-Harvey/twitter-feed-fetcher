@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-18T12:50:24.028292+00:00",
+  "fetched_at": "2026-08-18T13:44:24.896796+00:00",
   "total": 24,
   "tweets": [
     {
@@ -176,6 +176,15 @@
       "tweet_id": "2089220928840548847"
     },
     {
+      "id": "tweet_xingpt_2089706862409371769",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Tue, 18 Aug 2026 13:31:55 GMT",
+      "content": "AGPU：市值 仅1 亿美金的Neocloud 过去两年，AI 行业的稀缺资源不断从 GPU 向更底层的基础设施转移：先是芯片短缺，随后是数据中心容量不足，如今进一步演变为电力、土地和散热资源的竞争。Neocloud 和 AIDC 正是在这一背景下兴起。 Neocloud 专门面向 AI 训练和推理提供 GPU 算力，以 CoreWeave、Nebius 为代表；AIDC 则围绕高功率密度、液冷和充足电力重新设计数据中心，核心竞争力逐渐从“能不能买到 GPU”转向“能不能快速把 GPU 部署上线”。 2026 年转型后的 Axe Compute（AGPU）是一个典型的小市值样本。公司前身为生物医药企业 Predictive Oncology，完成融资和更名后切入 GPU 算力服务，业务包括为企业建设专属 GPU 集群，以及通过 Aethir 网络提供灵活算力。其商业模式的重要特点是利用客户预付款降低前期资金压力，再以长期合同进行项目融资。公司披露已获得超过 3.17 亿美元预付款，并与 Duos Technologies 合作获取 55MW 数据中心容量，同时尝试参股相关基础设施资产。双方在佐治亚州还曾通过模块化建设，将空置建筑在约 45 天内改造成 GPU 集群。 AGPU 的扩张速度十分激进。2026 年前八个月，公司宣称累计签约合同超过 32 亿美元，全部部署后的年化收入可达到 6.96 亿美元，而同期市值仅约 1.2 亿美元。 AGPU 的业务扩张目前主要围绕两条线展开： 一条是为企业客户建设和运营专属 GPU 集群，通过 3 至 5 年的长期合同锁定算力需求；另一条是向数据中心基础设施进一步延伸，通过与 Duos Technologies 等合作方获取电力和机房资源，并尝试参股相关项目。 公司披露的最大合同规模达到 15 亿美元，涉及约 9200 块英伟达 B300 GPU，同时已签署涉及 55MW 算力容量的合作协议。资金端则采用“客户预付款+项目融资”的模式，以减少公司自身一次性承担巨额 GPU 和数据中心建设成本的压力。如果这些合同能够逐步转化为实际部署算力和收入，AGPU 的业务规模可能在较短时间内快速扩大。 不过，目前公司仍处于大规模建设和交付阶段，后续重点仍需观察项目落地速度以及实际收入兑现情况。 Disclaimer：本文仅为信息分析，不代表任何投资建议，也不构成背书或者推荐。 @AxeCompute @Axiom_Invest_",
+      "url": "https://x.com/xingpt/status/2089706862409371769",
+      "tweet_id": "2089706862409371769"
+    },
+    {
       "id": "tweet_xingpt_2089663482123936073",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -192,15 +201,6 @@
       "content": "最近赚钱是真难啊，逆风期想休息了。 美国 30 年期国债超过 5.3%，上一次到这个位置还是 2007 年。 利率涨不代表一定跌，前提是企业盈利要上来，但问题是盈利也可能要跌。 Anthropic的ARR增长不及预期，从单月增长 150 亿变成三个月增长 150 亿，尽管同比还是很夸张，尽管数据也不代表官方数据，但是在宏观逆风的背景下，只要不是超预期的利好，市场首先还是避险。 如果美股开盘还是没有收回来，那我会考虑先退出观望，等英伟达财报出了再决定是否入场",
       "url": "https://x.com/xingpt/status/2089651884764356701",
       "tweet_id": "2089651884764356701"
-    },
-    {
-      "id": "tweet_xingpt_2089382795550572867",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Mon, 17 Aug 2026 16:04:11 GMT",
-      "content": "新增了两个持仓标的，具体内容放在会员频道。 （X还没有通过我的订阅开通申请，只能继续用Patreon了）：https://www.patreon.com/xingpt/posts/xin-zeng-liao-ge-166934614?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
-      "url": "https://x.com/xingpt/status/2089382795550572867",
-      "tweet_id": "2089382795550572867"
     },
     {
       "id": "tweet_hibtc37_2089582354910376141",
@@ -233,6 +233,6 @@
   "stats": {
     "users_success": 8,
     "users_failed": 0,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
