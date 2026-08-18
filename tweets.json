@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-18T06:46:40.261070+00:00",
+  "fetched_at": "2026-08-18T07:40:18.697604+00:00",
   "total": 24,
   "tweets": [
     {
@@ -149,6 +149,15 @@
       "tweet_id": "2089383386246971883"
     },
     {
+      "id": "tweet_xiaomustock_2089607956493205766",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Tue, 18 Aug 2026 06:58:54 GMT",
+      "content": "棒子真是一坨呐，直接把存储坑下来了，昨天还加仓了海力士😭",
+      "url": "https://x.com/xiaomustock/status/2089607956493205766",
+      "tweet_id": "2089607956493205766"
+    },
+    {
       "id": "tweet_xiaomustock_2089376641445482583",
       "username": "xiaomustock",
       "display_name": "小米股",
@@ -165,15 +174,6 @@
       "content": "始终坚信这一条， 如果机会足够伟大， 绝对显而易见随时都能上车， 而不会因为某个人是霉逼或者某个人某类人是反指而买入就下跌。 万事万物中的伟大机会都会遵循这个原则。 如果没有遵循说明不够伟大很垃圾。",
       "url": "https://x.com/xiaomustock/status/2089220928840548847",
       "tweet_id": "2089220928840548847"
-    },
-    {
-      "id": "tweet_xiaomustock_2089195093874061458",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Mon, 17 Aug 2026 03:38:20 GMT",
-      "content": "闪迪真是强的可怕， 正儿八经伟大的机会显而易见随时上车。 那天发100%回购新闻的时候盘面都没有瞬间大幅爆拉一步到位，而是几天时间持续不断的拉盘。",
-      "url": "https://x.com/xiaomustock/status/2089195093874061458",
-      "tweet_id": "2089195093874061458"
     },
     {
       "id": "tweet_xingpt_2089382795550572867",
