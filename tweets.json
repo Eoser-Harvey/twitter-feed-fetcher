@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-08-19T14:37:20.757528+00:00",
-  "total": 18,
+  "fetched_at": "2026-08-19T15:35:01.554974+00:00",
+  "total": 24,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2090002984315097205",
+      "id": "tweet_elonmusk_2090009546227904545",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 19 Aug 2026 09:08:36 GMT",
-      "content": "RT by @elonmusk: BREAKING: SpaceX’s Starlink constellation has surpassed 11,000 satellites in orbit for the first time. Today’s successful deployment of 24 Starlink satellites brought the estimated total to 11,003, making it by far the largest satellite constellation ever built.",
-      "url": "https://x.com/elonmusk/status/2090002984315097205",
-      "tweet_id": "2090002984315097205",
-      "translated": "RT @elonmusk：突发事件：SpaceX 的 Starlink 星座在轨卫星数量首次超过 11,000 颗。今天成功部署了 24 颗星链卫星，使卫星总数估计达到 11,003 颗，成为迄今为止建造的最大的卫星星座。"
+      "published_at": "Wed, 19 Aug 2026 09:34:40 GMT",
+      "content": "RT by @elonmusk: Starship 43's nose cone and payload section has been moved into megabay 2 to begin stacking and assembly. This will be the ship for flight 16. Starship 42 (flight 15) is partially visible in the background. 8/19/26",
+      "url": "https://x.com/elonmusk/status/2090009546227904545",
+      "tweet_id": "2090009546227904545",
+      "translated": "RT @elonmusk：Starship 43 的鼻锥和有效载荷部分已移至 megabay 2 中开始堆叠和组装。这将是 16 号航班的飞船。星舰 42（15 号航班）在背景中部分可见。 26年8月19日"
     },
     {
-      "id": "tweet_elonmusk_2090064606844866611",
+      "id": "tweet_elonmusk_2090068167016190357",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 19 Aug 2026 13:13:28 GMT",
-      "content": "RT by @elonmusk: Starship is drawing crowds on Christmas Island. Locals gathered along the coast to watch the massive Starship being towed into calmer waters after 24 days at sea, while some even took boats out for a closer look. Starship has become the talk of the town.",
-      "url": "https://x.com/elonmusk/status/2090064606844866611",
-      "tweet_id": "2090064606844866611",
-      "translated": "RT @elonmusk：星舰正在圣诞岛上吸引人群。当地人聚集在海岸边，观看这艘巨大的星舰在海上航行 24 天后被拖入平静的水域，有些人甚至乘船出海近距离观察。星舰已成为城里的话题。"
+      "published_at": "Wed, 19 Aug 2026 13:27:37 GMT",
+      "content": "RT by @elonmusk: Starlink’s high-speed internet is now available onboard @lufthansa 🛰️✈️",
+      "url": "https://x.com/elonmusk/status/2090068167016190357",
+      "tweet_id": "2090068167016190357",
+      "translated": "@elonmusk 转发：Starlink 的高速互联网现在可在机上使用@lufthansa 🛰️✈️"
     },
     {
-      "id": "tweet_elonmusk_2090056738766475287",
+      "id": "tweet_elonmusk_2090094289246400952",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 19 Aug 2026 12:42:12 GMT",
-      "content": "RT by @elonmusk: I love it. Thank you. 🤗",
-      "url": "https://x.com/elonmusk/status/2090056738766475287",
-      "tweet_id": "2090056738766475287",
-      "translated": "RT @elonmusk：我喜欢它。谢谢。 🤗"
+      "published_at": "Wed, 19 Aug 2026 15:11:25 GMT",
+      "content": "Starlink on @lufthansa",
+      "url": "https://x.com/elonmusk/status/2090094289246400952",
+      "tweet_id": "2090094289246400952",
+      "translated": "星链是@lufthansa"
     },
     {
       "id": "tweet_cz_binance_2090040228593697013",
@@ -63,6 +63,35 @@
       "translated": "法拉利刚刚生产了CZ26吗？ 😂（我没有。）"
     },
     {
+      "id": "tweet_realDonaldTrump_2082159711852298494",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
+      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
+      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
+      "tweet_id": "2082159711852298494",
+      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2073607119878623432",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
+      "content": "x.com/i/broadcasts/1yxBeeAql…",
+      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
+      "tweet_id": "2073607119878623432"
+    },
+    {
+      "id": "tweet_realDonaldTrump_2072681271566708832",
+      "username": "realDonaldTrump",
+      "display_name": "特朗普",
+      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
+      "content": "Video",
+      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
+      "tweet_id": "2072681271566708832",
+      "translated": "视频"
+    },
+    {
       "id": "tweet_aleabitoreddit_2089973586425766134",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -93,6 +122,15 @@
       "translated": "我在 Rosenblatt 峰会上的 $AAOI TLDR 注释： - 预计美国产量 800 克/1.6 吨将获得溢价（对 ASP/利润率非常有利）。 - 几项长期协议摆在桌面上，但不想签署以阻止其他客户的容量（咳咳 $NVDA）。 - 至少在明年下半年及以后售完。 （高需求可见度，如 $LITE）- 已拥有 300-400 mW 激光器。 - 一旦 CPO 出台，预计利润率将超过 40%+（可能是重新评级的大部分材料）。我不明白怎么会有人看淡这家公司......"
     },
     {
+      "id": "tweet_qinbafrank_2090090050570916041",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 19 Aug 2026 14:54:34 GMT",
+      "content": "虽然名义上叫“科技领袖会议”，实际受邀和预期出席者几乎全部是加密货币/数字资产相关高管、行业协会，以及传统金融中与加密高度相关的机构。希望能推动关于清晰法案、创新豁免等方面的进展",
+      "url": "https://x.com/qinbafrank/status/2090090050570916041",
+      "tweet_id": "2090090050570916041"
+    },
+    {
       "id": "tweet_qinbafrank_2090072033388617853",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -110,15 +148,6 @@
       "content": "一份潜在总值1200亿美金的定制产品开发及股权认购合作协议，MRVL宣布跟谷歌在7月29日达成芯片产品开发协议，涵盖AI、存储和网络芯片领域，并同时向谷歌发行一份最多可购买5897万股股票的认股权证，行权价格设定为每股206.58美元。在协议签署后的第一年内，每季度将有136.0867万份认股权证股份归属。详细分析下这份合作协议 1、合作范围 覆盖与Google TPU 生态系统紧密相关的综合定制硅芯片项目，具体包括：AI 推理加速器、存储控制器、网络接口控制器、内存接口控制器、近内存计算等细分板块。 谷歌对相关产品的采购具有一定裁量权，权证归属与这些采购产生的收入直接挂钩。显示双方在 AI、存储和网络芯片领域的既有或潜在关系进一步深化。 2、认股权证（Warrant）条款 最多可购买 58,970,907 股 Marvell 普通股 1）行权价格：每股 206.58 美元（固定，但受惯例反稀释调整影响）。 2）行权期限：自发行日起至 2033 年 8 月 18 日（约 7 年），可全部或部分行权，但需先满足归属条件。 3）时间归属：1,360,867 股在商业协议和权证执行后的第一年内按季度等额归属（约每季度 340,216–340,217 股）。这部分相对“确定”，主要体现对合作启动的初步承诺。 4）业绩归属： 剩余约 57,610,040 股，从公司2027 财年第三季度起至 2033 财年末，按 Google 及其关联方对协议定制化产品的裁量性采购产生的收入，分成 240 个等额份额归属。 每产生 5 亿美元定制化产品收入，归属 1 个份额（约 24 万股左右）。 这意味着若全部归属，对应的累计定制化产品收入上限约为 1,200 亿美元（240 × 5 亿美元）。 这是一个极高的里程碑，反映双方对长期大规模合作的乐观预期，但并非保证收入，完全取决于 Google 的实际采购。 3、对对 Marvell的意义与影响 1）重大客户锁定与收入可见性。Google 作为全球最大 AI/云服务商之一，将其纳入 TPU 生态的定制芯片供应（尤其推理、存储、网络和近内存计算），有助于 Marvell 在 AI ASIC/定制硅领域进一步多元化客户（此前已有与 AWS 等的类似权证合作）。 从产品供应采购合作进一步升级到股权合作。 2）潜在巨大收入 若认股权证的全部完成归属，意味着MRVl实现了1,200 亿美元定制产品营收，将是公司历史级增长驱动力（当前公司年收入规模远低于此）。 权证结构将 Google 的利益与 Marvell 的执行和收入增长绑定，降低客户流失风险。 3）当然认股权证完全兑现行权，意味着未来谷歌将持有MRVL约6.5–6.7%的股权，成为大股东。当然全部归属并行权会产生显著稀释。 2、对 Google的意义 1）通过认股权证获得 Marvell 股权上行空间，同时锁定定制芯片供应能力，支持其 TPU 生态扩展和供应商多元化（降低对单一合作伙伴的依赖）。 2）权证行权价设置合理，若 Marvell 因合作成功股价大幅上涨，Google 可低成本增持，未来谷歌所持有的MRVL股权增值收益都能覆盖大部分对MRVL采购支出。 这算的一手好帐。 若未达收入里程碑也无需全额归属。 简单说 这是一份高潜力、长期导向的 AI 定制芯片战略合作，权证规模大且与高达 1,200 亿美元潜在收入挂钩。也是典型的“战略合作 + 业绩挂钩权证”模式（MRVL此前与亚马逊也有类似合作机制）。时间归属部分提供启动激励，业绩归属部分确保 Google 实际采购才释放股权，双方风险共担、利益共享。",
       "url": "https://x.com/qinbafrank/status/2090064998060245249",
       "tweet_id": "2090064998060245249"
-    },
-    {
-      "id": "tweet_qinbafrank_2090053500697026881",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 19 Aug 2026 12:29:20 GMT",
-      "content": "NBIS宣布拟私募发行总额 45 亿美元的可转换优先票据，分为两个系列：27.5亿美元到期日为2030年的可转换票据和17.5亿美元到期日为2034年的可转换票据。 公司表示，拟将净收益用于数据中心建设和扩建、AI 云平台开发、包括 GPU 在内的关键组件采购，以及一般公司用途。 在票据定价的同时，公司预计将与有限数量的公司2029年到期2.00%可转换高级票据（“2029年票据”）和2031年到期3.00%可转换高级票据（“2031年票据”，与2029年票据合称“现有票据”）持有人分别进行私下协商交易，就部分已发行的现有票据交换为公司A类普通股（“A类股份”）达成协议。参与此类交换的现有票据持有人可在公开市场出售所获得的A类股份，和/或就其针对现有票据可能持有的对冲头寸建立或平仓各类衍生交易。此类活动可能导致A类股份的市场价格下跌（或削弱其任何上涨幅度）， Nbis盘前大跌、其实昨天美债收益率走高新云厂商也都大幅走弱。还是月初这里最后部分聊到的，“NeoCloud重估阶段弹性更大但是因为他们的债务问题一遇到市场逆风抗跌性也很差、更适合做波段”",
-      "url": "https://x.com/qinbafrank/status/2090053500697026881",
-      "tweet_id": "2090053500697026881"
     },
     {
       "id": "tweet_xiaomustock_2089974136437449126",
@@ -146,6 +175,33 @@
       "content": "在闪迪美光长鑫涨成这逼样的情况下， 海力士再此非常具有性价比。 虽然韩国股市是一坨",
       "url": "https://x.com/xiaomustock/status/2089376641445482583",
       "tweet_id": "2089376641445482583"
+    },
+    {
+      "id": "tweet_xingpt_2090084841870283119",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 19 Aug 2026 14:33:52 GMT",
+      "content": "昨天在会员频道分享的操作思路，供各位参考讨论。我也是交易的学徒，希望跟大家一起成长。",
+      "url": "https://x.com/xingpt/status/2090084841870283119",
+      "tweet_id": "2090084841870283119"
+    },
+    {
+      "id": "tweet_xingpt_2090084315736793302",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 19 Aug 2026 14:31:47 GMT",
+      "content": "半导体仍然弱势，昨天清仓的策略暂时奏效。 后续看看防守板块怎么配置吧，还没来的及仔细看。有懂得大神欢迎评论交流",
+      "url": "https://x.com/xingpt/status/2090084315736793302",
+      "tweet_id": "2090084315736793302"
+    },
+    {
+      "id": "tweet_xingpt_2089966824234606999",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 19 Aug 2026 06:44:55 GMT",
+      "content": "退出所有交易，暂时观望，复盘七月大跌之后这次更像是二次探底。 8 月没有上去到之前的高度，那么接下来可能是以季度为单位的调整了。",
+      "url": "https://x.com/xingpt/status/2089966824234606999",
+      "tweet_id": "2089966824234606999"
     },
     {
       "id": "tweet_hibtc37_2089582354910376141",
@@ -176,8 +232,8 @@
     }
   ],
   "stats": {
-    "users_success": 6,
-    "users_failed": 2,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
