@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-08-19T06:47:16.396011+00:00",
+  "fetched_at": "2026-08-19T07:40:39.792773+00:00",
   "total": 21,
   "tweets": [
     {
-      "id": "tweet_elonmusk_2089954139220713662",
+      "id": "tweet_elonmusk_2089977436066992413",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 19 Aug 2026 05:54:30 GMT",
-      "content": "RT by @elonmusk: Here's the simplest way to get started with Grok Bot",
-      "url": "https://x.com/elonmusk/status/2089954139220713662",
-      "tweet_id": "2089954139220713662",
-      "translated": "RT by @elonmusk：这是开始使用 Grok Bot 的最简单方法"
+      "published_at": "Wed, 19 Aug 2026 07:27:05 GMT",
+      "content": "Indeed",
+      "url": "https://x.com/elonmusk/status/2089977436066992413",
+      "tweet_id": "2089977436066992413",
+      "translated": "的确"
     },
     {
-      "id": "tweet_elonmusk_2089950078429782061",
+      "id": "tweet_elonmusk_2089968914596045178",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 19 Aug 2026 05:38:22 GMT",
-      "content": "Clear your email with @Grok @Bot",
-      "url": "https://x.com/elonmusk/status/2089950078429782061",
-      "tweet_id": "2089950078429782061",
-      "translated": "使用 @Grok @Bot 清除您的电子邮件"
+      "published_at": "Wed, 19 Aug 2026 06:53:13 GMT",
+      "content": "Specialist AI’s (single language, single area of knowledge) are another 100X",
+      "url": "https://x.com/elonmusk/status/2089968914596045178",
+      "tweet_id": "2089968914596045178",
+      "translated": "专业人工智能（单一语言、单一知识领域）又是 100 倍"
     },
     {
-      "id": "tweet_elonmusk_2089948600893833431",
+      "id": "tweet_elonmusk_2089963186317565992",
       "username": "elonmusk",
       "display_name": "马斯克",
-      "published_at": "Wed, 19 Aug 2026 05:32:30 GMT",
-      "content": "Yes",
-      "url": "https://x.com/elonmusk/status/2089948600893833431",
-      "tweet_id": "2089948600893833431",
-      "translated": "是的"
+      "published_at": "Wed, 19 Aug 2026 06:30:27 GMT",
+      "content": "What’s ur @Bots?",
+      "url": "https://x.com/elonmusk/status/2089963186317565992",
+      "tweet_id": "2089963186317565992",
+      "translated": "你的@Bots 是什么？"
     },
     {
       "id": "tweet_cz_binance_2089395321382277319",
@@ -92,6 +92,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2089973586425766134",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 19 Aug 2026 07:11:47 GMT",
+      "content": "We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... And now Elazr GM at their investor conference stated: Optical supply is still far behind the market demand, the expected AI optical supply chain are likely to continue for years. - \"the entire supply chain is out of stock\" - \"the supply is still far behind the market demand\" - \"the shortage will continue to the next few years\" \"Whether it is PCB, carrier board, laser chip, or even related packaging capacity, as long as the AI supply chain link, almost all are in short supply.\" When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027.",
+      "url": "https://x.com/aleabitoreddit/status/2089973586425766134",
+      "tweet_id": "2089973586425766134",
+      "translated": "我们从收益中得到 $LITE、$MTSI、$AAOI 都指向激光器/TIA/DSP/等的极端需求失衡......现在 Elazr GM 在其投资者会议上表示：光学供应仍远远落后于市场需求，预期的 AI 光学供应链可能会持续数年。 - “整个供应链缺货” - “供给仍远远落后于市场需求” - “短缺将持续到未来几年” “无论是PCB、载板、激光芯片，甚至是相关封装产能，只要是AI供应链环节，几乎都处于供不应求的状态。”当需求可见性持续多年且供应链陷入瓶颈时：很难不看到光子学与进入 2027 年的内存超级周期相呼应。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2089908198694351064",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -112,14 +122,13 @@
       "translated": "我在 Rosenblatt 峰会上的 $AAOI TLDR 注释： - 预计美国产量 800 克/1.6 吨将获得溢价（对 ASP/利润率非常有利）。 - 几项长期协议摆在桌面上，但不想签署以阻止其他客户的容量（咳咳 $NVDA）。 - 至少在明年下半年及以后售完。 （高需求可见度，如 $LITE）- 已拥有 300-400 mW 激光器。 - 一旦 CPO 出台，预计利润率将超过 40%+（可能是重新评级的大部分材料）。我不明白怎么会有人看淡这家公司......"
     },
     {
-      "id": "tweet_aleabitoreddit_2089746797300432912",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 18 Aug 2026 16:10:36 GMT",
-      "content": "I'm getting Vietnam flashbacks to the launch of OpenAi. Where with every model, it just keeps getting better... but now with hunanoids. Unitree has claimed that their humanoids: - Can now run faster than Usain Bolt. - Can now jump higher than any human. And with their IPO tomorrow, it seems like China is leading the hardware race.",
-      "url": "https://x.com/aleabitoreddit/status/2089746797300432912",
-      "tweet_id": "2089746797300432912",
-      "translated": "我想起了 OpenAi 推出时的越南经历。每个模型都在不断变得更好……但现在有了 hunanoids。 Unitree 声称他们的类人机器人： - 现在可以比尤塞恩·博尔特跑得更快。 - 现在可以跳得比任何人都高。随着明天的首次公开募股，中国似乎正在引领硬件竞赛。"
+      "id": "tweet_qinbafrank_2089975650824462838",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 19 Aug 2026 07:19:59 GMT",
+      "content": "OpenAI二季度的营收其实不重要，关键要看GPT5.6发布之后的三季度营收。今天华尔街日报援引知情人士报道OpenAI二季度收入为67亿美元，较一季度的57亿美元增长18%，与此同时运营亏损进一步扩大，然后大家继续慌。但想多说一句，OpenAI在上半年的弱势整个市场都能看到的，OpenAI的翻身仗发生在6月底到7月初（二季度末三季度初）：GPT-5.6于在年6月26日开始有限预览，在7月9日正式才公开发布。GPT5.6口碑和市场反响明显相比之前大幅度提升。 然后7月30日OpenAI宣布：Luna版降价 80%（输入从 $1 降至 $0.20，输出从 $6 降至 $1.20），Terra 降价 20%（输入从 $2.50 降至 $2，输出从 $15 降至 $12），而 Sol 保持 $5 输入 / $30 输出不变。主动挑起了价格战。 所以OpenAI二季度的弱势有目共睹、营收自然也好不到哪里去。真正需要关注的是GPT5.6发布之后的三季度的营收、之前这里https://x.com/qinbafrank/status/2082669379762950405?s=46&t=k6rimWsEbo2D2tXolYcM-A聊到7月份openai的营收其实在快速追赶的。 毕竟7月中旬两周Codex+GPTwork的用户就增长了超过400万，之前官方这里https://x.com/thsottiaux/status/2079609157934886975?s=46&t=k6rimWsEbo2D2tXolYcM-A也有宣布过。",
+      "url": "https://x.com/qinbafrank/status/2089975650824462838",
+      "tweet_id": "2089975650824462838"
     },
     {
       "id": "tweet_qinbafrank_2089964444952805864",
@@ -140,40 +149,13 @@
       "tweet_id": "2089924512569761962"
     },
     {
-      "id": "tweet_qinbafrank_2089715193890976004",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Tue, 18 Aug 2026 14:05:01 GMT",
-      "content": "迎来收益率高中枢时代，实际利率比名义利率更重要。昨晚比较8月份行情与四五月行情差异，说完到今天油价和US10y都往上突破了近期的区间上限。油价的上涨博弈长期化的体现，今天这里https://x.com/qinbafrank/status/2089538610047639947?s=46&t=k6rimWsEbo2D2tXolYcM-A有聊过。现在聊聊US10Y。 须强调下，个人一直重点看十年美债收益率的走势，而非二十年和三十年，因为十年美债收益率才是真正的无风险利率（五年太短、二十三十年太长、十年正好）。聊聊几个点： 1、为什么我们会迎来收益率高中枢时代？ 十年美债收益率上涨到4.74%原因则更复杂，一方面自然是油价上涨自然通胀预期抬头、但是前段时间加息预期大幅降低US10Y也没下去。之前也聊过当下长债收益率走高，已经不仅仅是通胀预期在驱动，更重要的变量是债券供给规模越来越大： 一方面美国财政赤字上行、发行供给增大，市场开始提前计入未来赤字、期限风险、买家价格敏感度以及长期再融资压力； 另一方面因为AI基建浪潮的驱动，大科技公司今年发债规模也越来越大，这其实是和美国国债争夺养老金、保险资金、主权基金等投资者的久期风险预算，使新债必须提供更高收益率或更宽信用利差； 这些都导致了长端收益率居高不下、也就是收益率中枢走高。 2、当然不是说债券供给爆发”收益率只能涨、不能跌。” 1）如果未来发生经济明显减速、通胀下降或美联储大幅降息，3.43%的平均短端利率预期仍然可以显著下降，从而抵消期限溢价。 2）市场在评估AI资本开支的ROIC。过去大科技依靠经营现金流融资，现在越来越依赖债券、租赁、项目融资和其他资本结构。只要AI收入和现金流兑现，发债既推高利率，也推高未来盈利，两个力量可以相互抵消：经营质量越好、自然债券收益率也会越低。 但未来如果出现收入兑现慢于资本开支和利息成本，便会形成：债券供给推高折现率＋自由现金流下降＋ROIC被下调的三重压缩。 所以大科技债务融资既可能抬高市场的盈利容量，也可能在未来反过来降低市场对高利率的容忍度。 3、4.7%的十年美债收益率为何没对市场产业巨大压力？个人角度看 1）盈利增长速度高于股价上涨速度，估值在被盈利消化。这就是为什么同样是4.7%的10年美债收益率，现在对指数的冲击可以小于去年。 2）市场内部已经完成部分估值压缩和行业切换 高利率并没有“不造成伤害”，而是伤害先发生在了高估值板块、小盘成长股、REITs和公用事业；高负债、需要持续再融资的公司；现金流远期化的长久期资产。 简单说市场分化了、资金集中在盈利更强的半导体、部分大科技、金融、能源和工业板块， 3）信用市场暂时没有发出系统性压力信号 截至8月中旬，美国投资级公司债OAS仍只有80个基点，高收益债OAS为267个基点，整体仍处于相当紧的水平。只要信用利差不明显扩大，企业的全口径融资成本虽然高，但还没有转化成信用事故和系统性去杠杆。 所以目前市场能够承受4.7%，靠的是：盈利上修、信用利差稳定和部分估值提前压缩。 当然也有今天美银报告https://x.com/qinbafrank/status/2089561759770427439?s=46&t=k6rimWsEbo2D2tXolYcM-A里说到的：市场也相信政府会用更高的名义GDP增长来消化债务问题。这也是一个因素、个人角度、基本面的盈利增长还是第一位的。 4、红线变黄线，压力区上移动，市场的容忍区间推演 去年在这里https://x.com/qinbafrank/status/1925871211923296629?s=46&t=k6rimWsEbo2D2tXolYcM-A提到一个观察，4.6%是十年美债收益率的阈值、超过这个阈值市场压力越大、财政部越紧张。但现在这个阈值也在改变。给一个个人观察的框架 1）4.60%—4.75%：高利率但尚可消化 这是过去的红线，现在更接近黄线。只要盈利继续上修、信用利差稳定，收益率缓慢向上市场整体可以承受。 2）4.75%—4.90%明显的估值摩擦区 这个区间市场更容易出现：指数横盘、盈利消化估值；成长股向价值股和周期股轮动；市场宽度变差；财报后对盈利质量和自由现金流要求明显提高。 这一阶段并不要求指数大跌，但内部压力会越来越大。分化也越严重 3）4.90%—5.05%：新的真正压力区 在这个区间市场波动自然加大，如果是两三周快速上涨30—40个基点，而且实际利率、期限溢价和信用利差一起上升，市场不需要等到5%以上才会调整。 4）5.05%以上并持续数周：红色警报区域 用简化的倒数估值法看：盈利收益率从5.0%升至5.3%，市盈率从20倍降至18.9倍，估值压缩约5.7%；升至5.5%，市盈率降至18.2倍，估值压缩约9.1% 当然这只是一个大概的推演、框架比具体数字更值得参考。 5、真正核心的是实际利率，而非名义10年收益率 对成长股而言，实际利率比名义收益率更重要，例如： 10年名义收益率5.0%，通胀预期2.7%，实际利率2.3%； 10年名义收益率4.9%，通胀预期2.2%，实际利率2.7%。 第二种情况反而可能对高估值成长股更不利。 所谓好利率上涨，是经济增长、生产率和盈利预期同步上修； 坏利率上涨，则是经济数据已经走弱，但财政赤字、债券供给和期限溢价仍在推高长端。 市场对10年收益率的短期容忍区间正在上移，4.7%可能不再是硬红线，4.9%—5.0%正在成为新的压力边界。 高收益率中枢带来则是高波动率 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2089715193890976004",
-      "tweet_id": "2089715193890976004"
-    },
-    {
-      "id": "tweet_xiaomustock_2089607956493205766",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Tue, 18 Aug 2026 06:58:54 GMT",
-      "content": "棒子真是一坨呐，直接把存储坑下来了，昨天还加仓了海力士😭",
-      "url": "https://x.com/xiaomustock/status/2089607956493205766",
-      "tweet_id": "2089607956493205766"
-    },
-    {
-      "id": "tweet_xiaomustock_2089376641445482583",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Mon, 17 Aug 2026 15:39:44 GMT",
-      "content": "在闪迪美光长鑫涨成这逼样的情况下， 海力士再此非常具有性价比。 虽然韩国股市是一坨",
-      "url": "https://x.com/xiaomustock/status/2089376641445482583",
-      "tweet_id": "2089376641445482583"
-    },
-    {
-      "id": "tweet_xiaomustock_2089220928840548847",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Mon, 17 Aug 2026 05:20:59 GMT",
-      "content": "始终坚信这一条， 如果机会足够伟大， 绝对显而易见随时都能上车， 而不会因为某个人是霉逼或者某个人某类人是反指而买入就下跌。 万事万物中的伟大机会都会遵循这个原则。 如果没有遵循说明不够伟大很垃圾。",
-      "url": "https://x.com/xiaomustock/status/2089220928840548847",
-      "tweet_id": "2089220928840548847"
+      "id": "tweet_xingpt_2089966824234606999",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 19 Aug 2026 06:44:55 GMT",
+      "content": "退出所有交易，暂时观望，复盘七月大跌之后这次更像是二次探底。 8 月没有上去到之前的高度，那么接下来可能是以季度为单位的调整了。",
+      "url": "https://x.com/xingpt/status/2089966824234606999",
+      "tweet_id": "2089966824234606999"
     },
     {
       "id": "tweet_xingpt_2089740360239165585",
@@ -194,13 +176,31 @@
       "tweet_id": "2089706862409371769"
     },
     {
-      "id": "tweet_xingpt_2089663482123936073",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Tue, 18 Aug 2026 10:39:32 GMT",
-      "content": "10 天前也提到这个问题，客观来说，Anthropic ARR下降对AI行业整体需求来说不会减弱太多，目前我主力从用Claude Code改成了Codex+Claude code；但总的投入天花板是逐渐看得到的，无非就是把Claude的额度分到了其他地方。 当务之急，还是要开发coding之外的应用场景。",
-      "url": "https://x.com/xingpt/status/2089663482123936073",
-      "tweet_id": "2089663482123936073"
+      "id": "tweet_hibtc37_2089582354910376141",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Tue, 18 Aug 2026 05:17:10 GMT",
+      "content": "RT by @hibtc37: 盖棺定论：《朱镕基的罪与罚》，今天，朱镕基遗体火化，灰飞烟灭，不知他在空中有没有想起那些因他一念而起，命运动荡的人们：数千万人失去工作流离失所，男人骑着自行车送老婆做皮肉生意…… 2001年朱镕基在清华告别演讲时说了一个故事：儿子朱云来十几岁时，想在家里阳台上种菜，捡了一块破破烂烂的油毡子，准备搁了土种菜。朱镕基就打了他一个耳光。朱云来委屈解释，这油毡子是从垃圾堆里捡来的，不是偷拿别人财物。但朱镕基还是说：“把这块油毡子送回去，不管它是别人的还是垃圾堆里的”，亲自陪儿子把油毡子扔回了垃圾堆。 朱镕基在清华公开演讲中说出这件事，证明了两点：一，他要证明他不贪，也不准儿子贪。二，他不仅想让清华校友知道，更想让全国人民也知道他不贪，也不准儿子贪——然后他就说出那句“我只希望我卸任以后，全国人民能说一句，他是一个清官”。 几年间老朱手持菜刀砍电线，一路火花带闪电。六年下来，全国职工总数少了5975万人，降幅41.9%。王兵《铁西区》讲述的就是宏大叙事的国企改革下面，那抹破败的铁锈色混杂着几十年血与泪。1996和2001年严打，公安部卷宗里，东三省成了恶性案件最密集的地区。这些案子的主犯档案里常有同一行熟悉的字眼：东北某厂下岗工人，现无业。 为朱镕基叫好，理由如下：如果没有朱镕基快刀斩乱麻，东北肯定会拖垮全国，坏账也会影响加入WTO，他不动刀子，中国怎么成为世界工厂？怎么有后来的高速发展。 谁有权力牺牲某一部分人，谁有资格确定牺牲某一部分人。有论证过程吗，有法律程序有听证吗，为什么不给这些人更体面的安顿。靠一咬牙一跺脚，执政合法性就可疑了。当然我们从来不在乎合法性，咱有枪……1909年，张之洞病危，摄政王载沣去探视。张之洞劝他重视民心舆情，不可寒了天下人心。载沣傲然答：“怕什么，咱有兵在”。张之洞送走载沣，长叹一声：“不意闻此亡国之言”，不久去世。 秦制必然出现朱镕基。之前那个时间点的人物叫张居正，现在这个时间点的角色叫朱镕基。干的活儿，周一叫公私合营，周二叫人民公社，周三叫大跃进，周四叫国企改革，周五叫三峡移民……船要沉了，人家先扔下一批人减重，总有一天轮到扔你。 朱镕基学气象的儿子，掌管中国最大的投行，学社会学的女儿，在国有银行主管人民币业务，女婿掌管国企香港资本和资源平台。2007年，朱云来年薪1700万美元，按当年汇率相当于1亿2926万8000元，相当于5185名普通中国职工一年的工资，或者一个中国职工干5185年的收入，那时候还没有夏朝呢。上述，全在朱镕基主管的领域。说到这份儿上，您还认为朱镕基还是那个“我这里准备了100口棺材，99口留给贪官，一口留给我自己”的铁相……是不是有点矮化自己的智商了。 点击进入收看我的第五期油管节目，https://youtu.be/xgZ6F0hI4oU",
+      "url": "https://x.com/hibtc37/status/2089582354910376141",
+      "tweet_id": "2089582354910376141"
+    },
+    {
+      "id": "tweet_hibtc37_2088084341054435418",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Fri, 14 Aug 2026 02:04:36 GMT",
+      "content": "新区间： 640 635现价 628 大饼震荡，波动很小，我也看不出方向，前几天看到十亿哥做多打止损，我做空也打了止损，这种行情上下撸区间比较适合，但一旦变盘，做错方向就麻烦，这真是技术活了 震荡这么久了，交易大神们，你怎么看后市呢",
+      "url": "https://x.com/hibtc37/status/2088084341054435418",
+      "tweet_id": "2088084341054435418"
+    },
+    {
+      "id": "tweet_hibtc37_2087374830522048539",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Wed, 12 Aug 2026 03:05:15 GMT",
+      "content": "前几天看存储利空不跌，并且有非常大的空头流动性，这一周多存储板块没涨破也没跌破关键位，我猜测是要先往上走，于是挂了 $MU和 $SNDK的平出止盈单，想趁着他震荡期间走人，MU的单被吃了，SNDK竟然没有，SNDK就打止损了",
+      "url": "https://x.com/hibtc37/status/2087374830522048539",
+      "tweet_id": "2087374830522048539"
     }
   ],
   "stats": {
