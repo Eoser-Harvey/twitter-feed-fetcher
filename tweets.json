@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-08-18T23:25:55.262872+00:00",
-  "total": 18,
+  "fetched_at": "2026-08-19T01:20:34.318407+00:00",
+  "total": 21,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2089816296221519888",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Tue, 18 Aug 2026 20:46:46 GMT",
+      "content": "RT by @elonmusk: 🇺🇸 Fauci’s longtime right-hand man just pled guilty to conspiring to defraud the U.S. David Morens spent years helping bury COVID-related records through private emails, deletions, and FOIA workarounds. Rand Paul flagged him years ago. Now Morens is admitting it in court and facing prison time. He needs to spill everything about what Fauci knew and ordered if he wants mercy. The cover-up machine is starting to crack. Throw the book at all of them. Writer: Lucas",
+      "url": "https://x.com/elonmusk/status/2089816296221519888",
+      "tweet_id": "2089816296221519888",
+      "translated": "RT @elonmusk：🇺🇸 福奇的长期得力助手刚刚承认密谋诈骗美国。大卫·莫伦斯花了数年时间通过私人电子邮件、删除和信息自由法变通办法帮助埋葬与新冠病毒相关的记录。兰德·保罗几年前就标记过他。现在莫伦斯在法庭上承认了这一点，并面临牢狱之灾。如果他想要怜悯，他就需要泄露福奇所知道和命令的一切。掩盖机器开始破裂。把书扔给他们所有人。编剧: 卢卡斯"
+    },
+    {
+      "id": "tweet_elonmusk_2089875955355660349",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 19 Aug 2026 00:43:50 GMT",
+      "content": "RT by @elonmusk: Starlink is delivering reliable connectivity onboard @hyundaiglovis vessels, enabling efficient operations, rapid emergency communications, and seamless internet for crew in key ports and during ocean voyages 🛰️❤️",
+      "url": "https://x.com/elonmusk/status/2089875955355660349",
+      "tweet_id": "2089875955355660349",
+      "translated": "@elonmusk 的转发：Starlink 正在 @hyundaiglovis 船上提供可靠的连接，为主要港口和远洋航行期间的船员提供高效运营、快速应急通信和无缝互联网 🛰️❤️"
+    },
     {
       "id": "tweet_elonmusk_2089824315437089032",
       "username": "elonmusk",
@@ -11,26 +31,6 @@
       "url": "https://x.com/elonmusk/status/2089824315437089032",
       "tweet_id": "2089824315437089032",
       "translated": "恭喜Giga上海团队！"
-    },
-    {
-      "id": "tweet_elonmusk_2089321593768169508",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Mon, 17 Aug 2026 12:01:00 GMT",
-      "content": "RT by @elonmusk: Elon Musk says Starship could deliver nearly 10 million tons to orbit annually - the kind of scale needed to build a civilization beyond Earth.",
-      "url": "https://x.com/elonmusk/status/2089321593768169508",
-      "tweet_id": "2089321593768169508",
-      "translated": "RT @elonmusk：埃隆·马斯克表示，星际飞船每年可以向轨道运送近 1000 万吨货物——这是在地球之外建立文明所需的规模。"
-    },
-    {
-      "id": "tweet_elonmusk_2089781171060179338",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Tue, 18 Aug 2026 18:27:12 GMT",
-      "content": "RT by @elonmusk: Grok Bot is unbelievable. Automated 25% of my day to day in less than an hour.",
-      "url": "https://x.com/elonmusk/status/2089781171060179338",
-      "tweet_id": "2089781171060179338",
-      "translated": "RT @elonmusk：Grok Bot 令人难以置信。在不到一个小时的时间里，我的 25% 的日常工作都实现了自动化。"
     },
     {
       "id": "tweet_cz_binance_2089395321382277319",
@@ -70,7 +70,7 @@
       "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
       "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
       "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
+      "translated": "我们将把这位英雄的年轻人和他的家人带入白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
     },
     {
       "id": "tweet_realDonaldTrump_2073607119878623432",
@@ -92,31 +92,34 @@
       "translated": "视频"
     },
     {
-      "id": "tweet_qinbafrank_2089715193890976004",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Tue, 18 Aug 2026 14:05:01 GMT",
-      "content": "迎来收益率高中枢时代，实际利率比名义利率更重要。昨晚比较8月份行情与四五月行情差异，说完到今天油价和US10y都往上突破了近期的区间上限。油价的上涨博弈长期化的体现，今天这里https://x.com/qinbafrank/status/2089538610047639947?s=46&t=k6rimWsEbo2D2tXolYcM-A有聊过。现在聊聊US10Y。 须强调下，个人一直重点看十年美债收益率的走势，而非二十年和三十年，因为十年美债收益率才是真正的无风险利率（五年太短、二十三十年太长、十年正好）。聊聊几个点： 1、为什么我们会迎来收益率高中枢时代？ 十年美债收益率上涨到4.74%原因则更复杂，一方面自然是油价上涨自然通胀预期抬头、但是前段时间加息预期大幅降低US10Y也没下去。之前也聊过当下长债收益率走高，已经不仅仅是通胀预期在驱动，更重要的变量是债券供给规模越来越大： 一方面美国财政赤字上行、发行供给增大，市场开始提前计入未来赤字、期限风险、买家价格敏感度以及长期再融资压力； 另一方面因为AI基建浪潮的驱动，大科技公司今年发债规模也越来越大，这其实是和美国国债争夺养老金、保险资金、主权基金等投资者的久期风险预算，使新债必须提供更高收益率或更宽信用利差； 这些都导致了长端收益率居高不下、也就是收益率中枢走高。 2、当然不是说债券供给爆发”收益率只能涨、不能跌。” 1）如果未来发生经济明显减速、通胀下降或美联储大幅降息，3.43%的平均短端利率预期仍然可以显著下降，从而抵消期限溢价。 2）市场在评估AI资本开支的ROIC。过去大科技依靠经营现金流融资，现在越来越依赖债券、租赁、项目融资和其他资本结构。只要AI收入和现金流兑现，发债既推高利率，也推高未来盈利，两个力量可以相互抵消：经营质量越好、自然债券收益率也会越低。 但未来如果出现收入兑现慢于资本开支和利息成本，便会形成：债券供给推高折现率＋自由现金流下降＋ROIC被下调的三重压缩。 所以大科技债务融资既可能抬高市场的盈利容量，也可能在未来反过来降低市场对高利率的容忍度。 3、4.7%的十年美债收益率为何没对市场产业巨大压力？个人角度看 1）盈利增长速度高于股价上涨速度，估值在被盈利消化。这就是为什么同样是4.7%的10年美债收益率，现在对指数的冲击可以小于去年。 2）市场内部已经完成部分估值压缩和行业切换 高利率并没有“不造成伤害”，而是伤害先发生在了高估值板块、小盘成长股、REITs和公用事业；高负债、需要持续再融资的公司；现金流远期化的长久期资产。 简单说市场分化了、资金集中在盈利更强的半导体、部分大科技、金融、能源和工业板块， 3）信用市场暂时没有发出系统性压力信号 截至8月中旬，美国投资级公司债OAS仍只有80个基点，高收益债OAS为267个基点，整体仍处于相当紧的水平。只要信用利差不明显扩大，企业的全口径融资成本虽然高，但还没有转化成信用事故和系统性去杠杆。 所以目前市场能够承受4.7%，靠的是：盈利上修、信用利差稳定和部分估值提前压缩。 当然也有今天美银报告https://x.com/qinbafrank/status/2089561759770427439?s=46&t=k6rimWsEbo2D2tXolYcM-A里说到的：市场也相信政府会用更高的名义GDP增长来消化债务问题。这也是一个因素、个人角度、基本面的盈利增长还是第一位的。 4、红线变黄线，压力区上移动，市场的容忍区间推演 去年在这里https://x.com/qinbafrank/status/1925871211923296629?s=46&t=k6rimWsEbo2D2tXolYcM-A提到一个观察，4.6%是十年美债收益率的阈值、超过这个阈值市场压力越大、财政部越紧张。但现在这个阈值也在改变。给一个个人观察的框架 1）4.60%—4.75%：高利率但尚可消化 这是过去的红线，现在更接近黄线。只要盈利继续上修、信用利差稳定，收益率缓慢向上市场整体可以承受。 2）4.75%—4.90%明显的估值摩擦区 这个区间市场更容易出现：指数横盘、盈利消化估值；成长股向价值股和周期股轮动；市场宽度变差；财报后对盈利质量和自由现金流要求明显提高。 这一阶段并不要求指数大跌，但内部压力会越来越大。分化也越严重 3）4.90%—5.05%：新的真正压力区 在这个区间市场波动自然加大，如果是两三周快速上涨30—40个基点，而且实际利率、期限溢价和信用利差一起上升，市场不需要等到5%以上才会调整。 4）5.05%以上并持续数周：红色警报区域 用简化的倒数估值法看：盈利收益率从5.0%升至5.3%，市盈率从20倍降至18.9倍，估值压缩约5.7%；升至5.5%，市盈率降至18.2倍，估值压缩约9.1% 当然这只是一个大概的推演、框架比具体数字更值得参考。 5、真正核心的是实际利率，而非名义10年收益率 对成长股而言，实际利率比名义收益率更重要，例如： 10年名义收益率5.0%，通胀预期2.7%，实际利率2.3%； 10年名义收益率4.9%，通胀预期2.2%，实际利率2.7%。 第二种情况反而可能对高估值成长股更不利。 所谓好利率上涨，是经济增长、生产率和盈利预期同步上修； 坏利率上涨，则是经济数据已经走弱，但财政赤字、债券供给和期限溢价仍在推高长端。 市场对10年收益率的短期容忍区间正在上移，4.7%可能不再是硬红线，4.9%—5.0%正在成为新的压力边界。 高收益率中枢带来则是高波动率 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2089715193890976004",
-      "tweet_id": "2089715193890976004"
+      "id": "tweet_aleabitoreddit_2089766053274661143",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 18 Aug 2026 17:27:07 GMT",
+      "content": "My $AAOI TLDR notes at Rosenblatt summit: - Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins). - Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (cough cough $NVDA). - Sold out at least through second half of next year and beyond. (High demand visibility like $LITE) - Has 300-400 mW lasers already. - Expects margins to be above 40%+ once CPO comes about (probably most material for rerating). I can't see how anyone can be bearish on this company...",
+      "url": "https://x.com/aleabitoreddit/status/2089766053274661143",
+      "tweet_id": "2089766053274661143",
+      "translated": "我在 Rosenblatt 峰会上的 $AAOI TLDR 注释： - 预计美国产量 800 克/1.6 吨将获得溢价（对 ASP/利润率非常有利）。 - 几项长期协议摆在桌面上，但不想签署以阻止其他客户的容量（咳咳 $NVDA）。 - 至少在明年下半年及以后售完。 （高需求可见度，如 $LITE）- 已拥有 300-400 mW 激光器。 - 一旦 CPO 出台，预计利润率将超过 40%+（可能是重新评级的大部分材料）。我不明白怎么会有人看淡这家公司......"
     },
     {
-      "id": "tweet_qinbafrank_2089561759770427439",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Tue, 18 Aug 2026 03:55:20 GMT",
-      "content": "为什么美国长债收益率升至二十多年高位、财政利息支出不断上升，美股却还能创出新高？美银首席投资策略师Michael Hartnett在最新一期《Flow Show》报告中给出了他的观点：不是“债务问题不重要”，而是市场相信政策制定者会用更高的名义GDP消化债务，同时不会允许股市出现失控式下跌。美银将这种信念概括为： 1）政策制定者希望通过名义增长解决债务问题； 2）美国股市对居民财富、消费、养老金和政治支持率已经“太大而不能倒”； 因此，只要信用市场没有断裂，投资者会持续买入股票、AI、黄金和 其他“非债券资产”。 个人角度，美银总结的理由还只是次要，首要的还是AI快速发展，需求还在狂飙，商业化在加速。基本面强劲才是第一权重 但Hartnett报告有一句话也值得重视：AI产业未必马上见顶，但AI融资周期可能比AI需求周期更早暴露问题。 Hartnett第二值得重视的观点，他认为政治风险第一次将成为AI行情的核心变量。他把2026年美国中期选举，尤其是德州州长选举，视为AI资产的重大分水岭。美银提出两个情景： 情景一：共和党保住参议院，Abbott保住德州州长职位 AI数据中心建设继续获得较友好的政策环境，股票特别是AI资产可能进一步上涨，并在2027年进入更明显的泡沫状态。 情景二：民主党夺取参议院，并击败Abbott。这种情景下美银认为美股可能在年底前下跌超过10%，同时美元和债券收益率下降。 为什么德州选举对AI如此重要？ 德州已经拥有约 335座数据中心，另有约 247个项目处于拟建阶段。美银把州长选举定义为：“生活成本和可负担性，还是AI数据中心建设”的公投。 居民越来越关心电价上涨、电网可靠性、水资源消耗、土地和住房成本、数据中心获得税收优惠以及普通消费者是否承担电网扩张成本。 公开报道显示，Abbott对数据中心扩张采取了事实上的暂停或审慎态度，美银认为这已经反映出选举压力。 这说明AI产业已经从单纯的科技问题，进入了政治经济学阶段。 我自己的感觉是这一次中期选举，AI将会是一个非常重要和关键的政治议题，民主党能攻击共和党的两大方面：伊朗冲突带来的油价走高起，Ai数据中心建设浪潮带来的居民生活成本提高。AI基建的负面影响可能会被拿来反复刨析。",
-      "url": "https://x.com/qinbafrank/status/2089561759770427439",
-      "tweet_id": "2089561759770427439"
+      "id": "tweet_aleabitoreddit_2089746797300432912",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 18 Aug 2026 16:10:36 GMT",
+      "content": "I'm getting Vietnam flashbacks to the launch of OpenAi. Where with every model, it just keeps getting better... but now with hunanoids. Unitree has claimed that their humanoids: - Can now run faster than Usain Bolt. - Can now jump higher than any human. And with their IPO tomorrow, it seems like China is leading the hardware race.",
+      "url": "https://x.com/aleabitoreddit/status/2089746797300432912",
+      "tweet_id": "2089746797300432912",
+      "translated": "我想起了 OpenAi 推出时的越南经历。每个模型都在不断变得更好……但现在有了 hunanoids。 Unitree 声称他们的类人机器人： - 现在可以比尤塞恩·博尔特跑得更快。 - 现在可以跳得比任何人都高。随着明天的首次公开募股，中国似乎正在引领硬件竞赛。"
     },
     {
-      "id": "tweet_qinbafrank_2089538610047639947",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Tue, 18 Aug 2026 02:23:21 GMT",
-      "content": "停战备忘录60天期限到期，美伊博弈长期化趋势明显。昨天MOU期限届满，并无实质性突破：美方明确不寻求延长，伊方称因美方早期违规导致该期限已“无关紧要”。双方在海峡通航与封锁解除上立场依然对立。 8月13号在这里https://x.com/qinbafrank/status/2087903125399011470?s=46&t=k6rimWsEbo2D2tXolYcM-A最后聊到：“一个潜在的隐患：就是美伊博弈长期化，没有特别加剧升级但是霍尔木兹海峡还是迟迟不能打开。” 而现在个人角度看，长期化趋势愈发明显。 几个点来看： 1、伊朗方面 1）路透社报道伊朗因僵局转向“全面进攻”姿态，准备在霍尔木兹及更广区域升级；若外交失败，将发动“及时且精确”的军事攻击以打破美国海军封锁。给美方“几周”时间恢复接触。在停战期间，伊朗也在积极备战，军备扩产武装民兵； 2）前几天伊朗国内开始悬赏约3万美元（或等值）抓捕/击杀美军人员； 3）上周穆杰塔巴主导了伊朗内一些列重要的人事变动： 前伊斯兰革命卫队总司令雷扎伊为被任命为最高国家安全委员会秘书，并同时被任命为最高领袖在该委员会的代表； 阿卜杜拉希为伊斯兰革命卫队少将，于8月10日被任命伊朗武装部队总参谋长：负责推进武装部队总参谋部与哈塔姆安比亚中央总部的整合 瓦希迪留任并晋襟升8月10日晋升少将，正式被任命为伊朗伊斯兰革命卫队总司令； 塔伊布为前伊斯兰革命卫队情报组织负责人，出任巴斯基民兵组织负责人。 同时还任命了革命卫队副总司令和海军司令。 能看出来穆杰塔巴现在对伊朗内部的权力掌控是越来越大的，已经不仅仅是很多人说的“傀儡”了。 之前也聊过，7月份冲突再起核心是伊朗想想牢牢把控霍尔木兹海峡的控制权，丝毫不让。现在看起来在这一点、依然很强硬。 2、再看美国 1）川普日前接受福克斯新闻采访及其他场合强调伊朗应“举起白旗投降”；“我没有时间表……我不着急”，中期选举与决策无关。伊朗官员“想要达成协议，但不会是我觉得必要的那种”；首要目标是“伊朗绝不能以任何形式拥有核武器”。对阿曼威胁：“如果阿曼挡道，我们就会把他们炸到狗屎里”（“If Oman gets in the way, we’ll bomb the shit out of them”），后补充称阿曼“表现不好”，但美方“很容易处理”。 2）上周贝森特说要给伊朗更强有力的经济制裁 看起来 1）伊方以控制海峡为杠杆，推进与阿曼双边安排并准备升级； 伊朗手握海峡牌、赌的是霍尔木兹海峡不通油价高涨、美国国内通胀受不了、民意沸腾，川普不得不承认伊朗队海峡的控制权； 2）美方以封锁、威胁和“不急”施压，坚持核红线与海峡自由通行； 美国强力封锁伊朗沿岸和经济制裁，其实也赌的是伊朗内部经济压力越来越高、民怨沸腾、不得不退让。 聊到这里，会发现最后看美伊两国哪一个说民众忍受力更强、更耐操。看起来还是伊朗忍受力更强，且民众话语权不强。 但看起来川普也无法现在就接受伊朗真的控制了海峡。不仅面子挂不住，里子也压不住（国内反对声音更大）。 这种情况下，双方就变得继续僵持，僵持越久油价自然也很难控住。之后在某些时刻还是会对市场产生压力、造成波动。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2089538610047639947",
-      "tweet_id": "2089538610047639947"
+      "id": "tweet_aleabitoreddit_2089690098875130084",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Tue, 18 Aug 2026 12:25:18 GMT",
+      "content": "Looks like we're getting the Strait of America, a new US territory...",
+      "url": "https://x.com/aleabitoreddit/status/2089690098875130084",
+      "tweet_id": "2089690098875130084",
+      "translated": "看起来我们正在获得美国海峡，美国的新领土......"
     },
     {
       "id": "tweet_xiaomustock_2089607956493205766",
@@ -144,6 +147,33 @@
       "content": "始终坚信这一条， 如果机会足够伟大， 绝对显而易见随时都能上车， 而不会因为某个人是霉逼或者某个人某类人是反指而买入就下跌。 万事万物中的伟大机会都会遵循这个原则。 如果没有遵循说明不够伟大很垃圾。",
       "url": "https://x.com/xiaomustock/status/2089220928840548847",
       "tweet_id": "2089220928840548847"
+    },
+    {
+      "id": "tweet_xingpt_2089740360239165585",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Tue, 18 Aug 2026 15:45:02 GMT",
+      "content": "盘中做了几笔操作，后续可能会继续建仓一个新主题，具体操作及思路见会员频道：https://www.patreon.com/xingpt/posts/0818-mei-gu-pan-167026144?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
+      "url": "https://x.com/xingpt/status/2089740360239165585",
+      "tweet_id": "2089740360239165585"
+    },
+    {
+      "id": "tweet_xingpt_2089706862409371769",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Tue, 18 Aug 2026 13:31:55 GMT",
+      "content": "AGPU：市值 仅1 亿美金的Neocloud 过去两年，AI 行业的稀缺资源不断从 GPU 向更底层的基础设施转移：先是芯片短缺，随后是数据中心容量不足，如今进一步演变为电力、土地和散热资源的竞争。Neocloud 和 AIDC 正是在这一背景下兴起。 Neocloud 专门面向 AI 训练和推理提供 GPU 算力，以 CoreWeave、Nebius 为代表；AIDC 则围绕高功率密度、液冷和充足电力重新设计数据中心，核心竞争力逐渐从“能不能买到 GPU”转向“能不能快速把 GPU 部署上线”。 2026 年转型后的 Axe Compute（AGPU）是一个典型的小市值样本。公司前身为生物医药企业 Predictive Oncology，完成融资和更名后切入 GPU 算力服务，业务包括为企业建设专属 GPU 集群，以及通过 Aethir 网络提供灵活算力。其商业模式的重要特点是利用客户预付款降低前期资金压力，再以长期合同进行项目融资。公司披露已获得超过 3.17 亿美元预付款，并与 Duos Technologies 合作获取 55MW 数据中心容量，同时尝试参股相关基础设施资产。双方在佐治亚州还曾通过模块化建设，将空置建筑在约 45 天内改造成 GPU 集群。 AGPU 的扩张速度十分激进。2026 年前八个月，公司宣称累计签约合同超过 32 亿美元，全部部署后的年化收入可达到 6.96 亿美元，而同期市值仅约 1.2 亿美元。 AGPU 的业务扩张目前主要围绕两条线展开： 一条是为企业客户建设和运营专属 GPU 集群，通过 3 至 5 年的长期合同锁定算力需求；另一条是向数据中心基础设施进一步延伸，通过与 Duos Technologies 等合作方获取电力和机房资源，并尝试参股相关项目。 公司披露的最大合同规模达到 15 亿美元，涉及约 9200 块英伟达 B300 GPU，同时已签署涉及 55MW 算力容量的合作协议。资金端则采用“客户预付款+项目融资”的模式，以减少公司自身一次性承担巨额 GPU 和数据中心建设成本的压力。如果这些合同能够逐步转化为实际部署算力和收入，AGPU 的业务规模可能在较短时间内快速扩大。 不过，目前公司仍处于大规模建设和交付阶段，后续重点仍需观察项目落地速度以及实际收入兑现情况。 Disclaimer：本文仅为信息分析，不代表任何投资建议，也不构成背书或者推荐。 @AxeCompute @Axiom_Invest_",
+      "url": "https://x.com/xingpt/status/2089706862409371769",
+      "tweet_id": "2089706862409371769"
+    },
+    {
+      "id": "tweet_xingpt_2089663482123936073",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Tue, 18 Aug 2026 10:39:32 GMT",
+      "content": "10 天前也提到这个问题，客观来说，Anthropic ARR下降对AI行业整体需求来说不会减弱太多，目前我主力从用Claude Code改成了Codex+Claude code；但总的投入天花板是逐渐看得到的，无非就是把Claude的额度分到了其他地方。 当务之急，还是要开发coding之外的应用场景。",
+      "url": "https://x.com/xingpt/status/2089663482123936073",
+      "tweet_id": "2089663482123936073"
     },
     {
       "id": "tweet_hibtc37_2089582354910376141",
@@ -174,8 +204,8 @@
     }
   ],
   "stats": {
-    "users_success": 6,
-    "users_failed": 2,
-    "nitter_healthy": 9
+    "users_success": 7,
+    "users_failed": 1,
+    "nitter_healthy": 10
   }
 }
