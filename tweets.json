@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-19T17:30:01.935288+00:00",
+  "fetched_at": "2026-08-19T18:38:38.109585+00:00",
   "total": 21,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2090140132766830829",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 19 Aug 2026 18:13:35 GMT",
+      "content": "Yes",
+      "url": "https://x.com/elonmusk/status/2090140132766830829",
+      "tweet_id": "2090140132766830829",
+      "translated": "是的"
+    },
+    {
+      "id": "tweet_elonmusk_2090138513421512999",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 19 Aug 2026 18:07:09 GMT",
+      "content": "Nothing is guaranteed",
+      "url": "https://x.com/elonmusk/status/2090138513421512999",
+      "tweet_id": "2090138513421512999",
+      "translated": "没有什么是可以保证的"
+    },
+    {
+      "id": "tweet_elonmusk_2090136255694881101",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 19 Aug 2026 17:58:10 GMT",
+      "content": "Derek Chauvin was unjustly convicted of murder, therefore he should be freed. The facts show that he was not the cause of death, nor did he at any time intend for a death to occur. Whatever else he may be, he is not a murderer. That is the truth.",
+      "url": "https://x.com/elonmusk/status/2090136255694881101",
+      "tweet_id": "2090136255694881101",
+      "translated": "德里克·肖文被不公正地判犯有谋杀罪，因此他应该被释放。事实表明，他不是死因，他也从来没有意图造成死亡。不管他是什么，他都不是杀人犯。这是事实。"
+    },
     {
       "id": "tweet_cz_binance_2090040228593697013",
       "username": "cz_binance",
@@ -31,35 +61,6 @@
       "url": "https://x.com/cz_binance/status/2090030185328644485",
       "tweet_id": "2090030185328644485",
       "translated": "有些会议每张门票收费 2000 美元。 BBW 是 20 美元。提供访问权限。 👏"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2082159711852298494",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Tue, 28 Jul 2026 17:42:14 GMT",
-      "content": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-      "url": "https://x.com/realDonaldTrump/status/2082159711852298494",
-      "tweet_id": "2082159711852298494",
-      "translated": "我们将把这位英雄的年轻人和他的家人带进白宫，也许还有他救下的那个男孩，授予他最高平民荣誉。非常勇敢，他值得！唐纳德·J·特朗普总统"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2073607119878623432",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Sun, 05 Jul 2026 03:17:17 GMT",
-      "content": "x.com/i/broadcasts/1yxBeeAql…",
-      "url": "https://x.com/realDonaldTrump/status/2073607119878623432",
-      "tweet_id": "2073607119878623432"
-    },
-    {
-      "id": "tweet_realDonaldTrump_2072681271566708832",
-      "username": "realDonaldTrump",
-      "display_name": "特朗普",
-      "published_at": "Thu, 02 Jul 2026 13:58:18 GMT",
-      "content": "Video",
-      "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
-      "tweet_id": "2072681271566708832",
-      "translated": "视频"
     },
     {
       "id": "tweet_aleabitoreddit_2090103899302826302",
@@ -204,6 +205,6 @@
   "stats": {
     "users_success": 7,
     "users_failed": 1,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
