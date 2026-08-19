@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-19T21:28:13.121708+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-19T22:28:05.388695+00:00",
+  "total": 24,
   "tweets": [
     {
       "id": "tweet_elonmusk_2090154365365710911",
@@ -177,6 +177,33 @@
       "tweet_id": "2089376641445482583"
     },
     {
+      "id": "tweet_xingpt_2090084841870283119",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 19 Aug 2026 14:33:52 GMT",
+      "content": "昨天在会员频道分享的操作思路，供各位参考讨论。我也是交易的学徒，希望跟大家一起成长。",
+      "url": "https://x.com/xingpt/status/2090084841870283119",
+      "tweet_id": "2090084841870283119"
+    },
+    {
+      "id": "tweet_xingpt_2090084315736793302",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 19 Aug 2026 14:31:47 GMT",
+      "content": "半导体仍然弱势，昨天清仓的策略暂时奏效。 后续看看防守板块怎么配置吧，还没来的及仔细看。有懂得大神欢迎评论交流",
+      "url": "https://x.com/xingpt/status/2090084315736793302",
+      "tweet_id": "2090084315736793302"
+    },
+    {
+      "id": "tweet_xingpt_2089966824234606999",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Wed, 19 Aug 2026 06:44:55 GMT",
+      "content": "退出所有交易，暂时观望，复盘七月大跌之后这次更像是二次探底。 8 月没有上去到之前的高度，那么接下来可能是以季度为单位的调整了。",
+      "url": "https://x.com/xingpt/status/2089966824234606999",
+      "tweet_id": "2089966824234606999"
+    },
+    {
       "id": "tweet_hibtc37_2089582354910376141",
       "username": "hibtc37",
       "display_name": "HiBTC",
@@ -205,8 +232,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
