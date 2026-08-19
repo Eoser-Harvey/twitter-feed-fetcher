@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-08-19T07:40:39.792773+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-19T08:40:28.414283+00:00",
+  "total": 24,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2089988123367440784",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 19 Aug 2026 08:09:33 GMT",
+      "content": "No kidding …",
+      "url": "https://x.com/elonmusk/status/2089988123367440784",
+      "tweet_id": "2089988123367440784",
+      "translated": "没开玩笑……"
+    },
+    {
+      "id": "tweet_elonmusk_2089971440682508750",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 19 Aug 2026 07:03:15 GMT",
+      "content": "RT by @elonmusk: Falcon 9 launches 24 @Starlink satellites from California",
+      "url": "https://x.com/elonmusk/status/2089971440682508750",
+      "tweet_id": "2089971440682508750",
+      "translated": "RT @elonmusk：猎鹰 9 号从加利福尼亚州发射了 24 颗 @Starlink 卫星"
+    },
     {
       "id": "tweet_elonmusk_2089977436066992413",
       "username": "elonmusk",
@@ -11,26 +31,6 @@
       "url": "https://x.com/elonmusk/status/2089977436066992413",
       "tweet_id": "2089977436066992413",
       "translated": "的确"
-    },
-    {
-      "id": "tweet_elonmusk_2089968914596045178",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 19 Aug 2026 06:53:13 GMT",
-      "content": "Specialist AI’s (single language, single area of knowledge) are another 100X",
-      "url": "https://x.com/elonmusk/status/2089968914596045178",
-      "tweet_id": "2089968914596045178",
-      "translated": "专业人工智能（单一语言、单一知识领域）又是 100 倍"
-    },
-    {
-      "id": "tweet_elonmusk_2089963186317565992",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 19 Aug 2026 06:30:27 GMT",
-      "content": "What’s ur @Bots?",
-      "url": "https://x.com/elonmusk/status/2089963186317565992",
-      "tweet_id": "2089963186317565992",
-      "translated": "你的@Bots 是什么？"
     },
     {
       "id": "tweet_cz_binance_2089395321382277319",
@@ -149,6 +149,33 @@
       "tweet_id": "2089924512569761962"
     },
     {
+      "id": "tweet_xiaomustock_2089974136437449126",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Wed, 19 Aug 2026 07:13:58 GMT",
+      "content": "海力士回购+50%自由现金回报股东",
+      "url": "https://x.com/xiaomustock/status/2089974136437449126",
+      "tweet_id": "2089974136437449126"
+    },
+    {
+      "id": "tweet_xiaomustock_2089607956493205766",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Tue, 18 Aug 2026 06:58:54 GMT",
+      "content": "棒子真是一坨呐，直接把存储坑下来了，昨天还加仓了海力士😭",
+      "url": "https://x.com/xiaomustock/status/2089607956493205766",
+      "tweet_id": "2089607956493205766"
+    },
+    {
+      "id": "tweet_xiaomustock_2089376641445482583",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Mon, 17 Aug 2026 15:39:44 GMT",
+      "content": "在闪迪美光长鑫涨成这逼样的情况下， 海力士再此非常具有性价比。 虽然韩国股市是一坨",
+      "url": "https://x.com/xiaomustock/status/2089376641445482583",
+      "tweet_id": "2089376641445482583"
+    },
+    {
       "id": "tweet_xingpt_2089966824234606999",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -204,8 +231,8 @@
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
+    "users_success": 8,
+    "users_failed": 0,
     "nitter_healthy": 10
   }
 }
