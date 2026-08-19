@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-19T15:35:01.554974+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-19T16:34:37.863470+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2090009546227904545",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 19 Aug 2026 09:34:40 GMT",
-      "content": "RT by @elonmusk: Starship 43's nose cone and payload section has been moved into megabay 2 to begin stacking and assembly. This will be the ship for flight 16. Starship 42 (flight 15) is partially visible in the background. 8/19/26",
-      "url": "https://x.com/elonmusk/status/2090009546227904545",
-      "tweet_id": "2090009546227904545",
-      "translated": "RT @elonmusk：Starship 43 的鼻锥和有效载荷部分已移至 megabay 2 中开始堆叠和组装。这将是 16 号航班的飞船。星舰 42（15 号航班）在背景中部分可见。 26年8月19日"
-    },
-    {
-      "id": "tweet_elonmusk_2090068167016190357",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 19 Aug 2026 13:27:37 GMT",
-      "content": "RT by @elonmusk: Starlink’s high-speed internet is now available onboard @lufthansa 🛰️✈️",
-      "url": "https://x.com/elonmusk/status/2090068167016190357",
-      "tweet_id": "2090068167016190357",
-      "translated": "@elonmusk 转发：Starlink 的高速互联网现在可在机上使用@lufthansa 🛰️✈️"
-    },
-    {
-      "id": "tweet_elonmusk_2090094289246400952",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 19 Aug 2026 15:11:25 GMT",
-      "content": "Starlink on @lufthansa",
-      "url": "https://x.com/elonmusk/status/2090094289246400952",
-      "tweet_id": "2090094289246400952",
-      "translated": "星链是@lufthansa"
-    },
     {
       "id": "tweet_cz_binance_2090040228593697013",
       "username": "cz_binance",
@@ -92,6 +62,16 @@
       "translated": "视频"
     },
     {
+      "id": "tweet_aleabitoreddit_2090103899302826302",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 19 Aug 2026 15:49:36 GMT",
+      "content": "$MRVL gives $GOOGL options to buy $12.2B of the company. \"The Marvell-Google deal covers a broad range of technologies used ​with TPUs, including processors that run AI models, manage data storage ​and move information ⁠across networks.\" Which could translate into ~$120 billion ​in revenue through 2033. Marvell also has separate warrants with $AMZN after their Celestial acquisition (for purchases of photonic fabric). Remember the good times when Jensen said Marvell would be the next $1T+ company? Seems Nvidia knew Marvell was \"networking\" its way into all the hyperscalers with warrants.",
+      "url": "https://x.com/aleabitoreddit/status/2090103899302826302",
+      "tweet_id": "2090103899302826302",
+      "translated": "$MRVL 给予 $GOOGL 购买该公司 $12.2B 的期权。 “Marvell 与 Google 的交易涵盖了 TPU 所使用的广泛技术，包括运行 AI 模型、管理数据存储以及跨网络移动信息的处理器。”到 2033 年，这可能会带来约 1200 亿美元的收入。 Marvell 在收购 Celestial（用于购买光子织物）后还向 AMZN 授予了单独的认股权证。还记得 Jensen 说 Marvell 将成为下一家 1T+ 公司的美好时光吗？ Nvidia 似乎知道 Marvell 正在通过授权“联网”进入所有超大规模企业。"
+    },
+    {
       "id": "tweet_aleabitoreddit_2089973586425766134",
       "username": "aleabitoreddit",
       "display_name": "Serenity (白毛股神)",
@@ -112,14 +92,13 @@
       "translated": "Unitree（688836）现已上市。上涨 +492.18% 后，估值约为 $53.3B 我们终于有了一个针对人形机器人的主要上市公司基准。作为参考，Agility（由 $NVDA、$AMZN 支持）通过 $CCXI 预计将以 $2.5B 的投前估值第四季度上市。 $TSLA 是 $1T+，但 Optimus 被包裹在一家更大的公司内。但我认为 Unitree 表明，对纯粹的人形玩家的需求比人们在公开市场上的预期要大得多。"
     },
     {
-      "id": "tweet_aleabitoreddit_2089766053274661143",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Tue, 18 Aug 2026 17:27:07 GMT",
-      "content": "My $AAOI TLDR notes at Rosenblatt summit: - Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins). - Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (cough cough $NVDA). - Sold out at least through second half of next year and beyond. (High demand visibility like $LITE) - Has 300-400 mW lasers already. - Expects margins to be above 40%+ once CPO comes about (probably most material for rerating). I can't see how anyone can be bearish on this company...",
-      "url": "https://x.com/aleabitoreddit/status/2089766053274661143",
-      "tweet_id": "2089766053274661143",
-      "translated": "我在 Rosenblatt 峰会上的 $AAOI TLDR 注释： - 预计美国产量 800 克/1.6 吨将获得溢价（对 ASP/利润率非常有利）。 - 几项长期协议摆在桌面上，但不想签署以阻止其他客户的容量（咳咳 $NVDA）。 - 至少在明年下半年及以后售完。 （高需求可见度，如 $LITE）- 已拥有 300-400 mW 激光器。 - 一旦 CPO 出台，预计利润率将超过 40%+（可能是重新评级的大部分材料）。我不明白怎么会有人看淡这家公司......"
+      "id": "tweet_qinbafrank_2090101924293165467",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Wed, 19 Aug 2026 15:41:45 GMT",
+      "content": "7月上旬说大饼能到7万以上，这次应该是终于要看到了。白宫全是加密/数字货币相关高管和行业协会的“科技领袖会议”催化，底层驱动还是今晚贝森特出手救市https://x.com/qinbafrank/status/2090072033388617853?s=46&t=k6rimWsEbo2D2tXolYcM-A短期压制因素接触。",
+      "url": "https://x.com/qinbafrank/status/2090101924293165467",
+      "tweet_id": "2090101924293165467"
     },
     {
       "id": "tweet_qinbafrank_2090090050570916041",
@@ -139,15 +118,6 @@
       "url": "https://x.com/qinbafrank/status/2090072033388617853",
       "tweet_id": "2090072033388617853",
       "translated": "贝森特出手，财政部救市。这是今晚市场影响最大的，盘前美国财政部宣布将把针对长期名义付息债券的流动性支持回购操作单次最高规模至少提高一倍，升至每笔操作至少40亿美元，新规定将于9月9日起正式生效。简单说之前每次20亿美金的回购效果不佳，那就加大药量。消息一出，US10y、US20y、US30y应声下挫  单笔从20亿提到至少40亿，叠加季度内多次操作，短期可显着增加长端回购量（此前季度流动性支持回购总量约在数十亿美元量级）。加大回购旧券规模，特别是二十年三十年期长债，直接清理市场上流动性较差的长期券，也能看出来贝森特对于长端利率走高其实很敏感。 对股市与风险资产来说，长端收益率回落缓解金融条件收紧，利好成长股、科技股及高估值资产。若长端稳定，有助于降低企业融资成本。 收益率下行+流动性信号偏鸽，短期压制因素解除。 这让我想起来、23年10月https://x.com/qinbafrank/status/1716746079528481236?s=46&t=k6rimWsEbo2D2tXolYcM-A上一次US30y大幅度高于5%、US10Y逼近5%那个时候还是鲍威尔、耶伦还拉上了比尔阿卡曼一起出手才给压下来。 去年5月中https://x.com/qinbafrank/status/1925871211923296629?s=46&t=k6rimWsEbo2D2tXolYcM-A贝森特也有出手稳住债市 今天已经是内森特本月内第二次出手打压​​长端收益率，第一次是两周前帮助日本央行稳住日元汇率、核心也是不想让日央行抛美债就日元。 能看出内森特对长端收益率走高其实非常在意。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」"
-    },
-    {
-      "id": "tweet_qinbafrank_2090064998060245249",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 19 Aug 2026 13:15:01 GMT",
-      "content": "一份潜在总值1200亿美金的定制产品开发及股权认购合作协议，MRVL宣布跟谷歌在7月29日达成芯片产品开发协议，涵盖AI、存储和网络芯片领域，并同时向谷歌发行一份最多可购买5897万股股票的认股权证，行权价格设定为每股206.58美元。在协议签署后的第一年内，每季度将有136.0867万份认股权证股份归属。详细分析下这份合作协议 1、合作范围 覆盖与Google TPU 生态系统紧密相关的综合定制硅芯片项目，具体包括：AI 推理加速器、存储控制器、网络接口控制器、内存接口控制器、近内存计算等细分板块。 谷歌对相关产品的采购具有一定裁量权，权证归属与这些采购产生的收入直接挂钩。显示双方在 AI、存储和网络芯片领域的既有或潜在关系进一步深化。 2、认股权证（Warrant）条款 最多可购买 58,970,907 股 Marvell 普通股 1）行权价格：每股 206.58 美元（固定，但受惯例反稀释调整影响）。 2）行权期限：自发行日起至 2033 年 8 月 18 日（约 7 年），可全部或部分行权，但需先满足归属条件。 3）时间归属：1,360,867 股在商业协议和权证执行后的第一年内按季度等额归属（约每季度 340,216–340,217 股）。这部分相对“确定”，主要体现对合作启动的初步承诺。 4）业绩归属： 剩余约 57,610,040 股，从公司2027 财年第三季度起至 2033 财年末，按 Google 及其关联方对协议定制化产品的裁量性采购产生的收入，分成 240 个等额份额归属。 每产生 5 亿美元定制化产品收入，归属 1 个份额（约 24 万股左右）。 这意味着若全部归属，对应的累计定制化产品收入上限约为 1,200 亿美元（240 × 5 亿美元）。 这是一个极高的里程碑，反映双方对长期大规模合作的乐观预期，但并非保证收入，完全取决于 Google 的实际采购。 3、对对 Marvell的意义与影响 1）重大客户锁定与收入可见性。Google 作为全球最大 AI/云服务商之一，将其纳入 TPU 生态的定制芯片供应（尤其推理、存储、网络和近内存计算），有助于 Marvell 在 AI ASIC/定制硅领域进一步多元化客户（此前已有与 AWS 等的类似权证合作）。 从产品供应采购合作进一步升级到股权合作。 2）潜在巨大收入 若认股权证的全部完成归属，意味着MRVl实现了1,200 亿美元定制产品营收，将是公司历史级增长驱动力（当前公司年收入规模远低于此）。 权证结构将 Google 的利益与 Marvell 的执行和收入增长绑定，降低客户流失风险。 3）当然认股权证完全兑现行权，意味着未来谷歌将持有MRVL约6.5–6.7%的股权，成为大股东。当然全部归属并行权会产生显著稀释。 2、对 Google的意义 1）通过认股权证获得 Marvell 股权上行空间，同时锁定定制芯片供应能力，支持其 TPU 生态扩展和供应商多元化（降低对单一合作伙伴的依赖）。 2）权证行权价设置合理，若 Marvell 因合作成功股价大幅上涨，Google 可低成本增持，未来谷歌所持有的MRVL股权增值收益都能覆盖大部分对MRVL采购支出。 这算的一手好帐。 若未达收入里程碑也无需全额归属。 简单说 这是一份高潜力、长期导向的 AI 定制芯片战略合作，权证规模大且与高达 1,200 亿美元潜在收入挂钩。也是典型的“战略合作 + 业绩挂钩权证”模式（MRVL此前与亚马逊也有类似合作机制）。时间归属部分提供启动激励，业绩归属部分确保 Google 实际采购才释放股权，双方风险共担、利益共享。",
-      "url": "https://x.com/qinbafrank/status/2090064998060245249",
-      "tweet_id": "2090064998060245249"
     },
     {
       "id": "tweet_xiaomustock_2089974136437449126",
@@ -232,8 +202,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
