@@ -1,37 +1,7 @@
 {
-  "fetched_at": "2026-08-19T22:28:05.388695+00:00",
-  "total": 24,
+  "fetched_at": "2026-08-19T23:25:47.634538+00:00",
+  "total": 21,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2090154365365710911",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 19 Aug 2026 19:10:08 GMT",
-      "content": "He committed serious crimes, as did Fauci",
-      "url": "https://x.com/elonmusk/status/2090154365365710911",
-      "tweet_id": "2090154365365710911",
-      "translated": "他犯下了严重罪行，福奇也是如此"
-    },
-    {
-      "id": "tweet_elonmusk_2090092802612863098",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 19 Aug 2026 15:05:30 GMT",
-      "content": "RT by @elonmusk: Does this change everything?",
-      "url": "https://x.com/elonmusk/status/2090092802612863098",
-      "tweet_id": "2090092802612863098",
-      "translated": "RT @elonmusk：这会改变一切吗？"
-    },
-    {
-      "id": "tweet_elonmusk_2090152004110925996",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 19 Aug 2026 19:00:45 GMT",
-      "content": "Yep.",
-      "url": "https://x.com/elonmusk/status/2090152004110925996",
-      "tweet_id": "2090152004110925996",
-      "translated": "是的。"
-    },
     {
       "id": "tweet_cz_binance_2090177492380201278",
       "username": "cz_binance",
@@ -232,8 +202,8 @@
     }
   ],
   "stats": {
-    "users_success": 8,
-    "users_failed": 0,
+    "users_success": 7,
+    "users_failed": 1,
     "nitter_healthy": 10
   }
 }
