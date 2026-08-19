@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T20:31:22.891863+00:00",
+  "fetched_at": "2026-08-19T21:28:13.121708+00:00",
   "total": 21,
   "tweets": [
     {
@@ -33,6 +33,26 @@
       "translated": "是的。"
     },
     {
+      "id": "tweet_cz_binance_2090177492380201278",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Wed, 19 Aug 2026 20:42:02 GMT",
+      "content": "Will be speaking at SALT conference with @Scaramucci in about an hour, in person, from Jackson Hole, Wyoming.",
+      "url": "https://x.com/cz_binance/status/2090177492380201278",
+      "tweet_id": "2090177492380201278",
+      "translated": "大约一个小时后，我将在怀俄明州杰克逊霍尔与 @Scaramucci 亲自在 SALT 会议上发表讲话。"
+    },
+    {
+      "id": "tweet_cz_binance_2090176538486468780",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Wed, 19 Aug 2026 20:38:15 GMT",
+      "content": "We are so back! 👏",
+      "url": "https://x.com/cz_binance/status/2090176538486468780",
+      "tweet_id": "2090176538486468780",
+      "translated": "我们就这么回来了！ 👏"
+    },
+    {
       "id": "tweet_cz_binance_2090040228593697013",
       "username": "cz_binance",
       "display_name": "CZ (赵长鹏)",
@@ -41,26 +61,6 @@
       "url": "https://x.com/cz_binance/status/2090040228593697013",
       "tweet_id": "2090040228593697013",
       "translated": "如果你想让两年后的你欣赏你今天所做的事情，那么......（不称任何底部。没有人可以。但尝试采用每年的视野。）"
-    },
-    {
-      "id": "tweet_cz_binance_2090120258673848329",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 19 Aug 2026 16:54:36 GMT",
-      "content": "R to @cz_binance: Complete coincidence, if you want the you 5 hours later to appreciate you… 😂",
-      "url": "https://x.com/cz_binance/status/2090120258673848329",
-      "tweet_id": "2090120258673848329",
-      "translated": "R 致@cz_binance：完全巧合，如果你想让5小时后的你欣赏你……😂"
-    },
-    {
-      "id": "tweet_cz_binance_2090030185328644485",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 19 Aug 2026 10:56:41 GMT",
-      "content": "Some conferences charge $2000 per ticket. BBW is $20. Providing access. 👏",
-      "url": "https://x.com/cz_binance/status/2090030185328644485",
-      "tweet_id": "2090030185328644485",
-      "translated": "有些会议每张门票收费 2000 美元。 BBW 是 20 美元。提供访问权限。 👏"
     },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
