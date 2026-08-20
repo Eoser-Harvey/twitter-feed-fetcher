@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-19T23:25:47.634538+00:00",
+  "fetched_at": "2026-08-20T01:20:02.733417+00:00",
   "total": 21,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2090213954744463691",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 19 Aug 2026 23:06:55 GMT",
+      "content": "RT by @elonmusk: Grok Build just got a new update bringing a first-class workflows catalog, Always and Never allow on permission prompts, a live status line that can refresh on a timer, and faster shutdown of looping tool calls Release Notes: v1.0.7 Features: • Users hitting startup timeouts can now raise the connect budget with the `GROK_CONNECT_UI_TIMEOUT_SECS` environment variable. • Permission prompts now show \"Always allow\" and \"Never allow\" options by default. • Users can now delete scheduled background loops directly from the tray. • Status line command scripts can now run on a timer via refresh_interval in config.toml. • Permission prompts now offer a 'Never allow' choice for MCP tools and web-fetch domains that persists per project. • Workflows tab added to the extensions modal (Ctrl+L or /plugins) listing installed workflows with name, source, and description. • New /workflows command opens the Workflows catalog tab; use /workflow runs to view live workflow runs. • Bare /workflow (or /workflow runs) now lists active and recent workflow runs with status and progress instead of usage help. • Workflows row added to the Ctrl+P command palette, opening the Workflows catalog tab. Bug Fixes: • MCP server connections in non-interactive sessions no longer incorrectly require authentication for tokenless servers. • Fixed startup timeouts caused by concurrent auth refreshes across multiple sessions. • Tool call loops are interrupted earlier to avoid wasting time on repeated identical actions. • Subagents no longer receive the ask-user-question tool. • Bare email addresses are now turned into clickable mailto links in the pager.",
+      "url": "https://x.com/elonmusk/status/2090213954744463691",
+      "tweet_id": "2090213954744463691",
+      "translated": "RT by @elonmusk：Grok Build 刚刚获得了一个新的更新，带来了一流的工作流程目录、始终和从不允许权限提示、可以在计时器上刷新的实时状态行以及更快地关闭循环工具调用发行说明：v1.0.7 功能： • 遇到启动超时的用户现在可以使用“GROK_CONNECT_UI_TIMEOUT_SECS”环境变量提高连接预算。 • 权限提示现在默认显示“始终允许”和“从不允许”选项。 • 用户现在可以直接从托盘中删除预定的后台循环。 • 状态行命令脚本现在可以通过config.toml 中的refresh_interval 在计时器上运行。 • 权限提示现在为MCP 工具和每个项目持续存在的Web 获取域提供“从不允许”选择。 • 添加到扩展模式（Ctrl+L 或/plugins）的“工作流程”选项卡列出了已安装的工作流程及其名称、来源和说明。 • 新的/workflows 命令可打开工作流程目录选项卡；使用 /workflow running 查看实时工作流程运行。 • 裸/工作流（或/工作流运行）现在列出活动的和最近的工作流运行以及状态和进度，而不是使用帮助。 • 工作流程行添加到Ctrl+P 命令选项板，打开工作流程目录选项卡。错误修复： • 非交互式会话中的 MCP 服务器连接不再错误地要求对无令牌服务器进行身份验证。 • 修复了多个会话中并发身份验证刷新导致的启动超时问题。 • 工具调用循环会提前中断，以避免在重复相同的操作上浪费时间。 • 子代理不再接收询问用户问题工具。 • 裸露的电子邮件地址现在变成了寻呼机中可点击的mailto 链接。"
+    },
+    {
+      "id": "tweet_elonmusk_2090154365365710911",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 19 Aug 2026 19:10:08 GMT",
+      "content": "He committed serious crimes, as did Fauci",
+      "url": "https://x.com/elonmusk/status/2090154365365710911",
+      "tweet_id": "2090154365365710911",
+      "translated": "他犯下了严重罪行，福奇也是如此"
+    },
+    {
+      "id": "tweet_elonmusk_2090092802612863098",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 19 Aug 2026 15:05:30 GMT",
+      "content": "RT by @elonmusk: Does this change everything?",
+      "url": "https://x.com/elonmusk/status/2090092802612863098",
+      "tweet_id": "2090092802612863098",
+      "translated": "RT @elonmusk：这会改变一切吗？"
+    },
     {
       "id": "tweet_cz_binance_2090177492380201278",
       "username": "cz_binance",
@@ -92,6 +122,15 @@
       "translated": "Unitree（688836）现已上市。上涨 +492.18% 后，估值约为 $53.3B 我们终于有了一个针对人形机器人的主要上市公司基准。作为参考，Agility（由 $NVDA、$AMZN 支持）通过 $CCXI 预计将以 $2.5B 的投前估值第四季度上市。 $TSLA 是 $1T+，但 Optimus 被包裹在一家更大的公司内。但我认为 Unitree 表明，对纯粹的人形玩家的需求比人们在公开市场上的预期要大得多。"
     },
     {
+      "id": "tweet_qinbafrank_2090227771134095538",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Thu, 20 Aug 2026 00:01:49 GMT",
+      "content": "美国加密监管的重大转向：从“执法式监管”转向“规则式监管”的结构性变化。昨天加密走强还有一个大的推动：SEC提案提议豁免部分数字资产发行免于提交证券注册声明，豁免额度分别为最高500万美元和最高7500万美元。该提案对发行方提出了相关要求，包括提交财务报表并满足持续信息披露义务，同时设立安全港条款，将相关资产排除在证券法中”投资合约”的定义之外。 1、这个提案的意义在于： 美国数字资产监管真正开始从“先用执法判断谁违法”，转向“先给出项目可以遵循的发行、披露、流通和退出规则”：以前是“事后执法”，以后“事前合规路径”，规则路径更友好也更清晰了 2、真正革命性的部分：把“代币”和“投资合同”拆开 提案定义的“covered investment contract”必须同时满足： 某项合同、交易或计划构成投资合同； 有一个加密资产附着于该投资合同； 该加密资产本身不是证券； 没有股票、债券或其他资产同时附着于该投资合同。 这延续了SEC和CFTC今年3月提出的核心观点：“很多加密资产本身并不是证券，但发行方关于开发网络、提高代币价值、发展生态系统等承诺，可能使购买行为构成投资合同；随着这些承诺完成，投资合同可以终止。 由此形成一个新的生命周期： 第一阶段：发行融资： 第二阶段：网络建设（building阶段） 第三阶段：投资合同终止 当发行方已经完成，或者永久停止其承诺的全部“关键管理努力”，并且不再作出新的类似承诺时，可以提交Form TR，说明投资合同已经终止。 第四阶段：代币脱离证券法 满足安全港后，SEC将认为此前附着于代币的投资合同已经消失，证券注册和持续报告义务从满足安全港之时起终止。 这相当于SEC承认了一个关键事实： “证券属性可以是交易和承诺关系的属性，不一定是代币永久不变的属性” 这实际上是美国版的代币监管生命周期模型。它比过去模糊的“充分去中心化”标准更容易操作，因为核心不再只是判断网络是否抽象地足够去中心化，而是核对发行方有没有完成自己当初作出的关键承诺。 这是提案比融资额度本身更重要的地方。 3、美国可能出现真正的“合规公开代币融资市场” 新规则若落地，会提供一条更直接的路线：“在美国公开营销—向散户和机构销售—披露tokenomics及开发承诺—允许较自由流通—项目成熟后退出投资合同。 这将降低项目在美国发币的法律和时间成本，也可能减少“美国团队、开曼基金会、瑞士协会、海外TGE”这类高度复杂的离岸架构。SEC明确把减少项目离岸经营、扩大美国投资者机会列为提案目标。 4、SEC的政策目标从“阻止未注册发币”转向“允许合规发币” 500万美元和7500万美元豁免意味着，SEC已经不再把所有公开代币融资都视为应当被压制的活动，而是开始设计专门的融资通道。 简单说 美国监管机构真正开始“为加密资产建立进入美国资本市场的专门通道”。SEC第一次正式接受三个原则： 1）代币本身与发行它的投资合同可以分开； 2）投资合同可以随着项目生命周期而终止； 3）证券监管不仅要防范风险，也要主动为加密网络资本形成设计规则。 确实可以说是美国加密监管的重大转向，也是美国合规ICO、链上资本形成和数字资产证券生命周期制度的起点。",
+      "url": "https://x.com/qinbafrank/status/2090227771134095538",
+      "tweet_id": "2090227771134095538"
+    },
+    {
       "id": "tweet_qinbafrank_2090101924293165467",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -108,16 +147,6 @@
       "content": "虽然名义上叫“科技领袖会议”，实际受邀和预期出席者几乎全部是加密货币/数字资产相关高管、行业协会，以及传统金融中与加密高度相关的机构。希望能推动关于清晰法案、创新豁免等方面的进展",
       "url": "https://x.com/qinbafrank/status/2090090050570916041",
       "tweet_id": "2090090050570916041"
-    },
-    {
-      "id": "tweet_qinbafrank_2090072033388617853",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 19 Aug 2026 13:42:59 GMT",
-      "content": "贝森特出手，财政部救市。这是今晚市场影响最大的，盘前美国财政部宣布将把针对长期名义付息债券的流动性支持回购操作单次最高规模至少提高一倍，升至每笔操作至少40亿美元，新规定将于9月9日起正式生效。简单说之前每次20亿美金的回购效果不佳，那就加大药量。消息一出，US10y、US20y、US30y应声下挫  单笔从20亿提到至少40亿，叠加季度内多次操作，短期可显著增加长端回购量（此前季度流动性支持回购总量约在数十亿美元量级）。加大回购旧券规模，特别是二十年三十年期长债，直接清理市场上流动性较差的长期券，也能看出来贝森特对于长端利率走高其实很敏感。 对股市与风险资产来说，长端收益率回落缓解金融条件收紧，利好成长股、科技股及高估值资产。若长端稳定，有助于降低企业融资成本。 收益率下行+流动性信号偏鸽，短期压制因素解除。 这让我想起来、23年10月https://x.com/qinbafrank/status/1716746079528481236?s=46&t=k6rimWsEbo2D2tXolYcM-A上一次US30y大幅度高于5%、US10Y逼近5%那个时候还是鲍威尔、耶伦还拉上了比尔阿卡曼一起出手才给压下来。 去年5月中https://x.com/qinbafrank/status/1925871211923296629?s=46&t=k6rimWsEbo2D2tXolYcM-A贝森特也有出手稳住债市 今天已经是内森特本月内第二次出手打压长端收益率，第一次是两周前帮助日本央行稳住日元汇率、核心也是不想让日央行抛美债就日元。 能看出内森特对长端收益率走高其实非常在意。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」",
-      "url": "https://x.com/qinbafrank/status/2090072033388617853",
-      "tweet_id": "2090072033388617853",
-      "translated": "贝森特出手，财政部救市。这是今晚市场影响最大的，盘前美国财政部宣布将把针对长期名义付息债券的流动性支持回购操作单次最高规模至少提高一倍，升至每笔操作至少40亿美元，新规定将于9月9日起正式生效。简单说之前每次20亿美金的回购效果不佳，那就加大药量。消息一出，US10y、US20y、US30y应声下挫  单笔从20亿提到至少40亿，叠加季度内多次操作，短期可显着增加长端回购量（此前季度流动性支持回购总量约在数十亿美元量级）。加大回购旧券规模，特别是二十年三十年期长债，直接清理市场上流动性较差的长期券，也能看出来贝森特对于长端利率走高其实很敏感。 对股市与风险资产来说，长端收益率回落缓解金融条件收紧，利好成长股、科技股及高估值资产。若长端稳定，有助于降低企业融资成本。 收益率下行+流动性信号偏鸽，短期压制因素解除。 这让我想起来、23年10月https://x.com/qinbafrank/status/1716746079528481236?s=46&t=k6rimWsEbo2D2tXolYcM-A上一次US30y大幅度高于5%、US10Y逼近5%那个时候还是鲍威尔、耶伦还拉上了比尔阿卡曼一起出手才给压下来。 去年5月中https://x.com/qinbafrank/status/1925871211923296629?s=46&t=k6rimWsEbo2D2tXolYcM-A贝森特也有出手稳住债市 今天已经是内森特本月内第二次出手打压​​长端收益率，第一次是两周前帮助日本央行稳住日元汇率、核心也是不想让日央行抛美债就日元。 能看出内森特对长端收益率走高其实非常在意。 本条由@bitget_zh赞助，「Bitget 买美股：秒级入场，丝滑交易 」"
     },
     {
       "id": "tweet_xiaomustock_2089974136437449126",
@@ -172,38 +201,11 @@
       "content": "退出所有交易，暂时观望，复盘七月大跌之后这次更像是二次探底。 8 月没有上去到之前的高度，那么接下来可能是以季度为单位的调整了。",
       "url": "https://x.com/xingpt/status/2089966824234606999",
       "tweet_id": "2089966824234606999"
-    },
-    {
-      "id": "tweet_hibtc37_2089582354910376141",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Tue, 18 Aug 2026 05:17:10 GMT",
-      "content": "RT by @hibtc37: 盖棺定论：《朱镕基的罪与罚》，今天，朱镕基遗体火化，灰飞烟灭，不知他在空中有没有想起那些因他一念而起，命运动荡的人们：数千万人失去工作流离失所，男人骑着自行车送老婆做皮肉生意…… 2001年朱镕基在清华告别演讲时说了一个故事：儿子朱云来十几岁时，想在家里阳台上种菜，捡了一块破破烂烂的油毡子，准备搁了土种菜。朱镕基就打了他一个耳光。朱云来委屈解释，这油毡子是从垃圾堆里捡来的，不是偷拿别人财物。但朱镕基还是说：“把这块油毡子送回去，不管它是别人的还是垃圾堆里的”，亲自陪儿子把油毡子扔回了垃圾堆。 朱镕基在清华公开演讲中说出这件事，证明了两点：一，他要证明他不贪，也不准儿子贪。二，他不仅想让清华校友知道，更想让全国人民也知道他不贪，也不准儿子贪——然后他就说出那句“我只希望我卸任以后，全国人民能说一句，他是一个清官”。 几年间老朱手持菜刀砍电线，一路火花带闪电。六年下来，全国职工总数少了5975万人，降幅41.9%。王兵《铁西区》讲述的就是宏大叙事的国企改革下面，那抹破败的铁锈色混杂着几十年血与泪。1996和2001年严打，公安部卷宗里，东三省成了恶性案件最密集的地区。这些案子的主犯档案里常有同一行熟悉的字眼：东北某厂下岗工人，现无业。 为朱镕基叫好，理由如下：如果没有朱镕基快刀斩乱麻，东北肯定会拖垮全国，坏账也会影响加入WTO，他不动刀子，中国怎么成为世界工厂？怎么有后来的高速发展。 谁有权力牺牲某一部分人，谁有资格确定牺牲某一部分人。有论证过程吗，有法律程序有听证吗，为什么不给这些人更体面的安顿。靠一咬牙一跺脚，执政合法性就可疑了。当然我们从来不在乎合法性，咱有枪……1909年，张之洞病危，摄政王载沣去探视。张之洞劝他重视民心舆情，不可寒了天下人心。载沣傲然答：“怕什么，咱有兵在”。张之洞送走载沣，长叹一声：“不意闻此亡国之言”，不久去世。 秦制必然出现朱镕基。之前那个时间点的人物叫张居正，现在这个时间点的角色叫朱镕基。干的活儿，周一叫公私合营，周二叫人民公社，周三叫大跃进，周四叫国企改革，周五叫三峡移民……船要沉了，人家先扔下一批人减重，总有一天轮到扔你。 朱镕基学气象的儿子，掌管中国最大的投行，学社会学的女儿，在国有银行主管人民币业务，女婿掌管国企香港资本和资源平台。2007年，朱云来年薪1700万美元，按当年汇率相当于1亿2926万8000元，相当于5185名普通中国职工一年的工资，或者一个中国职工干5185年的收入，那时候还没有夏朝呢。上述，全在朱镕基主管的领域。说到这份儿上，您还认为朱镕基还是那个“我这里准备了100口棺材，99口留给贪官，一口留给我自己”的铁相……是不是有点矮化自己的智商了。 点击进入收看我的第五期油管节目，https://youtu.be/xgZ6F0hI4oU",
-      "url": "https://x.com/hibtc37/status/2089582354910376141",
-      "tweet_id": "2089582354910376141"
-    },
-    {
-      "id": "tweet_hibtc37_2088084341054435418",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Fri, 14 Aug 2026 02:04:36 GMT",
-      "content": "新区间： 640 635现价 628 大饼震荡，波动很小，我也看不出方向，前几天看到十亿哥做多打止损，我做空也打了止损，这种行情上下撸区间比较适合，但一旦变盘，做错方向就麻烦，这真是技术活了 震荡这么久了，交易大神们，你怎么看后市呢",
-      "url": "https://x.com/hibtc37/status/2088084341054435418",
-      "tweet_id": "2088084341054435418"
-    },
-    {
-      "id": "tweet_hibtc37_2087374830522048539",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Wed, 12 Aug 2026 03:05:15 GMT",
-      "content": "前几天看存储利空不跌，并且有非常大的空头流动性，这一周多存储板块没涨破也没跌破关键位，我猜测是要先往上走，于是挂了 $MU和 $SNDK的平出止盈单，想趁着他震荡期间走人，MU的单被吃了，SNDK竟然没有，SNDK就打止损了",
-      "url": "https://x.com/hibtc37/status/2087374830522048539",
-      "tweet_id": "2087374830522048539"
     }
   ],
   "stats": {
     "users_success": 7,
     "users_failed": 1,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
