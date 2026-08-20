@@ -1,38 +1,41 @@
 {
-  "fetched_at": "2026-08-20T18:43:51.190441+00:00",
+  "fetched_at": "2026-08-20T19:36:31.677360+00:00",
   "total": 3,
   "tweets": [
     {
-      "id": "tweet_xiaomustock_2090360916877664495",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Thu, 20 Aug 2026 08:50:54 GMT",
-      "content": "市场开始拥抱加密黄金炒美债危机叙事， 抛弃了存储科技。",
-      "url": "https://x.com/xiaomustock/status/2090360916877664495",
-      "tweet_id": "2090360916877664495"
+      "id": "tweet_elonmusk_2090452168037831119",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 20 Aug 2026 14:53:30 GMT",
+      "content": "RT by @elonmusk: Grok Bot never sleeps! Elon just highlighted the real difference with Grok Bot. It runs on its own remote computer managed by SpaceXAI. Close your laptop, reboot your desktop, go to sleep, whatever. The Bot keeps working. That is the core advantage over most other agent setups right now. Self-hosted options like Hermes or OpenClaw need a machine that stays on. If that machine is your laptop, the agent stops when you close the lid. If it is a VPS you manage, you are still responsible for uptime, updates, and security. Grok Bot removes that entire layer. SpaceXAI provisions and runs the computer. One computer per account, shared across all your Bots. Browser sessions, files, and logins stay live. One Bot can pick up exactly where another left off without re-authenticating or moving files around. You can also record a workflow once (up to ten minutes) and turn it into a reusable skill. Lowest friction path I have seen for teaching an agent a multi-step process. The practical result is simple: you can hand off real work and walk away. Sales follow-ups, bug reproduction, invoice processing, research that needs to run overnight. The Bot does not need your local machine to stay alive. That is the difference Elon is pointing at.",
+      "url": "https://x.com/elonmusk/status/2090452168037831119",
+      "tweet_id": "2090452168037831119",
+      "translated": "RT @elonmusk：Grok Bot 从不睡觉！ Elon 刚刚强调了与 Grok Bot 的真正区别。它在由 SpaceXAI 管理的自己的远程计算机上运行。关闭你的笔记本电脑，重新启动你的桌面，去睡觉，等等。机器人继续工作。这是目前相对于大多数其他代理设置的核心优势。像 Hermes 或 OpenClaw 这样的自托管选项需要一台持续运行的机器。如果该机器是您的笔记本电脑，则当您合上盖子时，代理就会停止。如果您管理的是 VPS，您仍需对正常运行时间、更新和安全性负责。 Grok Bot 会删除整个层。 SpaceXAI 配置并运行计算机。每个帐户一台计算机，在所有机器人之间共享。浏览器会话、文件和登录保持活动状态。一个机器人可以准确地从另一个机器人停下的地方继续，而无需重新验证或移动文件。您还可以记录一次工作流程（最多十分钟）并将其转变为可重复使用的技能。我所见过的教授代理多步骤过程的最低摩擦路径。实际结果很简单：您可以放弃真正的工作并走开。销售跟进、错误重现、发票处理、需要连夜进行的研究。机器人不需要您的本地计算机来保持活动。这就是埃隆所指出的差异。"
     },
     {
-      "id": "tweet_xiaomustock_2090266141432377366",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Thu, 20 Aug 2026 02:34:18 GMT",
-      "content": "海力士的50%现金回报股东其实相当于美光闪迪的100%回报股东。 因为海力士折价， 50%的钱可以买到像美光闪迪100%回报股东一样多的股票。",
-      "url": "https://x.com/xiaomustock/status/2090266141432377366",
-      "tweet_id": "2090266141432377366"
+      "id": "tweet_elonmusk_2090421070230966656",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 20 Aug 2026 12:49:55 GMT",
+      "content": "RT by @elonmusk: How To Set Up Grokbot The Right Way So It Runs Your Business While You Sleep In 2026",
+      "url": "https://x.com/elonmusk/status/2090421070230966656",
+      "tweet_id": "2090421070230966656",
+      "translated": "RT @elonmusk：如何以正确的方式设置 Grokbot，以便在 2026 年您睡觉时它也能运行您的业务"
     },
     {
-      "id": "tweet_xiaomustock_2089974136437449126",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Wed, 19 Aug 2026 07:13:58 GMT",
-      "content": "海力士回购+50%自由现金回报股东",
-      "url": "https://x.com/xiaomustock/status/2089974136437449126",
-      "tweet_id": "2089974136437449126"
+      "id": "tweet_elonmusk_2090485516755968480",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 20 Aug 2026 17:06:01 GMT",
+      "content": "RT by @elonmusk: JUST IN: 𝕏 outpaced Google, YouTube, Facebook, Instagram, & Reddit in web traffic growth last month. — Similarweb",
+      "url": "https://x.com/elonmusk/status/2090485516755968480",
+      "tweet_id": "2090485516755968480",
+      "translated": "RT @elonmusk：刚刚：𝕏 上个月的网络流量增长超过了 Google、YouTube、Facebook、Instagram 和 Reddit。 — 类似网络"
     }
   ],
   "stats": {
     "users_success": 1,
     "users_failed": 7,
-    "nitter_healthy": 10
+    "nitter_healthy": 9
   }
 }
