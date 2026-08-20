@@ -1,33 +1,35 @@
 {
-  "fetched_at": "2026-08-20T10:35:58.655278+00:00",
+  "fetched_at": "2026-08-20T13:52:51.147691+00:00",
   "total": 3,
   "tweets": [
     {
-      "id": "tweet_xiaomustock_2090360916877664495",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Thu, 20 Aug 2026 08:50:54 GMT",
-      "content": "市场开始拥抱加密黄金炒美债危机叙事， 抛弃了存储科技。",
-      "url": "https://x.com/xiaomustock/status/2090360916877664495",
-      "tweet_id": "2090360916877664495"
+      "id": "tweet_elonmusk_2090403660756865445",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 20 Aug 2026 11:40:45 GMT",
+      "content": "😂",
+      "url": "https://x.com/elonmusk/status/2090403660756865445",
+      "tweet_id": "2090403660756865445"
     },
     {
-      "id": "tweet_xiaomustock_2090266141432377366",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Thu, 20 Aug 2026 02:34:18 GMT",
-      "content": "海力士的50%现金回报股东其实相当于美光闪迪的100%回报股东。 因为海力士折价， 50%的钱可以买到像美光闪迪100%回报股东一样多的股票。",
-      "url": "https://x.com/xiaomustock/status/2090266141432377366",
-      "tweet_id": "2090266141432377366"
+      "id": "tweet_elonmusk_2090400832126640405",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 20 Aug 2026 11:29:30 GMT",
+      "content": "Try @Grok @Bot",
+      "url": "https://x.com/elonmusk/status/2090400832126640405",
+      "tweet_id": "2090400832126640405",
+      "translated": "尝试@Grok @Bot"
     },
     {
-      "id": "tweet_xiaomustock_2089974136437449126",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Wed, 19 Aug 2026 07:13:58 GMT",
-      "content": "海力士回购+50%自由现金回报股东",
-      "url": "https://x.com/xiaomustock/status/2089974136437449126",
-      "tweet_id": "2089974136437449126"
+      "id": "tweet_elonmusk_2090138832511324179",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Wed, 19 Aug 2026 18:08:25 GMT",
+      "content": "RT by @elonmusk: I gave Elon Musk's new Grok Bot an org chart instead of a to-do list, and in one week I stopped being a founder who does the work and became one who assigns it. eight bots. one org chart. nobody sleeps but me. here's the whole design, steal it. step 1 → 0:01 What we're covering step 2 → 2:01 Installation & Setup step 3 → 3:14 Building the First Bot step 4 → 8:18 Teaching by Screen Recording step 5 → 14:18 Putting it All Together THE ROSTER: Atlas, chief of staff. the only bot I talk to. I give it outcomes, never tasks. it decomposes them and delegates to the team in group chat, and it never does specialist work itself. it posts the plan every morning and what shipped every night, and it only comes to me when a decision is irreversible or spends money. Scout, research. finds and qualifies my ICP. every day: 25 verified prospects, one line on why they need us right now, and a source. if it can't verify, it marks it unverified. it never guesses. Quill, content. turns what the company learned this week into 5 posts and 1 long piece, in my voice, matched from the last 50 things I wrote. drafts only, it never publishes. Pitch, outbound. writes a first touch and two follow-ups for everyone Scout marks ready. 60 words max, one specific observation about their business, one clear ask. queued in drafts, I approve in bulk. Vault, inbox and ops. triages everything into needs-me, needs-a-bot, needs-nothing. it handles the last, routes the middle, and gives me five bullets on the first by 9am. Ledger, analyst. one report a night: what moved, what didn't, and the single number I should care about tomorrow. no dashboards, no adjectives. HOW THEY'RE WIRED one group chat per outcome, not per person. Atlas sits in all of them. the bots hand off inside the chat, so I only read the handoff, I never manage it. two rules that made this actually work: 1. every charter ends with a hard \"never do this without asking\" line. autonomy without a fence is just chaos on a schedule. 2. show once, don't describe. I ran the full workflow on my screen one time. that single demo taught them more than a page of instructions ever could. WEEK ONE 214 verified prospects delivered. 89 personalized outreaches queued and approved. inbox at zero every morning. 11 content pieces ready. THE POINT most people are still treating Grok Bot like a smarter chat window. it isn't. it's the first time one person can own an org chart instead of a to-do list. my bottleneck was never how much I could do, it was how much I could hand off. bookmark this.",
+      "url": "https://x.com/elonmusk/status/2090138832511324179",
+      "tweet_id": "2090138832511324179",
+      "translated": "RT @elonmusk：我给了 Elon Musk 的新 Grok Bot 一张组织结构图，而不是一份待办事项列表，一周后我就不再是一名负责工作的创始人，而是成为了一名分配工作的人。八个机器人。一张组织结构图。除了我之外没有人睡觉。这是整个设计，偷走它。步骤 1 → 0:01 我们要介绍的内容 步骤 2 → 2:01 安装和设置 步骤 3 → 3:14 构建第一个机器人 步骤 4 → 8:18 通过屏幕录制进行教学 步骤 5 → 14:18 汇总 名单：Atlas，参谋长。我唯一与之交谈的机器人。我给它结果，而不是任务。它会将它们分解并委托给群聊中的团队，并且它本身从不执行专门的工作。它每天早上都会发布计划和每天晚上发货的内容，只有当决定不可逆转或花钱时才会出现。侦察, 研究.查找并验证我的 ICP。每天：25 个经过验证的潜在客户，一条关于他们为什么现在需要我们的信息，以及一个来源。如果无法验证，则将其标记为未验证。它从不猜测。羽毛笔, 内容.将公司本周学到的内容转化为 5 个帖子和 1 个长篇文章，用我的声音，与我最近写的 50 篇文章相匹配。仅草稿，从未出版。投球，出站。为每个 Scout 标记准备就绪的人编写第一次接触和两次后续操作。最多 60 个字，一项关于其业务的具体观察，一项明确的询问。排队草稿，我批量批准。保险库、收件箱和操作。将所有内容分类为“需要我”、“需要机器人”、“什么都不需要”。它处理最后一个，路由中间，并在上午 9 点之前给我第一颗子弹五颗子弹。莱杰，分析师。每晚一份报告：什么移动了，什么没有移动，以及我明天应该关心的单个数字。没有仪表板，没有形容词。他们如何根据结果而不是每个人进行一次群聊。阿特拉斯坐在所有这些之中。机器人在聊天中进行交接，所以我只阅读交接，我从不管理它。使其真正发挥作用的两条规则是： 1. 每份章程都以“未经询问切勿这样做”这一硬性规定结尾。没有围栏的自治只是时间表上的混乱。 2.展示一次，不要描述。我在屏幕上运行了一次完整的工作流程。这个演示所教给他们的东西比一页说明所教的还要多。第一周交付了 214 名经过验证的潜在客户。 89 项个性化外展正在排队并获得批准。每天早上收件箱为零。 11 个内容已准备好。要点 大多数人仍然将 Grok Bot 视为更智能的聊天窗口。事实并非如此。这是第一次有人可以拥有组织结构图而不是待办事项列表。我的瓶颈从来不是我能做多少，而是我能交出多少。将此添加为书签。"
     }
   ],
   "stats": {
