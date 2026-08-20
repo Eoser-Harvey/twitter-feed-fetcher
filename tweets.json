@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-20T03:00:56.829643+00:00",
+  "fetched_at": "2026-08-20T03:54:51.968071+00:00",
   "total": 18,
   "tweets": [
+    {
+      "id": "tweet_cz_binance_2090283154007322860",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 20 Aug 2026 03:41:54 GMT",
+      "content": "More importantly, I was this close to walking on stage with this.",
+      "url": "https://x.com/cz_binance/status/2090283154007322860",
+      "tweet_id": "2090283154007322860",
+      "translated": "更重要的是，我差点就带着这个走上了舞台。"
+    },
+    {
+      "id": "tweet_cz_binance_2090283010486595688",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Thu, 20 Aug 2026 03:41:19 GMT",
+      "content": "Many people miss the bigger picture. Policy cannot be applied to only one company/project. What's good for one is good for the rest of the industry.",
+      "url": "https://x.com/cz_binance/status/2090283010486595688",
+      "tweet_id": "2090283010486595688",
+      "translated": "许多人错过了大局。政策不能仅适用于一家公司/项目。对一个人有利的事情也对整个行业有利。"
+    },
+    {
+      "id": "tweet_cz_binance_2090177492380201278",
+      "username": "cz_binance",
+      "display_name": "CZ (赵长鹏)",
+      "published_at": "Wed, 19 Aug 2026 20:42:02 GMT",
+      "content": "Will be speaking at SALT conference with @Scaramucci in about an hour, in person, from Jackson Hole, Wyoming.",
+      "url": "https://x.com/cz_binance/status/2090177492380201278",
+      "tweet_id": "2090177492380201278",
+      "translated": "大约一个小时后，我将在怀俄明州杰克逊霍尔与 @Scaramucci 亲自在 SALT 会议上发表讲话。"
+    },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
       "username": "realDonaldTrump",
@@ -30,36 +60,6 @@
       "url": "https://x.com/realDonaldTrump/status/2072681271566708832",
       "tweet_id": "2072681271566708832",
       "translated": "视频"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2090103899302826302",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 19 Aug 2026 15:49:36 GMT",
-      "content": "$MRVL gives $GOOGL options to buy $12.2B of the company. \"The Marvell-Google deal covers a broad range of technologies used ​with TPUs, including processors that run AI models, manage data storage ​and move information ⁠across networks.\" Which could translate into ~$120 billion ​in revenue through 2033. Marvell also has separate warrants with $AMZN after their Celestial acquisition (for purchases of photonic fabric). Remember the good times when Jensen said Marvell would be the next $1T+ company? Seems Nvidia knew Marvell was \"networking\" its way into all the hyperscalers with warrants.",
-      "url": "https://x.com/aleabitoreddit/status/2090103899302826302",
-      "tweet_id": "2090103899302826302",
-      "translated": "$MRVL 给予 $GOOGL 购买该公司 $12.2B 的期权。 “Marvell 与 Google 的交易涵盖了 TPU 所使用的广泛技术，包括运行 AI 模型、管理数据存储以及跨网络移动信息的处理器。”到 2033 年，这可能会带来约 1200 亿美元的收入。 Marvell 在收购 Celestial（用于购买光子织物）后还向 AMZN 授予了单独的认股权证。还记得 Jensen 说 Marvell 将成为下一家 1T+ 公司的美好时光吗？ Nvidia 似乎知道 Marvell 正在通过授权“联网”进入所有超大规模企业。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2089973586425766134",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 19 Aug 2026 07:11:47 GMT",
-      "content": "We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... And now Elazr GM at their investor conference stated: Optical supply is still far behind the market demand, the expected AI optical supply chain are likely to continue for years. - \"the entire supply chain is out of stock\" - \"the supply is still far behind the market demand\" - \"the shortage will continue to the next few years\" \"Whether it is PCB, carrier board, laser chip, or even related packaging capacity, as long as the AI supply chain link, almost all are in short supply.\" When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027.",
-      "url": "https://x.com/aleabitoreddit/status/2089973586425766134",
-      "tweet_id": "2089973586425766134",
-      "translated": "我们从收益中得到 $LITE、$MTSI、$AAOI 都指向激光器/TIA/DSP/等的极端需求失衡......现在 Elazr GM 在其投资者会议上表示：光学供应仍远远落后于市场需求，预期的 AI 光学供应链可能会持续数年。 - “整个供应链缺货” - “供给仍远远落后于市场需求” - “短缺将持续到未来几年” “无论是PCB、载板、激光芯片，甚至是相关封装产能，只要是AI供应链环节，几乎都处于供不应求的状态。”当需求可见性持续多年且供应链陷入瓶颈时：很难不看到光子学与进入 2027 年的内存超级周期相呼应。"
-    },
-    {
-      "id": "tweet_aleabitoreddit_2089908198694351064",
-      "username": "aleabitoreddit",
-      "display_name": "Serenity (白毛股神)",
-      "published_at": "Wed, 19 Aug 2026 02:51:57 GMT",
-      "content": "Unitree (688836) is now public. And is valued at ~$53.3B, after rising +492.18% We finally have a major public company benchmark for humanoids. For reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B premoney valuation Q4. $TSLA is $1T+, but Optimus is wrapped inside a much larger company. But I think Unitree showed that the demand for pure play humanoid players is much larger… than people expected in public markets.",
-      "url": "https://x.com/aleabitoreddit/status/2089908198694351064",
-      "tweet_id": "2089908198694351064",
-      "translated": "Unitree（688836）现已上市。上涨 +492.18% 后，估值约为 $53.3B 我们终于有了一个针对人形机器人的主要上市公司基准。作为参考，Agility（由 $NVDA、$AMZN 支持）通过 $CCXI 预计将以 $2.5B 的投前估值第四季度上市。 $TSLA 是 $1T+，但 Optimus 被包裹在一家更大的公司内。但我认为 Unitree 表明，对纯粹的人形玩家的需求比人们在公开市场上的预期要大得多。"
     },
     {
       "id": "tweet_qinbafrank_2090259492147707966",
@@ -116,6 +116,24 @@
       "tweet_id": "2089607956493205766"
     },
     {
+      "id": "tweet_xingpt_2090283183938080779",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Thu, 20 Aug 2026 03:42:01 GMT",
+      "content": "【半导体中场复盘，鱼尾行情还有多大？】 当前的半导体行情有点像复刻的是英伟达 24 年的剧本，我们来复盘一下当时发生了什么： 在 24 年7 月 11 日到 8 月 5 日，英伟达从约134 美元跌到 90.94 美元，下跌了33%。 消息面上，下跌的触发因素包括 7 月开始的Blackwell 延期传闻、美国司法部反垄断调查报道，最后 8 月 5 日日央行加息引发套息交易平仓，全球风险资产恐慌抛售砸出低点，也就是“基本面小作文+宏观影响的资产抛售”。 8 月8 日到 9 月 6 号这一个月，超跌回补，配合宏观有一些政策松动；但没有过前高，英伟达“优秀但不完美”的财报引发了下跌。 随后，9 月 11 号英伟达宣布Blackwell 已全面投产、Q4 开始出货，英伟达单日涨 8%，再跌价美联储4 年来首次降息50bp，英伟达再次于 11 月 8 日股价破历史新高。 从历史中我们能学到什么？ 1. 阶段性见顶的特征是有哪些？ 技术面：双顶或者没有破前高压力位；同时K线形态出现阴包阳看跌形态； 资金面拥挤+高杠杆：24 年 6 月，70% 的基金经理认为做多 Mag7 是最拥挤交易，同时小盘股空头仓位接近历史纪录。整个市场挤在船的同一侧； 24 年 截至 8 月 27 日的前五个交易日，英伟达股价另一个顶部区间，散户净买入 NVDA 14 亿美元，同期第二名特斯拉只有 1 到 2 亿美元级别，差距近十倍。NVDL（两倍做多 NVDA ETF）全年净流入 35 亿美元，盘中多次成为全市场最活跃品种。 基本面：8 月 28 日英伟达财报收入和指引超预期但是因为毛利率下降了 3%，盘后股价跌近 7% 所以我们不难发现，阶段性顶部的特征是技术面出现顶部形态特征，同时叠加资金面提升了脆弱性（集中度高、杠杆高），基本面和消息面一旦出现任何风吹草动，股价就会立马暴跌。 实操的做法是一旦技术上出现鉴定特征，只有资金面有杠杆过高和集中度过大的情况，应该立刻减仓避险，确认下跌趋势即卖出。 2. 底部特征 技术面：8 月 5 号低开高走长实体K线，量能也足够，5.53 亿股是那段时间的最大单日成交量，超过前后所有交易日；8 月 6 号站上前一天实体上方，反包确认；7 号回踩没有破前低。 这三天形成了技术面筑底的信号。 我们再通过资金面进行确认：VIX指数当天创纪录，盘中 65（历史第三高）；外围市场日经 -12.4%（1987 年以来最大）、KOSPI -9% 触发熔断，市场层面的恐慌指标全部爆表，也意味着卖压到了极值； 基本面上，主要的利空触发链条是日央行 7 月 31 日加息、日元套息交易平仓、美国 7 月非农 11.4 万远低于预期，属于大盘的宏观性利空下跌，跟英伟达的基本面无关。 9 月 6 号的反正也是类似的逻辑，只不过没有 8 月 5 号极端。 底部我们也可以发现特征，一是技术面的开始出现见底形态，特别是量能上确认，另一个下杀的逻辑不触及企业经营的基本面，更多是大盘宏观的一次性事件和短期冲击，最终优秀企业都会在价格上修复错杀。",
+      "url": "https://x.com/xingpt/status/2090283183938080779",
+      "tweet_id": "2090283183938080779"
+    },
+    {
+      "id": "tweet_xingpt_2090283190451835247",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Thu, 20 Aug 2026 03:42:02 GMT",
+      "content": "R to @xingpt: 本次半导体行情如何对应？ 1. 顶部特征（我们以美光MU为例，其他股票走势基本类似）： 技术面上，6 月 25 日跳空高开低走，上影线并且放量，显示买盘动能已经枯竭，走势开始逆转。 基本面：美光前一天财报大超预期，成绩几乎完美；但第二天高开后一路下跌，与基本面相背离； 资金面：6 月半导体占标普 500 市值 18.8% 到 19.7%，超过互联网泡沫时期的历史纪录；BofA 6 月基金经理调查显示，80% 的基金经理认为\"做多全球半导体\"是市场最拥挤的交易，这是该调查的历史最高值；FINRA 净信用余额跌到 -1.06 万亿美元，历史最低； 顶部K线出现见顶特征+基本面开始出现利好但是下跌+资金面杠杆率极高、集中度见顶。 顶部的特征和 24 年 7 月的英伟达几乎完全对应，后续就是历史级别的单月暴跌。 2. 7 月 29 日阶段性见底特征： 技术面下跌放量：当日成交量是20 日均量的 1.5 倍。开在最高区域、收在最低点、放量，说明是卖方打出了最后一颗子弹：全天没有任何抵抗，因为该卖的（杠杆强平、止损盘）在这一天全部成交了。 基本面：云厂Capex上修，底部需求获得确认。Alphabet 前一周把 2026 年 capex 指引从 1800 到 1900 亿上调至 1950 到 2050 亿 。 资金面：Leopard基金被清算，意味着大多数多头已经放弃了抵抗。 技术面形态见底+ 基本面有利好支撑+资金面利空出尽共同构成了阶段性底部。 刻舟求剑不是简单刻K线形态，而是要结合基本面和资金面动态去判断市场变化。 见微知著，市场没有这一次不一样。 后续我会在会员频道做更多类似的历史分析和复盘，特别是对未来关键时间点的提醒，欢迎加入频道与我一起学习投资。https://www.patreon.com/cw/xingpt",
+      "url": "https://x.com/xingpt/status/2090283190451835247",
+      "tweet_id": "2090283190451835247"
+    },
+    {
       "id": "tweet_xingpt_2090264570959216647",
       "username": "xingpt",
       "display_name": "星Prompt",
@@ -125,22 +143,22 @@
       "tweet_id": "2090264570959216647"
     },
     {
-      "id": "tweet_xingpt_2090084841870283119",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 19 Aug 2026 14:33:52 GMT",
-      "content": "昨天在会员频道分享的操作思路，供各位参考讨论。我也是交易的学徒，希望跟大家一起成长。",
-      "url": "https://x.com/xingpt/status/2090084841870283119",
-      "tweet_id": "2090084841870283119"
+      "id": "tweet_hibtc37_2090273652050960433",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Thu, 20 Aug 2026 03:04:08 GMT",
+      "content": "70k终于上来了，不过也是极限了，再往上一步都越来越难，主力酝酿了接近一个月才吃到79k，一直在等机会",
+      "url": "https://x.com/hibtc37/status/2090273652050960433",
+      "tweet_id": "2090273652050960433"
     },
     {
-      "id": "tweet_xingpt_2090084315736793302",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 19 Aug 2026 14:31:47 GMT",
-      "content": "半导体仍然弱势，昨天清仓的策略暂时奏效。 后续看看防守板块怎么配置吧，还没来的及仔细看。有懂得大神欢迎评论交流",
-      "url": "https://x.com/xingpt/status/2090084315736793302",
-      "tweet_id": "2090084315736793302"
+      "id": "tweet_hibtc37_2090271081437540536",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Thu, 20 Aug 2026 02:53:55 GMT",
+      "content": "如果没有牛回，那么这波爆拉，为下一波大跌创造了很大的下跌空间，要不然也跌不动，如果牛回，也是好事，但概率很小",
+      "url": "https://x.com/hibtc37/status/2090271081437540536",
+      "tweet_id": "2090271081437540536"
     },
     {
       "id": "tweet_hibtc37_2090269302696136937",
@@ -150,24 +168,6 @@
       "content": "新区间： 704 693市价 675 上个区间提到的价格都被吃了，我也提到“一旦变盘，做错方向就麻烦，这真是技术活了”，BTC结束了10多周的震荡，在昨晚特朗普喊单，直接击穿70k，空头爆仓27亿，爆仓人数17万，这个爆仓级别非常大了，很多人返贫 过去这段时间死水一般，我选择了休息，甚至X都没发了，沉浸打打球，搞搞锻炼，打打游戏，躲过一劫，挺舒服的 看了下整体流动性，这个次很明显是老鼠仓，没有明显的牛回迹象，华尔街还是依然在卖，喊牛回还是过早，下一个更关键的时间点看9月15日清晰法案和沃什的讲话 70k左右的价格做多性价比非常低，因为能到这个价格是流动性真空，价格被击穿了，再往上的流动性也不多，我会尝试在反弹做短空试试",
       "url": "https://x.com/hibtc37/status/2090269302696136937",
       "tweet_id": "2090269302696136937"
-    },
-    {
-      "id": "tweet_hibtc37_2089582354910376141",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Tue, 18 Aug 2026 05:17:10 GMT",
-      "content": "RT by @hibtc37: 盖棺定论：《朱镕基的罪与罚》，今天，朱镕基遗体火化，灰飞烟灭，不知他在空中有没有想起那些因他一念而起，命运动荡的人们：数千万人失去工作流离失所，男人骑着自行车送老婆做皮肉生意…… 2001年朱镕基在清华告别演讲时说了一个故事：儿子朱云来十几岁时，想在家里阳台上种菜，捡了一块破破烂烂的油毡子，准备搁了土种菜。朱镕基就打了他一个耳光。朱云来委屈解释，这油毡子是从垃圾堆里捡来的，不是偷拿别人财物。但朱镕基还是说：“把这块油毡子送回去，不管它是别人的还是垃圾堆里的”，亲自陪儿子把油毡子扔回了垃圾堆。 朱镕基在清华公开演讲中说出这件事，证明了两点：一，他要证明他不贪，也不准儿子贪。二，他不仅想让清华校友知道，更想让全国人民也知道他不贪，也不准儿子贪——然后他就说出那句“我只希望我卸任以后，全国人民能说一句，他是一个清官”。 几年间老朱手持菜刀砍电线，一路火花带闪电。六年下来，全国职工总数少了5975万人，降幅41.9%。王兵《铁西区》讲述的就是宏大叙事的国企改革下面，那抹破败的铁锈色混杂着几十年血与泪。1996和2001年严打，公安部卷宗里，东三省成了恶性案件最密集的地区。这些案子的主犯档案里常有同一行熟悉的字眼：东北某厂下岗工人，现无业。 为朱镕基叫好，理由如下：如果没有朱镕基快刀斩乱麻，东北肯定会拖垮全国，坏账也会影响加入WTO，他不动刀子，中国怎么成为世界工厂？怎么有后来的高速发展。 谁有权力牺牲某一部分人，谁有资格确定牺牲某一部分人。有论证过程吗，有法律程序有听证吗，为什么不给这些人更体面的安顿。靠一咬牙一跺脚，执政合法性就可疑了。当然我们从来不在乎合法性，咱有枪……1909年，张之洞病危，摄政王载沣去探视。张之洞劝他重视民心舆情，不可寒了天下人心。载沣傲然答：“怕什么，咱有兵在”。张之洞送走载沣，长叹一声：“不意闻此亡国之言”，不久去世。 秦制必然出现朱镕基。之前那个时间点的人物叫张居正，现在这个时间点的角色叫朱镕基。干的活儿，周一叫公私合营，周二叫人民公社，周三叫大跃进，周四叫国企改革，周五叫三峡移民……船要沉了，人家先扔下一批人减重，总有一天轮到扔你。 朱镕基学气象的儿子，掌管中国最大的投行，学社会学的女儿，在国有银行主管人民币业务，女婿掌管国企香港资本和资源平台。2007年，朱云来年薪1700万美元，按当年汇率相当于1亿2926万8000元，相当于5185名普通中国职工一年的工资，或者一个中国职工干5185年的收入，那时候还没有夏朝呢。上述，全在朱镕基主管的领域。说到这份儿上，您还认为朱镕基还是那个“我这里准备了100口棺材，99口留给贪官，一口留给我自己”的铁相……是不是有点矮化自己的智商了。 点击进入收看我的第五期油管节目，https://youtu.be/xgZ6F0hI4oU",
-      "url": "https://x.com/hibtc37/status/2089582354910376141",
-      "tweet_id": "2089582354910376141"
-    },
-    {
-      "id": "tweet_hibtc37_2088084341054435418",
-      "username": "hibtc37",
-      "display_name": "HiBTC",
-      "published_at": "Fri, 14 Aug 2026 02:04:36 GMT",
-      "content": "新区间： 640 635现价 628 大饼震荡，波动很小，我也看不出方向，前几天看到十亿哥做多打止损，我做空也打了止损，这种行情上下撸区间比较适合，但一旦变盘，做错方向就麻烦，这真是技术活了 震荡这么久了，交易大神们，你怎么看后市呢",
-      "url": "https://x.com/hibtc37/status/2088084341054435418",
-      "tweet_id": "2088084341054435418"
     }
   ],
   "stats": {
