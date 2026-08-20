@@ -1,34 +1,33 @@
 {
-  "fetched_at": "2026-08-20T14:40:54.258661+00:00",
+  "fetched_at": "2026-08-20T15:38:28.739251+00:00",
   "total": 3,
   "tweets": [
     {
-      "id": "tweet_cz_binance_2090388232873955815",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 20 Aug 2026 10:39:26 GMT",
-      "content": "RT by @cz_binance: BNB Chain gas spend jumped +40% week-over-week. This comes right after the network added ~124k new RWA holders in just 72 hours. TPS and total transactions are also climbing RWA utilization rises.",
-      "url": "https://x.com/cz_binance/status/2090388232873955815",
-      "tweet_id": "2090388232873955815",
-      "translated": "@cz_binance 转发：BNB 链的 Gas 支出每周增加 40%。这是在网络在短短 72 小时内新增约 12.4 万 RWA 持有者之后发生的。 TPS 和总交易量也在攀升，RWA 利用率也在上升。"
+      "id": "tweet_xingpt_2090455418225172688",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Thu, 20 Aug 2026 15:06:25 GMT",
+      "content": "贝爷说话了，回购规模可能比 40 亿美金要大！ US Treasury Secretary Bessent on bonds: The buyback could be more than 4 billion - CNBC.",
+      "url": "https://x.com/xingpt/status/2090455418225172688",
+      "tweet_id": "2090455418225172688"
     },
     {
-      "id": "tweet_cz_binance_2090387407078142406",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 20 Aug 2026 10:36:10 GMT",
-      "content": "🐂",
-      "url": "https://x.com/cz_binance/status/2090387407078142406",
-      "tweet_id": "2090387407078142406"
+      "id": "tweet_xingpt_2090450815563821508",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Thu, 20 Aug 2026 14:48:07 GMT",
+      "content": "笑死了这个",
+      "url": "https://x.com/xingpt/status/2090450815563821508",
+      "tweet_id": "2090450815563821508"
     },
     {
-      "id": "tweet_cz_binance_2090363393920385417",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 20 Aug 2026 09:00:44 GMT",
-      "content": "RT by @cz_binance: CZ @cz_binance 首次公开回应：为何选择主动赴美入狱？ 1. 出了事就得扛 逃避没有任何意义，把官司彻底解决掉，对个人、币安、 $BNB 持有者以及整个加密行业才是最好的交代。 2. 有免引渡特权，但他不想当缩头乌龟 案发前半年刚拿到阿联酋国籍，当地跟美国没有引渡条约，但他觉得靠这个挡箭牌躲着太不地道，不符合自己的做事原则。 3. 以为顶多居家禁足，没想到真会坐牢 根本没料到会进监狱。因为案子只涉及违反《银行保密法》且没有任何诈骗，之前同类案件最多就是罚款或居家隔离，结果自己竟成了史上唯一因此入狱的人。 4. 当时被当成了最容易开刀的软柿子 拜登政府当时打压加密，币安又是全球最大的非美交易所，再加上自己长着一张华裔脸，直接成了最醒目的目标！ 感谢 CZ 守住了币圈、BNB 的脸面！🙏",
-      "url": "https://x.com/cz_binance/status/2090363393920385417",
-      "tweet_id": "2090363393920385417"
+      "id": "tweet_xingpt_2090379497547972661",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Thu, 20 Aug 2026 10:04:44 GMT",
+      "content": "今天原生家庭涨的不错，开启了熊市的修复行情，至于能涨多少，还能不能买，怎么买，都放到会员频道了。 择机公布到推特。 https://www.patreon.com/xingpt/posts/0820-jia-mi-xing-167185882?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
+      "url": "https://x.com/xingpt/status/2090379497547972661",
+      "tweet_id": "2090379497547972661"
     }
   ],
   "stats": {
