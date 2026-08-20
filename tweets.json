@@ -1,68 +1,38 @@
 {
-  "fetched_at": "2026-08-20T09:39:09.906013+00:00",
-  "total": 6,
+  "fetched_at": "2026-08-20T10:35:58.655278+00:00",
+  "total": 3,
   "tweets": [
     {
-      "id": "tweet_cz_binance_2090283154007322860",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 20 Aug 2026 03:41:54 GMT",
-      "content": "More importantly, I was this close to walking on stage with this.",
-      "url": "https://x.com/cz_binance/status/2090283154007322860",
-      "tweet_id": "2090283154007322860",
-      "translated": "更重要的是，我差点就带着这个走上了舞台。"
+      "id": "tweet_xiaomustock_2090360916877664495",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Thu, 20 Aug 2026 08:50:54 GMT",
+      "content": "市场开始拥抱加密黄金炒美债危机叙事， 抛弃了存储科技。",
+      "url": "https://x.com/xiaomustock/status/2090360916877664495",
+      "tweet_id": "2090360916877664495"
     },
     {
-      "id": "tweet_cz_binance_2090283010486595688",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 20 Aug 2026 03:41:19 GMT",
-      "content": "Many people miss the bigger picture. Policy cannot be applied to only one company/project. What's good for one is good for the rest of the industry.",
-      "url": "https://x.com/cz_binance/status/2090283010486595688",
-      "tweet_id": "2090283010486595688",
-      "translated": "许多人错过了大局。政策不能仅适用于一家公司/项目。对一个人有利的事情也对整个行业有利。"
+      "id": "tweet_xiaomustock_2090266141432377366",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Thu, 20 Aug 2026 02:34:18 GMT",
+      "content": "海力士的50%现金回报股东其实相当于美光闪迪的100%回报股东。 因为海力士折价， 50%的钱可以买到像美光闪迪100%回报股东一样多的股票。",
+      "url": "https://x.com/xiaomustock/status/2090266141432377366",
+      "tweet_id": "2090266141432377366"
     },
     {
-      "id": "tweet_cz_binance_2090177492380201278",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 19 Aug 2026 20:42:02 GMT",
-      "content": "Will be speaking at SALT conference with @Scaramucci in about an hour, in person, from Jackson Hole, Wyoming.",
-      "url": "https://x.com/cz_binance/status/2090177492380201278",
-      "tweet_id": "2090177492380201278",
-      "translated": "大约一个小时后，我将在怀俄明州杰克逊霍尔与 @Scaramucci 亲自在 SALT 会议上发表讲话。"
-    },
-    {
-      "id": "tweet_xingpt_2090344708816220402",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 20 Aug 2026 07:46:29 GMT",
-      "content": "2026 年 8 月 20 日，恒大集团许家印，前中国首富被判处无期徒刑； 2024年1月29日，香港高等法院下令中国恒大集团清盘，成为压垮恒大的最后一个稻草， 然而早在这之前两年，许家印妻子丁玉梅就在 2022 年火速与许家印办理了离婚手续，借着这次离婚，丁玉梅直接分得427亿的庞大资产。 她花费数亿英镑，买下伦敦顶级豪宅和33套公寓，摇身一变，在恒大业主接盘烂尾楼的同时，恒大前老板娘成为英国顶豪，超级包租婆。 （跟白人小伙约会的照片是AI合成的，没有证据证明老许带了绿帽子，不过在几百亿的资产面前，包养小鲜肉急剧传播属性，但却是最不重要的那个） 好景不长，其资产和存款大多数被冻结，目前每个月最高可以拿到 2 万镑生活费，对普通人来说一个月十几万人民币的生活费算是奢靡了，但对老板娘来说确实显得拮据，毕竟她酒窖里的藏酒价值就超过2000万英镑，私人瑜伽教练时薪500英镑。。 无独有偶，前中国国家足球队教练李铁，曾有媒体爆料妻子龙菲在李铁被带走调查后不准备退还赃款，并离境逃往美国，并且携带赃款高达2.7亿元。 一个课题是：名人如何正确技术性离婚，才能确保财产保全并且不被老婆戴绿帽子？",
-      "url": "https://x.com/xingpt/status/2090344708816220402",
-      "tweet_id": "2090344708816220402"
-    },
-    {
-      "id": "tweet_xingpt_2090337169898705061",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 20 Aug 2026 07:16:32 GMT",
-      "content": "Wework工作日下午的灵活工位人满为患，失业率之高可见一斑！",
-      "url": "https://x.com/xingpt/status/2090337169898705061",
-      "tweet_id": "2090337169898705061"
-    },
-    {
-      "id": "tweet_xingpt_2090283183938080779",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 20 Aug 2026 03:42:01 GMT",
-      "content": "【半导体中场复盘，鱼尾行情还有多大？】 当前的半导体行情有点像复刻的是英伟达 24 年的剧本，我们来复盘一下当时发生了什么： 在 24 年7 月 11 日到 8 月 5 日，英伟达从约134 美元跌到 90.94 美元，下跌了33%。 消息面上，下跌的触发因素包括 7 月开始的Blackwell 延期传闻、美国司法部反垄断调查报道，最后 8 月 5 日日央行加息引发套息交易平仓，全球风险资产恐慌抛售砸出低点，也就是“基本面小作文+宏观影响的资产抛售”。 8 月8 日到 9 月 6 号这一个月，超跌回补，配合宏观有一些政策松动；但没有过前高，英伟达“优秀但不完美”的财报引发了下跌。 随后，9 月 11 号英伟达宣布Blackwell 已全面投产、Q4 开始出货，英伟达单日涨 8%，再跌价美联储4 年来首次降息50bp，英伟达再次于 11 月 8 日股价破历史新高。 从历史中我们能学到什么？ 1. 阶段性见顶的特征是有哪些？ 技术面：双顶或者没有破前高压力位；同时K线形态出现阴包阳看跌形态； 资金面拥挤+高杠杆：24 年 6 月，70% 的基金经理认为做多 Mag7 是最拥挤交易，同时小盘股空头仓位接近历史纪录。整个市场挤在船的同一侧； 24 年 截至 8 月 27 日的前五个交易日，英伟达股价另一个顶部区间，散户净买入 NVDA 14 亿美元，同期第二名特斯拉只有 1 到 2 亿美元级别，差距近十倍。NVDL（两倍做多 NVDA ETF）全年净流入 35 亿美元，盘中多次成为全市场最活跃品种。 基本面：8 月 28 日英伟达财报收入和指引超预期但是因为毛利率下降了 3%，盘后股价跌近 7% 所以我们不难发现，阶段性顶部的特征是技术面出现顶部形态特征，同时叠加资金面提升了脆弱性（集中度高、杠杆高），基本面和消息面一旦出现任何风吹草动，股价就会立马暴跌。 实操的做法是一旦技术上出现鉴定特征，只有资金面有杠杆过高和集中度过大的情况，应该立刻减仓避险，确认下跌趋势即卖出。 2. 底部特征 技术面：8 月 5 号低开高走长实体K线，量能也足够，5.53 亿股是那段时间的最大单日成交量，超过前后所有交易日；8 月 6 号站上前一天实体上方，反包确认；7 号回踩没有破前低。 这三天形成了技术面筑底的信号。 我们再通过资金面进行确认：VIX指数当天创纪录，盘中 65（历史第三高）；外围市场日经 -12.4%（1987 年以来最大）、KOSPI -9% 触发熔断，市场层面的恐慌指标全部爆表，也意味着卖压到了极值； 基本面上，主要的利空触发链条是日央行 7 月 31 日加息、日元套息交易平仓、美国 7 月非农 11.4 万远低于预期，属于大盘的宏观性利空下跌，跟英伟达的基本面无关。 9 月 6 号的反正也是类似的逻辑，只不过没有 8 月 5 号极端。 底部我们也可以发现特征，一是技术面的开始出现见底形态，特别是量能上确认，另一个下杀的逻辑不触及企业经营的基本面，更多是大盘宏观的一次性事件和短期冲击，最终优秀企业都会在价格上修复错杀。",
-      "url": "https://x.com/xingpt/status/2090283183938080779",
-      "tweet_id": "2090283183938080779"
+      "id": "tweet_xiaomustock_2089974136437449126",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Wed, 19 Aug 2026 07:13:58 GMT",
+      "content": "海力士回购+50%自由现金回报股东",
+      "url": "https://x.com/xiaomustock/status/2089974136437449126",
+      "tweet_id": "2089974136437449126"
     }
   ],
   "stats": {
-    "users_success": 2,
-    "users_failed": 6,
+    "users_success": 1,
+    "users_failed": 7,
     "nitter_healthy": 10
   }
 }
