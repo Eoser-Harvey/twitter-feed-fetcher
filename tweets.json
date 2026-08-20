@@ -1,33 +1,36 @@
 {
-  "fetched_at": "2026-08-20T15:38:28.739251+00:00",
+  "fetched_at": "2026-08-20T17:34:32.347815+00:00",
   "total": 3,
   "tweets": [
     {
-      "id": "tweet_xingpt_2090455418225172688",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 20 Aug 2026 15:06:25 GMT",
-      "content": "贝爷说话了，回购规模可能比 40 亿美金要大！ US Treasury Secretary Bessent on bonds: The buyback could be more than 4 billion - CNBC.",
-      "url": "https://x.com/xingpt/status/2090455418225172688",
-      "tweet_id": "2090455418225172688"
+      "id": "tweet_aleabitoreddit_2090490101260591481",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 20 Aug 2026 17:24:14 GMT",
+      "content": "Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd. The demand visibility... is just way too stupidly high. AOI: “Even combined AOI, Coherent program altogether, is still very tough to meet the customer demand in the next 3 years” (2029) Elazr GM: \"entire optical supply chain was facing major shortages.\" \"The shortage will continue to the next few years\" Sivers CEO said the same thing about InP laser demand imbalances expected for the next 3-5 years. Can go on and on about $LITE, $MTSI and other comments. We haven't even hit the inflection point with 1.6T, NPO, CPO scale out/up, and optics with memory (as seen with SK Hynix). Yet the industry is already bottlenecked by EML/CW and all your other upstream components from PDs/TIA/DSPs, transceivers, and soon FAU + others when CPO scales… I'm personally extremely comfortable watching this all play out, but just a little confused that markets don't know how to math a year or two ahead.",
+      "url": "https://x.com/aleabitoreddit/status/2090490101260591481",
+      "tweet_id": "2090490101260591481",
+      "translated": "非常积极。我的观点是，光学行业最近从 $AAOI 跌至 $SIVE 的表现不佳是荒谬的。需求可见性……太高了。 AOI：“即使将 AOI 与相干公司计划相结合，仍然很难满足未来 3 年内的客户需求” (2029) Elazr 总经理：“整个光学供应链面临严重短缺。” Sivers首席执行官对于预计未来3-5年InP激光器需求失衡也表示了同样的看法，“短缺将持续到未来几年”。可以继续谈论 $LITE、$MTSI 和其他评论。我们甚至还没有达到 1.6T、NPO、CPO 横向扩展/向上扩展以及带有内存的光学器件（如 SK Hynix 所示）的拐点。然而，该行业已经受到 EML/CW 以及 PD/TIA/DSP、收发器等所有其他上游组件的瓶颈，当 CPO 规模扩大时，很快还会出现 FAU + 其他组件……我个人非常乐意看到这一切的发生，但只是有点困惑，因为市场不知道如何计算未来一两年的情况。"
     },
     {
-      "id": "tweet_xingpt_2090450815563821508",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 20 Aug 2026 14:48:07 GMT",
-      "content": "笑死了这个",
-      "url": "https://x.com/xingpt/status/2090450815563821508",
-      "tweet_id": "2090450815563821508"
+      "id": "tweet_aleabitoreddit_2090374603264929981",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 20 Aug 2026 09:45:17 GMT",
+      "content": "I'm glad the leverage bros moved from AI stocks back to Hyerliquid and biotech like $MRNA, so maybe we'll see a faster recovery. Aside from that just some TLDR stuff: - $EWY up, primarily from SK Hynix buybacks (they're just too profitable), and Samsung Foundry roughly ~10-15% price hikes. - $SKHY unveils CPO roadmap?? Apparently they're doing something with photonic interposer that links to memory, so I gotta look a bit deeper into this Probably going to be more TAM expansion, more supply chain beneficiaries (eg. lasers, PICs, packaging) off this. - $YMTC pursuing IPO next quarter following CMXT's successful IPO. The Chinese IPO market is just going brrr from Unitree to memory makers. US needs to do something similar rather than IPOing companies at trillion dollar valuations already. - Tyntek limit up there's now order visibility through 2028, given photodiode demand imbalance for photonics. Elazr GM did say the entire optical supply chain was facing major shortages... I'll probably look more at high-end PD bottlenecks next. - MS forecasts a 50% Q/Q price increase for DDR4 for Q3, and 10%+ increase for Q4 2026. (Nanya/2408, Windbond/2344, should be happy). - China reportedly delays clearance from germanium, quartz-based materials, and neodymium magnets To taiwan. So I'll probably have some fun looking into supply chains disruptions there over cup noodles. - High-end PCB drill shortage (still ongoing), Kawei (5498) said AI DCs, servers and optical communications are driving demand for PCBs, HDI and package substrates, while tungsten prices are rising. Though the world's five largest drill manufacturers are aggressively expanding capacity, supply remains far below overall market demand Just stuff I found interesting recently, obviously $MRNA stuff is too.",
+      "url": "https://x.com/aleabitoreddit/status/2090374603264929981",
+      "tweet_id": "2090374603264929981",
+      "translated": "我很高兴杠杆兄弟从人工智能股票转向 Hyerliquid 和 $MRNA 等生物技术，所以也许我们会看到更快的复苏。除此之外，还有一些 TLDR 的东西： - $EWY 上涨，主要来自 SK Hynix 回购（它们利润太高了），以及 Samsung Foundry 大约 10-15% 的价格上涨。 - $SKHY 公布 CPO 路线图？显然他们正在用链接到内存的光子中介层做一些事情，所以我得更深入地研究一下这个。可能会更多的 TAM 扩展，更多的供应链受益者（例如激光器、PIC、包装）。 - 继 CMXT 成功 IPO 后，$YMTC 将于下季度进行 IPO。中国IPO市场刚刚从Unitree转向内存制造商。美国需要做类似的事情，而不是让估值数万亿美元的公司首次公开募股。 - 鉴于光电二极管需求不平衡，Tyntek 限制了 2028 年之前的订单可见性。 Elazr 总经理确实表示整个光学供应链正面临严重短缺……接下来我可能会更多地关注高端 PD 瓶颈。 - MS 预测 2026 年第 3 季度 DDR4 价格将环比上涨 50%，第 4 季度将上涨 10% 以上。（Nanya/2408、Windbond/2344，应该会感到高兴）。 - 据报道，中国推迟了对台湾的锗、石英材料和钕磁铁的清关。所以我可能会很有趣地研究杯面的供应链中断。 - 高端PCB钻头短缺（仍在持续），卡威（5498）表示，AI DC、服务器和光通信正在推动PCB、HDI和封装基板的需求，而钨价则在上涨。尽管世界上最大的五家钻头制造商正在积极扩大产能，但供应量仍然远远低于整体市场需求。这是我最近发现的有趣的东西，显然 $mRNA 的东西也是如此。"
     },
     {
-      "id": "tweet_xingpt_2090379497547972661",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Thu, 20 Aug 2026 10:04:44 GMT",
-      "content": "今天原生家庭涨的不错，开启了熊市的修复行情，至于能涨多少，还能不能买，怎么买，都放到会员频道了。 择机公布到推特。 https://www.patreon.com/xingpt/posts/0820-jia-mi-xing-167185882?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
-      "url": "https://x.com/xingpt/status/2090379497547972661",
-      "tweet_id": "2090379497547972661"
+      "id": "tweet_aleabitoreddit_2090103899302826302",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Wed, 19 Aug 2026 15:49:36 GMT",
+      "content": "$MRVL gives $GOOGL options to buy $12.2B of the company. \"The Marvell-Google deal covers a broad range of technologies used ​with TPUs, including processors that run AI models, manage data storage ​and move information ⁠across networks.\" Which could translate into ~$120 billion ​in revenue through 2033. Marvell also has separate warrants with $AMZN after their Celestial acquisition (for purchases of photonic fabric). Remember the good times when Jensen said Marvell would be the next $1T+ company? Seems Nvidia knew Marvell was \"networking\" its way into all the hyperscalers with warrants.",
+      "url": "https://x.com/aleabitoreddit/status/2090103899302826302",
+      "tweet_id": "2090103899302826302",
+      "translated": "$MRVL 给予 $GOOGL 购买该公司 $12.2B 的期权。 “Marvell 与 Google 的交易涵盖了 TPU 所使用的广泛技术，包括运行 AI 模型、管理数据存储以及跨网络移动信息的处理器。”到 2033 年，这可能会带来约 1200 亿美元的收入。 Marvell 在收购 Celestial（用于购买光子织物）后还向 AMZN 授予了单独的认股权证。还记得 Jensen 说 Marvell 将成为下一家 1T+ 公司的美好时光吗？ Nvidia 似乎知道 Marvell 正在通过授权“联网”进入所有超大规模企业。"
     }
   ],
   "stats": {
