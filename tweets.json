@@ -1,67 +1,7 @@
 {
-  "fetched_at": "2026-08-20T01:20:02.733417+00:00",
-  "total": 21,
+  "fetched_at": "2026-08-20T03:00:56.829643+00:00",
+  "total": 18,
   "tweets": [
-    {
-      "id": "tweet_elonmusk_2090213954744463691",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 19 Aug 2026 23:06:55 GMT",
-      "content": "RT by @elonmusk: Grok Build just got a new update bringing a first-class workflows catalog, Always and Never allow on permission prompts, a live status line that can refresh on a timer, and faster shutdown of looping tool calls Release Notes: v1.0.7 Features: • Users hitting startup timeouts can now raise the connect budget with the `GROK_CONNECT_UI_TIMEOUT_SECS` environment variable. • Permission prompts now show \"Always allow\" and \"Never allow\" options by default. • Users can now delete scheduled background loops directly from the tray. • Status line command scripts can now run on a timer via refresh_interval in config.toml. • Permission prompts now offer a 'Never allow' choice for MCP tools and web-fetch domains that persists per project. • Workflows tab added to the extensions modal (Ctrl+L or /plugins) listing installed workflows with name, source, and description. • New /workflows command opens the Workflows catalog tab; use /workflow runs to view live workflow runs. • Bare /workflow (or /workflow runs) now lists active and recent workflow runs with status and progress instead of usage help. • Workflows row added to the Ctrl+P command palette, opening the Workflows catalog tab. Bug Fixes: • MCP server connections in non-interactive sessions no longer incorrectly require authentication for tokenless servers. • Fixed startup timeouts caused by concurrent auth refreshes across multiple sessions. • Tool call loops are interrupted earlier to avoid wasting time on repeated identical actions. • Subagents no longer receive the ask-user-question tool. • Bare email addresses are now turned into clickable mailto links in the pager.",
-      "url": "https://x.com/elonmusk/status/2090213954744463691",
-      "tweet_id": "2090213954744463691",
-      "translated": "RT by @elonmusk：Grok Build 刚刚获得了一个新的更新，带来了一流的工作流程目录、始终和从不允许权限提示、可以在计时器上刷新的实时状态行以及更快地关闭循环工具调用发行说明：v1.0.7 功能： • 遇到启动超时的用户现在可以使用“GROK_CONNECT_UI_TIMEOUT_SECS”环境变量提高连接预算。 • 权限提示现在默认显示“始终允许”和“从不允许”选项。 • 用户现在可以直接从托盘中删除预定的后台循环。 • 状态行命令脚本现在可以通过config.toml 中的refresh_interval 在计时器上运行。 • 权限提示现在为MCP 工具和每个项目持续存在的Web 获取域提供“从不允许”选择。 • 添加到扩展模式（Ctrl+L 或/plugins）的“工作流程”选项卡列出了已安装的工作流程及其名称、来源和说明。 • 新的/workflows 命令可打开工作流程目录选项卡；使用 /workflow running 查看实时工作流程运行。 • 裸/工作流（或/工作流运行）现在列出活动的和最近的工作流运行以及状态和进度，而不是使用帮助。 • 工作流程行添加到Ctrl+P 命令选项板，打开工作流程目录选项卡。错误修复： • 非交互式会话中的 MCP 服务器连接不再错误地要求对无令牌服务器进行身份验证。 • 修复了多个会话中并发身份验证刷新导致的启动超时问题。 • 工具调用循环会提前中断，以避免在重复相同的操作上浪费时间。 • 子代理不再接收询问用户问题工具。 • 裸露的电子邮件地址现在变成了寻呼机中可点击的mailto 链接。"
-    },
-    {
-      "id": "tweet_elonmusk_2090154365365710911",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 19 Aug 2026 19:10:08 GMT",
-      "content": "He committed serious crimes, as did Fauci",
-      "url": "https://x.com/elonmusk/status/2090154365365710911",
-      "tweet_id": "2090154365365710911",
-      "translated": "他犯下了严重罪行，福奇也是如此"
-    },
-    {
-      "id": "tweet_elonmusk_2090092802612863098",
-      "username": "elonmusk",
-      "display_name": "马斯克",
-      "published_at": "Wed, 19 Aug 2026 15:05:30 GMT",
-      "content": "RT by @elonmusk: Does this change everything?",
-      "url": "https://x.com/elonmusk/status/2090092802612863098",
-      "tweet_id": "2090092802612863098",
-      "translated": "RT @elonmusk：这会改变一切吗？"
-    },
-    {
-      "id": "tweet_cz_binance_2090177492380201278",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 19 Aug 2026 20:42:02 GMT",
-      "content": "Will be speaking at SALT conference with @Scaramucci in about an hour, in person, from Jackson Hole, Wyoming.",
-      "url": "https://x.com/cz_binance/status/2090177492380201278",
-      "tweet_id": "2090177492380201278",
-      "translated": "大约一个小时后，我将在怀俄明州杰克逊霍尔与 @Scaramucci 亲自在 SALT 会议上发表讲话。"
-    },
-    {
-      "id": "tweet_cz_binance_2090176538486468780",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 19 Aug 2026 20:38:15 GMT",
-      "content": "We are so back! 👏",
-      "url": "https://x.com/cz_binance/status/2090176538486468780",
-      "tweet_id": "2090176538486468780",
-      "translated": "我们就这么回来了！ 👏"
-    },
-    {
-      "id": "tweet_cz_binance_2090040228593697013",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Wed, 19 Aug 2026 11:36:36 GMT",
-      "content": "If you want the you two years later to appreciate what you did today, then... (Not calling any bottoms. No one can. But try to adopt a yearly horizon.)",
-      "url": "https://x.com/cz_binance/status/2090040228593697013",
-      "tweet_id": "2090040228593697013",
-      "translated": "如果你想让两年后的你欣赏你今天所做的事情，那么......（不称任何底部。没有人可以。但尝试采用每年的视野。）"
-    },
     {
       "id": "tweet_realDonaldTrump_2082159711852298494",
       "username": "realDonaldTrump",
@@ -122,6 +62,15 @@
       "translated": "Unitree（688836）现已上市。上涨 +492.18% 后，估值约为 $53.3B 我们终于有了一个针对人形机器人的主要上市公司基准。作为参考，Agility（由 $NVDA、$AMZN 支持）通过 $CCXI 预计将以 $2.5B 的投前估值第四季度上市。 $TSLA 是 $1T+，但 Optimus 被包裹在一家更大的公司内。但我认为 Unitree 表明，对纯粹的人形玩家的需求比人们在公开市场上的预期要大得多。"
     },
     {
+      "id": "tweet_qinbafrank_2090259492147707966",
+      "username": "qinbafrank",
+      "display_name": "秦巴Frank",
+      "published_at": "Thu, 20 Aug 2026 02:07:52 GMT",
+      "content": "政策利好还要流动性回升的配合，币市才能大涨。上周末刚做了一个年内流动性的推演： 1）8月17-20日流动性下探短期低点； 2）8月下旬流动性回流直到9月上旬。 3）9月中及月底和10月下旬是两个关键的流动性考验，特别是10月下旬可能会迎来年内流动性的最低点。 4）然后11月-12月，准备金又是回升向上、相当于年底回升到充裕状态。 然后你看本周前三天币市很萎靡、但是一熬过短期低点就开始反弹。 流动性回升是昨晚币市的第一驱动（即使没有政策利好，流动性回升也能带动大饼走强，但应该不会这么强势）； 第二驱动力则是SEC昨天这里https://x.com/qinbafrank/status/2090227771134095538?s=46&t=k6rimWsEbo2D2tXolYcM-A提出的加密代币融资豁免规则安全港，以及川普昨晚在白宫举行的全是加密行情高管的科技领袖会议重申对加密的支持希望推动清晰法案通过。 从流动性的角度看、近期币市应该还可以。9月中下特别是10月下旬需要谨慎、毕竟10月下旬可能是年内流动性的最低点。然后年底有可以乐观些。 过去几年写过多篇大饼跟美元流动性的密切关系，都汇总在三月的这篇长文里https://x.com/qinbafrank/status/2029816341361025505?s=46&t=k6rimWsEbo2D2tXolYcM-A。核心就是：大饼价格走势跟美元净流动性相关，更与商业银行准备金余额走势更高度密切相关，可以说是高度正相关。",
+      "url": "https://x.com/qinbafrank/status/2090259492147707966",
+      "tweet_id": "2090259492147707966"
+    },
+    {
       "id": "tweet_qinbafrank_2090227771134095538",
       "username": "qinbafrank",
       "display_name": "秦巴Frank",
@@ -140,13 +89,13 @@
       "tweet_id": "2090101924293165467"
     },
     {
-      "id": "tweet_qinbafrank_2090090050570916041",
-      "username": "qinbafrank",
-      "display_name": "秦巴Frank",
-      "published_at": "Wed, 19 Aug 2026 14:54:34 GMT",
-      "content": "虽然名义上叫“科技领袖会议”，实际受邀和预期出席者几乎全部是加密货币/数字资产相关高管、行业协会，以及传统金融中与加密高度相关的机构。希望能推动关于清晰法案、创新豁免等方面的进展",
-      "url": "https://x.com/qinbafrank/status/2090090050570916041",
-      "tweet_id": "2090090050570916041"
+      "id": "tweet_xiaomustock_2090266141432377366",
+      "username": "xiaomustock",
+      "display_name": "小米股",
+      "published_at": "Thu, 20 Aug 2026 02:34:18 GMT",
+      "content": "海力士的50%现金回报股东其实相当于美光闪迪的100%回报股东。 因为海力士折价， 50%的钱可以买到像美光闪迪100%回报股东一样多的股票。",
+      "url": "https://x.com/xiaomustock/status/2090266141432377366",
+      "tweet_id": "2090266141432377366"
     },
     {
       "id": "tweet_xiaomustock_2089974136437449126",
@@ -167,13 +116,13 @@
       "tweet_id": "2089607956493205766"
     },
     {
-      "id": "tweet_xiaomustock_2089376641445482583",
-      "username": "xiaomustock",
-      "display_name": "小米股",
-      "published_at": "Mon, 17 Aug 2026 15:39:44 GMT",
-      "content": "在闪迪美光长鑫涨成这逼样的情况下， 海力士再此非常具有性价比。 虽然韩国股市是一坨",
-      "url": "https://x.com/xiaomustock/status/2089376641445482583",
-      "tweet_id": "2089376641445482583"
+      "id": "tweet_xingpt_2090264570959216647",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Thu, 20 Aug 2026 02:28:03 GMT",
+      "content": "可恶！我加密还没买够！",
+      "url": "https://x.com/xingpt/status/2090264570959216647",
+      "tweet_id": "2090264570959216647"
     },
     {
       "id": "tweet_xingpt_2090084841870283119",
@@ -194,18 +143,36 @@
       "tweet_id": "2090084315736793302"
     },
     {
-      "id": "tweet_xingpt_2089966824234606999",
-      "username": "xingpt",
-      "display_name": "星Prompt",
-      "published_at": "Wed, 19 Aug 2026 06:44:55 GMT",
-      "content": "退出所有交易，暂时观望，复盘七月大跌之后这次更像是二次探底。 8 月没有上去到之前的高度，那么接下来可能是以季度为单位的调整了。",
-      "url": "https://x.com/xingpt/status/2089966824234606999",
-      "tweet_id": "2089966824234606999"
+      "id": "tweet_hibtc37_2090269302696136937",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Thu, 20 Aug 2026 02:46:51 GMT",
+      "content": "新区间： 704 693市价 675 上个区间提到的价格都被吃了，我也提到“一旦变盘，做错方向就麻烦，这真是技术活了”，BTC结束了10多周的震荡，在昨晚特朗普喊单，直接击穿70k，空头爆仓27亿，爆仓人数17万，这个爆仓级别非常大了，很多人返贫 过去这段时间死水一般，我选择了休息，甚至X都没发了，沉浸打打球，搞搞锻炼，打打游戏，躲过一劫，挺舒服的 看了下整体流动性，这个次很明显是老鼠仓，没有明显的牛回迹象，华尔街还是依然在卖，喊牛回还是过早，下一个更关键的时间点看9月15日清晰法案和沃什的讲话 70k左右的价格做多性价比非常低，因为能到这个价格是流动性真空，价格被击穿了，再往上的流动性也不多，我会尝试在反弹做短空试试",
+      "url": "https://x.com/hibtc37/status/2090269302696136937",
+      "tweet_id": "2090269302696136937"
+    },
+    {
+      "id": "tweet_hibtc37_2089582354910376141",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Tue, 18 Aug 2026 05:17:10 GMT",
+      "content": "RT by @hibtc37: 盖棺定论：《朱镕基的罪与罚》，今天，朱镕基遗体火化，灰飞烟灭，不知他在空中有没有想起那些因他一念而起，命运动荡的人们：数千万人失去工作流离失所，男人骑着自行车送老婆做皮肉生意…… 2001年朱镕基在清华告别演讲时说了一个故事：儿子朱云来十几岁时，想在家里阳台上种菜，捡了一块破破烂烂的油毡子，准备搁了土种菜。朱镕基就打了他一个耳光。朱云来委屈解释，这油毡子是从垃圾堆里捡来的，不是偷拿别人财物。但朱镕基还是说：“把这块油毡子送回去，不管它是别人的还是垃圾堆里的”，亲自陪儿子把油毡子扔回了垃圾堆。 朱镕基在清华公开演讲中说出这件事，证明了两点：一，他要证明他不贪，也不准儿子贪。二，他不仅想让清华校友知道，更想让全国人民也知道他不贪，也不准儿子贪——然后他就说出那句“我只希望我卸任以后，全国人民能说一句，他是一个清官”。 几年间老朱手持菜刀砍电线，一路火花带闪电。六年下来，全国职工总数少了5975万人，降幅41.9%。王兵《铁西区》讲述的就是宏大叙事的国企改革下面，那抹破败的铁锈色混杂着几十年血与泪。1996和2001年严打，公安部卷宗里，东三省成了恶性案件最密集的地区。这些案子的主犯档案里常有同一行熟悉的字眼：东北某厂下岗工人，现无业。 为朱镕基叫好，理由如下：如果没有朱镕基快刀斩乱麻，东北肯定会拖垮全国，坏账也会影响加入WTO，他不动刀子，中国怎么成为世界工厂？怎么有后来的高速发展。 谁有权力牺牲某一部分人，谁有资格确定牺牲某一部分人。有论证过程吗，有法律程序有听证吗，为什么不给这些人更体面的安顿。靠一咬牙一跺脚，执政合法性就可疑了。当然我们从来不在乎合法性，咱有枪……1909年，张之洞病危，摄政王载沣去探视。张之洞劝他重视民心舆情，不可寒了天下人心。载沣傲然答：“怕什么，咱有兵在”。张之洞送走载沣，长叹一声：“不意闻此亡国之言”，不久去世。 秦制必然出现朱镕基。之前那个时间点的人物叫张居正，现在这个时间点的角色叫朱镕基。干的活儿，周一叫公私合营，周二叫人民公社，周三叫大跃进，周四叫国企改革，周五叫三峡移民……船要沉了，人家先扔下一批人减重，总有一天轮到扔你。 朱镕基学气象的儿子，掌管中国最大的投行，学社会学的女儿，在国有银行主管人民币业务，女婿掌管国企香港资本和资源平台。2007年，朱云来年薪1700万美元，按当年汇率相当于1亿2926万8000元，相当于5185名普通中国职工一年的工资，或者一个中国职工干5185年的收入，那时候还没有夏朝呢。上述，全在朱镕基主管的领域。说到这份儿上，您还认为朱镕基还是那个“我这里准备了100口棺材，99口留给贪官，一口留给我自己”的铁相……是不是有点矮化自己的智商了。 点击进入收看我的第五期油管节目，https://youtu.be/xgZ6F0hI4oU",
+      "url": "https://x.com/hibtc37/status/2089582354910376141",
+      "tweet_id": "2089582354910376141"
+    },
+    {
+      "id": "tweet_hibtc37_2088084341054435418",
+      "username": "hibtc37",
+      "display_name": "HiBTC",
+      "published_at": "Fri, 14 Aug 2026 02:04:36 GMT",
+      "content": "新区间： 640 635现价 628 大饼震荡，波动很小，我也看不出方向，前几天看到十亿哥做多打止损，我做空也打了止损，这种行情上下撸区间比较适合，但一旦变盘，做错方向就麻烦，这真是技术活了 震荡这么久了，交易大神们，你怎么看后市呢",
+      "url": "https://x.com/hibtc37/status/2088084341054435418",
+      "tweet_id": "2088084341054435418"
     }
   ],
   "stats": {
-    "users_success": 7,
-    "users_failed": 1,
-    "nitter_healthy": 9
+    "users_success": 6,
+    "users_failed": 2,
+    "nitter_healthy": 10
   }
 }
