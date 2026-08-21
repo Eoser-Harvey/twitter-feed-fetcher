@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T04:42:51.640687+00:00",
+  "fetched_at": "2026-08-21T06:53:30.133128+00:00",
   "total": 6,
   "tweets": [
     {
@@ -33,34 +33,31 @@
       "translated": "@elonmusk 转发：特朗普：“我要感谢 @elonmusk，因为埃隆能够为我们提供通信系统。如你所知，星链……我认为它实际上拯救了很多生命。”"
     },
     {
-      "id": "tweet_cz_binance_2090590687657922579",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Fri, 21 Aug 2026 00:03:55 GMT",
-      "content": "Let's tokenize everything. Tokenization is one of the best ways for countries to \"raise money\", or attract FDI (Foreign Direct Investment). Which country/company won't want to sell their (tokenized) stocks to everyone in the world? I support tokenization on all blockchains. While this creates the \"fragmented liquidity\" problem, it is the fastest way to grow the sector, with multiple players pushing. Fragmentation can be somewhat addressed if there is high interchangeability amongst different issuers, which is important.",
-      "url": "https://x.com/cz_binance/status/2090590687657922579",
-      "tweet_id": "2090590687657922579",
-      "translated": "让我们将一切标记化。代币化是各国“筹集资金”或吸引 FDI（外国直接投资）的最佳方式之一。哪个国家/公司不想将其（代币化）股票出售给世界上的每个人？我支持所有区块链上的代币化。虽然这造成了“流动性分散”的问题，但这是该行业发展最快的方式，需要多个参与者的推动。如果不同发行人之间具有高度的可互换性，那么碎片化问题可以在一定程度上得到解决，这一点很重要。"
+      "id": "tweet_xingpt_2090630342382436542",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Fri, 21 Aug 2026 02:41:30 GMT",
+      "content": "我现在怀疑大模型只有刚出来的一周和打榜的时候，模型名字跟实际能力相符；第一周Fable是真Fable，第二周就是Opus塞到Fable里，Haiku塞到Opus里；剩下时间就让用户忍一忍，节约算力去训练新模型了。 不单指A家，各家感觉都差不多，只不过是真模型拿出来给个人用户用的时间长短不一样罢了。",
+      "url": "https://x.com/xingpt/status/2090630342382436542",
+      "tweet_id": "2090630342382436542"
     },
     {
-      "id": "tweet_cz_binance_2090534925657067653",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 20 Aug 2026 20:22:21 GMT",
-      "content": "RT by @cz_binance: Big day for @worldlibertyfi. The first USD1-denominated RWA perpetual markets are live, with gold, oil and global equities now trading against USD1. Backed by 250M $WLFI and $12.5M USD1 to drive liquidity and growth. The digital dollar race is on, and we are playing to win.",
-      "url": "https://x.com/cz_binance/status/2090534925657067653",
-      "tweet_id": "2090534925657067653",
-      "translated": "RT @cz_binance：@worldlibertyfi 的重要日子。第一个以 1 美元计价的 RWA 永续市场已经上线，黄金、石油和全球股票现在以 1 美元进行交易。由 2.5 亿美元 WLFI 和 1,250 万美元 USD1 提供支持，以推动流动性和增长。数字美元竞赛已经开始，我们正在为胜利而战。"
+      "id": "tweet_xingpt_2090628295088025756",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Fri, 21 Aug 2026 02:33:22 GMT",
+      "content": "今天又是回归原生家庭的一天：早报分析了三个数据，一个消息面，又提醒了一个操作：https://www.patreon.com/xingpt/posts/0821-jia-mi-zao-167254582?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
+      "url": "https://x.com/xingpt/status/2090628295088025756",
+      "tweet_id": "2090628295088025756"
     },
     {
-      "id": "tweet_cz_binance_2090533681769161201",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 20 Aug 2026 20:17:24 GMT",
-      "content": "Cup of tea? Let AI do the trading for you.",
-      "url": "https://x.com/cz_binance/status/2090533681769161201",
-      "tweet_id": "2090533681769161201",
-      "translated": "喝杯茶吗？让人工智能为您进行交易。"
+      "id": "tweet_xingpt_2090473325760069866",
+      "username": "xingpt",
+      "display_name": "星Prompt",
+      "published_at": "Thu, 20 Aug 2026 16:17:34 GMT",
+      "content": "现在的媒体啊：太坏了！",
+      "url": "https://x.com/xingpt/status/2090473325760069866",
+      "tweet_id": "2090473325760069866"
     }
   ],
   "stats": {
