@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-08-21T03:08:02.165656+00:00",
-  "total": 3,
+  "fetched_at": "2026-08-21T04:42:51.640687+00:00",
+  "total": 6,
   "tweets": [
+    {
+      "id": "tweet_elonmusk_2090655236155384288",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 21 Aug 2026 04:20:25 GMT",
+      "content": "Starship is so sci-fi",
+      "url": "https://x.com/elonmusk/status/2090655236155384288",
+      "tweet_id": "2090655236155384288",
+      "translated": "星舰太科幻了"
+    },
+    {
+      "id": "tweet_elonmusk_2090628549745291611",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 21 Aug 2026 02:34:22 GMT",
+      "content": "True",
+      "url": "https://x.com/elonmusk/status/2090628549745291611",
+      "tweet_id": "2090628549745291611",
+      "translated": "真的"
+    },
+    {
+      "id": "tweet_elonmusk_1882839551867236438",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Fri, 24 Jan 2025 17:15:05 GMT",
+      "content": "RT by @elonmusk: TRUMP: \"I want to thank @elonmusk because Elon was able to get us communication systems. As you know, Starlink ... I think it saved a lot of lives actually.\"",
+      "url": "https://x.com/elonmusk/status/1882839551867236438",
+      "tweet_id": "1882839551867236438",
+      "translated": "@elonmusk 转发：特朗普：“我要感谢 @elonmusk，因为埃隆能够为我们提供通信系统。如你所知，星链……我认为它实际上拯救了很多生命。”"
+    },
     {
       "id": "tweet_cz_binance_2090590687657922579",
       "username": "cz_binance",
@@ -34,8 +64,8 @@
     }
   ],
   "stats": {
-    "users_success": 1,
-    "users_failed": 7,
+    "users_success": 2,
+    "users_failed": 6,
     "nitter_healthy": 10
   }
 }
