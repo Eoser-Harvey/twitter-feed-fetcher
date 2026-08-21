@@ -1,41 +1,71 @@
 {
-  "fetched_at": "2026-08-20T22:33:02.187087+00:00",
-  "total": 3,
+  "fetched_at": "2026-08-21T01:30:10.407277+00:00",
+  "total": 6,
   "tweets": [
     {
-      "id": "tweet_cz_binance_2090534925657067653",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 20 Aug 2026 20:22:21 GMT",
-      "content": "RT by @cz_binance: Big day for @worldlibertyfi. The first USD1-denominated RWA perpetual markets are live, with gold, oil and global equities now trading against USD1. Backed by 250M $WLFI and $12.5M USD1 to drive liquidity and growth. The digital dollar race is on, and we are playing to win.",
-      "url": "https://x.com/cz_binance/status/2090534925657067653",
-      "tweet_id": "2090534925657067653",
-      "translated": "RT @cz_binance：@worldlibertyfi 的重要日子。第一个以 1 美元计价的 RWA 永续市场已经上线，黄金、石油和全球股票现在以 1 美元进行交易。由 2.5 亿美元 WLFI 和 1,250 万美元 USD1 提供支持，以推动流动性和增长。数字美元竞赛已经开始，我们正在为胜利而战。"
+      "id": "tweet_elonmusk_2090489024125509907",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 20 Aug 2026 17:19:57 GMT",
+      "content": "RT by @elonmusk: I’ve spent my life using and building software. With almost no effort, @bot is the first machine I’ve talked to that produced exactly the outcome I desired. A human assistant now feels like the long way around. This may be the best product ever built. Congrats to the @bot team.",
+      "url": "https://x.com/elonmusk/status/2090489024125509907",
+      "tweet_id": "2090489024125509907",
+      "translated": "RT @elonmusk：我一生都在使用和构建软件。几乎不费吹灰之力，@bot 是我交谈过的第一台机器，它产生了我想要的结果。现在感觉人类助理的路还很长。这可能是有史以来最好的产品。恭喜@bot 团队。"
     },
     {
-      "id": "tweet_cz_binance_2090533681769161201",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 20 Aug 2026 20:17:24 GMT",
-      "content": "Cup of tea? Let AI do the trading for you.",
-      "url": "https://x.com/cz_binance/status/2090533681769161201",
-      "tweet_id": "2090533681769161201",
-      "translated": "喝杯茶吗？让人工智能为您进行交易。"
+      "id": "tweet_elonmusk_2090547746918854746",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 20 Aug 2026 21:13:18 GMT",
+      "content": "RT by @elonmusk: Today @POTUS signed a new National Space Transportation Policy, one that meets this moment of explosive growth and positions America to lead the next era of space.   In the 13 years since the last update to the Policy, U.S. launches have surged 10x: from 19 successful orbital launches in 2013 to 178 in 2025. This policy builds on that momentum to enable 1,000 launches and reentries on American soil by 2030.   Most of our launch infrastructure dates back to the 1960s. This Policy catalyzes commercial co-investment to build next-generation launch and reentry sites and designates an additional federal land reentry site to bring operations home.   It expands space transportation to include reentry and in-space operations. This unlocks reverse logistics and new orbital markets. The policy also delivers priority airspace corridors, transparent range allocation, a commercial-first approach enabling Americans on the Moon by 2028 and initial Moon Base elements by 2030, and rapid, resilient launch capabilities for national security. This is how America leads.🚀🇺🇸 https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-launches-the-golden-age-of-space-transportation/",
+      "url": "https://x.com/elonmusk/status/2090547746918854746",
+      "tweet_id": "2090547746918854746",
+      "translated": "RT @elonmusk：今天@POTUS 签署了一项新的国家太空运输政策，该政策迎合了这一爆炸性增长的时刻，并使美国能够引领下一个太空时代。   自上次更新政策以来的 13 年里，美国的发射次数激增了 10 倍：从 2013 年的 19 次成功轨道发射增加到 2025 年的 178 次。该政策在此基础上实现了到 2030 年在美国领土上进行 1,000 次发射和重返大气层的势头。我们的大多数发射基础设施都可以追溯到 20 世纪 60 年代。该政策促进商业共同投资，建设下一代发射和再入场，并指定一个额外的联邦陆地再入场，将运营带回国内。   它将太空运输扩展到包括再入和太空操作。这开启了逆向物流和新的轨道市场。该政策还提供优先空域走廊、透明的范围分配、商业优先的方法，使美国人能够在 2028 年之前登上月球，并在 2030 年之前建立初步的月球基地要素，以及确保国家安全的快速、有弹性的发射能力。美国就是这样领先的。🚀🇺🇸 https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-launches-the-golden-age-of-space-transportation/"
     },
     {
-      "id": "tweet_cz_binance_2090388232873955815",
-      "username": "cz_binance",
-      "display_name": "CZ (赵长鹏)",
-      "published_at": "Thu, 20 Aug 2026 10:39:26 GMT",
-      "content": "RT by @cz_binance: BNB Chain gas spend jumped +40% week-over-week. This comes right after the network added ~124k new RWA holders in just 72 hours. TPS and total transactions are also climbing RWA utilization rises.",
-      "url": "https://x.com/cz_binance/status/2090388232873955815",
-      "tweet_id": "2090388232873955815",
-      "translated": "@cz_binance 转发：BNB 链的 Gas 支出每周增加 40%。这是在网络在短短 72 小时内新增约 12.4 万 RWA 持有者之后发生的。 TPS 和总交易量也在攀升，RWA 利用率也在上升。"
+      "id": "tweet_elonmusk_2090551289612538000",
+      "username": "elonmusk",
+      "display_name": "马斯克",
+      "published_at": "Thu, 20 Aug 2026 21:27:22 GMT",
+      "content": "RT by @elonmusk: Grateful to @POTUS, Director Kratsios @mkratsios47, and the entire OSTP team for spearheading a policy that will ensure American leadership in space 🚀🇺🇸",
+      "url": "https://x.com/elonmusk/status/2090551289612538000",
+      "tweet_id": "2090551289612538000",
+      "translated": "@elonmusk 转发：感谢 @POTUS、Kratsios 主任 @mkratsios47 以及整个 OSTP 团队带头制定一项政策，确保美国在太空领域的领导地位🚀🇺🇸"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2090510568474231045",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 20 Aug 2026 18:45:33 GMT",
+      "content": "After seeing how the robotics and space sectors reacted to Unitree and $SPCX IPOs I’m not quite sure I want Anthropic to go public…",
+      "url": "https://x.com/aleabitoreddit/status/2090510568474231045",
+      "tweet_id": "2090510568474231045",
+      "translated": "在看到机器人和航天领域对 Unitree 和 $SPCX IPO 的反应后，我不太确定我是否希望 Anthropic 上市……"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2090490101260591481",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 20 Aug 2026 17:24:14 GMT",
+      "content": "Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd. The demand visibility... is just way too stupidly high. AOI: “Even combined AOI, Coherent program altogether, is still very tough to meet the customer demand in the next 3 years” (2029) Elazr GM: \"entire optical supply chain was facing major shortages.\" \"The shortage will continue to the next few years\" Sivers CEO said the same thing about InP laser demand imbalances expected for the next 3-5 years. Can go on and on about $LITE, $MTSI and other comments. We haven't even hit the inflection point with 1.6T, NPO, CPO scale out/up, and optics with memory (as seen with SK Hynix). Yet the industry is already bottlenecked by EML/CW and all your other upstream components from PDs/TIA/DSPs, transceivers, and soon FAU + others when CPO scales… I'm personally extremely comfortable watching this all play out, but just a little confused that markets don't know how to math a year or two ahead.",
+      "url": "https://x.com/aleabitoreddit/status/2090490101260591481",
+      "tweet_id": "2090490101260591481",
+      "translated": "非常积极。我的观点是，光学行业最近从 $AAOI 跌至 $SIVE 的表现不佳是荒谬的。需求可见性……太高了。 AOI：“即使将 AOI 与相干公司计划相结合，仍然很难满足未来 3 年内的客户需求” (2029) Elazr 总经理：“整个光学供应链面临严重短缺。” Sivers首席执行官对于预计未来3-5年InP激光器需求失衡也表示了同样的看法，“短缺将持续到未来几年”。可以继续谈论 $LITE、$MTSI 和其他评论。我们甚至还没有达到 1.6T、NPO、CPO 横向扩展/向上扩展以及带有内存的光学器件（如 SK Hynix 所示）的拐点。然而，该行业已经受到 EML/CW 以及 PD/TIA/DSP、收发器等所有其他上游组件的瓶颈，当 CPO 规模扩大时，很快还会出现 FAU + 其他组件……我个人非常乐意看到这一切的发生，但只是有点困惑，因为市场不知道如何计算未来一两年的情况。"
+    },
+    {
+      "id": "tweet_aleabitoreddit_2090374603264929981",
+      "username": "aleabitoreddit",
+      "display_name": "Serenity (白毛股神)",
+      "published_at": "Thu, 20 Aug 2026 09:45:17 GMT",
+      "content": "I'm glad the leverage bros moved from AI stocks back to Hyerliquid and biotech like $MRNA, so maybe we'll see a faster recovery. Aside from that just some TLDR stuff: - $EWY up, primarily from SK Hynix buybacks (they're just too profitable), and Samsung Foundry roughly ~10-15% price hikes. - $SKHY unveils CPO roadmap?? Apparently they're doing something with photonic interposer that links to memory, so I gotta look a bit deeper into this Probably going to be more TAM expansion, more supply chain beneficiaries (eg. lasers, PICs, packaging) off this. - $YMTC pursuing IPO next quarter following CMXT's successful IPO. The Chinese IPO market is just going brrr from Unitree to memory makers. US needs to do something similar rather than IPOing companies at trillion dollar valuations already. - Tyntek limit up there's now order visibility through 2028, given photodiode demand imbalance for photonics. Elazr GM did say the entire optical supply chain was facing major shortages... I'll probably look more at high-end PD bottlenecks next. - MS forecasts a 50% Q/Q price increase for DDR4 for Q3, and 10%+ increase for Q4 2026. (Nanya/2408, Windbond/2344, should be happy). - China reportedly delays clearance from germanium, quartz-based materials, and neodymium magnets To taiwan. So I'll probably have some fun looking into supply chains disruptions there over cup noodles. - High-end PCB drill shortage (still ongoing), Kawei (5498) said AI DCs, servers and optical communications are driving demand for PCBs, HDI and package substrates, while tungsten prices are rising. Though the world's five largest drill manufacturers are aggressively expanding capacity, supply remains far below overall market demand Just stuff I found interesting recently, obviously $MRNA stuff is too.",
+      "url": "https://x.com/aleabitoreddit/status/2090374603264929981",
+      "tweet_id": "2090374603264929981",
+      "translated": "我很高兴杠杆兄弟从人工智能股票转向 Hyerliquid 和 $MRNA 等生物技术，所以也许我们会看到更快的复苏。除此之外，还有一些 TLDR 的东西： - $EWY 上涨，主要来自 SK Hynix 回购（它们利润太高了），以及 Samsung Foundry 大约 10-15% 的价格上涨。 - $SKHY 公布 CPO 路线图？显然他们正在用链接到内存的光子中介层做一些事情，所以我得更深入地研究一下这个。可能会更多的 TAM 扩展，更多的供应链受益者（例如激光器、PIC、包装）。 - 继 CMXT 成功 IPO 后，$YMTC 将于下季度进行 IPO。中国IPO市场刚刚从Unitree转向内存制造商。美国需要做类似的事情，而不是让估值数万亿美元的公司首次公开募股。 - 鉴于光电二极管需求不平衡，Tyntek 限制了 2028 年之前的订单可见度。 Elazr 总经理确实表示整个光学供应链正面临严重短缺……接下来我可能会更多地关注高端 PD 瓶颈。 - MS 预测 2026 年第 3 季度 DDR4 价格将环比上涨 50%，第 4 季度将上涨 10% 以上。（Nanya/2408、Windbond/2344，应该会感到高兴）。 - 据报道，中国推迟了对台湾的锗、石英材料和钕磁铁的清关。所以我可能会很有趣地研究杯面的供应链中断。 - 高端PCB钻头短缺（仍在持续），卡威（5498）表示，AI DC、服务器和光通信正在推动PCB、HDI和封装基板的需求，而钨价则在上涨。尽管世界上最大的五家钻头制造商正在积极扩大产能，但供应量仍然远远低于整体市场需求。这是我最近发现的有趣的东西，显然 $mRNA 的东西也是如此。"
     }
   ],
   "stats": {
-    "users_success": 1,
-    "users_failed": 7,
+    "users_success": 2,
+    "users_failed": 6,
     "nitter_healthy": 10
   }
 }
